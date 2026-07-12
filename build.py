@@ -110,6 +110,24 @@ def parse_rss(xml_text, site):
             if d is not None and (d.text or "").strip():
                 desc = d.text.strip()
                 break
+        
+        # Extract thumbnail
+        thumbnail = ""
+        # 1. Check for enclosure or media:thumbnail
+        media = item.find(".//{http://search.yahoo.com/mrss/}thumbnail") or item.find(".//thumbnail")
+        if media is not None and media.get("url"):
+            thumbnail = media.get("url")
+        if not thumbnail:
+            enc = item.find("enclosure")
+            if enc is not None and enc.get("type", "").startswith("image/") and enc.get("url"):
+                thumbnail = enc.get("url")
+        
+        # 2. Extract from description or encoded content if still no thumbnail
+        if not thumbnail:
+            m = re.search(r'<img[^>]+src=[\"\'](https?://[^\'\">]+)[\"\']', desc, re.IGNORECASE)
+            if m:
+                thumbnail = m.group(1)
+
         desc_clean = strip_html(desc)[:200]
 
         pub_date = ""
@@ -133,6 +151,7 @@ def parse_rss(xml_text, site):
             "description": desc_clean,
             "link": link,
             "pubDate": pub_date,
+            "thumbnail": thumbnail,
         })
 
     return items_data

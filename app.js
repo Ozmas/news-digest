@@ -204,8 +204,13 @@ function buildCard(article, index) {
 
   const safeLink = escapeHtml(article.link || '#');
 
+  const thumbnailHtml = article.thumbnail 
+    ? `<div class="card-thumbnail-container"><img src="${escapeHtml(article.thumbnail)}" class="card-thumbnail" loading="lazy" alt="Thumbnail"></div>`
+    : '';
+
   card.innerHTML = `
     <div class="card-site-bar" style="background: ${gradient}"></div>
+    ${thumbnailHtml}
     <div class="card-body">
       <div class="card-meta">
         <span class="card-site-badge" style="background: ${bgAlpha}; color: ${color};">
