@@ -21,6 +21,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニサマが西日本で初開催！2027は福岡とさいたまスーパーアリーナに",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10546217.html",
+      "pubDate": "2026-07-13T03:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/682a31b2-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】大学教授さん、講義中にヤバすぎるタブが映ってることがバレて終わるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52454788.html",
+      "pubDate": "2026-07-13T03:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/a/0a1fa7df-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "【悲報】ゲーム開発者「Steamレビューは好評なのに、2時間以内にクリアされて返金されてる。この仕組みはおかしい」 → 炎上して低評価爆撃を受けてしまう",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10546244.html",
@@ -483,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/9043905c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ヒカキン、みそきん新作「カレーみそきん」を発表！7月26日に発売開始！！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546095.html",
-      "pubDate": "2026-07-12T17:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68b0bf4e-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +533,6 @@
       "link": "https://jin115.com/archives/52454764.html",
       "pubDate": "2026-07-12T16:20:25+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/8/48d86f75.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "絶賛公開中の新作映画『トイ・ストーリー5』、盗撮ではなくガチの映像データがXで流出！既に○○万回再生され被害額はなんと・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52454770.html",
-      "pubDate": "2026-07-12T16:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/0243a315.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -912,7 +912,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-12T17:55:12.855980",
+  "updatedAt": "2026-07-12T18:57:05.709862",
   "sites": [
     {
       "id": "hachima",
