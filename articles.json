@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d5573fc.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『ヤニねこ』大家さんの声優・稲田徹さんがあまりにも「見た目まで大家すぎる」ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10546225.html",
+      "pubDate": "2026-07-13T06:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9aa4480f.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -470,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/5/a51dfc8a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "連続脱糞事件のヨドバシカメラ池袋、逆に「便意を催しやすい」説ｗｗｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546164.html",
-      "pubDate": "2026-07-12T18:20:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/7463a534.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -912,7 +912,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-12T20:05:50.072050",
+  "updatedAt": "2026-07-12T21:42:10.430071",
   "sites": [
     {
       "id": "hachima",
