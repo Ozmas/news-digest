@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ピングーを子供に見せると悪影響！？子育て中に見せたら「〇〇が遅れた」と話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10546463.html",
+      "pubDate": "2026-07-14T04:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5dcef51b.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「腕立て伏せ100回毎日やってみるわ！」→50日後、マジで凄いことになるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52454862.html",
+      "pubDate": "2026-07-14T03:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/a/fa68c315.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "タイトーが『マジカルミライ』のランダムグッズについて謝罪！「梱包工程に不備」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10546461.html",
+      "pubDate": "2026-07-14T03:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/b/7b7b9db2.png"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -730,19 +769,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ヨドバシカメラ池袋公式「そうめん流し器売ってますよ」⇒ そうめんより便を流せとツッコまれてしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546360.html",
-      "pubDate": "2026-07-13T16:30:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/7463a534.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -754,19 +780,6 @@
       "link": "https://gigazine.net/news/20260713-claude-code-consuming-token/",
       "pubDate": "Mon, 13 Jul 2026 16:20:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】プライムデーで「旧型スクール水着」がセール⇒ レビューを見たらこの世の地獄だった話",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546357.html",
-      "pubDate": "2026-07-13T16:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/57745adf.jpg"
     },
     {
       "siteId": "jin",
@@ -923,19 +936,6 @@
       "link": "https://gigazine.net/news/20260713-grok-build-sending-data/",
       "pubDate": "Mon, 13 Jul 2026 13:10:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "漫画家さんが某社に持ち込みした時に、厳しめに講評された後「ここで帰りますか？まだ聞きますか？」と言われたので残る→物凄く複雑な気持ちにさせられてしまう…",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52454834.html",
-      "pubDate": "2026-07-13T13:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d5f2463.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-13T17:59:24.842137",
+  "updatedAt": "2026-07-13T19:42:10.365745",
   "sites": [
     {
       "id": "hachima",
