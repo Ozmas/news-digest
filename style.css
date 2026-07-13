@@ -799,7 +799,7 @@ body {
   color: var(--text-primary);
   line-height: 1.55;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   overflow: hidden;
   transition: color 0.2s ease;
@@ -817,41 +817,6 @@ body {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
-}
-
-.card-footer {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  padding: 10px 20px 16px;
-}
-
-.card-link-btn {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  font-size: 12px;
-  font-weight: 600;
-  color: var(--text-muted);
-  text-decoration: none;
-  padding: 5px 12px;
-  border-radius: 8px;
-  border: 1px solid transparent;
-  transition: var(--transition);
-}
-
-.card-link-btn:hover {
-  color: var(--accent-purple);
-  border-color: rgba(167, 139, 250, 0.3);
-  background: rgba(167, 139, 250, 0.08);
-}
-
-.card-link-btn svg {
-  transition: transform 0.2s ease;
-}
-
-.card-link-btn:hover svg {
-  transform: translate(2px, -2px);
 }
 
 /* Digest mode - compact cards */
@@ -890,12 +855,6 @@ body {
 
 .digest-mode .card-description {
   display: none;
-}
-
-.digest-mode .card-footer {
-  padding: 10px 16px 12px;
-  align-items: flex-start;
-  justify-content: flex-start;
 }
 
 /* ===== Task Input Area ===== */
@@ -1145,14 +1104,13 @@ body {
     flex-shrink: 0;
   }
   .card-body { padding: 12px 14px; gap: 6px; }
-  .card-title { font-size: 13px; -webkit-line-clamp: 3; }
+  .card-title { font-size: 13px; -webkit-line-clamp: 4; }
   .card-description { display: none; }
-  .card-footer { padding: 6px 14px 10px; }
 }
 
 @media (max-width: 480px) {
   .card-thumbnail-container { width: 80px; min-height: 70px; }
-  .card-title { font-size: 12.5px; -webkit-line-clamp: 2; }
+  .card-title { font-size: 12.5px; -webkit-line-clamp: 3; }
 
   .digest-mode .article-card { flex-direction: row; }
   .digest-mode .card-site-bar { width: 3px; height: auto; }

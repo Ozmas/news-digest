@@ -298,15 +298,6 @@ function initApp() {
         <h2 class="card-title">${escapeHtml(article.title)}</h2>
         ${article.description ? `<p class="card-description">${escapeHtml(article.description)}</p>` : ''}
       </div>
-      <div class="card-footer">
-        <a class="card-link-btn" href="${safeLink}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">
-          記事を読む
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-            <line x1="7" y1="17" x2="17" y2="7"></line>
-            <polyline points="7 7 17 7 17 17"></polyline>
-          </svg>
-        </a>
-      </div>
     `;
 
     card.addEventListener('click', () => {
