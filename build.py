@@ -53,6 +53,42 @@ SITES = [
         "gradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
         "bgAlpha": "rgba(167, 139, 250, 0.12)",
     },
+    {
+        "id": "netlab",
+        "name": "ねとらぼ",
+        "shortName": "ねとらぼ",
+        "rss": "https://rss.itmedia.co.jp/rss/2.0/netlab.xml",
+        "color": "#38bdf8",
+        "gradient": "linear-gradient(135deg, #38bdf8, #34d399)",
+        "bgAlpha": "rgba(56, 189, 248, 0.12)",
+    },
+    {
+        "id": "gigazine",
+        "name": "GIGAZINE",
+        "shortName": "GIGAZINE",
+        "rss": "https://gigazine.net/news/rss_2.0/",
+        "color": "#facc15",
+        "gradient": "linear-gradient(135deg, #facc15, #fb923c)",
+        "bgAlpha": "rgba(250, 204, 21, 0.12)",
+    },
+    {
+        "id": "togetter",
+        "name": "Togetter",
+        "shortName": "Togetter",
+        "rss": "https://togetter.com/rss/recent",
+        "color": "#4ade80",
+        "gradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+        "bgAlpha": "rgba(74, 222, 128, 0.12)",
+    },
+    {
+        "id": "rocketnews",
+        "name": "ロケットニュース24",
+        "shortName": "ロケニュー",
+        "rss": "https://rocketnews24.com/feed/",
+        "color": "#f87171",
+        "gradient": "linear-gradient(135deg, #f87171, #fb923c)",
+        "bgAlpha": "rgba(248, 113, 113, 0.12)",
+    },
 ]
 
 # ===== ヘルパー関数 =====
@@ -202,7 +238,7 @@ def sort_key(a):
 def build():
     from concurrent.futures import ThreadPoolExecutor
     print("Fetching feeds...")
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         results = list(executor.map(fetch_site, SITES))
     
     articles = [a for site_articles in results for a in site_articles]

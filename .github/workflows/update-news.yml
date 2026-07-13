@@ -2,7 +2,7 @@ name: Update News Digest
 
 on:
   schedule:
-    - cron: '0 * * * *' # 毎時0分（1時間に1回）に実行
+    - cron: '*/30 * * * *' # 30分に1回実行
   workflow_dispatch: # 手動で実行ボタンも有効化
 
 permissions:
