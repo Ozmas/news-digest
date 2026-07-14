@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「フジテレビ弁護士から脅し→局長が弁護士を叱る→弁護士が謝罪申し出→佐藤二朗さんは断る」証言がSNSで物議→真相を弁護士に直撃した結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52454917.html",
+      "pubDate": "2026-07-15T01:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/5/85a33fef.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ダイイングライト：ザ・ビースト』PS4/XboxOne版が発売中止「妥協を強いられ、当初目指した体験を提供することを妨げてしまう」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10546796.html",
+      "pubDate": "2026-07-15T01:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/2/125ce906.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "大学教員だが、レジュメ持ち込み可のテストにしたら、テスト後に教室の目の前にあるゴミ箱にレジュメが大量に捨てられていて悲しかった… 捨てるのは分かるが、ただ目の前でやるなよ",
+      "description": "大学教員だが、レジュメ持ち込み可のテストにしたら、テスト後に教室の目の前にあるゴミ箱にレジュメが大量に捨てられていて悲しかった… 捨てるのは分かるが、ただ目の前でやるなよ",
+      "link": "https://togetter.com/li/2720574",
+      "pubDate": "Wed, 15 Jul 2026 00:39:45 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】ChatGPT「れいわの支持は失われていない！山本太郎依存がなくなっただけだ！！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10546701.html",
+      "pubDate": "2026-07-15T00:30:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/5758c7e8.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "エアコンを開発したアメリカ人はマジで日本の神社で神として崇められて良い「エアコンがなかったら居住可能地域が今の10分の1くらいになってそう」",
+      "description": "エアコンを開発したアメリカ人はマジで日本の神社で神として崇められて良い「エアコンがなかったら居住可能地域が今の10分の1くらいになってそう」",
+      "link": "https://togetter.com/li/2720564",
+      "pubDate": "Wed, 15 Jul 2026 00:14:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "送迎の時、たまたま娘に暴言を吐いている子に出会ったので、「〇〇のお母さんだけど、今後うちの子に怖い言葉を言わないでくれる？」とお願いした結果",
+      "description": "送迎の時、たまたま娘に暴言を吐いている子に出会ったので、「〇〇のお母さんだけど、今後うちの子に怖い言葉を言わないでくれる？」とお願いした結果",
+      "link": "https://togetter.com/li/2720542",
+      "pubDate": "Wed, 15 Jul 2026 00:02:34 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本人、泣く　「高市総理誕生時、私は泣いた。日本が変わると思った。希望が戻ったと思った。でも今は失望している。私の一票、私の涙。返してほしい」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52454916.html",
+      "pubDate": "2026-07-15T00:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/1/114743d7-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】女性漫画家「お願いだから一部の男性読者は連絡先や住所を聞こうとしたりしないで！非常に恐怖を感じています」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10546699.html",
+      "pubDate": "2026-07-15T00:00:28+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/7/a/7aa43cf9.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -171,6 +275,19 @@
       "thumbnail": ""
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「ショート動画でよく見るバーテンダーの人って、業界的にはどうなの？」→業界人からのガチな発言がこちら",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52454912.html",
+      "pubDate": "2026-07-14T22:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/51d031d0.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -184,19 +301,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4e58e96a.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「ショート動画でよく見るバーテンダーの人って、業界的にはどうなの？」→業界人からのガチな発言がこちら",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52454912.html",
-      "pubDate": "2026-07-14T22:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/51d031d0.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -207,32 +311,6 @@
       "description": "AIの能力が向上し続ける中で、「AIに仕事を奪われる」という懸念がしばしば話題になります。2026年7月6日からソウルで開催された「国際機械学習会議(ICML 2026)」の基調講演で、プリンストン大学のコンピューターサイエンス教授であるアルヴィンド・ナラヤナン氏が「AIが私たちが現在行っている仕事の多くを担うようになる未来に、私たちはどのように備えるべきでしょうか？」というテーマを語りました。続",
       "link": "https://gigazine.net/news/20260714-ai-left-work/",
       "pubDate": "Tue, 14 Jul 2026 22:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "今回のジャンプ転売で見えたのは、転売ヤーが倫理観のない特殊な悪人というより「みんなNISA感覚で転売をやっている」現実なのかもしれない",
-      "description": "今回のジャンプ転売で見えたのは、転売ヤーが倫理観のない特殊な悪人というより「みんなNISA感覚で転売をやっている」現実なのかもしれない",
-      "link": "https://togetter.com/li/2720508",
-      "pubDate": "Tue, 14 Jul 2026 21:59:56 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「この人は本当にやるなと直感しました」無差別殺傷事件を計画した53歳男性が逮捕されたが、加藤元死刑囚の友人はその犯人に食事をしようと提案していた",
-      "description": "「この人は本当にやるなと直感しました」無差別殺傷事件を計画した53歳男性が逮捕されたが、加藤元死刑囚の友人はその犯人に食事をしようと提案していた",
-      "link": "https://togetter.com/li/2720506",
-      "pubDate": "Tue, 14 Jul 2026 21:50:01 +0900",
       "thumbnail": ""
     },
     {
@@ -285,19 +363,6 @@
       "description": "ボクセル風の東京を走る山手線の車窓を眺めながら、日本語を学習できる無料のウェブコンテンツ「densha」が、日本語学習サイト・JIVXによって公開されています。実際の日本の時刻、天候、季節に連動した街並みの中を電車が走り、Lo-Fi音楽を背景に、日本語能力試験N5相当の短い例文が音声と字幕で流れます。続きを読む...",
       "link": "https://gigazine.net/news/20260714-densha/",
       "pubDate": "Tue, 14 Jul 2026 21:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "とあるラトビア名物を日本人に見せると「揚げパン」と言われるがまったくパンではない話…これは味も気になる",
-      "description": "とあるラトビア名物を日本人に見せると「揚げパン」と言われるがまったくパンではない話…これは味も気になる",
-      "link": "https://togetter.com/li/2720496",
-      "pubDate": "Tue, 14 Jul 2026 20:43:45 +0900",
       "thumbnail": ""
     },
     {
@@ -691,19 +756,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/b/9beee8e1.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "熱中症の症状や対策を説明する野獣先輩のポスターがなぜかとてもまともに見えると話題にｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546644.html",
-      "pubDate": "2026-07-14T14:30:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e013af6d.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -715,19 +767,6 @@
       "link": "https://gigazine.net/news/20260714-eu-russian-cyber-spies/",
       "pubDate": "Tue, 14 Jul 2026 14:28:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大阪・道頓堀で火災が起き消防隊2人が死亡した件、出火原因はタバコのポイ捨てか　従業員を書類送検",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546641.html",
-      "pubDate": "2026-07-14T14:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a1374fb7.jpg"
     },
     {
       "siteId": "jin",
@@ -767,19 +806,6 @@
       "link": "https://gigazine.net/news/20260714-sugar-from-interstellar-space/",
       "pubDate": "Tue, 14 Jul 2026 14:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "NEXCO西日本「毎年、大津SAびわ湖大花火大会をタダ見する人いる。今年は徹底排除するから全面閉鎖するわ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546630.html",
-      "pubDate": "2026-07-14T13:40:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/3/c3f410da-s.png"
     },
     {
       "siteId": "gigazine",
@@ -1014,32 +1040,6 @@
       "link": "https://jin115.com/archives/52454879.html",
       "pubDate": "2026-07-14T09:00:18+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/c/cc9f0984.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安速報】浦安鉄筋家族、バチバチ、クジラの子らは砂上に歌うなどがKindle全巻99円に！秋田書店セール開始！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52454888.html",
-      "pubDate": "2026-07-14T08:40:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/c/3c325ea9.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "サッカー森保監督、続投か！？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52454880.html",
-      "pubDate": "2026-07-14T08:20:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/d/5d3c8c9c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-14T14:57:48.015165",
+  "updatedAt": "2026-07-14T16:22:37.916974",
   "sites": [
     {
       "id": "hachima",
