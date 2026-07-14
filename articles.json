@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「代わりはたくさんいるから別にいいの？書店員は使い捨てですか？」転売ヤーとの戦いに心折れて辞める書店員がいる現状…改善するにはどうすればいいのか",
+      "description": "「代わりはたくさんいるから別にいいの？書店員は使い捨てですか？」転売ヤーとの戦いに心折れて辞める書店員がいる現状…改善するにはどうすればいいのか",
+      "link": "https://togetter.com/li/2720618",
+      "pubDate": "Wed, 15 Jul 2026 05:31:13 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "大人気日常コメディ『魔法少女三十路』が1～6巻まで「全巻110円」で買える激安セール開催！！最新第7巻発売記念キャンペーン！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52454921.html",
+      "pubDate": "2026-07-15T05:30:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60fb037a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "メンタリストDaigoさん「犯罪犯す移民は脅威となる外来種」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52454922.html",
+      "pubDate": "2026-07-15T05:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/a/ba3da9b9.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "不正アクセスによるシステム障害で『ケンタッキーフライドチキン』がピンチ！商品供給が困難",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10546797.html",
+      "pubDate": "2026-07-15T05:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/8/28a7503d-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "シンガポール国立大学の教員住宅にいた頃、住人向け電子掲示板に「夜な夜なフルアーマーで絶叫しながら棒でしばき合う連中の騒音」というトピックがあった…剣道の事だった",
+      "description": "シンガポール国立大学の教員住宅にいた頃、住人向け電子掲示板に「夜な夜なフルアーマーで絶叫しながら棒でしばき合う連中の騒音」というトピックがあった…剣道の事だった",
+      "link": "https://togetter.com/li/2720613",
+      "pubDate": "Wed, 15 Jul 2026 04:59:49 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "富山の53歳が起こそうとした無差別殺人計画…それを食い止めたのは秋葉原通り魔事件の犯人の友人だった話",
+      "description": "富山の53歳が起こそうとした無差別殺人計画…それを食い止めたのは秋葉原通り魔事件の犯人の友人だった話",
+      "link": "https://togetter.com/li/2720611",
+      "pubDate": "Wed, 15 Jul 2026 04:34:12 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -249,19 +327,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/0/9062a73e.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『みい山』の小悪魔的スピンオフが爆誕…! 日々のストレスに限界を迎えそうなキャバクラ店テンチョウが織り成す、みいちゃんと過ごした、もう一つの2012年の物語『新宿解消録テンチョウ』",
-      "description": "『みい山』の小悪魔的スピンオフが爆誕…! 日々のストレスに限界を迎えそうなキャバクラ店テンチョウが織り成す、みいちゃんと過ごした、もう一つの2012年の物語『新宿解消録テンチョウ』",
-      "link": "https://togetter.com/li/2720523",
-      "pubDate": "Tue, 14 Jul 2026 23:10:08 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -298,32 +363,6 @@
       "description": "イーロン・マスク氏が率いる宇宙開発企業のSpaceXは現地時間の2026年5月22日(金)、再使用型の超大型ロケット・Starshipの改良版である「Starship V3」の打ち上げに成功しました。そんなStarship V3の打ち上げに向けて奔走するエンジニアたちの姿を捉えたドキュメンタリー「Critical Path」が、YouTubeで無料公開されています。続きを読む...",
       "link": "https://gigazine.net/news/20260714-starship-critical-path/",
       "pubDate": "Tue, 14 Jul 2026 23:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「ヤニねこ」のドラッグネタでヤクねこの部屋の上の屋上部分だけが雪が解けてて通報される描写が好き…それだけで察するお詳しい人々",
-      "description": "「ヤニねこ」のドラッグネタでヤクねこの部屋の上の屋上部分だけが雪が解けてて通報される描写が好き…それだけで察するお詳しい人々",
-      "link": "https://togetter.com/li/2720520",
-      "pubDate": "Tue, 14 Jul 2026 22:50:45 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "初めて富士山を登りに行くことになった方が会社の登山経験者に「モンベルという店に行け」と促され、お店の人に気持ちよくアシストしてもらえた話",
-      "description": "初めて富士山を登りに行くことになった方が会社の登山経験者に「モンベルという店に行け」と促され、お店の人に気持ちよくアシストしてもらえた話",
-      "link": "https://togetter.com/li/2720519",
-      "pubDate": "Tue, 14 Jul 2026 22:46:40 +0900",
       "thumbnail": ""
     },
     {
@@ -637,19 +676,6 @@
       "link": "https://jin115.com/archives/52454905.html",
       "pubDate": "2026-07-14T17:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/8/8835132e.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【噂】任天堂、スイッチ2の『有機ELモデル』を検討中との報道！早ければ2027年末から2028年初めに量産開始か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546678.html",
-      "pubDate": "2026-07-14T17:00:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/9/a973af5f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -990,19 +1016,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/3/638115b4.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】「モラハラ夫」の正体、実は○○なのではと話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52454881.html",
-      "pubDate": "2026-07-14T10:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b9e78631.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1014,19 +1027,6 @@
       "link": "https://rocketnews24.com/2026/07/14/2779740/",
       "pubDate": "Tue, 14 Jul 2026 01:00:26 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/C761BAB7-03F4-4CB2-A307-08EEFFAD93A7_1920.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "教授「次の試験、片面だけならカンペ持ち込みOKにするわ」→とある学生が天才的方法で無双へｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52454876.html",
-      "pubDate": "2026-07-14T09:30:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1c86f359.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-14T19:27:08.175229",
+  "updatedAt": "2026-07-14T20:40:11.947720",
   "sites": [
     {
       "id": "hachima",
