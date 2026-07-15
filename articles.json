@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "映画の予告編やエンドロール中に会話するのはあり？なし？ネットで大議論に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547112.html",
+      "pubDate": "2026-07-16T06:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e03421f1.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "佐藤二朗さん、久々にXでポスト投稿→その内容に称賛の嵐",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52454993.html",
+      "pubDate": "2026-07-16T06:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/4/54f85468-s.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "所得格差が大きい地域ほど劇場や博物館などに出かける人が少ないとの研究結果",
+      "description": "イタリアの全20州を12年間にわたって分析した研究で、所得格差が大きい州ほど映画館・劇場・博物館・コンサートなど自宅外の文化活動に積極的に参加する人の割合が低い傾向が示されました。続きを読む...",
+      "link": "https://gigazine.net/news/20260716-income-inequality-cultural-participation/",
+      "pubDate": "Thu, 16 Jul 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "速水もこみちが飲食店を開業！自らシェフも担当",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547117.html",
+      "pubDate": "2026-07-16T05:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/4/64ed88f1.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【朗報】速水もこみちさん、飲食店開業！シェフはもちろん・・・！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52454982.html",
+      "pubDate": "2026-07-16T05:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26479ff9.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】とんがりコーンが容量を10％減に。こんなに細くなっちまって……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10546969.html",
+      "pubDate": "2026-07-16T05:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/5/6528a7c6.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -587,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/6/b69f309f.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "投資系YouTuber「この株価上がります！」 → 見ていたリスナーが信じた結果、大損 → YouTuberの居場所を突き止め、刃物で襲撃し滅多刺しにしてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546974.html",
-      "pubDate": "2026-07-15T19:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/6/9659823d-s.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -639,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/8/d82662e7.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【女性配信者刺殺事件】高野健一被告に懲役16年の実刑判決！求刑から2割減",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546963.html",
-      "pubDate": "2026-07-15T18:30:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/be8809cd.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +715,6 @@
       "link": "https://jin115.com/archives/52454973.html",
       "pubDate": "2026-07-15T18:20:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/af85de02.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "国産SNS『POPOPO』が半年でサービス終了、GACKT、ひろゆき、川上量生、庵野秀明が名を連ねていたのに…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10546959.html",
-      "pubDate": "2026-07-15T18:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75cce09b-s.jpg"
     },
     {
       "siteId": "jin",
@@ -730,19 +769,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ひろゆきたちが手掛けた懇親の国産SNS『POPOPO』、サービス開始から4ヶ月後、マジのガチで最悪の結果に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52454967.html",
-      "pubDate": "2026-07-15T17:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/7814d51e.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -767,19 +793,6 @@
       "link": "https://gigazine.net/news/20260715-majimori-garlic-oil/",
       "pubDate": "Wed, 15 Jul 2026 17:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ディズニーランド、再び値上げ…今こんなに高いのかよ！？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52454954.html",
-      "pubDate": "2026-07-15T16:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/d/5d8c05b0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -948,19 +961,6 @@
       "description": "MetaがAIを駆使し、障がい者や病気休暇中の従業員を不当に解雇したとして、同社を訴える新しい訴訟が提起されました。続きを読む...",
       "link": "https://gigazine.net/news/20260715-lawsuit-claims-meta-layoff-decisions-ai/",
       "pubDate": "Wed, 15 Jul 2026 12:16:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "iPhoneでローカル実行可能な270億パラメータのAIモデル「Bonsai 27B」が登場、Qwen3.6-27Bをメモリ使用量3.9GBまで小型化してスマホ単体で実用的な速度で動作",
-      "description": "AI開発企業のPrismMLが270億パラメータのAIモデルをスマートフォンで動かせるように圧縮した「Bonsai 27B」を正式発表しました。容量を3.9GBに抑えた1ビット版でも元になった「Qwen3.6-27B」の性能を約90％維持しているとPrismMLは説明しています。続きを読む...",
-      "link": "https://gigazine.net/news/20260715-bonsai-27b/",
-      "pubDate": "Wed, 15 Jul 2026 12:10:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-15T19:46:23.887314",
+  "updatedAt": "2026-07-15T21:05:31.530022",
   "sites": [
     {
       "id": "hachima",
