@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "末期がんの父は「おかしいな。見えなくなってきた…」が最期の言葉で、目からフッと光が消えて呼吸は「吸って」止まった…穏やかに亡くなるときは眠る時に似ている",
+      "description": "末期がんの父は「おかしいな。見えなくなってきた…」が最期の言葉で、目からフッと光が消えて呼吸は「吸って」止まった…穏やかに亡くなるときは眠る時に似ている",
+      "link": "https://togetter.com/li/2721074",
+      "pubDate": "Thu, 16 Jul 2026 07:31:03 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】ubiのハワイオープンワールドドライブゲーム『ザ・クルー：モーターフェス』、Switch2版が登場！　Amazonで予約スタート",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547174.html",
+      "pubDate": "2026-07-16T07:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/8/28fa5b56.jpg"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "体感マイナス10℃って本当？水だけで冷える\"かぶる冷却キャップ\"が酷暑の救世主だった【着用レビュー】",
+      "description": "「本当に涼しいの？」と半信半疑で試したら、想像以上のひんやり感。coolbit（クールビット）の冷える帽子を実際に使ってみました！頭や首まわりが心地よく冷えて、真夏の外出やスポーツ観戦、ウォーキングにもぴったり。さらに冷たさをアップさせる、筆者おすすめの使い方も紹介します。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/nanamioyamada/coolbit-202607",
+      "pubDate": "Wed, 15 Jul 2026 18:01:04 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "マチアプで会った男性研修医「森鴎外の『舞姫』は男のロマンだね！俺もこうなりたい」　→　読書好きの女性が聞いた結果、とんでもないことにｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547170.html",
+      "pubDate": "2026-07-16T07:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bbec2534.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市首相「円安・長期金利上昇の原因は政府じゃない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52454998.html",
+      "pubDate": "2026-07-16T07:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/793514a2.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "別々に来い！ トラウマになった少年！　四コマサボタージュFB第44回「見たい夢」",
+      "description": "最近、眠っていて夢を見たってことがない気がするんだ。ひょっとしたら起きた時点で忘れただけなのかもしれないけど。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/07/16/2778245/",
+      "pubDate": "Wed, 15 Jul 2026 22:00:38 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-144.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "『アンナ・カレーニナ』『白鯨』『グレート・ギャツビー』など有名な小説の冒頭部分がランダムで表示される「Verba Prima」",
+      "description": "SNSでは「印象に残った小説の冒頭」が話題になることが多々あり、お気に入りの小説の書き出しがあるという人もいるはず。「Verba Prima」は、有名な文学作品の冒頭部分がランダムで表示されるシンプルなウェブサイトとなっています。続きを読む...",
+      "link": "https://gigazine.net/news/20260716-verba-prima-famous-literary-works-opening/",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -548,19 +639,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「もう隠す気ないねw」まだ発表もされていない『折りたたみiPhone』のケースがAmazonで何種類も売られている…デザインに対する厳しい意見も",
-      "description": "「もう隠す気ないねw」まだ発表もされていない『折りたたみiPhone』のケースがAmazonで何種類も売られている…デザインに対する厳しい意見も",
-      "link": "https://togetter.com/li/2720894",
-      "pubDate": "Wed, 15 Jul 2026 20:46:32 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -600,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/93646e7a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【怖すぎ】病院で点滴チューブに排せつ物混入し75歳男性を殺害か　51歳の助産師の女を殺人容疑で逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547080.html",
-      "pubDate": "2026-07-15T20:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/7/975e4c9c.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -624,19 +689,6 @@
       "link": "https://gigazine.net/news/20260715-thunder-3-yuuki-ikeda-interview/",
       "pubDate": "Wed, 15 Jul 2026 20:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ドラゴンズドグマ2』開発陣「スイッチ2版は予想以上のパフォーマンス、すでに30fps以上で動いている」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547057.html",
-      "pubDate": "2026-07-15T19:30:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d038267b.jpg"
     },
     {
       "siteId": "jin",
@@ -741,19 +793,6 @@
       "link": "https://jin115.com/archives/52454955.html",
       "pubDate": "2026-07-15T17:40:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/e/1e2543e0.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【77円】『第七女子会彷徨』 『麗島夢譚』 『夜光雲のサリッサ』など、リュウコミックスの人気漫画が「77円」で買える激安セール開催！！このチャンスを見逃すな！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52454964.html",
-      "pubDate": "2026-07-15T17:20:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/e/1e46ec34.jpg"
     },
     {
       "siteId": "gigazine",
@@ -948,19 +987,6 @@
       "description": "セキュリティ研究者が、「Microsoft Defender」に端末のストレージを過剰に消費してしまう脆弱(ぜいじゃく)性があることを発見しました。続きを読む...",
       "link": "https://gigazine.net/news/20260715-microsoft-defender-fill-storage/",
       "pubDate": "Wed, 15 Jul 2026 12:29:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "MetaがAIを用いて不当に従業員を解雇したとして元従業員に訴えられる",
-      "description": "MetaがAIを駆使し、障がい者や病気休暇中の従業員を不当に解雇したとして、同社を訴える新しい訴訟が提起されました。続きを読む...",
-      "link": "https://gigazine.net/news/20260715-lawsuit-claims-meta-layoff-decisions-ai/",
-      "pubDate": "Wed, 15 Jul 2026 12:16:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1211,19 +1237,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/famimapark.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【コラム】「毎日やらなきゃ」をやめたら、毎日が楽しくなった",
-      "description": "あきらめないでコツコツ続けることって、本当に大事だと思う。 しかも、ものすごくお得だ。 続くかどうかは、その日の気分にも左右される。 だから私は「毎日やらなきゃ」とは考えない。 できる日はやる。できない日は休む。 それで [&#8230;]",
-      "link": "https://rocketnews24.com/2026/07/14/2780804/",
-      "pubDate": "Mon, 13 Jul 2026 23:00:50 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/top_dfd72f.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1261,19 +1274,6 @@
       "link": "https://www.buzzfeed.com/jp/buzzfeedjapanshopping/cap-washer-1-202607",
       "pubDate": "Mon, 13 Jul 2026 04:01:04 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2025-06/13/07/subbuzz/ay3O192vV.jpg?crop=2880:1920;0,238&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "【Amazonプライムデー終了直前】新米予約5kgあたり2395円ってまじか…読者がリアルに買った“今めっちゃ売れてる名品”だけ8つまとめてみた",
-      "description": "Amazonプライムデーは7月13日（月）23時59分に終了！ 癒しフェイスの「オタマトーン」や毎日がちょっとラクになる「ゆでたまご器」、常備食品「とろうま牛角煮カレー」にドリンクが薄くならない「溶けない氷」など今お得な人気商品をピックアップしましたView Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yumikotomita/amazon-primesale-end",
-      "pubDate": "Mon, 13 Jul 2026 02:01:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/13/04/thumb/3QvMv9mua.jpg?crop=1245:830;2,0&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「倩」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「倩」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「倩」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3730961",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "収納も、お湯を沸かす時間も快適に。取っ手がたためる「COPAN」のやかん",
       "description": "※この記事は2025年9月27日に公開された記事を編集して再掲載しています。  ※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  やかんって、取っ手を下に下ろすことはできても、上に何かを置 [&#8230;]",
       "link": "https://getnews.jp/archives/3730957",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3730942",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【愛知県名古屋市】丸善名古屋本店に愛知･名古屋アジア･アジアパラ競技大会公式ライセンスショップOPEN",
-      "description": "愛知･名古屋アジア･アジアパラ競技大会組織委員会が、​今年開催される愛知･名古屋アジア･アジアパラ競技大会の公式ライセンスグッズを取り扱う「愛知・名古屋2026公式ライセンスショップ 丸善名古屋本店店」を、7月10日(金 [&#8230;]",
-      "link": "https://getnews.jp/archives/3730943",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-15T21:05:31.530022",
+  "updatedAt": "2026-07-15T22:31:27.384748",
   "sites": [
     {
       "id": "hachima",
