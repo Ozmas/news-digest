@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ひろゆき、国産SNS『POPOPO』失敗を認めて謝罪！「力不足ですいません。。。」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547427.html",
+      "pubDate": "2026-07-17T01:30:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/8787c130.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『J⇔M　ジェイエム』 『ニセモノの錬金術師』 『いとこのこ』など、KADOKAWAの人気作品が「最安99円」の激安セール開催！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455064.html",
+      "pubDate": "2026-07-17T01:30:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/2/42a79e41.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "コンビニの駐車場に窓を全開にしてエンジン止めてる車があり、中に汗びっしょりでグッタリしてるおじさんが。心配して声をかけたら、意外な反応が返ってきた",
+      "description": "コンビニの駐車場に窓を全開にしてエンジン止めてる車があり、中に汗びっしょりでグッタリしてるおじさんが。心配して声をかけたら、意外な反応が返ってきた",
+      "link": "https://togetter.com/li/2721356",
+      "pubDate": "Fri, 17 Jul 2026 01:17:36 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ディスク問題】海外ゲーマー、ソニーに対してボイコット運動を開始！DL専売ソフトにも「PS5版で遊ぶな！」とSNSで呼びかけ　1.2万いいね獲得",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547434.html",
+      "pubDate": "2026-07-17T01:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/8/382551ac.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "在留資格を持たないクルド人学生達「日本で育ったのに、見捨てられて…支援してよ！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455032.html",
+      "pubDate": "2026-07-17T01:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa8aa34d.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「いつも自宅まで車で送ってあげてる友達」からコインパーキング代を借りた人、次会ったときに真っ先にお金を請求され悲しくなる→善意も当たり前になるとモヤってしまうという話",
+      "description": "「いつも自宅まで車で送ってあげてる友達」からコインパーキング代を借りた人、次会ったときに真っ先にお金を請求され悲しくなる→善意も当たり前になるとモヤってしまうという話",
+      "link": "https://togetter.com/li/2721355",
+      "pubDate": "Fri, 17 Jul 2026 00:59:43 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "運転免許の学科試験模擬テストを解いていたら、おもわず「いい加減にしろよお前」と言いたくなる問題が出てきた… 書いてある内容はわかるが、この書き方はないだろ",
+      "description": "運転免許の学科試験模擬テストを解いていたら、おもわず「いい加減にしろよお前」と言いたくなる問題が出てきた… 書いてある内容はわかるが、この書き方はないだろ",
+      "link": "https://togetter.com/li/2721351",
+      "pubDate": "Fri, 17 Jul 2026 00:47:10 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "料理研究家リュウジ「そこまで言うなら作り方教えてくださいよ」→ アンチ「ほらよ」⇒ 完全敗北してしまうｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547370.html",
+      "pubDate": "2026-07-17T00:30:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4af62f9e.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -249,19 +353,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「中学生レベルの英語力」の娘が軽い気持ちでワーホリに行った結果、親ですら「なんなんだあいつ」と思うレベルで住まいから働き口まで物事が進みまくってた",
-      "description": "「中学生レベルの英語力」の娘が軽い気持ちでワーホリに行った結果、親ですら「なんなんだあいつ」と思うレベルで住まいから働き口まで物事が進みまくってた",
-      "link": "https://togetter.com/li/2721282",
-      "pubDate": "Thu, 16 Jul 2026 21:12:43 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -301,19 +392,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "3〜4歳ぐらいの女児を連れたパパさんが多目的トイレを待っていたが、なかなか空かず女児が泣き出してしまった→居ても立ってもいられず声をかけ「私で良ければ連れて行きます」",
-      "description": "3〜4歳ぐらいの女児を連れたパパさんが多目的トイレを待っていたが、なかなか空かず女児が泣き出してしまった→居ても立ってもいられず声をかけ「私で良ければ連れて行きます」",
-      "link": "https://togetter.com/li/2721275",
-      "pubDate": "Thu, 16 Jul 2026 20:42:13 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -325,19 +403,6 @@
       "link": "http://blog.esuteru.com/archives/10547383.html",
       "pubDate": "2026-07-16T20:30:50+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/4133a604.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "非常時の知識としてはあるけど、未経験の「カップヌードルを水だけで食う」を実践…水を入れて1時間ちょっと待って食べてみると「あれ、意外とイケるぞ」→袋麺でもいける",
-      "description": "非常時の知識としてはあるけど、未経験の「カップヌードルを水だけで食う」を実践…水を入れて1時間ちょっと待って食べてみると「あれ、意外とイケるぞ」→袋麺でもいける",
-      "link": "https://togetter.com/li/2721269",
-      "pubDate": "Thu, 16 Jul 2026 20:30:42 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -665,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/eb836834.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ビッグダディさん、8度目の結婚→たった１ヶ月で離婚危機",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547264.html",
-      "pubDate": "2026-07-16T16:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/3/0344950a.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -702,19 +754,6 @@
       "link": "https://gigazine.net/news/20260716-samsung-flex-titanium-technology/",
       "pubDate": "Thu, 16 Jul 2026 15:50:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】バケモンすぎるおばさんが電車で発見されてしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547263.html",
-      "pubDate": "2026-07-16T15:30:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/33ae5e3d.jpg"
     },
     {
       "siteId": "gigazine",
@@ -754,19 +793,6 @@
       "link": "https://jin115.com/archives/52455041.html",
       "pubDate": "2026-07-16T15:00:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db4c7a3f.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】41歳の美容外科医さん、誕生日ケーキからミス東大の女子大生と付き合ってると特定され炎上",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547255.html",
-      "pubDate": "2026-07-16T15:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4a8235cf.jpg"
     },
     {
       "siteId": "gigazine",
@@ -925,19 +951,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2022-06/26/4/asset/c2c53cd337cd/sub-buzz-4084-1656218695-3.jpg?crop=3000:2000;0,27&resize=1250:830"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【強い】理科の授業で「自由に魔改造してOKなミニ四駆風レース」を開催→レギュレーション違反レベルの“ガチ装備”を持ち込んだ女の子が圧勝してしまうｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455009.html",
-      "pubDate": "2026-07-16T12:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1600e1fa.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -949,19 +962,6 @@
       "link": "https://rocketnews24.com/2026/07/16/2781931/",
       "pubDate": "Thu, 16 Jul 2026 02:55:30 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/eyecatch.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "新型コロナ、ここにきて感染拡大！変異種「◯◯型」がついに姿を現す",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455019.html",
-      "pubDate": "2026-07-16T11:30:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/1/b1aed7e3.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-16T15:17:59.977961",
+  "updatedAt": "2026-07-16T16:50:04.851231",
   "sites": [
     {
       "id": "hachima",
