@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "道端に羽化失敗したセミの幼虫がいて、まだ動いてたので手で持って様子見てたら羽化再開してそのまま家着いて今30分手で持ってます→キタキタ！！！！",
+      "description": "道端に羽化失敗したセミの幼虫がいて、まだ動いてたので手で持って様子見てたら羽化再開してそのまま家着いて今30分手で持ってます→キタキタ！！！！",
+      "link": "https://togetter.com/li/2721404",
+      "pubDate": "Fri, 17 Jul 2026 07:27:52 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】ラノベ業界、ヤバいことになってた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455056.html",
+      "pubDate": "2026-07-17T07:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/00834870.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "その流れだと…！ 真実を明かされた青年！　四コマサボタージュFB第45回「媒体」",
+      "description": "ゲームもいつの間にかパッケージのモノを買うよりダウンロードするようになっちゃったよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/07/17/2778246/",
+      "pubDate": "Thu, 16 Jul 2026 22:00:31 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-145.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】中学生レベルの英語力の女性、軽い気持ちで異国のワーホリに行く　→　ガチのマジでとんでもない結果になり全日本人騒然！　すげええええ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547476.html",
+      "pubDate": "2026-07-17T07:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/1/f15de61f.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "文学賞はどのような仕組みで決まるのか？ピューリッツァー賞審査員が文学賞の裏側を語る",
+      "description": "イギリスの児童文学賞「カーネギー賞」の受賞やアメリカの「ピューリッツァー賞」最終候補選出などの経歴を持つ小説家のレベッカ・マカーイ氏が、「文学賞はあなたが考えているような仕組みではない」というブログで文学賞の審査の舞台裏を明かしています。続きを読む...",
+      "link": "https://gigazine.net/news/20260717-book-prizes/",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ふかふかダンジョン攻略記』最新19巻まで「50％ポイント還元」セール！6,495円分返ってくる！異世界チート無双を全否定するリアルな転生モノ！お色気要素も満載！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455075.html",
+      "pubDate": "2026-07-17T06:30:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/44cacc5f.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +561,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "世界のナベアツが全盛期だった頃『ナベアツのせいで算数の授業がまともに進められない』という小学校教師のクレームがあったらしい",
-      "description": "世界のナベアツが全盛期だった頃『ナベアツのせいで算数の授業がまともに進められない』という小学校教師のクレームがあったらしい",
-      "link": "https://togetter.com/li/2721284",
-      "pubDate": "Thu, 16 Jul 2026 21:13:44 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -691,19 +756,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "半年でサ終発表の国産SNS『POPOPO』、川上量生氏がとんでもない金額ブッ込んで作っていたと判明！ネット民たち驚愕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547372.html",
-      "pubDate": "2026-07-16T18:40:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/a/7afeb5ac-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,32 +780,6 @@
       "link": "https://jin115.com/archives/52455045.html",
       "pubDate": "2026-07-16T18:00:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/653ea947.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "大谷翔平選手、週刊誌に○○現場を撮られてしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455039.html",
-      "pubDate": "2026-07-16T17:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/a/8aa199a4.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『葬送のフリーレン』X公式、意味深な投稿・・・まさかのあの超大手ゲームとコラボか！？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455049.html",
-      "pubDate": "2026-07-16T17:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/398d0270.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -975,19 +1001,6 @@
       "link": "https://rocketnews24.com/2026/07/16/2781931/",
       "pubDate": "Thu, 16 Jul 2026 02:55:30 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/eyecatch.jpg"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Googleの24時間稼働AIエージェント「Gemini Spark」が日本語で利用可能に",
-      "description": "GoogleがAIエージェント「Gemini Spark」の日本語での展開を2026年7月16日に開始しました。Gemini Sparkは個人最適化された24時間稼働のAIエージェントで、自然言語での対話で各種タスクを実行させることができます。続きを読む...",
-      "link": "https://gigazine.net/news/20260716-gemini-spark-japanese/",
-      "pubDate": "Thu, 16 Jul 2026 11:20:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1261,19 +1274,6 @@
       "link": "https://rocketnews24.com/2026/07/15/2781716/",
       "pubDate": "Tue, 14 Jul 2026 23:00:31 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tyugoku4.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ソレが良いニュースってことは…！ 予想ができてしまったお父さん！　四コマサボタージュFB第43回「良い知らせ悪い知らせ」",
-      "description": "ユーチューブで空き物件を紹介する動画をちょこちょこ見るんだ。別に住むってワケじゃないのだけど、見ていて楽しいんだよね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/07/15/2778244/",
-      "pubDate": "Tue, 14 Jul 2026 22:00:46 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-143.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,9 +1698,74 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "レキシ、アコースティックツアー名は”稲・遷都・ワールド”",
+      "description": "レキシが10月からスタートするアコースティックツアーのタイトルが「レキシ アコースティックツアー2026 ～稲・遷都・ワールド～」に決定した。 タイトル発表にあわせて、ツアーのメインビジュアルも解禁された。 バンドメンバ [&#8230;]",
+      "link": "https://getnews.jp/archives/3731221",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「凱」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「凱」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「凱」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3731217",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "AIフュージョンキャピタルグループ 新業態「二代目ひつまぶしの成瀬」開業記念の株主優待制度が◎　特別優待は通常の2倍！ 1単元で1万円相当ってスゴっ☆",
+      "description": "AIフュージョンキャピタルグループ（東証スタンダード：254A、代表取締役社長：澤田大輔）の株主優待制度がいまスゴイ☆ AIフュージョンキャピタルに新たに設定された株主優待制度は、新業態「二代目ひつまぶしの成瀬」展開開始 [&#8230;]",
+      "link": "https://getnews.jp/archives/3731218",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "松下洸平、新曲リリース&博物館で撮影したMV公開",
       "description": "松下洸平が2026年7月17日(金)にニューシングル「Journey」をリリースし、ミュージックビデオを公開した。 本作は、ソニーミュージックレーベルズ移籍第1弾となる作品。ゴスペルのテイストを取り入れたサウンドに、長い [&#8230;]",
       "link": "https://getnews.jp/archives/3731215",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "FRUITS ZIPPER、4周年記念ツアー完走",
+      "description": "FRUITS ZIPPERが今年4月からスタートした初の全国アリーナツアーが7月15日（水）マリンメッセ福岡A館公演を持って終了した。 本ツアーは、すべての公演を異なるセットリストで展開。福岡で迎えた最終公演は、このツア [&#8230;]",
+      "link": "https://getnews.jp/archives/3731223",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "櫻井優衣、つんく♂ 提供曲配信リリース決定",
+      "description": "FRUITS ZIPPERの櫻井優衣が新曲「My Telepathy！私の熱い光線」を7月22日に配信リリースする。 「My Telepathy！私の熱い光線」は、「リズム天国」シリーズ完全新作『リズム天国 ミラクルスタ [&#8230;]",
+      "link": "https://getnews.jp/archives/3731222",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1755,74 +1820,9 @@
       "link": "https://getnews.jp/archives/3731208",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【那覇グルメ】最強の沖縄そば屋のおかみさんが教えてくれたステーキ屋に行った結果 / ピッツバーグ・フォーラム",
-      "description": "沖縄県において、始祖とも原生ともいえる「昔の沖縄そばの味」そのままを体験できる食堂がある。 それは「いろは食堂」(沖縄県南城市知念字知念936)。 ここで出される沖縄そばは、昔ながらの味を守り続けており、他では味わえない [&#8230;]",
-      "link": "https://getnews.jp/archives/3730596",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "アイロンの頻度が激減！「吹きかけるだけでシワが伸びるスプレー」が優秀だった",
-      "description": "着ようと思っていた服がシワシワだとげんなりしますよね。 毎日アイロンを出すのは面倒だし、かといってシワシワも嫌だし…… シワが取れるスプレー 白元アース「ノンスメル清水香 衣類のしわとりプラス」593円（税込） どうにか [&#8230;]",
-      "link": "https://getnews.jp/archives/3731207",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "森永アイスボックスが、西武園ゆうえんちスタッフを応援！“厳しい暑さを先回りで支える”「プレクーリング」手法を実施",
-      "description": "森永製菓株式会社は、人気のアイスボックスのテーマである「暑さに負けずにがんばる人をサポート」取り組みの一環として、西武園ゆうえんち（埼玉県所沢市）にて、来場者を迎えるキャスト・運営スタッフを応援する“アイスボックス差し入 [&#8230;]",
-      "link": "https://getnews.jp/archives/3731189",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "約8年越し、待望の商品化！ ジュンク堂の「ブックケース」のおかげで本を快適に持ち歩く生活が始まった",
-      "description": "電子書籍も使うけど、小説はやっぱり紙の本が好き！ ですが、持ち歩いていると、バッグの中で表紙やページがヨレてしまったり、結露した飲み物でちょっと濡らしてしまったりなんて経験をしたことがあります。 本をよく持ち歩く方の中は [&#8230;]",
-      "link": "https://getnews.jp/archives/3731186",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "GOLLIPOP RECORD、歌舞伎町でフリーライブ開催",
-      "description": "音楽レーベルGOLLIPOP RECORDの所属アイドルめろん畑a go go、The Grateful a MogAAAz、POPPY、そしてFuck on the beachのVo.ツヨッシーがつよちゃんとなり活動し [&#8230;]",
-      "link": "https://getnews.jp/archives/3731184",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-16T21:08:04.310072",
+  "updatedAt": "2026-07-16T22:30:27.281639",
   "sites": [
     {
       "id": "hachima",
