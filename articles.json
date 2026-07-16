@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "遂に女子陸上のエロいカメラワークが禁止に。女子陸上の報道に関する新ガイドライン」を発表",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547388.html",
+      "pubDate": "2026-07-17T06:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/c/ec6fd5c0.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "警察さん、勾留中の男性に訴えられる→その理由が酷すぎる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455055.html",
+      "pubDate": "2026-07-17T06:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/8003d290.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "年を取ると人の顔が見分けられなくなるのは「目の動かし方が不安定になるから」かもしれない",
+      "description": "年を取るにつれて人の顔を見分ける能力が低下することは知られていますが、その仕組みは十分に解明されていません。香港科技大学や香港理工大学などの研究チームは顔認識実験の結果から、顔を見る際の目の動かし方が不安定になることが加齢に伴う顔認識能力の低下の一因になり得ると指摘しています。続きを読む...",
+      "link": "https://gigazine.net/news/20260717-aging-face-recognition-eye-movement/",
+      "pubDate": "Fri, 17 Jul 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "男性YouTuber「20歳～32歳限定の街コン（5000円）に行ってきます」 → バケモノ女の巣窟なのをバラしてしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455052.html",
+      "pubDate": "2026-07-17T05:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/6/b6bbdcf6-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "秋に引退を控えたSuicaペンギンさんが駅弁を発売ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547399.html",
+      "pubDate": "2026-07-17T05:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/2/22fef5d6-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -652,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/793514a2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【時事世論調査】高市内閣支持率49％、発足後最低に　60歳代で激減",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547367.html",
-      "pubDate": "2026-07-16T18:20:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d91cc32c-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +728,6 @@
       "link": "https://jin115.com/archives/52455045.html",
       "pubDate": "2026-07-16T18:00:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/653ea947.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "メディア「ソニーが物理ディスクを廃止したことについては、『ファンが過去20年で最も怒りを示した出来事』。計画が撤回される可能性は低い」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547364.html",
-      "pubDate": "2026-07-16T18:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4e58e96a.jpg"
     },
     {
       "siteId": "jin",
@@ -741,32 +780,6 @@
       "link": "https://gigazine.net/news/20260716-haagen-dazs-annin-peach/",
       "pubDate": "Thu, 16 Jul 2026 17:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「有吉の壁」のレギュラー放送が終了→その理由を有吉さんがぶっちゃけてネット騒然ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455047.html",
-      "pubDate": "2026-07-16T16:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/4/f4873066-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "全国で複数のクレジットカードが使えなくなる障害が発生！原因はこれらしい・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455044.html",
-      "pubDate": "2026-07-16T16:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/eb836834.jpg"
     },
     {
       "siteId": "gigazine",
@@ -974,19 +987,6 @@
       "description": "GoogleがAIエージェント「Gemini Spark」の日本語での展開を2026年7月16日に開始しました。Gemini Sparkは個人最適化された24時間稼働のAIエージェントで、自然言語での対話で各種タスクを実行させることができます。続きを読む...",
       "link": "https://gigazine.net/news/20260716-gemini-spark-japanese/",
       "pubDate": "Thu, 16 Jul 2026 11:20:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "約1兆パラメーターで画像・音声の理解やコーディングに対応、用途別に調整できるオープンウェイトAIモデル「Inkling」登場",
-      "description": "AI企業のThinking Machines Labが、用途に合わせた追加学習を重視する新たなAIモデル「Inkling」を発表しました。モデルの重みが公開されるオープンウェイトモデルで、文章だけでなく画像や音声も扱えるほか、思考に使う計算量の調整も可能とのことです。続きを読む...",
-      "link": "https://gigazine.net/news/20260716-inkling/",
-      "pubDate": "Thu, 16 Jul 2026 11:15:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-16T19:42:17.053196",
+  "updatedAt": "2026-07-16T21:08:04.310072",
   "sites": [
     {
       "id": "hachima",
