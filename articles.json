@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「演劇こそが世界で一番つまらないものを作れる」ことの確認のためにケロロ軍曹も果てスカも観たが演劇のほうがヤバいと確信している話…映画館上映の時点で上澄みでは？",
+      "description": "「演劇こそが世界で一番つまらないものを作れる」ことの確認のためにケロロ軍曹も果てスカも観たが演劇のほうがヤバいと確信している話…映画館上映の時点で上澄みでは？",
+      "link": "https://togetter.com/li/2721732",
+      "pubDate": "Sat, 18 Jul 2026 03:02:11 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女さん「セフじゃなくてぇ～、一緒にご飯行ったり、お酒飲んだりして時々寝るぐらいのが良くて～」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547857.html",
+      "pubDate": "2026-07-18T03:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/9/b980823f.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "スタイルお化けのラジオパーソナリティーさん、○○姿を披露しネット民を魅了してしまうｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455111.html",
+      "pubDate": "2026-07-18T03:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/256f41df-s.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "復讐譚は本質的に復讐に向いてない人物が復讐鬼を演じるから面白いと思うしノリノリで残虐行為に興じてるとスカッとジャパンに感じる話…どっちも復讐モノではある",
+      "description": "復讐譚は本質的に復讐に向いてない人物が復讐鬼を演じるから面白いと思うしノリノリで残虐行為に興じてるとスカッとジャパンに感じる話…どっちも復讐モノではある",
+      "link": "https://togetter.com/li/2721729",
+      "pubDate": "Sat, 18 Jul 2026 02:28:17 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -338,32 +390,6 @@
       "link": "http://blog.esuteru.com/archives/10547818.html",
       "pubDate": "2026-07-17T21:30:30+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/306f2acf.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「見た目は美少女、中身はおじさん」だらけのVR空間を取材し、カオスぶりを伝える記事の火力が高すぎる…「呼吸が荒くなった理由に気付き、記者は声をかけたことを後悔」",
-      "description": "「見た目は美少女、中身はおじさん」だらけのVR空間を取材し、カオスぶりを伝える記事の火力が高すぎる…「呼吸が荒くなった理由に気付き、記者は声をかけたことを後悔」",
-      "link": "https://togetter.com/li/2721630",
-      "pubDate": "Fri, 17 Jul 2026 21:22:46 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "企業からスカウトが届いてカジュアル面談に行くと何故か志望動機を聞かれ「スカウトをいただいたので」と答えるとムッとされることがある、呼んだのは企業なのにおかしくない？",
-      "description": "企業からスカウトが届いてカジュアル面談に行くと何故か志望動機を聞かれ「スカウトをいただいたので」と答えるとムッとされることがある、呼んだのは企業なのにおかしくない？",
-      "link": "https://togetter.com/li/2721631",
-      "pubDate": "Fri, 17 Jul 2026 21:20:28 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -743,19 +769,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/31818ea9.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「ラーメン屋でヤバイ客がいた。食券を買うカネがないから、ラーメンを食わせろって」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547594.html",
-      "pubDate": "2026-07-17T17:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/3/43c381c1-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -936,19 +949,6 @@
       "link": "https://rocketnews24.com/2026/07/17/2782739/",
       "pubDate": "Fri, 17 Jul 2026 04:15:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/AmazonGift02_14fb08.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "秋葉原、かつて100店以上あったメイド喫茶が30店未満に激減→代わりに増えたのは・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455071.html",
-      "pubDate": "2026-07-17T13:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8dafc83d-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【東京都千代田区】ELECTRONが「デンキバリブラシ2.0」体験会開催！限定ケースセットも発売",
+      "description": "img class=”aligncenter size-full wp-image-1664857″ src=”https://straightpress.jp/wp-content/uploads/2026/07/66 [&#8230;]",
+      "link": "https://getnews.jp/archives/3731405",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "薄さ8.7mm、重さ117g。CIOの「発熱抑制モデル」で安心",
       "description": "この記事は2025年11月6日に公開された記事を編集して再掲載しています。 ※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  電車の中で、飛行機の中で、バッグから突然火が出た…なんてショッ [&#8230;]",
       "link": "https://getnews.jp/archives/3731395",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3731394",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "「バックパック派の小物収納」の最適解。意外とストレスな旅行中のあたふたがなくなった",
-      "description": "※本記事は2025年9月12日に公開された記事を再編集して公開しています。 Text and Photographed by covacova. 旅行はもっぱらバックパック派の僕ですが、スマホやチケットなどの小物は、迷わ [&#8230;]",
-      "link": "https://getnews.jp/archives/3731379",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-17T17:20:04.351204",
+  "updatedAt": "2026-07-17T18:35:46.106701",
   "sites": [
     {
       "id": "hachima",
