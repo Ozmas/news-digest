@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ついに「弁護士マップ」ができたが、賛否両論…「口コミを書いたら訴えられそう」「Googleマップの口コミがすでにある」「文句言う弁護士は自信ないんだろ」など評価が分かれる",
+      "description": "ついに「弁護士マップ」ができたが、賛否両論…「口コミを書いたら訴えられそう」「Googleマップの口コミがすでにある」「文句言う弁護士は自信ないんだろ」など評価が分かれる",
+      "link": "https://togetter.com/li/2721757",
+      "pubDate": "Sat, 18 Jul 2026 07:19:38 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジか】就活の面接官「自分はあいさつしたのに会社の人に無視された場合、どうしますか？」、就活生「それでも挨拶します」　→　答えた結果、まさか過ぎる展開にｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547912.html",
+      "pubDate": "2026-07-18T07:00:59+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/2/b/2b455024.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "特殊清掃YouTuber「依頼された遺品整理の現場から、とんでもない物が出てきました」 → 買取額がヤバすぎるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455119.html",
+      "pubDate": "2026-07-18T07:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5cacae45-s.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "メジャーリーグで「ベンチ内でiPadを使って生成AIにアクセスする行為」が禁止に",
+      "description": "2016年からMLB全チームのベンチに配備されているiPadについて、複数チームが試合中の戦略立案支援に利用しているとして、生成AIへのアクセスを禁止する措置が執られたことがわかりました。続きを読む...",
+      "link": "https://gigazine.net/news/20260718-mlb-dugout-ipad-ai/",
+      "pubDate": "Sat, 18 Jul 2026 06:30:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -431,19 +483,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "T.M.Revolutionの「THE FIRST TAKE」への口パク疑惑に対してガチ勢がそうではないと解説…技術的な話が集まる",
-      "description": "T.M.Revolutionの「THE FIRST TAKE」への口パク疑惑に対してガチ勢がそうではないと解説…技術的な話が集まる",
-      "link": "https://togetter.com/li/2721638",
-      "pubDate": "Fri, 17 Jul 2026 21:38:07 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -652,19 +691,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【訃報】『ルパン三世』初代峰不二子役声優・二階堂有希子さんが死去 　87歳",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547613.html",
-      "pubDate": "2026-07-17T18:40:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/4/d40d7a12.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -793,19 +819,6 @@
       "link": "https://jin115.com/archives/52455107.html",
       "pubDate": "2026-07-17T17:20:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/25f8eeb1.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "改正皇室典範、成立",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455104.html",
-      "pubDate": "2026-07-17T17:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/31818ea9.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -974,19 +987,6 @@
       "description": "第二次世界大戦のさなかにユダヤ系ドイツ人の少女アンネ・フランクが書いた日記「アンネの日記」は、1945年にアンネが強制収容所で15歳で亡くなってから70年が経過した2016年に著作権切れとなり、インターネット上で公開されました。そんな「アンネの日記」を巡る裁判で、EUの最高裁判所が「最先端のジオブロッキング技術を用いて地域制限を設けていた場合、ユーザーがVPNを使って制限を回避したとしても、公開し",
       "link": "https://gigazine.net/news/20260717-geo-blocking-disputes/",
       "pubDate": "Fri, 17 Jul 2026 12:30:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "ローカルAIモデルをAIエージェントとして使える「LM Studio Bionic」が登場、コーディングやスライド作成に対応しクラウドモデルも使用可能",
-      "description": "日本時間の2026年7月17日、ローカルAI実行アプリ「LM Studio」の開発チームがAIエージェントアプリ「LM Studio Bionic」をリリースしました。LM Studio BionicではAIモデルをローカルで実行してコーディングや文書作成などの作業を任せることができます。続きを読む...",
-      "link": "https://gigazine.net/news/20260717-lm-studio-bionic/",
-      "pubDate": "Fri, 17 Jul 2026 12:18:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【半導体グルメ】NVIDIAフアンCEOが食べに行った激安居酒屋の商売根性がスゴイ！ NVIDIA飲み放題コースの提供開始 / 居酒屋「やきとん三吉」",
+      "description": "時価総額が約800兆円の超大企業 NVIDIA(エヌビディア)のフアンCEOが、突如として現れて飲み会をした激安居酒屋「やきとん三吉 神田北口店」(東京都千代田区内神田3-22-9)が大きな話題となっている。 時価総額8 [&#8230;]",
+      "link": "https://getnews.jp/archives/3731401",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【東京都千代田区】ELECTRONが「デンキバリブラシ2.0」体験会開催！限定ケースセットも発売",
       "description": "img class=”aligncenter size-full wp-image-1664857″ src=”https://straightpress.jp/wp-content/uploads/2026/07/66 [&#8230;]",
       "link": "https://getnews.jp/archives/3731405",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3731383",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【千葉県成田市】成田国際空港の移動型無人販売ロボットが2台に！期間限定で東北に特化した売り場も",
-      "description": "リテールデザインとAI／ロボティクスを融合した移動型無人販売ロボット「PIMT-0(ピムト)」の普及を進めるピムトが、今年4月より実用運用を行っている成田国際空港において、7月15日(水)よりロボットを2台へ増やし、運用 [&#8230;]",
-      "link": "https://getnews.jp/archives/3731394",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-17T21:23:06.257064",
+  "updatedAt": "2026-07-17T22:24:27.933306",
   "sites": [
     {
       "id": "hachima",
