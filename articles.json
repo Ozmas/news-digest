@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "カズレーザーさん「◯◯ってマジでなくなっても平気な行事の1つ　1ミリもワクワクしないし」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455109.html",
+      "pubDate": "2026-07-18T02:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/8/282e6db1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "国民民主党が『エロ広告規制法案』を提出 → 内容がヤバすぎてネットざわつく「極めて強制力が強い」「国家による表現規制では」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547867.html",
+      "pubDate": "2026-07-18T02:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/8/e82ff274.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "エンジンを止めた車内で汗だくでグッタリしてるおじさんが心配で声かけ⇒ 胸糞な結末になってしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547783.html",
+      "pubDate": "2026-07-18T01:30:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4ee8a1f7.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「自分は主人公であり、自分以外は舞台装置」無邪気な万能感が他者の行動でおかしいと気づく幼児あるあるに共感",
+      "description": "「自分は主人公であり、自分以外は舞台装置」無邪気な万能感が他者の行動でおかしいと気づく幼児あるあるに共感",
+      "link": "https://togetter.com/li/2721705",
+      "pubDate": "Sat, 18 Jul 2026 01:25:21 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「国産〇〇バズらんかなぁ」100社以上の国内企業がバズりたくて自己PRブームに→職人魂を感じる「ものづくり動画」が大集結してマニア感涙の流れに",
+      "description": "「国産〇〇バズらんかなぁ」100社以上の国内企業がバズりたくて自己PRブームに→職人魂を感じる「ものづくり動画」が大集結してマニア感涙の流れに",
+      "link": "https://togetter.com/li/2721717",
+      "pubDate": "Sat, 18 Jul 2026 01:20:17 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "菜箸で郵便受け内の鍵を取って空き巣を繰り返していたとみられる76歳の男が追送検… 犯行の手口は、家の鍵をポストに隠す描写をテレビドラマで見て思いつく",
+      "description": "菜箸で郵便受け内の鍵を取って空き巣を繰り返していたとみられる76歳の男が追送検… 犯行の手口は、家の鍵をポストに隠す描写をテレビドラマで見て思いつく",
+      "link": "https://togetter.com/li/2721714",
+      "pubDate": "Sat, 18 Jul 2026 01:01:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【覇権】『グランド・セフト・オート6』、初週だけで○○万本を販売か！？市場調査会社が発表した販売予測が異次元すぎるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455101.html",
+      "pubDate": "2026-07-18T01:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/01f496ba-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "NVIDIAのファンCEO、神田の激安居酒屋で取引先と懇談！新メニュー「革ジャンコース」登場ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547847.html",
+      "pubDate": "2026-07-18T01:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/6/5622c843.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -262,19 +366,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "住民票の写しが必要なのに住民票のコピーを持って来られた時に言葉の難しさを痛感した→写しとコピーは違うし原本を持ってくることはできない「表現の違いがややこしい」",
-      "description": "住民票の写しが必要なのに住民票のコピーを持って来られた時に言葉の難しさを痛感した→写しとコピーは違うし原本を持ってくることはできない「表現の違いがややこしい」",
-      "link": "https://togetter.com/li/2721628",
-      "pubDate": "Fri, 17 Jul 2026 21:06:36 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -311,32 +402,6 @@
       "description": "アメリカ・ニューヨーク州キャタラウガス郡サラマンカの学区が、2026年秋から人型ロボットを教育現場に導入すると発表しました。この人型ロボットは教師に取って代わるものではなく、生徒と教師の両方に学習支援を提供するものとなるそうです。続きを読む...",
       "link": "https://gigazine.net/news/20260717-humanoid-robot-teacher/",
       "pubDate": "Fri, 17 Jul 2026 21:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『ドタバタで葬儀社を決めて超お金がかかった話』病院には長時間遺体を置けないので相談や事前準備はしておいた方がいい？「質素に済ませるなら直葬で」",
-      "description": "『ドタバタで葬儀社を決めて超お金がかかった話』病院には長時間遺体を置けないので相談や事前準備はしておいた方がいい？「質素に済ませるなら直葬で」",
-      "link": "https://togetter.com/li/2721626",
-      "pubDate": "Fri, 17 Jul 2026 20:55:39 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "なんでエアコンって停止するとフタ閉じちゃうんだろうな、中が結露してるのに閉じるから乾かなくてカビたり悪臭の原因にならないの？→最近のエアコンは内部クリーン機能ついてるよね？",
-      "description": "なんでエアコンって停止するとフタ閉じちゃうんだろうな、中が結露してるのに閉じるから乾かなくてカビたり悪臭の原因にならないの？→最近のエアコンは内部クリーン機能ついてるよね？",
-      "link": "https://togetter.com/li/2721624",
-      "pubDate": "Fri, 17 Jul 2026 20:46:30 +0900",
       "thumbnail": ""
     },
     {
@@ -704,32 +769,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/8b1f9fb6-793c-4eb1-bfe1-256918e31519.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】16歳未満にエナジードリンクの販売を禁止へｗｗｗｗｗｗｗｗｗｗ　※",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547576.html",
-      "pubDate": "2026-07-17T16:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/b/1b99a62b-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【朗報】『いちご100％』の新作グッズ、令和の夏コミで発売決定ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547574.html",
-      "pubDate": "2026-07-17T16:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/0/60b6cd5c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +780,6 @@
       "link": "https://jin115.com/archives/52455092.html",
       "pubDate": "2026-07-17T16:00:01+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/000b4afd.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "渡部さんにブチギレポストした鬼越トマホーク・良ちゃんが謝罪⇒ 渡辺への謝罪がないとツッコまれる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547571.html",
-      "pubDate": "2026-07-17T15:30:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/1/61bc7de7.jpg"
     },
     {
       "siteId": "gigazine",
@@ -977,19 +1003,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/16/02/subbuzz/haH-B6YrH.jpg?crop=1000:667;0,17&resize=1250:830"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "美人アナウンサーさん、結婚相手の理想の年収を告白「年収1億円？いらない、いらない。○○○○万円あれば幸せです」→「そりゃ幸せだろ」とツッコまれるｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455065.html",
-      "pubDate": "2026-07-17T12:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/7/97e0e507.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1001,19 +1014,6 @@
       "link": "https://rocketnews24.com/2026/07/17/2777430/",
       "pubDate": "Fri, 17 Jul 2026 02:55:38 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/06/folks5.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "料理研究家リュウジさん、アンチコメントに「じゃあ、あんたが作ってみろよ」→本当に作られて大人しく負けを認めるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455069.html",
-      "pubDate": "2026-07-17T11:40:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/5/e5090f0a.png"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-17T15:57:34.002335",
+  "updatedAt": "2026-07-17T17:20:04.351204",
   "sites": [
     {
       "id": "hachima",
