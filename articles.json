@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "エナジードリンク、16歳未満への販売禁止へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455115.html",
+      "pubDate": "2026-07-18T05:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/f/6f40a0ed.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】若者の青春離れが深刻！2025年から急激に……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547848.html",
+      "pubDate": "2026-07-18T05:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/1/c1dd353c-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "元プロ野球選手の糸井嘉男が「6000万円のランボルギーニを走行距離200mで売却」した理由ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10547856.html",
+      "pubDate": "2026-07-18T04:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f036e40e-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性「着物でニューヨーク歩いてたら、めちゃ癖強そうな男に写真頼まれた」ﾊﾟｼｬｯ → その男の正体を知って震えるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455113.html",
+      "pubDate": "2026-07-18T04:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/a/eafcd69b-s.png"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -652,19 +704,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/17/03/thumb/Gk5a713gi.jpg?crop=3333:2222;0,152&resize=1250:830"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "週刊少年ジャンプ、ワンピースカードの転売騒ぎを謝罪　本誌を再販へ　Vジャン付録のカードも中止に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547606.html",
-      "pubDate": "2026-07-17T18:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/05fbef71.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +754,6 @@
       "link": "https://www.buzzfeed.com/jp/yukiadachi/takahashiran-dogai0711",
       "pubDate": "Fri, 17 Jul 2026 04:31:04 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/17/06/subbuzz/BmBxd6_Oc.jpg?crop=2507:1671;1725,360&resize=1250:830"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "松本人志さん、『緊急生配信』を実施すると発表！一体なにをするんだ！？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547596.html",
-      "pubDate": "2026-07-17T17:30:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c7d65530-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -808,19 +834,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "客「タダでラーメンを食わせろ！この店は無料なんだろ？だって・・・」→異次元のクレーマーがとんでもない理論を展開ｗｗｗｗｗｗほかの客も納得しそうになるｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455078.html",
-      "pubDate": "2026-07-17T15:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/6/f6f56934.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -871,19 +884,6 @@
       "link": "https://gigazine.net/news/20260717-meta-ai-distress-conversations/",
       "pubDate": "Fri, 17 Jul 2026 14:05:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【画像】NVIDIA社長（資産31兆円）が日本で食べた食事がこちらｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455074.html",
-      "pubDate": "2026-07-17T14:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bbdce86f-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-17T18:35:46.106701",
+  "updatedAt": "2026-07-17T20:09:58.055816",
   "sites": [
     {
       "id": "hachima",
