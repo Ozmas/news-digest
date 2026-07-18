@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "外務省、ロシアへの〇〇を再開する模様・・・タイミングがヤバすぎてネット民困惑",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455164.html",
+      "pubDate": "2026-07-19T05:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/eb9c4b9d.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『ヤニねこ』ラッピングバスが運行決定ｗｗｗｗ　アレって公共の場に放っていいんだ……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548189.html",
+      "pubDate": "2026-07-19T05:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/1/3167e9a9.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -587,19 +613,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "トランプ大統領「アメリカ単独でW杯開催したい」FIFA会長「中国と共同開催やりましょう(笑)」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548025.html",
-      "pubDate": "2026-07-18T17:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/7/a7f7e282.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -819,19 +832,6 @@
       "link": "https://jin115.com/archives/52455131.html",
       "pubDate": "2026-07-18T10:40:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/6/e6228b08.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】人気漫画『モブサイコ100』が「全巻100円」で買えるガチでヤバい激安セールは今日まで！！全16巻揃えても「1,600円」に！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455140.html",
-      "pubDate": "2026-07-18T10:20:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/701696ed.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-18T19:46:32.367813",
+  "updatedAt": "2026-07-18T20:56:50.432592",
   "sites": [
     {
       "id": "hachima",
