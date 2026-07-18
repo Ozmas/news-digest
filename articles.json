@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "子連れグループがフードコートでご飯→ 娘がトイレで席を立つ ⇒ 謎のおじさんに座られてしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548140.html",
+      "pubDate": "2026-07-19T00:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2f06d401.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "千葉県のスーパーで、これがしれっと売られているので2度見してしまった… 別名、北海道の最終兵器「食べる催涙ガス」注意喚起のポップもなかったが、訓練された道民じゃないと無理",
+      "description": "千葉県のスーパーで、これがしれっと売られているので2度見してしまった… 別名、北海道の最終兵器「食べる催涙ガス」注意喚起のポップもなかったが、訓練された道民じゃないと無理",
+      "link": "https://togetter.com/li/2722059",
+      "pubDate": "Sun, 19 Jul 2026 00:24:22 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "若者「ハンターハンターに出会ったせいであんなに面白いと思ってた鬼滅も呪術も色褪せてしまった…」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548137.html",
+      "pubDate": "2026-07-19T00:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/0/90ff1ad0.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "竹田恒泰氏「この動画を見て◯◯の価値が分からないやつ、日本人じゃない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455170.html",
+      "pubDate": "2026-07-19T00:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/77b28ff4.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "Appleが日本でiPhone・Apple Music・Apple Oneに続きiCloud＋も値上げ",
+      "description": "Appleが日本を含む8カ国でクラウドストレージサービス・iCloud＋の値上げを実施しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260719-apple-raises-icloud-plus-subscription-prices/",
+      "pubDate": "Sun, 19 Jul 2026 00:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「あろうことか治療することになったのは例の人物でした」京アニ放火殺人事件から7年…被害者の治療に立ち会えず、死刑囚の救命にあたった医師が今も抱える自問自答",
+      "description": "「あろうことか治療することになったのは例の人物でした」京アニ放火殺人事件から7年…被害者の治療に立ち会えず、死刑囚の救命にあたった医師が今も抱える自問自答",
+      "link": "https://togetter.com/li/2722045",
+      "pubDate": "Sat, 18 Jul 2026 23:58:46 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "牧原秀樹元法相「インドの新幹線計画が進まないのは100%インド側のせい」→ インド外相「順調なんですけど！！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548194.html",
+      "pubDate": "2026-07-18T23:30:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bf8b9bb5.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう",
+      "description": "「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう",
+      "link": "https://togetter.com/li/2722026",
+      "pubDate": "Sat, 18 Jul 2026 23:21:08 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「熊相手にすげー」有害鳥獣捕獲のため巡回していた40代のハンターが子熊と遭遇、襲われて重傷も「素手で目を潰し」つつ、最後は発砲して仕留める",
+      "description": "「熊相手にすげー」有害鳥獣捕獲のため巡回していた40代のハンターが子熊と遭遇、襲われて重傷も「素手で目を潰し」つつ、最後は発砲して仕留める",
+      "link": "https://togetter.com/li/2722023",
+      "pubDate": "Sat, 18 Jul 2026 23:08:37 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -223,19 +340,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bdbefaa0.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "可愛くても最近はこれに袖さえあれば…っていう服が多すぎる「二の腕もだけど脇見られたくなさすぎて」「いいかもと思ってよく見た服全部袖ない」",
-      "description": "可愛くても最近はこれに袖さえあれば…っていう服が多すぎる「二の腕もだけど脇見られたくなさすぎて」「いいかもと思ってよく見た服全部袖ない」",
-      "link": "https://togetter.com/li/2721971",
-      "pubDate": "Sat, 18 Jul 2026 20:59:30 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -260,19 +364,6 @@
       "link": "https://jin115.com/archives/52455152.html",
       "pubDate": "2026-07-18T20:30:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/9/99e10da5.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「これは完全にいざという時」高2の息子が緊急時の1000円を使用、何に使ったのか聞いたら「好きな人にジェラートを買ってあげた」と言ってきた",
-      "description": "「これは完全にいざという時」高2の息子が緊急時の1000円を使用、何に使ったのか聞いたら「好きな人にジェラートを買ってあげた」と言ってきた",
-      "link": "https://togetter.com/li/2721963",
-      "pubDate": "Sat, 18 Jul 2026 20:28:48 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -301,19 +392,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d6add510.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「あなたの肺年齢は95歳以上です」ここ最近、熱とか頭痛はないのに咳だけがひどいので病院に行ってちゃんと検査したら、激ヤバ結果叩き出して顔ない",
-      "description": "「あなたの肺年齢は95歳以上です」ここ最近、熱とか頭痛はないのに咳だけがひどいので病院に行ってちゃんと検査したら、激ヤバ結果叩き出して顔ない",
-      "link": "https://togetter.com/li/2721955",
-      "pubDate": "Sat, 18 Jul 2026 20:00:28 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -325,19 +403,6 @@
       "link": "http://blog.esuteru.com/archives/10548149.html",
       "pubDate": "2026-07-18T19:40:41+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/9447a448.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "シームレスパンツ×乾燥機の相性ヤバすぎる…駅に向かっている最中、突然パンツを履いてないことに気付き引き返したらただの布となったｵﾊﾟﾝﾂ発見した",
-      "description": "シームレスパンツ×乾燥機の相性ヤバすぎる…駅に向かっている最中、突然パンツを履いてないことに気付き引き返したらただの布となったｵﾊﾟﾝﾂ発見した",
-      "link": "https://togetter.com/li/2721949",
-      "pubDate": "Sat, 18 Jul 2026 19:35:45 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -600,32 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/f/9faf537e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "無職男性（23）、中古品販売店でジャンク品（1,650円）の値札を剥がし、正常なノートPC（約11.5万）の値札と張り替えたとして逮捕される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547994.html",
-      "pubDate": "2026-07-18T14:30:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/a/babce94b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "中国メーカーさん、とんでもない物を発明してしまう… 悪用されないかこれ…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547986.html",
-      "pubDate": "2026-07-18T14:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/62d2cf62-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +676,6 @@
       "link": "https://jin115.com/archives/52455143.html",
       "pubDate": "2026-07-18T14:00:18+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/1/b129c7a3.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "メーカー「めんつゆは3日で使い切れや。塩分が低い商品だからさ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547982.html",
-      "pubDate": "2026-07-18T13:40:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/c/6cbcffd0.jpg"
     },
     {
       "siteId": "jin",
@@ -832,19 +858,6 @@
       "link": "https://jin115.com/archives/52455128.html",
       "pubDate": "2026-07-18T09:30:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1c4ce426.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】FF14、サービス終了※",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455125.html",
-      "pubDate": "2026-07-18T09:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/8448fbb0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1066,19 +1079,6 @@
       "link": "https://rocketnews24.com/2026/07/17/2781359/",
       "pubDate": "Fri, 17 Jul 2026 08:00:07 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/8b1f9fb6-793c-4eb1-bfe1-256918e31519.png"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "OpenAIのAIエージェントで中古車売買の顧客対応を自動化、サポート解決率50％向上・業務時間80％短縮・離脱顧客12％復帰などを達成した事例",
-      "description": "OpenAIが2026年7月16日、中古車売買サービスを展開するCars24によるAI活用事例を公開しました。Cars24はOpenAIの技術を使った音声・チャット対応のAIエージェントを導入しており、月間100万分を超える顧客との会話を処理しています。導入後はカスタマーサポートの解決率が50％向上したほか、主要なサービス業務が完了するまでの時間が80％短縮され、いったん離脱した自動車の売却希望者",
-      "link": "https://gigazine.net/news/20260717-openai-cars24-agent/",
-      "pubDate": "Fri, 17 Jul 2026 15:15:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,32 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "人気のモンベル、被るならアレンジしちゃえばいい。14gのポーチが夏フェス用サコッシュになりました",
+      "description": "最近、モンベル（mont-bell）が本当に人気ですよね。 街中でも、同じアイテムを持っている人をよく見かけます。 いいものだから人気になるのは当然なんですが、正直、ちょっと被りやすいな……とも感じていました。 そんなと [&#8230;]",
+      "link": "https://getnews.jp/archives/3731511",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【NVIDIAグルメ】エヌビディアのフアンCEOが行った激安居酒屋「うまいラーメン作りそうなCEO写真」展示 / 聖地巡礼用に来店記念写真コーナー拡大「やきとん三吉」",
+      "description": "時価総額800兆円の大企業NVIDIA(エヌビディア)を知らない人はいまい。その社長兼CEOとしてカリスマ的存在といえばジェンスン・フアン氏だが、その彼が突如として訪れた激安居酒屋「やきとん三吉 神田北口店」(東京都千代 [&#8230;]",
+      "link": "https://getnews.jp/archives/3731499",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "「モンベルのビッグバンダナ」、売り切れ続出も納得の便利さ。昼も夜も、屋内でも屋外でも大活躍してるよ",
       "description": "夏の夕暮れ、仕事終わりにふらっと外に飛び出したくなる季節。 お祭りも多くて、突然夜店に出会ったり。 先日、京都を散歩していたら、出町枡形商店街の夜店に遭遇。 突然の出会いに大活躍してくれたのが、モンベルのこの1枚でした。 [&#8230;]",
       "link": "https://getnews.jp/archives/3731490",
@@ -1794,35 +1820,9 @@
       "link": "https://getnews.jp/archives/3731483",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "無印良品の「強撚天竺編みTシャツ」をパジャマ代わりにして、寝起きのベタベタを回避する",
-      "description": "少し前は涼しかった就寝時も、蒸し暑さ対策が必要になってきました。 パジャマも夏仕様に。 無印良品の涼しいTシャツが、パジャマとしても快適でした。 強撚でさらっと快適 無印良品 「婦人 強撚天竺編みクルーネック半袖Tシャツ [&#8230;]",
-      "link": "https://getnews.jp/archives/3731480",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "にらめっこ中？窓辺で唸るボクサー犬の目の前に・・じっと見つめてくるリスが！！【アメリカ・動画】",
-      "description": "外を見ながら、小さく唸り声を上げ続けている愛犬の姿を目撃した撮影者さん。 どうやら、外に気になるものを見つけたようです。 外を気にする愛犬 ご紹介するのは、アメリカ・ミズーリ州のとあるお宅で撮影された映像。 撮影者さんは [&#8230;]",
-      "link": "https://getnews.jp/archives/3731479",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-18T14:01:58.488935",
+  "updatedAt": "2026-07-18T15:31:46.978967",
   "sites": [
     {
       "id": "hachima",
