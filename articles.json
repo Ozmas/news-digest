@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "水商売の女の子に興味本位で「なんでこの仕事をはじめたの？」と聞いていたら…「母子家庭で」「学費のため」というのが多いが一人だけなんか違って良い理由だった話",
+      "description": "水商売の女の子に興味本位で「なんでこの仕事をはじめたの？」と聞いていたら…「母子家庭で」「学費のため」というのが多いが一人だけなんか違って良い理由だった話",
+      "link": "https://togetter.com/li/2721975",
+      "pubDate": "Sat, 18 Jul 2026 21:15:27 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "データセンターは本当に一般市民の電気料金値上げの原因なのか？",
+      "description": "AIブームに伴うデータセンターの増加を受け、アメリカでは大手テクノロジー企業が発電や送電にかかる追加費用を公平に負担すると約束する一方、一般利用者の電気料金に費用が転嫁されるのではないかとの懸念が広がっています。フロリダ大学でエネルギー研究ディレクターを務めるセオドア・J・キュリー氏が、データセンター向けの電力設備費がどのように電気料金へ割り振られるのかを解説しています。続きを読む...",
+      "link": "https://gigazine.net/news/20260718-data-centers-electricity-bills/",
+      "pubDate": "Sat, 18 Jul 2026 21:10:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "任天堂がパルワ対策として出願していた特許、拒絶査定に…「技術的な革新性はない」とする根拠動画に反論するも結論は変わらず",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548155.html",
+      "pubDate": "2026-07-18T21:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fdc4bdb7.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "W杯決勝まで進んだアルゼンチン、出場停止になるかも・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455160.html",
+      "pubDate": "2026-07-18T21:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bdbefaa0.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "可愛くても最近はこれに袖さえあれば…っていう服が多すぎる「二の腕もだけど脇見られたくなさすぎて」「いいかもと思ってよく見た服全部袖ない」",
+      "description": "可愛くても最近はこれに袖さえあれば…っていう服が多すぎる「二の腕もだけど脇見られたくなさすぎて」「いいかもと思ってよく見た服全部袖ない」",
+      "link": "https://togetter.com/li/2721971",
+      "pubDate": "Sat, 18 Jul 2026 20:59:30 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "伝説のクイズ番組『アメリカ横断ウルトラクイズ』が復活！円安なのに地球一周規模にスケールアップｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548154.html",
+      "pubDate": "2026-07-18T20:30:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d99ccda0.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "フワちゃん、活動休止中の年収がヤバすぎるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455152.html",
+      "pubDate": "2026-07-18T20:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/9/99e10da5.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「これは完全にいざという時」高2の息子が緊急時の1000円を使用、何に使ったのか聞いたら「好きな人にジェラートを買ってあげた」と言ってきた",
+      "description": "「これは完全にいざという時」高2の息子が緊急時の1000円を使用、何に使ったのか聞いたら「好きな人にジェラートを買ってあげた」と言ってきた",
+      "link": "https://togetter.com/li/2721963",
+      "pubDate": "Sat, 18 Jul 2026 20:28:48 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -132,19 +236,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "暑くなってきたので注意喚起です、無人のトラックがクラクションを鳴らし続けていたら何らかのトラブルが起きてます「事件の可能性もあるからまずは110番してください」",
-      "description": "暑くなってきたので注意喚起です、無人のトラックがクラクションを鳴らし続けていたら何らかのトラブルが起きてます「事件の可能性もあるからまずは110番してください」",
-      "link": "https://togetter.com/li/2721942",
-      "pubDate": "Sat, 18 Jul 2026 19:07:49 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -171,19 +262,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/51779235.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "この前、ピンポンが鳴って若い作業着の男が工事の挨拶に来たが、最後に「瓦が1枚浮いてますよ」と言われて冷たくあしらった…その後、工事もなく瓦も浮いていなかった話",
-      "description": "この前、ピンポンが鳴って若い作業着の男が工事の挨拶に来たが、最後に「瓦が1枚浮いてますよ」と言われて冷たくあしらった…その後、工事もなく瓦も浮いていなかった話",
-      "link": "https://togetter.com/li/2721941",
-      "pubDate": "Sat, 18 Jul 2026 18:53:10 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -195,19 +273,6 @@
       "link": "http://blog.esuteru.com/archives/10548136.html",
       "pubDate": "2026-07-18T18:30:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a5a998f.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "コンビニでおじいさんが店長から「あなた出禁です。もうこの店で買い物できません。わかりますね？防犯カメラにも映っています。来ないでください」ときっぱり言われていた",
-      "description": "コンビニでおじいさんが店長から「あなた出禁です。もうこの店で買い物できません。わかりますね？防犯カメラにも映っています。来ないでください」ときっぱり言われていた",
-      "link": "https://togetter.com/li/2721938",
-      "pubDate": "Sat, 18 Jul 2026 18:30:44 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -548,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c37f113.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】サーティワンでもらった保冷剤の上にうっかり中身入りの弁当箱を置いて放置　→　その後、とんでもない結果にｗｗｗｗ　こんなことあるんだｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547960.html",
-      "pubDate": "2026-07-18T12:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7cd9df6e-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -598,19 +650,6 @@
       "link": "https://rocketnews24.com/2026/07/18/2782934/",
       "pubDate": "Sat, 18 Jul 2026 02:55:57 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_5220.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【つよい】「あんたのこと嫌いなんだけど」と面と向かって言い放たれた中1女子　→　切り返しがあまりに圧倒的強者すぎてネット大絶賛！　「論理的に完璧」「カッコいい」ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10547949.html",
-      "pubDate": "2026-07-18T11:40:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/a/2a715490.jpg"
     },
     {
       "siteId": "jin",
@@ -821,19 +860,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "特殊清掃YouTuber「依頼された遺品整理の現場から、とんでもない物が出てきました」 → 買取額がヤバすぎるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455119.html",
-      "pubDate": "2026-07-18T07:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5cacae45-s.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -845,19 +871,6 @@
       "link": "https://gigazine.net/news/20260718-mlb-dugout-ipad-ai/",
       "pubDate": "Sat, 18 Jul 2026 06:30:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "CIAがウクライナとの戦争でのロシア兵の『生存時間』を分析→マジで衝撃の結果が出る・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455116.html",
-      "pubDate": "2026-07-18T06:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/0/c0826431.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1078,19 +1091,6 @@
       "description": "1587年、ルネサンス期のイタリアで銀行家・政治家として台頭したメディチ家の当主フランチェスコ1世・デ・メディチが、トスカーナ州のポッジョ・ア・カイアーノにある別荘で急死しました。この死については弟による毒殺説もささやかれていましたが、フランチェスコ1世の遺骨から抽出した古代DNAの分析により、死の真相が明らかになりました。続きを読む...",
       "link": "https://gigazine.net/news/20260717-ancient-dna-solves-16th-medici-mystery/",
       "pubDate": "Fri, 17 Jul 2026 14:45:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Meta AIが10代の自殺・自傷リスクを検知して保護者に通知する機能を導入、危険な会話を見つける専用AIも開発",
-      "description": "Metaは2026年7月16日、10代の利用者がMeta AIとの会話で自殺や自傷を考えている兆候を示した場合にInstagramのペアレンタルコントロール機能を利用する保護者へ通知する機能の提供を開始したと発表しました。続きを読む...",
-      "link": "https://gigazine.net/news/20260717-meta-ai-distress-conversations/",
-      "pubDate": "Fri, 17 Jul 2026 14:05:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1698,6 +1698,45 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "『モンハンNow』キービジュアルの作り方とは? 公式Discordコミュティ in 開発レポート第2弾を伝えたい",
+      "description": "待望の新古龍・イヴェルカーナが登場するシーズン10ピリオド2が始まったばかりの位置情報ゲーム『モンハンNow』。 本作で開催中の環境がコンセプトなのかを垣間見ることができるキービジュアルをシーズンやイベント毎に更新。 そ [&#8230;]",
+      "link": "https://getnews.jp/archives/3731481",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "話題のファミマ × シチズン「防水腕時計」をラス1で入手。腕時計しない派の私が手放せなくなった理由はね",
+      "description": "実は、腕時計をつけない派です。 スマホがあれば時間なんて困らないと思っていた筆者が二度見したのが、ファミリーマートの「コンビニエンスウェア 腕時計」。 シチズン時計と共同開発と知って、まさかコンビニでこんな本格派に出会う [&#8230;]",
+      "link": "https://getnews.jp/archives/3731489",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "横濱シスターズが放つ“頑張らなくていい応援歌”　新曲「君の光」が疲れた心を優しく照らす",
+      "description": "8月28日に、横浜市吉田町のライブハウスSILVERBACKにてワンマンライブの開催を予定している横濱シスターズ 横浜発の女性ボーカルグループ「横濱シスターズ」が、最新シングル「君の光～Into the Light」をリ [&#8230;]",
+      "link": "https://getnews.jp/archives/3731486",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "朝早くから玄関に誰かがやって来た？カメラをチェックすると・・そこにはホバリングするお客さんが！！",
       "description": "人感センサーにより、玄関への来客をお知らせしてくれたセキュリティカメラ。 そこで、誰がやってきたのか確認してみたところ・・・、珍しいお客さんが訪問していることが判明したのです！ ※こちらは、2022年7月に公開した記事を [&#8230;]",
       "link": "https://getnews.jp/archives/3731484",
@@ -1781,48 +1820,9 @@
       "link": "https://getnews.jp/archives/3731478",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "映画『氷血』北山宏光＆加藤千尋インタビュー　ホラー作品初挑戦で見えたもの",
-      "description": "雪に閉ざされた世界を舞台に、家族の平穏な日常が突如“白い怪異”に侵されていく《侵蝕感》ホラー『氷血』が公開中です。 【ストーリー】幼い息子・晶を連れて、豪雪地帯にある夫の実家に移住した稔(北山宏光)と悠希(加藤千尋)の夫 [&#8230;]",
-      "link": "https://getnews.jp/archives/3731191",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "そうめんはたくさん茹でて、冷凍するのが正解！ 家にある調味料でグッと美味しくなるよ",
-      "description": "※本記事は2023年7月25日に公開された記事を再編集して掲載しています。 Text and Photographed by 渡辺 文芽 夏の定番といえば「そうめん」。ツルッとしたのどごしで、暑くて食欲のないときでも不思 [&#8230;]",
-      "link": "https://getnews.jp/archives/3731477",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【NVIDIAグルメ】時価総額800兆円エヌビディア・フアンCEOが行った激安居酒屋「やきとん三吉」のウマイ料理5選",
-      "description": "NVIDIA(エヌビディア)といえば、時価総額が約800兆円の超大企業だ。そこのトップといえばフアンCEO。IT業界におけるカリスマ的存在であり、ゲーム企業SEGA(セガ)をこよなく愛する人物でもある。 そんなフアンCE [&#8230;]",
-      "link": "https://getnews.jp/archives/3731369",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-18T11:14:54.830057",
+  "updatedAt": "2026-07-18T12:28:56.513979",
   "sites": [
     {
       "id": "hachima",
