@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "VTuber・渋谷ハルが活動休止！その理由は……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548156.html",
+      "pubDate": "2026-07-19T06:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/6/86266683-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -572,19 +585,6 @@
       "link": "https://jin115.com/archives/52455150.html",
       "pubDate": "2026-07-18T18:00:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/a/4a76d3da.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ピザ屋「なんか客からピザが小さいというクレームが来てんな…なんで？ちょっとカメラチェックするか」→ とんでもない光景がｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548045.html",
-      "pubDate": "2026-07-18T18:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ffb3f8be.png"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-18T20:56:50.432592",
+  "updatedAt": "2026-07-18T21:57:38.834643",
   "sites": [
     {
       "id": "hachima",
