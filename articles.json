@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "男性「オークションで4000万円の壺を落札したぞ！鑑定してみるわ！」 → とんでもない事実が判明ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455157.html",
+      "pubDate": "2026-07-19T03:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/a/fa790d24-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『プリズマ☆イリヤ』のひろやまひろし先生、画力の向上が凄まじいと話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548185.html",
+      "pubDate": "2026-07-19T03:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/73a556b1.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -613,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/b/cbe63d45.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女性がゴルフカートらしきものを運転中、隣にいた女性が転倒 → 運転していた女性がとんでもない行動に出て後ろにいた人たちが驚愕してしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548008.html",
-      "pubDate": "2026-07-18T16:30:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/f/df026f24-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -832,19 +845,6 @@
       "link": "https://rocketnews24.com/2026/07/18/2782546/",
       "pubDate": "Sat, 18 Jul 2026 01:00:35 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/gtokyuplaza.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】iPhone、突如値上げ！いやもう高すぎいいい！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455139.html",
-      "pubDate": "2026-07-18T10:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60463295.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-18T17:02:21.318338",
+  "updatedAt": "2026-07-18T18:29:09.683675",
   "sites": [
     {
       "id": "hachima",
