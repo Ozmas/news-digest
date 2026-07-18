@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【酷暑】来週の天気がマジでヤバイ！なんか名古屋が40度超えてるんだけど……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548179.html",
+      "pubDate": "2026-07-19T04:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/ebdd3856.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -624,19 +637,6 @@
       "link": "https://rocketnews24.com/2026/07/18/2779356/",
       "pubDate": "Sat, 18 Jul 2026 08:00:17 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_5934_1920.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【時事世論調査】高市内閣不支持率、無党派で急増！中道と国民民主は支持率2%以下",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548018.html",
-      "pubDate": "2026-07-18T17:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/b/cbe63d45.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-18T18:29:09.683675",
+  "updatedAt": "2026-07-18T19:46:32.367813",
   "sites": [
     {
       "id": "hachima",
