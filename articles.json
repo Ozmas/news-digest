@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "特許庁「任天堂さぁ、お前の特許って誰でも思いつくやつじゃん。すでに素人がファンメイドで作ってるんだけど」→ブチギレた任天堂がとんでもない言い訳",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455230.html",
+      "pubDate": "2026-07-20T07:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/8/889c217a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ドラマ『VIVANT』に炭治郎と禰豆子！？花江夏樹と鬼頭明里が出演決定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548379.html",
+      "pubDate": "2026-07-20T06:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/0/8087ae86.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -587,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/42b65fc7-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大物アニメ監督「アニメの仕事場で挨拶が苦手な人、大損してますよ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548354.html",
-      "pubDate": "2026-07-19T18:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/f/5fac13f0.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +767,6 @@
       "link": "https://jin115.com/archives/52455183.html",
       "pubDate": "2026-07-19T12:20:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/b/4b829068.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "19歳生活保護の配信者「生活保護を受けて良かった事を3つ紹介します(ﾄﾞﾔｧ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455179.html",
-      "pubDate": "2026-07-19T12:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/77a3b07e.png"
     },
     {
       "siteId": "gigazine",
@@ -1698,6 +1698,32 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【夏のズボラ麺】食べました『冷しカップヌードル』すごい！これぞ開発5年の完成度！冷えた水を用意する価値が“絶大”の新体験",
+      "description": "2026年7月20日、日清から『冷しカップヌードル』が発売となりました。こちらの製品は開発になんと5年を要したとのこと。昨今の猛暑に向け、満を持して登場したと言えそうです。 今回、『冷しカップヌードル 鶏塩レモン味』『冷 [&#8230;]",
+      "link": "https://getnews.jp/archives/3731606",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「貪」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「貪」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「貪」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3731636",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "ワークマンの「窮屈じゃないTシャツ」が、汗をたくさんかく日の救世主になる理由。さらっと気持ちいいんだ",
       "description": "まだまだ夏本番ではないけれど、かなり暑くなってきましたね。 こう暑くなってくると、涼しいアイテムが欲しくなるもの。 涼しいアイテムのひとつである「冷感Tシャツ」は着た瞬間に涼しいものの、歩き続けたり、自転車に乗ったりする [&#8230;]",
       "link": "https://getnews.jp/archives/3731600",
@@ -1794,35 +1820,9 @@
       "link": "https://getnews.jp/archives/3731562",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "もう限界…！頭皮ムンムンの汗っかき。冷えピタでおなじみの小林製薬「頭キンキン」スプレーがすごかった",
-      "description": "外を歩くと、頭の中に熱がこもったような感覚になる。 夏はそれがしんどいんですよね。 そんな悩みを解決してくれるのが、小林製薬の「熱中対策 頭キンキンスプレー」でした。 ジェット噴射の頭用ひんやりスプレー 小林製薬「熱中対 [&#8230;]",
-      "link": "https://getnews.jp/archives/3731593",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "今通り過ぎていったのはカニ・・じゃない！シロハラインコだ！！その異様な走り方が話題に「思わず吹いてしまいました」「黄色頭のカニさん」",
-      "description": "走ってカメラの前を通り過ぎていったシロハラインコ。 その時の走り方が話題となっています！ ※こちらは、2025年7月に公開した記事を再構成したものとなります その体勢でなぜ走れるの？ ご紹介するのは、シロハラインコなど多 [&#8230;]",
-      "link": "https://getnews.jp/archives/3731589",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-19T20:57:22.839954",
+  "updatedAt": "2026-07-19T22:01:29.893816",
   "sites": [
     {
       "id": "hachima",
