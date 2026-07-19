@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】アイルランド人の17歳少年、富士山で転倒し「心が折れた」 → 警察官らが順番で少年を背負い下山",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548434.html",
+      "pubDate": "2026-07-20T02:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/42e6df6f.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ちいかわたちが鍾乳洞ならぬ醤油洞で手持ちの寿司にひとたらし、そのときに見せたうさぎのこだわりが手間暇かかっててかわいい",
+      "description": "ちいかわたちが鍾乳洞ならぬ醤油洞で手持ちの寿司にひとたらし、そのときに見せたうさぎのこだわりが手間暇かかっててかわいい",
+      "link": "https://togetter.com/li/2722448",
+      "pubDate": "Mon, 20 Jul 2026 01:50:30 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「どこに閉じるボタンがあるのか分からん広告」や「記事を読もうとしても広告が大きくて分からん広告」を規制してほしい話…水虫やダニのキモいのもやめて",
+      "description": "「どこに閉じるボタンがあるのか分からん広告」や「記事を読もうとしても広告が大きくて分からん広告」を規制してほしい話…水虫やダニのキモいのもやめて",
+      "link": "https://togetter.com/li/2722441",
+      "pubDate": "Mon, 20 Jul 2026 01:34:51 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【W杯】イギリス人ジャーナリスト「アルゼンチンがこれだけ勝利を祝ってるのは、誰も仕事がなく、人生で唯一の楽しみがサッカーだから」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548430.html",
+      "pubDate": "2026-07-20T01:20:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9d5082c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「マンションのエントランスにダンボールが置いてある。何が入ってるんだろ？」 → とんでもない物が封印されていたｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455214.html",
+      "pubDate": "2026-07-20T01:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/8/581feb77-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "角川まんが『日本の歴史』が大規模改訂「登場人物に女性が圧倒的に少なく、大きな違和感」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548429.html",
+      "pubDate": "2026-07-20T00:50:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/cc71305a.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "サキュバスシーシャバーに行ったときに会員登録のときに「セラです」といったらトンデモない聞き間違えをされた…サキュバスならしょうがないのでは？",
+      "description": "サキュバスシーシャバーに行ったときに会員登録のときに「セラです」といったらトンデモない聞き間違えをされた…サキュバスならしょうがないのでは？",
+      "link": "https://togetter.com/li/2722431",
+      "pubDate": "Mon, 20 Jul 2026 00:41:30 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "水分不足が原因で腎臓を一つ失った話… キッチンカー営業中にトイレに行けば客を待たせしてしまうので出店日は朝から水分を控えていたが、それをずっと続けてしまった",
+      "description": "水分不足が原因で腎臓を一つ失った話… キッチンカー営業中にトイレに行けば客を待たせしてしまうので出店日は朝から水分を控えていたが、それをずっと続けてしまった",
+      "link": "https://togetter.com/li/2722430",
+      "pubDate": "Mon, 20 Jul 2026 00:32:38 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -158,45 +262,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "高級なスピーカーやヘッドホンを買い替えたりするより「早く寝る」とかのほうが音質良くなると最近思うようになった",
-      "description": "高級なスピーカーやヘッドホンを買い替えたりするより「早く寝る」とかのほうが音質良くなると最近思うようになった",
-      "link": "https://togetter.com/li/2722386",
-      "pubDate": "Sun, 19 Jul 2026 22:41:33 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「まさに都会のオアシス」渋谷に氷の自販機が登場、一帯をひんやりと冷やす猛暑に嬉しい避暑イベント",
-      "description": "「まさに都会のオアシス」渋谷に氷の自販機が登場、一帯をひんやりと冷やす猛暑に嬉しい避暑イベント",
-      "link": "https://togetter.com/li/2722383",
-      "pubDate": "Sun, 19 Jul 2026 22:36:16 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "モンゴルの「万歳」にあたる『ホレー』はのちにロシア語の「ウラー！」や近世ヨーロッパにおける喚声の「フラー！」になった？",
-      "description": "モンゴルの「万歳」にあたる『ホレー』はのちにロシア語の「ウラー！」や近世ヨーロッパにおける喚声の「フラー！」になった？",
-      "link": "https://togetter.com/li/2722378",
-      "pubDate": "Sun, 19 Jul 2026 22:32:45 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -208,19 +273,6 @@
       "link": "http://blog.esuteru.com/archives/10548390.html",
       "pubDate": "2026-07-19T22:30:48+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7d06ade1.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "インターホンが鳴って出てみたら、半グレ風の人物が「瓦がどうこう」言い出し「直しましょうか」と言ったので、「無料でやってくれんのか？」と聞いて綺麗に直させた",
-      "description": "インターホンが鳴って出てみたら、半グレ風の人物が「瓦がどうこう」言い出し「直しましょうか」と言ったので、「無料でやってくれんのか？」と聞いて綺麗に直させた",
-      "link": "https://togetter.com/li/2722376",
-      "pubDate": "Sun, 19 Jul 2026 22:29:35 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -600,32 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/9/09d02255.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】女性「ぶつかりおじさんされる服装とされない服装がこちら」⇒ 5万いいね超え",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548337.html",
-      "pubDate": "2026-07-19T16:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/9262fd03.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】新婚夫さん、妻から57万円の食洗機をねだられ絶望してしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548330.html",
-      "pubDate": "2026-07-19T15:30:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/66653540.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +663,6 @@
       "link": "https://jin115.com/archives/52455195.html",
       "pubDate": "2026-07-19T15:00:57+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/d/4d456e57-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ホロライブVTuber・宝鐘マリンのお父さんからのLINEが凄まじすぎるｗｗｗｗ　「作詞したよ！これ歌ってくれない？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548319.html",
-      "pubDate": "2026-07-19T15:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c264bc91.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -806,19 +819,6 @@
       "link": "https://rocketnews24.com/2026/07/19/2780620/",
       "pubDate": "Sun, 19 Jul 2026 02:00:21 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/LINE_ALBUM_20260709-_2_260709_16.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「アルバイトは禁止してるのに、○○だけ推奨してる学校・大人は意味がわからない」→確かに意味不明で6万いいね",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455178.html",
-      "pubDate": "2026-07-19T11:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/e/0ed212d6.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-19T15:31:56.212931",
+  "updatedAt": "2026-07-19T17:03:48.326051",
   "sites": [
     {
       "id": "hachima",
