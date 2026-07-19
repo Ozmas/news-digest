@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "最近「池袋ヨドバシ」で脱糞騒動が起きないと思ったら、今度は〇〇で脱糞騒動がｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548371.html",
+      "pubDate": "2026-07-20T03:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/8/c8950590.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "コンビニトイレ利用しまくってるやつ、マジで気を付けろ・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455222.html",
+      "pubDate": "2026-07-20T03:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96a6276c.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "【悲報】アイルランド人の17歳少年、富士山で転倒し「心が折れた」 → 警察官らが順番で少年を背負い下山",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10548434.html",
@@ -626,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/06317ca4.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】人気アイドルさん、低身長なファンへの対応が神すぎると絶賛されるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548338.html",
-      "pubDate": "2026-07-19T16:30:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/c/3c07b0ef.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -793,19 +806,6 @@
       "link": "https://rocketnews24.com/2026/07/19/2783353/",
       "pubDate": "Sun, 19 Jul 2026 02:38:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_0544.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『キャプテン翼』全巻「100円」セールが終了間際！全21巻「18,648円」→「2,100円」！続編シリーズもライジングサンまで全て100円！本日23時59分まで！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455171.html",
-      "pubDate": "2026-07-19T11:20:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9e86983b.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-19T17:03:48.326051",
+  "updatedAt": "2026-07-19T18:29:24.142388",
   "sites": [
     {
       "id": "hachima",
