@@ -2,6 +2,201 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "小泉進次郎防衛相「核兵器の議論については、触れざるを得ない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548263.html",
+      "pubDate": "2026-07-19T09:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/9410eec7-s.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ライブ配信】はじめてスマホを持ちだして屋外配信に挑戦！ 盆踊り大会の様子を見にいきました",
+      "description": "しばらく2人体制で続けていた、当サイトのYouTubeチャンネルのライブ配信。7月1日から中国へ取材に出かけていた中澤が帰ってきて、7月15日の配信から再び3人に戻った。 中澤の土産話を中心に配信を構成しようと考えていた [&#8230;]",
+      "link": "https://rocketnews24.com/2026/07/19/2782501/",
+      "pubDate": "Sun, 19 Jul 2026 00:00:22 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/repo71401.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【埼玉】外国人による治安悪化、数字でハッキリとわかる段階へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455175.html",
+      "pubDate": "2026-07-19T09:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "娘の足の小指の爪が小さくて平たくない…足が大きくなると治ってくると思っていたが変化がないので、同じ症状の経験者を募る→「遺伝する」「ペディキュアはできない」",
+      "description": "娘の足の小指の爪が小さくて平たくない…足が大きくなると治ってくると思っていたが変化がないので、同じ症状の経験者を募る→「遺伝する」「ペディキュアはできない」",
+      "link": "https://togetter.com/li/2722136",
+      "pubDate": "Sun, 19 Jul 2026 09:00:14 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "新幹線で、隣の酔っ払いが突然、こちらのPCに手を伸ばしてWordのウィンドウを閉じようとしてきたので、寝る間を惜しんで書いている原稿を消されてなるものかと自分の中の仁義なきが発動した話",
+      "description": "新幹線で、隣の酔っ払いが突然、こちらのPCに手を伸ばしてWordのウィンドウを閉じようとしてきたので、寝る間を惜しんで書いている原稿を消されてなるものかと自分の中の仁義なきが発動した話",
+      "link": "https://togetter.com/li/2722135",
+      "pubDate": "Sun, 19 Jul 2026 08:48:57 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "炎天下の中をタイ人の友人と10分ほど歩いた結果、自分と友人の汗のかき方が全く違っていた…なぜなのか「人種による身体的構造の違いかと」",
+      "description": "炎天下の中をタイ人の友人と10分ほど歩いた結果、自分と友人の汗のかき方が全く違っていた…なぜなのか「人種による身体的構造の違いかと」",
+      "link": "https://togetter.com/li/2722134",
+      "pubDate": "Sun, 19 Jul 2026 08:33:54 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "タンブラーを購入した客が「何回か使ったけど気に入らんから返金しろ！」と来店してきたので、返金も返品も不可だと伝えると怒り出した→「お客様は知らない人が使ったコップを新品価格で買いますか？」と聞いたら帰った",
+      "description": "タンブラーを購入した客が「何回か使ったけど気に入らんから返金しろ！」と来店してきたので、返金も返品も不可だと伝えると怒り出した→「お客様は知らない人が使ったコップを新品価格で買いますか？」と聞いたら帰った",
+      "link": "https://togetter.com/li/2722133",
+      "pubDate": "Sun, 19 Jul 2026 08:31:37 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中小企業「え？退職するって！？じゃ、損害を受けたからこれ支払って！」 ← 内容がエグいと話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548260.html",
+      "pubDate": "2026-07-19T08:30:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2f7663c3-s.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「準備だけは、できとるんやで」出産前の妊婦が赤ちゃんのために収納棚や木製ベビーベッドの準備をした家の仏間の様子を投稿したところ、称賛の声が続々「託児所みたい」",
+      "description": "「準備だけは、できとるんやで」出産前の妊婦が赤ちゃんのために収納棚や木製ベビーベッドの準備をした家の仏間の様子を投稿したところ、称賛の声が続々「託児所みたい」",
+      "link": "https://togetter.com/li/2722132",
+      "pubDate": "Sun, 19 Jul 2026 08:27:45 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「ここ最近1番物価高を痛感した場面、コレ」2018年くらいに買った漫画と今月買った「同じ漫画」比較した画像に衝撃",
+      "description": "「ここ最近1番物価高を痛感した場面、コレ」2018年くらいに買った漫画と今月買った「同じ漫画」比較した画像に衝撃",
+      "link": "https://togetter.com/li/2722130",
+      "pubDate": "Sun, 19 Jul 2026 08:08:37 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "オンラインの二次面接で候補者に自己紹介をお願い…「お金たまでかお」を連呼したので強制退出→謝罪の電話があり、再面接したが同じことを繰り返したので自主退出させた話",
+      "description": "オンラインの二次面接で候補者に自己紹介をお願い…「お金たまでかお」を連呼したので強制退出→謝罪の電話があり、再面接したが同じことを繰り返したので自主退出させた話",
+      "link": "https://togetter.com/li/2722129",
+      "pubDate": "Sun, 19 Jul 2026 08:03:11 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ファミ通編集長「噂でクロスレビューの点数を金銭で買えるって？ない。絶対にない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548255.html",
+      "pubDate": "2026-07-19T08:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/98da310e-s.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "紛らわしい！ 恥ずかしい失敗をしそうになった隣りの男子！　隣りの席の子の様子がおかしい第44回「続・カット」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/07/19/2778264/",
+      "pubDate": "Sat, 18 Jul 2026 23:00:46 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari44-1koma.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "大物ユーチューバーさん、美人の妻の素顔を公開するも\"なにかがおかしい\"と話題に・・・「ホラー動画」「おばけのそれ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455174.html",
+      "pubDate": "2026-07-19T08:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/d/4d8206d6.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "圧迫された腫瘍の成長がなぜ遅くなるのかをAIが解明",
+      "description": "腫瘍を物理的に圧迫すると成長が遅くなることが知られています。新たな研究で、腫瘍が圧力に屈してしまうメカニズムが明らかになりました。続きを読む...",
+      "link": "https://gigazine.net/news/20260719-physical-pressure-tumors-grow-slower/",
+      "pubDate": "Sun, 19 Jul 2026 08:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -184,19 +379,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bc17d0a9.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "一番辛かった思い出は、月に一度「営業会議という名の激詰め会議」があって、詰められて返答に窮する→沈黙が続く→これを繰り返して朝4時までかかったこと",
-      "description": "一番辛かった思い出は、月に一度「営業会議という名の激詰め会議」があって、詰められて返答に窮する→沈黙が続く→これを繰り返して朝4時までかかったこと",
-      "link": "https://togetter.com/li/2722078",
-      "pubDate": "Sun, 19 Jul 2026 01:18:29 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -234,19 +416,6 @@
       "link": "http://blog.esuteru.com/archives/10548140.html",
       "pubDate": "2026-07-19T00:30:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2f06d401.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "千葉県のスーパーで、これがしれっと売られているので2度見してしまった… 別名、北海道の最終兵器「食べる催涙ガス」注意喚起のポップもなかったが、訓練された道民じゃないと無理",
-      "description": "千葉県のスーパーで、これがしれっと売られているので2度見してしまった… 別名、北海道の最終兵器「食べる催涙ガス」注意喚起のポップもなかったが、訓練された道民じゃないと無理",
-      "link": "https://togetter.com/li/2722059",
-      "pubDate": "Sun, 19 Jul 2026 00:24:22 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -288,19 +457,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「あろうことか治療することになったのは例の人物でした」京アニ放火殺人事件から7年…被害者の治療に立ち会えず、死刑囚の救命にあたった医師が今も抱える自問自答",
-      "description": "「あろうことか治療することになったのは例の人物でした」京アニ放火殺人事件から7年…被害者の治療に立ち会えず、死刑囚の救命にあたった医師が今も抱える自問自答",
-      "link": "https://togetter.com/li/2722045",
-      "pubDate": "Sat, 18 Jul 2026 23:58:46 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -312,32 +468,6 @@
       "link": "http://blog.esuteru.com/archives/10548194.html",
       "pubDate": "2026-07-18T23:30:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bf8b9bb5.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう",
-      "description": "「日本自らが『ジャパンAI』を所有しなければならない」エヌビディアのフアンCEOが経産省のイベントで発言したが、その内容が日本に説教しているようで、別の意味にも聞こえそう",
-      "link": "https://togetter.com/li/2722026",
-      "pubDate": "Sat, 18 Jul 2026 23:21:08 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「熊相手にすげー」有害鳥獣捕獲のため巡回していた40代のハンターが子熊と遭遇、襲われて重傷も「素手で目を潰し」つつ、最後は発砲して仕留める",
-      "description": "「熊相手にすげー」有害鳥獣捕獲のため巡回していた40代のハンターが子熊と遭遇、襲われて重傷も「素手で目を潰し」つつ、最後は発砲して仕留める",
-      "link": "https://togetter.com/li/2722023",
-      "pubDate": "Sat, 18 Jul 2026 23:08:37 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -366,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35391d3d.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "正直言って、学校でアルバイトが禁止でボランティアを推奨する意味がわからない→「ボランティアは進学に役立つ」「お金を稼ぐと問題を起こすかもしれない」などの理由か？",
-      "description": "正直言って、学校でアルバイトが禁止でボランティアを推奨する意味がわからない→「ボランティアは進学に役立つ」「お金を稼ぐと問題を起こすかもしれない」などの理由か？",
-      "link": "https://togetter.com/li/2722011",
-      "pubDate": "Sat, 18 Jul 2026 22:49:59 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -390,19 +507,6 @@
       "link": "http://blog.esuteru.com/archives/10548182.html",
       "pubDate": "2026-07-18T22:30:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/8/288f6514.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "京都大学野生動物研究センターがチンパンジーを対象に認知研究を行っている動画が現代社会の風刺画みたい「会社かな？」",
-      "description": "京都大学野生動物研究センターがチンパンジーを対象に認知研究を行っている動画が現代社会の風刺画みたい「会社かな？」",
-      "link": "https://togetter.com/li/2721998",
-      "pubDate": "Sat, 18 Jul 2026 22:25:57 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -509,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bdbefaa0.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "伝説のクイズ番組『アメリカ横断ウルトラクイズ』が復活！円安なのに地球一周規模にスケールアップｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548154.html",
-      "pubDate": "2026-07-18T20:30:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d99ccda0.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -535,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/9/99e10da5.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【文春】女優・川口春奈さん、サッカー日本代表キャプテン・板倉滉選手と真剣交際報道！「川口さんはオランダまで会いに」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548152.html",
-      "pubDate": "2026-07-18T20:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/2073d966.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +637,6 @@
       "link": "https://jin115.com/archives/52455159.html",
       "pubDate": "2026-07-18T20:00:43+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d6add510.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "フワちゃん「活動休止中の収入は、アニメ『おじゃる丸』の歌唱印税53円だけでした」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548149.html",
-      "pubDate": "2026-07-18T19:40:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/9447a448.jpg"
     },
     {
       "siteId": "jin",
@@ -782,19 +847,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_5220.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "記者「メタバース空間での恋愛事情調べるわ！」→カオスすぎる調査結果がこちらｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455130.html",
-      "pubDate": "2026-07-18T11:30:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/1/813b0090.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -806,19 +858,6 @@
       "link": "https://rocketnews24.com/2026/07/18/2783163/",
       "pubDate": "Sat, 18 Jul 2026 02:30:37 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_0074.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気ユーチューバーの嫁、写真が流出して顔バレ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455129.html",
-      "pubDate": "2026-07-18T11:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/2/b2a19b76.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1055,19 +1094,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/17/06/subbuzz/BmBxd6_Oc.jpg?crop=2507:1671;1725,360&resize=1250:830"
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "カップヌードル史上初の冷水で作れて暑い夏にぴったりな「冷しカップヌードル ピリ辛キムチ味／鶏塩レモン味」を食べてみた",
-      "description": "日清食品のロングセラーブランド「カップヌードル」史上初となる、冷水で作れるカップ麺「冷しカップヌードル ピリ辛キムチ味」「冷しカップヌードル 鶏塩レモン味」が、2026年7月20日(月)に登場します。冷水で戻せる新製法「コールドリハイド製法」を採用し、冷蔵庫で冷やした水を注いで5分待つだけで作れるというカップ麺が編集部に届いたので、どんな味になっているのか一足先に食べて確かめてみました。続きを読む",
-      "link": "https://gigazine.net/news/20260717-nissin-hiyashi-cupnoodle-kimchi-lemon/",
-      "pubDate": "Fri, 17 Jul 2026 17:25:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1235,32 +1261,6 @@
       "link": "https://www.buzzfeed.com/jp/yukiadachi/moriyasuhajime-omago2shot0715",
       "pubDate": "Thu, 16 Jul 2026 05:31:05 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/16/02/subbuzz/P-qvxbgyS.jpg?crop=3203:2135;943,506&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "みんな気づいてた!? あの『アンナミラーズ』のアイスがひそかにファミマで売ってるぞ！ アップルパイの再現度は秀逸",
-      "description": "皆さん、お気づきだっただろうか？　俺たちのアンナミラーズがひそかにコンビニで買える商品を出していたんだぞ。信じられるか？ 2022年に当時最後のお店だった高輪店が閉店することが決まった際に、大行列ができたあのアンナミラー [&#8230;]",
-      "link": "https://rocketnews24.com/2026/07/16/2782077/",
-      "pubDate": "Thu, 16 Jul 2026 08:00:23 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/annmillice.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "『映画ちいかわ』と「ココイチ」のコラボスタート！ まるで、ちいかわが食べていそうなカレーで最高!!",
-      "description": "『映画ちいかわ 人魚の島のひみつ』の公開（2026年7月24日）が迫ってきた。先駆けて、各所でコラボがはじまっている。全国のCoCo壱番屋では2026年7月16日より、キャンペーン「ココイチ×映画ちいかわ カレー大作戦」 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/07/16/2782345/",
-      "pubDate": "Thu, 16 Jul 2026 06:00:38 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_7864.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-18T22:59:14.602891",
+  "updatedAt": "2026-07-19T00:02:33.200977",
   "sites": [
     {
       "id": "hachima",
