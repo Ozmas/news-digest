@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "岸田メル先生、ブチギレる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455290.html",
+      "pubDate": "2026-07-21T07:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68a0e454.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "美味しいのだけど…！ いまいち空気の悪い職場！　四コマサボタージュFB第47回「味はともかく…」",
+      "description": "私はそんな頻繁にラインでの連絡とかないのだけど、他の人はどうなんだろう……。一日に一回は誰かからの連絡を受けていたりするのかな。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/07/21/2780426/",
+      "pubDate": "Mon, 20 Jul 2026 22:00:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-47.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "音楽ストリーミングサービスが普及した時代に「音楽海賊版の失われた喜び」をアーティストが語る",
+      "description": "CDの全盛期には違法に音楽ファイルを共有するトレントサイトが人気を集めていましたが、現在ではストリーミングサービスによる無料視聴や動画サイトでアーティスト自身が無料公開するケースも多く、音楽の海賊版を取り巻く状況は大きく変化しています。音楽メディアのPigeons＆Planesは「音楽著作権侵害の失われた喜び」という記事を公開し、海賊版の盛衰に伴う音楽コミュニティの変化などをまとめています。続きを",
+      "link": "https://gigazine.net/news/20260721-music-piracy/",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "スペインサッカー代表公式アカウントが消しゴムマジックでトランプ大統領を削除ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548688.html",
+      "pubDate": "2026-07-21T06:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/9/396a72ae-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ホロライブの新作ゲーム『ホロドリ』、まさかの卒業した“あの人”が登場することが発覚！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455289.html",
+      "pubDate": "2026-07-21T06:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7a76e510.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -613,19 +678,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/chaos_1920.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ジャンプ本誌の『ハンターハンター』にゴンが最後に出てから次出るまでの間に”あの超大作漫画”が始まって終わっていると判明ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548580.html",
-      "pubDate": "2026-07-20T18:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/42a1ead4.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,32 +780,6 @@
       "link": "https://rocketnews24.com/2026/07/20/2782307/",
       "pubDate": "Mon, 20 Jul 2026 06:00:22 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/2056a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【恋愛強者の闇】すでに彼氏がいる女子ばかり狙う先輩の“ゴミクズ恋愛理論”が最悪すぎて話題に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455239.html",
-      "pubDate": "2026-07-20T15:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/5/f55d7881.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "両親が亡くなり空き家になっている実家へ草むしりに行くと、駐車場に知らない車が停まっていた→即警察を呼んだ結果、衝撃の事実が判明・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455257.html",
-      "pubDate": "2026-07-20T14:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/9/f95d058b-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1133,19 +1159,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "郷土料理「すこ」の味わいをサイダーにした越前大野の「すこサイダー」を飲んでみた",
-      "description": "「天空の城」の1つ・越前大野城がある福井県大野市は名水でも知られており、郷土料理「すこ」と組み合わせた「越前おおの名水すこサイダー」が販売されています。「すこ」はネットスラングのほうしか知らなかったので、いったいどんなサイダーなのか買って飲んでみました。続きを読む...",
-      "link": "https://gigazine.net/news/20260718-suko-cider/",
-      "pubDate": "Sat, 18 Jul 2026 21:30:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1157,19 +1170,6 @@
       "link": "https://rocketnews24.com/2026/07/18/2782700/",
       "pubDate": "Sat, 18 Jul 2026 09:00:12 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/kikimimi98-1koma.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "前代未聞の珍蕎麦に期待大！ が、その期待は裏切られた【家そば放浪記】第305束：函館「スーパーアークス」で買った、マルナカ『ごまそば』243円（1人前60円）",
-      "description": "北海道・函館のスーパーで、ものすごく珍しい干しそばを見つけた。 その名も「ごまそば」。 なんと、そばにごまが練り込まれているという。 これまで300束以上の干しそばを食べてきたが、「ごまそば」は初体験。私のデータベースに [&#8230;]",
-      "link": "https://rocketnews24.com/2026/07/18/2779356/",
-      "pubDate": "Sat, 18 Jul 2026 08:00:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_5934_1920.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「訙」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「訙」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「訙」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3731721",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【人生のホラー映画ベスト３】　『フランキー・フリーコ』『デスストーカー』スティーヴン・コスタンスキ監督 編［ホラー通信］",
       "description": "映画関係者・著名人の皆さんにホラー映画のオールタイムベスト3作品をうかがっていく『ホラー通信』恒例企画です。 今回は、『フランキー・フリーコ』『デスストーカー』が同時公開中のスティーヴン・コスタンスキ監督にお伺いしました [&#8230;]",
       "link": "https://getnews.jp/archives/3730140",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3731705",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "『お終活３』約１０万人動員！ 香月秀之監督が“さだまさし沼”にどっぷり　ツアーＴシャツ姿で愛を爆発",
-      "description": "豪華キャストを迎えての「お終活3」が大好評 映画『お終活３ 幸春！人生メモリーズ』が、7月16日（木）をもって、7週間にわたるファーストラン上映を終了した。期間中には約10万人が劇場を訪れ、イオンシネマ熊本では現在もロン [&#8230;]",
-      "link": "https://getnews.jp/archives/3731703",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-20T20:49:15.276856",
+  "updatedAt": "2026-07-20T22:05:03.601294",
   "sites": [
     {
       "id": "hachima",
