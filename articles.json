@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "故人のサブスク解約のしづらさが話題に。コレどうにかならんの？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548679.html",
+      "pubDate": "2026-07-21T04:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/059fc120-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "任天堂、マジでやばすぎる特許ゴロになってた・・・特許庁をブチギレさせる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455287.html",
+      "pubDate": "2026-07-21T04:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/d/ddfd9792.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ワールドカップ決勝のハーフタイムショーに批判殺到！「悪夢のような光景」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548668.html",
+      "pubDate": "2026-07-21T03:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d63cfdd2.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "スコップ装備のおじさん、クマ3頭を撃退ｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455285.html",
+      "pubDate": "2026-07-21T03:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/f/4fe58988.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「上りやすさが段違い」家でよく見る「踊り場あり」と「三角ゾーン」の階段はどっちが好き？→怪我した人の体験談から安全性と省スペースのトレードオフが見えてくる",
+      "description": "「上りやすさが段違い」家でよく見る「踊り場あり」と「三角ゾーン」の階段はどっちが好き？→怪我した人の体験談から安全性と省スペースのトレードオフが見えてくる",
+      "link": "https://togetter.com/li/2722894",
+      "pubDate": "Tue, 21 Jul 2026 02:06:03 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "コントというべきかネタ動画「乳バスドラム」がギリおもろくてやるせないときに見たくなるやつ…なお余裕が無いと笑えない類でもある",
+      "description": "コントというべきかネタ動画「乳バスドラム」がギリおもろくてやるせないときに見たくなるやつ…なお余裕が無いと笑えない類でもある",
+      "link": "https://togetter.com/li/2722897",
+      "pubDate": "Tue, 21 Jul 2026 02:02:31 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ポケモン対戦界隈、ガチで限界集落だった・・・「新規層が増えたせいで◯◯になった！これなら昔のほうがよかった」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455283.html",
+      "pubDate": "2026-07-21T02:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/39a01d01.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "Xbox幹部「どのタイトルを独占にするかはまだ検討中。シングルプレイヤーだから独占ということにはならない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548722.html",
+      "pubDate": "2026-07-21T02:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a277acf8.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -223,19 +327,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「お願いだからこの動画を見てくれ」ポケットモンスター「スカーレット・バイオレット」で大量発生したコダックが集まってきて並ぶ姿が可愛さの塊",
-      "description": "「お願いだからこの動画を見てくれ」ポケットモンスター「スカーレット・バイオレット」で大量発生したコダックが集まってきて並ぶ姿が可愛さの塊",
-      "link": "https://togetter.com/li/2722805",
-      "pubDate": "Mon, 20 Jul 2026 22:26:15 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -259,19 +350,6 @@
       "description": "勤務時刻が直前まで決まらない労働者の生活全体の幸福度は、規則的な勤務時刻の労働者よりも低い傾向にあるとアメリカ・ペンシルベニア州立大学などの研究チームが報告しました。続きを読む...",
       "link": "https://gigazine.net/news/20260720-unstable-work-schedule-happiness/",
       "pubDate": "Mon, 20 Jul 2026 22:15:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ストーマ（人工肛門）について知ることができるイラストがめちゃくちゃわかりやすい、天然肛門も優秀だがたまに嘘をつくのが困りもの",
-      "description": "ストーマ（人工肛門）について知ることができるイラストがめちゃくちゃわかりやすい、天然肛門も優秀だがたまに嘘をつくのが困りもの",
-      "link": "https://togetter.com/li/2722797",
-      "pubDate": "Mon, 20 Jul 2026 22:09:50 +0900",
       "thumbnail": ""
     },
     {
@@ -600,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "日経新聞「みんな落ち着け！日本の年金は破綻しないぞ！！」⇒ X民からツッコミの嵐に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548565.html",
-      "pubDate": "2026-07-20T16:30:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/f/8fac1b87.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -639,45 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/1/e13a2060.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】オーストラリア入国拒否者の半数が日本人女性だった・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548561.html",
-      "pubDate": "2026-07-20T16:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/87f78ad3-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】トランプ大統領、W杯のトロフィーリフトでやらかし世界中で炎上ｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548552.html",
-      "pubDate": "2026-07-20T15:30:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/94885e97.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【恋愛強者の闇】すでに彼氏がいる女子ばかり狙う先輩の“ゴミクズ恋愛理論”が最悪すぎて話題に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455239.html",
-      "pubDate": "2026-07-20T15:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/5/f55d7881.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -689,6 +715,19 @@
       "link": "https://rocketnews24.com/2026/07/20/2782307/",
       "pubDate": "Mon, 20 Jul 2026 06:00:22 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/2056a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【恋愛強者の闇】すでに彼氏がいる女子ばかり狙う先輩の“ゴミクズ恋愛理論”が最悪すぎて話題に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455239.html",
+      "pubDate": "2026-07-20T15:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/5/f55d7881.jpg"
     },
     {
       "siteId": "jin",
@@ -715,45 +754,6 @@
       "link": "https://jin115.com/archives/52455253.html",
       "pubDate": "2026-07-20T13:00:22+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/38a0f374.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】サッカーW杯見てないやつ、非国民判定されてしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455251.html",
-      "pubDate": "2026-07-20T12:40:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/2/624d0350.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ラブ★コン』全巻「100円」セール！全17巻「9,231円」→「1,700円」！平成女子が全員ハマった少女漫画の金字塔！アニメ化、実写映画化もされた超有名作！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455229.html",
-      "pubDate": "2026-07-20T12:20:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/9/a93c3bba.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ドラクエおじさん、吉野家でやらかす",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455250.html",
-      "pubDate": "2026-07-20T12:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/2/c297934e-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-20T16:57:52.604711",
+  "updatedAt": "2026-07-20T19:01:14.307388",
   "sites": [
     {
       "id": "hachima",
