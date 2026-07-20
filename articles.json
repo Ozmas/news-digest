@@ -2,6 +2,175 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "社会人初日に訪れた試練の話… 入社初日、会社に行ったが（初日だし研修かな？）と思っていたら、「おはよう！じゃあ営業行ってきて」とカタログを渡された",
+      "description": "社会人初日に訪れた試練の話… 入社初日、会社に行ったが（初日だし研修かな？）と思っていたら、「おはよう！じゃあ営業行ってきて」とカタログを渡された",
+      "link": "https://togetter.com/li/2722970",
+      "pubDate": "Tue, 21 Jul 2026 08:31:29 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気配信者「株でやばすぎる損をした人を見つける『追証人狼』っていう企画やろうぜ」→まさかすぎる理由で中止になってしまう・・・その理由がこちら",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455292.html",
+      "pubDate": "2026-07-21T08:30:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90a0a2ed.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "カリフォルニア州のように「オンラインで入会できるサブスクは、オンラインで退会できなければならない」というClick to Cancelルールが日本でも必要だと思う話",
+      "description": "カリフォルニア州のように「オンラインで入会できるサブスクは、オンラインで退会できなければならない」というClick to Cancelルールが日本でも必要だと思う話",
+      "link": "https://togetter.com/li/2722966",
+      "pubDate": "Tue, 21 Jul 2026 08:11:47 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ホラー苦手民の自分が最もトラウマになったゲームの話… ホラーゲームじゃないのになんでだよと思われるかもしれないが、子供の自分には物凄く怖く感じた",
+      "description": "ホラー苦手民の自分が最もトラウマになったゲームの話… ホラーゲームじゃないのになんでだよと思われるかもしれないが、子供の自分には物凄く怖く感じた",
+      "link": "https://togetter.com/li/2722965",
+      "pubDate": "Tue, 21 Jul 2026 08:09:24 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「手取り20万すらないのに面接何度もやるオフィスワークは何様なの？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455291.html",
+      "pubDate": "2026-07-21T08:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90c49523.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「ある喫茶店のメニュー、あまりにクソすぎて見た瞬間に店を出たくなる」パシャッ　→　想像の300倍以上クセが強すぎて賛否両論！ 一体店主に何があったんだ…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548778.html",
+      "pubDate": "2026-07-21T08:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/1/d1177daa.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【1490円】ワークマンの夏向け疲労回復ウェア「ドライTシャツ」を着比べて分かったこと",
+      "description": "昨年の大ヒットから随分と身近な存在になったリカバリーウェア。一時は品薄だったものの、最近はそれなりに在庫もあって気軽に入手できるようになってきた。 中でもリーズナブルで人気なのがワークマンの疲労回復ウェア「メディヒール」 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/07/21/2782333/",
+      "pubDate": "Mon, 20 Jul 2026 23:00:09 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_1664.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "ビル・ゲイツが「エイズ(AIDS)終息に役立つ革新的な技術」について紹介",
+      "description": "Microsoft創業者であり世界有数の億万長者として知られるビル・ゲイツ氏は、元妻のメリンダ・ゲイツ氏とともにビル＆メリンダ・ゲイツ財団という慈善団体を立ち上げ、2045年までに全財産のほとんどを寄付することを発表するなど、慈善活動家としての側面も持っています。そんなゲイツ氏が自身のYouTubeチャンネルで、後天性免疫不全症候群(エイズ、AIDS)の終息に役立つ「2つの革新的な技術」について紹",
+      "link": "https://gigazine.net/news/20260721-bill-gates-end-of-aids/",
+      "pubDate": "Tue, 21 Jul 2026 08:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "おむつの注意書きに「大便はトイレに流してください」と書いてあるのを初めて知った…普通に包んで捨てていた→固形になってからが一般的だが、全く知らなかった人も",
+      "description": "おむつの注意書きに「大便はトイレに流してください」と書いてあるのを初めて知った…普通に包んで捨てていた→固形になってからが一般的だが、全く知らなかった人も",
+      "link": "https://togetter.com/li/2722959",
+      "pubDate": "Tue, 21 Jul 2026 07:49:18 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "娘と信号待ち中、通りすがりのお爺さんに「あんた、ちょっといい？」「お子さんいるから話したくてさ！」と声をかけられ、（子連れだからのあえて？何ごと？）とちょっと警戒",
+      "description": "娘と信号待ち中、通りすがりのお爺さんに「あんた、ちょっといい？」「お子さんいるから話したくてさ！」と声をかけられ、（子連れだからのあえて？何ごと？）とちょっと警戒",
+      "link": "https://togetter.com/li/2722958",
+      "pubDate": "Tue, 21 Jul 2026 07:45:53 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】実写映画最新作『カイジ 人生リベンジゲーム』、会長の息子・兵藤和也役に亀梨和也さんｗｗｗｗｗｗ　想像以上に寄せてる",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548766.html",
+      "pubDate": "2026-07-21T07:30:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/379bac4d-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "はてな展にあった「恋人の既読がつかない。どのくらいでモヤる？」という展示に1日が1番多かった…寛容過ぎない？1日既読付かなかったら普通に冷め期入るやろ→様々な反応",
+      "description": "はてな展にあった「恋人の既読がつかない。どのくらいでモヤる？」という展示に1日が1番多かった…寛容過ぎない？1日既読付かなかったら普通に冷め期入るやろ→様々な反応",
+      "link": "https://togetter.com/li/2722954",
+      "pubDate": "Tue, 21 Jul 2026 07:27:49 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "無印良品公式Xが販売中のカレー45種類を、辛さ別にまとめた画像を投稿… ネットからは「助かる」「こういうのが欲しかった」と歓喜の声、みなさんのお好きなカレーの情報も続々",
+      "description": "無印良品公式Xが販売中のカレー45種類を、辛さ別にまとめた画像を投稿… ネットからは「助かる」「こういうのが欲しかった」と歓喜の声、みなさんのお好きなカレーの情報も続々",
+      "link": "https://togetter.com/li/2722872",
+      "pubDate": "Tue, 21 Jul 2026 07:18:02 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -13,6 +182,19 @@
       "link": "https://jin115.com/archives/52455290.html",
       "pubDate": "2026-07-21T07:00:23+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68a0e454.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】アニメ『ヤニねこ』、大家さんの「問題のあのシーン」のリアルすぎるコスプレをする猛者男性が現る！！　これはｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10548763.html",
+      "pubDate": "2026-07-21T07:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/3/23215de4-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -145,45 +327,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/5/4535a0b7.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "東京でおいしいテキサスBBQを食べられる店「PHAT Q」がガチ過ぎて天国、他の店のオススメ情報も",
-      "description": "東京でおいしいテキサスBBQを食べられる店「PHAT Q」がガチ過ぎて天国、他の店のオススメ情報も",
-      "link": "https://togetter.com/li/2722928",
-      "pubDate": "Tue, 21 Jul 2026 04:41:01 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ディズニーにカラスがいないように見える話に「いや、カラスいるよ」と目撃談がぞくぞく集結、数自体は少ないが食べ物を掠め取ってくるので注意が必要",
-      "description": "ディズニーにカラスがいないように見える話に「いや、カラスいるよ」と目撃談がぞくぞく集結、数自体は少ないが食べ物を掠め取ってくるので注意が必要",
-      "link": "https://togetter.com/li/2722925",
-      "pubDate": "Tue, 21 Jul 2026 04:28:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "秋葉原ラジオ会館リニューアル12周年セレモニーはシュタインズ・ゲートとのコラボ開催、ゲスト桃井はるこ氏との「フェイリス・ニャンニャン」コール合唱で大盛り上がり",
-      "description": "秋葉原ラジオ会館リニューアル12周年セレモニーはシュタインズ・ゲートとのコラボ開催、ゲスト桃井はるこ氏との「フェイリス・ニャンニャン」コール合唱で大盛り上がり",
-      "link": "https://togetter.com/li/2722918",
-      "pubDate": "Tue, 21 Jul 2026 04:07:47 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -236,32 +379,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/f/4fe58988.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「上りやすさが段違い」家でよく見る「踊り場あり」と「三角ゾーン」の階段はどっちが好き？→怪我した人の体験談から安全性と省スペースのトレードオフが見えてくる",
-      "description": "「上りやすさが段違い」家でよく見る「踊り場あり」と「三角ゾーン」の階段はどっちが好き？→怪我した人の体験談から安全性と省スペースのトレードオフが見えてくる",
-      "link": "https://togetter.com/li/2722894",
-      "pubDate": "Tue, 21 Jul 2026 02:06:03 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "コントというべきかネタ動画「乳バスドラム」がギリおもろくてやるせないときに見たくなるやつ…なお余裕が無いと笑えない類でもある",
-      "description": "コントというべきかネタ動画「乳バスドラム」がギリおもろくてやるせないときに見たくなるやつ…なお余裕が無いと笑えない類でもある",
-      "link": "https://togetter.com/li/2722897",
-      "pubDate": "Tue, 21 Jul 2026 02:02:31 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -288,19 +405,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a277acf8.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "好奇心で購入した「メタルシャワー」を使ってみたらゾクゾクに襲われて気持ちよくて毎日使っていた…今はもう何をしてもダメ、どうしたらいいのか？",
-      "description": "好奇心で購入した「メタルシャワー」を使ってみたらゾクゾクに襲われて気持ちよくて毎日使っていた…今はもう何をしてもダメ、どうしたらいいのか？",
-      "link": "https://togetter.com/li/2722889",
-      "pubDate": "Tue, 21 Jul 2026 01:40:15 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -312,19 +416,6 @@
       "link": "http://blog.esuteru.com/archives/10548718.html",
       "pubDate": "2026-07-21T01:20:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/a/0af8a4e0.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "パフォーマンスで漫画をガチで描いたら、ARグラスを使っているのではないかと疑われた話「ARグラスで描けるなら描いてみろ案件」",
-      "description": "パフォーマンスで漫画をガチで描いたら、ARグラスを使っているのではないかと疑われた話「ARグラスで描けるなら描いてみろ案件」",
-      "link": "https://togetter.com/li/2722881",
-      "pubDate": "Tue, 21 Jul 2026 01:16:55 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -600,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d8f21740.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "LUNA SEAのSUGIZOさん(57)、高市政権に苦言「皇室典範改正も国旗損壊罪も今最優先するべき事案なのか」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548647.html",
-      "pubDate": "2026-07-20T19:00:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/6/765dff32.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,32 +715,6 @@
       "link": "https://gigazine.net/news/20260720-18-words/",
       "pubDate": "Mon, 20 Jul 2026 19:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "トランプ大統領、ついに懸賞金が賭けられる！その額なんと・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548644.html",
-      "pubDate": "2026-07-20T18:40:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/b/1bd6a1b3.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「転売自体を叩くのはアホやねん。叩くやつも『1000円あげるからコーラ買ってきて』言われたらいくだろ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10548642.html",
-      "pubDate": "2026-07-20T18:20:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/9/79d30047-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -741,32 +793,6 @@
       "link": "https://gigazine.net/news/20260720-automatic-license-plate-reader-system/",
       "pubDate": "Mon, 20 Jul 2026 16:46:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安終了速報】『シルバーマウンテン『邪神の弁当屋さん』などが実質半額になるKindle週末セール＆『浦安鉄筋家族』『バチバチ』などが全巻99円の秋田書店セール、本日23:59に終了！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455260.html",
-      "pubDate": "2026-07-20T16:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/8/98e9554f.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【ネタバレ注意】『ハンターハンター』最新話、全読者騒然ガチの衝撃展開に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455256.html",
-      "pubDate": "2026-07-20T16:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/1/e13a2060.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1144,32 +1170,6 @@
       "link": "https://gigazine.net/news/20260719-apple-raises-icloud-plus-subscription-prices/",
       "pubDate": "Sun, 19 Jul 2026 00:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "知能が高い人ほどエコな車に乗るという研究結果",
-      "description": "他者や社会全体に利益を生む行動は向社会的行動と呼ばれ、この中には不特定多数への援助や寄付、選挙での投票といったものが含まれます。新たな研究では、知能指数が高い人ほど投票や寄付、環境に優しい車の購入といった向社会的行動をする可能性が高いことが明らかになりました。続きを読む...",
-      "link": "https://gigazine.net/news/20260718-intelligence-voting-charitable-giving-prosocial/",
-      "pubDate": "Sat, 18 Jul 2026 22:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第94話「あの子がいない」",
-      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/07/18/2782700/",
-      "pubDate": "Sat, 18 Jul 2026 09:00:12 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/kikimimi98-1koma.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "お願いだから5日間待って！排水口に入れるだけで、ニオイも油汚れも「水で全落ち」するなんて…",
+      "description": "※本記事は2024年06月07日に公開された記事を再編集して公開しています。 Text and Photographed by 山﨑 舞 ただでさえ憂鬱な排水口掃除。夏場は湿気でヌメりやニオイが出やすく、ますます億劫にな [&#8230;]",
+      "link": "https://getnews.jp/archives/3731727",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【脳トレ】「訙」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
       "description": "画像に並んだたくさんの「訙」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「訙」とは違う文字が！？   画像の中には、 [&#8230;]",
       "link": "https://getnews.jp/archives/3731721",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3731709",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "「マグカップはぜんぶコレにしたい」。割れても交換できる一生モノの「生涯を添い遂げるマグ」を見つけたよ",
-      "description": "商品提供：ワイヤードビーンズ 朝の1杯からはじまり、自宅で飲むコーヒーは、私の楽しみのひとつ。 お気に入りのコーヒーカップで飲むとさらに気分が上がるのですが、お気に入りのカップに限ってうっかり割ってしまい、ひどく落ち込ん [&#8230;]",
-      "link": "https://getnews.jp/archives/3731705",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-20T22:05:03.601294",
+  "updatedAt": "2026-07-20T23:32:35.164176",
   "sites": [
     {
       "id": "hachima",
