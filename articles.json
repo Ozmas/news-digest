@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "任天堂の特許ゴロすぎるやばい行動、Xで拡散されて話題になってしまう・・・任天堂最強法務部とチヤホヤされてたのになぜ？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455414.html",
+      "pubDate": "2026-07-23T06:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb46a87e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【終わりの始まり】オープンAIのモデルがテスト中に暴走！インフラに侵入してハッキング",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549226.html",
+      "pubDate": "2026-07-23T06:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6b8e633c.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "メモリ価格が約8倍に高騰したのはなぜなのか？Samsung・SK hynix・Micronの価格操作疑惑を巡る訴訟が始まる",
+      "description": "Samsung Electronics・SK hynix・Micron Technologyの3社が従来型DRAMの供給を協調して制限し、価格を人為的につり上げたとする反トラスト訴訟がアメリカで始まりました。原告側は「AI需要の急増だけではこれだけの価格上昇を説明できない」と主張しており、その鍵となる3社のこれまでの動向をPCハードウェア系メディアのGamers Nexusが解説しています。続きを",
+      "link": "https://gigazine.net/news/20260723-dram-price-fixing-lawsuit/",
+      "pubDate": "Thu, 23 Jul 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】TCG『Reバース』が商品展開を終了。10月発売の「ありがとうセット」が最後に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549279.html",
+      "pubDate": "2026-07-23T05:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/1/31ad7ad2-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】X民、“夏休み”を知らない",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455412.html",
+      "pubDate": "2026-07-23T05:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/e/7ecf1819.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "自衛隊の内部情報をSNSで拡散した自衛隊員が停職処分に。過去にはコミケで頒も",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549278.html",
+      "pubDate": "2026-07-23T05:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/d/1d704ccd.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -587,19 +665,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【欧州初】フランスで15歳未満のSNS利用禁止法案が可決！「日本も見習ったほうがいい」「いよいよ言論弾圧か」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549171.html",
-      "pubDate": "2026-07-22T18:40:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/6/8638312f.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -613,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "USJ、史上初の『R-18指定＆誓約書必須』アトラクション発表！どんだけヤバイんだよ・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549177.html",
-      "pubDate": "2026-07-22T18:20:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0b4f3fc0-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +689,6 @@
       "link": "https://jin115.com/archives/52455388.html",
       "pubDate": "2026-07-22T18:00:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/9/2942e1ac.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【なんで?】藤原竜也の顔がプリントされたレタスが発売中ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549176.html",
-      "pubDate": "2026-07-22T18:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/3/f3fd8c89.jpg"
     },
     {
       "siteId": "gigazine",
@@ -912,19 +951,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/Amazon-×-RN24-1.jpg"
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "AppleCare+でiPadとApple Watchの盗難・紛失も保証するプランが登場",
-      "description": "Appleの製品保証サービスである「AppleCare+」で、日本におけるiPadとApple Watchの盗難・紛失保証がスタートしました。続きを読む...",
-      "link": "https://gigazine.net/news/20260722-applecare-ipad-apple-watch/",
-      "pubDate": "Wed, 22 Jul 2026 12:25:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -949,32 +975,6 @@
       "link": "https://rocketnews24.com/2026/07/22/2781739/",
       "pubDate": "Wed, 22 Jul 2026 02:45:48 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_1623.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「あまり日本と日本人をなめないでほしい」トルコ国籍の男に信号無視で息子を殺された母の供述が話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455365.html",
-      "pubDate": "2026-07-22T11:40:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9d4da861.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】大人気日常コメディ『魔法少女三十路』が1～6巻まで「全巻110円」で買える激安セールは今日まで！！最新第7巻発売記念キャンペーン！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455379.html",
-      "pubDate": "2026-07-22T11:20:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60fb037a.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-22T19:34:41.406475",
+  "updatedAt": "2026-07-22T21:14:35.027105",
   "sites": [
     {
       "id": "hachima",
