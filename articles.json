@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『てんむす』全巻「99円」セール！全10巻「5,280円」→「990円」！女子高生の大食いバトルを描く青春スポ根漫画！『うそつきキツネの恋噺』も全巻「99円」セール！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455413.html",
+      "pubDate": "2026-07-23T02:30:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f3f31cca.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】精神疾患で離職する小中高公立教員、過去最高の1319人…あまりにもブラックすぎて病む人が続出",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549336.html",
+      "pubDate": "2026-07-23T02:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7cff2575.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【物議】ゆたぼんくん「『戦争は話し合いで解決できる』とか思ってるやつは頭お花畑な思考停止のバカ」→ひろゆきさん「◯◯は話し合いで終戦しました」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455403.html",
+      "pubDate": "2026-07-23T02:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/b/5bb2479e.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "洗足池ボートの上で行われるという不審者をAIで検知するための実験…当日はボートの上で怪しい動きをするらしくて気になる",
+      "description": "洗足池ボートの上で行われるという不審者をAIで検知するための実験…当日はボートの上で怪しい動きをするらしくて気になる",
+      "link": "https://togetter.com/li/2723670",
+      "pubDate": "Thu, 23 Jul 2026 01:32:48 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "超人気かくれんぼゲー『めっちゃカメレオン』模倣作品が続々登場！タイトルがめっちゃそっくりなゲームも",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549329.html",
+      "pubDate": "2026-07-23T01:30:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/25a4f076.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "咽頭癌にかかった祖父が声帯を摘出する前、最後だからと名前を呼んでくれたのに、ゲームボーイをしていた自分は適当な返事をしてしまった… このことをずっと後悔している",
+      "description": "咽頭癌にかかった祖父が声帯を摘出する前、最後だからと名前を呼んでくれたのに、ゲームボーイをしていた自分は適当な返事をしてしまった… このことをずっと後悔している",
+      "link": "https://togetter.com/li/2723665",
+      "pubDate": "Thu, 23 Jul 2026 01:25:18 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -184,19 +262,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa036e5a.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "エアコン取付の問い合わせが来たが、室内温度は39℃なのに物件の大家が「エアコンの取り付け許可を出さない」「ウィンドウエアコンもダメ」「気に入らなきゃ出て行けばいい」の一点張り→「意味わからんな」「事故物件になるんじゃ」",
-      "description": "エアコン取付の問い合わせが来たが、室内温度は39℃なのに物件の大家が「エアコンの取り付け許可を出さない」「ウィンドウエアコンもダメ」「気に入らなきゃ出て行けばいい」の一点張り→「意味わからんな」「事故物件になるんじゃ」",
-      "link": "https://togetter.com/li/2723622",
-      "pubDate": "Wed, 22 Jul 2026 23:12:48 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -233,19 +298,6 @@
       "description": "USBケーブルやポートなどに記載されている「USB 2.0」や「USB 3.2」といったUSB規格が何を意味しているのかを理解していないという人も多いはず。USBに関連する用語が何を意味しており、どのように理解すればいいのか、エンジニアのファビエン・サングラード氏がまとめています。続きを読む...",
       "link": "https://gigazine.net/news/20260722-usb-cheat-sheet/",
       "pubDate": "Wed, 22 Jul 2026 23:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "3年通ってる個人経営の整体は、まったくつゆほども距離が縮まらず慇懃な態度のままなので、大変良い。向こうは私の肩こりと腰痛にしか興味がない→私情を挟まない専門家の安心感について",
-      "description": "3年通ってる個人経営の整体は、まったくつゆほども距離が縮まらず慇懃な態度のままなので、大変良い。向こうは私の肩こりと腰痛にしか興味がない→私情を挟まない専門家の安心感について",
-      "link": "https://togetter.com/li/2723612",
-      "pubDate": "Wed, 22 Jul 2026 22:54:05 +0900",
       "thumbnail": ""
     },
     {
@@ -626,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【嫉妬注意】8000万円でFIREした人の1日がこちら！お前らどう思う？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549156.html",
-      "pubDate": "2026-07-22T16:30:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/e/cea2f678.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -663,19 +702,6 @@
       "link": "https://gigazine.net/news/20260722-cisco-antares/",
       "pubDate": "Wed, 22 Jul 2026 16:08:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】「マクドナルドであり得ない異物混入された。気づかずにコレ飲んでたの鬱すぎ」パシャッ　→　前代未聞すぎるアレだった…下手したら死亡案件",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549158.html",
-      "pubDate": "2026-07-22T16:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/8/a873311f.jpg"
     },
     {
       "siteId": "jin",
@@ -975,32 +1001,6 @@
       "link": "https://rocketnews24.com/2026/07/22/2783818/",
       "pubDate": "Wed, 22 Jul 2026 01:15:22 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/b76bb9a6-534a-4ced-8937-f682a420f7df.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "東京の銭湯料金が1人600円に値上げ、ただし利用者は増えている模様",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455362.html",
-      "pubDate": "2026-07-22T10:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/5/55dec111-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】去年約6000個盗まれた梨農家さん、今年も5000個盗まれる→梨農家さん号泣・・・「梨の栽培はもう辞める」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455359.html",
-      "pubDate": "2026-07-22T09:30:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/5/f5c5ce37-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-22T16:23:58.717356",
+  "updatedAt": "2026-07-22T17:49:56.573461",
   "sites": [
     {
       "id": "hachima",
