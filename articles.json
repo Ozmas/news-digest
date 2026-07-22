@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「水に虫！！」バリ島に住んで14年目だが生活用水に虫がいることに気づいた話、虫の詳しいヒトたちから「カイミジンコ」の可能性示唆も",
+      "description": "「水に虫！！」バリ島に住んで14年目だが生活用水に虫がいることに気づいた話、虫の詳しいヒトたちから「カイミジンコ」の可能性示唆も",
+      "link": "https://togetter.com/li/2723696",
+      "pubDate": "Thu, 23 Jul 2026 04:07:37 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "従来の保険証は7月末で終了！8月からは使えないので注意",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549271.html",
+      "pubDate": "2026-07-23T04:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/e/0ebe85bf-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『パルワールド』、ガチで売れまくっていたｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455411.html",
+      "pubDate": "2026-07-23T04:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/e/2e8c32a4.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ゼッテリアがうな丼バーガーを販売、なんと米をパンで挟む暴挙のせいで味の想像がまったくつかない代物",
+      "description": "ゼッテリアがうな丼バーガーを販売、なんと米をパンで挟む暴挙のせいで味の想像がまったくつかない代物",
+      "link": "https://togetter.com/li/2723694",
+      "pubDate": "Thu, 23 Jul 2026 03:43:50 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ちいかわ公式が出した「2分くらいでわかる予習ムービー」がガチで「ちいかわの世界」を理解できる内容でスゴい、なお初心者の反応は「社会の縮図」「労働の話だけだ」ほか",
+      "description": "ちいかわ公式が出した「2分くらいでわかる予習ムービー」がガチで「ちいかわの世界」を理解できる内容でスゴい、なお初心者の反応は「社会の縮図」「労働の話だけだ」ほか",
+      "link": "https://togetter.com/li/2723691",
+      "pubDate": "Thu, 23 Jul 2026 03:17:29 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【謎】藤原竜也さんの顔面をプリントした「レタス」販売されるｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455407.html",
+      "pubDate": "2026-07-23T03:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/9/09fd9a73.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "コンビニ経営ゲーム『ザ・コンビニ』がSwitch2/PS5向けに7月23日配信開始",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549262.html",
+      "pubDate": "2026-07-23T03:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4d0637b9-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -197,19 +288,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89fb5499.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "4歳児と電車に乗ってる時に小声で『まま…うんこしたいかも…』と言われて、昔住んでた土地勘のある駅で降りて、最寄りのトイレに駆け込んだら、まさかの和式のみで、我が子が怖がり絶望",
-      "description": "4歳児と電車に乗ってる時に小声で『まま…うんこしたいかも…』と言われて、昔住んでた土地勘のある駅で降りて、最寄りのトイレに駆け込んだら、まさかの和式のみで、我が子が怖がり絶望",
-      "link": "https://togetter.com/li/2723648",
-      "pubDate": "Thu, 23 Jul 2026 00:00:33 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -221,32 +299,6 @@
       "link": "http://blog.esuteru.com/archives/10549234.html",
       "pubDate": "2026-07-23T00:00:02+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8bdc2a11.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ある大学教員の嘆き→Fラン学生の多くはAIが出力した卒論を「自分が書いた風にアレンジ」できず、修正も再びAIに丸投げするだけ…果たしてFラン大学に卒論は必要でしょうか？",
-      "description": "ある大学教員の嘆き→Fラン学生の多くはAIが出力した卒論を「自分が書いた風にアレンジ」できず、修正も再びAIに丸投げするだけ…果たしてFラン大学に卒論は必要でしょうか？",
-      "link": "https://togetter.com/li/2723637",
-      "pubDate": "Wed, 22 Jul 2026 23:41:43 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ある日、消防から電話で「ご主人が交通事故に遭われました。某病院へ行ってください」と言われたが、詐欺だ… なぜなら、彼は3週間前に交通事故で鎖骨を骨折したばかり→その後、警察からも電話が",
-      "description": "ある日、消防から電話で「ご主人が交通事故に遭われました。某病院へ行ってください」と言われたが、詐欺だ… なぜなら、彼は3週間前に交通事故で鎖骨を骨折したばかり→その後、警察からも電話が",
-      "link": "https://togetter.com/li/2723639",
-      "pubDate": "Wed, 22 Jul 2026 23:37:57 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -600,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/3/f3fd8c89.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【W不倫】元BE:FIRST三山凌輝さんと元宝塚女優・花乃まりあさんがホテルで連日密会！事務所は「不適切な関係」を認めて謝罪　現在ミュージカルで共演中",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549181.html",
-      "pubDate": "2026-07-22T17:30:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/a/6af73681.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -637,19 +676,6 @@
       "link": "https://jin115.com/archives/52455382.html",
       "pubDate": "2026-07-22T17:00:57+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/7/37b626d1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "連日の炎上にブチ切れた国民民主党・足立康史議員、有権者に対してネトウヨ煽り開始",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549168.html",
-      "pubDate": "2026-07-22T17:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78a03c39-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -951,19 +977,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60fb037a.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "スーパー店員「POPにAI使ってみるわ、これで客の視線も集まるやろなぁ」→X民から辛辣な意見が殺到しまくるｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455361.html",
-      "pubDate": "2026-07-22T11:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/326001c4-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -975,19 +988,6 @@
       "link": "https://rocketnews24.com/2026/07/22/2783598/",
       "pubDate": "Wed, 22 Jul 2026 02:00:39 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/gidakotenshin.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【大炎上】高市首相の『頑張ってるアピール』、ガチで批判が止まらない・・・「支持率低下に焦ってる」「この投稿でさらに失望しました」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455360.html",
-      "pubDate": "2026-07-22T10:30:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/f/7f49852e.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-22T17:49:56.573461",
+  "updatedAt": "2026-07-22T19:34:41.406475",
   "sites": [
     {
       "id": "hachima",
