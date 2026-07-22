@@ -2,6 +2,175 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "映画「ちいかわ」島編のセイレーン討伐という闇バイトをすこしでも怪しんだのが「ちいかわ」と「ラッコ」だけなのが警戒心の薄い種族だと物語っている話",
+      "description": "映画「ちいかわ」島編のセイレーン討伐という闇バイトをすこしでも怪しんだのが「ちいかわ」と「ラッコ」だけなのが警戒心の薄い種族だと物語っている話",
+      "link": "https://togetter.com/li/2723662",
+      "pubDate": "Thu, 23 Jul 2026 01:11:55 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "元日本一ソフト社長・新川宗平氏「パッケージ版をなくすならハードウェアもなくしてしまえばいい。なぜゲーム機が必要なの？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549309.html",
+      "pubDate": "2026-07-23T01:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8e16d684.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "不登校の男子学生さん「彼女ができました！」 → 凄いことになるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455397.html",
+      "pubDate": "2026-07-23T01:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/3/a34630fe.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ちいかわを知らない友人にちいかわを説明したらド正論で返された話…「的確な説明」「もうちょっとこれが足りない」など",
+      "description": "ちいかわを知らない友人にちいかわを説明したらド正論で返された話…「的確な説明」「もうちょっとこれが足りない」など",
+      "link": "https://togetter.com/li/2723660",
+      "pubDate": "Thu, 23 Jul 2026 00:47:23 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "体温を下げるには手のひらを15℃くらいで冷やすのが良いので、凍らせたペットボトルにハンカチを巻いて握りながら歩いてみたら、体感温度がすんごい下がった気がする",
+      "description": "体温を下げるには手のひらを15℃くらいで冷やすのが良いので、凍らせたペットボトルにハンカチを巻いて握りながら歩いてみたら、体感温度がすんごい下がった気がする",
+      "link": "https://togetter.com/li/2723658",
+      "pubDate": "Thu, 23 Jul 2026 00:39:53 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】腐女子「ファンアートです」→ 日本三國作者「BL苦手だから送ってこないで」⇒ 結果・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549241.html",
+      "pubDate": "2026-07-23T00:30:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/ed7ec873.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「最低年収1000万円を確約できないなら、都心にオフィス構えないで欲しい」都心オフィスは福利厚生か、それとも社員に家賃と通勤時間を押しつける構造か？で議論に",
+      "description": "「最低年収1000万円を確約できないなら、都心にオフィス構えないで欲しい」都心オフィスは福利厚生か、それとも社員に家賃と通勤時間を押しつける構造か？で議論に",
+      "link": "https://togetter.com/li/2723650",
+      "pubDate": "Thu, 23 Jul 2026 00:15:33 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "Yahoo!天気をみてたら「鳩が自然発火してた」の文言を見つけて絶句…「不死鳥爆誕」「炎炎ノ消防隊か？」「Dr.STONEかも」など",
+      "description": "Yahoo!天気をみてたら「鳩が自然発火してた」の文言を見つけて絶句…「不死鳥爆誕」「炎炎ノ消防隊か？」「Dr.STONEかも」など",
+      "link": "https://togetter.com/li/2723649",
+      "pubDate": "Thu, 23 Jul 2026 00:04:04 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「毎日14時間くらい寝ちゃうのはおかしいから病院行くわ！」→医者にヤバイことを言われ絶望・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455396.html",
+      "pubDate": "2026-07-23T00:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89fb5499.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "4歳児と電車に乗ってる時に小声で『まま…うんこしたいかも…』と言われて、昔住んでた土地勘のある駅で降りて、最寄りのトイレに駆け込んだら、まさかの和式のみで、我が子が怖がり絶望",
+      "description": "4歳児と電車に乗ってる時に小声で『まま…うんこしたいかも…』と言われて、昔住んでた土地勘のある駅で降りて、最寄りのトイレに駆け込んだら、まさかの和式のみで、我が子が怖がり絶望",
+      "link": "https://togetter.com/li/2723648",
+      "pubDate": "Thu, 23 Jul 2026 00:00:33 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "実写映画『サマータイムレンダ』が2027年に公開決定！監督は二宮健",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549234.html",
+      "pubDate": "2026-07-23T00:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8bdc2a11.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ある大学教員の嘆き→Fラン学生の多くはAIが出力した卒論を「自分が書いた風にアレンジ」できず、修正も再びAIに丸投げするだけ…果たしてFラン大学に卒論は必要でしょうか？",
+      "description": "ある大学教員の嘆き→Fラン学生の多くはAIが出力した卒論を「自分が書いた風にアレンジ」できず、修正も再びAIに丸投げするだけ…果たしてFラン大学に卒論は必要でしょうか？",
+      "link": "https://togetter.com/li/2723637",
+      "pubDate": "Wed, 22 Jul 2026 23:41:43 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ある日、消防から電話で「ご主人が交通事故に遭われました。某病院へ行ってください」と言われたが、詐欺だ… なぜなら、彼は3週間前に交通事故で鎖骨を骨折したばかり→その後、警察からも電話が",
+      "description": "ある日、消防から電話で「ご主人が交通事故に遭われました。某病院へ行ってください」と言われたが、詐欺だ… なぜなら、彼は3週間前に交通事故で鎖骨を骨折したばかり→その後、警察からも電話が",
+      "link": "https://togetter.com/li/2723639",
+      "pubDate": "Wed, 22 Jul 2026 23:37:57 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -106,19 +275,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「このマインドで生きてたら彼氏に振られた」Xでは\"私を不快にするような人間はどんどん切る！\"みたいな強気な姿勢＝気高いプリンセスとされがちだが、本来は相手への尊重の方が大事",
-      "description": "「このマインドで生きてたら彼氏に振られた」Xでは\"私を不快にするような人間はどんどん切る！\"みたいな強気な姿勢＝気高いプリンセスとされがちだが、本来は相手への尊重の方が大事",
-      "link": "https://togetter.com/li/2723590",
-      "pubDate": "Wed, 22 Jul 2026 22:08:05 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -171,19 +327,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d8ec4781.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "春節に知り合いの中国人宅で餃子を包ませてもらった。母親は「餃子は家族と同じ。形が違っても鍋の中で一つになる」と笑った→その後のオチが不憫で秀逸すぎる",
-      "description": "春節に知り合いの中国人宅で餃子を包ませてもらった。母親は「餃子は家族と同じ。形が違っても鍋の中で一つになる」と笑った→その後のオチが不憫で秀逸すぎる",
-      "link": "https://togetter.com/li/2723580",
-      "pubDate": "Wed, 22 Jul 2026 21:22:47 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -223,32 +366,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画「ちいかわ」を見て情緒が破壊される人は大勢いると思うんですが「かわいかったねー」という感想の人もいるのが怖い話…「子供にはわからん」「悪役萌え」など",
-      "description": "映画「ちいかわ」を見て情緒が破壊される人は大勢いると思うんですが「かわいかったねー」という感想の人もいるのが怖い話…「子供にはわからん」「悪役萌え」など",
-      "link": "https://togetter.com/li/2723566",
-      "pubDate": "Wed, 22 Jul 2026 20:46:55 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "前まで夏にブーツ！？と思ってたけどミニスカの時はおしゃれじゃない！？→賛否両論に「かわいいでしょ」「さすがに季節感がない」「代わりにこれがおすすめ」",
-      "description": "前まで夏にブーツ！？と思ってたけどミニスカの時はおしゃれじゃない！？→賛否両論に「かわいいでしょ」「さすがに季節感がない」「代わりにこれがおすすめ」",
-      "link": "https://togetter.com/li/2723565",
-      "pubDate": "Wed, 22 Jul 2026 20:35:01 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -260,32 +377,6 @@
       "link": "http://blog.esuteru.com/archives/10549259.html",
       "pubDate": "2026-07-22T20:30:32+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/9/794e91a6.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "大学生の頃、ゲームのバグを見つけるテスターのバイトで1日〇個というノルマがあった…最初は楽しかったが、バグが減ってくるとノルマ未達で怒鳴られて、しんどかった話",
-      "description": "大学生の頃、ゲームのバグを見つけるテスターのバイトで1日〇個というノルマがあった…最初は楽しかったが、バグが減ってくるとノルマ未達で怒鳴られて、しんどかった話",
-      "link": "https://togetter.com/li/2723561",
-      "pubDate": "Wed, 22 Jul 2026 20:21:11 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "見たことない天気マーク、晴れというより悪魔降臨しそう「酷暑にふさわしいマークすぎる」「40度超えたら目が開きそう」",
-      "description": "見たことない天気マーク、晴れというより悪魔降臨しそう「酷暑にふさわしいマークすぎる」「40度超えたら目が開きそう」",
-      "link": "https://togetter.com/li/2723560",
-      "pubDate": "Wed, 22 Jul 2026 20:12:09 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -324,32 +415,6 @@
       "description": "学生で開発者のアーマーン・ゴメス氏らが論理ゲートの段階から設計した独自のCPU上で、1993年発売のFPS「DOOM」を動作させることに成功しました。当初は0.7FPSでしか描画できませんでしたが、CPUやメモリ周辺の改良を重ね、最終的には15～20FPSでプレイできる水準まで高速化しています。続きを読む...",
       "link": "https://gigazine.net/news/20260722-doom-on-risc-v/",
       "pubDate": "Wed, 22 Jul 2026 20:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「心のシャッター」という言葉を見て「下ろす」しか思いつかなくて反省…「切る」と「下ろす」では意味が真逆になる面白さ",
-      "description": "「心のシャッター」という言葉を見て「下ろす」しか思いつかなくて反省…「切る」と「下ろす」では意味が真逆になる面白さ",
-      "link": "https://togetter.com/li/2723557",
-      "pubDate": "Wed, 22 Jul 2026 19:56:49 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "USJの新ホラーアトラクション『残像』が解禁、初のR-18指定の恐怖体験にドキドキワクワクする人々「初代トラウマと違って虫はいなそう？」「拘束されるのか…」",
-      "description": "USJの新ホラーアトラクション『残像』が解禁、初のR-18指定の恐怖体験にドキドキワクワクする人々「初代トラウマと違って虫はいなそう？」「拘束されるのか…」",
-      "link": "https://togetter.com/li/2723554",
-      "pubDate": "Wed, 22 Jul 2026 19:52:59 +0900",
       "thumbnail": ""
     },
     {
@@ -639,19 +704,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「ちいかわ映画は声優キャスティングでタレント枠0をやってのけたのが凄すぎる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549153.html",
-      "pubDate": "2026-07-22T15:30:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/5/d54bf3ef.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -663,19 +715,6 @@
       "link": "https://gigazine.net/news/20260722-meta-storykit/",
       "pubDate": "Wed, 22 Jul 2026 15:25:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "鬼越トマホーク・良ちゃん、渡部建さんに直接電話で謝罪「快く許していただきました」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549146.html",
-      "pubDate": "2026-07-22T15:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/3/83ab5efc.png"
     },
     {
       "siteId": "jin",
@@ -702,19 +741,6 @@
       "link": "https://gigazine.net/news/20260722-cheating-behaviour-frontier-ai-model/",
       "pubDate": "Wed, 22 Jul 2026 15:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『きかんしゃトーマス』トップハム・ハット卿だらけのガチャマスコット発売開始！水着もある事実にファンたち熱狂ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549128.html",
-      "pubDate": "2026-07-22T14:30:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bccda5c7.png"
     },
     {
       "siteId": "rocketnews",
@@ -988,32 +1014,6 @@
       "link": "https://rocketnews24.com/2026/07/22/2782167/",
       "pubDate": "Wed, 22 Jul 2026 00:15:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tori16.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「見慣れない戦闘機が飛んでる・・・自衛隊の機体じゃない！？？」→その正体がヤバすぎて話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455358.html",
-      "pubDate": "2026-07-22T09:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c9e3ad5b.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "キラキラSNS女子マインドで生きていた女の子、取り返しがつかないことになって泣く・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455352.html",
-      "pubDate": "2026-07-22T08:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/3/b3e8e789.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "猫2匹と暮らす賃貸。イケア「ホップヴァルス」に変えたら、コード噛み切り対策と西日の断熱が同時に叶った",
+      "description": "※本記事は2025年7月5日に公開された記事を再編集して公開しています。 Text and Photographed by 船津カナ 猫2匹にブラインドのコードを切られて1年……。 ブラインドを購入するたび、コード問題に [&#8230;]",
+      "link": "https://getnews.jp/archives/3732216",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "福井県鯖江市で開発、鼻パッドのないスポーツサングラスAirFlyの専門店が福岡県に登場",
       "description": "画像はイメージ SEVEN’FESは、7月31日(金)12:00、九州初出店となる“鼻パッドのないスポーツサングラスAirFly”の専門店「AirFly FUKUOKA」を福岡県福岡市中央区清川にオープンする。 なお、S [&#8230;]",
       "link": "https://getnews.jp/archives/3732208",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3732212",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "水瀬いのり、新SGリリース　キラキラ爽やかなMV公開",
-      "description": "水瀬いのりが13thシングル「Summer Challenger」をリリース。表題曲「Summer Challenger」のミュージックビデオが公開された。 　 表題曲「Summer Challenger」は、作詞・作曲 [&#8230;]",
-      "link": "https://getnews.jp/archives/3732202",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-22T14:35:18.910035",
+  "updatedAt": "2026-07-22T16:23:58.717356",
   "sites": [
     {
       "id": "hachima",
