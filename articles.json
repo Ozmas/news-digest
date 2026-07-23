@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "スタバ新作「やだらめぇフラペチーノ」発売ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455464.html",
+      "pubDate": "2026-07-24T04:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/a/1a7e9bb7.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "政府がストーカー加害者にGPS装着義務付けを検討。韓国では既に採用",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549654.html",
+      "pubDate": "2026-07-24T04:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/4/147981cd.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】新アニメ『機動戦士ガンダムRG XARX-ZERO(アレックスゼロ)』発表！！新作ゲーム『ローグオービット』と同じ世界観を共有",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549711.html",
+      "pubDate": "2026-07-24T03:34:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/3/03640c30.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『FGO』の初期案が「あまりにもクソゲーすぎる」と話題にｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549649.html",
+      "pubDate": "2026-07-24T03:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/8/889553bb-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「路上でブルーベリー売ってる人がいるけど、盗品の販売かもしれないからカマかけて質問したろｗ」 → 結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455462.html",
+      "pubDate": "2026-07-24T03:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/13bd334c.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -600,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/2/e2c3f710.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ディズニー元CEO、『キングダムハーツ』の制作にGOを出したことをすっかり忘れていたｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549496.html",
-      "pubDate": "2026-07-23T18:20:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/e/fe845f68-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -639,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/464f52ee.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "与党、高市内閣の支持率急落で焦る　閣僚「皇室典範と強引な国会運営が原因」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549486.html",
-      "pubDate": "2026-07-23T18:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/9814566e.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -663,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/07/23/2783199/",
       "pubDate": "Thu, 23 Jul 2026 09:00:04 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_3527-1.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "教室に侵入し財布から現金20万円盗んだ男子高校生(16)逮捕　教室外の授業中に44人が被害訴え",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549490.html",
-      "pubDate": "2026-07-23T17:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5a5fa034.png"
     },
     {
       "siteId": "jin",
@@ -912,19 +938,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ディスガイア』シリーズ製作者「ソニーの物理ディスク廃止はファンの気持ちを理解してないし、廃止するならコンソール自体生産終了で良いだろ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455436.html",
-      "pubDate": "2026-07-23T13:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1c948743.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -949,19 +962,6 @@
       "link": "https://gigazine.net/news/20260723-galaxy-watch-ultra2-watch9/",
       "pubDate": "Thu, 23 Jul 2026 12:10:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性アイドルさん、ライブ中に突然パンツの中に手を突っ込み○○し始めてしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455421.html",
-      "pubDate": "2026-07-23T12:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8ce440ac.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【広島県三原市】本町エリアにある古民家の活用プランを募集！優秀案はプランの実現に向け事業化へ",
+      "description": "まちづくり三原は、旧西国街道の歴史的な街並みが残る三原市本町エリアにおいて、対象の古民家1棟をテーマとした活用アイデア・デザインを全国から募集する、古民家活用プランコンテスト「ノスタルジア」を開催する。 今回のコンテスト [&#8230;]",
+      "link": "https://getnews.jp/archives/3732573",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "映画『温泉シャーク2 九州大決戦』全国公開に向け、イベントやグッズ販売など企画を実施",
       "description": "映画『温泉シャーク2 九州大決戦』が9月4日(金)に全国公開される。これに向けて、8月8日(土)の温泉シャーク寄席の開催や、地域限定グッズ発売などの関連イベントや企画の実施が予定されている。 メインロケ地は熊本県小国町の [&#8230;]",
       "link": "https://getnews.jp/archives/3732569",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3732547",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "「植物を買っては枯らす連鎖」を卒業！かけるだけで効果大だからズボラでも家庭菜園できるようになった",
-      "description": "家庭菜園に憧れがあったのですが、実際にやってみると手入れがとても大変。 とにかく継続が苦手な私は、常に思いつきで植物を買っては枯らしてきました。 史上最高傑作にお任せ KINCHO園芸　「ベニカXネクストスプレー」1,7 [&#8230;]",
-      "link": "https://getnews.jp/archives/3732557",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-23T17:35:50.506779",
+  "updatedAt": "2026-07-23T19:26:32.718314",
   "sites": [
     {
       "id": "hachima",
