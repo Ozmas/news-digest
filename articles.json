@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "それを仕事と認識すんな！ 妙に手際が良い新人スタッフ！　四コマサボタージュFB第50回「前職」",
+      "description": "アマゾンで南京錠を開錠するピッキングツールが売ってあるのを見かけたんだ。もちろん悪用するつもりはないのだけど、ちょっと欲しいって気持ちがあるんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/07/24/2780429/",
+      "pubDate": "Thu, 23 Jul 2026 22:00:53 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-50.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市首相、党首討論で「骨太ショック」の議論をかわせるように◯◯していたと暴露されてしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455466.html",
+      "pubDate": "2026-07-24T07:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/8/98beafd5.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "AIで従業員ではなくCEOを解雇すればどれほど多くのメリットがあるのか？",
+      "description": "近年は生成AIやAIアシスタントの普及により、ホワイトカラーの従業員をAIに置き換えようとする動きが強まっています。そんな中、従業員ではなく企業のトップである「CEO」を置き換えるAI「OverpAId」についてのウェブサイトが公開されました。続きを読む...",
+      "link": "https://gigazine.net/news/20260724-overpaid-fire-ceo-ai/",
+      "pubDate": "Fri, 24 Jul 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『バルダーズ・ゲート3』の超高難易度に60時間費やしたゲーマーが「性欲に負けてセーブデータ全削除」されてしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549673.html",
+      "pubDate": "2026-07-24T06:30:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/1/61cbb829-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】“寝てないアピール”の高市首相、マジレスされる「寝てください」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455484.html",
+      "pubDate": "2026-07-24T06:30:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/d/cdedbd56.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "サッカー森保一監督、続投が正式決定へ！！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455467.html",
+      "pubDate": "2026-07-24T06:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/80cc8069.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ホロライブVTuberさん、同僚に対して「〇〇はマジシ〇れない」と言い放ってしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10549659.html",
+      "pubDate": "2026-07-24T06:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/4/b4fb8adc-s.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "単一HTMLファイルでローカル動作するスライド作成ウェブアプリ「Bento/Slides」が登場、共同編集可能＆AIエージェントでの自動操作もスムーズ",
+      "description": "FirefoxやChromeなどのウェブブラウザ上で動作する無料のスライド作成アプリ「Bento/Slides」が登場しました。Bento/Slidesは作成したスライドだけでなく「スライド作成機能そのもの」も含めて単一のHTMLファイルとして保存できるのが特徴で、インターネット接続不要でスライドを作成できます。また、AIエージェントを用いたスライド作成も考慮して設計されているほか、インターネット",
+      "link": "https://gigazine.net/news/20260724-bento-slides-powerpoint-alternative/",
+      "pubDate": "Fri, 24 Jul 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -600,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/5/95eeacfc.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ホロライブアンチ、誹謗中傷1投稿150万円の損害賠償金支払いへ！カバー株式会社が示談報告",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549628.html",
-      "pubDate": "2026-07-23T20:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/ed09c2b2.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -624,19 +715,6 @@
       "link": "https://gigazine.net/news/20260723-land-registry-cyberattack-romanias/",
       "pubDate": "Thu, 23 Jul 2026 20:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【サッカー】森保一監督、アジアカップまで続投が正式決定！来年3月からは大岩剛監督が日本代表を指揮",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549629.html",
-      "pubDate": "2026-07-23T19:30:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6d760838.jpg"
     },
     {
       "siteId": "jin",
@@ -704,19 +782,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】中国、もはやゲームだけでなくアニメまで日本を超えてしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455437.html",
-      "pubDate": "2026-07-23T18:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/464f52ee.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -728,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/07/23/2783199/",
       "pubDate": "Thu, 23 Jul 2026 09:00:04 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_3527-1.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「苦手な方は見ない方がいいかもしれません」安住紳一郎アナが番組中に異例の呼びかけ→ガチの衝撃映像がお茶の間に流れてしまう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455441.html",
-      "pubDate": "2026-07-23T17:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/7/e78e1766-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -780,19 +832,6 @@
       "link": "https://rocketnews24.com/2026/07/23/2784289/",
       "pubDate": "Thu, 23 Jul 2026 07:00:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_2145.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "TBS『ラヴィット！』、番組終了案件の放送事故が発生・・・「笑い事じゃない」「病院行った方がいい」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455449.html",
-      "pubDate": "2026-07-23T16:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/7/f7296c84.jpg"
     },
     {
       "siteId": "gigazine",
@@ -935,32 +974,6 @@
       "description": "大気汚染が健康に悪いことは周知の事実であり、肺などの呼吸器系だけでなくメンタルヘルスや認知症などにも悪影響を及ぼすことがわかっています。アメリカのケンブリッジ大学の研究チームが既存の科学文献を体系的にレビューした新たな研究では、大気汚染にさらされることが手の震えや歩行障害が現れるパーキンソン病のリスク増加と関連していることが示されました。続きを読む...",
       "link": "https://gigazine.net/news/20260723-air-pollution-higher-parkinsons-risk/",
       "pubDate": "Thu, 23 Jul 2026 13:05:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "MicrosoftがPC向けに初代XBOXとの後方互換性を実現",
-      "description": "Windows PCや携帯型ゲーミングPCの「ROG XBOX Ally X」で過去のXBOXゲームを遊べるようにする「XBOX Backward Compatibility on PC(XBOX on PC 後方互換機能)」が発表されました。往年のXBOXタイトルをより手軽にプレイできるようになります。続きを読む...",
-      "link": "https://gigazine.net/news/20260723-xbox-backward-compatibility-on-pc/",
-      "pubDate": "Thu, 23 Jul 2026 12:50:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Samsungが「Galaxy Watch Ultra2」と「Galaxy Watch9」を発表",
-      "description": "Samsungは新しいスマートウォッチ「Galaxy Watch Ultra2」と「Galaxy Watch9」を2026年7月22日に発表しました。AIを搭載した健康管理機能により、複雑な生体認証データをユーザーの健康のあらゆる側面におけるパーソナライズされた実用的なガイダンスに変換することができます。続きを読む...",
-      "link": "https://gigazine.net/news/20260723-galaxy-watch-ultra2-watch9/",
-      "pubDate": "Thu, 23 Jul 2026 12:10:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1209,19 +1222,6 @@
       "link": "https://rocketnews24.com/2026/07/22/2779988/",
       "pubDate": "Tue, 21 Jul 2026 23:00:22 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/トーカー①_0.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "だとしてもやったらダメだろ！ やらかしたお父さん！　四コマサボタージュFB第48回「働きぶりが見たくって…」",
-      "description": "万引きGメンの人ってどこに所属してる人なのだろうと思って調べたのだけど、どうやらスーパーの店員さんってわけではなく、多くは外部の警備会社から派遣された警備員さんらしいんだよね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/07/22/2780427/",
-      "pubDate": "Tue, 21 Jul 2026 22:00:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-48.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「颬」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「颬」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「颬」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3732575",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【広島県三原市】本町エリアにある古民家の活用プランを募集！優秀案はプランの実現に向け事業化へ",
       "description": "まちづくり三原は、旧西国街道の歴史的な街並みが残る三原市本町エリアにおいて、対象の古民家1棟をテーマとした活用アイデア・デザインを全国から募集する、古民家活用プランコンテスト「ノスタルジア」を開催する。 今回のコンテスト [&#8230;]",
       "link": "https://getnews.jp/archives/3732573",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3732566",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "『ピクミン ブルーム』猛暑に快適なひとときを!! カンナが咲く最新環境ガイドプレイログ#1165】",
-      "description": "2026年7月23日（木）、40度以上を示す酷暑日が各地で観測される7月の第4週。 位置情報ゲーム『ピクミン ブルーム』の公式より来月の開花予報が解禁された。 暑さも吹き飛ぶ快活の心得 プレイログ第1165回目の今回は、 [&#8230;]",
-      "link": "https://getnews.jp/archives/3732547",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-23T20:38:04.914919",
+  "updatedAt": "2026-07-23T22:08:47.990785",
   "sites": [
     {
       "id": "hachima",
