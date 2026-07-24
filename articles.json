@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『アズールレーン』が遂に天才的発想で上裸の女性を実装成功。一方『NIKKE』はこっそりケツを出した。",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550169.html",
+      "pubDate": "2026-07-25T04:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/91a27014.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「え！？クマが電柱登ってる！どうすればいいのこれ」→迷ってる間に、まさかの結果に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455536.html",
+      "pubDate": "2026-07-25T04:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/3/c31c83d1.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ミリしらなので映画「ちいかわ」とコンビニのコラボ商品は既存商品にこじつけた商品と思っていたが映画を観て「原作再現」と気付いた、アレルゲンやカロリーで見ると別物も",
+      "description": "ミリしらなので映画「ちいかわ」とコンビニのコラボ商品は既存商品にこじつけた商品と思っていたが映画を観て「原作再現」と気付いた、アレルゲンやカロリーで見ると別物も",
+      "link": "https://togetter.com/li/2724446",
+      "pubDate": "Sat, 25 Jul 2026 03:28:52 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「〇〇」で検索してみてください。日本がボロボロなのが分かります ← 想像以上にヤバイ状態だった・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455535.html",
+      "pubDate": "2026-07-25T03:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/e/1e19c59d-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "カルビーのナフサ不足はやっぱりポーズ？明らかに説明がつかない「ピザポテトの印刷」が話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550166.html",
+      "pubDate": "2026-07-25T03:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/3725bf7a.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -233,19 +298,6 @@
       "description": "英語圏の人が「まず日本人はクラーケンを海産物として見る」と言っていて、そこに日本人から「でも大きいから大味かも」「そういうのは煮る」などのコメントがついていた",
       "link": "https://togetter.com/li/2724355",
       "pubDate": "Fri, 24 Jul 2026 23:47:02 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "上高地でスマホを拾い、持ち主の親から発送してほしいとお願いされ、最初は面倒だなと思ったが、落とした本人が焼岳登頂の帰りだと知り発送→後日、とても達筆なお礼状と御礼の品が届いた話",
-      "description": "上高地でスマホを拾い、持ち主の親から発送してほしいとお願いされ、最初は面倒だなと思ったが、落とした本人が焼岳登頂の帰りだと知り発送→後日、とても達筆なお礼状と御礼の品が届いた話",
-      "link": "https://togetter.com/li/2724348",
-      "pubDate": "Fri, 24 Jul 2026 23:39:56 +0900",
       "thumbnail": ""
     },
     {
@@ -639,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d7d82308.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【祝】『アイドルマスター ミリオンライブ！』ギネス世界記録認定！52週連続でCD発売",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549857.html",
-      "pubDate": "2026-07-24T17:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/481156d4.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +728,6 @@
       "link": "https://jin115.com/archives/52455512.html",
       "pubDate": "2026-07-24T17:00:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/aff9f75b.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "新作実写映画『バイオハザード』の予告編がガチで怖い件ｗｗｗｗｗ「配達先はラクーンシティ？楽勝じゃん(笑)」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549836.html",
-      "pubDate": "2026-07-24T17:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7c2ae7b1.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -756,19 +782,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/41638811.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ベトナム人技能実習生「日本は本当に僕らを歓迎してるの？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455508.html",
-      "pubDate": "2026-07-24T15:40:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0e2605f.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -780,19 +793,6 @@
       "link": "https://gigazine.net/news/20260724-apple-map-for-ford-uev-platform/",
       "pubDate": "Fri, 24 Jul 2026 15:30:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気ラブコメ漫画『ギャルごはん』が「全巻70％」オフで買える激安セール開催！！白泉社の特大割引フェア！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455522.html",
-      "pubDate": "2026-07-24T15:20:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/1/71e40521.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-24T17:45:02.054378",
+  "updatedAt": "2026-07-24T19:37:31.728449",
   "sites": [
     {
       "id": "hachima",
