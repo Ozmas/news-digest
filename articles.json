@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "知り合いのオッサンが有休を取って、リゾート地に旅行してきたが、「昔見た、偏屈な文句ばかり言って、周りを辟易させるジジイになっている」と愕然として帰国した話",
+      "description": "知り合いのオッサンが有休を取って、リゾート地に旅行してきたが、「昔見た、偏屈な文句ばかり言って、周りを辟易させるジジイになっている」と愕然として帰国した話",
+      "link": "https://togetter.com/li/2724474",
+      "pubDate": "Sat, 25 Jul 2026 07:32:38 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "任天堂ファン「調子に乗るなよマクドナルド。包装紙をポケモンの御三家にしただけでファンが買うとでも思ってるのか！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550242.html",
+      "pubDate": "2026-07-25T07:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/99cdda2d.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "花屋でバイトしたいので応募したら、「花屋でバイトしたことないなら無理」と言われたが、それって花屋でバイトするために花屋でバイトしなきゃいけないってこと？",
+      "description": "花屋でバイトしたいので応募したら、「花屋でバイトしたことないなら無理」と言われたが、それって花屋でバイトするために花屋でバイトしなきゃいけないってこと？",
+      "link": "https://togetter.com/li/2724473",
+      "pubDate": "Sat, 25 Jul 2026 07:25:59 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "駅員「トイレで死ぬって絶叫してる奴がいるけどなんだ！？」→調査の結果、ヤバイことが判明",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455542.html",
+      "pubDate": "2026-07-25T07:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/8/88da01e5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "映画『ちいかわ』さん、上映終わりに6歳くらいの女児が悲しそうに声を上げて泣いてしまう…　「やっぱり子どもに見せちゃあかんよアレは」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550234.html",
+      "pubDate": "2026-07-25T07:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/b/4b56f1c9.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『亜人』全17巻すべて「50％ポイント還元」セール！6,732円分返ってくる！史上最高に面白い、お互いの「不死身」を戦術とする今までにない頭脳戦+銃撃戦！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455538.html",
+      "pubDate": "2026-07-25T06:30:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/7522895a.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -353,32 +431,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画「ちいかわ」初日興行収入の推定額は約9億3000万円で初登場首位スタート、やはりあるのか興行収入100億円突破の可能性",
-      "description": "映画「ちいかわ」初日興行収入の推定額は約9億3000万円で初登場首位スタート、やはりあるのか興行収入100億円突破の可能性",
-      "link": "https://togetter.com/li/2724363",
-      "pubDate": "Fri, 24 Jul 2026 23:53:27 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "英語圏の人が「まず日本人はクラーケンを海産物として見る」と言っていて、そこに日本人から「でも大きいから大味かも」「そういうのは煮る」などのコメントがついていた",
-      "description": "英語圏の人が「まず日本人はクラーケンを海産物として見る」と言っていて、そこに日本人から「でも大きいから大味かも」「そういうのは煮る」などのコメントがついていた",
-      "link": "https://togetter.com/li/2724355",
-      "pubDate": "Fri, 24 Jul 2026 23:47:02 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -600,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/8/28097c8e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【変態】全裸で女児に近づき「ごめんなさい」と言って立ち去った会社員男逮捕「ストレスがたまると裸に」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549940.html",
-      "pubDate": "2026-07-24T19:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/9/794e91a6.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +689,6 @@
       "link": "https://jin115.com/archives/52455528.html",
       "pubDate": "2026-07-24T19:00:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/5/c5609719.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ベトナム人労働者の日本離れが加速中「今更日本語の資格を取れって無理。日本人も友好的ではないし」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10549909.html",
-      "pubDate": "2026-07-24T19:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/9/5958e796-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -715,32 +741,6 @@
       "link": "https://jin115.com/archives/52455520.html",
       "pubDate": "2026-07-24T18:00:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7ac451ef.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "PS5『グランド・セフト・オートVI』、Amazonで予約開始！DLコード封入・ディスクなしのパッケージ版！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455526.html",
-      "pubDate": "2026-07-24T17:40:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d7d82308.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【お得速報】スレイヤーズ、狼と香辛料、灼眼のシャナなどがKindle最大60％オフ！カドサマー2026第2弾がスタート！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455525.html",
-      "pubDate": "2026-07-24T17:20:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/6/b6ef00cd.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-24T21:09:47.340577",
+  "updatedAt": "2026-07-24T22:35:46.797659",
   "sites": [
     {
       "id": "hachima",
