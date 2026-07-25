@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「頼んだ覚えない荷物届いたけどなにこれ？」ﾊﾟｼｬｯ←マジでヤバすぎる商品が届いてしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455615.html",
+      "pubDate": "2026-07-26T05:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bbe0f84c.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "あのちゃんが「家が3つある」と告白するも、実は深刻な理由だった……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550722.html",
+      "pubDate": "2026-07-26T05:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/1/c157ec16.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -613,19 +639,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【朗報】映画『ちいかわ』、公開からわずか27時間で推定興収10億円ｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550352.html",
-      "pubDate": "2026-07-25T17:30:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/688c5cb0.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52455575.html",
       "pubDate": "2026-07-25T13:00:37+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "とあるゲームのPVの結末がマジで衝撃的だと話題に！あなたはきっと、2度見ることになる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455578.html",
-      "pubDate": "2026-07-25T12:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/e/3e54c4d8.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-25T19:47:39.258615",
+  "updatedAt": "2026-07-25T20:58:44.007672",
   "sites": [
     {
       "id": "hachima",
