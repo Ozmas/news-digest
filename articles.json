@@ -2,6 +2,175 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "大人気グラドルさん、マッサージ店にてマジで酷い目に遭う・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455595.html",
+      "pubDate": "2026-07-25T21:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/2/c2a28810.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "警備員が2200万円入った袋をうっかり路上に落とす → それを見ていた男が拾って盗み、ほぼ全部使いこむ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550671.html",
+      "pubDate": "2026-07-25T21:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b07c9c81.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "体育会系が本当に就職に強いのかを研究した学者によると「一流大学の男子大学生が、メジャー競技をやっていた場合のみ、就活で有利になる」とのこと→実際はどうなの？",
+      "description": "体育会系が本当に就職に強いのかを研究した学者によると「一流大学の男子大学生が、メジャー競技をやっていた場合のみ、就活で有利になる」とのこと→実際はどうなの？",
+      "link": "https://togetter.com/li/2724651",
+      "pubDate": "Sat, 25 Jul 2026 20:45:57 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ちいかわという巨大コンテンツ、邪悪な大企業の介入がありそうだが、かなり強固にナガノ先生の主体性が守られている感じがする→過去に地獄を見てるからでは？説",
+      "description": "ちいかわという巨大コンテンツ、邪悪な大企業の介入がありそうだが、かなり強固にナガノ先生の主体性が守られている感じがする→過去に地獄を見てるからでは？説",
+      "link": "https://togetter.com/li/2724645",
+      "pubDate": "Sat, 25 Jul 2026 20:37:45 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「本当にイタチごっこ」警視庁がSNS型投資詐欺グループの手口について注意喚起、SEOを使い検索時に「詐欺ではありません」と表示するように工作している模様",
+      "description": "「本当にイタチごっこ」警視庁がSNS型投資詐欺グループの手口について注意喚起、SEOを使い検索時に「詐欺ではありません」と表示するように工作している模様",
+      "link": "https://togetter.com/li/2724646",
+      "pubDate": "Sat, 25 Jul 2026 20:37:02 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『FF14』と『FF7』コラボ決定！クラウドさんやセフィロスがエオルゼアへ！？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550677.html",
+      "pubDate": "2026-07-25T20:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/5/1502f1e6-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】弱者男性さん、映画『ちいかわ』にて常軌を逸した楽しみ方をしてしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455598.html",
+      "pubDate": "2026-07-25T20:30:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/3/e35f8f2d.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "仮想と現実が混じり合うVketReal 2026 Summerが開催、「仮想の民と共にジャンボオムライス制作」や「リアルタイムお絵かきボード」ほか有料エリアでは「幼女に餌付け」も",
+      "description": "仮想と現実が混じり合うVketReal 2026 Summerが開催、「仮想の民と共にジャンボオムライス制作」や「リアルタイムお絵かきボード」ほか有料エリアでは「幼女に餌付け」も",
+      "link": "https://togetter.com/li/2724638",
+      "pubDate": "Sat, 25 Jul 2026 20:28:16 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "はてなの11億円流出事件の報告書が生々しい…狙われた経理部長の判断ミスだけでなく、疲弊したバックオフィスと形骸化した内部統制の怖さが見えてくる",
+      "description": "はてなの11億円流出事件の報告書が生々しい…狙われた経理部長の判断ミスだけでなく、疲弊したバックオフィスと形骸化した内部統制の怖さが見えてくる",
+      "link": "https://togetter.com/li/2724632",
+      "pubDate": "Sat, 25 Jul 2026 20:12:53 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ヨドバシカメラで洗濯機購入後に「アンケートにご協力を～」と言われ、素直に答えたらウォーターサーバーの営業をめちゃくちゃかけられて不快でした",
+      "description": "ヨドバシカメラで洗濯機購入後に「アンケートにご協力を～」と言われ、素直に答えたらウォーターサーバーの営業をめちゃくちゃかけられて不快でした",
+      "link": "https://togetter.com/li/2724633",
+      "pubDate": "Sat, 25 Jul 2026 20:02:44 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "新作劇場アニメ『銀河鉄道999』製作決定！ストーリー原案はりんたろう氏",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550676.html",
+      "pubDate": "2026-07-25T20:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/a/2a2edff2.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気YouTuber「祭りのクジ引き屋の闇を暴くわ！全部買います！」 → 店員のおばちゃんが焦りすぎてヤバイ事態にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455599.html",
+      "pubDate": "2026-07-25T20:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/7/077b7b08-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "餃子の王将で食事中、隣の席の客が店員と少し揉めていた話… 「タンメン」を頼む客に、店員が「当店にはタンメンはございません」と返していたが、「そんなはずはない。いつも頼んでる」",
+      "description": "餃子の王将で食事中、隣の席の客が店員と少し揉めていた話… 「タンメン」を頼む客に、店員が「当店にはタンメンはございません」と返していたが、「そんなはずはない。いつも頼んでる」",
+      "link": "https://togetter.com/li/2724627",
+      "pubDate": "Sat, 25 Jul 2026 19:50:25 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -119,32 +288,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/244bc307-s.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "日系スーパーで見つけた永谷園の麻婆茄子の素を買ってみた、切ったナスを袋に入れてレンチンするだけでいいらしい→作ってみたら自分で作るより美味しかった",
-      "description": "日系スーパーで見つけた永谷園の麻婆茄子の素を買ってみた、切ったナスを袋に入れてレンチンするだけでいいらしい→作ってみたら自分で作るより美味しかった",
-      "link": "https://togetter.com/li/2724608",
-      "pubDate": "Sat, 25 Jul 2026 18:31:38 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "コインパーキング探してたらめちゃくちゃ難易度の高い駐車場見つけた、何がどうなったらこうなるんだ？「手前に止めたら奥の車はどう出ればいいの」",
-      "description": "コインパーキング探してたらめちゃくちゃ難易度の高い駐車場見つけた、何がどうなったらこうなるんだ？「手前に止めたら奥の車はどう出ればいいの」",
-      "link": "https://togetter.com/li/2724602",
-      "pubDate": "Sat, 25 Jul 2026 18:20:14 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -156,19 +299,6 @@
       "link": "http://blog.esuteru.com/archives/10550354.html",
       "pubDate": "2026-07-25T18:20:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/8/e868e849.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "婚活の調子を訊かれた時にぼちぼちと答えたら「コミュニケーションをユーモアに頼っているので大切な場面で失敗してないか心配してました」と火の玉ストレートが飛んできた",
-      "description": "婚活の調子を訊かれた時にぼちぼちと答えたら「コミュニケーションをユーモアに頼っているので大切な場面で失敗してないか心配してました」と火の玉ストレートが飛んできた",
-      "link": "https://togetter.com/li/2724597",
-      "pubDate": "Sat, 25 Jul 2026 18:11:41 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -223,19 +353,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "近所に『鎌倉のハム』と書かれた出店があり、買おうと思って待っていたらお店のお姉さんがドサッとこれを机に置いた「お姉さん迂闊すぎん？」",
-      "description": "近所に『鎌倉のハム』と書かれた出店があり、買おうと思って待っていたらお店のお姉さんがドサッとこれを机に置いた「お姉さん迂闊すぎん？」",
-      "link": "https://togetter.com/li/2724595",
-      "pubDate": "Sat, 25 Jul 2026 17:32:25 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -247,32 +364,6 @@
       "link": "http://blog.esuteru.com/archives/10550352.html",
       "pubDate": "2026-07-25T17:30:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/688c5cb0.png"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "二階級特進＝殉職を意味することを知らず、「二階級特進おめでとう」「二階級特進できるから拳銃使わなかったのね」と解釈する人がいるが、それだけ見聞きする機会が減ったということなのか",
-      "description": "二階級特進＝殉職を意味することを知らず、「二階級特進おめでとう」「二階級特進できるから拳銃使わなかったのね」と解釈する人がいるが、それだけ見聞きする機会が減ったということなのか",
-      "link": "https://togetter.com/li/2724593",
-      "pubDate": "Sat, 25 Jul 2026 17:23:11 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "前を走るバスの行先表示器に「非常事態発生」の文字、後部には青ランプが点灯というバスジャックなどの異常事態のサインが…誤操作の可能性があるが警察へ通報した方がいい",
-      "description": "前を走るバスの行先表示器に「非常事態発生」の文字、後部には青ランプが点灯というバスジャックなどの異常事態のサインが…誤操作の可能性があるが警察へ通報した方がいい",
-      "link": "https://togetter.com/li/2724590",
-      "pubDate": "Sat, 25 Jul 2026 17:09:35 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -324,19 +415,6 @@
       "description": "AnkerのUSB急速充電器「Nano Charger(45W、Display、スイングプラグ)」は手のひらサイズのコンパクトな充電器でありながら、充電状況を確認できるディスプレイを搭載するモデルです。また、AnkerのUSB充電器として初めてiPhoneのモデル検知が可能となり、充電出力やバッテリー残量をディスプレイでチェックできるようになっているとのことで、実際に使ってみました。続きを読む..",
       "link": "https://gigazine.net/news/20260725-anker-nano-charger-45w-display/",
       "pubDate": "Sat, 25 Jul 2026 17:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "子猫が遊びでびっくりさせようとしてくるので付き合ってあげるしかない動画（微やんのかステップ成分あり）「成長したけど今もやってる」",
-      "description": "子猫が遊びでびっくりさせようとしてくるので付き合ってあげるしかない動画（微やんのかステップ成分あり）「成長したけど今もやってる」",
-      "link": "https://togetter.com/li/2724585",
-      "pubDate": "Sat, 25 Jul 2026 16:59:46 +0900",
       "thumbnail": ""
     },
     {
@@ -548,32 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2fb6ead2-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超便利】大物小説家が後輩に教えた『話を面白くする方法』が全ての分野で使える本質だとネット大絶賛！　「どうして校長先生の話がつまらないかわかる？それはね…」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550305.html",
-      "pubDate": "2026-07-25T12:20:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f052478.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アニメアイコン男性さん、性行為よりも気持ちいい快楽が◯◯◯だと気づいてしまう！　→　これはｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550290.html",
-      "pubDate": "2026-07-25T12:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/3553d7a1.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -611,19 +663,6 @@
       "link": "https://rocketnews24.com/2026/07/25/2784471/",
       "pubDate": "Sat, 25 Jul 2026 02:55:10 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/20260707_133908.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバい】40代「岐阜県内で子猫など小動物の猟奇切断死骸が複数発見されてるけど、俺ら世代には◯◯◯の前兆に見えて嫌な予感」　→　説得力ありすぎて18万いいね",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550301.html",
-      "pubDate": "2026-07-25T11:40:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/0/a0c2982d-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -795,19 +834,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/f/4fc75d34-s.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男5人組「じゃんけんで負けた奴が女子トイレに入る遊びしようぜ！」 → 負けた男さん、女子トイレでヤバすぎるものを発見する・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455543.html",
-      "pubDate": "2026-07-25T08:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/195b85ba-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -832,32 +858,6 @@
       "link": "https://gigazine.net/news/20260725-helping-read-boost/",
       "pubDate": "Sat, 25 Jul 2026 08:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "駅員「トイレで死ぬって絶叫してる奴がいるけどなんだ！？」→調査の結果、ヤバイことが判明",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455542.html",
-      "pubDate": "2026-07-25T07:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/8/88da01e5.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『亜人』全17巻すべて「50％ポイント還元」セール！6,732円分返ってくる！史上最高に面白い、お互いの「不死身」を戦術とする今までにない頭脳戦+銃撃戦！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455538.html",
-      "pubDate": "2026-07-25T06:30:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/7522895a.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1698,6 +1698,32 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "ボックス整理でケロマツやフォッコを送る前に読んで →メガマフォクシーやメガゲッコウガ用の個体の確保を忘れずに【ポケモンGO】",
+      "description": "『ポケモンGO』の「ウルトラアンロック：10周年版」で御三家を捕まえまくった結果、ボックスがパンパンになっているトレーナーは多いはず。 ただ、整頓に入る前に「ハリマロン」「フォッコ」「ケロマツ」「ポカブ」だけは個体値をチ [&#8230;]",
+      "link": "https://getnews.jp/archives/3732813",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "blue web. 、新曲「Blue Reverberation (feat. 初音ミク)」をリリース",
+      "description": "nerdnekoとyaginiwaによるオルタナティブ・ユニットblue web.が、1st Albumからの先行Single「Blue Reverberation (feat. 初音ミク)」を2026年7月22日(水) [&#8230;]",
+      "link": "https://getnews.jp/archives/3732875",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "愛犬がいないと思ったら・・。ペットゲートに静かに挟まっている柴犬を発見！！「かわいすぎる！」「どうしてそこに？！」",
       "description": "愛犬がの姿が見えなかったので、家の中を探してみた飼い主さん。 すると、その場から動けなくなってしまっているところを見つけたのでした！ ※こちらは、2025年7月に公開した記事を再構成したものとなります いないなぁと思った [&#8230;]",
       "link": "https://getnews.jp/archives/3732873",
@@ -1794,35 +1820,9 @@
       "link": "https://getnews.jp/archives/3732867",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "ほいっぷ、新曲「5W4Y1NG!!」リリース",
-      "description": "ほいっぷが新曲「5W4Y1NG!!」を2026年7月22日にリリースした。 ほいっぷは電子音や歪んだ質感、ネットカルチャーのような不安定さを感じながらもキャッチーなサウンドが特徴のアーティスト。 新曲「5W4Y1NG!! [&#8230;]",
-      "link": "https://getnews.jp/archives/3732866",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "Asahi Crew&James Landino&zeroth&星宮とと、新曲「maybe maybe」リリース",
-      "description": "Asahi Crew, James Landino , zeroth , 星宮ととによる新曲「maybe maybe」が2026年7月24日にリリースされた。 本コラボシングルはEDMやガラージを基調としたダンスチューン [&#8230;]",
-      "link": "https://getnews.jp/archives/3732864",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-25T10:38:08.041867",
+  "updatedAt": "2026-07-25T12:05:15.153079",
   "sites": [
     {
       "id": "hachima",
