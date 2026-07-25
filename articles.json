@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "あのちゃん、“家が3つある”驚きの理由を告白「〇〇が怖い」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455605.html",
+      "pubDate": "2026-07-26T03:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/a/da982be5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "映画『ちいかわ』の「客層ガチャ」がヤバイ！「夕方はやめとけ」「レイトショーしか勝たん」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550719.html",
+      "pubDate": "2026-07-26T03:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e5004cd.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "思わずゾッとした「怖い話」を教えて→包丁を振りかぶる幼児、ハトをビニールに詰める女、事故現場に響く悲鳴、ガラス越しに見える漆黒の影…夏らしい怖い体験談がたくさん",
+      "description": "思わずゾッとした「怖い話」を教えて→包丁を振りかぶる幼児、ハトをビニールに詰める女、事故現場に響く悲鳴、ガラス越しに見える漆黒の影…夏らしい怖い体験談がたくさん",
+      "link": "https://togetter.com/li/2724762",
+      "pubDate": "Sun, 26 Jul 2026 02:46:35 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「ハーゲンダッツ券」をセブンで使ったら、店員が全然処理をわかっておらず「これ多分一個しか引き換えられないです」と適当なことを言い、さらに「マニュアルとかなくてぇ」とまた適当を…→店員側への同情が殺到する話だった",
+      "description": "「ハーゲンダッツ券」をセブンで使ったら、店員が全然処理をわかっておらず「これ多分一個しか引き換えられないです」と適当なことを言い、さらに「マニュアルとかなくてぇ」とまた適当を…→店員側への同情が殺到する話だった",
+      "link": "https://togetter.com/li/2724764",
+      "pubDate": "Sun, 26 Jul 2026 02:17:34 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -275,19 +327,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bb4abefa.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "独身一人暮らしは油断すると食生活が終わるから夜ご飯を「玄米パック」「冷凍焼き魚」「固形味噌汁」で固定してる話…これに足すべき食べ物のアドバイスが集まる",
-      "description": "独身一人暮らしは油断すると食生活が終わるから夜ご飯を「玄米パック」「冷凍焼き魚」「固形味噌汁」で固定してる話…これに足すべき食べ物のアドバイスが集まる",
-      "link": "https://togetter.com/li/2724696",
-      "pubDate": "Sat, 25 Jul 2026 22:28:07 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -338,19 +377,6 @@
       "link": "https://jin115.com/archives/52455604.html",
       "pubDate": "2026-07-25T21:30:01+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7b3fa55.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「新宿で本を買って映画」「その後ピザとビール食べて、帰宅したらサッカーを見る」村上春樹の描いた夏休みが独り身に理想的すぎるが、現代では大分高く付いてしまう",
-      "description": "「新宿で本を買って映画」「その後ピザとビール食べて、帰宅したらサッカーを見る」村上春樹の描いた夏休みが独り身に理想的すぎるが、現代では大分高く付いてしまう",
-      "link": "https://togetter.com/li/2724661",
-      "pubDate": "Sat, 25 Jul 2026 21:29:07 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -639,19 +665,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【噂】任天堂、IP『ゼノサーガ』を買い取った可能性が浮上する",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550345.html",
-      "pubDate": "2026-07-25T16:30:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/e/eefa826e.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/07/25/2785076/",
       "pubDate": "Sat, 25 Jul 2026 02:31:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_0825.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【え？】千葉の中学生、教師の態度が気に入らず暴行して逮捕→教委「生徒のフォローを第一優先で進めていく」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455568.html",
-      "pubDate": "2026-07-25T11:30:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/1387b603.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-25T17:05:30.331232",
+  "updatedAt": "2026-07-25T18:28:18.108163",
   "sites": [
     {
       "id": "hachima",
