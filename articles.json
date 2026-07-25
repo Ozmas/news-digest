@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "いろんな意味で話題作『みいちゃんと山田さん』がアニメ化決定で賛否両論、「アニメ化していいのか」「ガチで期待してる」ほか",
+      "description": "いろんな意味で話題作『みいちゃんと山田さん』がアニメ化決定で賛否両論、「アニメ化していいのか」「ガチで期待してる」ほか",
+      "link": "https://togetter.com/li/2724791",
+      "pubDate": "Sun, 26 Jul 2026 04:30:58 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "映画「ちいかわ」のしるこサンドのシーンは原作からは想像がつかない音なのでIMAXで観るのがオススメ",
+      "description": "映画「ちいかわ」のしるこサンドのシーンは原作からは想像がつかない音なのでIMAXで観るのがオススメ",
+      "link": "https://togetter.com/li/2724788",
+      "pubDate": "Sun, 26 Jul 2026 04:24:28 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "相棒の「ちょっとちょうだい」が相棒が嫌いだとわかってるものも取りに来るのがモヤつく話、なお何でも欲しがるので余分に買うのもあるある",
+      "description": "相棒の「ちょっとちょうだい」が相棒が嫌いだとわかってるものも取りに来るのがモヤつく話、なお何でも欲しがるので余分に買うのもあるある",
+      "link": "https://togetter.com/li/2724786",
+      "pubDate": "Sun, 26 Jul 2026 04:09:04 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "美味すぎると話題の「サムライマックのソース抜き」をネットに踊らされて頼んだ結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550721.html",
+      "pubDate": "2026-07-26T04:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c8b97af.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -34,8 +86,8 @@
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "思わずゾッとした「怖い話」を教えて→包丁を振りかぶる幼児、ハトをビニールに詰める女、事故現場に響く悲鳴、ガラス越しに見える漆黒の影…夏らしい怖い体験談がたくさん",
-      "description": "思わずゾッとした「怖い話」を教えて→包丁を振りかぶる幼児、ハトをビニールに詰める女、事故現場に響く悲鳴、ガラス越しに見える漆黒の影…夏らしい怖い体験談がたくさん",
+      "title": "皆さんの「怖い話」を教えて→包丁を振りかぶる幼児、ハトをビニールに詰める女、事故現場に響く悲鳴、ガラス越しに見える漆黒の影…思わずゾッとする体験談がたくさん",
+      "description": "皆さんの「怖い話」を教えて→包丁を振りかぶる幼児、ハトをビニールに詰める女、事故現場に響く悲鳴、ガラス越しに見える漆黒の影…思わずゾッとする体験談がたくさん",
       "link": "https://togetter.com/li/2724762",
       "pubDate": "Sun, 26 Jul 2026 02:46:35 +0900",
       "thumbnail": ""
@@ -223,19 +275,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "客に「漢字をあまり読めない子供には『ちいかわのマンガ』と『すみっコぐらしの絵本』のどちらがいいか」と聞かれた…そこでちいかわが大人向けで漢字も多いことを伝えた",
-      "description": "客に「漢字をあまり読めない子供には『ちいかわのマンガ』と『すみっコぐらしの絵本』のどちらがいいか」と聞かれた…そこでちいかわが大人向けで漢字も多いことを伝えた",
-      "link": "https://togetter.com/li/2724711",
-      "pubDate": "Sat, 25 Jul 2026 23:37:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -262,19 +301,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/8/88781b9e.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "博士課程まで行かせてくれたトラック運転手の父が無事故での免許返納…運転免許証は「車を運転できる資格」以上に人生そのものだった話→称賛の声が続々と集まる",
-      "description": "博士課程まで行かせてくれたトラック運転手の父が無事故での免許返納…運転免許証は「車を運転できる資格」以上に人生そのものだった話→称賛の声が続々と集まる",
-      "link": "https://togetter.com/li/2724706",
-      "pubDate": "Sat, 25 Jul 2026 23:14:43 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -286,19 +312,6 @@
       "link": "https://jin115.com/archives/52455602.html",
       "pubDate": "2026-07-25T23:00:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/36677eee.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「強さにも色々な種類がある」配送業者が死にかけのセミにオロオロしてたので退かしてあげたら、その後ペットボトルの箱2つを軽々担いで階段を駆け上がっていった",
-      "description": "「強さにも色々な種類がある」配送業者が死にかけのセミにオロオロしてたので退かしてあげたら、その後ペットボトルの箱2つを軽々担いで階段を駆け上がっていった",
-      "link": "https://togetter.com/li/2724700",
-      "pubDate": "Sat, 25 Jul 2026 22:52:43 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "gigazine",
@@ -637,19 +650,6 @@
       "link": "https://jin115.com/archives/52455592.html",
       "pubDate": "2026-07-25T17:00:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/8211845d.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "日本トレカ協会さん、誹謗中傷に警告「法的措置を講じていく。悪質なものはすでに手続きを進めている」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550347.html",
-      "pubDate": "2026-07-25T17:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b0d0da69-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-25T18:28:18.108163",
+  "updatedAt": "2026-07-25T19:47:39.258615",
   "sites": [
     {
       "id": "hachima",
