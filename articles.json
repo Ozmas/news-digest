@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "【漫画】「ノーメイク？」と聞かれた人、「化粧に気づかれないならもうノーメイクでいいのでは」と試してみたところ、今度は「具合悪い？」と心配される→「オシャレはマイナスをゼロにするもの」「おばけから人間へみたいな」",
+      "description": "【漫画】「ノーメイク？」と聞かれた人、「化粧に気づかれないならもうノーメイクでいいのでは」と試してみたところ、今度は「具合悪い？」と心配される→「オシャレはマイナスをゼロにするもの」「おばけから人間へみたいな」",
+      "link": "https://togetter.com/li/2724755",
+      "pubDate": "Sun, 26 Jul 2026 02:03:28 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【！？】警官に職務質問された男「闇バイトに応募して、これから強盗に行きます」 → 逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550729.html",
+      "pubDate": "2026-07-26T02:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/e/1e6abd80.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "『ドカ食いダイスキ！もちづきさん』23話で暗闇の中でドカ食いする姿にふたつの恐怖、「本当に停電なの」「何を食べたの」の声",
+      "description": "『ドカ食いダイスキ！もちづきさん』23話で暗闇の中でドカ食いする姿にふたつの恐怖、「本当に停電なの」「何を食べたの」の声",
+      "link": "https://togetter.com/li/2724749",
+      "pubDate": "Sun, 26 Jul 2026 01:48:35 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【速報】『みいちゃんと山田さん』2027年、アニメ化決定！声付きのPVも公開！詳細は・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455620.html",
+      "pubDate": "2026-07-26T01:38:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/3417e4e9.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジかよ】『みいちゃんと山田さん』2027年アニメ化決定！！大丈夫なのか・・・！？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550741.html",
+      "pubDate": "2026-07-26T01:30:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9fbe058b.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "警察「職務質問させてください」 若い男女「拒否する！仲間50人呼ぶわ！」 → 結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455608.html",
+      "pubDate": "2026-07-26T01:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/0/c08ffc65-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ゴッド・オブ・ウォー ラウフェイ』発売日が2027年2月16日に決定！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550728.html",
+      "pubDate": "2026-07-26T01:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7eea7b07.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ダイキンは何度か米国進出に失敗しているが、その理由は「日本クオリティの大変静かな室外機あります」に対して「アメリカ人はそんな騒音気にしない」だったからだそう",
+      "description": "ダイキンは何度か米国進出に失敗しているが、その理由は「日本クオリティの大変静かな室外機あります」に対して「アメリカ人はそんな騒音気にしない」だったからだそう",
+      "link": "https://togetter.com/li/2724731",
+      "pubDate": "Sun, 26 Jul 2026 00:52:09 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -249,19 +353,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "副都心線の電車に乗ってたら、急に大量の人がこちらに押し寄せ、「誰か非常ボタン押して！」との声も→その後、車両の端まで押されたが、逃げるしかなかったので怖かった",
-      "description": "副都心線の電車に乗ってたら、急に大量の人がこちらに押し寄せ、「誰か非常ボタン押して！」との声も→その後、車両の端まで押されたが、逃げるしかなかったので怖かった",
-      "link": "https://togetter.com/li/2724659",
-      "pubDate": "Sat, 25 Jul 2026 21:21:23 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -286,32 +377,6 @@
       "link": "http://blog.esuteru.com/archives/10550671.html",
       "pubDate": "2026-07-25T21:00:08+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b07c9c81.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "体育会系が本当に就職に強いのかを研究した学者によると「一流大学の男子大学生が、メジャー競技をやっていた場合のみ、就活で有利になる」とのこと→実際はどうなの？",
-      "description": "体育会系が本当に就職に強いのかを研究した学者によると「一流大学の男子大学生が、メジャー競技をやっていた場合のみ、就活で有利になる」とのこと→実際はどうなの？",
-      "link": "https://togetter.com/li/2724651",
-      "pubDate": "Sat, 25 Jul 2026 20:45:57 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ちいかわという巨大コンテンツ、邪悪な大企業の介入もありそうだが、かなり強固にナガノ先生の主体性が守られている感じがする→過去に地獄を見てるからでは？説",
-      "description": "ちいかわという巨大コンテンツ、邪悪な大企業の介入もありそうだが、かなり強固にナガノ先生の主体性が守られている感じがする→過去に地獄を見てるからでは？説",
-      "link": "https://togetter.com/li/2724645",
-      "pubDate": "Sat, 25 Jul 2026 20:37:45 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -587,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/e/eefa826e.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】『日本三國』作者のアカウント削除、腐女子のせいかどうかで大論争になってしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550334.html",
-      "pubDate": "2026-07-25T16:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/ed7ec873.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -626,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【祝】『ドラゴンボール』鳥山明さん、『マジンガーZ』永井豪さんがコミック界のアカデミー賞「アイズナー賞」で殿堂入り！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550343.html",
-      "pubDate": "2026-07-25T15:30:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b0cece2-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +689,6 @@
       "link": "https://jin115.com/archives/52455587.html",
       "pubDate": "2026-07-25T15:00:42+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/5/a5e619e0.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】アニメ制作「ヒロインが楠木さんだから声優も楠木ともりさんにすればバカウケやろな( ﾆﾁｬｱ)」⇒ 結果ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550328.html",
-      "pubDate": "2026-07-25T15:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/8461d832.png"
     },
     {
       "siteId": "rocketnews",
@@ -769,19 +795,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/1387b603.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本が南鳥島沖から引き揚げたレアアース泥、約5割は中国への依存度が高いレアアースと判明！将来の国産化に期待！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455564.html",
-      "pubDate": "2026-07-25T11:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d6a76b98.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -793,19 +806,6 @@
       "link": "https://rocketnews24.com/2026/07/25/2782317/",
       "pubDate": "Sat, 25 Jul 2026 02:00:14 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_1369.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "アニメ制作「ヒロインの名前が『楠木』だから声優も楠木ともりさんにしちゃお！これはウケるぞ～ｗ」→◯◯が理由で大炎上してしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455547.html",
-      "pubDate": "2026-07-25T10:40:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90fd8c16.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-25T15:42:26.696345",
+  "updatedAt": "2026-07-25T17:05:30.331232",
   "sites": [
     {
       "id": "hachima",
