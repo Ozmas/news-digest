@@ -2,6 +2,214 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "コンビニ店員さん、悪質クレーマーに対しブチギレとんでもない行動にでるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455546.html",
+      "pubDate": "2026-07-25T09:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/3/e3df0c6b.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "人生で1度も「ドライブスルー」を利用したことのない男を実際に連れて行くライブ配信",
+      "description": "毎週水曜19時半から、当サイトのYouTubeチャンネルでライブ配信を行っている。先日の2026年7月22日は、4月の配信開始以降、初めてとなるドライブ配信実施。1時間の配信時間内に行って帰って来られる場所として我々が選 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/07/25/2784279/",
+      "pubDate": "Sat, 25 Jul 2026 00:00:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/722liverepo.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジか】花屋でバイトしようと応募した人、「◯◯◯だから無理」と断られて完全に詰む　→　「花屋ってこんなに敷居高いの？」「どの職種でもこれだからマジであり得ない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550260.html",
+      "pubDate": "2026-07-25T09:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9fde2b25.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "娘がクラスメイトにグループLINEで悪口を書かれ、「ショックでもう学校に行けない」→相手の保護者に電話したら、「こっちは口が悪くて〇ちゃん（娘）は優しいから、捉え方ですね〜」と言われた話",
+      "description": "娘がクラスメイトにグループLINEで悪口を書かれ、「ショックでもう学校に行けない」→相手の保護者に電話したら、「こっちは口が悪くて〇ちゃん（娘）は優しいから、捉え方ですね〜」と言われた話",
+      "link": "https://togetter.com/li/2724490",
+      "pubDate": "Sat, 25 Jul 2026 08:56:23 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「めんが見えない！よくばり冷し中華」2000円が無料！のメニュー…実は仕事から帰ってきたパパのために息子が命名を考えて制作した力作だった→キャッチコピーが素晴らしい",
+      "description": "「めんが見えない！よくばり冷し中華」2000円が無料！のメニュー…実は仕事から帰ってきたパパのために息子が命名を考えて制作した力作だった→キャッチコピーが素晴らしい",
+      "link": "https://togetter.com/li/2724489",
+      "pubDate": "Sat, 25 Jul 2026 08:43:57 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "車で仮眠していたら男の人に窓を叩かれて「タイヤパンクしてる」「応急処置してあげる」などと言われたが、その後の会話の内容が不審だったので1万円だけ渡して解散した",
+      "description": "車で仮眠していたら男の人に窓を叩かれて「タイヤパンクしてる」「応急処置してあげる」などと言われたが、その後の会話の内容が不審だったので1万円だけ渡して解散した",
+      "link": "https://togetter.com/li/2724487",
+      "pubDate": "Sat, 25 Jul 2026 08:34:06 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "地下アイドル「家族がサッカー好きで家に色々なユニフォームあるよ！」と自撮りを公開 → ユニフォームがまさかの〇〇でサッカーファン大興奮ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455545.html",
+      "pubDate": "2026-07-25T08:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/f/4fc75d34-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【地獄】中高年男性さん、長めの有給を取って念願の南のリゾート島に旅行するも◯◯に絶望して即帰国　→　理由を聞いたおっさん達が恐怖に震える…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550258.html",
+      "pubDate": "2026-07-25T08:30:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5aa7b225.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "出社したら、プリンターがビービー鳴っていたが、隣の席の人は知らんぷりしていて結局誰も動かないので、仕方なく自分が対応→その後、自席に戻ったら、隣の席の人が「もう印刷できますか？」",
+      "description": "出社したら、プリンターがビービー鳴っていたが、隣の席の人は知らんぷりしていて結局誰も動かないので、仕方なく自分が対応→その後、自席に戻ったら、隣の席の人が「もう印刷できますか？」",
+      "link": "https://togetter.com/li/2724486",
+      "pubDate": "Sat, 25 Jul 2026 08:25:31 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "勉強が苦手な子がやっとのことで因数分解できるようになったのに、2週間ブランクが空いたら全くできなくなる事例にはどう対応したらいいのか？→同じような体験談が続々",
+      "description": "勉強が苦手な子がやっとのことで因数分解できるようになったのに、2週間ブランクが空いたら全くできなくなる事例にはどう対応したらいいのか？→同じような体験談が続々",
+      "link": "https://togetter.com/li/2724485",
+      "pubDate": "Sat, 25 Jul 2026 08:21:28 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "小2息子がJRの「改札から出なければ初乗り運賃で一筆書きで丸一日首都圏の路線に乗り放題」という「大回り乗車」をやり遂げた話→不正乗車と疑われがちだが、違法ではない",
+      "description": "小2息子がJRの「改札から出なければ初乗り運賃で一筆書きで丸一日首都圏の路線に乗り放題」という「大回り乗車」をやり遂げた話→不正乗車と疑われがちだが、違法ではない",
+      "link": "https://togetter.com/li/2724480",
+      "pubDate": "Sat, 25 Jul 2026 08:02:24 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "男5人組「じゃんけんで負けた奴が女子トイレに入る遊びしようぜ！」 → 負けた男さん、女子トイレでヤバすぎるものを発見する・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455543.html",
+      "pubDate": "2026-07-25T08:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/195b85ba-s.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "違反…ではないのか!? かつてない光景に戸惑う教師！　隣りの席の子の様子がおかしい第45回「テスト」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/07/25/2780446/",
+      "pubDate": "Fri, 24 Jul 2026 23:00:56 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari45-1koma.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】現役ホテルマン「ホテル予約しようとしてるオタクへ！◯◯◯だけはやめろ！絶対やめとけ！」　→　全国の旅館やホテル従業員から賛同の嵐！「これは全部マジです」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550249.html",
+      "pubDate": "2026-07-25T08:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/6/c6d9eda9.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "友達の読書を手伝うことが子どもたちの学力向上につながるとの研究結果",
+      "description": "子どもの読書を促すために開発された「2人で同じ本を音読しあう」という学習法に、読解力が向上する効果があることが示されました。文章を素早く読む能力や文章を理解する能力を培うことができると期待されています。続きを読む...",
+      "link": "https://gigazine.net/news/20260725-helping-read-boost/",
+      "pubDate": "Sat, 25 Jul 2026 08:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "作家だが、自主規制で一番困ったのは「孤児院」がアウトだったとき… そのエピソードは孤児院が舞台で、レギュラーキャラは孤児院出身→えっ『児童養護施設』にしろって!?中世にそんなもんあるか!",
+      "description": "作家だが、自主規制で一番困ったのは「孤児院」がアウトだったとき… そのエピソードは孤児院が舞台で、レギュラーキャラは孤児院出身→えっ『児童養護施設』にしろって!?中世にそんなもんあるか!",
+      "link": "https://togetter.com/li/2724476",
+      "pubDate": "Sat, 25 Jul 2026 07:48:41 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -223,19 +431,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/3725bf7a.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ちいかわミリしらで映画「ちいかわ」を観たら「東野圭吾の原作でちいかわをやってる感じ」に見えた…ちいかわは普段からこういう話というツッコミが集まる",
-      "description": "ちいかわミリしらで映画「ちいかわ」を観たら「東野圭吾の原作でちいかわをやってる感じ」に見えた…ちいかわは普段からこういう話というツッコミが集まる",
-      "link": "https://togetter.com/li/2724434",
-      "pubDate": "Sat, 25 Jul 2026 02:44:21 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -262,19 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/2/6286c78d.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画「ちいかわ」の上映終わりに館内が明るくなったら6歳くらいの子が悲しそうに声を上げて泣きはじめてゾクッとした話、ナガノキッズはどんな大人に育つのか気になる",
-      "description": "映画「ちいかわ」の上映終わりに館内が明るくなったら6歳くらいの子が悲しそうに声を上げて泣きはじめてゾクッとした話、ナガノキッズはどんな大人に育つのか気になる",
-      "link": "https://togetter.com/li/2724420",
-      "pubDate": "Sat, 25 Jul 2026 01:57:41 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -286,19 +468,6 @@
       "link": "http://blog.esuteru.com/archives/10550192.html",
       "pubDate": "2026-07-25T01:30:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/1/51428d51.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「マタギの谷垣」と「ゲンジロちゃん」のどちらを選ぶかアニメ「ゴールデンカムイ」公式が問いかけてきてガチで悩む、「へぇ…かわいいね」おじさんも大量発生",
-      "description": "「マタギの谷垣」と「ゲンジロちゃん」のどちらを選ぶかアニメ「ゴールデンカムイ」公式が問いかけてきてガチで悩む、「へぇ…かわいいね」おじさんも大量発生",
-      "link": "https://togetter.com/li/2724399",
-      "pubDate": "Sat, 25 Jul 2026 01:03:25 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -327,32 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/82c2d471-s.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ある温泉宿で、常連から「脱衣所にエアコンつけて」と要望があり設置するも、3年目で壊れる…業者も「中が腐食してて修理は無理」←温泉地あるあるらしい",
-      "description": "ある温泉宿で、常連から「脱衣所にエアコンつけて」と要望があり設置するも、3年目で壊れる…業者も「中が腐食してて修理は無理」←温泉地あるあるらしい",
-      "link": "https://togetter.com/li/2724392",
-      "pubDate": "Sat, 25 Jul 2026 00:51:28 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画「ちいかわ」が3時間で劇場版「トリコ」の興行収入を超えてしまった話、「21世紀最悪のジャンプ原作アニメ」だが「その週の顧客満足度ランキング1位」を獲得した怪作",
-      "description": "映画「ちいかわ」が3時間で劇場版「トリコ」の興行収入を超えてしまった話、「21世紀最悪のジャンプ原作アニメ」だが「その週の顧客満足度ランキング1位」を獲得した怪作",
-      "link": "https://togetter.com/li/2724387",
-      "pubDate": "Sat, 25 Jul 2026 00:40:44 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -364,19 +507,6 @@
       "link": "http://blog.esuteru.com/archives/10550119.html",
       "pubDate": "2026-07-25T00:30:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d932b78d.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "【謎】うちの研究室で扱ってた真菌、培養が非常に困難で困ってたが「ワイのロッカーに入れるとなぜか増殖する」と分かったことで培地置き場となった「後のバイキンマンである」",
-      "description": "【謎】うちの研究室で扱ってた真菌、培養が非常に困難で困ってたが「ワイのロッカーに入れるとなぜか増殖する」と分かったことで培地置き場となった「後のバイキンマンである」",
-      "link": "https://togetter.com/li/2724374",
-      "pubDate": "Sat, 25 Jul 2026 00:22:46 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -415,19 +545,6 @@
       "description": "GIGAZINEの記事を電子化した書籍を対象に、「2026年第2四半期で最もたくさん読まれた記事トップ100」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。続きを読む...",
       "link": "https://gigazine.net/news/20260725-gigazine-kindle-ranking-2026-q2/",
       "pubDate": "Sat, 25 Jul 2026 00:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『ちいかわ』の映画で隣の席だったカップル… 彼氏側がちいかわ完全初見だったらしく、上映後に「これが……ちいかわの映画かよ……」と100点満点のリアクションしてて非常によかった",
-      "description": "『ちいかわ』の映画で隣の席だったカップル… 彼氏側がちいかわ完全初見だったらしく、上映後に「これが……ちいかわの映画かよ……」と100点満点のリアクションしてて非常によかった",
-      "link": "https://togetter.com/li/2724368",
-      "pubDate": "Fri, 24 Jul 2026 23:58:49 +0900",
       "thumbnail": ""
     },
     {
@@ -561,32 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/39d0c99d.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "総務省、グーグル・X・爆サイ運営など5社に行政指導！「SNS誹謗中傷対応ちゃんとやれ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550143.html",
-      "pubDate": "2026-07-24T21:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/9/49854520.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバすぎ】「死ぬ死ぬー！」駅のトイレで自分に麻酔を打ち錯乱・絶叫していた麻酔科医の男逮捕…見守っていた母親と駅員に取り押さえられる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550131.html",
-      "pubDate": "2026-07-24T20:30:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8e4bc760.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -611,19 +702,6 @@
       "link": "https://jin115.com/archives/52455529.html",
       "pubDate": "2026-07-24T20:00:55+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/1/c118749b-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ひろゆき「円安ホクホク総理大臣に失望する人は多い」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550130.html",
-      "pubDate": "2026-07-24T20:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5bb2407e.jpg"
     },
     {
       "siteId": "gigazine",
@@ -678,19 +756,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「任天堂はパルワールドに裁判で負けてもいい。威圧で\"覇王色の覇気\"を叩き込んだ任天堂は試合に負けても勝負に勝ってる」「なぜならパルワは◯◯になったから」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455528.html",
-      "pubDate": "2026-07-24T19:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/5/c5609719.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -704,19 +769,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男「夜11時に女性の自宅に誘われた！これは脈ありでは！？」→その後ヤバすぎる展開に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455511.html",
-      "pubDate": "2026-07-24T18:30:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/dbd58ccb.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -728,19 +780,6 @@
       "link": "https://gigazine.net/news/20260724-headline/",
       "pubDate": "Fri, 24 Jul 2026 18:11:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "フランス、熱波での死者が◯◯◯人を超えてマジでヤバイ！のに、クーラーはつけない！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455520.html",
-      "pubDate": "2026-07-24T18:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7ac451ef.jpg"
     },
     {
       "siteId": "gigazine",
@@ -935,19 +974,6 @@
       "description": "Netflix、ディズニー、ワーナー・ブラザースといったハリウッドの様々なスタジオが要請した遮断命令をカナダの連邦裁判所が認め、インターネットサービスプロバイダ(ISP)に対し13の海賊版サイトの遮断を命じました。この命令には包括的な「適用範囲拡大」が含まれており、権利者は遮断命令に含まれていないサイトを裁判所に再申請することなく追加できるようになりました。続きを読む...",
       "link": "https://gigazine.net/news/20260724-future-pirate-sites/",
       "pubDate": "Fri, 24 Jul 2026 12:35:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Microsoftが画像生成AI「MAI-Image-2.5-Pro」をリリース、独自開発AIをOffice製品などに統合して他社への依存を減らす",
-      "description": "Microsoftが画像生成AI「MAI-Image-2.5-Pro」をリリースしました。テキストからの画像生成と、画像の編集に対応しています。続きを読む...",
-      "link": "https://gigazine.net/news/20260724-microsoft-mai-image-2-5-pro/",
-      "pubDate": "Fri, 24 Jul 2026 12:32:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1159,19 +1185,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/poke00.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "仲間の数だけ拳を振るえ！ 友達の敵討ちに出た少年！　四コマサボタージュFB第49回「…の分！」",
-      "description": "四コマに出てきた渡邊さんや渡邉さんは何度か目にしてることもあってかパッと見で「ワタナベ」さんだと分かるのだけど、「邊」や「邉」だけ見せられたらなんて読むんだろうって思っちゃうんだよね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/07/23/2780428/",
-      "pubDate": "Wed, 22 Jul 2026 22:00:31 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-49.png"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1196,19 +1209,6 @@
       "link": "https://www.buzzfeed.com/jp/yukiadachi/fuwachan-soudoukataru0718",
       "pubDate": "Wed, 22 Jul 2026 06:31:04 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/22/01/subbuzz/nEObnNu84.jpg?crop=1945:1297;642,435&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ケニアで八百屋を3店舗経営する友人に「従業員の給料」を聞いたら、想像以上にシビアな世界だった【カンバ通信：第491回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今日は、読者のみなさんから質問のあった、僕の友達・ポールの八百屋さんについて紹介するね。 以前も少し紹介したことがあるけど、ポ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/07/22/2783533/",
-      "pubDate": "Wed, 22 Jul 2026 10:00:14 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/13b424ff-d6aa-4346-9e8d-2d0fb70c5cdf.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,9 +1698,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "冷蔵庫に常備してる「スイカ100%ジュース」。リコピン豊富な“天然のスポーツドリンク”なんです",
-      "description": "週間天気予報の最高気温に、30の文字が踊るようになってきました。スーパーにはとうもろこしも並びはじめ、ついに今年も夏の到来です。 ここ数年、毎夏欠かさず冷蔵庫にストックしている大好きな飲み物をご紹介します。 混ぜ物なしの [&#8230;]",
-      "link": "https://getnews.jp/archives/3732802",
+      "title": "DEAN & DELUCA初の「夏の福袋 2026」は夏のお出かけに役立つアイテムをセットにして販売",
+      "description": "「酷暑」や「猛暑」と共に夏のキーワードになりつつあるのが、「夏の福袋」ではないでしょうか。 今年は夏の福袋を”初めて”販売するという企業も少なくないようです。 株式会社ウェルカムが運営する食のセレクトショップ「DEAN  [&#8230;]",
+      "link": "https://getnews.jp/archives/3732583",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1711,9 +1711,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "痛いのにほぐれていく…。「悶絶を5分耐えた人だけ」がたどり着ける天国がある",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  「泣くほど痛い」という戦慄レビューと、ちょっとお高めな価格がネックで手が出せていなかったのあのアイテム…自腹買いしちゃいました。 編集者と [&#8230;]",
-      "link": "https://getnews.jp/archives/3732803",
+      "title": "モンベルのブラトップにしたら、不思議なぐらい「汗の不快感」が無い。こんなに快適になるとは…",
+      "description": "※本記事は2025年6月12日に公開された記事の再掲載です。 Text and Photographed by mio いよいよやってきた夏本番。 わたしは汗っかきなのもあり、この時期はちょっと出かけただけで、背中にぐっ [&#8230;]",
+      "link": "https://getnews.jp/archives/3732821",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1724,9 +1724,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "足のムレ・ベタベタ・ニオイ問題から解放！ビオレの「汗を止めずに乾かし続ける」クリームがすごかった",
-      "description": "これだけ暑いと、足裏にまで汗をかく……。 サンダルを履いて通気をよくしているつもりでも、ムレたりベタベタしたりするんです。 この足裏がじっとりする不快感、どうにかならないかなぁ。 「汗を止めずに乾かし続ける」クリームがあ [&#8230;]",
-      "link": "https://getnews.jp/archives/3732780",
+      "title": "“かあちゃん代表”亜希が大戸屋の新メニュー開発　母親たちの本音から『愛情めし』を生み出す",
+      "description": "人気定食チェーン「大戸屋」が、新プロジェクト『愛情めし』を始動しました。プロジェクトリーダーには、「かあちゃん代表」としてモデル・料理家の亜希さんが就任。母親たちの本音から新メニューとなる『愛情めし』のレシピが生まれるま [&#8230;]",
+      "link": "https://getnews.jp/archives/3732819",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1737,9 +1737,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "きゃりーぱみゅぱみゅ、盟友・田向潤が手掛けた「KURU KURU HARAJUKU」のMV公開",
-      "description": "きゃりーぱみゅぱみゅが、昨年リリースした楽曲「KURU KURU HARAJUKU」のミュージックビデオを公開した。 メガホンを取ったのは、YouTubeで2億回以上再生されている「PON PON PON」をはじめ、「フ [&#8230;]",
-      "link": "https://getnews.jp/archives/3732788",
+      "title": "指一本でクイッと開く。T-fal新作ボトル、炭酸好きにはたまらないね",
+      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  夏。汗をかく毎日には水分補給が欠かせません。健康のことを考えると水が良いと思いつつも、この時期飲みたくなるのが「冷たい炭酸飲料」ではないで [&#8230;]",
+      "link": "https://getnews.jp/archives/3732822",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1750,9 +1750,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【連載コラム】遊津場の関西アーティスト週報 vol.115「ニューアヤカ、ニュースタート」",
-      "description": "こんにちは。神戸在住の音楽キュレーター、遊津場(ゆつば)です。普段は邦ロック系インディーズアーティスト情報をSNS、メディア寄稿、自主イベント開催など、様々な手法で発信する活動をしています。 そして今回、OTOTOYで私 [&#8230;]",
-      "link": "https://getnews.jp/archives/3732778",
+      "title": "豪華な補填の裏で不満も噴出 / レイドパス消費問題とレックウザイベントとの時間被りに批判集まる【ポケモンGO】",
+      "description": "『ポケモンGO』の「Pokémon GO Fest 2026：グローバル（2日目）」に発生したレイドバトルの不具合を受け、7月26日に補填イベントが開催されます。 日曜2日目に開催されたレイドバトルが“ほぼ丸ごと”戻って [&#8230;]",
+      "link": "https://getnews.jp/archives/3732809",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1763,9 +1763,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "上白石萌音主催フェスにadieu出演 初の姉妹共演が実現",
-      "description": "上白石萌音が主催するフェス〈Mone Kamishiraishi 10th Live《bouquet》for ALL〉にadieu（上白石萌歌）が出演することが決定した。 横浜赤レンガパーク野外特設ステージにて2日間開催 [&#8230;]",
-      "link": "https://getnews.jp/archives/3732777",
+      "title": "CIO初の車載ホルダーは要領良し。家でも冷却充電できるよ",
+      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  夏はクーラーを効かせた涼しい車で移動したいですよね。その際、スマートフォンの充電事情は整えておきたいもの。 6月30日に発売したCIO（シ [&#8230;]",
+      "link": "https://getnews.jp/archives/3732823",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1776,9 +1776,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "Lucas & Steve、ハッピーな新曲リリース",
-      "description": "Lucas &#38; Steveが2026年7月17日(金)にニューシングル「All I Know」をリリースした。 本作は、ハッピーな空気感が全開のハウストラック。トロピカルな要素も少し感じられる、爽やかなサマーチュ [&#8230;]",
-      "link": "https://getnews.jp/archives/3732776",
+      "title": "熱がこもりやすい洗面所の救世主。無印良品の「3wayファン」で、ドライヤーやメイク中の暑さが和らいだ！",
+      "description": "夏になると毎年気になるのが、洗面所のこもった暑さ。 狭くて扇風機を置くこともできず、これまではリビングと往復して暑さをしのいだり、リビングにある扇風機を毎回持ってきたりしていました。 とはいえ毎日それをするのも地味に大変 [&#8230;]",
+      "link": "https://getnews.jp/archives/3732818",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1789,9 +1789,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "Ghost like girlfriend、2週間ぶりの新曲リリース",
-      "description": "Ghost like girlfriendが2026年7月24日(金)にニューシングル「Tomato」をリリースした。 本作は、2週間ぶりの新曲。先日リリースされた「いまさら」に続き、今月2曲目のリリースとなる。 彼の誕 [&#8230;]",
-      "link": "https://getnews.jp/archives/3732775",
+      "title": "1時間で100万XPを余裕で稼げる壊れボーナス発生中 / TL80を目指すなら今です【ポケモンGO】",
+      "description": "7月21日10時から7月27日20時まで『ポケモンGO』で開催中の「ウルトラアンロック：10周年版」の開催中、 ポケモンゲット時のXP倍率が、6倍→8倍→10倍と段階的に上がっていくという、ありそうでなかったボーナスが発 [&#8230;]",
+      "link": "https://getnews.jp/archives/3732591",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1802,9 +1802,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "the bercedes menz、ワンマンライブ開催決定&新日本プロレス『新日カードランブル Presents G1 CLIMAX 36』大会テーマソングリリース",
-      "description": "東京を拠点に活動するハードコアJ-POPバンド、the bercedes menzが、2027年1月27日(水)に自信ら最大キャパである恵比寿LIQUIDROOMにて単独公演〈流れよわが涙、とザ・ベルセデス・メンツは言っ [&#8230;]",
-      "link": "https://getnews.jp/archives/3732774",
+      "title": "“あべし”じゃなく”安心”を！ ダスキンと北斗の拳、まさかの介護コラボ",
+      "description": "介護は、備えができているかどうかを問う間もなく、ある日突然始まることが多い。そんな現実に向き合うため、ダスキンが展開する介護用品・福祉用具のレンタル・販売事業「ヘルスレント」は、介護への備えを促すプロジェクト「あしたのケ [&#8230;]",
+      "link": "https://getnews.jp/archives/3732817",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1815,14 +1815,14 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "XG、東京と大阪でワールドツアーファイナル開催決定 1夜、2夜でコンセプトが異なるスペシャル公演",
-      "description": "XGが、自身2度目のワールドツアーのファイナル公演〈XG WORLD TOUR: THE CORE FINAL〉を、東京ドーム・京セラドーム大阪にて各会場2日程計4日間で開催することが本日アナウンスされた。 ファイナル公 [&#8230;]",
-      "link": "https://getnews.jp/archives/3732779",
+      "title": "食洗機ユーザーにこそ必要だった！ 「折りたためるボトルスタンド」でキッチンが片付くよ",
+      "description": "夏場になると活躍するシーンも多いマイボトルですが、乾燥させるのが大変で翌朝になっても中がまだ濡れていることも。 そんな時に見つけたのが、折りたためるジャグボトルスタンドでした。 “脱・水切りカゴ”を叶える「ジャグボトルス [&#8230;]",
+      "link": "https://getnews.jp/archives/3732816",
       "pubDate": "",
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-24T22:35:46.797659",
+  "updatedAt": "2026-07-25T00:08:54.512334",
   "sites": [
     {
       "id": "hachima",
