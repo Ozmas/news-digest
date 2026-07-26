@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "フリマサイトで、障害者向けの大阪市の無料乗車券が出品され、物議を醸す「やや訳あり品（クッソ訳しかない）」「バレたら没収で来年度以降は発行してくれない」",
+      "description": "フリマサイトで、障害者向けの大阪市の無料乗車券が出品され、物議を醸す「やや訳あり品（クッソ訳しかない）」「バレたら没収で来年度以降は発行してくれない」",
+      "link": "https://togetter.com/li/2725185",
+      "pubDate": "Mon, 27 Jul 2026 08:20:42 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】「熱中症や脱水症かもと思ったら◯◯◯を触ってみて！あそこは汗が出る場所だからサラッと乾いてたら死ぬと思え」　→　ガチだった！汗が出ないのはマジ危険",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10551020.html",
+      "pubDate": "2026-07-27T08:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/85040beb.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "石破前首相「減税した結果、円安で物価が上がったらどうする？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455678.html",
+      "pubDate": "2026-07-27T08:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/6751f045.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ライフハック】50代男性は「強めパーマ」を当てるべき！ 薄毛も白髪も隠ぺいできる神メリットに今さら気づいた！",
+      "description": "ついにサッカーワールドカップは閉幕した。今大会でもっとも注目を集めたのがアフリカの小国「カーボベルデ」ではないだろうか。とくにキーパーのヴォニージャ選手の活躍は目覚ましく、予選リーグのスペイン戦で好セーブを連発し一躍時の [&#8230;]",
+      "link": "https://rocketnews24.com/2026/07/27/2783670/",
+      "pubDate": "Sun, 26 Jul 2026 23:00:08 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/curlyhair.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "大学1年の頃、締め切り10分前に書いた課題文、ガチであり得ないくらいめちゃくちゃで面白い「ワロタ」「\"締め切り\"の存在が間近になっているのを感じる」",
+      "description": "大学1年の頃、締め切り10分前に書いた課題文、ガチであり得ないくらいめちゃくちゃで面白い「ワロタ」「\"締め切り\"の存在が間近になっているのを感じる」",
+      "link": "https://togetter.com/li/2725183",
+      "pubDate": "Mon, 27 Jul 2026 07:56:14 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「なんでI don't know.ってI don't know it.みたいに目的語が来ないんだろう」自動詞用法という理由ではなく、なぜそれが可能か？という趣旨の質問→様々な考察が集まる",
+      "description": "「なんでI don't know.ってI don't know it.みたいに目的語が来ないんだろう」自動詞用法という理由ではなく、なぜそれが可能か？という趣旨の質問→様々な考察が集まる",
+      "link": "https://togetter.com/li/2725182",
+      "pubDate": "Mon, 27 Jul 2026 07:56:11 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "映画鑑賞の後にパウパトグッズを見ていたら、おばさんに急に「うさぎですか？」と声を掛けられ、聞き直しても同じ質問…その後、ちいかわの特典を交換してほしいと気づいた",
+      "description": "映画鑑賞の後にパウパトグッズを見ていたら、おばさんに急に「うさぎですか？」と声を掛けられ、聞き直しても同じ質問…その後、ちいかわの特典を交換してほしいと気づいた",
+      "link": "https://togetter.com/li/2725180",
+      "pubDate": "Mon, 27 Jul 2026 07:34:26 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】大谷翔平さん、トランプ大統領と笑顔でツーショット　→　想像の3000倍以上荒れる…「もう応援できない」「愚か」「政治利用」「他のチームメイトは拒否したのに」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10551019.html",
+      "pubDate": "2026-07-27T07:30:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3da4c202.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジでそれ】『ちいかわ』の映画を見たキッズ、「誰が一番悪いと思った？」の質問に「◯◯◯」と即答　→　満場一致でぐうの音も出ない正論だったｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10551014.html",
+      "pubDate": "2026-07-27T07:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e5004cd.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -353,19 +470,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「ホテルサンルート新潟の地下駐車場が完全に水没してる」との声に去年あった四日市のくすの木パーキングの水没を想起→新潟県内でレベル4危険警報…必要な場合は避難も",
-      "description": "「ホテルサンルート新潟の地下駐車場が完全に水没してる」との声に去年あった四日市のくすの木パーキングの水没を想起→新潟県内でレベル4危険警報…必要な場合は避難も",
-      "link": "https://togetter.com/li/2725051",
-      "pubDate": "Sun, 26 Jul 2026 22:14:01 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -388,7 +492,7 @@
       "title": "配信者さん、閉園後の夢の国に隠れるも見つかってキャストに追いかけられて全力で逃走 → 結果・・・",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52455669.html",
-      "pubDate": "2026-07-26T22:00:03+09:00",
+      "pubDate": "2026-07-26T22:00:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/65dcb10a-s.png"
     },
     {
@@ -431,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/5/b5a6b8bf.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画ちいかわを観終わってモヤモヤする息子に「誰が一番悪いと思った？」と聞いたら、満場一致で「それはそう」な回答が出てきた「あの人が一番喜びそう」",
-      "description": "映画ちいかわを観終わってモヤモヤする息子に「誰が一番悪いと思った？」と聞いたら、満場一致で「それはそう」な回答が出てきた「あの人が一番喜びそう」",
-      "link": "https://togetter.com/li/2725025",
-      "pubDate": "Sun, 26 Jul 2026 21:07:14 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -480,32 +571,6 @@
       "description": "アメリカにおける主要な政治イデオロギーはおおまかに「保守」「リベラリズム」「中道主義」の3つに分かれています。アメリカ人の政治思想を左右する要因としては人種が挙げられますが、新たな研究ではここ数十年で人種間のイデオロギーの違いは大幅に縮小した一方、「教育水準」による違いが著しく拡大したことが示されました。続きを読む...",
       "link": "https://gigazine.net/news/20260726-americans-education-race-ideological-differences/",
       "pubDate": "Sun, 26 Jul 2026 21:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『タマゴタケ』を採ってきたけど、色が鮮やかすぎるせいで食えるキノコだと説明してるのに家族が信じてくれない「やばい（ほど旨い）やつｗ」",
-      "description": "『タマゴタケ』を採ってきたけど、色が鮮やかすぎるせいで食えるキノコだと説明してるのに家族が信じてくれない「やばい（ほど旨い）やつｗ」",
-      "link": "https://togetter.com/li/2725022",
-      "pubDate": "Sun, 26 Jul 2026 20:50:21 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「中指立てたら懲戒かなぁ」Joshinがピースサインで勤怠の打刻ができるシステムを導入…楽しそうだが、ふざけたサインを提案する声まで",
-      "description": "「中指立てたら懲戒かなぁ」Joshinがピースサインで勤怠の打刻ができるシステムを導入…楽しそうだが、ふざけたサインを提案する声まで",
-      "link": "https://togetter.com/li/2725018",
-      "pubDate": "Sun, 26 Jul 2026 20:42:19 +0900",
       "thumbnail": ""
     },
     {
@@ -626,32 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/b/2bc6c372.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "中道改革連合・斉藤鉄夫「出来れば自民党からも国民民主党からも中道改革連合に参加してほしい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550891.html",
-      "pubDate": "2026-07-26T18:40:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/06b8c5e6-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "育てていたアスパラガスが突然枯れる →農業用タンクに“除草剤”混入させられたと判明 →犯人はまさかの人物だった・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550890.html",
-      "pubDate": "2026-07-26T18:20:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/a/2a4c486c-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -676,19 +715,6 @@
       "link": "https://jin115.com/archives/52455641.html",
       "pubDate": "2026-07-26T18:00:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/1555edf2.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ヒカキン、8月1日オープンの『みそきん』大阪店を公開！規模は過去最大、景観もヤバイｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550886.html",
-      "pubDate": "2026-07-26T18:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4ff7c863.png"
     },
     {
       "siteId": "gigazine",
@@ -884,19 +910,6 @@
       "link": "https://gigazine.net/news/20260726-milky-subway-wf2026s/",
       "pubDate": "Sun, 26 Jul 2026 13:27:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【画像】とある大学にて国旗損壊罪に挑戦する掲示物が物議に「こんなことする大学はやっぱり潰した方がいい」「ネトウヨがイライラしてて最高」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455623.html",
-      "pubDate": "2026-07-26T13:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/21c8ac86.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1222,19 +1235,6 @@
       "link": "https://rocketnews24.com/2026/07/25/2784279/",
       "pubDate": "Sat, 25 Jul 2026 00:00:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/722liverepo.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "違反…ではないのか!? かつてない光景に戸惑う教師！　隣りの席の子の様子がおかしい第45回「テスト」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/07/25/2780446/",
-      "pubDate": "Fri, 24 Jul 2026 23:00:56 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari45-1koma.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,45 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "真夏の出張で大活躍！無印良品の「敏感肌用ボディシート」は刺激ゼロなのに肌さっぱりなんだ",
+      "description": "※本記事は2025年04月23日に公開された記事を再編集して公開しています。 Text and Photographed by シラクマ 出張や旅行の前にはよく、無印良品でトラベルアイテムを買い足しています。 手ごろな価 [&#8230;]",
+      "link": "https://getnews.jp/archives/3732983",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "キュレルの「ケアマスク」で、部分ケアのストレスを解消。一晩じっくり保湿して、サロンいらずの肌に",
+      "description": "サンダルや半袖など、肌の露出が増える季節。 冬はつい後回しにしていたケアも、夏は気になってしまいます。 ケアの頻度が増えるほど、毎日だからこそ気になる小さな悩みも……。 毎日ケアの小さなお悩み 私の場合、かかとクリームを [&#8230;]",
+      "link": "https://getnews.jp/archives/3732982",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「䔧」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「䔧」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「䔧」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3732981",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "喪失の先にある、恐るべき“救い”　生命の倫理を揺るがすフォークホラー『スターヴ・エイカー 召喚』９月公開［ホラー通信］",
       "description": "イギリス発、生命の倫理を揺るがすフォークホラー『スターヴ・エイカー 召喚』（原題：Starve Acre）が９月11日(金)より公開されることが決定した。 英国ヨークシャー地方の人里離れた“スターヴ・エイカー”に移り住ん [&#8230;]",
       "link": "https://getnews.jp/archives/3732946",
@@ -1781,48 +1820,9 @@
       "link": "https://getnews.jp/archives/3732973",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "「メッタ撃ちにしましょう」　米軍VS恐竜オールスター『プリミティヴ・ウォー 恐竜戦争』激戦予告＆キャラクタービジュアル解禁［ホラー通信］",
-      "description": "ベトナム戦争の最中になぜか恐竜の大群が出現、軍人たちが陸・川・空の全方位から襲いかかる恐竜たちと死闘を繰り広げるサバイバルアクション『プリミティヴ・ウォー 恐竜戦争』が８月７日（金）より公開。“激戦予告”と銘打たれた新バ [&#8230;]",
-      "link": "https://getnews.jp/archives/3732949",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "『モンハンNow』大連続＆グルハンの報酬が熱い!? 盛夏の特別交換ウイークガイド",
-      "description": "位置情報ゲーム『モンハンNow』では2026年7月20日（月）よりシーズン10ピリオド2が開幕。 そのスタートを飾る古龍イヴェルカーナの襲来を筆頭に多彩なモンスターがピックアップされたサマーハント2026を終え、ついに明 [&#8230;]",
-      "link": "https://getnews.jp/archives/3732971",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "手間のかかる「冷や汁」は、ツナでつくれば簡単！暑い日にさらりと食べたい｜キッチンにひと工夫",
-      "description": "松本日奈 料理家。レシピ開発やケータリング、お弁当づくり（ひな弁）などの活動のほか、不定期で焼き菓子を販売する店「fuwako（フワコ）」を運営。余らせがちな食材の活用法や季節の保存食、手間を省いたつくりやすいレシピが人 [&#8230;]",
-      "link": "https://getnews.jp/archives/3732977",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-26T22:03:01.625715",
+  "updatedAt": "2026-07-26T23:31:35.577335",
   "sites": [
     {
       "id": "hachima",
