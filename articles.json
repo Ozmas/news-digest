@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "見間違いは二度起こる！ 失敗しまくる青年！　四コマサボタージュFB第51回「すみませんでした!」",
+      "description": "そう言えば最近スーパーなどで買い物した後にもらっていた白いビニール袋を手にしてないなぁ……。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/07/27/2782670/",
+      "pubDate": "Sun, 26 Jul 2026 22:00:21 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-151.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "38歳底辺さん、タイミーを頑張り続けた結果、人生の転機が訪れる！！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455663.html",
+      "pubDate": "2026-07-27T07:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d6906a3e.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "Appleのワイヤレスイヤホン「AirPods」をフリスビーに搭載してモーショントラッカーにする猛者が登場",
+      "description": "Apple純正のワイヤレスイヤホンであるAirPodsをフリスビー(フライングディスク)に空けた穴に挿し込み、フリスビーのモーショントラッカーとして利用する猛者が現れました。続きを読む...",
+      "link": "https://gigazine.net/news/20260727-airpod-powered-frisbee-tracker/",
+      "pubDate": "Mon, 27 Jul 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『この素晴らしい世界に祝福を！４』が2027年放送決定！気になる制作陣は……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550955.html",
+      "pubDate": "2026-07-27T06:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d0824cd5.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "DivXやXvidで知られる動画圧縮規格「MPEG-4 Visual」でViaが管理する最後の特許が失効",
+      "description": "DivXやXvidで使われる動画圧縮規格「MPEG-4 Visual(MPEG-4 Part 2)」について、特許の管理とライセンス提供を行うVia Licensing Allianceの特許リストに残っていた最後の1件が、2026年7月19日にブラジルで失効しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260727-mpeg-4-visual-last-patent-expired/",
+      "pubDate": "Mon, 27 Jul 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -639,19 +704,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】神奈川県警の警察官、捜査情報を暴力団組員に教えて書類送検 →処分が軽すぎると批判殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550882.html",
-      "pubDate": "2026-07-26T17:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/6/864af3b3-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -860,19 +912,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "50TAとして歌手活動もしている狩野英孝さん、その”印税額”を告白！マジかよこれｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455643.html",
-      "pubDate": "2026-07-26T12:30:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/f/bf1bf6cf.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -1003,19 +1042,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "ワンダーフェスティバル 2026[夏]全記事一覧まとめ",
-      "description": "世界最大級のフィギュア・造形の祭典「ワンダーフェスティバル 2026[夏]」が2026年7月26日(日)に開催されます。会場は幕張メッセ国際展示場のホール1～ホール8で、特別企画として“もしも世界のどこかに、まだ名も知らぬ生命が息づいていたら――”をコンセプトとして「未知のいきもの」にスポットライトを当てた「空想いきものワンフェス」が開催されます。続きを読む...",
-      "link": "https://gigazine.net/news/20260726-summary-wf2026s/",
-      "pubDate": "Sun, 26 Jul 2026 09:30:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1053,19 +1079,6 @@
       "link": "https://rocketnews24.com/2026/07/26/2780447/",
       "pubDate": "Sat, 25 Jul 2026 23:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari46-1koma.png"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "フリーランスライターが解雇された後もAI生成の記事に自分の名前が使われていたことに憤慨",
-      "description": "フリーランスライターとして出版・SEO企業のClickout Mediaで働いていたベン・トゥアティ氏が、解雇された後にAI生成された記事が自身の名前で公開されていたことを明らかにしました。ゲーム関連の記事を書いていたトゥアティ氏の名前は、すべてオンラインカジノの記事に使われていました。続きを読む...",
-      "link": "https://gigazine.net/news/20260726-ai-take-over-journalist/",
-      "pubDate": "Sun, 26 Jul 2026 08:00:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1222,19 +1235,6 @@
       "link": "https://rocketnews24.com/2026/07/25/2780446/",
       "pubDate": "Fri, 24 Jul 2026 23:00:56 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari45-1koma.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「ケニアって暑いんでしょ？」と聞かれるけど、実は7月は寒すぎて朝は布団から出られません【カンバ通信：第492回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回も、リクエストボックスに質問が届いていたので答えるね。 質問はこちら。 「ケニアって暑いイメージがありますが、一年中暑いん [&#8230;]",
-      "link": "https://rocketnews24.com/2026/07/24/2783556/",
-      "pubDate": "Fri, 24 Jul 2026 08:00:14 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/10fc7127-5b9e-4841-bc96-a7718d274b92_1920.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-26T20:31:37.025234",
+  "updatedAt": "2026-07-26T22:03:01.625715",
   "sites": [
     {
       "id": "hachima",
