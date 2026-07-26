@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "超難問「喫茶店でコーヒーゼリーを頼んだ時の〇〇ってどうすればいいの？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550948.html",
+      "pubDate": "2026-07-27T05:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/004a4e7b.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "小学生3人組がバス停で倒れる女性を発見→すごすぎる連携プレーで救助に成功！県から表彰される",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455659.html",
+      "pubDate": "2026-07-27T05:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/c/7c53d59c.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "池袋の有名つけ麺店が突如閉店！その理由が……",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10550945.html",
@@ -652,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ネット老人「腐女子は大体5～10年おきくらいにこのサイクルを繰り返してる。今はおそ松の時以来の活動期です」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550865.html",
-      "pubDate": "2026-07-26T17:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/7/9795f394.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -858,19 +871,6 @@
       "link": "https://jin115.com/archives/52455643.html",
       "pubDate": "2026-07-26T12:30:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/f/bf1bf6cf.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "韓国メディア「今日本の若者の間では韓国語と日本語を混ぜた『韓本語』が流行！両国間の関係が対等になった証！」←誰か聞いたことある…？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455628.html",
-      "pubDate": "2026-07-26T12:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/d/3ddcdef3.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-26T19:19:05.738334",
+  "updatedAt": "2026-07-26T20:31:37.025234",
   "sites": [
     {
       "id": "hachima",
