@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ちいかわの作者・ナガノ先生のことを「食べ歩きが好きなヒト」「ファンシーキャラが得意な作家」みたいな認識だった、今は富士鷹ジュビロの絶望しか無いバージョンに見える",
+      "description": "ちいかわの作者・ナガノ先生のことを「食べ歩きが好きなヒト」「ファンシーキャラが得意な作家」みたいな認識だった、今は富士鷹ジュビロの絶望しか無いバージョンに見える",
+      "link": "https://togetter.com/li/2725116",
+      "pubDate": "Mon, 27 Jul 2026 01:01:29 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【物議】X民「アーティストが『高市辞めろ！』って何もロックじゃないだろ。○○と叫んだ方がよほどロック」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455645.html",
+      "pubDate": "2026-07-27T01:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/15e1f877.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【祝】たぬかなさん、第1子出産を報告！難病や多数のトラブルに見舞われるも母子ともに無事「ホビットのたたりは、あるよ。」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550968.html",
+      "pubDate": "2026-07-27T00:40:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/5/e515fd5a.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「当クリニックはエアコンを使用しています」エアコン廃止クリニックが波紋を起こす中、とあるクリニックの“エアコンを使う理由”が話題に「すごくシンプル」",
+      "description": "「当クリニックはエアコンを使用しています」エアコン廃止クリニックが波紋を起こす中、とあるクリニックの“エアコンを使う理由”が話題に「すごくシンプル」",
+      "link": "https://togetter.com/li/2725099",
+      "pubDate": "Mon, 27 Jul 2026 00:10:42 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【祝】たぬかなさん、出産　祝福とその他もろもろ・・・様々な声が集まる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455676.html",
+      "pubDate": "2026-07-27T00:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/8286ab4b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【今週発売ゲーム】『ほの暮しの庭』『Halo: Campaign Evolved』ほか、7月27日～8月2日発売タイトルまとめ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10550197.html",
+      "pubDate": "2026-07-27T00:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6662ef2.jpg"
+    },
+    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -327,19 +405,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "今日の午後、世田谷区で落雷…さらに電柱から火花が飛び散る映像に様々な反応「ここら一帯の電化製品全滅やな…」「エアコンだけは守りたい」",
-      "description": "今日の午後、世田谷区で落雷…さらに電柱から火花が飛び散る映像に様々な反応「ここら一帯の電化製品全滅やな…」「エアコンだけは守りたい」",
-      "link": "https://togetter.com/li/2724995",
-      "pubDate": "Sun, 26 Jul 2026 19:31:20 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -364,19 +429,6 @@
       "link": "http://blog.esuteru.com/archives/10550903.html",
       "pubDate": "2026-07-26T19:30:50+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa0a3a05.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "突然の豪雨に見舞われた沼津夏まつり、狩野川花火大会…花火の名物「ナイアガラ」に奇跡的なタイミングで雷が重なる",
-      "description": "突然の豪雨に見舞われた沼津夏まつり、狩野川花火大会…花火の名物「ナイアガラ」に奇跡的なタイミングで雷が重なる",
-      "link": "https://togetter.com/li/2724990",
-      "pubDate": "Sun, 26 Jul 2026 19:12:27 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -704,19 +756,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "狩野英孝が歌手活動の印税額を公開！「年に４回で１回〇〇円ぐらい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550851.html",
-      "pubDate": "2026-07-26T14:30:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/b/7ba6376c-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -741,19 +780,6 @@
       "link": "https://jin115.com/archives/52455644.html",
       "pubDate": "2026-07-26T14:00:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/a/9a05dda1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】痴漢を疑われた男、線路内に逃亡するもグキッてしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10550844.html",
-      "pubDate": "2026-07-26T14:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/c/3cfdc06c-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -897,32 +923,6 @@
       "link": "https://www.buzzfeed.com/jp/tomokaunno/germankunpool",
       "pubDate": "Sat, 25 Jul 2026 22:31:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/23/05/subbuzz/O-fLY4RPa.jpg?crop=550:367;271,260&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "漫画版『変な家』最新7巻まですべて「50％ポイント還元」セール！2,676円分返ってくる！YouTubeで大バズリしたあの動画のコミカライズ！漫画版は不気味さ倍増で好評",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455601.html",
-      "pubDate": "2026-07-26T11:20:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/e/5e41f549.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "俳優・横浜流星さん「BLとか興味ないし全然分かんない。多様性も意味が分からない」→物議に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455630.html",
-      "pubDate": "2026-07-26T11:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/4/74688580-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-26T14:39:49.609562",
+  "updatedAt": "2026-07-26T16:05:49.065591",
   "sites": [
     {
       "id": "hachima",
