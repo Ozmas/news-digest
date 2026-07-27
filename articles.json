@@ -2,6 +2,162 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "森喜朗･元首相、別人にしか見えないやせ細った姿が激写されネット戦慄…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10551268.html",
+      "pubDate": "2026-07-28T02:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/4/e49b4971.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "とある農家「育ててたアスパラガスが全滅した。誰かに除草剤まかれたっぽい」と通報 → 2ヶ月後、最悪の犯人が捕まる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455711.html",
+      "pubDate": "2026-07-28T02:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/5/9521d69e-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ファイナルファンタジー17』、手掛けるのはFF7Rの浜口Dではないかと話題に！FF14ファンフェスで意味深なやり取り",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10551267.html",
+      "pubDate": "2026-07-28T01:20:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e9aed38.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "辺野古沖転覆事故で生徒遺族が告訴状を海保に提出、高校・運航団体側11人を刑事告訴「学校も団体ももっと真摯に対応してれば」「真実が明らかになりますように」",
+      "description": "辺野古沖転覆事故で生徒遺族が告訴状を海保に提出、高校・運航団体側11人を刑事告訴「学校も団体ももっと真摯に対応してれば」「真実が明らかになりますように」",
+      "link": "https://togetter.com/li/2725525",
+      "pubDate": "Tue, 28 Jul 2026 01:19:11 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市首相、食料品消費税を1％に引き下げる方針を固めた模様",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455722.html",
+      "pubDate": "2026-07-28T01:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/2/c2dec206.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「とんでもなく迷惑」新潟の冠水被害の動画を見たら、車の走った引き波で「ギリギリ持ちこたえてる」周辺にとどめを刺す二次加害リスクがよくわかった",
+      "description": "「とんでもなく迷惑」新潟の冠水被害の動画を見たら、車の走った引き波で「ギリギリ持ちこたえてる」周辺にとどめを刺す二次加害リスクがよくわかった",
+      "link": "https://togetter.com/li/2725523",
+      "pubDate": "Tue, 28 Jul 2026 00:44:28 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "辺野古沖転覆事故の女子生徒遺族、同志社国際高と運航団体の共同代表ら計11人を告訴！「十分な計画立案や、同乗による危険回避を怠った」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10551263.html",
+      "pubDate": "2026-07-28T00:40:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e89650a.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "徹夜に次ぐ徹夜、出張に次ぐ出張… 限界を迎え一服しようと勢いよくホテルの喫煙所の扉を開けたら、扉の先では白人のおじいさんが奥でひとり煙草を吸っていた",
+      "description": "徹夜に次ぐ徹夜、出張に次ぐ出張… 限界を迎え一服しようと勢いよくホテルの喫煙所の扉を開けたら、扉の先では白人のおじいさんが奥でひとり煙草を吸っていた",
+      "link": "https://togetter.com/li/2725520",
+      "pubDate": "Tue, 28 Jul 2026 00:23:18 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "災害用に便利なポータブル電源、猛暑や直射日光下では火災リスクになりうる…？ 品川区のマンション火災事故をきっかけに、保管・使用環境を見直す声",
+      "description": "災害用に便利なポータブル電源、猛暑や直射日光下では火災リスクになりうる…？ 品川区のマンション火災事故をきっかけに、保管・使用環境を見直す声",
+      "link": "https://togetter.com/li/2725433",
+      "pubDate": "Tue, 28 Jul 2026 00:10:09 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "VRChat個人制作「GTA再現」ワールドのクオリティが高すぎてビビる、これは遊びに行ってみたい",
+      "description": "VRChat個人制作「GTA再現」ワールドのクオリティが高すぎてビビる、これは遊びに行ってみたい",
+      "link": "https://togetter.com/li/2725492",
+      "pubDate": "Tue, 28 Jul 2026 00:06:03 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『スーパーマリオギャラクシー2』なぜか今になってメタスコアが98に上昇！史上3本目に高評価のゲームになってしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10551254.html",
+      "pubDate": "2026-07-28T00:05:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a101f2bf.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「博多にガチやばい路上ライブいた」ﾊﾟｼｬｯ → 絶対売れると話題に！クオリティが凄すぎるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455707.html",
+      "pubDate": "2026-07-28T00:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/d/adc25777.png"
+    },
+    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -195,71 +351,6 @@
       "link": "https://jin115.com/archives/52455717.html",
       "pubDate": "2026-07-27T21:30:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/f/ff99bb32.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "時短なのに有給、ボーナスが出る場合も…週５フルで働きたくない人には会計年度任用職員がオススメ？という投稿に賛否両論「官製ワープアも見る人によっては見え方が違うんだなぁ…」",
-      "description": "時短なのに有給、ボーナスが出る場合も…週５フルで働きたくない人には会計年度任用職員がオススメ？という投稿に賛否両論「官製ワープアも見る人によっては見え方が違うんだなぁ…」",
-      "link": "https://togetter.com/li/2725454",
-      "pubDate": "Mon, 27 Jul 2026 21:26:57 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "武蔵美大と隣になる朝鮮大学校には、2m超の有刺鉄線の張られた塀があったけど、自分たちで「物理的な橋」を作って学生交流する生徒がいた話",
-      "description": "武蔵美大と隣になる朝鮮大学校には、2m超の有刺鉄線の張られた塀があったけど、自分たちで「物理的な橋」を作って学生交流する生徒がいた話",
-      "link": "https://togetter.com/li/2725446",
-      "pubDate": "Mon, 27 Jul 2026 21:23:17 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画「ちいかわ」を鑑賞しに行ったら「上映前はヘラヘラしていたヤンキーがお通夜状態」「母に対して『なんで昨日の晩ごはん…魚にしたの？』と聞く子ども」など地獄",
-      "description": "映画「ちいかわ」を鑑賞しに行ったら「上映前はヘラヘラしていたヤンキーがお通夜状態」「母に対して『なんで昨日の晩ごはん…魚にしたの？』と聞く子ども」など地獄",
-      "link": "https://togetter.com/li/2725448",
-      "pubDate": "Mon, 27 Jul 2026 21:19:10 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『みいちゃんと山田さん』アニメ化に関して、公式が声明を発表「偏見や誤解を助長することのないよう、専門家の助言等も得ながら、適切なレーティングや注意喚起を記載」",
-      "description": "『みいちゃんと山田さん』アニメ化に関して、公式が声明を発表「偏見や誤解を助長することのないよう、専門家の助言等も得ながら、適切なレーティングや注意喚起を記載」",
-      "link": "https://togetter.com/li/2725444",
-      "pubDate": "Mon, 27 Jul 2026 21:11:16 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "次男に殴られ、蹴られて110番したら、警察に「こんなことで通報しないでください」と言われ、さらに次男は母親が怪我をしたらどうなるか分かっていなかった",
-      "description": "次男に殴られ、蹴られて110番したら、警察に「こんなことで通報しないでください」と言われ、さらに次男は母親が怪我をしたらどうなるか分かっていなかった",
-      "link": "https://togetter.com/li/2725443",
-      "pubDate": "Mon, 27 Jul 2026 21:06:21 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -639,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/a/2a692b04.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】X民「ネタバレなしの映画ちいかわの感想がこちら」⇒ ◯◯◯で表現する斬新すぎる感想が話題にｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10551086.html",
-      "pubDate": "2026-07-27T15:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e5004cd.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -663,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/07/27/2785299/",
       "pubDate": "Mon, 27 Jul 2026 06:00:46 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/2063a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『みいちゃんと山田さん』アニメ化への反対署名運動が開始！集まってる署名数がこちら",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10551082.html",
-      "pubDate": "2026-07-27T15:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9fbe058b.jpg"
     },
     {
       "siteId": "jin",
@@ -704,19 +769,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_5952_b6da97_5ce557.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】日経「隅田川花火大会、1時間半を60秒でまとめました」→ドパガキ向けすぎると話題にｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10551081.html",
-      "pubDate": "2026-07-27T14:30:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/ccefb5f3-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -741,19 +793,6 @@
       "link": "https://jin115.com/archives/52455682.html",
       "pubDate": "2026-07-27T14:00:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/2/a2b94398.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「貴様らに斬鉄剣くらわしたる」 知人女性を脅迫した疑いで無職の男（52）逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10551067.html",
-      "pubDate": "2026-07-27T14:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/5/557f852c.jpg"
     },
     {
       "siteId": "gigazine",
@@ -951,19 +990,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_2088.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "森喜朗元首相、変わり果てた姿で見つかる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455688.html",
-      "pubDate": "2026-07-27T10:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/9/098c71c3-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -975,32 +1001,6 @@
       "link": "https://rocketnews24.com/2026/07/27/2784561/",
       "pubDate": "Mon, 27 Jul 2026 00:15:44 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tokyobanana-2.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "評論家「高い確率で日本は滅亡するので真面目に国外脱出を考えた方がいいです。北朝鮮以外のアジアは日本よりマシです」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455677.html",
-      "pubDate": "2026-07-27T09:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/15b039df.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "石破前首相「減税した結果、円安で物価が上がったらどうする？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455678.html",
-      "pubDate": "2026-07-27T08:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/6751f045.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1711,6 +1711,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【兵庫県】神戸市内で回収した紙パッケージがハンカチに！燃えるごみ削減＆資源循環型社会実現へ",
+      "description": "アップサイクルされたハンカチのイメージ ネスレ日本は、TOPPAN、アップサイクル、サラヤ、大本紙料、神戸市と6者共同で協定書を締結し、燃えるごみを削減および資源循環型社会の実現に取り組む「紙パッケージの再資源化のしくみ [&#8230;]",
+      "link": "https://getnews.jp/archives/3733286",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "JIKABI JAPANのマルチグリドルで焼く「ステーキ肉」が最高。焦げ付かずに、しっとりと仕上がるんだ",
       "description": "マルチグリドル、名前は聞いたことがある方も多いのでは？ キャンプ好きの間では定番の調理器具ですが、私が今回選んだのは“よくあるマルチグリドル”とは少し違うもの。 「蓋付き」というのが決め手でした。 「蓋付き」がポイント！ [&#8230;]",
       "link": "https://getnews.jp/archives/3733275",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3733265",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "世界5か国の“波音”をフィールドレコーディングしたアナログレコード『Nami』発売",
-      "description": "自然の音をテーマとする日本発のプロジェクト「Soundnesia(サウンドネシア)」は、LP盤アナログレコード『Nami』を7月23日(木)に発売。同作は、サウンドアーティストの川崎義博氏が世界中で録音した波音、全5曲を [&#8230;]",
-      "link": "https://getnews.jp/archives/3733271",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-27T14:48:04.581611",
+  "updatedAt": "2026-07-27T17:02:16.090130",
   "sites": [
     {
       "id": "hachima",
