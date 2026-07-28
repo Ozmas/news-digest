@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "某フリマで買い物したお相手様から「発送が遅れそうですが急ぎじゃありませんか？」と連絡が来たので確認したら発送元が熊本って書いてあった「いいから自分を優先しろ」",
+      "description": "某フリマで買い物したお相手様から「発送が遅れそうですが急ぎじゃありませんか？」と連絡が来たので確認したら発送元が熊本って書いてあった「いいから自分を優先しろ」",
+      "link": "https://togetter.com/li/2725923",
+      "pubDate": "Wed, 29 Jul 2026 07:34:25 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "マチアプ初回で食い逃げ、置き忘れのスマホから連絡…翌日取りに来させたら飲みすぎだったらしく、詫びの品として渡された紙袋の持ち手がびしょびしょだった→同棲して結婚",
+      "description": "マチアプ初回で食い逃げ、置き忘れのスマホから連絡…翌日取りに来させたら飲みすぎだったらしく、詫びの品として渡された紙袋の持ち手がびしょびしょだった→同棲して結婚",
+      "link": "https://togetter.com/li/2725920",
+      "pubDate": "Wed, 29 Jul 2026 07:19:30 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「熊本地震で高速道路が終わった」パシャッ　→　むしろ日本の土木技術の完全勝利だと有識者が大絶賛！　その理由は◯◯◯",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10551666.html",
+      "pubDate": "2026-07-29T07:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/66c302fc.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "人間じゃなさそう！ テレパシーを受信した青年！　四コマサボタージュFB第53回「脳に直接!?」",
+      "description": "AIはどうでもよい調べものする時は便利でよく利用するのだけど、真偽のほどまでは確かめないんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/07/29/2782672/",
+      "pubDate": "Tue, 28 Jul 2026 22:00:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-153.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "食料品の消費税減税、○○と被せてきたと大炎上「皆さん、何回騙されたら気づくんですか？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455806.html",
+      "pubDate": "2026-07-29T07:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/6/664ebc0a.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "オープンソースソフトウェアのためのホスティングサービス「Codeberg」が生成AI主体のプロジェクトを投票で禁止",
+      "description": "Codebergはオープンソースプロジェクトのために作られた非営利のホスティングサービスであり、GitHubの代替サービスとしても人気を集めています。そんなCodebergが運営団体の会員による投票で、主に生成AIのコードで作られた「バイブコードプロジェクト」を禁止することを決定しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260729-codeberg-bans-ai-contributions/",
+      "pubDate": "Wed, 29 Jul 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -249,19 +327,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「生きてます、会社崩壊しました」熊本・宇城市で被災… 会社が崩落し皆で瓦礫の中から脱出したが、誰も怪我してなくて本当安心した「ご無事で何より」",
-      "description": "「生きてます、会社崩壊しました」熊本・宇城市で被災… 会社が崩落し皆で瓦礫の中から脱出したが、誰も怪我してなくて本当安心した「ご無事で何より」",
-      "link": "https://togetter.com/li/2725845",
-      "pubDate": "Wed, 29 Jul 2026 00:32:37 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -286,19 +351,6 @@
       "link": "https://jin115.com/archives/52455787.html",
       "pubDate": "2026-07-29T00:30:40+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/46c98e59.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「おかしいね… この作品はどこにもやらしい表現はないはずだ」パチ〇コ漫画がXに何度投稿してもセンシティブ判定を受けていたので、仕方なく対応することにした話",
-      "description": "「おかしいね… この作品はどこにもやらしい表現はないはずだ」パチ〇コ漫画がXに何度投稿してもセンシティブ判定を受けていたので、仕方なく対応することにした話",
-      "link": "https://togetter.com/li/2725839",
-      "pubDate": "Wed, 29 Jul 2026 00:16:35 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -639,19 +691,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【熊本震度7地震】各地被害状況まとめ　家の物が崩れる、湧水の水が濁る、店の看板が落ちる、なおジャパネットたかたは…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10551436.html",
-      "pubDate": "2026-07-28T18:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/66c302fc.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -899,19 +938,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "料理研究家リュウジさん、グルメ系インフルエンサーの闇に触れる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455747.html",
-      "pubDate": "2026-07-28T13:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/7/a7428ae6.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -987,19 +1013,6 @@
       "description": "カニバリズム(食人)は人間が別の人間の肉を食べる行為を指す言葉で、人類の歴史全体ではたびたびカニバリズムの記録が確認されていますが、それと同時にほとんどの文化でカニバリズムはタブー視されています。一体なぜカニバリズムは繰り返し発生しているのにタブー視されているのかについて、数学的な観点で捉えた研究結果が発表されました。続きを読む...",
       "link": "https://gigazine.net/news/20260728-mathematics-reveals-human-cannibalism/",
       "pubDate": "Tue, 28 Jul 2026 12:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "AmazonがAppleデバイスの通信を強化する最大5105基の衛星群を展開予定、既存の通信ネットワークが届かない地域へ通信網を提供",
-      "description": "衛星通信サービスを提供するAmazon Leoが、最大5105基の低軌道衛星を運用するための申請をアメリカの連邦通信委員会(FCC)へ提出しました。基地局を介さず衛星と端末を直接つなぐDirect-to-Device(D2D)システムが構築される予定です。続きを読む...",
-      "link": "https://gigazine.net/news/20260728-amazon-leo-satellite-5105/",
-      "pubDate": "Tue, 28 Jul 2026 11:56:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1235,19 +1248,6 @@
       "link": "https://rocketnews24.com/2026/07/26/2784074/",
       "pubDate": "Sun, 26 Jul 2026 10:00:25 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/isikei34.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第97話「お墓に参ること…」",
-      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/07/26/2784690/",
-      "pubDate": "Sun, 26 Jul 2026 09:00:36 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/kikimimi101-1koma.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,45 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "スタバ、カルディ、ブルーボトル、小川珈琲。店員さんおすすめのブレンドで、アイスコーヒーを飲み比べてみた",
+      "description": "シラクマ コーヒー器具・デザイン雑貨・ガジェットなどを中心にレビュー。使い心地の良さと佇まいを大切にしていて、機能とデザインが結びついた、ミニマルで美しいものに惹かれます。京都で文章を書いたり編集したりしながら、スペシャ [&#8230;]",
+      "link": "https://getnews.jp/archives/3733486",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "コーヒーを飲んだ時の胃の不快感には「LG21乳酸菌入りのヨーグルト」！日本プロバイオティクス学会が調査を実施",
+      "description": "皆さんは「コーヒーを飲んだ時に胃もたれや胃の不快感を覚える」といったことはないでしょうか？これはコーヒーの成分の一つであるカフェインによるものですが、「LG21乳酸菌含有ヨーグルト」を摂取することで改善できる可能性がある [&#8230;]",
+      "link": "https://getnews.jp/archives/3733484",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「郀」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「郀」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「郀」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3733483",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "24種のビットで「ほぼ全ネジOK」。エレコムの新・電動ドライバーが4,998円で買えるぞ",
       "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。 “メガネの蝶番が緩んできた” とか、“電子機器を分解して掃除したい” というような時は精密ドライバーが役に立ちます。 でも手動だと、固着して [&#8230;]",
       "link": "https://getnews.jp/archives/3733479",
@@ -1781,48 +1820,9 @@
       "link": "https://getnews.jp/archives/3733473",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "「レンチン5分サラダチキン」が夏休みごはんの味方！2週間保存できて「冷やし鶏そば」にぴったりなんだ",
-      "description": "※本記事は2025年08月16日に公開された記事を再編集して公開しています。 Text and Photographed by 菅野 照子 夏休み、お子さんのお昼ごはんづくりに追われている方も多いのでは？ 毎日のランチメ [&#8230;]",
-      "link": "https://getnews.jp/archives/3733475",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "蚊取り線香より先に置きたい、水を入れるだけの蚊対策が687円で！",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  「せっかくの庭仕事も、蚊に刺されてばかりで楽しめない……」。そんなお悩みを抱えていませんか？ 電源も薬剤も使わずに、いつの間にか蚊のストレ [&#8230;]",
-      "link": "https://getnews.jp/archives/3733476",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "リュック用アクセサリーを「サコッシュ」に。ドリンクポケットの絶妙な角度で夏のお出かけが超快適になりました",
-      "description": "暑い季節はこまめな水分補給が欠かせません。でも、そのたびにリュックを下ろしたり、バッグの中を探したりするのは意外と面倒だったんですよね。 ドリンクボトルにサッと手が届く MYSTERY RANCH（ミステリーランチ）「ウ [&#8230;]",
-      "link": "https://getnews.jp/archives/3733469",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-28T21:12:49.356236",
+  "updatedAt": "2026-07-28T22:34:44.744049",
   "sites": [
     {
       "id": "hachima",
