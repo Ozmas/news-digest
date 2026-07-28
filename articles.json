@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】SUSURUさん監修の「濃厚とんこつ豚無双」が”物理的にすすれない”のヤバイｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10551598.html",
+      "pubDate": "2026-07-29T04:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/a/8a5f9bcf-s.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「空爆の映像と言われても分からない」爆発が起き、多数の人が閉じ込められているとされるイオンモール熊本、爆発直前の内部では異臭や火災が起きていたという証言も",
+      "description": "「空爆の映像と言われても分からない」爆発が起き、多数の人が閉じ込められているとされるイオンモール熊本、爆発直前の内部では異臭や火災が起きていたという証言も",
+      "link": "https://togetter.com/li/2725881",
+      "pubDate": "Wed, 29 Jul 2026 03:15:30 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ドラクエモンスターズ4』の新モンスターが公開！「おにぎりスライム」や「たけのここぞう」など",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10551597.html",
+      "pubDate": "2026-07-29T03:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/3/131f437b-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「みいちゃんアニメ化に猛反発してるのは“あの年代に○○してた層”」という説が話題に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455800.html",
+      "pubDate": "2026-07-29T03:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/b/3b672aa7.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -208,19 +260,6 @@
       "link": "https://jin115.com/archives/52455795.html",
       "pubDate": "2026-07-29T00:00:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d712600e.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "上司の父親が亡くなって家族葬が行われたが、「費用が244万円」と聞いてドン引き…→20万円から700万円まで体験談が寄せられ、実は「家族葬＝安い」と限らないと分かった話",
-      "description": "上司の父親が亡くなって家族葬が行われたが、「費用が244万円」と聞いてドン引き…→20万円から700万円まで体験談が寄せられ、実は「家族葬＝安い」と限らないと分かった話",
-      "link": "https://togetter.com/li/2725832",
-      "pubDate": "Wed, 29 Jul 2026 00:00:09 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -652,19 +691,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ジェラピケの『ドラクエ』コラボ第2弾が8月7日発売！わたぼう可愛すぎるやろ……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10551407.html",
-      "pubDate": "2026-07-28T17:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/44832b44.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +715,6 @@
       "link": "https://gigazine.net/news/20260728-banhmi-pho/",
       "pubDate": "Tue, 28 Jul 2026 17:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】熊本県で震度7の地震が発生！有明・八代海に津波注意報！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10551430.html",
-      "pubDate": "2026-07-28T16:44:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/66c302fc.jpg"
     },
     {
       "siteId": "jin",
@@ -1001,19 +1014,6 @@
       "link": "https://rocketnews24.com/2026/07/28/2783448/",
       "pubDate": "Tue, 28 Jul 2026 02:45:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_1884.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「みいちゃんのアニメ化に反対してる人たち、他にもアニメ化したらヤバい作品なんてあるのになんでこれだけ叩くの？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455740.html",
-      "pubDate": "2026-07-28T11:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/7/972ed767-s.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-28T17:39:41.902777",
+  "updatedAt": "2026-07-28T19:40:11.573688",
   "sites": [
     {
       "id": "hachima",
