@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市首相に「こんなバカ」と書き込んだロックバンド、活動休止を発表",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455864.html",
+      "pubDate": "2026-07-30T07:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/5/453c2685.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "お前無敵かよ！ あまりにも堂々たる態度の我が子！　四コマサボタージュFB第54回「ない息子」",
+      "description": "テレビ見る習慣がホントになくなっちゃった……。今ってどんな番組が流行っているんだろう……。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/07/30/2782673/",
+      "pubDate": "Wed, 29 Jul 2026 22:00:04 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-154.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "業務監視ツールや評価AIが病院に導入されたせいで患者へのケアが悪化していると看護師らが主張",
+      "description": "近年は企業が従業員の生産性を監視するためのツールが数多く登場しており、中にはAIを利用しているツールもあります。アメリカ最大規模の医療サービス組織・カイザーパーマネンテの看護師らは、職場に導入された監視ツールやAIのせいで、患者へのケアが悪化していると主張しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ちいかわ』作者・ナガノ先生の性別を知って驚く人が続出！実は先生は〇性",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552004.html",
+      "pubDate": "2026-07-30T06:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/8/284e4008-s.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "ゴキブリには社会的ネットワークから生まれる一種の「集団的記憶」が存在する",
+      "description": "動物の集団では、個体が情報を覚えていなくても過去の選択が個体同士の相互作用によって維持される場合があります。ベルギー・ブリュッセル自由大学のマリアノ・カルボ・マルティン氏らの研究チームは、明るさの異なる2つの隠れ場所を用いてワモンゴキブリの個体と集団が環境の変化にどう反応するのかを調べました。続きを読む...",
+      "link": "https://gigazine.net/news/20260730-cockroach-collective-memory/",
+      "pubDate": "Thu, 30 Jul 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -639,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/6/86179f28.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「30万貸すか、○ぬかどっちや」と父を脅すも断られ、ゴルフクラブで父を殴りロープで首を締めて○害した無職男性（47）を逮捕、起訴される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10551900.html",
-      "pubDate": "2026-07-29T18:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/6/861826c8.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -899,19 +951,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "爆発したイオンモール熊本、内部の映像が公開される　これは・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455816.html",
-      "pubDate": "2026-07-29T13:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/61b2a222.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -948,32 +987,6 @@
       "description": "2026年7月、Hugging FaceがOpenAIの自律型AIエージェントに誤って侵害されるインシデントが発生しました。この件に関して調査を進めていたHugging Faceが、インシデントの概要を公開しています。続きを読む...",
       "link": "https://gigazine.net/news/20260729-openai-hack-hugging-face-timeline/",
       "pubDate": "Wed, 29 Jul 2026 12:17:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "MetaがAI生成コンテンツの透明性に関するEUの行動規範に署名",
-      "description": "MetaはInstagramやFacebook、ThreadsでAIが生成した画像が投稿された場合に検出してラベル付けを行うなど、AI生成コンテンツに対応しています。さらにMetaは2026年7月28日、2024年8月からEU圏内で施行されている「EU AI法」におけるAI生成コンテンツの透明性に関する行動規範に署名することを表明しました。続きを読む...",
-      "link": "https://gigazine.net/news/20260729-meta-eu-ai-content/",
-      "pubDate": "Wed, 29 Jul 2026 12:10:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Googleのデータによると労働者がAIによる自動化で職を失うことはない",
-      "description": "AIの普及を理由に複数の企業が大規模な人員削減を実施しており、「AIに職を奪われる可能性」がますます現実味を帯びつつあるように思われます。しかし、Googleが1500万件のAIとのやり取りを分析した結果、ほとんどの仕事のタスクがAIの影響を受けていないことが判明しました。続きを読む...",
-      "link": "https://gigazine.net/news/20260729-google-data-shows-workers-not-automating-themselves-away/",
-      "pubDate": "Wed, 29 Jul 2026 12:09:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1235,19 +1248,6 @@
       "link": "https://www.buzzfeed.com/jp/ayahara/tsujinozomi0727",
       "pubDate": "Mon, 27 Jul 2026 05:01:06 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/27/01/subbuzz/CGsVSZIVc.jpg?crop=2798:1865;332,261&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "大阪出身の私が北京動物園でパンダを見た正直な感想「近鉄線沿いにいっぱいいる」",
-      "description": "かつて日本にまだパンダがいた頃の話。上野動物園に初めて行ってみたら、パンダは70分待ちだった上、閉園より2時間早い14時25分に観覧が終了して全く間に合わなかった。したがって、私（中澤）は生まれてこの方44年、パンダを見 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/07/27/2785313/",
-      "pubDate": "Mon, 27 Jul 2026 09:00:50 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/panda12.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「篾」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「篾」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「篾」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3733767",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "庭で遊ぶのはキツネの家族！？物置の下をおうちにしちゃったみたいです！！【アメリカ・動画】",
       "description": "撮影者さん宅に住み始めたというある家族。 それはなんと・・・、キツネの一家でした！！ 同居する事になった家族 ご紹介するのは、アメリカ・メリーランド州のとあるお宅で撮影された映像。 こちらのお宅の庭に、ある家族が暮らすよ [&#8230;]",
       "link": "https://getnews.jp/archives/3733766",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3733721",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "Till Yawuh、力強くエモーショナルな新曲リリース",
-      "description": "Till Yawuhが2026年7月29日(水)にニューシングル「Reunion」をリリースした。 本作は、1年ぶりとなるシングル作品。硬質で繊細なドラムプログラミングと疾走感の溢れるクリスタルなFMシンセサイザーのサウ [&#8230;]",
-      "link": "https://getnews.jp/archives/3733711",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-29T20:31:36.028995",
+  "updatedAt": "2026-07-29T22:04:31.349463",
   "sites": [
     {
       "id": "hachima",
