@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "大炎上した鬼越トマホーク・良ちゃん、ガチでヤバいことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455922.html",
+      "pubDate": "2026-07-31T06:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc92dc4f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ディズニーが「大課金時代」に突入！アトラクションパスがどれもこれも1500円の課金チケに",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552314.html",
+      "pubDate": "2026-07-31T06:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/a/ba169e3a.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "脳は「真のマルチタスク」を実現するために再配線できるとの研究結果",
+      "description": "人間の脳は意識的な判断を必要とする2つの課題に同時並行で取り組む時、複数のタスクを同時処理する「マルチタスク」ではなく、タスク間を素早く切り替えて処理していると考えられてきました。アメリカ・ジョージタウン大学のマキシミリアン・リーゼンフーバー氏や、リーハイ大学のパトリック・コックス氏らの研究チームは、1つの課題を長期間練習した時に脳内の処理経路と同時作業の能力がどう変わるのかを調べました。続きを読",
+      "link": "https://gigazine.net/news/20260731-brain-rewire-true-multitasking/",
+      "pubDate": "Fri, 31 Jul 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【⁉】ホロライブ・宝鐘マリン7周年ライブに『超かぐや姫！』のかぐやが出演決定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552329.html",
+      "pubDate": "2026-07-31T05:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b6696bde-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "SAOゲーム『エコーズ・オブ・アインクラッド』さん「あのゲーム」よりつまんないと言われてしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552299.html",
+      "pubDate": "2026-07-31T05:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/3/c3a9ddcd.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "夫婦でFIRE達成した妻「次は今話題のキオクシアで信用取引やります！」 → 8ヵ月後、ヤバイことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455921.html",
+      "pubDate": "2026-07-31T05:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e454d1a3-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -574,19 +652,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「なんでバカが国のトップなの？」「ライブ中に痴漢がいたら吊るしあげる」と過去にポストしていたロックバンド『GEZAN』のマヒトゥ・ザ・ピーポー、性加害事案で活動休止",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552258.html",
-      "pubDate": "2026-07-30T18:40:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/d/0d413bd7.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -613,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【炎上】にじさんじVTuber・五木左京さん、熊本地震後にXにヤバイポストをして炎上 →不適切投稿を謝罪",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552256.html",
-      "pubDate": "2026-07-30T18:20:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/f/df402b1e-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -637,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/07/30/2786795/",
       "pubDate": "Thu, 30 Jul 2026 09:00:34 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/dora6.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「リンパを流すと声が出る声が出るツボあるよ」カラオケ店で俳優の女性の下半身触った音楽クリエイター「Yu」こと鈴木裕容疑者逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552164.html",
-      "pubDate": "2026-07-30T18:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d665e8cc-s.jpg"
     },
     {
       "siteId": "jin",
@@ -782,19 +821,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「障害のある女性を『みいちゃん』と嘲笑するのは良くないって怒ってる人、なんで男性を◯◯って嘲笑しまくってるの？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455889.html",
-      "pubDate": "2026-07-30T15:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/9/f9d58642.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -819,19 +845,6 @@
       "link": "https://rocketnews24.com/2026/07/30/2786231/",
       "pubDate": "Thu, 30 Jul 2026 05:00:45 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/2066a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ゲーマーの楽園”eスポーツホテル”で酷すぎる事件が発生してしまう…",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455888.html",
-      "pubDate": "2026-07-30T14:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/f/2fcbd988.jpg"
     },
     {
       "siteId": "gigazine",
@@ -960,19 +973,6 @@
       "title": "Google Search ConsoleでYouTubeやXの検索流入も確認可能に",
       "description": "Googleが提供するウェブサイトの分析ツールであるGoogle Search Consoleで、YouTube・X(旧Twitter)・TikTok・Instagramといったソーシャルメディアの投稿や動画投稿が、Google検索やDiscover、Googleニュースでどのように表示されるかを追跡できるようになりました。続きを読む...",
       "link": "https://gigazine.net/news/20260730-google-search-console-social-video-performance/",
-      "pubDate": "Thu, 30 Jul 2026 12:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "幼少期に砂糖の摂取量が少なかった人は認知症やアルツハイマー病の発症リスクが低いとの研究結果",
-      "description": "子どもは甘いおやつが大好きですが、健康のために食べさせすぎないようにしているという親も多いはず。第二次世界大戦によりイギリスで実施された砂糖の配給制に着目した研究では、幼少期に砂糖の摂取量が少なかった人は認知症やアルツハイマー病の発症リスクが低いとの結果が示されました。続きを読む...",
-      "link": "https://gigazine.net/news/20260730-low-sugar-early-life-alzheimers-risk/",
       "pubDate": "Thu, 30 Jul 2026 12:00:00 +0900",
       "thumbnail": ""
     },
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-30T19:40:56.076049",
+  "updatedAt": "2026-07-30T21:16:27.820737",
   "sites": [
     {
       "id": "hachima",
