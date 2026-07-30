@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ハワイの知らない人から英語のメールが届いたので、「また詐欺メールか何かかな？」と思いながら読んでみたら、熊本の地震のニュースを見て、うちの親戚一同の安否を心配する内容だった",
+      "description": "ハワイの知らない人から英語のメールが届いたので、「また詐欺メールか何かかな？」と思いながら読んでみたら、熊本の地震のニュースを見て、うちの親戚一同の安否を心配する内容だった",
+      "link": "https://togetter.com/li/2726803",
+      "pubDate": "Fri, 31 Jul 2026 07:29:19 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "夕飯を食べた後、シンクのところで作り置きのピクルスを「ごめんね」「食い尽くし系じゃないんだけど」と言いながらめちゃくちゃ食べている話→汗っかきだと塩分不足では？",
+      "description": "夕飯を食べた後、シンクのところで作り置きのピクルスを「ごめんね」「食い尽くし系じゃないんだけど」と言いながらめちゃくちゃ食べている話→汗っかきだと塩分不足では？",
+      "link": "https://togetter.com/li/2726802",
+      "pubDate": "Fri, 31 Jul 2026 07:26:52 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "サンリオピューロランドのとあるトイレはめちゃくちゃファンシーで落ち着けなくて面白い…ガチで花を摘めそう",
+      "description": "サンリオピューロランドのとあるトイレはめちゃくちゃファンシーで落ち着けなくて面白い…ガチで花を摘めそう",
+      "link": "https://togetter.com/li/2726799",
+      "pubDate": "Fri, 31 Jul 2026 07:25:15 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『平穏世代の韋駄天達』全巻「70％オフ」セール！全9巻「6,831円」→「2,043円」！『メイドラゴン』クール教信者『異種族レビュアーズ』天原のタッグ！アニメ化もされた怪作",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455938.html",
+      "pubDate": "2026-07-31T07:20:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/f/9fff71ac.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】中国人の大富豪の奥様が食べてる『日本人には想像もつかないポテチの食べ方』がマジで美味しすぎる！　「上品」「中国4000年の歴史は侮れない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552389.html",
+      "pubDate": "2026-07-31T07:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa9a3ec3.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【物議】9月から生活道路の法定速度が『60キロ→30キロ』に大幅引き下げ→「地方を知らない東京の政治家・官僚が法律作るのやめろ」の声、殺到",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455946.html",
+      "pubDate": "2026-07-31T07:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56d62521.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "まくれば良かったのでは!? そこまでする必要はなかった友人！　四コマサボタージュFB第55回「つなぎを着てた」",
+      "description": "トーン貼り終わった段階でうっすらと頭にチラつき始めたんだけど、ひょっとしたらこのネタやったことあるかも……やってたらゴメンね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/07/31/2782674/",
+      "pubDate": "Thu, 30 Jul 2026 22:00:11 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-155.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "MicrosoftのWord用Copilotを標的にした文書ベースで自己増殖するAIワームが初めて実証される",
+      "description": "MicrosoftはWordやExcelといった事務用ソフトウェアをまとめたオフィススイートに、生成AIアシスタントのCopilotを統合しています。新たに、そんなWord用Copilotを標的にした文書ベースで自己増殖するマルウェア「AIワーム」の有効性を、セキュリティ研究者のホーコン・モーレイ氏が初めて実証しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260731-microsoft-copilot-word-documents-ai-worm/",
+      "pubDate": "Fri, 31 Jul 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -288,32 +392,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "東野圭吾さんの『容疑者Xの献身』の中に出てくる騙すことは「人間性の敗北」だとした名言は心に染みる…「裏切るのは弱いから」「信頼しているから騙される」など",
-      "description": "東野圭吾さんの『容疑者Xの献身』の中に出てくる騙すことは「人間性の敗北」だとした名言は心に染みる…「裏切るのは弱いから」「信頼しているから騙される」など",
-      "link": "https://togetter.com/li/2726723",
-      "pubDate": "Fri, 31 Jul 2026 00:39:21 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "中国人の大富豪層の奥様が食べている「想像もつかないポテチの美味しい食べ方」を教わってきた→その方法が意外すぎて、やはり4000年の歴史は侮れない",
-      "description": "中国人の大富豪層の奥様が食べている「想像もつかないポテチの美味しい食べ方」を教わってきた→その方法が意外すぎて、やはり4000年の歴史は侮れない",
-      "link": "https://togetter.com/li/2726718",
-      "pubDate": "Fri, 31 Jul 2026 00:32:15 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -325,19 +403,6 @@
       "link": "http://blog.esuteru.com/archives/10552262.html",
       "pubDate": "2026-07-31T00:30:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/0/90a3e076.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「逆バニー」の商標登録をふと調べてみたら、特許庁が「既に広く知られた普通名称である」と出願を拒絶してた。日本の行政は今日も正常に機能している",
-      "description": "「逆バニー」の商標登録をふと調べてみたら、特許庁が「既に広く知られた普通名称である」と出願を拒絶してた。日本の行政は今日も正常に機能している",
-      "link": "https://togetter.com/li/2726706",
-      "pubDate": "Fri, 31 Jul 2026 00:09:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -626,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/0/d022bd33.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "れいわ支持者「こんな時、真っ先に被災地へ向う政治家・山本太郎はもういない…」 →「議員辞めたとたん被災地へ向かわない時点で◯◯と気付け」とツッコミ殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552268.html",
-      "pubDate": "2026-07-30T19:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b1fabfcd-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -730,19 +782,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/5154fa84.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "有名ストリーマー「熊本地震チャリティ配信・合計サブスク件数分寄付します！」→何故か炎上",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455904.html",
-      "pubDate": "2026-07-30T17:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56bb2bfa.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -754,19 +793,6 @@
       "link": "https://gigazine.net/news/20260730-sukiya-maguro-tekka/",
       "pubDate": "Thu, 30 Jul 2026 17:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "にじさんじVTuberさん、熊本地震関連の不適切投稿を謝罪",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455897.html",
-      "pubDate": "2026-07-30T16:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/2/b2e3a275.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -961,19 +987,6 @@
       "description": "Googleが音楽生成AI「Lyria 3.5」を現地時間の2026年7月29日にリリースしました。最大3分間のボーカル付き楽曲を生成可能なほか、「入力画像に合わせて音楽を生成する」という機能も備えているとのこと。すでに無料で使用可能になっていたので使ってみました。続きを読む...",
       "link": "https://gigazine.net/news/20260730-lyria-3-5-music-generation-ai/",
       "pubDate": "Thu, 30 Jul 2026 12:16:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Google Search ConsoleでYouTubeやXの検索流入も確認可能に",
-      "description": "Googleが提供するウェブサイトの分析ツールであるGoogle Search Consoleで、YouTube・X(旧Twitter)・TikTok・Instagramといったソーシャルメディアの投稿や動画投稿が、Google検索やDiscover、Googleニュースでどのように表示されるかを追跡できるようになりました。続きを読む...",
-      "link": "https://gigazine.net/news/20260730-google-search-console-social-video-performance/",
-      "pubDate": "Thu, 30 Jul 2026 12:00:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1235,19 +1248,6 @@
       "link": "https://www.buzzfeed.com/jp/mayumiishihara/yutatamamori2026somen0727",
       "pubDate": "Tue, 28 Jul 2026 06:16:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/28/01/thumb/IGAnGFSYh.jpg?crop=565:377;74,90&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ジャングリア沖縄に「半額以下チケット」で行ってみたら、3時間の滞在がむしろちょうどよかった",
-      "description": "何かと話題のテーマパーク「ジャングリア沖縄」。ネット上では賛否さまざまな声が見られるが、実際のところはどうなのだろうか。 この目で確かめるべく、私（あひるねこ）は家族3人で現地へ向かった。今回使ったのは、1Dayチケット [&#8230;]",
-      "link": "https://rocketnews24.com/2026/07/28/2785438/",
-      "pubDate": "Tue, 28 Jul 2026 09:00:09 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_5874.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,58 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "夏でも湯船に入りたい派。最近は「ブラシなしで浴槽をキレイにできるミスト」に頼りっきりです",
+      "description": "夏でも毎日、湯船に浸かる派です。 お風呂に入るのは好きだけれど、避けて通れないのが浴槽の掃除。ブラシを使って浴槽の内側を隅々までこするの、地味に疲れるんですよね。特に腰が！ だったらシャワーで済ませればいいのでは？と言わ [&#8230;]",
+      "link": "https://getnews.jp/archives/3734068",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "さたぱんP、自身による歌唱プロジェクトSataとのスプリットEP『DUALITY』リリース",
+      "description": "圧倒的個性とテクニックで次々とボカロ界隈を騒がせ続ける「ハイパーボカロP」さたぱんPと、実写MVへの挑戦やエッジの効いた歌唱とギタープレイが魅力の「アーティスト」Sataが、これまでリリースしてきた楽曲と、ストレートな青 [&#8230;]",
+      "link": "https://getnews.jp/archives/3734067",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "平日の『うかい鳥山』は超穴場だ！里山の合掌造り×朴葉焼き会席がリーズナブル",
+      "description": "首都圏在住者にとって、身近な低山の代表格といえば八王子の高尾山でしょう。2007年にフランスの『ミシュランガイド（ミシュラン・ボワイヤジェ・プラティック・ジャポン）』で富士山とともに3ツ星を獲得して以来、いまや“世界一訪 [&#8230;]",
+      "link": "https://getnews.jp/archives/3733879",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「構」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「構」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「構」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3734066",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【沖縄県恩納村】瀬良垣島教会をリニューアル！大切な人と心を結ぶ新しいリゾートウエディングを叶える",
       "description": "リゾートウエディングを展開するアールイズ・ウエディングが、沖縄県恩納村にて運営する瀬良垣島教会(ハイアット リージェンシー 瀬良垣アイランド 沖縄内)を、2027年1月3日(日)にリニューアルオープン！チャペル空間のアッ [&#8230;]",
       "link": "https://getnews.jp/archives/3734060",
@@ -1768,61 +1820,9 @@
       "link": "https://getnews.jp/archives/3734054",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "女子ハンドボールチーム「YOKOHAMA MERS」が、リーグH参入に向けた活動を本格始動",
-      "description": "はやぶさパートナーズが運営する女子ハンドボールチーム「YOKOHAMA MERS(横浜メルズ)」は、日本ハンドボールリーグ機構が運営する国内トップリーグ「リーグH」への参入に向けた活動を本格始動したことを発表した。 「Y [&#8230;]",
-      "link": "https://getnews.jp/archives/3734055",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "25秒でたんぱく質20g。甘くない「プロテインスープ」という答え",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。 プロテインが続きにくい理由って、たぶん味なんですよね。 バニラ、チョコ、ベリーなどなど。おいしいんですが、毎日となると話は別で。甘いものを口 [&#8230;]",
-      "link": "https://getnews.jp/archives/3734059",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【奈良県橿原市】飛鳥時代の遺跡群「飛鳥・藤原の宮都」日本国家形成の原点が世界文化遺産に登録",
-      "description": "写真提供：世界遺産「飛鳥・藤原」登録推進協議会HP 奈良県橿原市の遺跡を含む飛鳥時代の遺跡群「飛鳥・藤原の宮都」が、7月26日(日)に韓国・釜山にて開かれた第48回世界遺産委員会で、世界文化遺産への登録が決定した。 「飛 [&#8230;]",
-      "link": "https://getnews.jp/archives/3734056",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【大分県大分市】テイクアウト寿司専門店「ひめ寿司」オープン！大分中央卸売市場直送の魚介を使用",
-      "description": "飲食事業を展開する大心産業は、大分中央卸売市場直送の新鮮な魚介を使用したテイクアウト寿司専門店「ひめ寿司」を、7月24日(金)、JR大分駅「豊後にわさき市場」内にグランドオープンした。 一度も冷凍していない生本マグロや関 [&#8230;]",
-      "link": "https://getnews.jp/archives/3734057",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-30T21:16:27.820737",
+  "updatedAt": "2026-07-30T22:37:26.492930",
   "sites": [
     {
       "id": "hachima",
