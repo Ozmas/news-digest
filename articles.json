@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "星街すいせいとTAKU INOUEの「Midnight Grand Orchestra」がCD発売を中止。その理由が……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552265.html",
+      "pubDate": "2026-07-31T04:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/f/3f61fd0d-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ナウルが「ナオエロ共和国」に名称変更。「ナオエロは国民の誇り」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552260.html",
+      "pubDate": "2026-07-31T03:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/00ce6352.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【動画】朝からエスカレーターに乗り出勤するカニ、激写されるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52455920.html",
+      "pubDate": "2026-07-31T03:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/1/b1d45339.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -639,19 +678,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/DAKqlurB8.jpg?crop=2091:1394;3,0&resize=1250:830"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "株式会社ポケモン、震度7の地震が起きた熊本県などに総額1億円を寄付！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552160.html",
-      "pubDate": "2026-07-30T17:30:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/2/32c261a3-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +702,6 @@
       "link": "https://jin115.com/archives/52455904.html",
       "pubDate": "2026-07-30T17:00:50+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56bb2bfa.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ニコニコ動画、有料会員が8月から値上げへ… 「運営努力では困難」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552153.html",
-      "pubDate": "2026-07-30T17:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d69aa23f.png"
     },
     {
       "siteId": "gigazine",
@@ -871,19 +884,6 @@
       "link": "https://gigazine.net/news/20260730-qualcomm-earnings-report-q3-2026/",
       "pubDate": "Thu, 30 Jul 2026 13:02:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "高市首相、食料品消費税1％を表明！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455891.html",
-      "pubDate": "2026-07-30T13:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/7/575be2b1.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-30T17:41:12.146366",
+  "updatedAt": "2026-07-30T19:40:56.076049",
   "sites": [
     {
       "id": "hachima",
