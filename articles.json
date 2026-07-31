@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ウクライナにモスクワを破壊されたロシア、反撃開始 キーウのドローン工場を弾道ミサイルで攻撃へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456003.html",
+      "pubDate": "2026-08-01T03:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/eb8b18c9.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "平成を代表するキャラ・でじ子さんによる「令和キッズへの配慮」が物悲しいにょ……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552507.html",
+      "pubDate": "2026-08-01T03:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4a567a4e-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -678,19 +704,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "小説家・綾辻行人さん、京極夏彦先生に『ヤニねこ』をオススメしてしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552505.html",
-      "pubDate": "2026-07-31T17:30:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/8/c8702deb.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -884,19 +897,6 @@
       "link": "https://gigazine.net/news/20260731-how-enabling-two-settings-tripled-arc-agi-3-benchmark/",
       "pubDate": "Fri, 31 Jul 2026 12:06:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】スペイン、崩壊する・・・数万人のアフリカ人が海からなだれ込み地獄に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455957.html",
-      "pubDate": "2026-07-31T12:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/4/d42af303.png"
     },
     {
       "siteId": "gigazine",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "横浜・八景島シーパラダイスに AI×音楽 アトラクション「OTO-RACTION PARK」8/1～爆誕♪ マツケン松平健も「ソニック チューン！」先行試乗会に参加…あれれ!?",
+      "description": "東京駅や品川駅から電車で１時間、日本最大級の水族館とここでしか体感できないスリリング＆ハッピーなアトラクション（のりもの）がひとつに詰まった島―――横浜・八景島シーパラダイス。 ここ横浜・八景島シーパラダイスはいま、「マ [&#8230;]",
+      "link": "https://getnews.jp/archives/3734274",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "サッと手に取れるのが続けるコツ。マーナの「ほうき＆ちりとり」が苦手だった掃除のハードルを下げてくれた",
       "description": "掃除は、正直あまり得意ではありません。 だからこそ、「掃除しよう」と思ってから掃除道具を取りに行く、そのひと手間さえ面倒に感じてしまいます。 玄関に落ちた砂や髪の毛、部屋の隅にたまったほこり……。「あとで掃除しよう」と思 [&#8230;]",
       "link": "https://getnews.jp/archives/3734271",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3734258",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "『Ingress』今年はキラキラ無限大!? 過去のメダルも再登場する注目のLevel 8 Week 2026事前ガイド",
-      "description": "2026年7月から9月にかけてNiantic Spatialが開発運営を行う位置情報ゲーム『Ingress』ではアポロアノマリーシーズンと題した長期イベントが進行中。 2つの陣営に所属するエージェントたちが勝利をめざして [&#8230;]",
-      "link": "https://getnews.jp/archives/3734236",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-31T17:06:19.200100",
+  "updatedAt": "2026-07-31T18:54:42.271795",
   "sites": [
     {
       "id": "hachima",
