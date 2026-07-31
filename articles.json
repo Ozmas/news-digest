@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ホロライブオタク「IOSYSはもう東方のイメージよりホロライブのイメージが強くなってきてない？(笑)」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552870.html",
+      "pubDate": "2026-08-01T05:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/7/472bc3b0-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "熊本地震の被災者宅に、迷彩服の人物が突然入ってくる→無事を伝えるとポストにシールを貼って帰る→自衛官かな？と思いきや、その正体が・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456007.html",
+      "pubDate": "2026-08-01T05:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/1/c1ff7336.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ヤマザキパンのとある食パンが「1回食べると普通のに戻れない」と話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552861.html",
+      "pubDate": "2026-08-01T04:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/7/b790ab1e.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -613,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/d/5d8ad6c5.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スレッズ民、運転中に腹を壊す → 1歳児を車に残しトイレに向かった結果、児相に相談される 「漏らせばよかったの？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552518.html",
-      "pubDate": "2026-07-31T18:20:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/0/104eda0f.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +676,6 @@
       "link": "https://rocketnews24.com/2026/07/31/2786311/",
       "pubDate": "Fri, 31 Jul 2026 09:00:27 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/とぽすサムネ.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「戦争は話し合いで解決」と主張していたひろゆきさん、ゆたぼんにトドメを刺される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552509.html",
-      "pubDate": "2026-07-31T18:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/00169187-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -858,19 +871,6 @@
       "link": "https://rocketnews24.com/2026/07/31/2787422/",
       "pubDate": "Fri, 31 Jul 2026 04:03:31 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_703511.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "大人気YouTuberさん、ファンから「使用済みの○○64個」というキモ過ぎる贈り物をされてブチギレ・警察に相談する事態に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455960.html",
-      "pubDate": "2026-07-31T13:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/036b0bb4.png"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-31T18:54:42.271795",
+  "updatedAt": "2026-07-31T20:22:46.653848",
   "sites": [
     {
       "id": "hachima",
