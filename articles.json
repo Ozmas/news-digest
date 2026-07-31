@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【熊本地震】イオンモール爆発で亡くなった女性店員「金庫にお金を入れないといけないと言われたので戻る」会社側は取材拒否",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552862.html",
+      "pubDate": "2026-08-01T02:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/48de24f4.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ワイヤーブラは1回でも洗濯機にかけたら死にます。捨ててください→「ブラは死んでからが本番」「私の中では生きてるんで大丈夫です」",
+      "description": "ワイヤーブラは1回でも洗濯機にかけたら死にます。捨ててください→「ブラは死んでからが本番」「私の中では生きてるんで大丈夫です」",
+      "link": "https://togetter.com/li/2727170",
+      "pubDate": "Sat, 01 Aug 2026 01:33:07 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "閃乱カグラが家庭用ゲームに帰ってくる！？『シノマス』『ドルウェブ』のハニパレがコンシューマ事業への参入検討！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552871.html",
+      "pubDate": "2026-08-01T01:30:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/a/0ac4df29.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "居酒屋バイトの女子高生「どの酒ですか？」 ジジイ「酒は酒じゃ！はよ持ってこい！」 → とりあえず焼酎を持って行った結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456001.html",
+      "pubDate": "2026-08-01T01:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/6/0689d1f6-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "辺野古沖転覆事故、同志社のヤバい事実が次々と明らかに「安全点検がすっぽ抜け」「引率教員は『船酔いするから』と乗船せず」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552859.html",
+      "pubDate": "2026-08-01T01:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fc8675fc.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "７年間音沙汰なかった、にじさんじVTuber・語部紡がまさかの復活",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552876.html",
+      "pubDate": "2026-08-01T00:53:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/de4c8766-s.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "仕事終わり、駐車場に男性が立っており「料金を値上げしたが精算機の設定が変更できてないので支払い後、僕に追加で500円現金を下さい」→真偽を判断したくても材料がなさすぎたので、支払ってしまった話",
+      "description": "仕事終わり、駐車場に男性が立っており「料金を値上げしたが精算機の設定が変更できてないので支払い後、僕に追加で500円現金を下さい」→真偽を判断したくても材料がなさすぎたので、支払ってしまった話",
+      "link": "https://togetter.com/li/2727158",
+      "pubDate": "Sat, 01 Aug 2026 00:42:18 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ホストがナンバーとかをはっきり書けなくなって以降、特定の場所に座っている写真を上げる…のような行為がNo.1を暗示するようになったりしていて、概念が平安時代に近づいてきているのを感じる",
+      "description": "ホストがナンバーとかをはっきり書けなくなって以降、特定の場所に座っている写真を上げる…のような行為がNo.1を暗示するようになったりしていて、概念が平安時代に近づいてきているのを感じる",
+      "link": "https://togetter.com/li/2727154",
+      "pubDate": "Sat, 01 Aug 2026 00:35:10 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "Google 「多様性高める為にインターン応募の必須条件は女です」⇒ ツッコミの嵐に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552833.html",
+      "pubDate": "2026-08-01T00:30:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/949cd700.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "吐き気でトイレに駆け込み、過呼吸っぽくなるも入った個室には緊急ボタンなし→スマホのメモに「お水をいただけませんか。動けません」と打って個室の下から差し出し、助けを求めることに",
+      "description": "吐き気でトイレに駆け込み、過呼吸っぽくなるも入った個室には緊急ボタンなし→スマホのメモに「お水をいただけませんか。動けません」と打って個室の下から差し出し、助けを求めることに",
+      "link": "https://togetter.com/li/2727145",
+      "pubDate": "Sat, 01 Aug 2026 00:21:38 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -171,19 +301,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/1/c1ec3296.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "終戦の日の直前、バイクで山中を走っていたら道路脇に日本兵…「出た」と思って看板を見たら→心当たりを感じる人が反応「ワシらだったかもしれねぇ……」",
-      "description": "終戦の日の直前、バイクで山中を走っていたら道路脇に日本兵…「出た」と思って看板を見たら→心当たりを感じる人が反応「ワシらだったかもしれねぇ……」",
-      "link": "https://togetter.com/li/2727117",
-      "pubDate": "Fri, 31 Jul 2026 22:24:17 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -249,32 +366,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/6/368639f8.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "山田五郎さん最後の授業が公開、テーマは『メメント・モリ』 講義の最後には五郎さんから視聴者に向けた言葉も「五郎さん、ありがとう。噛み締めます」",
-      "description": "山田五郎さん最後の授業が公開、テーマは『メメント・モリ』 講義の最後には五郎さんから視聴者に向けた言葉も「五郎さん、ありがとう。噛み締めます」",
-      "link": "https://togetter.com/li/2727104",
-      "pubDate": "Fri, 31 Jul 2026 21:23:03 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「京都駅ぶらぶらしてたら忍者おってんけど」記念撮影のために置いた忍者の人形が話題に→「一般人に見つかるなんて未熟な忍者だな」「外国人が見つけたら腰抜かすんじゃ」",
-      "description": "「京都駅ぶらぶらしてたら忍者おってんけど」記念撮影のために置いた忍者の人形が話題に→「一般人に見つかるなんて未熟な忍者だな」「外国人が見つけたら腰抜かすんじゃ」",
-      "link": "https://togetter.com/li/2727102",
-      "pubDate": "Fri, 31 Jul 2026 21:13:30 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -311,19 +402,6 @@
       "description": "世界最大の半導体受託製造企業であるTSMCが、IntelのEMIBが受注量を増やしていることを受け、EMIBの一部を模倣した「準EMIB」と呼ばれる高度な半導体パッケージング技術を開発していることが報じられています。続きを読む...",
       "link": "https://gigazine.net/news/20260731-tsmc-quasi-emib/",
       "pubDate": "Fri, 31 Jul 2026 21:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「附属中学校から、こう見えています」窓に「下着が丸見え」という張り紙があった大学、今度はポスターで注意喚起「良い意味で生成AIでしか作れないクリエイティビティ」",
-      "description": "「附属中学校から、こう見えています」窓に「下着が丸見え」という張り紙があった大学、今度はポスターで注意喚起「良い意味で生成AIでしか作れないクリエイティビティ」",
-      "link": "https://togetter.com/li/2727098",
-      "pubDate": "Fri, 31 Jul 2026 20:44:50 +0900",
       "thumbnail": ""
     },
     {
@@ -622,7 +700,7 @@
       "title": "『メイドインアビス』『魔法少女にあこがれて』『うちの会社の小さい先輩の話』など、人気作品が「全巻70％オフ」の激安セール開催！！期間限定だから見逃すな！！",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52455941.html",
-      "pubDate": "2026-07-31T17:20:42+09:00",
+      "pubDate": "2026-07-31T17:20:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8f532919.jpg"
     },
     {
@@ -639,32 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/e/6ecc6d76.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『NIKKE』の尻揺れは”リアル”だった！銃撃後にありえんぐらい揺れる外人女性の動画が話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552504.html",
-      "pubDate": "2026-07-31T17:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/3/c36e418f.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "熊本地震直後に政治資金パーティー「正直やってよかった」　福岡県議会の最大会派・自民党県議団",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552502.html",
-      "pubDate": "2026-07-31T16:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/b/1b8b7b4b.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -676,19 +728,6 @@
       "link": "https://gigazine.net/news/20260731-linkedin-seems-like-ai-slop-button/",
       "pubDate": "Fri, 31 Jul 2026 16:30:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】X民「みい山のアクスタは問題だ」⇒ 「あなたもリアルみいちゃんですか？」と侮蔑されてしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552492.html",
-      "pubDate": "2026-07-31T16:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d0d38d9d.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -730,19 +769,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】スペインに北アフリカから移民が殺到！とんでもない事になってしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552489.html",
-      "pubDate": "2026-07-31T15:30:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/5/b5b17042.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +780,6 @@
       "link": "https://jin115.com/archives/52455967.html",
       "pubDate": "2026-07-31T15:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/ce5253a0.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スレッズ民「隣の家の室外機がこんなところに置いてあるんだけど、板置いていい？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552487.html",
-      "pubDate": "2026-07-31T15:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/3/935caf19.jpg"
     },
     {
       "siteId": "gigazine",
@@ -962,19 +975,6 @@
       "link": "https://gigazine.net/news/20260731-noaa-google-cloud-platform/",
       "pubDate": "Fri, 31 Jul 2026 11:44:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安速報】ちいかわ・ナガノ先生の「くまのむちゃうま日記」「ナガノのくまの本」などがKindleで実質半額セール開始！女の園の星、悪役令嬢の矜持等、少女・女性マンガ中心！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455940.html",
-      "pubDate": "2026-07-31T11:40:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f002f5ef.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-31T15:03:43.929016",
+  "updatedAt": "2026-07-31T17:06:19.200100",
   "sites": [
     {
       "id": "hachima",
