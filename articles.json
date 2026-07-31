@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ローソン本部がポケカの身内販売を粛清！今までは店員が買い占めていた……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552873.html",
+      "pubDate": "2026-08-01T06:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/1793828c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気YouTuber「顔見知りのカードショップ店員に激熱って言われた福袋60万円で購入したので開封します！」 → 中から・・・なんだよこれ！？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456009.html",
+      "pubDate": "2026-08-01T06:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/080af51a-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "ホロライブオタク「IOSYSはもう東方のイメージよりホロライブのイメージが強くなってきてない？(笑)」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10552870.html",
@@ -626,19 +652,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【炎上】たぬかな「ちっちゃい子を生んだお母さんに早産とか言っちゃいけない」←「お前今まで散々何言ってきたか理解してるか？」とツッコミ殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552748.html",
-      "pubDate": "2026-07-31T18:40:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/0/40c07a1f.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -832,19 +845,6 @@
       "link": "https://rocketnews24.com/2026/07/31/2787454/",
       "pubDate": "Fri, 31 Jul 2026 05:00:42 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/2067a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【えぇ…】韓国アイドルさん、細さを求めすぎてガチでヤバい事になる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455963.html",
-      "pubDate": "2026-07-31T14:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/2/52223388.png"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-07-31T20:22:46.653848",
+  "updatedAt": "2026-07-31T21:40:09.711198",
   "sites": [
     {
       "id": "hachima",
