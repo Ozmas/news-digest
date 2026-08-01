@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「男の性欲並みに同性に対する『女の負の性欲』も酷すぎる。こんな事された女子も多いはず」⇒ 2万いいね超え",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553058.html",
+      "pubDate": "2026-08-02T00:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78003a1d.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "投資家X民「キオクシア株の追証を払うために金融機関3社から約1000万借金しました。頼む上がってくれ！」 → 翌日・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456069.html",
+      "pubDate": "2026-08-02T00:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/5/5506052e-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ドラゴンズドグマ 2：ダークアリズン』気になる部分に制作者が答えるQ&A公開！「熟練の冒険者の方々にも満足していただけるようハードモードを鋭意制作中」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553214.html",
+      "pubDate": "2026-08-01T23:15:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/051861de.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「すみません、バナーの画像の私の顔が違うかもしれませんw」→イベントの告知バナーなどで、AI生成を使った結果「別人の写真」に変換されちゃうリスクがあるという話",
+      "description": "「すみません、バナーの画像の私の顔が違うかもしれませんw」→イベントの告知バナーなどで、AI生成を使った結果「別人の写真」に変換されちゃうリスクがあるという話",
+      "link": "https://togetter.com/li/2727568",
+      "pubDate": "Sat, 01 Aug 2026 23:13:55 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "『みいちゃんと山田さん』の作者、昔夜の仕事をしていた人はビジュアルも磨いて就活成功していい男もゲットという話を描いていて「うわっ…」ってなった",
+      "description": "『みいちゃんと山田さん』の作者、昔夜の仕事をしていた人はビジュアルも磨いて就活成功していい男もゲットという話を描いていて「うわっ…」ってなった",
+      "link": "https://togetter.com/li/2727561",
+      "pubDate": "Sat, 01 Aug 2026 23:05:29 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "2019年にたった3回の配信で姿を消したにじさんじVTuberが7年半ぶりに動画を投稿 タイトルが意味深すぎる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456088.html",
+      "pubDate": "2026-08-01T23:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/6/f666517e.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "「研究論文がSNSで著名な学者に紹介されること」が研究者の求職活動にメリットをもたらすとの研究結果",
+      "description": "博士号を取得して大学や研究機関の職を得たいと考えている研究者にとって、執筆した研究論文は重要な自己アピールの材料となります。実際に著名な学者を「インフルエンサー」として採用し、Twitter(現X)で求職者の研究論文を紹介させた実験により、SNSで研究論文が著名な学者に紹介されることによる影響が明らかになりました。続きを読む...",
+      "link": "https://gigazine.net/news/20260801-sns-promotion-paper-academic-hiring/",
+      "pubDate": "Sat, 01 Aug 2026 23:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "高校2年生の息子がリビングのテーブルで課題をやっていると思っていたら寝ていた…器用な寝方が話題に→「顔がなくて一瞬ビビった」「起きた時、顔面ぶつけるんだろなぁ」",
+      "description": "高校2年生の息子がリビングのテーブルで課題をやっていると思っていたら寝ていた…器用な寝方が話題に→「顔がなくて一瞬ビビった」「起きた時、顔面ぶつけるんだろなぁ」",
+      "link": "https://togetter.com/li/2727557",
+      "pubDate": "Sat, 01 Aug 2026 22:59:59 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -21,8 +125,8 @@
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "今回の熊本の件で、イオン北海道で予定してた「お盆でBON！」のキャンペーン名が急遽変更に「ここまでせなあかんのか」と賛否あるも、対応に労をねぎらう声",
-      "description": "今回の熊本の件で、イオン北海道で予定してた「お盆でBON！」のキャンペーン名が急遽変更に「ここまでせなあかんのか」と賛否あるも、対応に労をねぎらう声",
+      "title": "今回の熊本の件で、イオン北海道で予定してた「お盆でBON！」のキャンペーン名が急遽変更に…「ここまでせなあかんのか」と賛否あるも、対応に労をねぎらう声",
+      "description": "イオン北海道の抽選キャンペーン「夏イオン お盆でBON！」から「BON！」が削除。熊本被災への配慮でデザインや文字を変更した対応に賛否が分かれ、対応の手間を労う声もある。",
       "link": "https://togetter.com/li/2727540",
       "pubDate": "Sat, 01 Aug 2026 22:33:44 +0900",
       "thumbnail": ""
@@ -275,32 +379,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画『ちいかわ』怖い怖いってみんなが言うから身構えて行ったけどそれほどじゃなかったな… せいぜい一週間引きずる程度「仕方ないよ」「受けたんだ……ダメージ！」",
-      "description": "映画『ちいかわ』怖い怖いってみんなが言うから身構えて行ったけどそれほどじゃなかったな… せいぜい一週間引きずる程度「仕方ないよ」「受けたんだ……ダメージ！」",
-      "link": "https://togetter.com/li/2727474",
-      "pubDate": "Sat, 01 Aug 2026 19:41:48 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "誕生日会のケーキ、デコレーションは自分でやるのだが、キウイアレルギーの子がいるので半分だけキウイなしフィリングにするか迷う→アレルギーがあるなら入れないで！",
-      "description": "誕生日会のケーキ、デコレーションは自分でやるのだが、キウイアレルギーの子がいるので半分だけキウイなしフィリングにするか迷う→アレルギーがあるなら入れないで！",
-      "link": "https://togetter.com/li/2727476",
-      "pubDate": "Sat, 01 Aug 2026 19:36:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -325,19 +403,6 @@
       "link": "https://jin115.com/archives/52456067.html",
       "pubDate": "2026-08-01T19:30:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/4/94f5e3ec.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "出産した友達が家に招いてくれたと母に報告したら「必ずかわいいねって言ってくるんだよ」と念を押されたが、写真を見てもかわいいと思えなかったし…と伝えたら、こう言われた",
-      "description": "出産した友達が家に招いてくれたと母に報告したら「必ずかわいいねって言ってくるんだよ」と念を押されたが、写真を見てもかわいいと思えなかったし…と伝えたら、こう言われた",
-      "link": "https://togetter.com/li/2727473",
-      "pubDate": "Sat, 01 Aug 2026 19:30:07 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -626,19 +691,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/2068a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "FIFA会長、トランプ一族との癒着となる“W杯事業売却案”の中止を発表！　欧州サッカー連盟のボイコットが想像以上に効いた模様",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552978.html",
-      "pubDate": "2026-08-01T14:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/37bd9157.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +715,6 @@
       "link": "https://gigazine.net/news/20260801-sanwa-direct-handy-fan/",
       "pubDate": "Sat, 01 Aug 2026 14:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジ注意】みいちゃん・みい山の画像使って人を揶揄した人、開示請求される！　「東京地方裁判所から通知来ました。みいちゃんミーム使用は罪であるという証明です」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552975.html",
-      "pubDate": "2026-08-01T13:40:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/3/130aee52.jpg"
     },
     {
       "siteId": "jin",
@@ -847,19 +886,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/7b123216-0a2d-4ab9-9525-84c3550ceaa9_1920.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "イオンモール熊本の爆発で亡くなった女性、一度避難したあと◯◯しに建物内へ戻っていたと判明する・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456015.html",
-      "pubDate": "2026-08-01T10:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/78b7afa4.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -871,19 +897,6 @@
       "link": "https://gigazine.net/news/20260801-disaster-initial-response-command-guide/",
       "pubDate": "Sat, 01 Aug 2026 10:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【効いてて草】中国さん、日本の『国家情報局』発足にブチギレ猛反発・・・「地域の平和と安定を脅かしている！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456023.html",
-      "pubDate": "2026-08-01T09:30:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/70bb9e86.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1052,19 +1065,6 @@
       "description": "エースコックが近畿大学の学生飲食店起業支援プロジェクト「KINDAI Ramen Venture 近大をすすらんか。」とコラボして、大学発の人気学食メニューを再現したカップ麺「魅惑の学食巡りｉｎ関西 近大をすすらんか。 近大まぜそば」を2026年7月27日に新発売しました。どのような味わいに仕上がっているのか実際に食べてみました。続きを読む...",
       "link": "https://gigazine.net/news/20260731-acecook-kindai-mazesoba/",
       "pubDate": "Fri, 31 Jul 2026 17:32:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "LinkedInに「AIスロップ通報ボタン」が登場",
-      "description": "ビジネス向けSNSとして知られるLinkedInに、AIスロップを通報するための「Seems Like AI Slop」ボタンが加わりました。続きを読む...",
-      "link": "https://gigazine.net/news/20260731-linkedin-seems-like-ai-slop-button/",
-      "pubDate": "Fri, 31 Jul 2026 16:30:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-01T13:39:45.100979",
+  "updatedAt": "2026-08-01T15:05:13.073391",
   "sites": [
     {
       "id": "hachima",
