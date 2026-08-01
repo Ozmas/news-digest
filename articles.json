@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「クソみたいな決選投票」京大の学園祭が統一テーマを投票開始も、「どのテーマを冷笑するか」と取り返しのつかない候補だらけ←今までもおかしかった定期",
+      "description": "「クソみたいな決選投票」京大の学園祭が統一テーマを投票開始も、「どのテーマを冷笑するか」と取り返しのつかない候補だらけ←今までもおかしかった定期",
+      "link": "https://togetter.com/li/2727609",
+      "pubDate": "Sun, 02 Aug 2026 01:25:07 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "DS用RPG『メタルサーガ 〜鋼の季節〜』がPC/PS5/PS4/スイッチ2向けにリマスター化！原作のサクセスも携わり、近いうちに詳細発表予定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553221.html",
+      "pubDate": "2026-08-02T01:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/aecf9abe.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "客「RTX5070Tiを16万円で購入したけど、怖いから店員の前で開封するわ！」 → 中からヤバすぎる物が出てくる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456083.html",
+      "pubDate": "2026-08-02T01:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2166cff-s.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "誤った作業店に少年（小中学生）届いちゃってヤバい→「輸送経路修正（裏ルート）」「何故こんな事に？」",
+      "description": "誤った作業店に少年（小中学生）届いちゃってヤバい→「輸送経路修正（裏ルート）」「何故こんな事に？」",
+      "link": "https://togetter.com/li/2727602",
+      "pubDate": "Sun, 02 Aug 2026 00:53:31 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民女子「多くの真面目に生きてる女子をコケにする漫画を量産したみい山作者は許せない」⇒ 共感の嵐に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553121.html",
+      "pubDate": "2026-08-02T00:30:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bd27b6ea.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「ウチの嫁は臭くないけど“独特の匂い”があるからそれで浮気を見破った」→あの時の「ニオイ」に関するポストから、悲しすぎる探偵の体験談が飛び出す",
+      "description": "「ウチの嫁は臭くないけど“独特の匂い”があるからそれで浮気を見破った」→あの時の「ニオイ」に関するポストから、悲しすぎる探偵の体験談が飛び出す",
+      "link": "https://togetter.com/li/2727585",
+      "pubDate": "Sun, 02 Aug 2026 00:07:06 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -301,32 +379,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/5/35e0fea3-s.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「この世のものとは思えない旨味」中国・雲南省に行って、夢だった“本場の毒キノコ鍋”を食べた話… 紙に連絡先を書き、厳重に時間を管理され、やっと完成した黄金のスープはまさに人生最高の味",
-      "description": "「この世のものとは思えない旨味」中国・雲南省に行って、夢だった“本場の毒キノコ鍋”を食べた話… 紙に連絡先を書き、厳重に時間を管理され、やっと完成した黄金のスープはまさに人生最高の味",
-      "link": "https://togetter.com/li/2727488",
-      "pubDate": "Sat, 01 Aug 2026 20:09:48 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "実家の畑にスイセンとニラがランダム配置で生えている話が話題に→スイセンを食べると食中毒を起こすので畑のロシアンルーレットという声が上がる…見分け方の紹介も",
-      "description": "実家の畑にスイセンとニラがランダム配置で生えている話が話題に→スイセンを食べると食中毒を起こすので畑のロシアンルーレットという声が上がる…見分け方の紹介も",
-      "link": "https://togetter.com/li/2727483",
-      "pubDate": "Sat, 01 Aug 2026 20:02:32 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -338,19 +390,6 @@
       "link": "https://jin115.com/archives/52456070.html",
       "pubDate": "2026-08-01T20:00:48+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17d380ca.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "機内食に単品の焼き豆腐出すなんて斬新だなと思ったら違った「すき焼きに入れたい」「焼き豆腐やないんならほななんやねん」",
-      "description": "機内食に単品の焼き豆腐出すなんて斬新だなと思ったら違った「すき焼きに入れたい」「焼き豆腐やないんならほななんやねん」",
-      "link": "https://togetter.com/li/2727482",
-      "pubDate": "Sat, 01 Aug 2026 20:00:34 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -652,32 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/1328d631.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ヤンマガ編集部「みいちゃんが可哀想な目に遭うのを見たい」⇒ 炎上で動画を非公開に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552983.html",
-      "pubDate": "2026-08-01T15:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/84a2b310.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "記録的な熱波でクソ暑いヨーロッパ、川の水位が下がりまくる →とんでもないモノが出現ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552980.html",
-      "pubDate": "2026-08-01T14:30:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b6b488f4-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -845,19 +858,6 @@
       "link": "https://jin115.com/archives/52456027.html",
       "pubDate": "2026-08-01T10:40:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/5/955c5312.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『メイドインアビス』など竹書房の人気漫画が全巻70％オフで買える激安セール「竹書房の日2026」開催！！2日間限定キャンペーン！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456017.html",
-      "pubDate": "2026-08-01T10:20:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/1/b1bd4aab.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-01T15:05:13.073391",
+  "updatedAt": "2026-08-01T16:29:37.689479",
   "sites": [
     {
       "id": "hachima",
