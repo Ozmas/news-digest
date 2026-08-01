@@ -2,16 +2,289 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【何度目だ】総務省、LINEヤフーに厳重注意　利用者情報を無断で外部に送信",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553002.html",
+      "pubDate": "2026-08-01T16:30:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/ac924f27.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "高校生の息子と軽く言い合いになって、ボクが息子に「おまえの父ちゃんデーブ！」と言ったら言い返してこなかった… 勝った「無茶しやがって…」「メガンテ、と唱えられた気分」",
-      "description": "高校生の息子と軽く言い合いになって、ボクが息子に「おまえの父ちゃんデーブ！」と言ったら言い返してこなかった… 勝った「無茶しやがって…」「メガンテ、と唱えられた気分」",
-      "link": "https://togetter.com/li/2727352",
-      "pubDate": "Sat, 01 Aug 2026 13:42:20 +0900",
+      "title": "ウッディの血色を良くしたくてセリアで買った水彩パステルでお化粧してあげたらむっちゃ生気が宿った「チークとリップは重要なんや…」",
+      "description": "ウッディの血色を良くしたくてセリアで買った水彩パステルでお化粧してあげたらむっちゃ生気が宿った「チークとリップは重要なんや…」",
+      "link": "https://togetter.com/li/2727395",
+      "pubDate": "Sat, 01 Aug 2026 16:06:47 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】スパイダーマンファン、害悪ミセスファンにブチギレ！「マジであいつら民度終わってる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552988.html",
+      "pubDate": "2026-08-01T16:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/caab69ca.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "8月発売の注目ゲームまとめ！ポケモン開発会社による『ビースト・オブ・リンカネーション』『メタルギアソリッド マスターコレクション vol.2』『シュタインズ・ゲート リブート』など！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456060.html",
+      "pubDate": "2026-08-01T16:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/466037f5.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "電子ペーパーに1枚だけ画像を記録できるDIYカメラ「reFrame」",
+      "description": "Google所属のエンジニアであるカロヤン・コレフ氏が電子ペーパー搭載DIYカメラ「reFrame」を開発し、設計情報をオープンソースで公開しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260801-epaper-camera-reframe/",
+      "pubDate": "Sat, 01 Aug 2026 15:50:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "パックに水道水を入れて、冷蔵庫で色がついたら飲むという家に出会ってから他人の家の麦茶が飲めない→意外といることに驚きの声「水出しなんだが…」",
+      "description": "パックに水道水を入れて、冷蔵庫で色がついたら飲むという家に出会ってから他人の家の麦茶が飲めない→意外といることに驚きの声「水出しなんだが…」",
+      "link": "https://togetter.com/li/2727390",
+      "pubDate": "Sat, 01 Aug 2026 15:39:13 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】Xbox Series X/Sが国内でサイレント値上げ！各モデル3万円アップ、Sは9万円超えｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552987.html",
+      "pubDate": "2026-08-01T15:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e063a15d.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "夏の暑い時期におすすめの小説やマンガをたくさん読みたい、皆の夏の思い出になりそうな一冊はありますか？→青春からファンタジーまでそこにしかない夏がたくさん",
+      "description": "夏の暑い時期におすすめの小説やマンガをたくさん読みたい、皆の夏の思い出になりそうな一冊はありますか？→青春からファンタジーまでそこにしかない夏がたくさん",
+      "link": "https://togetter.com/li/2723832",
+      "pubDate": "Sat, 01 Aug 2026 15:25:14 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "すみませんって英語でなんというかうろ覚えで「Execute me...?」と言い間違えると即お陀仏の危険があるという与太話",
+      "description": "すみませんって英語でなんというかうろ覚えで「Execute me...?」と言い間違えると即お陀仏の危険があるという与太話",
+      "link": "https://togetter.com/li/2727386",
+      "pubDate": "Sat, 01 Aug 2026 15:24:31 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "地震による残骸からSwitch2を発掘したけど普通に動いた、任天堂ハードって本当に頑丈なんだ…「焼けたゲームボーイが動いたり叩きつけても無傷のゲームキューブがあるからね」",
+      "description": "地震による残骸からSwitch2を発掘したけど普通に動いた、任天堂ハードって本当に頑丈なんだ…「焼けたゲームボーイが動いたり叩きつけても無傷のゲームキューブがあるからね」",
+      "link": "https://togetter.com/li/2727381",
+      "pubDate": "Sat, 01 Aug 2026 15:03:46 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【え？】ソニーCFO「PS5は値上がりしても○○と比べればコスパいいもん！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456054.html",
+      "pubDate": "2026-08-01T15:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/1328d631.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ヤンマガ編集部「みいちゃんが可哀想な目に遭うのを見たい」⇒ 炎上で動画を非公開に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552983.html",
+      "pubDate": "2026-08-01T15:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/84a2b310.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「息子は知的に問題がありそうだから自立は難しい」とバリキャリの友人に言ったら、それに対する回答がすごく救われるものだった",
+      "description": "「息子は知的に問題がありそうだから自立は難しい」とバリキャリの友人に言ったら、それに対する回答がすごく救われるものだった",
+      "link": "https://togetter.com/li/2727380",
+      "pubDate": "Sat, 01 Aug 2026 14:59:23 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「ギャンブルは期待値マイナスだからやらない」と言うと安心の象徴である「保険」も期待値はマイナスなので、期待値のみを持ち出してギャンブルはよくないと言っても意味がない",
+      "description": "「ギャンブルは期待値マイナスだからやらない」と言うと安心の象徴である「保険」も期待値はマイナスなので、期待値のみを持ち出してギャンブルはよくないと言っても意味がない",
+      "link": "https://togetter.com/li/2727378",
+      "pubDate": "Sat, 01 Aug 2026 14:56:26 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "隣の家から「ネットで印刷!!プリンットパック!!はやいんさつ!!やすいんさつ!!プリントパックしよ!!」と子供の叫ぶ歌声が聞こえてくる… 今日だけではなく、数週間前から、1日のうち何度か",
+      "description": "隣の家から「ネットで印刷!!プリンットパック!!はやいんさつ!!やすいんさつ!!プリントパックしよ!!」と子供の叫ぶ歌声が聞こえてくる… 今日だけではなく、数週間前から、1日のうち何度か",
+      "link": "https://togetter.com/li/2727377",
+      "pubDate": "Sat, 01 Aug 2026 14:55:49 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "今日ドパガキを社会的に大丈夫な言い方でどう言い換えるかの会議があった→「ショート動画世代」「せっかち」「好奇心旺盛」など色々な言い換えが提案される",
+      "description": "今日ドパガキを社会的に大丈夫な言い方でどう言い換えるかの会議があった→「ショート動画世代」「せっかち」「好奇心旺盛」など色々な言い換えが提案される",
+      "link": "https://togetter.com/li/2727373",
+      "pubDate": "Sat, 01 Aug 2026 14:46:29 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「イーテンローテンハーテンス」飲みたいものを聞いた子どもが突然知らない単語を唱えだした話、その呼び方カッコいいな",
+      "description": "「イーテンローテンハーテンス」飲みたいものを聞いた子どもが突然知らない単語を唱えだした話、その呼び方カッコいいな",
+      "link": "https://togetter.com/li/2727372",
+      "pubDate": "Sat, 01 Aug 2026 14:43:38 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "記録的な熱波でクソ暑いヨーロッパ、川の水位が下がりまくる →とんでもないモノが出現ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552980.html",
+      "pubDate": "2026-08-01T14:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b6b488f4-s.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2068話目「ヤマダの選択⑱」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/08/01/2787668/",
+      "pubDate": "Sat, 01 Aug 2026 05:00:48 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/2068a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "FIFA会長、トランプ一族との癒着となる“W杯事業売却案”の中止を発表！　欧州サッカー連盟のボイコットが想像以上に効いた模様",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10552978.html",
+      "pubDate": "2026-08-01T14:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/37bd9157.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "とんでもなくフットワーク重くて全然遊んでくれない友達、ついに遊んでくれる事になった理由がこれｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456056.html",
+      "pubDate": "2026-08-01T14:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/6/8616a630.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "サンワダイレクトの半固体電池内蔵＆最大8.5時間連続使用可能なハンディファン「400-TOY049」レビュー",
+      "description": "最高気温40度を超える日が続くと、熱中症を予防するためにも外出時には水分やハンディファンの携帯が欠かせません。サンワサプライが直営するオンラインショップのサンワダイレクトが、半固体電池内蔵のハンディファン「400-TOY049」を2026年5月19日に発売しました。サンワサプライからGIGAZINE夏のプレゼント企画に1台を提供してもらったので、実際に使ってその性能を確かめてみました。続きを読む.",
+      "link": "https://gigazine.net/news/20260801-sanwa-direct-handy-fan/",
+      "pubDate": "Sat, 01 Aug 2026 14:00:00 +0900",
       "thumbnail": ""
     },
     {
@@ -28,32 +301,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/3/130aee52.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "電車あるある「端っこの席に座っていたら長髪女性の髪が頭にかぶさる」に共感、それゆえに爆発する不満「まじでやめてほしい」",
-      "description": "電車あるある「端っこの席に座っていたら長髪女性の髪が頭にかぶさる」に共感、それゆえに爆発する不満「まじでやめてほしい」",
-      "link": "https://togetter.com/li/2727351",
-      "pubDate": "Sat, 01 Aug 2026 13:38:36 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "スーパーで前に会計した高齢女性がレジ脇の割り箸とスプーンをごっそり持っていこうとしたので「うわっ、取りすぎじゃね？」と言ってしまったところ、「9000円も買い物したんだ！」と答えて意気揚々かっさらっていった",
-      "description": "スーパーで前に会計した高齢女性がレジ脇の割り箸とスプーンをごっそり持っていこうとしたので「うわっ、取りすぎじゃね？」と言ってしまったところ、「9000円も買い物したんだ！」と答えて意気揚々かっさらっていった",
-      "link": "https://togetter.com/li/2727347",
-      "pubDate": "Sat, 01 Aug 2026 13:26:20 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -65,32 +312,6 @@
       "link": "http://blog.esuteru.com/archives/10552971.html",
       "pubDate": "2026-08-01T13:20:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/6207fd16-s.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "スマパチ「eF機動戦士ガンダムSEED」を導入したホールの姿がまるでガンダムの格納庫過ぎてカッコいい",
-      "description": "スマパチ「eF機動戦士ガンダムSEED」を導入したホールの姿がまるでガンダムの格納庫過ぎてカッコいい",
-      "link": "https://togetter.com/li/2727341",
-      "pubDate": "Sat, 01 Aug 2026 13:11:46 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "毎朝挨拶してたブラジル人のご家族、最近私がいないから心配して「どうした、会社でパワハラか？なんかあったらペルー人がいる。彼らは見つからずに色々片付けるの上手」と言われた",
-      "description": "毎朝挨拶してたブラジル人のご家族、最近私がいないから心配して「どうした、会社でパワハラか？なんかあったらペルー人がいる。彼らは見つからずに色々片付けるの上手」と言われた",
-      "link": "https://togetter.com/li/2727337",
-      "pubDate": "Sat, 01 Aug 2026 13:02:35 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -132,32 +353,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "能登に行った人達が口を揃えて言ってたのが「寒いのは我慢できる、暗いのも我慢できる。上下水道が死んでいてトイレがヤバかったのは耐えがたかった」人間はウンコ製造機だということを忘れてはならない",
-      "description": "能登に行った人達が口を揃えて言ってたのが「寒いのは我慢できる、暗いのも我慢できる。上下水道が死んでいてトイレがヤバかったのは耐えがたかった」人間はウンコ製造機だということを忘れてはならない",
-      "link": "https://togetter.com/li/2727335",
-      "pubDate": "Sat, 01 Aug 2026 12:57:34 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "EUではAI生成で本物と見分けがつきにくい画像や動画、音声を生成・加工した「ディープフェイク」を業務上利用する場合には、AIによるものだと分かる表示を義務付けるとした",
-      "description": "EUではAI生成で本物と見分けがつきにくい画像や動画、音声を生成・加工した「ディープフェイク」を業務上利用する場合には、AIによるものだと分かる表示を義務付けるとした",
-      "link": "https://togetter.com/li/2727332",
-      "pubDate": "Sat, 01 Aug 2026 12:49:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -171,32 +366,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/db629927.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「あと４つくらい足りなさそう」犬用ビキニの存在を知ったが副乳をカバーしてなくて不思議な気分になった、『異種族レビュアーズ』のけもの道を想起",
-      "description": "「あと４つくらい足りなさそう」犬用ビキニの存在を知ったが副乳をカバーしてなくて不思議な気分になった、『異種族レビュアーズ』のけもの道を想起",
-      "link": "https://togetter.com/li/2727328",
-      "pubDate": "Sat, 01 Aug 2026 12:28:25 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「幸福になってほしいと思わない」ヤンマガ編集部員が『みい山』について語る動画、どれもヤバめのコメントで物議を醸す",
-      "description": "「幸福になってほしいと思わない」ヤンマガ編集部員が『みい山』について語る動画、どれもヤバめのコメントで物議を醸す",
-      "link": "https://togetter.com/li/2727323",
-      "pubDate": "Sat, 01 Aug 2026 12:21:14 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -208,19 +377,6 @@
       "link": "http://blog.esuteru.com/archives/10552964.html",
       "pubDate": "2026-08-01T12:20:41+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6e0df07d.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "小さなサンプルを見て、一生使い続けるであろうフローリングの床材を選ぶのは中々に想像力が試される工程という話→「シミュレータが欲しい」などの他、業者とトラブルになるケースも",
-      "description": "小さなサンプルを見て、一生使い続けるであろうフローリングの床材を選ぶのは中々に想像力が試される工程という話→「シミュレータが欲しい」などの他、業者とトラブルになるケースも",
-      "link": "https://togetter.com/li/2727321",
-      "pubDate": "Sat, 01 Aug 2026 12:20:37 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -574,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fda34ce1.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "通常のバニーガールとは布が逆になるえちえち限界突破の『逆バニー』　→　ガチで商標登録した結果、特許庁からまさかの返信がｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552927.html",
-      "pubDate": "2026-08-01T08:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/9/390ca973.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -613,32 +756,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari47-1koma.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "一時的に変動してすぐ160円に戻ってしまったドル円、今朝再び1ドル157円に！　「単発では終わる動きではなく時間差で複数回の為替介入か」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552918.html",
-      "pubDate": "2026-08-01T07:30:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/0/c0155192.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】附属中男子生徒に下着など丸見えにして怒られた女子大生さん、改善されてなくて大学ブチギレ　→　「中学生からこう見えてます」のイラスト付きで再注意ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552910.html",
-      "pubDate": "2026-08-01T07:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68ec816d.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +767,6 @@
       "link": "https://jin115.com/archives/52456010.html",
       "pubDate": "2026-08-01T07:00:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/2/42d5f6fe.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ローソン本部がポケカの身内販売を粛清！今までは店員が買い占めていた……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552873.html",
-      "pubDate": "2026-08-01T06:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/1793828c.jpg"
     },
     {
       "siteId": "jin",
@@ -678,19 +782,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/080af51a-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ホロライブオタク「IOSYSはもう東方のイメージよりホロライブのイメージが強くなってきてない？(笑)」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552870.html",
-      "pubDate": "2026-08-01T05:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/7/472bc3b0-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +793,6 @@
       "link": "https://jin115.com/archives/52456007.html",
       "pubDate": "2026-08-01T05:00:48+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/1/c1ff7336.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ヤマザキパンのとある食パンが「1回食べると普通のに戻れない」と話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10552861.html",
-      "pubDate": "2026-08-01T04:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/7/b790ab1e.jpg"
     },
     {
       "siteId": "jin",
@@ -756,19 +834,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/a/5a97f487-s.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性配信者「みいちゃん」（自撮り投稿）→あまりにも再現度が高くて実写化を疑われるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455965.html",
-      "pubDate": "2026-07-31T23:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9dfa8b76.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -782,19 +847,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "職場のハーフパンツ論争について、勝俣州和さん「すね毛がキモイって、それは男性に対するセクハラにはならないんですか？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455991.html",
-      "pubDate": "2026-07-31T22:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/613f9eb2.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -806,19 +858,6 @@
       "link": "https://gigazine.net/news/20260731-gcc-ai-policy/",
       "pubDate": "Fri, 31 Jul 2026 22:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "飲食料品の消費税減税、自民党内から反対の声が続出",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52455979.html",
-      "pubDate": "2026-07-31T21:30:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/647f2bb7.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1029,32 +1068,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "OpenAIがGPT-5.6のハーネスを改善してARC-AGI-3のスコアを3倍に向上させることに成功、モデル自体の性能だけでなくハーネスも重要であることを示す",
-      "description": "AIの知能をルール不明のゲームで測定するというベンチマークが「ARC-AGI-3」です。このARC-AGI-3におけるスコアを3倍にした方法を、OpenAIが解説しています。続きを読む...",
-      "link": "https://gigazine.net/news/20260731-how-enabling-two-settings-tripled-arc-agi-3-benchmark/",
-      "pubDate": "Fri, 31 Jul 2026 12:06:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "海の王者「シャチ」でさえ鳴き声を聞いただけで逃げ出す海の動物とは？",
-      "description": "シャチは非常に賢い上にどう猛な「海の王者」とも呼ばれる頂点捕食者であり、数々の映画で恐れられているホホジロザメすらシャチの獲物となってしまいます。一見すると海には敵なしに思えるシャチですが、実はシャチでさえ鳴き声を聞いただけで逃げ出す動物が存在することがわかっています。続きを読む...",
-      "link": "https://gigazine.net/news/20260731-orca-threat-long-finned-pilot-whale/",
-      "pubDate": "Fri, 31 Jul 2026 12:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1248,19 +1261,6 @@
       "link": "https://rocketnews24.com/2026/07/30/2786875/",
       "pubDate": "Thu, 30 Jul 2026 07:00:47 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/62d01364-fc51-43fb-b400-025f4abdaa50.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2066話目「ヤマダの選択⑯」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/07/30/2786231/",
-      "pubDate": "Thu, 30 Jul 2026 05:00:45 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/2066a.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-01T04:55:27.239690",
+  "updatedAt": "2026-08-01T07:31:14.922341",
   "sites": [
     {
       "id": "hachima",
