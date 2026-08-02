@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ふしだら】『ガルパン』の西住しほさん、フィギュアで脱がされることがほぼ確定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553438.html",
+      "pubDate": "2026-08-03T06:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/a/da283007.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "世界で最も高価なスパイス「サフラン」が数千年たっても安くならない理由",
+      "description": "パエリアやブイヤベースを鮮やかに彩ったり独特の風味を加えたりするのに使われるサフランは、「赤い金」とも呼ばれる世界で最も高価なスパイスです。突然変異で生まれた「種子を作れない花」を人間が数千年にわたって増やしてきたというサフランクロッカスの特異な生態と、高価格が続く理由について、教育系YouTubeチャンネルのTED-Edがアニメーションで解説しています。続きを読む...",
+      "link": "https://gigazine.net/news/20260803-saffron-stays-expensive/",
+      "pubDate": "Mon, 03 Aug 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -572,19 +598,6 @@
       "link": "https://jin115.com/archives/52456116.html",
       "pubDate": "2026-08-02T18:00:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/8/88485408-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "れいわ新選組・山本ジョージ新代表「衆院選惨敗の原因は、れいわへの攻撃と中傷動画のせいです！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553368.html",
-      "pubDate": "2026-08-02T18:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d32a6d51.png"
     },
     {
       "siteId": "rocketnews",
@@ -1172,19 +1185,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "コンパイラ「GCC」の開発チームがAI生成コードの受け入れポリシーを公開、15行以上のAI生成コードは受け入れ拒否",
-      "description": "AIによるコード生成が一般的になりつつありますが、オープンソースプロジェクトでは「AI生成のプルリクエストが大量に送りつけられてメンテナーが疲弊する」という事態も発生しています。新たにオープンソースのコンパイラー「GNU Compiler Collection(GCC)」の開発チームがAI生成コードの受け入れポリシーを公開しました。続きを読む...",
-      "link": "https://gigazine.net/news/20260731-gcc-ai-policy/",
-      "pubDate": "Fri, 31 Jul 2026 22:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1698,6 +1698,32 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「䍺」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「䍺」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「䍺」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3734439",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "RADWIMPS、書き下ろしの新曲が映画『汝、星のごとく』主題歌に決定",
+      "description": "RADWIMPSの書き下ろしの新曲「夕星-ゆうづつ-」が、2026年10月9日(金)に全国公開が決定している映画『汝、星のごとく』の主題歌に決定した。 映画『汝、星のごとく』は、現在シリーズ累計170万部を超えるミリオン [&#8230;]",
+      "link": "https://getnews.jp/archives/3734438",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "ロメロ監督が描く“顔のない男”の復讐劇　サスペンス・ホラー『URAMI ～怨み～』日本初ブルーレイ化、特典たっぷり［ホラー通信］",
       "description": "『ゾンビ』『死霊のえじき』のジョージ・A・ロメロ監督が2000年に手掛けたサスペンス・ホラー『URAMI ～怨み～』が4Kリマスターされ、日本初ブルーレイ化。８月21日(金)より「ナイル大商店」とAmazonにて独占販売 [&#8230;]",
       "link": "https://getnews.jp/archives/3734414",
@@ -1794,35 +1820,9 @@
       "link": "https://getnews.jp/archives/3734400",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "クリープハイプ、魚喃キリコの短編漫画集『痛々しいラヴ』で構築したMMV公開",
-      "description": "4人組ロックバンド・クリープハイプの新作EP『仮のまま定着したような愛情で』に収録されている「痛々しいラヴ」。 尾崎世界観が親交のあった漫画家・魚喃キリコへの追悼の思いを込めて書き下ろした一曲。1997年に発売された魚喃 [&#8230;]",
-      "link": "https://getnews.jp/archives/3734420",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "コーヒー党の私ですが、セブンカフェの「アイスミルクティー」にハマってます！ 3つのご褒美アレンジも紹介",
-      "description": "「夏でも黙ってホットのブラックコーヒー」な私ですが、最近のミルクティーブームに乗ってなんとな〜く手に取ったセブンイレブンの「セブンカフェ ミルクティー」にまさかのどハマりしちゃったんですよ。 気づけばセブンイレブンに立ち [&#8230;]",
-      "link": "https://getnews.jp/archives/3734421",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-02T20:29:24.853839",
+  "updatedAt": "2026-08-02T21:29:01.848285",
   "sites": [
     {
       "id": "hachima",
