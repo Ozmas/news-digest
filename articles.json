@@ -2,6 +2,175 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "石破前首相「消費税減税で円安になれば苦しむのは誰だ？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456104.html",
+      "pubDate": "2026-08-02T09:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9d37b206.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【岐阜】気づけば5時間滞在していた！ 日本で唯一、航空と宇宙を一緒に学べる「そらはく」に行ってみたら、想像以上に楽しかった",
+      "description": "大人800円、中学生以下でここまで遊べるの？ 岐阜県各務原市にある「岐阜かかみがはら航空宇宙博物館」は、「詳しくなくても楽しい」「一日遊べる」と地元では話題の人気スポットだ。 私（夏野）も子どもの頃に一度だけ訪れたことが [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/02/2786806/",
+      "pubDate": "Sun, 02 Aug 2026 00:00:24 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/LINE_ALBUM_20260727_260729_103.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "5ちゃんねるで、ヤマザキの災害時対応について「その無料パンの費用は回りまわってお前らパン買ってる奴が負担することになるんやで」という投稿を発見→間接的な募金みたいなもの",
+      "description": "5ちゃんねるで、ヤマザキの災害時対応について「その無料パンの費用は回りまわってお前らパン買ってる奴が負担することになるんやで」という投稿を発見→間接的な募金みたいなもの",
+      "link": "https://togetter.com/li/2727684",
+      "pubDate": "Sun, 02 Aug 2026 08:44:15 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「ナンカアル！ナンカアル！」1歳の娘が耳になにかあるというので見てみたが、パッと見は何もない… そこで極細耳かきを使ってみたら恐ろしいものが出てきた話… その後は耳鼻科へ",
+      "description": "「ナンカアル！ナンカアル！」1歳の娘が耳になにかあるというので見てみたが、パッと見は何もない… そこで極細耳かきを使ってみたら恐ろしいものが出てきた話… その後は耳鼻科へ",
+      "link": "https://togetter.com/li/2727682",
+      "pubDate": "Sun, 02 Aug 2026 08:41:59 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "銭湯の脱衣所でスマホをいじるのはどうなの？　「マナー違反」「仕事の確認などでスマホを触ってしまう」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553273.html",
+      "pubDate": "2026-08-02T08:30:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/d/1de4fb01-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「再現性が難しい行為で恋に落ちた話」の引用にある、学生時代の教科書がずぶ濡れになった怪談話のような投稿にツッコミが入る→「怖い話」の引用先間違いではないか？",
+      "description": "「再現性が難しい行為で恋に落ちた話」の引用にある、学生時代の教科書がずぶ濡れになった怪談話のような投稿にツッコミが入る→「怖い話」の引用先間違いではないか？",
+      "link": "https://togetter.com/li/2727678",
+      "pubDate": "Sun, 02 Aug 2026 08:14:38 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "これ以上ないエッグスタンドを考えついてしまった「えっぐいわぁ」「遠くに飛ばしてしまいそう」",
+      "description": "これ以上ないエッグスタンドを考えついてしまった「えっぐいわぁ」「遠くに飛ばしてしまいそう」",
+      "link": "https://togetter.com/li/2727677",
+      "pubDate": "Sun, 02 Aug 2026 08:08:55 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "池袋に迷彩柄の助走キックおじさんが現る？　「明らかに狙われて蹴られました😭」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553260.html",
+      "pubDate": "2026-08-02T08:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/06fe95c7.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "その動作やめて！ 急に不穏になる隣りの女子！　隣りの席の子の様子がおかしい第48回「続・予定」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/02/2782691/",
+      "pubDate": "Sat, 01 Aug 2026 23:00:40 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari48-1koma.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気配信者「全財産の9万円を賭けてバイナリーオプションで勝負！勝ったら20万円！」→結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456095.html",
+      "pubDate": "2026-08-02T08:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96e90ea1.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "植物は地球上であとどれくらい生き残れるのか？",
+      "description": "植物は地球上の動物の生活を支える重要な存在ですが、気温等の変化の影響を受けて絶滅してしまうかもしれません。その絶滅は一体いつ起こるのか、研究者らが予測しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260802-plant-maximum-lifetime/",
+      "pubDate": "Sun, 02 Aug 2026 08:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "美容院でトリートメントを断ったのに会計に入っていたので「いやでもお客さま、勧めたら是非って仰ったので」と軽く揉めてしまい、店長らしき人が来た→録音を出したら謝罪された",
+      "description": "美容院でトリートメントを断ったのに会計に入っていたので「いやでもお客さま、勧めたら是非って仰ったので」と軽く揉めてしまい、店長らしき人が来た→録音を出したら謝罪された",
+      "link": "https://togetter.com/li/2727675",
+      "pubDate": "Sun, 02 Aug 2026 07:55:09 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ペットボトルに入った宝焼酎の烏龍割りが話題に→「ペットボトルで酒は珍しい」「間違えて飲んでしまいそう」「ラベルを剥がして仕事中に飲めるのでは？」などの声",
+      "description": "ペットボトルに入った宝焼酎の烏龍割りが話題に→「ペットボトルで酒は珍しい」「間違えて飲んでしまいそう」「ラベルを剥がして仕事中に飲めるのでは？」などの声",
+      "link": "https://togetter.com/li/2727672",
+      "pubDate": "Sun, 02 Aug 2026 07:36:53 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -236,19 +405,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2166cff-s.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "誤った作業店に少年（小中学生）届いちゃってヤバい→「輸送経路修正（裏ルート）」「何故こんな事に？」",
-      "description": "誤った作業店に少年（小中学生）届いちゃってヤバい→「輸送経路修正（裏ルート）」「何故こんな事に？」",
-      "link": "https://togetter.com/li/2727602",
-      "pubDate": "Sun, 02 Aug 2026 00:53:31 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -260,19 +416,6 @@
       "link": "http://blog.esuteru.com/archives/10553121.html",
       "pubDate": "2026-08-02T00:30:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bd27b6ea.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「ウチの嫁は臭くないけど“独特の匂い”があるからそれで浮気を見破った」→あの時の「ニオイ」に関するポストから、悲しすぎる探偵の体験談が飛び出す",
-      "description": "「ウチの嫁は臭くないけど“独特の匂い”があるからそれで浮気を見破った」→あの時の「ニオイ」に関するポストから、悲しすぎる探偵の体験談が飛び出す",
-      "link": "https://togetter.com/li/2727585",
-      "pubDate": "Sun, 02 Aug 2026 00:07:06 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -314,32 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/051861de.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「すみません、バナーの画像の私の顔が違うかもしれませんw」→イベントの告知バナーなどで、AI生成を使った結果「別人の写真」に変換されちゃうリスクがあるという話",
-      "description": "「すみません、バナーの画像の私の顔が違うかもしれませんw」→イベントの告知バナーなどで、AI生成を使った結果「別人の写真」に変換されちゃうリスクがあるという話",
-      "link": "https://togetter.com/li/2727568",
-      "pubDate": "Sat, 01 Aug 2026 23:13:55 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『みいちゃんと山田さん』の作者、昔夜の仕事をしていた人はビジュアルも磨いて就活成功していい男もゲットという話を描いていて「うわっ…」ってなった",
-      "description": "『みいちゃんと山田さん』の作者、昔夜の仕事をしていた人はビジュアルも磨いて就活成功していい男もゲットという話を描いていて「うわっ…」ってなった",
-      "link": "https://togetter.com/li/2727561",
-      "pubDate": "Sat, 01 Aug 2026 23:05:29 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -363,32 +480,6 @@
       "description": "博士号を取得して大学や研究機関の職を得たいと考えている研究者にとって、執筆した研究論文は重要な自己アピールの材料となります。実際に著名な学者を「インフルエンサー」として採用し、Twitter(現X)で求職者の研究論文を紹介させた実験により、SNSで研究論文が著名な学者に紹介されることによる影響が明らかになりました。続きを読む...",
       "link": "https://gigazine.net/news/20260801-sns-promotion-paper-academic-hiring/",
       "pubDate": "Sat, 01 Aug 2026 23:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "高校2年生の息子がリビングのテーブルで課題をやっていると思っていたら寝ていた…器用な寝方が話題に→「顔がなくて一瞬ビビった」「起きた時、顔面ぶつけるんだろなぁ」",
-      "description": "高校2年生の息子がリビングのテーブルで課題をやっていると思っていたら寝ていた…器用な寝方が話題に→「顔がなくて一瞬ビビった」「起きた時、顔面ぶつけるんだろなぁ」",
-      "link": "https://togetter.com/li/2727557",
-      "pubDate": "Sat, 01 Aug 2026 22:59:59 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "モーニングを食べていると、横の席の女児がめっちゃ見てきたので「フン、よく見とけよガキ」と思いながら、出来る大人の姿をみせつけた話",
-      "description": "モーニングを食べていると、横の席の女児がめっちゃ見てきたので「フン、よく見とけよガキ」と思いながら、出来る大人の姿をみせつけた話",
-      "link": "https://togetter.com/li/2727547",
-      "pubDate": "Sat, 01 Aug 2026 22:37:12 +0900",
       "thumbnail": ""
     },
     {
@@ -548,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17d380ca.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】『ステラーブレイド』公式さん、バリバリ生成AIを使ったMVを公開し大炎上してしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553180.html",
-      "pubDate": "2026-08-01T20:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/a/3a00a903.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -572,19 +650,6 @@
       "link": "https://gigazine.net/news/20260801-soundcore-c50i-eevee/",
       "pubDate": "Sat, 01 Aug 2026 20:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "日本橋のカードショップ、ポケカの未開封BOXを超大量買い取り「転売ヤーが消えない理由」「普通に楽しみたい人が買えない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553179.html",
-      "pubDate": "2026-08-01T19:30:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/e/eea8a724.jpg"
     },
     {
       "siteId": "jin",
@@ -782,19 +847,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "自民党議員「熊本地震の復興にどれだけお金が必要かわからないんだから消費税減税はやめるべきだ！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456050.html",
-      "pubDate": "2026-08-01T13:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/e/fe3e0467.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -806,19 +858,6 @@
       "link": "https://gigazine.net/news/20260801-sony-enough-memory-meet-ps5-sales-targets/",
       "pubDate": "Sat, 01 Aug 2026 13:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "幕末志士 坂本・加藤純一による『ニコニコ老人会RUST』のメンバー、マジでヤバイ　この人達絡ませちゃって大丈夫かよ！？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456048.html",
-      "pubDate": "2026-08-01T12:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d230775b-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1055,19 +1094,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/とぽすサムネ.jpg"
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Googleが「AIを使ってChromeのバグを大量修正した方法」を解説",
-      "description": "Googleが自社製ウェブブラウザ「Chrome」のバグをAIを用いて発見・修正するシステムについて解説しています。AIの高性能化に伴って、Chromeのバグ修正数は急増しているそうです。続きを読む...",
-      "link": "https://gigazine.net/news/20260731-chrome-ai-fix/",
-      "pubDate": "Fri, 31 Jul 2026 17:57:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1183,32 +1209,6 @@
       "link": "https://rocketnews24.com/2026/07/31/2759647/",
       "pubDate": "Fri, 31 Jul 2026 01:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/05/9d743f84-95bc-44bf-8ab8-e0db20c3172b.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "メロジョイを超えた!? スクイーズマニアが100均で見つけた超気持ちいいスクイーズ『キラキラボール』",
-      "description": "ムニムニ、モチモチ、トロトロとした不思議な触り心地が話題となり、いま大ブームとなっているスクイーズ。 『メロジョイ』を中心に入手困難となっている商品も多く、読者の中には「もっと手軽に試してみたい」と考えている人も多いので [&#8230;]",
-      "link": "https://rocketnews24.com/2026/07/31/2786298/",
-      "pubDate": "Fri, 31 Jul 2026 00:00:48 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/kirakira-ball-002.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "目が見えなくなって気づいた「日比谷駅にある謎の10メートル」について / 視覚障害者の日常",
-      "description": "通勤や通学の途中で、「なんでだろう？」と気になっている場所はないだろうか？ 私の場合、日比谷駅の地下通路にある点字ブロックがそうだった。 目が見えなくなった今では「これはなんだろう？」が日常のほとんどなのだが、見えなくて [&#8230;]",
-      "link": "https://rocketnews24.com/2026/07/31/2784211/",
-      "pubDate": "Thu, 30 Jul 2026 23:00:48 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/点字-アイキャッチ-通学込み.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-01T22:31:16.629080",
+  "updatedAt": "2026-08-02T00:01:47.723977",
   "sites": [
     {
       "id": "hachima",
