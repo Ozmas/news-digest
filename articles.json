@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "被災中にメルカリの出品物が売れてしまったので、キャンセルをお願いしたら、こんなメッセージが返ってきて枕を濡らした「人の優しさと大人の配慮の煮こごり」「この人にも購入者さんに幸あれ」",
+      "description": "被災中にメルカリの出品物が売れてしまったので、キャンセルをお願いしたら、こんなメッセージが返ってきて枕を濡らした「人の優しさと大人の配慮の煮こごり」「この人にも購入者さんに幸あれ」",
+      "link": "https://togetter.com/li/2728289",
+      "pubDate": "Mon, 03 Aug 2026 07:28:39 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "今朝祖母が救急車で病院に搬送され、それを帰ってきた長女に伝えたら、「そうなん？しんじゃってるんじゃない？」と言われた…ショックすぎて瞬発的に怒鳴って目の前で泣いてしまった",
+      "description": "今朝祖母が救急車で病院に搬送され、それを帰ってきた長女に伝えたら、「そうなん？しんじゃってるんじゃない？」と言われた…ショックすぎて瞬発的に怒鳴って目の前で泣いてしまった",
+      "link": "https://togetter.com/li/2728288",
+      "pubDate": "Mon, 03 Aug 2026 07:27:21 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "体型を隠すようなブカブカの服ばかり着ていると、いつの間にかどんどん太って気付いた時には大変な事になっている「ウエストがゴムの服が悪です」",
+      "description": "体型を隠すようなブカブカの服ばかり着ていると、いつの間にかどんどん太って気付いた時には大変な事になっている「ウエストがゴムの服が悪です」",
+      "link": "https://togetter.com/li/2728284",
+      "pubDate": "Mon, 03 Aug 2026 07:14:34 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "チケット2枚余らせたまま長岡花火に来て、たまたま隣に車を停めた2人組と話してたら、チケットなしで何とかなると思ったが厳しいというので、正規の価格と同じ値段で譲った話",
+      "description": "チケット2枚余らせたまま長岡花火に来て、たまたま隣に車を停めた2人組と話してたら、チケットなしで何とかなると思ったが厳しいというので、正規の価格と同じ値段で譲った話",
+      "link": "https://togetter.com/li/2728282",
+      "pubDate": "Mon, 03 Aug 2026 07:13:14 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "0ではない！ 相対的にオタクに優しいギャル！　四コマサボタージュFB第56回「優しめ」",
+      "description": "どうやら流行は廃れるとまたある程度期間を経て再度流行るなんてサイクルがあるらしいのだけど、いつかまたヤマンバメイクが流行したりするのかな。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/03/2784659/",
+      "pubDate": "Sun, 02 Aug 2026 22:00:52 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-56.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【アカン】アニメ『鉄鍋のジャン』、マジックマッシュルームを料理に入れる狂気回が放送されるもアニメ側が必死にコンプラ的言い訳　→　原作者自らが嘘をバラしてしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553481.html",
+      "pubDate": "2026-08-03T07:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c980b8a6.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「リビングのエアコンの効きが悪い。なんでだろ？」 → 最悪の原因が判明ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456147.html",
+      "pubDate": "2026-08-03T07:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/6/b64e26d8-s.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "潜水艦が初めて地球一周を達成した「サンドブラスト作戦」とは？",
+      "description": "1960年、アメリカ海軍の原子力潜水艦「トライトン(USS Triton)」が、世界で初めて地球を完全に水中航行で一周する「サンドブラスト作戦」を実施しました。潜水艦戦の歴史において画期的な演習として知られるサンドブラスト作戦の詳細とその意義について、アメリカの科学雑誌「Popular Mechanics」がまとめています。続きを読む...",
+      "link": "https://gigazine.net/news/20260803-operation-sandblast/",
+      "pubDate": "Mon, 03 Aug 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ケバブ屋にて…俺「量を少なめでお願いします」店の人「はい」→1分後、店の人「はい！これ大盛りサービスね😊」俺「ありがとうございます😅」",
+      "description": "ケバブ屋にて…俺「量を少なめでお願いします」店の人「はい」→1分後、店の人「はい！これ大盛りサービスね😊」俺「ありがとうございます😅」",
+      "link": "https://togetter.com/li/2728272",
+      "pubDate": "Mon, 03 Aug 2026 06:42:51 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -327,19 +444,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "自動車整備士だが、客が「中古で軽トラ買ったんだけどさ、なんか足元がフワフワするんだよ」というので見てみたら、察し… その後、フロアマットをめくって見せたら、客「うわぁ！何これ！」",
-      "description": "自動車整備士だが、客が「中古で軽トラ買ったんだけどさ、なんか足元がフワフワするんだよ」というので見てみたら、察し… その後、フロアマットをめくって見せたら、客「うわぁ！何これ！」",
-      "link": "https://togetter.com/li/2728109",
-      "pubDate": "Sun, 02 Aug 2026 21:41:22 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -379,32 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bb6b22c9.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "梅田での飲み会のあと、新大阪の新幹線最終に間に合わせようとタクシーを拾いそのまま爆睡… はっと気付くとまだ車中で、まったく覚えのないところを走っていた",
-      "description": "梅田での飲み会のあと、新大阪の新幹線最終に間に合わせようとタクシーを拾いそのまま爆睡… はっと気付くとまだ車中で、まったく覚えのないところを走っていた",
-      "link": "https://togetter.com/li/2728086",
-      "pubDate": "Sun, 02 Aug 2026 20:57:41 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "高校の部活の遠征時の事故が問題になった経緯もあり、大型バス2台で日帰りの部活遠征代26万円が話題に→様々な意見が集まる「部活なんてやらなくていい」という声も",
-      "description": "高校の部活の遠征時の事故が問題になった経緯もあり、大型バス2台で日帰りの部活遠征代26万円が話題に→様々な意見が集まる「部活なんてやらなくていい」という声も",
-      "link": "https://togetter.com/li/2728079",
-      "pubDate": "Sun, 02 Aug 2026 20:48:48 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -431,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/d/2d61f4ac.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "なんか親と話が合わないと思ったら「院進」を「妊娠」と聞き間違えられていたことが判明… 彼女すらいないのにどんな聞き間違いだよ",
-      "description": "なんか親と話が合わないと思ったら「院進」を「妊娠」と聞き間違えられていたことが判明… 彼女すらいないのにどんな聞き間違いだよ",
-      "link": "https://togetter.com/li/2728051",
-      "pubDate": "Sun, 02 Aug 2026 20:00:50 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -468,19 +533,6 @@
       "link": "https://jin115.com/archives/52456139.html",
       "pubDate": "2026-08-02T20:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/21d890f5.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「秋田書店はブレーキのない山賊のようだった」漫画『鉄鍋のジャン』作者がマジックマッシュルーム回について説明、編集に提案した所「面白いじゃん！」と言われ採用されたそう",
-      "description": "「秋田書店はブレーキのない山賊のようだった」漫画『鉄鍋のジャン』作者がマジックマッシュルーム回について説明、編集に提案した所「面白いじゃん！」と言われ採用されたそう",
-      "link": "https://togetter.com/li/2728049",
-      "pubDate": "Sun, 02 Aug 2026 19:52:37 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -572,19 +624,6 @@
       "link": "http://blog.esuteru.com/archives/10553387.html",
       "pubDate": "2026-08-02T18:40:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a38da326.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ガスト公式X、なぜかひろゆきの◯◯を使った動画を投稿 →ひろゆき本人の皮肉った反応はこちらｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553385.html",
-      "pubDate": "2026-08-02T18:20:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/8/e8517b7e.jpg"
     },
     {
       "siteId": "jin",
@@ -754,19 +793,6 @@
       "link": "https://jin115.com/archives/52456078.html",
       "pubDate": "2026-08-02T12:40:25+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/b/2b9cdb24.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "8月発売の注目漫画・ラノベまとめ！ヤニねこ、メイドインアビス、ブラッククローバー、キングダム、平成敗残兵すみれちゃんなど！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456098.html",
-      "pubDate": "2026-08-02T12:20:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/7/e70d9ad1.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1156,32 +1182,6 @@
       "description": "メンフクロウは濃い茶色から鮮やかな白色までさまざまな色の羽毛を有する個体がいます。新たな研究で、メンフクロウたちは自分自身の体の色に合わせた狩りを行っていることが明らかになりました。続きを読む...",
       "link": "https://gigazine.net/news/20260801-barn-owl-color-hunt-differently/",
       "pubDate": "Sat, 01 Aug 2026 08:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "今だ、代われ！ 隙をついて現れた隣りの女子！　隣りの席の子の様子がおかしい第47回「予定」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/08/01/2782690/",
-      "pubDate": "Fri, 31 Jul 2026 23:00:00 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari47-1koma.png"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "メトロポリタン美術館に所蔵される歴史的遺物がどこでいつ作られたかを推測して地図をクリックするゲーム「Anthropeum」",
-      "description": "メトロポリタン美術館に所蔵される歴史的な遺物がいつどこで作られたものかを推測するゲーム「Anthropeum」が公開されています。出題される遺物は全部で50万点以上で、日替わりで10問が用意されており、画面上に表示される遺物の見た目を基に制作年代と国・地域を推理する必要があります。続きを読む...",
-      "link": "https://gigazine.net/news/20260731-anthropeum/",
-      "pubDate": "Fri, 31 Jul 2026 23:00:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-02T21:29:01.848285",
+  "updatedAt": "2026-08-02T22:31:46.446116",
   "sites": [
     {
       "id": "hachima",
