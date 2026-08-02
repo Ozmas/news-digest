@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "共産党員「ここ数日、日本共産党への誹謗中傷が酷すぎませんか？」「罵詈雑言をぶつけてもアメリカに追従する属国政治が変わることはありません」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553407.html",
+      "pubDate": "2026-08-02T21:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/b/7b325638.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "元大手採用責任者「これ多分心理学的な要素とかあんまないんだけど○○する男子、外資コンサル絶対落ちるよ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456125.html",
+      "pubDate": "2026-08-02T21:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/cecde7dd-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "東京都「ゴミのポイ捨て辞めさせて持ち帰らせてえな…そうだ！」→とんでもないモノを配布へｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553403.html",
+      "pubDate": "2026-08-02T21:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bb6b22c9.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "梅田での飲み会のあと、新大阪の新幹線最終に間に合わせようとタクシーを拾いそのまま爆睡… はっと気付くとまだ車中で、まったく覚えのないところを走っていた",
+      "description": "梅田での飲み会のあと、新大阪の新幹線最終に間に合わせようとタクシーを拾いそのまま爆睡… はっと気付くとまだ車中で、まったく覚えのないところを走っていた",
+      "link": "https://togetter.com/li/2728086",
+      "pubDate": "Sun, 02 Aug 2026 20:57:41 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "高校の部活の遠征時の事故が問題になった経緯もあり、大型バス2台で日帰りの部活遠征代26万円が話題に→様々な意見が集まる「部活なんてやらなくていい」という声も",
+      "description": "高校の部活の遠征時の事故が問題になった経緯もあり、大型バス2台で日帰りの部活遠征代26万円が話題に→様々な意見が集まる「部活なんてやらなくていい」という声も",
+      "link": "https://togetter.com/li/2728079",
+      "pubDate": "Sun, 02 Aug 2026 20:48:48 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "にじさんじVtuber「Vtuberが歌わないから埋もれてる名曲、募集して広めます！」→大炎上",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456143.html",
+      "pubDate": "2026-08-02T20:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b12bde0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "人気VTuberさん「Vtuberでこの曲歌ってる人、見たことないな… そんな理由だけで埋もれてしまう名曲を、この世から減らしたい」 → 炎上してしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553402.html",
+      "pubDate": "2026-08-02T20:30:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/d/2d61f4ac.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -223,19 +314,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a38da326.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "声優・村瀬歩さんが、ファンに声をかけられた際、その人の友人から盗撮されていたことにショック… ご本人からは「悪意あってのものじゃなかったと信じているのでこれ見たら削除してもらえると」",
-      "description": "声優・村瀬歩さんが、ファンに声をかけられた際、その人の友人から盗撮されていたことにショック… ご本人からは「悪意あってのものじゃなかったと信じているのでこれ見たら削除してもらえると」",
-      "link": "https://togetter.com/li/2728011",
-      "pubDate": "Sun, 02 Aug 2026 18:29:34 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -247,19 +325,6 @@
       "link": "http://blog.esuteru.com/archives/10553385.html",
       "pubDate": "2026-08-02T18:20:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/8/e8517b7e.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「喪服で来たら化けて出てやる！」祖母が亡くなり近々葬儀に行くが、祖母の遺言が「私の葬式は男はアロハ女はムームーで参列する事、喪服は許さん」というエッジの効いたやつだった",
-      "description": "「喪服で来たら化けて出てやる！」祖母が亡くなり近々葬儀に行くが、祖母の遺言が「私の葬式は男はアロハ女はムームーで参列する事、喪服は許さん」というエッジの効いたやつだった",
-      "link": "https://togetter.com/li/2728006",
-      "pubDate": "Sun, 02 Aug 2026 18:07:27 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -600,32 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/7/e70d9ad1.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "運営会社廃業で即サ終したスマホゲー『文豪ストレイドッグス 迷ヰ犬怪奇譚』まさかの最終日が定時退社ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553298.html",
-      "pubDate": "2026-08-02T12:20:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/5/e59e9ab8.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "紳士のゲーム『ブラウンダスト2』コミケグッズがヤバすぎ！「垂れ乳缶バッジ」「立体枕カバー」ってなんだよｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553295.html",
-      "pubDate": "2026-08-02T12:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0f0396de.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +728,6 @@
       "link": "https://rocketnews24.com/2026/08/02/2788056/",
       "pubDate": "Sun, 02 Aug 2026 02:39:37 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/Amazon-×-RN24.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "36歳男性が歩行中、自転車とぶつかりそうになる → 自転車に乗っていた男性を撮影しながらフルボッコしたとして逮捕される 「私がけがをしたので治療費が欲しかった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553294.html",
-      "pubDate": "2026-08-02T11:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/d/cdf677e7.jpg"
     },
     {
       "siteId": "jin",
@@ -795,19 +821,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/3/33a247e7.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "石破前首相「消費税減税で円安になれば苦しむのは誰だ？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456104.html",
-      "pubDate": "2026-08-02T09:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9d37b206.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -832,19 +845,6 @@
       "link": "https://rocketnews24.com/2026/08/02/2782691/",
       "pubDate": "Sat, 01 Aug 2026 23:00:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari48-1koma.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気配信者「全財産の9万円を賭けてバイナリーオプションで勝負！勝ったら20万円！」→結果ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456095.html",
-      "pubDate": "2026-08-02T08:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96e90ea1.png"
     },
     {
       "siteId": "gigazine",
@@ -1698,6 +1698,58 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "歩いて歩いて、生き残れるのはひとりだけ　『ロングウォーク』８月21日よりPrime Videoにて見放題独占配信［ホラー通信］",
+      "description": "今年６月に劇場公開されたスティーブン・キング原作のスリラー『ロングウォーク』が、早くも８月21日(金)よりPrime Videoにて見放題独占配信されることが決定した。 戦争によって国家が分断された近未来のアメリカを舞台 [&#8230;]",
+      "link": "https://getnews.jp/archives/3734400",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "クリープハイプ、魚喃キリコの短編漫画集『痛々しいラヴ』で構築したMMV公開",
+      "description": "4人組ロックバンド・クリープハイプの新作EP『仮のまま定着したような愛情で』に収録されている「痛々しいラヴ」。 尾崎世界観が親交のあった漫画家・魚喃キリコへの追悼の思いを込めて書き下ろした一曲。1997年に発売された魚喃 [&#8230;]",
+      "link": "https://getnews.jp/archives/3734420",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "コーヒー党の私ですが、セブンカフェの「アイスミルクティー」にハマってます！ 3つのご褒美アレンジも紹介",
+      "description": "「夏でも黙ってホットのブラックコーヒー」な私ですが、最近のミルクティーブームに乗ってなんとな〜く手に取ったセブンイレブンの「セブンカフェ ミルクティー」にまさかのどハマりしちゃったんですよ。 気づけばセブンイレブンに立ち [&#8230;]",
+      "link": "https://getnews.jp/archives/3734421",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "諦めていたカーペットのシミ。レイコップなら60℃の温水でしっかり落とします",
+      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  大きなカーペットのシミは、洗えないからと諦めがち。60°Cの温水で汚れを浮かせ、水ごと吸い取るレイコップの「加熱式 カーペットクリーナー  [&#8230;]",
+      "link": "https://getnews.jp/archives/3734422",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "マツキヨ×資生堂の「肌グミ」が朝の定番に。泡立てずになでるだけだから、洗顔をサボらなくなりました",
       "description": "朝も洗顔したほうがいいとは思うものの、バタバタしがちな朝にしっかり泡立てて洗うのは、ちょっと大変。 疲れている日は面倒に感じて、ついサボってしまうことも……。 そんなとき、マツキヨで見つけたのが、グミのようにぷるぷるした [&#8230;]",
       "link": "https://getnews.jp/archives/3734411",
@@ -1768,61 +1820,9 @@
       "link": "https://getnews.jp/archives/3734406",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "日傘が使えない時は「フーディタオル」で解決！登山やフェスでも、紫外線対策と涼しく快適が叶うんです",
-      "description": "※本記事は2025年9月6日に公開された記事の再編集です。 Text and Photographed by きむ（ら） いよいよ夏のピークがやってきました。最近は30℃を超える日が続くなど、外に出るだけでひと苦労ですよ [&#8230;]",
-      "link": "https://getnews.jp/archives/3734409",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "ボートに接近してくるのはイカ？・・違う、アザラシの赤ちゃんだ！！【海外・動画】",
-      "description": "沖合をボットで航行していた撮影者さん。 そこに、まさかのお客さんがやって来たのです！ 何かが近付いてきた 動画は、グリーンランドの沖合を撮影者さんがボートで航行していた時に撮影されたもの。 船を停めていたところ、なにかが [&#8230;]",
-      "link": "https://getnews.jp/archives/3734404",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "夏の買い物は「自立する保冷バッグ」が大優勝。Afternoon Teaで見つけたのは、お寿司のパックが傾かず車の助手席でも安定するエコバッグでした",
-      "description": "買い物終わりの荷物の詰め替えって、意外と手間取りがちです。お弁当やお惣菜はできるだけ傾けたくないし、お肉やお魚に至ってはパックが斜めになるとドリップが漏れてしまわないかヒヤヒヤ……。 さらに、エコバッグが「くたっ」と倒れ [&#8230;]",
-      "link": "https://getnews.jp/archives/3734405",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "INCAPACITANTS × kito-mizukumi rouber × SLIGHT SLAPPERSの3マン開催決定",
-      "description": "3マンライブ〈ULTRA PUNK COLLECTION〉が2026年9月5日(土) 幡ヶ谷 club HEAVY SICKにて開催される。 出演は、ピュアなノイズとアグレッシヴなステージングで世界的に支持を集めるノイズ [&#8230;]",
-      "link": "https://getnews.jp/archives/3734403",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-02T11:20:07.042299",
+  "updatedAt": "2026-08-02T12:35:33.636371",
   "sites": [
     {
       "id": "hachima",
