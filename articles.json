@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "埼玉の山林で女性の遺体を発見→殺害をほのめかした〇〇国籍の男を逮捕",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456149.html",
+      "pubDate": "2026-08-03T05:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/93646e7a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女さん「旦那が仕事やめたら私がやってるコレ全部やんなきゃなんだよ！」→イージーすぎてバカにされてしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553436.html",
+      "pubDate": "2026-08-03T05:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3dc319f0.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -587,19 +613,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「東大院卒のヤンマガ編集部が『みいちゃんが可哀想な目に遭うのを見たい』って言ってるのがグロすぎる」⇒ 3万いいね超え",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553332.html",
-      "pubDate": "2026-08-02T17:30:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/6/76f31e76.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52456098.html",
       "pubDate": "2026-08-02T12:20:37+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/7/e70d9ad1.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "韓国X民「外国人がこんなこと書くのは不快かもしれないけど、なぜ日本って○○なの？政治家に舐められてるからでは？」→「その通り」の声殺到・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456107.html",
-      "pubDate": "2026-08-02T12:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/4/5485f23a.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-02T19:18:17.696930",
+  "updatedAt": "2026-08-02T20:29:24.853839",
   "sites": [
     {
       "id": "hachima",
