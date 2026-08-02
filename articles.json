@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "鈴木農水相「特定外来生物のクビアカツヤカミキリを知ってますか？」見つけたら踏みつぶす等捕殺するよう呼びかけ「バラ科の樹木に深刻な被害を与え、分布が拡大」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553444.html",
+      "pubDate": "2026-08-03T02:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bb770e7b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "人気韓国人ユーチューバーさん「日本に帰化する」と動画アップするも反響を受けて帰化取りやめ「自分の考え方は間違っていた」「韓国人として日本で頑張っていく」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553443.html",
+      "pubDate": "2026-08-03T01:20:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e6015d2.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/db629927.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "探偵「不倫してる独身女性からよく来る依頼内容がこちら」⇒ 闇が深いと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553325.html",
-      "pubDate": "2026-08-02T16:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1ce07216.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -624,19 +637,6 @@
       "link": "https://jin115.com/archives/52456106.html",
       "pubDate": "2026-08-02T16:00:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/c/ecb29c2b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "小学生プロゲーマー・ゆうき選手「平日は練習時間は1時間」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553320.html",
-      "pubDate": "2026-08-02T15:30:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca9670ca.jpg"
     },
     {
       "siteId": "jin",
@@ -1711,6 +1711,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【ライブレポ】乃木坂46が4年ぶりTIFで大トリ！多彩なアイドルたちが彩った最高の夏──〈TOKYO IDOL FESTIVAL 2026〉DAY3",
+      "description": "2026年8月2日、お台場・青海周辺エリアにて世界最大級のアイドルフェス〈TOKYO IDOL FESTIVAL 2026〉（TIF2026）の最終日・DAY3が開催された。 3日間にわたって200組を超えるアイドルが集 [&#8230;]",
+      "link": "https://getnews.jp/archives/3734436",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "「ドイツの変態野郎め!!」　クリアに蘇った『ムカデ人間 4K』よりハイター博士の“異常なプレゼン”シーン解禁［ホラー通信］",
       "description": "複数の人間の肛門と口を縫い合わせ、ひとつの生命体を創造する異常映画を4Kリマスター化した『ムカデ人間 4K』が８月21日(金)より公開。本編映像が解禁された。 ドイツ郊外の人里離れた屋敷で、ムカデ人間創造を夢見る天才外科 [&#8230;]",
       "link": "https://getnews.jp/archives/3734413",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3734421",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "諦めていたカーペットのシミ。レイコップなら60℃の温水でしっかり落とします",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  大きなカーペットのシミは、洗えないからと諦めがち。60°Cの温水で汚れを浮かせ、水ごと吸い取るレイコップの「加熱式 カーペットクリーナー  [&#8230;]",
-      "link": "https://getnews.jp/archives/3734422",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-02T16:03:59.858140",
+  "updatedAt": "2026-08-02T17:33:33.990405",
   "sites": [
     {
       "id": "hachima",
