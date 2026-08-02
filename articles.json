@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "妻「亡くなった夫の荷物を片付けよう…ん？なんだこれ！？」 → ヤバすぎる物が出てきて騒然・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456137.html",
+      "pubDate": "2026-08-03T01:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/846e566a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【協調介入】日米政府、円安阻止へ向けて共同声明発出へ…約40年ぶりの円安で為替介入発動 → 157円台まで戻す",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553437.html",
+      "pubDate": "2026-08-03T00:40:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4d1ae1ee.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『GANTZ（ガンツ）』全巻「100円」セール！全37巻「23,322円」→「3,700円」！超有名作品が完結まですべて超お得に読める！8月9日までの期間限定！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456155.html",
+      "pubDate": "2026-08-03T00:30:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/6/66c37e83.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "イオンモール熊本の爆発事故により雑貨店従業員2人が死亡した件で、会社側から2人が屋外に避難した後「もし入れるなら売上金を金庫に戻してほしい」と指示していたことを認め、社長が謝罪",
+      "description": "イオンモール熊本の爆発事故により雑貨店従業員2人が死亡した件で、会社側から2人が屋外に避難した後「もし入れるなら売上金を金庫に戻してほしい」と指示していたことを認め、社長が謝罪",
+      "link": "https://togetter.com/li/2728191",
+      "pubDate": "Mon, 03 Aug 2026 00:05:06 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "みいちゃんと山田さんに関わった編集者たち、経歴が抹消されはじめる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456153.html",
+      "pubDate": "2026-08-03T00:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/5/952e946b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【今週発売ゲーム】『ビーストオブリンカネーション』『MARVEL Tōkon』スイッチ2版『FF14』ほか、8月3～9日発売タイトルまとめ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553234.html",
+      "pubDate": "2026-08-03T00:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/3/43b17c26.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -288,19 +366,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "有隣堂横浜駅西口店で35年のベテラン店員ですら初遭遇するレベルの超ロングレシートの買い物をした客がいた「なにを買ったらこんなに長くなるんだ？」",
-      "description": "有隣堂横浜駅西口店で35年のベテラン店員ですら初遭遇するレベルの超ロングレシートの買い物をした客がいた「なにを買ったらこんなに長くなるんだ？」",
-      "link": "https://togetter.com/li/2728046",
-      "pubDate": "Sun, 02 Aug 2026 19:44:57 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -574,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca9670ca.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「見て！小泉進次郎が送ったスポットクーラー、電源とセットじゃなかったらしい！」「パン置き場になってた！」 ← 実は…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553318.html",
-      "pubDate": "2026-08-02T15:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/9410eec7-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -611,19 +663,6 @@
       "link": "https://gigazine.net/news/20260802-sun-star-nocfree-metal/",
       "pubDate": "Sun, 02 Aug 2026 15:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ふとんの西川「お尻のまくら」がデスクワーカーに神すぎる！有名イラストレーター「腰痛が座った瞬間消えた」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553316.html",
-      "pubDate": "2026-08-02T14:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6b9966f5-s.png"
     },
     {
       "siteId": "jin",
@@ -756,19 +795,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/Amazon-×-RN24.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安終了速報】「ちいかわ」ナガノ先生の『くまのむちゃうま日記』『ナガノのくまの本』などがKindle”実質半額”になるセール、本日8/2終了！少女・女性マンガが広く対象！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456073.html",
-      "pubDate": "2026-08-02T11:20:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f002f5ef.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -780,32 +806,6 @@
       "link": "https://rocketnews24.com/2026/08/02/2784388/",
       "pubDate": "Sun, 02 Aug 2026 02:00:59 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_2163.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【物議】毎日新聞、言い放つ「高市首相は政治が下手くそすぎる」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456100.html",
-      "pubDate": "2026-08-02T11:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/8/287a172b.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『みいちゃんと山田さん』、まさかの◯◯が見つかりネット騒然",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456097.html",
-      "pubDate": "2026-08-02T10:40:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79c82fdd.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,32 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "ロメロ監督が描く“顔のない男”の復讐劇　サスペンス・ホラー『URAMI ～怨み～』日本初ブルーレイ化、特典たっぷり［ホラー通信］",
+      "description": "『ゾンビ』『死霊のえじき』のジョージ・A・ロメロ監督が2000年に手掛けたサスペンス・ホラー『URAMI ～怨み～』が4Kリマスターされ、日本初ブルーレイ化。８月21日(金)より「ナイル大商店」とAmazonにて独占販売 [&#8230;]",
+      "link": "https://getnews.jp/archives/3734414",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "「ドイツの変態野郎め!!」　クリアに蘇った『ムカデ人間 4K』よりハイター博士の“異常なプレゼン”シーン解禁［ホラー通信］",
+      "description": "複数の人間の肛門と口を縫い合わせ、ひとつの生命体を創造する異常映画を4Kリマスター化した『ムカデ人間 4K』が８月21日(金)より公開。本編映像が解禁された。 ドイツ郊外の人里離れた屋敷で、ムカデ人間創造を夢見る天才外科 [&#8230;]",
+      "link": "https://getnews.jp/archives/3734413",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "それも俺がやった。　息をするように殺人を犯す『ヘンリー』リバイバル上映、ポスター＆予告編［ホラー通信］",
       "description": "実在した連続殺人鬼を描く非情な映画３本が連続公開。その第一弾、８月28日(金)よりリバイバル公開される『ヘンリー』(86)のポスター＆予告編が解禁された。 されることが決定した。まず、アメリカ製作の『ヘンリー』(86)が [&#8230;]",
       "link": "https://getnews.jp/archives/3734399",
@@ -1794,35 +1820,9 @@
       "link": "https://getnews.jp/archives/3734422",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "マツキヨ×資生堂の「肌グミ」が朝の定番に。泡立てずになでるだけだから、洗顔をサボらなくなりました",
-      "description": "朝も洗顔したほうがいいとは思うものの、バタバタしがちな朝にしっかり泡立てて洗うのは、ちょっと大変。 疲れている日は面倒に感じて、ついサボってしまうことも……。 そんなとき、マツキヨで見つけたのが、グミのようにぷるぷるした [&#8230;]",
-      "link": "https://getnews.jp/archives/3734411",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "Billyrrom、チェコで撮影した新曲MV公開",
-      "description": "Billyrromがメジャーセカンドシングル「SALTARE」のミュージックビデオを公開した。 「SALTARE」は、夏の陽射しや地中海の風景を思わせる開放感と、ラテン調のリズムが溶け合うダンサブルなアップテンポ・ナンバ [&#8230;]",
-      "link": "https://getnews.jp/archives/3734410",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-02T14:38:47.598609",
+  "updatedAt": "2026-08-02T16:03:59.858140",
   "sites": [
     {
       "id": "hachima",
