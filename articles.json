@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "東京・多摩動物公園、猛暑のせいでガチでヤバイことになってた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456210.html",
+      "pubDate": "2026-08-04T02:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/e/be7e6d41.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "46歳ミュージシャン、熊本地震での高市政権の対応に疑問「この震災を支持率回復のための好機のように捉えていないか」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553689.html",
+      "pubDate": "2026-08-04T02:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/b/3b88a90f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "1日30分睡眠のショートスリーパーさん、為替介入で全財産失ったことを報告「一人で抱えきれない経済的状況です」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553667.html",
+      "pubDate": "2026-08-04T01:20:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/293dd242.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "とある家「置いてた盛り塩が黒くなってる！呪われてるんだ！！」 → ヤバイ原因が判明・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456208.html",
+      "pubDate": "2026-08-04T01:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/6/a6078470-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『アパシー学校であった怖い話』新作開発中の飯島多紀哉氏、初公開映像としてAI生成動画を投稿し物議「自分が思い描くキャスティングでやりたい映像をほぼ100%再現してくれる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553703.html",
+      "pubDate": "2026-08-04T00:40:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/18ec617a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『パルワールド』オンラインMMORPG化決定！覇権ゲー確定か！？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456201.html",
+      "pubDate": "2026-08-04T00:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fbce020e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】コエテク新作『進撃の巨人3』発売日が12月10日に決定！！デジタルデラックス版には72時間のアーリーアクセスあり",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553695.html",
+      "pubDate": "2026-08-04T00:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/06130b51.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "今、家の中に誰かが入ろうとしてるみたいで、スマート家電から通知でアラート鳴ってんの恐怖しかない→その後、警察に通報するも到着時には誰もおらず、デバイスが盗まれていた",
+      "description": "今、家の中に誰かが入ろうとしてるみたいで、スマート家電から通知でアラート鳴ってんの恐怖しかない→その後、警察に通報するも到着時には誰もおらず、デバイスが盗まれていた",
+      "link": "https://togetter.com/li/2728684",
+      "pubDate": "Mon, 03 Aug 2026 23:55:07 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -366,19 +470,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「迷子の時に人は隠れることがある」子供は恥ずかしさや焦りなどで悪いことをしてると思ってしまい逃げたり隠れたりするけど、山などでやると最悪命を落とすので対策しよう",
-      "description": "「迷子の時に人は隠れることがある」子供は恥ずかしさや焦りなどで悪いことをしてると思ってしまい逃げたり隠れたりするけど、山などでやると最悪命を落とすので対策しよう",
-      "link": "https://togetter.com/li/2728580",
-      "pubDate": "Mon, 03 Aug 2026 19:57:23 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -652,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/f/1f0ba5b8.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】『刃牙』作者・板垣恵介先生が『ワンピース』のカイドウを描いた結果ｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553553.html",
-      "pubDate": "2026-08-03T15:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/06bda72c-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +754,6 @@
       "link": "https://jin115.com/archives/52456194.html",
       "pubDate": "2026-08-03T15:26:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/ce622c80.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ドワンゴ川上氏「みい山アニメ反対派は現実から全力で目を背けろと言ってるだけ。自らの加害性に気づくべき」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553546.html",
-      "pubDate": "2026-08-03T15:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/428f3861.jpg"
     },
     {
       "siteId": "jin",
@@ -743,19 +808,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "羽田空港「乗客、遅刻しまくって出発も遅れまくってヤバイ！」→国内線運航6社の秘策はこちら",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553544.html",
-      "pubDate": "2026-08-03T14:30:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/2950548e-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -780,19 +832,6 @@
       "link": "https://jin115.com/archives/52456171.html",
       "pubDate": "2026-08-03T14:00:15+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/6/c642c296.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "親族男性の腹をを『チェーンソー』で突き刺した36歳の女、現行犯逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553540.html",
-      "pubDate": "2026-08-03T14:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/681b1b6d-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -964,19 +1003,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_1927.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "アジア人差別に対する韓国人の反撃、強すぎると大拡散ｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456158.html",
-      "pubDate": "2026-08-03T11:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/5/d5dd5200.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -988,19 +1014,6 @@
       "link": "https://gigazine.net/news/20260803-minimax-h3-video-generation-ai/",
       "pubDate": "Mon, 03 Aug 2026 10:56:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "鈴木農相「“コレ”を見かけたら踏みつぶして○してください」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456161.html",
-      "pubDate": "2026-08-03T10:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/1/d1d08923.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1027,19 +1040,6 @@
       "link": "https://rocketnews24.com/2026/08/03/2786867/",
       "pubDate": "Mon, 03 Aug 2026 00:00:56 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/robin-hood-70.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "京都府知事「副首都？京都はもともと首都なので・・・あ、私が言ってるわけではないですよ？（笑）」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456162.html",
-      "pubDate": "2026-08-03T09:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/6/c673722a.png"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "アイラップがそのまま入る。山崎実業の「万能ケース」で、キッチンまわりの生活感が解消された",
+      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  岩谷マテリアルのマチ付きポリ袋「アイラップ」、大好きでよく使ってます。 外装もレトロかわいいんだけど、インテリア的にはちょっと目立ちすぎる [&#8230;]",
+      "link": "https://getnews.jp/archives/3734636",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "想像以上、でした。サロンおすすめの美容液「アイラッシュリポゾーン」を3か月使ってみた結果",
       "description": "年と共に、まつ毛のボリュームに悩みを感じるようになっていた私。 まつ毛パーマをかけに行ったサロンで、施術後にすすめてもらった美容液がありました。 まつ毛パーマをやめて半年以上経った今も使い続けているのですが、個人的にはう [&#8230;]",
       "link": "https://getnews.jp/archives/3734633",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3734616",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "夏の足元のニオイ・ガサガサ問題をリセット！ダイソーの「330円ブラシ」ではじめる新習慣",
-      "description": "サンダルや素足で過ごすことが増える季節になると、気になるのが足裏の状態。 蒸れやすい時期はニオイも気になるし、かかとのガサガサも放置しがち。 見えない部分だけど、意外とケアしたい場所でした。 今回取り入れてみたのが、ダイ [&#8230;]",
-      "link": "https://getnews.jp/archives/3734615",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-03T14:51:38.026575",
+  "updatedAt": "2026-08-03T17:12:29.480412",
   "sites": [
     {
       "id": "hachima",
