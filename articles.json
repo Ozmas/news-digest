@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "本田圭佑さん、スペイン崩壊をネタみたいにイジってしまう。",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553678.html",
+      "pubDate": "2026-08-04T04:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/8/e838f645.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「子ども連れてサイゼ行ったら、横の席からうるさいと注意を受けた。子連れでも来れる店でその指摘は間違ってない？」→物議に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456218.html",
+      "pubDate": "2026-08-04T04:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/e/4eb44dc2.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "令和に復活した「マグカップでふっくらケーキ！モコモコ」が転売されてしまう……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553676.html",
+      "pubDate": "2026-08-04T03:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/29aee818.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "Z世代の間で『風呂キャン』に続き、新たな『〇〇キャン』、爆誕",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456213.html",
+      "pubDate": "2026-08-04T03:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/93a3eced.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -704,19 +756,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/6/f6db937e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "プロeスポーツチームDFM創設者・梅崎伸幸氏、逝去　享年44歳　日本初の給与制プロゲーミングチームを作った先駆者",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553570.html",
-      "pubDate": "2026-08-03T16:30:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/11ed0f0f.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -728,19 +767,6 @@
       "link": "https://rocketnews24.com/2026/08/03/2788222/",
       "pubDate": "Mon, 03 Aug 2026 07:00:47 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2743.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大阪の小学校でイスラム指導者が「イスラム教の素敵な所」と授業を実施⇒ 宗教的中立性を損なうと批判殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553550.html",
-      "pubDate": "2026-08-03T16:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/f/1f0ba5b8.jpg"
     },
     {
       "siteId": "jin",
@@ -873,19 +899,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本人「ニュース見て毎回思うんだけど、日本の人口って減っちゃダメなん？？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456176.html",
-      "pubDate": "2026-08-03T13:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5c5e12af.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -923,19 +936,6 @@
       "link": "https://gigazine.net/news/20260803-openai-astra-lean/",
       "pubDate": "Mon, 03 Aug 2026 12:40:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "EXIT・兼近さん「減税しようしようって皆で騒いで減税になったら文句しか出てこない。せっかくの減税なのに、もうちょっと喜ぶ人いねぇの？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456169.html",
-      "pubDate": "2026-08-03T12:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc8be8a2-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-03T17:12:29.480412",
+  "updatedAt": "2026-08-03T19:07:14.473201",
   "sites": [
     {
       "id": "hachima",
