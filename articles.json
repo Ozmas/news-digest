@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "客から、2人しか来てないのに7つのサラダを頼まれたので「7つですか。店内でお召し上がりですか？」と聞いたら「4つと3つ」→どういう意味かわからず質問したら「あんたには難しいか」と言われた話",
+      "description": "客から、2人しか来てないのに7つのサラダを頼まれたので「7つですか。店内でお召し上がりですか？」と聞いたら「4つと3つ」→どういう意味かわからず質問したら「あんたには難しいか」と言われた話",
+      "link": "https://togetter.com/li/2728716",
+      "pubDate": "Tue, 04 Aug 2026 07:08:36 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "よく見ろ！ イメチェンが引き起こした悲劇！　四コマサボタージュFB第57回「メガネを…」",
+      "description": "安いメガネ屋さんでサーモントタイプのメガネを一本買ったのだけど、メタル部分のメッキがすぐに剥げて鼻パッドには青サビが出てきちゃってすごく汚らしく見えるんだ……安かろう悪かろうだね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/04/2784660/",
+      "pubDate": "Mon, 03 Aug 2026 22:00:14 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-57.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気YouTuber・シバターさん「熊本の被災地に100万円相当の物資を自腹で支援しました」→エグすぎる情報を暴露されるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456226.html",
+      "pubDate": "2026-08-04T07:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/efbd39f5.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "ホラー映画のBGMを聴くと普通の笑顔でさえ不気味で恐ろしいと感じやすいとの研究結果",
+      "description": "ホラー映画やドラマには、不協和音や不穏なメロディで恐怖をかき立てるBGMがよく利用されており、そのBGMを聴くだけで恐ろしい気持ちになることもあります。新たな研究により、ホラー映画のBGMを聴くと普通の笑顔でさえ不気味で恐ろしいと感じやすいということがわかりました。続きを読む...",
+      "link": "https://gigazine.net/news/20260804-horror-soundtracks-smiles-feel-eerie/",
+      "pubDate": "Tue, 04 Aug 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【画像あり】外国人コスプレイヤー「日本の制服を着ると”ぶっとい足”が目立っちゃう」→スタイルが最高すぎて2.1万いいね「太もも好きにはたまらん」「いいべ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456223.html",
+      "pubDate": "2026-08-04T06:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/e/0e0a4ef9.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アリアナ・グランデが活動休止を発表。やっぱり大丈夫ではなかったか……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553682.html",
+      "pubDate": "2026-08-04T06:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2f1e1c7a-s.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "「完全に公平な選挙」は数学的に不可能、地域代表・得票比例・議席数の3条件を同時に満たせないことが判明",
+      "description": "「地元で最多得票となった候補者が当選する」「全国の得票率に応じて各政党へ議席が配分される」「議会の定員も変えない」という公平に見える3条件をあらゆる選挙結果で常に保証する選挙制度は数学的に作れないことが証明されました。ケンブリッジ大学とコペンハーゲン大学の研究チームによると、補正議席数に対して政党数が十分に多くなった場合は「地域代表」「得票に比例した議席配分」「固定された議席数」のどれかを諦める必",
+      "link": "https://gigazine.net/news/20260804-election-system/",
+      "pubDate": "Tue, 04 Aug 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -535,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50c6000a.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "イオンの避難訓練に参加した方が体験を語る「出たがらない人には怒鳴って良い」「避難訓練サボるテナントは詰められる」など、かなり入念に対策していた模様",
-      "description": "イオンの避難訓練に参加した方が体験を語る「出たがらない人には怒鳴って良い」「避難訓練サボるテナントは詰められる」など、かなり入念に対策していた模様",
-      "link": "https://togetter.com/li/2728581",
-      "pubDate": "Mon, 03 Aug 2026 20:00:23 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -730,19 +808,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "海外X民「最近のオーケストラが儲かる唯一の方法はゲーム音楽を演奏すること。その事にクラシック音楽家たちはイライラしてるらしい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553557.html",
-      "pubDate": "2026-08-03T17:30:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/6/a63337b5.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,32 +845,6 @@
       "link": "https://rocketnews24.com/2026/08/03/2788222/",
       "pubDate": "Mon, 03 Aug 2026 07:00:47 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2743.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【訃報】プロeスポーツチーム『DetonatioN FocusMe』CEO・梅崎伸幸氏が死去",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456194.html",
-      "pubDate": "2026-08-03T15:26:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/ce622c80.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ゲーム開発者「『キングダムハーツ』に影響を受けたゲーム作りました！」←ほぼ丸パクリだと話題にｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456191.html",
-      "pubDate": "2026-08-03T15:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/006909bf-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -964,19 +1003,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/40036_0.jpg"
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "AppleのMacBook Airが世界的なメモリ不足で品薄に、開発中のスマートグラスは健康機器としての活用を検討",
-      "description": "AI向けデータセンターの急増に伴う世界的なメモリ不足が、Appleの主力PCであるMacBook Airの供給にも影響を及ぼしていると報じられました。Apple公式サイトでは一部モデルの配送が8月後半から9月になる見込みで、小売業者からも過去に例がないほど在庫が限られているとの声が上がっています。続きを読む...",
-      "link": "https://gigazine.net/news/20260803-apple-macbook-air-shortage/",
-      "pubDate": "Mon, 03 Aug 2026 11:53:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1001,19 +1027,6 @@
       "link": "https://rocketnews24.com/2026/08/03/2783367/",
       "pubDate": "Mon, 03 Aug 2026 02:00:57 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_1927.jpg"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "動画生成AI「MiniMax H3」が登場、世界2位の実力でオープンモデルとして公開予定",
-      "description": "中国のAI開発企業であるMiniMaxが動画生成AI「MiniMax H3」を発表しました。MiniMax H3は最大15秒の音声付き動画を生成可能でテキスト・動画・画像・音声の入力に対応しています。また、近日中にモデルそのものが無料公開される予定です。続きを読む...",
-      "link": "https://gigazine.net/news/20260803-minimax-h3-video-generation-ai/",
-      "pubDate": "Mon, 03 Aug 2026 10:56:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1196,19 +1209,6 @@
       "link": "https://rocketnews24.com/2026/08/02/2784388/",
       "pubDate": "Sun, 02 Aug 2026 02:00:59 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_2163.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「もうダメだと思っていたヘアブラシが、880円の謎ブラシで新品みたいによみがえった…20分で起きた奇跡」",
-      "description": "これは本当にすごかった。正直に言うと、ここまでとは思っていなかった。 前回、髪の毛とホコリがガチガチに絡みついたヘアブラシを「ヘアブラシのお掃除ブラシ」で掃除してみたのだが、残念ながら完全勝利とはならなかった。 しかし、 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/02/2786047/",
-      "pubDate": "Sun, 02 Aug 2026 01:00:53 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/30794df0-cf5a-4e48-a5eb-bbb2b5b64205.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「兞」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「兞」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「兞」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3734656",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "アイラップがそのまま入る。山崎実業の「万能ケース」で、キッチンまわりの生活感が解消された",
       "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  岩谷マテリアルのマチ付きポリ袋「アイラップ」、大好きでよく使ってます。 外装もレトロかわいいんだけど、インテリア的にはちょっと目立ちすぎる [&#8230;]",
       "link": "https://getnews.jp/archives/3734636",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3734624",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【東京都新宿区】「パーク ハイアット 東京」のデリカテッセンがフルオープン！営業をディナーまで拡大",
-      "description": "「パーク ハイアット 東京」は、昨年12月のリニューアルオープンに続き、8月3日(月)より1階「デリカテッセン」の営業時間を拡大し、フルオープン。 「デリカテッセン」が営業をディナータイムまで拡大 開業10周年プロジェク [&#8230;]",
-      "link": "https://getnews.jp/archives/3734616",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-03T20:44:23.323958",
+  "updatedAt": "2026-08-03T22:11:55.538465",
   "sites": [
     {
       "id": "hachima",
