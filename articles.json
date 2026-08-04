@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『アズールレーン』がフェスで塩にぎりを1000円で販売するも批判ゼロな理由がこちら",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553958.html",
+      "pubDate": "2026-08-05T03:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/544885a7.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『昼メシの流儀』野原ひろしのグッズ、印刷ミスでマジでキモい見た目になるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456271.html",
+      "pubDate": "2026-08-05T03:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/441e192b.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "映画「ちいかわ」に昆布締めスタイルのちいかわマスコットを連れていきたくてお誂え向きの昆布リボンを購入、これはまさにそれにピッタリだ",
+      "description": "映画「ちいかわ」に昆布締めスタイルのちいかわマスコットを連れていきたくてお誂え向きの昆布リボンを購入、これはまさにそれにピッタリだ",
+      "link": "https://togetter.com/li/2729130",
+      "pubDate": "Wed, 05 Aug 2026 02:32:29 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ヒカキンさん、『VIVANT』の読み方を知らなくてバカにされまくるｗｗｗｗ みんなはもちろん読めるよな？？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553978.html",
+      "pubDate": "2026-08-05T02:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b8e1bd8c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『アズレン』フェスのフードメニューが「おにぎり2つで1000円」の超強気価格に→その理由がマジでヤバいｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456269.html",
+      "pubDate": "2026-08-05T02:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d71e7e00.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「Switchと違いプレステは久しぶりにやると『ログイン・アプデしてください』でできないことが多いからもういいやってなっちゃう」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553975.html",
+      "pubDate": "2026-08-05T01:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/84a32551.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -233,19 +311,6 @@
       "description": "「確かにオレの家賃よりも高ぇな」猫が寄ってきそうな名前のMiu Miuのパンツ、もはや高すぎて頭に被るやつでは「90万のおぱんつに草生えてる」",
       "link": "https://togetter.com/li/2729064",
       "pubDate": "Tue, 04 Aug 2026 22:59:21 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「地域密着なんで」銀行の対応が話題になってるが、JAバンクで故人の口座を解約しに行ったら、３桁円しか入ってないのにとても丁寧に対応してくれた",
-      "description": "「地域密着なんで」銀行の対応が話題になってるが、JAバンクで故人の口座を解約しに行ったら、３桁円しか入ってないのにとても丁寧に対応してくれた",
-      "link": "https://togetter.com/li/2729060",
-      "pubDate": "Tue, 04 Aug 2026 22:52:24 +0900",
       "thumbnail": ""
     },
     {
@@ -626,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74413a5d.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "にじさんじVTuber緑仙さん、炎上したX投稿を謝罪 → 謝罪文と一緒に歌ってほしいアニソンを募集してさらに燃える",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553856.html",
-      "pubDate": "2026-08-04T17:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5a90f8c0.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -689,32 +741,6 @@
       "link": "https://gigazine.net/news/20260804-google-ai-agents-load-balancing/",
       "pubDate": "Tue, 04 Aug 2026 16:40:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【辺野古沖転覆事故】抗議船2隻、事故直前に立ち入り禁止区域に侵入していたことが判明！刑事特別法違反の疑い",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553844.html",
-      "pubDate": "2026-08-04T16:30:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/5402a41a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "イオンの避難訓練に参加したX民の体験談が話題に！防災責任者「館外に出たがらないお客様は敬語もいらない怒鳴ってください」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553830.html",
-      "pubDate": "2026-08-04T16:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d935441f.jpg"
     },
     {
       "siteId": "jin",
@@ -990,19 +1016,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/a/ea39580c-s.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "高市首相、ヘリで被災地上空へ行き、合掌→炎上してしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456237.html",
-      "pubDate": "2026-08-04T10:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/5/351d7efc.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1014,19 +1027,6 @@
       "link": "https://rocketnews24.com/2026/08/04/2786750/",
       "pubDate": "Tue, 04 Aug 2026 01:00:15 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/gifu-retro-museum-58.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】大阪万博の関連サイト、ドメインが他人の手に渡って終わるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456233.html",
-      "pubDate": "2026-08-04T09:40:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/75b18e8f-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-04T16:28:32.787390",
+  "updatedAt": "2026-08-04T18:13:40.248414",
   "sites": [
     {
       "id": "hachima",
