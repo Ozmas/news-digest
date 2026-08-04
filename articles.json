@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "押井守監督「実写映画やアニメで『原作通りでよかった』なんて感想は原作の成功体験を追体験したいだけ」「私は原作者に怒られるぐらいのほうがワクワクする」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456273.html",
+      "pubDate": "2026-08-05T05:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d6df974b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "超難問！『テニプリ』全国統一試験が開催決定。過去試験は全問正解は0人",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553970.html",
+      "pubDate": "2026-08-05T05:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/d/0de2a08a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『モンスト』『白猫』夢のコラボゲーだったはずの『フェスバ』がはやくもサービス終了",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10553965.html",
+      "pubDate": "2026-08-05T04:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/6/96ece398-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -639,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e745dfac.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ウクライナのゼレンスキー大統領「（日本の支援について）期待されたほどの成果は出ていない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553881.html",
-      "pubDate": "2026-08-04T18:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/6/c68e3b3d.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +702,6 @@
       "link": "https://gigazine.net/news/20260804-ai-supervised-remote-exam-58000-students-retake/",
       "pubDate": "Tue, 04 Aug 2026 17:53:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】『みい山』騒動などで炎上中の講談社、またやらかす",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10553863.html",
-      "pubDate": "2026-08-04T17:30:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74413a5d.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1001,19 +1014,6 @@
       "link": "https://rocketnews24.com/2026/08/04/2785386/",
       "pubDate": "Tue, 04 Aug 2026 02:00:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_2256.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ココリコ遠藤さんの自宅、○○が故障・・・新品交換でまさかの300万円ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456234.html",
-      "pubDate": "2026-08-04T10:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/a/ea39580c-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-04T18:13:40.248414",
+  "updatedAt": "2026-08-04T20:09:49.663060",
   "sites": [
     {
       "id": "hachima",
