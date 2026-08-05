@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "とあるアパレルブランドのモデルさんがみんな「ハンコック」みたいになってんだけどｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10554329.html",
+      "pubDate": "2026-08-06T06:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/6/a6459a40.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "男性ホルモンのテストステロン値は高すぎても低すぎてもうつ病のリスクが高いとの研究結果",
+      "description": "男性ホルモンであるテストステロンは、値が低いとうつ病の発症リスクが高いと考えられてきました。しかし、イギリスの大規模な健康データベース「UKバイオバンク」に登録された男性13万3733人を対象とした研究では、テストステロン値が同年代の平均より低い男性だけでなく、平均より高い男性もうつ病の発症リスクが高いことが示されました。続きを読む...",
+      "link": "https://gigazine.net/news/20260806-high-low-testosterone-depression/",
+      "pubDate": "Thu, 06 Aug 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "映画『スパイダーマンBND』上映中にヤバすぎるオナラをかました人のせいで観客が避難する事件が発生",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10554324.html",
@@ -678,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f732f53.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【大量盗難事件】メルカリ、梨の転売疑惑を否定！「現地調査で生産者を確認した。誹謗中傷はやめて」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554150.html",
-      "pubDate": "2026-08-05T18:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0ffbc3d5.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -987,19 +1000,6 @@
       "description": "NVIDIAが自動運転車用のAI「Alpamayo 2 Super」を現地時間の2026年8月4日に公開しました。Alpamayo 2 Superは自動車に搭載したカメラをもとに周囲の状況を推測して進路を決定できます。続きを読む...",
       "link": "https://gigazine.net/news/20260805-nvidia-alpamayo-2-super/",
       "pubDate": "Wed, 05 Aug 2026 11:15:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "AppleがiPhoneとWindows PC間でコピー＆ペーストを可能にする新機能を開発中",
-      "description": "AppleがiPhoneとWindows PCの間で、コピーしたテキストなどを相互に貼り付けられる機能の開発を進めていると報じられています。これはEUのデジタル市場法「DMA」に基づいてMicrosoftが相互運用性を求めたことを受けて開発されているもので、Appleは2027年秋までに開発を完了し、その後に開発者向けベータ版を提供する計画です。続きを読む...",
-      "link": "https://gigazine.net/news/20260805-apple-iphone-to-windows-pc-copy-and-paste/",
-      "pubDate": "Wed, 05 Aug 2026 11:10:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-05T20:10:10.846168",
+  "updatedAt": "2026-08-05T21:48:54.715638",
   "sites": [
     {
       "id": "hachima",
