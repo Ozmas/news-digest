@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【デバンキング】えっちな同人ゲーム開発者さん、Steamでの売上を楽天銀行に受取拒否されたことを明かす…なお入金されなくても納税義務は消えず",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10554351.html",
+      "pubDate": "2026-08-06T01:30:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e709af49.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「11年前、何も知らずに銀行で買った投資信託の末路がこちらです」ﾊﾟｼｬｯ → 金額がヤバすぎるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456336.html",
+      "pubDate": "2026-08-06T01:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/1/a1bf1a3d-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "バグだらけで酷評の『みんなのゴルフ WORLD』発売から約11ヶ月…ユーザーアンケートと今後のアプデ計画を公開「現状を真摯に受け止めています」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10554346.html",
+      "pubDate": "2026-08-06T01:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/caa22dd5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】女子「ガチでこういう彼氏欲しくて息できん」⇒ 8万いいね超え",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10554283.html",
+      "pubDate": "2026-08-06T00:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/26d85a35.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「杉床は乾燥パスタに負けます」杉床を採用しようとしてる人は覚悟しておきたい「杉の柔らかさ」についての話",
+      "description": "「杉床は乾燥パスタに負けます」杉床を採用しようとしてる人は覚悟しておきたい「杉の柔らかさ」についての話",
+      "link": "https://togetter.com/li/2729530",
+      "pubDate": "Thu, 06 Aug 2026 00:19:37 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "自衛隊が熊本で展開している支援用船舶の入浴設備が本格的ですごい！→船の来歴を知ると納得だった「こういう活用の仕方はいいね」",
+      "description": "自衛隊が熊本で展開している支援用船舶の入浴設備が本格的ですごい！→船の来歴を知ると納得だった「こういう活用の仕方はいいね」",
+      "link": "https://togetter.com/li/2729529",
+      "pubDate": "Thu, 06 Aug 2026 00:18:22 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気ユーチューバーさん、動画内にヤバすぎる物が映ってるのがバレて騒然ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456328.html",
+      "pubDate": "2026-08-06T00:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/7954f12b-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「本当の弱者男性はコンプを刺激されるのでエロゲやラブコメは見れません」⇒ 共感の嵐に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10554275.html",
+      "pubDate": "2026-08-06T00:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/2/82ea0461.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "息子が「ち〇ちんが痛い。なんか白いもんが出た」と言うので、いろいろ聞き取りをした結果、「それはたぶん膿やな」と話した後、Googleの検索履歴を見たら「ち〇こからウニが出た」と残ってた",
+      "description": "息子が「ち〇ちんが痛い。なんか白いもんが出た」と言うので、いろいろ聞き取りをした結果、「それはたぶん膿やな」と話した後、Googleの検索履歴を見たら「ち〇こからウニが出た」と残ってた",
+      "link": "https://togetter.com/li/2729522",
+      "pubDate": "Wed, 05 Aug 2026 23:58:10 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -236,19 +353,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/e/7e1138a9.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "島二郎のでっかいソフビフィギュア、絶対いらないのに映画見た後だとかなり欲しい「なんだか縁起物や魔除けの民芸品感がある」",
-      "description": "島二郎のでっかいソフビフィギュア、絶対いらないのに映画見た後だとかなり欲しい「なんだか縁起物や魔除けの民芸品感がある」",
-      "link": "https://togetter.com/li/2729444",
-      "pubDate": "Wed, 05 Aug 2026 21:18:58 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -298,32 +402,6 @@
       "description": "人物画に色を塗る際に「人間の肌の色」を何色で塗ればいいのか迷うことは多く、また2000年代には差別意識に対する取り組みとしてクレヨンや絵の具などから「肌色」という名前が「うすだいだい」や「ペールオレンジ」などに変更されました。そんな「人間の肌の色」を徹底分析した新しい色空間「Inclusive Color Space(ICS)」と、そこから色を選択できるカラーピッカーが公開されています。続きを読む",
       "link": "https://gigazine.net/news/20260805-inclusive-color-space/",
       "pubDate": "Wed, 05 Aug 2026 21:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "父が八代市の友達のところへ様子を見に行くと言うので「今の時期に行くのなら」とありったけの支援物資を持たせたところ、梨を大量にもらって帰ってきた",
-      "description": "父が八代市の友達のところへ様子を見に行くと言うので「今の時期に行くのなら」とありったけの支援物資を持たせたところ、梨を大量にもらって帰ってきた",
-      "link": "https://togetter.com/li/2729441",
-      "pubDate": "Wed, 05 Aug 2026 20:55:50 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "結構な頻度で配信に来てママ呼びしてくるリスナーがいるから毎回「お前のママちゃう！」って言ってるけど、この前来た時は「ママ喉の調子悪い？」って誰よりも早く気づいてた",
-      "description": "結構な頻度で配信に来てママ呼びしてくるリスナーがいるから毎回「お前のママちゃう！」って言ってるけど、この前来た時は「ママ喉の調子悪い？」って誰よりも早く気づいてた",
-      "link": "https://togetter.com/li/2729436",
-      "pubDate": "Wed, 05 Aug 2026 20:41:06 +0900",
       "thumbnail": ""
     },
     {
@@ -678,19 +756,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「重度糖尿病で死にかけたことがある身としてはみい山よりも『もちづきさん』の方が人命に直結するアニメ化やと思うんですけど、こっちは叩かないんですか？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554113.html",
-      "pubDate": "2026-08-05T15:30:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d9b2dfdc.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,32 +767,6 @@
       "link": "https://jin115.com/archives/52456309.html",
       "pubDate": "2026-08-05T15:00:48+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/0/a0e424b7.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "社会人さん、取引先と電話して腹が立って車のとあるものを壊してしまう… いや、これ壊せるの…？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554111.html",
-      "pubDate": "2026-08-05T15:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/e/0ed7dfb0.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "炎上している『みいちゃんと山田さん』関連の投稿が次々と削除され話題に！過去のインタビュー記事まで何故か削除に・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554103.html",
-      "pubDate": "2026-08-05T15:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bd27b6ea.jpg"
     },
     {
       "siteId": "gigazine",
@@ -754,19 +793,6 @@
       "link": "https://gigazine.net/news/20260805-mistral-shieldstral/",
       "pubDate": "Wed, 05 Aug 2026 14:50:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "サウジアラビアの政府系ファンド、正式にEA（エレクトロニックスアーツ）を買収",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554097.html",
-      "pubDate": "2026-08-05T14:30:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/7015e2b5.png"
     },
     {
       "siteId": "gigazine",
@@ -938,19 +964,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/よってばサムネ.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「俺、不倫してる。心の底から愛してて体の相性も抜群。今の家庭を捨てて幸せになった人、もしいたら話を聞かせてほしい」→赤裸々な告白に様々な声が寄せられる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456293.html",
-      "pubDate": "2026-08-05T11:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/e/bed98db6.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -1014,19 +1027,6 @@
       "link": "https://rocketnews24.com/2026/08/05/2785515/",
       "pubDate": "Wed, 05 Aug 2026 02:00:43 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_2390.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "永住許可が厳しくなると知った外国人「日本で働く意欲なくなっちゃう…」「安心して暮らせなくなる」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456298.html",
-      "pubDate": "2026-08-05T11:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/2/c2c39d98.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-05T14:56:29.012028",
+  "updatedAt": "2026-08-05T16:47:16.570354",
   "sites": [
     {
       "id": "hachima",
