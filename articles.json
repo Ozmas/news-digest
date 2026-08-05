@@ -2,6 +2,162 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "8月7日は名前に「花」がつく人は入園無料！ 浅草花やしきのキャンペーンを見て、台湾の「スシロー改名騒動」を思い出した",
+      "description": "菊池さ～ん！　桜井さ～ん！　蘭ちゃ～ん！ 突然だが、あなたの名前には花にまつわる文字が入っているだろうか。 というのも、浅草花やしきが8月7日の「花やしきの日」に、名前に「花」がつく人は入園無料というキャンペーンを実施す [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/06/2788956/",
+      "pubDate": "Wed, 05 Aug 2026 23:00:57 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_1031_17489a.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "VRAM 4GBのノートPC向けGPUでも8Bモデルをファインチューニングできるオープンソースツール「Soup」",
+      "description": "一般的なノートPCに搭載されたGPUでも大規模言語モデルをファインチューニングできるオープンソースツール「Soup」が公開されています。開発者による検証ではVRAMが4GBのGPUを使い、80億パラメーターの「Llama 3.1 8B Instruct」をファインチューニングできたとのことです。続きを読む...",
+      "link": "https://gigazine.net/news/20260806-soup-fine-tune-llm/",
+      "pubDate": "Thu, 06 Aug 2026 08:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "桃の皮むくの難しすぎる… 桃を真ん中で一周切って、手でひねって二つに割ればいけるとのことでやってみたら、「あっ、これダメだ」となった→数々のアドバイスが寄せられる",
+      "description": "桃の皮むくの難しすぎる… 桃を真ん中で一周切って、手でひねって二つに割ればいけるとのことでやってみたら、「あっ、これダメだ」となった→数々のアドバイスが寄せられる",
+      "link": "https://togetter.com/li/2729594",
+      "pubDate": "Thu, 06 Aug 2026 07:54:27 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ニートが社会復帰したい場合はAmazonの倉庫バイトをおすすめしたい…面接なし、職場は綺麗、ドリンクバー無料→賛否両論、場所によって全然違う「コンビニバイトの方がマシ」との声も",
+      "description": "ニートが社会復帰したい場合はAmazonの倉庫バイトをおすすめしたい…面接なし、職場は綺麗、ドリンクバー無料→賛否両論、場所によって全然違う「コンビニバイトの方がマシ」との声も",
+      "link": "https://togetter.com/li/2729593",
+      "pubDate": "Thu, 06 Aug 2026 07:46:05 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "帰省や旅行の楽しみのひとつが、その土地ならではの味…九州の夏といえば、これ！→美味しい食べ方やみなさんのおすすめのご当地アイスが寄せられる",
+      "description": "帰省や旅行の楽しみのひとつが、その土地ならではの味…九州の夏といえば、これ！→美味しい食べ方やみなさんのおすすめのご当地アイスが寄せられる",
+      "link": "https://togetter.com/li/2729590",
+      "pubDate": "Thu, 06 Aug 2026 07:42:38 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「勘弁して下さい 泣けてきます」京都・愛宕山で立入禁止看板が複数回にわたって剥がされる被害… 中腹にあるお寺からは「なんのためになされているのかすら分からず 恐怖しかございません」",
+      "description": "「勘弁して下さい 泣けてきます」京都・愛宕山で立入禁止看板が複数回にわたって剥がされる被害… 中腹にあるお寺からは「なんのためになされているのかすら分からず 恐怖しかございません」",
+      "link": "https://togetter.com/li/2729587",
+      "pubDate": "Thu, 06 Aug 2026 07:32:34 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「キム兄」こと芸人・木村祐一さん（63歳）、最新の松本人志さんとのツーショットが完全に別人だとネット騒然！　「マジで誰かわからん」「激ヤセしてイケおじに」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10554404.html",
+      "pubDate": "2026-08-06T07:30:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/9/4953cc76.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "お宝マニアをしている友達に家宝の写真と文化庁の登録票を見せたらクレと言い出した…1000万円ぐらいなら売ってもいいと思ったが、タダでクレと言うので断ったら激怒された話",
+      "description": "お宝マニアをしている友達に家宝の写真と文化庁の登録票を見せたらクレと言い出した…1000万円ぐらいなら売ってもいいと思ったが、タダでクレと言うので断ったら激怒された話",
+      "link": "https://togetter.com/li/2729586",
+      "pubDate": "Thu, 06 Aug 2026 07:24:02 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】3.11被災者が語る『避難所では決して◯◯◯の質問にYESと答えてはいけない』のライフハックがあまりに地獄だった　→　うっかりYESと言った人が最悪の末路に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10554397.html",
+      "pubDate": "2026-08-06T07:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58b68bdf.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "肩乗るやつ！ クレーマーに対応する弟！　四コマサボタージュFB第59回「上の者」",
+      "description": "肩に乗るキャラって思い浮かべると戸愚呂兄弟のお兄ちゃんしかイメージできないんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/06/2784662/",
+      "pubDate": "Wed, 05 Aug 2026 22:00:23 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-59.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "各社のAI、続々と暴走　勝手に人間のフリをしてサイバー攻撃を仕掛ける事件が相次ぐ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456342.html",
+      "pubDate": "2026-08-06T07:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/2/92718858.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "芝生を効率よく刈れる人とそうでない人の違いはどこにあるのか？",
+      "description": "データを使ったインタラクティブな記事を公開するウェブメディア「The Pudding」が芝刈りを模した経路選択ゲームを開発し、3万人以上の参加者がどのように効率的なルートを見つけるのかを分析しました。参加者の移動経路や停止時間を記録した結果、最適解にたどり着いた人とそうでない人の行動に差があることがわかりました。続きを読む...",
+      "link": "https://gigazine.net/news/20260806-mow-a-lawn-better/",
+      "pubDate": "Thu, 06 Aug 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -262,19 +418,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/4/14a0fdfc.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "次男が小1の時に､休み時間に校庭で遊んでいたら上級生が投げたブロック塀の破片が直撃し、頭を怪我したとのことで学校から電話→焦りや怒りの感情を必死に押し堪えて「投げた子って？」と聞いた",
-      "description": "次男が小1の時に､休み時間に校庭で遊んでいたら上級生が投げたブロック塀の破片が直撃し、頭を怪我したとのことで学校から電話→焦りや怒りの感情を必死に押し堪えて「投げた子って？」と聞いた",
-      "link": "https://togetter.com/li/2729507",
-      "pubDate": "Wed, 05 Aug 2026 23:08:42 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -366,32 +509,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "8月6日にIT業界で働くことの詳細情報を記載した投稿に、同じ日にSESとして新人を迎える会社の人が「ガチでこの人来る説あるんだけど」とコメント→入社前から身バレの可能性が…",
-      "description": "8月6日にIT業界で働くことの詳細情報を記載した投稿に、同じ日にSESとして新人を迎える会社の人が「ガチでこの人来る説あるんだけど」とコメント→入社前から身バレの可能性が…",
-      "link": "https://togetter.com/li/2729453",
-      "pubDate": "Wed, 05 Aug 2026 21:50:40 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "スカート、よく考えたらパンツの上に布一枚だけってよく考えたら…→実際は全然そんなことはなかった「その可能性にロマンを感じることができる」",
-      "description": "スカート、よく考えたらパンツの上に布一枚だけってよく考えたら…→実際は全然そんなことはなかった「その可能性にロマンを感じることができる」",
-      "link": "https://togetter.com/li/2729452",
-      "pubDate": "Wed, 05 Aug 2026 21:49:34 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -416,32 +533,6 @@
       "link": "http://blog.esuteru.com/archives/10554305.html",
       "pubDate": "2026-08-05T21:30:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/d/2d4328f5.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「かにはすぐに死ん でし まいます」斬新な改行を取り入れた神社の張り紙に読み方の考察が集まる「うに（注文）のコピペかと思った」",
-      "description": "「かにはすぐに死ん でし まいます」斬新な改行を取り入れた神社の張り紙に読み方の考察が集まる「うに（注文）のコピペかと思った」",
-      "link": "https://togetter.com/li/2729447",
-      "pubDate": "Wed, 05 Aug 2026 21:29:20 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "【神ゲー】4人のオタク女子と恋愛できるゲーム登場→サブカルボクっ娘、「オィィィ！」系女子、暗萌え声不思議ちゃん、暗黒微笑夢女子…「直視できない」",
-      "description": "【神ゲー】4人のオタク女子と恋愛できるゲーム登場→サブカルボクっ娘、「オィィィ！」系女子、暗萌え声不思議ちゃん、暗黒微笑夢女子…「直視できない」",
-      "link": "https://togetter.com/li/2729446",
-      "pubDate": "Wed, 05 Aug 2026 21:22:05 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -639,19 +730,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【コメ余り】農家「高市総理には愛想尽かした」「肥料代や燃料代が高騰してとんでもない赤字」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554286.html",
-      "pubDate": "2026-08-05T19:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/0/c09212a1.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +767,6 @@
       "link": "https://gigazine.net/news/20260805-8-myths-software-engineering-gen-ai/",
       "pubDate": "Wed, 05 Aug 2026 19:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スイッチ2版『FF14』激長ロードと暗転でまともに遊べないと阿鼻叫喚 → スクエニ「不具合でした」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554282.html",
-      "pubDate": "2026-08-05T18:35:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f732f53.jpg"
     },
     {
       "siteId": "jin",
@@ -912,19 +977,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_703511.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】『宇宙兄弟』 『平和の国の島崎へ』 『てんぷる』など、モーニング連載の人気作品が最安100円の激安セールは今日まで！！『宇宙兄弟』完結記念！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456310.html",
-      "pubDate": "2026-08-05T13:20:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/32a20954.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -975,32 +1027,6 @@
       "link": "https://rocketnews24.com/2026/08/05/2786219/",
       "pubDate": "Wed, 05 Aug 2026 02:55:53 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/よってばサムネ.jpg"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "合計月間インストール数20億回超の人気npmパッケージ群を狙った大規模サプライチェーン攻撃が発生",
-      "description": "JavaScript向けパッケージ管理サービス「npm」で、広く使われている数百個のパッケージに認証情報を盗むマルウェアが混入される大規模なサプライチェーン攻撃が発生しました。セキュリティ企業のAikido Securityによると、2026年8月4日までに侵害が確認されているのは少なくとも434パッケージの1381バージョンで、各パッケージの合計月間インストール数は20億回を超えているとのことで",
-      "link": "https://gigazine.net/news/20260805-npm-supply-chain-attack/",
-      "pubDate": "Wed, 05 Aug 2026 11:25:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "NVIDIAが自動運転車用のAI「Alpamayo 2 Super」を無償公開",
-      "description": "NVIDIAが自動運転車用のAI「Alpamayo 2 Super」を現地時間の2026年8月4日に公開しました。Alpamayo 2 Superは自動車に搭載したカメラをもとに周囲の状況を推測して進路を決定できます。続きを読む...",
-      "link": "https://gigazine.net/news/20260805-nvidia-alpamayo-2-super/",
-      "pubDate": "Wed, 05 Aug 2026 11:15:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1209,32 +1235,6 @@
       "link": "https://rocketnews24.com/2026/08/04/2788453/",
       "pubDate": "Tue, 04 Aug 2026 04:00:56 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_5952_b6da97.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ただの実話】スリランカの『ビアードパパ』でシュークリームを注文したら「ない」と即答された話",
-      "description": "先日訪れたスリランカで、私はただただビリヤニを食っていた。理由は「ビリヤニがうまいから」でもあるし、「ビリヤニくらいしか食うものがないから」でもあった。日本では空前のビリヤニブームと伝え聞くが、ビリヤニ好きなら絶対スリラ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/04/2787251/",
-      "pubDate": "Tue, 04 Aug 2026 02:55:57 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_4744.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "あの伝説のそば屋『港屋』は消滅していなかった…！ 大手町『港屋2』の肉そばは『港屋』の味そのもの!!",
-      "description": "あの伝説のそば屋が実は消滅していないらしい──。そう小耳に挟んだのはつい先日のこと。伝説のそば屋とは2019年に閉店した虎ノ門の超有名店『港屋』のことである。 そばつゆにラー油を入れた冷たい肉そばの元祖として知られる港屋 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/04/2785386/",
-      "pubDate": "Tue, 04 Aug 2026 02:00:40 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_2256.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "枝がぐにゃりと潰れない。6,930円の「武骨な園芸ハサミ」に替えて大正解でした",
+      "description": "今まで「切れば何でも同じ」と思い、手ごろな価格の園芸ハサミをなんとなく使ってきました。 しかし、すぐに刃が錆びてしまったり、切れ味が落ちて細い枝すらぐにゃりと潰れてしまったり……。 潰れた断面を見るたびに「これじゃ植物に [&#8230;]",
+      "link": "https://getnews.jp/archives/3735141",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "まおた、新曲「ICE」リリース&MV公開",
       "description": "まおたが2026年8月5日(水)にニューシングル「ICE」をリリースし、ミュージックビデオを公開した。 本作は溶けていくアイスを失われてゆく愛や時間の比喩として描き、「アイス」と「愛する」を掛け合わせたフレーズが印象的な [&#8230;]",
       "link": "https://getnews.jp/archives/3735134",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3735113",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "コンパクトなのに大迫力。Ankerの”持ち歩けるライブ会場”スピーカーが2,000円台",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  外で音楽を楽しみたいけれど、「スピーカーは大きくて荷物になる」と感じていませんか。Anker（アンカー）の「Soundcore Selec [&#8230;]",
-      "link": "https://getnews.jp/archives/3735114",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-05T21:48:54.715638",
+  "updatedAt": "2026-08-05T23:05:50.336922",
   "sites": [
     {
       "id": "hachima",
