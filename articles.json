@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "映画『スパイダーマンBND』上映中にヤバすぎるオナラをかました人のせいで観客が避難する事件が発生",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10554324.html",
+      "pubDate": "2026-08-06T05:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7d45232d.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市首相、飲食料品の消費税1％を閣議決定　◯◯をチラつかせて財務省を黙らせる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456340.html",
+      "pubDate": "2026-08-06T05:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/2/92a60db0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『テニスの王子様』に出てくる激ヤバラケットを実際に再現してみた結果ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10554138.html",
+      "pubDate": "2026-08-06T04:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9ef02e82.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -665,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/6/06e6c109.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "飲食料品の消費税減税の方針、来年4月から2年間1％に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554149.html",
-      "pubDate": "2026-08-05T17:30:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5a5c0040-s.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -702,19 +728,6 @@
       "link": "https://jin115.com/archives/52456312.html",
       "pubDate": "2026-08-05T17:00:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "NHK職員が番組出演者から性被害、PTSDになり休職していたことが判明！番組名や加害者の名前は…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554141.html",
-      "pubDate": "2026-08-05T17:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6e40ef6e.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -910,19 +923,6 @@
       "link": "https://rocketnews24.com/2026/08/05/2788891/",
       "pubDate": "Wed, 05 Aug 2026 04:00:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/20260802_155929.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "東京大学のHP内に『六四天安門』というソースコードを埋め込んだ教授、その結末がこちら…",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456300.html",
-      "pubDate": "2026-08-05T13:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2de20003.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-05T18:25:23.542528",
+  "updatedAt": "2026-08-05T20:10:10.846168",
   "sites": [
     {
       "id": "hachima",
