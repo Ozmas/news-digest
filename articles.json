@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "教室のインターホンの出方に困る小学生に『何を話せばいいか』が見える手引きがあれば安心して電話に出られる「社会人になったら即エースだな」",
+      "description": "教室のインターホンの出方に困る小学生に『何を話せばいいか』が見える手引きがあれば安心して電話に出られる「社会人になったら即エースだな」",
+      "link": "https://togetter.com/li/2730336",
+      "pubDate": "Sat, 08 Aug 2026 02:02:40 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ソニーの新作格ゲー『マーベル闘魂』Steam版レビューは「賛否両論」！PC最適化不足で激重、PSNサインインに激怒する人も登場",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555161.html",
+      "pubDate": "2026-08-08T02:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e985e5b3.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "なぜ代引きの荷物はウンコしてる時に来るのか→「クッソ分かる」「つまりウンコをすれば早く届く…？」",
+      "description": "なぜ代引きの荷物はウンコしてる時に来るのか→「クッソ分かる」「つまりウンコをすれば早く届く…？」",
+      "link": "https://togetter.com/li/2730331",
+      "pubDate": "Sat, 08 Aug 2026 01:33:48 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ハラスメント騒動の佐藤二朗さん、妻とのハグを報告「文〇砲より遥かに威力は弱いが、僕のノロケ砲をお見舞いする」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555164.html",
+      "pubDate": "2026-08-08T01:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/0/40907741.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -338,32 +390,6 @@
       "link": "https://jin115.com/archives/52456414.html",
       "pubDate": "2026-08-07T21:20:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/6419da0a.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "京大病院、脳腫瘍の手術で誤って「正常な組織」を摘出する事故が起きる…患者は自発呼吸ができず、手足が動かない状態に「『脳外科医 竹田くん』かよ」",
-      "description": "京大病院、脳腫瘍の手術で誤って「正常な組織」を摘出する事故が起きる…患者は自発呼吸ができず、手足が動かない状態に「『脳外科医 竹田くん』かよ」",
-      "link": "https://togetter.com/li/2730252",
-      "pubDate": "Fri, 07 Aug 2026 21:08:48 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "子どもを産んだら1人2000万円かかると言われており、仕事もセーブすると老後資金が貯められない…一方、子育てしていない人は潤沢な資金で悠々老後だと歪んでいるのでは？→様々な意見",
-      "description": "子どもを産んだら1人2000万円かかると言われており、仕事もセーブすると老後資金が貯められない…一方、子育てしていない人は潤沢な資金で悠々老後だと歪んでいるのでは？→様々な意見",
-      "link": "https://togetter.com/li/2730250",
-      "pubDate": "Fri, 07 Aug 2026 21:03:52 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -728,32 +754,6 @@
       "link": "https://gigazine.net/news/20260807-yoshinoya-beef-teppan-steak/",
       "pubDate": "Fri, 07 Aug 2026 17:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "映画『ちいかわ』公開14日間で興収50億円突破！『シン・エヴァ』に並ぶペース！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554875.html",
-      "pubDate": "2026-08-07T16:30:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d9bb453b.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「もちづきさんのアニメ後は”あのアニメ”を再放送するのをセットにしてくれ」⇒ 4万いいね超え",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554857.html",
-      "pubDate": "2026-08-07T16:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/053038fb.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-07T16:02:51.501619",
+  "updatedAt": "2026-08-07T17:24:35.848762",
   "sites": [
     {
       "id": "hachima",
