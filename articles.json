@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気女性配信者さん、全財産がバレる → 金額がヤバすぎるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456462.html",
+      "pubDate": "2026-08-08T01:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/4/d46dbc40-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【東大調査】外国人受け入れ反対する人が大幅増！若い世代で増加幅大、「日本社会に希望がない」と考えている人も反対",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555158.html",
+      "pubDate": "2026-08-08T01:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/48af230a.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "新しく来た日本人の先生がとても若く見えると話題になったが、アメリカ人から『日本人はみんな年齢より若く見えますね。どうして先生は若く見えないんですか？』と聞かれた… 知らねえよ",
+      "description": "新しく来た日本人の先生がとても若く見えると話題になったが、アメリカ人から『日本人はみんな年齢より若く見えますね。どうして先生は若く見えないんですか？』と聞かれた… 知らねえよ",
+      "link": "https://togetter.com/li/2730323",
+      "pubDate": "Sat, 08 Aug 2026 00:44:37 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "コストコで会員カード作った私「白カードで！」店員「今は皆さんエグゼクティブカードしか作りませんけど？」→コストコのカード勧誘はやたら圧が強いが、本当にお得なの？",
+      "description": "コストコで会員カード作った私「白カードで！」店員「今は皆さんエグゼクティブカードしか作りませんけど？」→コストコのカード勧誘はやたら圧が強いが、本当にお得なの？",
+      "link": "https://togetter.com/li/2730321",
+      "pubDate": "Sat, 08 Aug 2026 00:32:29 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "町内会「災害時の備蓄している人は挙手してください」⇒ 手を挙げたらとんでもない事を言われてしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555052.html",
+      "pubDate": "2026-08-08T00:30:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/9/a90b17e9.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "保護猫カフェで流血くらい引っ掻かれた後に「元々虐待を受けていた子で、過去にもお客さんに怪我させたことがあった」と説明された→カフェと投稿者の対応をめぐって賛否分かれる",
+      "description": "保護猫カフェで流血くらい引っ掻かれた後に「元々虐待を受けていた子で、過去にもお客さんに怪我させたことがあった」と説明された→カフェと投稿者の対応をめぐって賛否分かれる",
+      "link": "https://togetter.com/li/2730312",
+      "pubDate": "Sat, 08 Aug 2026 00:11:29 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "職場の新人に「届いた郵便物をカッター（レターオープナー）で開けて」と頼んだら、封筒の真ん中にカッターで切れ込みを入れて開けていた話… 中に入ってた契約書には切れ込みが",
+      "description": "職場の新人に「届いた郵便物をカッター（レターオープナー）で開けて」と頼んだら、封筒の真ん中にカッターで切れ込みを入れて開けていた話… 中に入ってた契約書には切れ込みが",
+      "link": "https://togetter.com/li/2730302",
+      "pubDate": "Sat, 08 Aug 2026 00:05:48 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「エアコンから変な音がする。なんだろ…え？」ﾊﾟｼｬｯ → ヤバすぎる物が飛び出てくる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456459.html",
+      "pubDate": "2026-08-08T00:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/2/e2ec971e-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "エアコンが普及してないドイツさん、熱波でとんでもない人数が亡くなっていたと判明・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10554997.html",
+      "pubDate": "2026-08-08T00:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/984ebf62.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "Nintendo Switch 2のプレイ動画をリニアPCMサラウンドで録画する方法、Blackmagic Designのキャプチャーボード「UltraStudio Express Recorder 3G」を使ってみた",
+      "description": "Nintendo SwitchやNintendo Switch 2はLPCM 5.1に対応しており、一部タイトルは再生環境があれば前方3ch・後方2ch・サブウーファー1chの5.1chサラウンド音声でのプレイが可能になります。この5.1chサラウンド音声のままで動画を録画する方法はないかと探してみたところ、Blackmagic Designの業務用キャプチャー「UltraStudio Expre",
+      "link": "https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/",
+      "pubDate": "Sat, 08 Aug 2026 00:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -288,45 +418,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "大人1人と子ども2人(小1、年中)で帰省するために飛行機の座席を横並びで予約したのに、航空会社から変更メールが来て飛び飛びの席に配置されてしまった…何のための座席指定なのか",
-      "description": "大人1人と子ども2人(小1、年中)で帰省するために飛行機の座席を横並びで予約したのに、航空会社から変更メールが来て飛び飛びの席に配置されてしまった…何のための座席指定なのか",
-      "link": "https://togetter.com/li/2730248",
-      "pubDate": "Fri, 07 Aug 2026 20:58:52 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「転勤って専業主婦をアテにしてるからもう期待できない」JTCの男性社員が転勤を命じられるも「妻は3倍稼いでるので、それなら辞める」と言ったら、転勤がなくなった",
-      "description": "「転勤って専業主婦をアテにしてるからもう期待できない」JTCの男性社員が転勤を命じられるも「妻は3倍稼いでるので、それなら辞める」と言ったら、転勤がなくなった",
-      "link": "https://togetter.com/li/2730241",
-      "pubDate": "Fri, 07 Aug 2026 20:34:30 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "二郎系ラーメン店の公式Xが丼の破片が入ってしまい、汁なしのみの提供になったことを報告→この投稿の「従業員が」という言葉に様々な反応が集まる",
-      "description": "二郎系ラーメン店の公式Xが丼の破片が入ってしまい、汁なしのみの提供になったことを報告→この投稿の「従業員が」という言葉に様々な反応が集まる",
-      "link": "https://togetter.com/li/2730240",
-      "pubDate": "Fri, 07 Aug 2026 20:33:36 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -351,19 +442,6 @@
       "link": "https://jin115.com/archives/52456443.html",
       "pubDate": "2026-08-07T20:30:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90eac1a8.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "社会人経験の浅い人の中にはハガキや宅配便など宛先の住所を書いて物を送った経験がない人が少なくないことに驚いた「最近は大体オンラインで完結するからでは…？」",
-      "description": "社会人経験の浅い人の中にはハガキや宅配便など宛先の住所を書いて物を送った経験がない人が少なくないことに驚いた「最近は大体オンラインで完結するからでは…？」",
-      "link": "https://togetter.com/li/2730228",
-      "pubDate": "Fri, 07 Aug 2026 20:10:24 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -704,19 +782,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】男性「体調悪そうで失禁して座り込んでる女性がいるから救急呼ぼう」⇒ 急に現れた別の女性にとんでもない事をされてしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554856.html",
-      "pubDate": "2026-08-07T15:30:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/843f80d8.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -756,19 +821,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/9/99f72a76.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】高速道路のファスナー合流動画が話題に　そもそも、こういう合流の仕方はオススメできないって知ってた？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554855.html",
-      "pubDate": "2026-08-07T15:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a1406809.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -780,19 +832,6 @@
       "link": "https://gigazine.net/news/20260807-uncanny-experiences-detailed-study/",
       "pubDate": "Fri, 07 Aug 2026 15:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スクエニ・浜口D「『FF7リバース』は、大量コンテンツのせいで疲れ、離れたプレイヤーいたかも」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554849.html",
-      "pubDate": "2026-08-07T14:30:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/ead12566-s.png"
     },
     {
       "siteId": "gigazine",
@@ -925,19 +964,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_0074.jpg"
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "「35歳以上のChatGPTユーザーが増加」「画像生成などのマルチメディア会話が増加」などChatGPTの利用実態レポートが公開される",
-      "description": "OpenAIがChatGPTの2026年6月までの利用実態データを公開しました。新たに国別データも公開されており、国ごとのChatGPTの利用実態の違いが浮き彫りになっています。続きを読む...",
-      "link": "https://gigazine.net/news/20260807-chatgpt-analyze/",
-      "pubDate": "Fri, 07 Aug 2026 13:06:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -949,32 +975,6 @@
       "link": "https://jin115.com/archives/52456428.html",
       "pubDate": "2026-08-07T13:00:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/1/b1d6209f.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安速報】ダイヤモンドの功罪、リアル、ひゃくえむ。などがKindleで実質半額に！ついに完結、新テニスの王子様などのスポーツ漫画セール！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456411.html",
-      "pubDate": "2026-08-07T12:30:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/4/94dd2d76.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "小学校講師、とんでもない所からのタレコミがあり児童ポルノ禁止法違反で逮捕",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456427.html",
-      "pubDate": "2026-08-07T12:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/4/f4c9d029.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-07T14:57:57.800311",
+  "updatedAt": "2026-08-07T16:02:51.501619",
   "sites": [
     {
       "id": "hachima",
