@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ネタバレ注意】上映中の映画『スパイダーマンBND』のマニアックなセルフカバー！実はあのシーンは……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555128.html",
+      "pubDate": "2026-08-08T04:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/acfddf95-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://jin115.com/archives/52456435.html",
       "pubDate": "2026-08-07T17:40:43+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/f/cf0b1d54.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "クオリティがヤバすぎてネットミームになってしまったアニメ『ワンダンス』、原作者本人が手描きダンス動画を公開した結果ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554883.html",
-      "pubDate": "2026-08-07T17:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/0699bc53-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-07T18:23:54.299628",
+  "updatedAt": "2026-08-07T19:31:47.878684",
   "sites": [
     {
       "id": "hachima",
