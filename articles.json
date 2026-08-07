@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "「Grokipedia」は2026年4月24日に12件の修正提案を処理したあと一切の更新が停止している",
+      "description": "「Wikipediaを大幅に上回ることになる」として、イーロン・マスク氏とxAIが満を持して開発・公開したオンライン百科事典「Grokipedia」で、修正提案の処理作業が停止状態にあり、提案された内容が「審査中」のままになっていると指摘されています。続きを読む...",
+      "link": "https://gigazine.net/news/20260807-grokipedia/",
+      "pubDate": "Fri, 07 Aug 2026 23:56:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "妻が山で滑落し、ヘリで救助された話… 妻は背骨の数箇所と胸椎を骨折するもヘルメットのおかげか頭は無傷、登攀や沢でそれなりに経験を積んでいたが油断したようだった",
+      "description": "妻が山で滑落し、ヘリで救助された話… 妻は背骨の数箇所と胸椎を骨折するもヘルメットのおかげか頭は無傷、登攀や沢でそれなりに経験を積んでいたが油断したようだった",
+      "link": "https://togetter.com/li/2730309",
+      "pubDate": "Fri, 07 Aug 2026 23:55:42 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "面白い要素を全部乗せ、ローグライク×デッキ構築×パーティ制RPGの「Chrono Ark」を遊んでみた",
+      "description": "「Chrono Ark」は、ローグライクとデッキ構築、そしてパーティ制RPGという3つの要素を組み合わせたシングルプレイ向けRPGです。「面白い要素を3つあわせたゲームが面白くないわけがない！」ということで、実際にプレイして確かめてみることにしました。続きを読む...",
+      "link": "https://gigazine.net/news/20260807-chrono-ark/",
+      "pubDate": "Fri, 07 Aug 2026 23:35:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『GTA6』のテイクツー「ゲーム販売は90％以上がデジタル配信」パッケージ版の売上はたった◯%",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555152.html",
+      "pubDate": "2026-08-07T23:30:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/ab3d3a19.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "不審な国際電話番号から「海外不正利用でクレジットカードを止めた」と連絡があり、本人確認のためとフルネームと生年月日を聞かれたので、「ひろゆき氏」のものを伝えると「本人確認が取れました」",
+      "description": "不審な国際電話番号から「海外不正利用でクレジットカードを止めた」と連絡があり、本人確認のためとフルネームと生年月日を聞かれたので、「ひろゆき氏」のものを伝えると「本人確認が取れました」",
+      "link": "https://togetter.com/li/2730285",
+      "pubDate": "Fri, 07 Aug 2026 23:15:01 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "夫さん、電車内で妊婦さんらしき人に席を譲ろうか悩んでいたら隣の男性に先を越される→まさかの展開に発展し、とんでもない空気が漂い始めてしまうｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456454.html",
+      "pubDate": "2026-08-07T23:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/2/52aad155.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【転売】映画『ちいかわ』入場者特典ボンドロシール、配布前からメルカリに大量出品！関係者の横領か！？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555147.html",
+      "pubDate": "2026-08-07T23:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/9/89b5db0a.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -311,32 +402,6 @@
       "description": "映画館やテレビ、ゲーム機、サウンドバーなどでは、5.1chや7.1ch、Dolby Atmos、DTSといったさまざまな音響方式が使われています。名前はよく目にするものの、それぞれが何を表していて、どう違うのかは少し分かりにくいところです。サラウンド音響の名称には、スピーカーの数や配置を示すものと、音声の記録方法や立体的な再生方法を示すものがあり、それらが組み合わされて使われています。続きを読む.",
       "link": "https://gigazine.net/news/20260807-surround-audio-system/",
       "pubDate": "Fri, 07 Aug 2026 20:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "現代のエリクサーと過信してるロキソニンが効かない歯痛に悩まされMRIなどを撮っても原因が分からなかった→虫歯以外でも歯痛は起きると数々の経験談が集まる",
-      "description": "現代のエリクサーと過信してるロキソニンが効かない歯痛に悩まされMRIなどを撮っても原因が分からなかった→虫歯以外でも歯痛は起きると数々の経験談が集まる",
-      "link": "https://togetter.com/li/2730219",
-      "pubDate": "Fri, 07 Aug 2026 19:57:39 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「工業ゲーの一番美味しい所から始めたみたいな状態になっとる」四半期で赤字見込みも出ていた日鉄、買収したUSスチールに設備投資したら、なんか純利益が2900億になった",
-      "description": "「工業ゲーの一番美味しい所から始めたみたいな状態になっとる」四半期で赤字見込みも出ていた日鉄、買収したUSスチールに設備投資したら、なんか純利益が2900億になった",
-      "link": "https://togetter.com/li/2730218",
-      "pubDate": "Fri, 07 Aug 2026 19:57:35 +0900",
       "thumbnail": ""
     },
     {
@@ -743,19 +808,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "投稿者「あ！スーパーで店員が魚の切り身を床に落とした！」 母「見てなさい。あれ、売り場に並べるから」 → 中国ネット民ドン引き",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554843.html",
-      "pubDate": "2026-08-07T14:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/f/5f2010e5-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -806,19 +858,6 @@
       "link": "https://gigazine.net/news/20260807-ai-designs-bacteriophages-genome/",
       "pubDate": "Fri, 07 Aug 2026 13:45:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ドン・キホーテの露店で出していたうなぎのかば焼きを食べた男女14人が食中毒 → サルモネラ族の菌が検出される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554834.html",
-      "pubDate": "2026-08-07T13:40:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a475f24f.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -912,19 +951,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/1/b1d6209f.jpg"
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Google DeepMindの気象予測モデル「WeatherNext Cyclones」はこれまでより1日分多く正確なサイクロン予報が可能",
-      "description": "Google DeepMindが実用的な気象予測モデル「WeatherNext Cyclones」を発表しました。主要な気象予測モデルと比較して、平均で1日以上のリードタイムの優位性があるとのことです。また、研究コミュニティのハリケーン対策能力向上などのため、「WeatherNext 2」と「WeatherNext Cyclones」はオープンソース化されることになりました。続きを読む...",
-      "link": "https://gigazine.net/news/20260807-google-deepmind-weathernext-cyclones/",
-      "pubDate": "Fri, 07 Aug 2026 12:45:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -936,19 +962,6 @@
       "link": "https://jin115.com/archives/52456411.html",
       "pubDate": "2026-08-07T12:30:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/4/94dd2d76.jpg"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Nintendo Switch 2販売台数が前年同期比200万台減の382万台、任天堂の第1四半期の売上高は前年同期比10％減",
-      "description": "任天堂の2027年度第1四半期(2026年4月～6月)の決算が報告されました。発売からちょうど1年が経過した「Nintendo Switch 2」の売り上げは落ちているものの、ソフトウェアの売り上げは好調です。続きを読む...",
-      "link": "https://gigazine.net/news/20260807-nintendo-2027q1/",
-      "pubDate": "Fri, 07 Aug 2026 12:14:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -975,19 +988,6 @@
       "link": "https://rocketnews24.com/2026/08/07/2789550/",
       "pubDate": "Fri, 07 Aug 2026 02:45:04 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2929.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【これは酷い】ペットの健康診断を定期的にしていない人、その理由が終わっていた…「だって◯◯だし」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456429.html",
-      "pubDate": "2026-08-07T11:30:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/4/140d5fda.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-07T13:50:53.355900",
+  "updatedAt": "2026-08-07T14:57:57.800311",
   "sites": [
     {
       "id": "hachima",
