@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気YouTuberさん、動画内で最悪の秘密がバレて終わる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456473.html",
+      "pubDate": "2026-08-08T05:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/a/da51b0a9-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "任天堂が「オンラインプレイで楽しく遊ぶためにお願いしたいこと」を公開！みんな仲良くしろよ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555132.html",
+      "pubDate": "2026-08-08T05:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d35cab50-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -691,19 +717,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "国税職員さん、納税者を騙して約1億5000万円受け取り懲戒免職処分　 詐欺などの疑いで刑事告発も",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554886.html",
-      "pubDate": "2026-08-07T18:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/4/e41e7193-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -871,19 +884,6 @@
       "link": "https://rocketnews24.com/2026/08/07/2789552/",
       "pubDate": "Fri, 07 Aug 2026 05:00:14 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2688-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "愛煙家「喫煙者の権利がマジで侵害されてる。これ合法ですから。いくら税金を我々が払ってるんだと。副流煙もクソもあるのかな」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456430.html",
-      "pubDate": "2026-08-07T14:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/25a44c94.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-07T19:31:47.878684",
+  "updatedAt": "2026-08-07T20:47:46.974641",
   "sites": [
     {
       "id": "hachima",
