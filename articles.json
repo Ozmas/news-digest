@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "軟体動物みたいに柔らかい手を持つ人、話題にｗｗｗｗ「脳が理解を拒む」「ミギー」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456465.html",
+      "pubDate": "2026-08-08T03:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/77f3a85f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女さん今度は「ガルガル期」とかいう新ワードでバカにされてしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555126.html",
+      "pubDate": "2026-08-08T03:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b1adc030-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ちいかわ最新話でモモンガがとてつもなく幸せそうでその姿に不穏を感じてしまうファンたち、続けて投稿された集合写真も深読みが止まらない",
+      "description": "ちいかわ最新話でモモンガがとてつもなく幸せそうでその姿に不穏を感じてしまうファンたち、続けて投稿された集合写真も深読みが止まらない",
+      "link": "https://togetter.com/li/2730341",
+      "pubDate": "Sat, 08 Aug 2026 02:39:25 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -337,19 +376,6 @@
       "description": "PCにキャラクターを呼び出せるアプリ「Desktop Mate 」の姉妹アプリとして、キャラクターが計算してくれる電卓アプリ「電卓 - Desktop Mate Widgets」が登場しました。PCでもスマートフォンでも使えるとのことなので、実際に使ってみました。続きを読む...",
       "link": "https://gigazine.net/news/20260807-desktop-mate-widgets-calc/",
       "pubDate": "Fri, 07 Aug 2026 22:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "彼女とシーソーの彼女抜き。夜の公園って不審者現れそうで怖いよな→「不審者は自分が不審者だと自覚してない」「え？彼女目の前にいるじゃん」",
-      "description": "彼女とシーソーの彼女抜き。夜の公園って不審者現れそうで怖いよな→「不審者は自分が不審者だと自覚してない」「え？彼女目の前にいるじゃん」",
-      "link": "https://togetter.com/li/2730264",
-      "pubDate": "Fri, 07 Aug 2026 21:54:32 +0900",
       "thumbnail": ""
     },
     {
@@ -730,19 +756,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/8/5816ff3e-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ミーム化した「アルミホイル被りメタル化して政府の陰謀！5G！」動画が非公開に　投稿者は謝罪",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554879.html",
-      "pubDate": "2026-08-07T17:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/9/49b0e342-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -962,19 +975,6 @@
       "link": "https://rocketnews24.com/2026/08/07/2789802/",
       "pubDate": "Fri, 07 Aug 2026 04:10:14 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_0074.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中居正広さん、ひそかに◯◯していた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456428.html",
-      "pubDate": "2026-08-07T13:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/1/b1d6209f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-07T17:24:35.848762",
+  "updatedAt": "2026-08-07T18:23:54.299628",
   "sites": [
     {
       "id": "hachima",
