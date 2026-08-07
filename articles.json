@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "格ゲー『MARVEL Tōkon』のデッドプールが格ゲー界のレジェンドをイジって本人がおこｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555123.html",
+      "pubDate": "2026-08-08T06:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/2/d2acd7aa.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/08/07/2789965/",
       "pubDate": "Fri, 07 Aug 2026 09:27:03 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/fivetullys.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "とある焼肉屋さん「当店は予約していただいている客、常連客優先。急に来た団体客の肉出すのに1時間かけたらキレられたんだけど」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10554887.html",
-      "pubDate": "2026-08-07T18:20:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/e/ce9df358.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-07T20:47:46.974641",
+  "updatedAt": "2026-08-07T21:44:36.513359",
   "sites": [
     {
       "id": "hachima",
