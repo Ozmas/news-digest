@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "電車で傘を手すりにかけていたら、知らないおじさんに持っていかれそうになり、咄嗟に傘を掴んだら「自分のですけど」と言われ、「そんなわけないだろ！」と言い返したらどこかに行った",
+      "description": "電車で傘を手すりにかけていたら、知らないおじさんに持っていかれそうになり、咄嗟に傘を掴んだら「自分のですけど」と言われ、「そんなわけないだろ！」と言い返したらどこかに行った",
+      "link": "https://togetter.com/li/2730397",
+      "pubDate": "Sat, 08 Aug 2026 07:41:33 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "某宗教2世の子が「子供に選挙権が無くて良かったと思う。あったらうちの家は10人兄弟とかになっていたと思うよ」と真顔で言っていた話「血の気が引いた」「こういう問題もあるのか」",
+      "description": "某宗教2世の子が「子供に選挙権が無くて良かったと思う。あったらうちの家は10人兄弟とかになっていたと思うよ」と真顔で言っていた話「血の気が引いた」「こういう問題もあるのか」",
+      "link": "https://togetter.com/li/2730396",
+      "pubDate": "Sat, 08 Aug 2026 07:36:25 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】長崎原爆の平和式典、被爆体験者が高市総理と面会決定も「発言不可で握手しか許されず」　→　「PRに利用するだけ」「独裁者」「断っちゃえ」と批判殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555216.html",
+      "pubDate": "2026-08-08T07:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4e5ad60a.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "終電で住宅街の駅から歩いてる時にワンボックスに横付けされ、若い男3人から道に迷ったのでナビを見てほしいと言われた→初めてここに来たと言い訳、一方通行を逆走する形で立ち去った話",
+      "description": "終電で住宅街の駅から歩いてる時にワンボックスに横付けされ、若い男3人から道に迷ったのでナビを見てほしいと言われた→初めてここに来たと言い訳、一方通行を逆走する形で立ち去った話",
+      "link": "https://togetter.com/li/2730394",
+      "pubDate": "Sat, 08 Aug 2026 07:21:58 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】男性医師「とりわさ（レア鶏肉）、美味しいです」パクパク　→　ガチで取り返しのつかない最悪の事態に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555213.html",
+      "pubDate": "2026-08-08T07:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68a0c287.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「Grok、俺のアカウントで一番気持ち悪いポストを教えて」→超火力の回答に完全敗北するｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456476.html",
+      "pubDate": "2026-08-08T07:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/3/d3b7c3e9.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -288,19 +366,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "妻が山で滑落し、ヘリで救助された話… 妻は背骨の数箇所と胸椎を骨折するもヘルメットのおかげか頭は無傷、登攀や沢でそれなりに経験を積んでいたが油断したようだった",
-      "description": "妻が山で滑落し、ヘリで救助された話… 妻は背骨の数箇所と胸椎を骨折するもヘルメットのおかげか頭は無傷、登攀や沢でそれなりに経験を積んでいたが油断したようだった",
-      "link": "https://togetter.com/li/2730309",
-      "pubDate": "Fri, 07 Aug 2026 23:55:42 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -327,19 +392,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/ab3d3a19.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "不審な国際電話番号から「海外不正利用でクレジットカードを止めた」と連絡があり、本人確認のためとフルネームと生年月日を聞かれたので、「ひろゆき氏」のものを伝えると「本人確認が取れました」",
-      "description": "不審な国際電話番号から「海外不正利用でクレジットカードを止めた」と連絡があり、本人確認のためとフルネームと生年月日を聞かれたので、「ひろゆき氏」のものを伝えると「本人確認が取れました」",
-      "link": "https://togetter.com/li/2730285",
-      "pubDate": "Fri, 07 Aug 2026 23:15:01 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -364,19 +416,6 @@
       "link": "http://blog.esuteru.com/archives/10555147.html",
       "pubDate": "2026-08-07T23:00:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/9/89b5db0a.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "旦那の実家に行った時、「思ってたんと違う」となった話… 自分は実祖母に「嫁いだらお客様じゃないから。恥じぬようしっかり働け」と言われていたので、嫁ぎ先で嫌われたら終わりと思い、張り切っていた",
-      "description": "旦那の実家に行った時、「思ってたんと違う」となった話… 自分は実祖母に「嫁いだらお客様じゃないから。恥じぬようしっかり働け」と言われていたので、嫁ぎ先で嫌われたら終わりと思い、張り切っていた",
-      "link": "https://togetter.com/li/2730280",
-      "pubDate": "Fri, 07 Aug 2026 22:48:27 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -626,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/00be8ddf.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『太鼓の達人』公式「使用しているフォントの一部が新しくなるよ」 →なんで急に？と思ったら衝撃の理由があった・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555063.html",
-      "pubDate": "2026-08-07T19:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0b60b063-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +689,6 @@
       "link": "https://gigazine.net/news/20260807-phone-detecting-run-as-snatching/",
       "pubDate": "Fri, 07 Aug 2026 19:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【聖人】ヒカキン、熊本地震被災地に2000万円を寄付！ONICHA1万4400本も提供",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555031.html",
-      "pubDate": "2026-08-07T18:40:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5af4561d.png"
     },
     {
       "siteId": "jin",
@@ -832,19 +845,6 @@
       "link": "https://gigazine.net/news/20260807-deepseek-raise-prices/",
       "pubDate": "Fri, 07 Aug 2026 15:25:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】生成AI、メモリやSSDだけでなく「マザーボード」まで値上げさせてしまいそう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456433.html",
-      "pubDate": "2026-08-07T15:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/9/99f72a76.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-07T21:44:36.513359",
+  "updatedAt": "2026-08-07T22:42:08.930699",
   "sites": [
     {
       "id": "hachima",
