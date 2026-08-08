@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【クズ】熊本地震で避難した人の家からエアコンの室外機を盗んでいた無職男逮捕「金に困り売却目的で」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555527.html",
+      "pubDate": "2026-08-09T01:30:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b8f44a72.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ポテチを食べた我が子が突如「あぇ!? にゃんか… にゃんか… きこえうかも…」と言い始めた… ポテチにまつわる真夏のホラー話",
+      "description": "ポテチを食べた我が子が突如「あぇ!? にゃんか… にゃんか… きこえうかも…」と言い始めた… ポテチにまつわる真夏のホラー話",
+      "link": "https://togetter.com/li/2730706",
+      "pubDate": "Sun, 09 Aug 2026 01:26:25 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "『ちいかわ』キメラ風に「ウルトラマン」ジャミラを描いたクロスオーバーファンアートがよく考えれば境遇一致し過ぎでしんどい、まさに元祖キメラ化だ",
+      "description": "『ちいかわ』キメラ風に「ウルトラマン」ジャミラを描いたクロスオーバーファンアートがよく考えれば境遇一致し過ぎでしんどい、まさに元祖キメラ化だ",
+      "link": "https://togetter.com/li/2730708",
+      "pubDate": "Sun, 09 Aug 2026 01:22:40 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "東映のOP映像のアクリルブロックが発売、かつて犬吠埼でペラペラの紙で再現チャレンジしたら強風で面白いことになったヒトが出してきた映像がおもろい",
+      "description": "東映のOP映像のアクリルブロックが発売、かつて犬吠埼でペラペラの紙で再現チャレンジしたら強風で面白いことになったヒトが出してきた映像がおもろい",
+      "link": "https://togetter.com/li/2730704",
+      "pubDate": "Sun, 09 Aug 2026 01:09:41 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "会社「キミ、転勤ね」 男性社員「なら辞めますわ」 → 凄いことになるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456514.html",
+      "pubDate": "2026-08-09T01:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/685acfd7.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ひろゆき「性欲弱い人って貧乏人多い」「成功したいっていう野望とか野心とかと性欲ってリンクする」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555520.html",
+      "pubDate": "2026-08-09T01:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4feb5ac5.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -223,19 +301,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "神田明神納涼祭り2026開催、オタクの夏の風物詩「アニソン盆踊り」で「クックロビン音頭」や「おジャ魔女カーニバル!!」ほか様々な演目で大盛況",
-      "description": "神田明神納涼祭り2026開催、オタクの夏の風物詩「アニソン盆踊り」で「クックロビン音頭」や「おジャ魔女カーニバル!!」ほか様々な演目で大盛況",
-      "link": "https://togetter.com/li/2730634",
-      "pubDate": "Sat, 08 Aug 2026 22:07:19 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -288,19 +353,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db95f696.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "閉店間際に回転寿司屋に行ったらネタの量がバグってた話…「こういうのを晒さないで」という声もあるが広報から「得々ゾーン」という正規サービスだとの回答も",
-      "description": "閉店間際に回転寿司屋に行ったらネタの量がバグってた話…「こういうのを晒さないで」という声もあるが広報から「得々ゾーン」という正規サービスだとの回答も",
-      "link": "https://togetter.com/li/2730622",
-      "pubDate": "Sat, 08 Aug 2026 21:30:09 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -312,19 +364,6 @@
       "link": "http://blog.esuteru.com/archives/10555486.html",
       "pubDate": "2026-08-08T21:10:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/11909139.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「ノースリーブいいなぁ」と思って着てみるが、いつもこれ→「ソニックブームしそう」「とてもよくわかる 私もケンシロウになる」",
-      "description": "「ノースリーブいいなぁ」と思って着てみるが、いつもこれ→「ソニックブームしそう」「とてもよくわかる 私もケンシロウになる」",
-      "link": "https://togetter.com/li/2730616",
-      "pubDate": "Sat, 08 Aug 2026 21:07:28 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -626,32 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/7/b7509387.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "会社「君、転勤ね」→ 男性社員「それなら妻のほうが稼ぎいいんで辞めます」⇒ 結果・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555307.html",
-      "pubDate": "2026-08-08T15:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5df09483.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】X民「坂口杏里に住むところを提供したらこのままにされて逃げられました」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555305.html",
-      "pubDate": "2026-08-08T15:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bbb36627.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -819,19 +832,6 @@
       "link": "https://rocketnews24.com/2026/08/08/2789799/",
       "pubDate": "Sat, 08 Aug 2026 02:00:21 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_3120.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ゲーム業界ご用達のフォント、年間料金“53倍”かつ“更新毎に値上げ”のありえない契約により多数撤退へ・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456486.html",
-      "pubDate": "2026-08-08T10:30:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc23a79f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-08T15:35:10.475316",
+  "updatedAt": "2026-08-08T16:39:33.629572",
   "sites": [
     {
       "id": "hachima",
