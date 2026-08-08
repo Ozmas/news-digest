@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ブラジャーを洗濯機にかけたらそのブラジャーは死んでいるというポストを見て、家にあるものを買い替えるために確認したら、全て身元不明の死体だったことが判明した",
+      "description": "ブラジャーを洗濯機にかけたらそのブラジャーは死んでいるというポストを見て、家にあるものを買い替えるために確認したら、全て身元不明の死体だったことが判明した",
+      "link": "https://togetter.com/li/2730697",
+      "pubDate": "Sun, 09 Aug 2026 00:33:34 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】有識者「私の知る軽度知的障害の高校生たちはSNSも見るし『みいちゃん』呼びの意味も分かっている。そしてそれに深く傷ついている」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555360.html",
+      "pubDate": "2026-08-09T00:30:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e9bb1e6e-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "絵師「アナログ絵で独学でここまで成長しましたー！」→AIイラストだろと批判殺到→絵師「本日をもちまして全てを終えようと思います」→しかし・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456525.html",
+      "pubDate": "2026-08-09T00:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/7/f7559a42.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】ちいかわ映画を見に行ったおっさん、女子小学生に特典をタカられてしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555340.html",
+      "pubDate": "2026-08-09T00:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7d3040c6.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "最大35日間駆動で睡眠時間や血中酸素濃度も測定してくれるアナログ時計風スマートウォッチ「ScanWatch Vitals」を使ってみた",
+      "description": "フランスに本拠を置くスマートデバイスメーカー・Withingsは体重計やスマートウォッチなどさまざまな端末を展開しています。その中の1つが、シンプルなアナログ腕時計のようなデザインに、必要な情報を表示できるディスプレイを内蔵してヘルスケアトラッカーとしても活躍するスマートウォッチ「ScanWatch Vitals」です。続きを読む...",
+      "link": "https://gigazine.net/news/20260808-scanwatch-vitals/",
+      "pubDate": "Sat, 08 Aug 2026 23:55:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -286,19 +351,6 @@
       "link": "https://rocketnews24.com/2026/08/08/2789843/",
       "pubDate": "Sat, 08 Aug 2026 12:00:00 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2075a.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "Wakatte.TVを批判する大学教授に対して「武田塾」創業者が「税金で養われている国公立の教授が一民間人や私企業を攻撃していいもんですかね」と反論",
-      "description": "Wakatte.TVを批判する大学教授に対して「武田塾」創業者が「税金で養われている国公立の教授が一民間人や私企業を攻撃していいもんですかね」と反論",
-      "link": "https://togetter.com/li/2730613",
-      "pubDate": "Sat, 08 Aug 2026 20:55:01 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -626,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "有名配信者スタンミ、ジャングリア沖縄酷評の理由を1時間説明「誰かが声を上げないとずっとかわいそうなままだぞ！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555304.html",
-      "pubDate": "2026-08-08T14:30:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78b80a63-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +689,6 @@
       "link": "https://jin115.com/archives/52456494.html",
       "pubDate": "2026-08-08T14:00:25+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/8/189a052a.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "京大病院、手術ミスで50代女性患者を「植物状態」に　脳腫瘍手術で「正常な組織」を誤って摘出",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555298.html",
-      "pubDate": "2026-08-08T14:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/aca1c7c8-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -806,19 +832,6 @@
       "link": "https://jin115.com/archives/52456486.html",
       "pubDate": "2026-08-08T10:30:37+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc23a79f.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "京大病院、脳腫瘍手術でとんでもないミスをやらかし患者を植物状態に・・・お前らの想像の5倍は酷い",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456485.html",
-      "pubDate": "2026-08-08T10:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/32fcce26.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1039,19 +1052,6 @@
       "description": "吉野家で鉄板に載ったステーキが提供される「極旨牛鉄板ステーキ定食」が2026年8月6日に登場しています。吉野家の牛ステーキがどのような味わいなのか実際に食べに行ってきました。続きを読む...",
       "link": "https://gigazine.net/news/20260807-yoshinoya-beef-teppan-steak/",
       "pubDate": "Fri, 07 Aug 2026 17:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "生きた菌糸で作られた「自ら傷を修復するドレス」が登場、汚れをはじき色やUV保護機能も追加可能",
-      "description": "中国科学院深圳先進技術研究院などの研究チームが、生きた菌糸を利用し、表面の再生や損傷の修復が可能な「生きた布」を開発しました。異なる微生物を組み合わせることで着色や紫外線保護といった機能も追加でき、実際にこの素材を使ったドレスも試作されています。続きを読む...",
-      "link": "https://gigazine.net/news/20260807-dress-made-of-living-mycelium/",
-      "pubDate": "Fri, 07 Aug 2026 16:00:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-08T14:36:35.644076",
+  "updatedAt": "2026-08-08T15:35:10.475316",
   "sites": [
     {
       "id": "hachima",
