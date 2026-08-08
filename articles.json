@@ -2,6 +2,240 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「水道温いね」←これにお前らなんて答える？正しい回答がコチラｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456494.html",
+      "pubDate": "2026-08-08T14:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/8/189a052a.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "京大病院、手術ミスで50代女性患者を「植物状態」に　脳腫瘍手術で「正常な組織」を誤って摘出",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555298.html",
+      "pubDate": "2026-08-08T14:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/aca1c7c8-s.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "ペンで文字を書くように操作できるサンワサプライの「ペン型マウス」を使ってみた",
+      "description": "サンワサプライの「ペン型マウス(400-MAWB231)」は太いペンの形をしたマウスで、胸ポケットに入れてスマートに持ち運びながら、小さいスペースでも文字を書くようにマウスを操作することができます。サンワサプライからペン型マウスを提供してもらったので、どんな操作感なのか実際に使ってみました。続きを読む...",
+      "link": "https://gigazine.net/news/20260808-pen-mouth-sanwa/",
+      "pubDate": "Sat, 08 Aug 2026 14:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「全身ユニクロ」でユニクロに入る時の気持ちが昔と変わった人の漫画に大反響「私のことかと思った」「大人になるってこういうこと」",
+      "description": "「全身ユニクロ」でユニクロに入る時の気持ちが昔と変わった人の漫画に大反響「私のことかと思った」「大人になるってこういうこと」",
+      "link": "https://togetter.com/li/2730497",
+      "pubDate": "Sat, 08 Aug 2026 13:55:26 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "幼稚園の頃に使ってたハサミの耐久力と切れ味が唯一無二すぎて一生使ってる「同じの持ってる！一緒に半世紀過ごした！」",
+      "description": "幼稚園の頃に使ってたハサミの耐久力と切れ味が唯一無二すぎて一生使ってる「同じの持ってる！一緒に半世紀過ごした！」",
+      "link": "https://togetter.com/li/2730490",
+      "pubDate": "Sat, 08 Aug 2026 13:45:28 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【！？】中島健人さんのオールナイトニッポン、人生相談コーナーが明らかにおかしい！　「あなたの悩みを送ると、中島健人が遊戯王の話をします」ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555297.html",
+      "pubDate": "2026-08-08T13:40:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/ae22f411.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「コロコロは子供向けだから面白くない」という人は正直「浅い」…死ぬほど飽きっぽいキッズを夢中にさせるのはガチスゴい、そしてコドモ視点に立ち続けるのも",
+      "description": "「コロコロは子供向けだから面白くない」という人は正直「浅い」…死ぬほど飽きっぽいキッズを夢中にさせるのはガチスゴい、そしてコドモ視点に立ち続けるのも",
+      "link": "https://togetter.com/li/2730488",
+      "pubDate": "Sat, 08 Aug 2026 13:40:14 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ある刃物店、「研いだら1mm小さくなった」という理由で低評価レビューをつけられ悲しくなる→「研磨とは…」「消しゴムメーカーにもクレーム入れるのかな」",
+      "description": "ある刃物店、「研いだら1mm小さくなった」という理由で低評価レビューをつけられ悲しくなる→「研磨とは…」「消しゴムメーカーにもクレーム入れるのかな」",
+      "link": "https://togetter.com/li/2730486",
+      "pubDate": "Sat, 08 Aug 2026 13:34:38 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「なんでジムって水素水取り入れてるの？科学的には何の意味もなくない？」「科学的に何の意味もないからこそ無害でプレミア感をつけられるからだよ」という夫婦の会話に納得感がある",
+      "description": "「なんでジムって水素水取り入れてるの？科学的には何の意味もなくない？」「科学的に何の意味もないからこそ無害でプレミア感をつけられるからだよ」という夫婦の会話に納得感がある",
+      "link": "https://togetter.com/li/2730485",
+      "pubDate": "Sat, 08 Aug 2026 13:33:49 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "陰謀論には懐疑的なのだが、1ドル札に関しては流石に何かを読み取りたくなってしまう「どういうデザインしてるんだよ」",
+      "description": "陰謀論には懐疑的なのだが、1ドル札に関しては流石に何かを読み取りたくなってしまう「どういうデザインしてるんだよ」",
+      "link": "https://togetter.com/li/2730483",
+      "pubDate": "Sat, 08 Aug 2026 13:32:55 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃事実】太平洋戦争の悲惨さが話題ですが、戦時中地方のガチ豪農だった兄妹の体験談があまりに異次元すぎた！　「戦争中でも大儲け。兄らは◯◯にしか徴兵されなかった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555286.html",
+      "pubDate": "2026-08-08T13:20:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/2/b22619fd.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「韓国人ってなんで急にお酒を飲む習慣が廃れ始めたの？全世代で変化したように見える」韓国から実感を伴うリプが多数",
+      "description": "「韓国人ってなんで急にお酒を飲む習慣が廃れ始めたの？全世代で変化したように見える」韓国から実感を伴うリプが多数",
+      "link": "https://togetter.com/li/2730477",
+      "pubDate": "Sat, 08 Aug 2026 13:13:54 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "待合室で騒ぐ子供にママが「静かにしないとあのおじさんに怒られるよ！」　→　言われたスキンヘッドおじが「私が…怒って…いいんですか…？」と立ち上がった結果ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555281.html",
+      "pubDate": "2026-08-08T13:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b66e9a4b.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "西川貴教アニキ、ミュージックステーションで”魅惑のマーメイド達と限界突破”してしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456492.html",
+      "pubDate": "2026-08-08T13:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/1/e10c480d.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "『メイドインアビス』作者・つくしあきひと先生が映画「ちいかわ」を見て「感受性が開発された」と発言、そして大きめのセイレーンぬいだけをポチる",
+      "description": "『メイドインアビス』作者・つくしあきひと先生が映画「ちいかわ」を見て「感受性が開発された」と発言、そして大きめのセイレーンぬいだけをポチる",
+      "link": "https://togetter.com/li/2730468",
+      "pubDate": "Sat, 08 Aug 2026 13:00:08 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "弁当屋のバイト2日目、「カニクリームコロッケ20個揚げてくれる？」と頼まれたので揚げたが、やらかしてしまった話",
+      "description": "弁当屋のバイト2日目、「カニクリームコロッケ20個揚げてくれる？」と頼まれたので揚げたが、やらかしてしまった話",
+      "link": "https://togetter.com/li/2730473",
+      "pubDate": "Sat, 08 Aug 2026 12:55:35 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "毎朝人間を起こすことに使命感を持っている猫に「夏休みは起こさなくていい」と伝えたらこの顔である",
+      "description": "毎朝人間を起こすことに使命感を持っている猫に「夏休みは起こさなくていい」と伝えたらこの顔である",
+      "link": "https://togetter.com/li/2730472",
+      "pubDate": "Sat, 08 Aug 2026 12:46:54 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジか】『ちびまる子ちゃん』の「大物歌手が歌うある挿入歌」、歌詞をよく見ると人の首を締めて◯害してる詩と解釈できてしまい震える…　コレこんな歌だったのか((((( ；ﾟДﾟ)))",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555276.html",
+      "pubDate": "2026-08-08T12:40:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/0/a060453d.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -26,19 +260,6 @@
       "link": "http://blog.esuteru.com/archives/10555270.html",
       "pubDate": "2026-08-08T12:20:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/8/2815c475.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画「ちいかわ」のセイレーンのあの歌を全てのパチンコを愛する人々に向けたファンアートの火力が高い、「ほんとは栄一ね、3人いたの」という嘆きも",
-      "description": "映画「ちいかわ」のセイレーンのあの歌を全てのパチンコを愛する人々に向けたファンアートの火力が高い、「ほんとは栄一ね、3人いたの」という嘆きも",
-      "link": "https://togetter.com/li/2730465",
-      "pubDate": "Sat, 08 Aug 2026 12:10:20 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -93,32 +314,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2204-1.jpeg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "巷でその柔らかさが話題の「ヒツジのいらない枕」に成人向けのなにかで聴くようなヤラれボイスを当てながらシバく動画が「だが、男だ」案件でおもろい",
-      "description": "巷でその柔らかさが話題の「ヒツジのいらない枕」に成人向けのなにかで聴くようなヤラれボイスを当てながらシバく動画が「だが、男だ」案件でおもろい",
-      "link": "https://togetter.com/li/2730463",
-      "pubDate": "Sat, 08 Aug 2026 11:54:29 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「なんで持ってんの、なんで持ってんの、なんで持ってんのそれ！」映画『ちいかわ』入場者特典のボンボンドロップシールが配布期間前にフリマサイトで出品される",
-      "description": "「なんで持ってんの、なんで持ってんの、なんで持ってんのそれ！」映画『ちいかわ』入場者特典のボンボンドロップシールが配布期間前にフリマサイトで出品される",
-      "link": "https://togetter.com/li/2730462",
-      "pubDate": "Sat, 08 Aug 2026 11:49:41 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -145,19 +340,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/364cb614.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "人身事故を起こして億の損害賠償請求されても自己破産で逃げられるという説、故意または重大な過失の場合は免責されない→それでも「ない袖は振れない」のほか、対策を取られるケースも",
-      "description": "人身事故を起こして億の損害賠償請求されても自己破産で逃げられるという説、故意または重大な過失の場合は免責されない→それでも「ない袖は振れない」のほか、対策を取られるケースも",
-      "link": "https://togetter.com/li/2730459",
-      "pubDate": "Sat, 08 Aug 2026 11:33:38 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -169,19 +351,6 @@
       "link": "https://rocketnews24.com/2026/08/08/2790094/",
       "pubDate": "Sat, 08 Aug 2026 02:31:01 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_08251.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ベルギーの家庭では一家に一台あるらしいフライヤー、さすがに大げさな気がするがベルギー人に訊いてみたら「みんながみんな持ってるわけやないで。うちにはあるけどな」とか答えるんだろうな",
-      "description": "ベルギーの家庭では一家に一台あるらしいフライヤー、さすがに大げさな気がするがベルギー人に訊いてみたら「みんながみんな持ってるわけやないで。うちにはあるけどな」とか答えるんだろうな",
-      "link": "https://togetter.com/li/2730455",
-      "pubDate": "Sat, 08 Aug 2026 11:21:38 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -208,32 +377,6 @@
       "link": "http://blog.esuteru.com/archives/10555264.html",
       "pubDate": "2026-08-08T11:20:40+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/f/df402b1e-s.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "戦争の話になると、祖母はちょっと口を噤む… 豪農のお嬢様だったのでだいぶ儲かった上に兄弟は近衛兵にしか徴兵されず、戦時中も白米しか食べたことがなかった",
-      "description": "戦争の話になると、祖母はちょっと口を噤む… 豪農のお嬢様だったのでだいぶ儲かった上に兄弟は近衛兵にしか徴兵されず、戦時中も白米しか食べたことがなかった",
-      "link": "https://togetter.com/li/2730453",
-      "pubDate": "Sat, 08 Aug 2026 11:16:39 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "アニメ化されてないのが不思議な作品、ある？→「絶対すると思ってたのに…」「してほしいけど複雑」ファンも様々な思いを抱えた作品タイトルが集まる",
-      "description": "アニメ化されてないのが不思議な作品、ある？→「絶対すると思ってたのに…」「してほしいけど複雑」ファンも様々な思いを抱えた作品タイトルが集まる",
-      "link": "https://togetter.com/li/2730061",
-      "pubDate": "Sat, 08 Aug 2026 11:08:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -275,32 +418,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/c/0c37e48f.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ウツボカズラ飯について昨日初めて知ったラボメンが主導して、本日お昼に実際に作ってくれました。3種食べ比べたので食レポします",
-      "description": "ウツボカズラ飯について昨日初めて知ったラボメンが主導して、本日お昼に実際に作ってくれました。3種食べ比べたので食レポします",
-      "link": "https://togetter.com/li/2730447",
-      "pubDate": "Sat, 08 Aug 2026 10:48:19 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画『ちいかわ』を幼児連れで入場できる回で観てきたら、セイレーンの登場シーンで場内のベビーが一斉に泣き出してとてもよい映画体験だった「何か感じたんだろうな」「そのシチュエーションで観たかった」",
-      "description": "映画『ちいかわ』を幼児連れで入場できる回で観てきたら、セイレーンの登場シーンで場内のベビーが一斉に泣き出してとてもよい映画体験だった「何か感じたんだろうな」「そのシチュエーションで観たかった」",
-      "link": "https://togetter.com/li/2730444",
-      "pubDate": "Sat, 08 Aug 2026 10:44:58 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -325,19 +442,6 @@
       "link": "http://blog.esuteru.com/archives/10555252.html",
       "pubDate": "2026-08-08T10:30:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78913203.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "電車で座っている人の前に子供連れてきて「上手に立てるね」とか「疲れたね」とか譲るまでずっと言い続けるのやめてもらっていいですか→ただの声掛けなので遠慮なくガン無視してください",
-      "description": "電車で座っている人の前に子供連れてきて「上手に立てるね」とか「疲れたね」とか譲るまでずっと言い続けるのやめてもらっていいですか→ただの声掛けなので遠慮なくガン無視してください",
-      "link": "https://togetter.com/li/2730439",
-      "pubDate": "Sat, 08 Aug 2026 10:28:14 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -600,32 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/a/da51b0a9-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "任天堂が「オンラインプレイで楽しく遊ぶためにお願いしたいこと」を公開！みんな仲良くしろよ！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555132.html",
-      "pubDate": "2026-08-08T05:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d35cab50-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ネタバレ注意】上映中の映画『スパイダーマンBND』のマニアックなセルフカバー！実はあのシーンは……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555128.html",
-      "pubDate": "2026-08-08T04:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/acfddf95-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,45 +715,6 @@
       "link": "https://jin115.com/archives/52456465.html",
       "pubDate": "2026-08-08T03:00:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/77f3a85f.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女さん今度は「ガルガル期」とかいう新ワードでバカにされてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555126.html",
-      "pubDate": "2026-08-08T03:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b1adc030-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ソニーの新作格ゲー『マーベル闘魂』Steam版レビューは「賛否両論」！PC最適化不足で激重、PSNサインインに激怒する人も登場",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555161.html",
-      "pubDate": "2026-08-08T02:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e985e5b3.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ハラスメント騒動の佐藤二朗さん、妻とのハグを報告「文〇砲より遥かに威力は弱いが、僕のノロケ砲をお見舞いする」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555164.html",
-      "pubDate": "2026-08-08T01:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/0/40907741.jpg"
     },
     {
       "siteId": "jin",
@@ -793,32 +832,6 @@
       "link": "https://jin115.com/archives/52456438.html",
       "pubDate": "2026-08-07T21:40:55+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/6/a63616bc.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『クローバー』全巻「99円」セール！全43巻「22,704円」→「4,257円」！実写ドラマ化もされたチャンピオンが誇る名作ヤンキー漫画！『ドロップOG』も全26巻すべて「99円」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456414.html",
-      "pubDate": "2026-08-07T21:20:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/6419da0a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気配信者さん、加藤純一さんのファンに「RUSTでお気に入りの配信者が負けて嫌だよな？空気読めってなるよな？その結果がVCR。お前らVCR向いてるよ」→大炎上",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456469.html",
-      "pubDate": "2026-08-07T21:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/7/b7a60356.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1013,19 +1026,6 @@
       "description": "フランスでは2026年8月11日から、消費者が事前に同意していない電話勧誘が原則として禁止されます。従来は勧誘を拒否する人が自ら登録する方式でしたが、新制度では事業者側が消費者から明確な同意を得たことを証明しなければ電話をかけられなくなります。続きを読む...",
       "link": "https://gigazine.net/news/20260807-france-bans-spam-call/",
       "pubDate": "Fri, 07 Aug 2026 14:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "遺伝子配列を学習したAIが自然界で確認されていないウイルスを設計、細菌に感染する16種類が実際に機能",
-      "description": "スタンフォード大学などの研究チームがDNA配列を学習したAIモデルを使い、細菌に感染するウイルス「バクテリオファージ」の全ゲノムを生成しました。実験ではAIが設計した候補のうち16種類が実際に機能し、複数を混ぜたカクテルによって、天然のファージに耐性を持つ大腸菌を抑えられることも確認されています。続きを読む...",
-      "link": "https://gigazine.net/news/20260807-ai-designs-bacteriophages-genome/",
-      "pubDate": "Fri, 07 Aug 2026 13:45:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-08T03:40:27.670035",
+  "updatedAt": "2026-08-08T05:02:54.869932",
   "sites": [
     {
       "id": "hachima",
