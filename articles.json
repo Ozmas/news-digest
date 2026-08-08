@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "遂にユニクロ式「置くだけ会計レジ」がスーパーに進出か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555489.html",
+      "pubDate": "2026-08-09T04:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/b/7b25d74f-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】スマホゲーム業界、サ終が相次ぎガチで危機的な状況に…その理由がこちら",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456529.html",
+      "pubDate": "2026-08-09T04:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/c/bc5c3f64-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "艦これ絵師「AIってみんな言うけど違います！証拠はこれです！」→結果……",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10555488.html",
@@ -639,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b98ef2a4.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "Rockstarの親会社であるテイクツー社長、『GTA 6』物理ディスク版がないことについて擁護「デジタル版の方がずっと便利」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555329.html",
-      "pubDate": "2026-08-08T17:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/5/95a5208a-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +819,6 @@
       "link": "https://jin115.com/archives/52456458.html",
       "pubDate": "2026-08-08T11:20:56+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/4/14029284.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "会社「辞めたいなら辞めろ。お前の代わりはいくらでもいる」→結果ｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456490.html",
-      "pubDate": "2026-08-08T11:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b96d4701.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-08T18:45:17.884093",
+  "updatedAt": "2026-08-08T19:34:33.275030",
   "sites": [
     {
       "id": "hachima",
