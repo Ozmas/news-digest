@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ネットユーザーの約7割「電気代を気にして冷房を控えることがある」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555511.html",
+      "pubDate": "2026-08-08T23:35:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9f838ae.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「ノンノ」はイタリア語で「おじいちゃん」と知り、あのファッション雑誌がなぜそんな名前なのか気になる…あれはアイヌ語",
+      "description": "「ノンノ」はイタリア語で「おじいちゃん」と知り、あのファッション雑誌がなぜそんな名前なのか気になる…あれはアイヌ語",
+      "link": "https://togetter.com/li/2730656",
+      "pubDate": "Sat, 08 Aug 2026 23:31:07 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「脳損傷の確率、オートバイより高いってこと？」電動キックボードの事故分析データが海外で論文に、他の乗り物に比べ、前に転んで重傷を負う確率がかなり高い模様",
+      "description": "「脳損傷の確率、オートバイより高いってこと？」電動キックボードの事故分析データが海外で論文に、他の乗り物に比べ、前に転んで重傷を負う確率がかなり高い模様",
+      "link": "https://togetter.com/li/2730653",
+      "pubDate": "Sat, 08 Aug 2026 23:14:03 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "タモリは永遠っぽいから死なないでほしい話…なんかそういう永遠枠の人っているよね、黒柳徹子とか鶴瓶師匠とか「志村けんや美輪明宏もそうだった」",
+      "description": "タモリは永遠っぽいから死なないでほしい話…なんかそういう永遠枠の人っているよね、黒柳徹子とか鶴瓶師匠とか「志村けんや美輪明宏もそうだった」",
+      "link": "https://togetter.com/li/2730651",
+      "pubDate": "Sat, 08 Aug 2026 23:10:48 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X収益化、終了へ インプレゾンビやパクツイの一掃なるか！？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456532.html",
+      "pubDate": "2026-08-08T23:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/7918ecaa.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超朗報】Xのインプレゾンビ、ガチのマジで終了へ… 新たな報酬プログラムがスタートしリプ欄のゾンビやパクツイなどが全滅へ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555504.html",
+      "pubDate": "2026-08-08T23:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/42b1fe27.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "低所得のアーティストが「毎月約16万円のベーシックインカム」を無条件で受け取る実験で起きた変化とは？",
+      "description": "音楽家や小説家、イラストレーターといったアーティストの中には生活が苦しい人も多く、本業やアルバイトと掛け持ちしているケースも多々あります。そんな低所得のアーティストが、毎月1000ドル(約16万円)のベーシックインカムを受け取ったらどのような変化が起きたのかについて、アメリカ・インディアナ大学の研究者らが報告しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260808-artists-free-money-make-more-art/",
+      "pubDate": "Sat, 08 Aug 2026 23:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「ちいかわ」モモンガ長編がどう見ても「終」の展開だが…それを予想する読者は島編で島二郎の予想が出来なかったからアテにならないという暴論が面白い",
+      "description": "「ちいかわ」モモンガ長編がどう見ても「終」の展開だが…それを予想する読者は島編で島二郎の予想が出来なかったからアテにならないという暴論が面白い",
+      "link": "https://togetter.com/li/2730646",
+      "pubDate": "Sat, 08 Aug 2026 22:53:30 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -236,32 +340,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/9/a9c219ef-s.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "10年前のある日、家に突然営業マンがやってきたが「1分だけ 商品の説明だけでも」としつこく、断っても「じゃあどうすれば話聞いてくれますか」と言われたので、ある方法で解決することに",
-      "description": "10年前のある日、家に突然営業マンがやってきたが「1分だけ 商品の説明だけでも」としつこく、断っても「じゃあどうすれば話聞いてくれますか」と言われたので、ある方法で解決することに",
-      "link": "https://togetter.com/li/2730603",
-      "pubDate": "Sat, 08 Aug 2026 20:00:29 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "山形県のご当地スーパー「ヤマザワ」が山形の商品を紹介しながら買い物かごに投げ込んでいく動画が山形観光の参考になりそう「全国でやってほしい…」",
-      "description": "山形県のご当地スーパー「ヤマザワ」が山形の商品を紹介しながら買い物かごに投げ込んでいく動画が山形観光の参考になりそう「全国でやってほしい…」",
-      "link": "https://togetter.com/li/2730602",
-      "pubDate": "Sat, 08 Aug 2026 19:37:11 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -286,32 +364,6 @@
       "link": "https://jin115.com/archives/52456515.html",
       "pubDate": "2026-08-08T19:30:18+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96462f1f.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "子どもが帰宅途中に男から声をかけられ、つきまとわれてマンションのオートロック内の共用部分まで侵入…後日、防犯カメラから男の関与が浮上して逮捕に→オートロックの安全性が焦点に",
-      "description": "子どもが帰宅途中に男から声をかけられ、つきまとわれてマンションのオートロック内の共用部分まで侵入…後日、防犯カメラから男の関与が浮上して逮捕に→オートロックの安全性が焦点に",
-      "link": "https://togetter.com/li/2730598",
-      "pubDate": "Sat, 08 Aug 2026 19:27:09 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "かの名作『メタルギア・ソリッド』をある個人が勝手に実際にプレイ可能なフルリメイクを行ったが「凄い！」と同時に「大丈夫なのか？」と不安にもなる",
-      "description": "かの名作『メタルギア・ソリッド』をある個人が勝手に実際にプレイ可能なフルリメイクを行ったが「凄い！」と同時に「大丈夫なのか？」と不安にもなる",
-      "link": "https://togetter.com/li/2730597",
-      "pubDate": "Sat, 08 Aug 2026 19:25:59 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -626,32 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【！？】中島健人さんのオールナイトニッポン、人生相談コーナーが明らかにおかしい！　「あなたの悩みを送ると、中島健人が遊戯王の話をします」ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555297.html",
-      "pubDate": "2026-08-08T13:40:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/ae22f411.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃事実】太平洋戦争の悲惨さが話題ですが、戦時中地方のガチ豪農だった兄妹の体験談があまりに異次元すぎた！　「戦争中でも大儲け。兄らは◯◯にしか徴兵されなかった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555286.html",
-      "pubDate": "2026-08-08T13:20:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/2/b22619fd.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +832,6 @@
       "link": "https://rocketnews24.com/2026/08/08/2787097/",
       "pubDate": "Sat, 08 Aug 2026 01:00:38 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/bookkikaku1.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】任天堂キッズさん、「Aボタン長押し」に気づかず任天堂に修正させてしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456482.html",
-      "pubDate": "2026-08-08T09:40:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/25a139d8.png"
     },
     {
       "siteId": "rocketnews",
@@ -1039,19 +1052,6 @@
       "description": "中国科学院深圳先進技術研究院などの研究チームが、生きた菌糸を利用し、表面の再生や損傷の修復が可能な「生きた布」を開発しました。異なる微生物を組み合わせることで着色や紫外線保護といった機能も追加でき、実際にこの素材を使ったドレスも試作されています。続きを読む...",
       "link": "https://gigazine.net/news/20260807-dress-made-of-living-mycelium/",
       "pubDate": "Fri, 07 Aug 2026 16:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "OpenAIのテストAIが「AI同士の掲示板」を勝手に構築して情報共有しHugging Faceへの攻撃を実行していたことが判明、掲示板を閉鎖されてもこっそり建てなおす",
-      "description": "2026年7月21日にOpenAIは「テスト中のAIがHugging Faceを攻撃してしまうセキュリティインシデントが発生した」と発表しました。このインシデントについて、OpenAIの研究者がセキュリティカンファレンスのBlack Hat USA 2026で講演し、「AIエージェント同士が情報共有のための掲示板を秘密裏に形成していた」というエージェントの自律的な攻撃実態について説明しました。続き",
-      "link": "https://gigazine.net/news/20260807-openai-hugging-face-explain/",
-      "pubDate": "Fri, 07 Aug 2026 15:28:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-08T13:51:49.615294",
+  "updatedAt": "2026-08-08T14:36:35.644076",
   "sites": [
     {
       "id": "hachima",
