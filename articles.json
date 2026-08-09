@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "夫が冷笑系すぎてこれから行くプールのこと水が溜まってるだけとか言い出した「そんなこと言ったら彼自身も、素粒子が一時的に人の形にまとまってるだけじゃん」",
+      "description": "夫が冷笑系すぎてこれから行くプールのこと水が溜まってるだけとか言い出した「そんなこと言ったら彼自身も、素粒子が一時的に人の形にまとまってるだけじゃん」",
+      "link": "https://togetter.com/li/2731028",
+      "pubDate": "Sun, 09 Aug 2026 19:36:38 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "元タレントの高樹沙耶さん、神田明神のアニソン盆踊りを見て「日本は品格が落ちたと思いました」 → 炎上",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555727.html",
+      "pubDate": "2026-08-09T19:30:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/7/f75ffa8a.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "海外に、嫌いな相手へラメ入りの封筒を送るサービスがあるらしい「ワロタと思ったらラメって一生消しきれないらしくてほん怖だった」「ラメの片付けまじで大変なんよな」",
+      "description": "海外に、嫌いな相手へラメ入りの封筒を送るサービスがあるらしい「ワロタと思ったらラメって一生消しきれないらしくてほん怖だった」「ラメの片付けまじで大変なんよな」",
+      "link": "https://togetter.com/li/2731023",
+      "pubDate": "Sun, 09 Aug 2026 19:17:10 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【詐欺の可能性】謎の団体「琵琶湖三市同時花火大会を開催します！！」三市「は？聞いてないけど」 → 開催中止が発表されるも有料席や出店料の返金には触れず",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555719.html",
+      "pubDate": "2026-08-09T19:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/af9a8c8e.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "世界最古の餃子チェーン『老辺餃子舘』北京店に行ってみた / 中国ギネスの賞状や創始者の顔に感じる200年の歴史",
+      "description": "餃子の王将が来年2027年で創業60周年。3つの時代を跨ぐ60年も長いけれど、餃子で言うなら本場は中国である。中国が誇る世界最古の餃子チェーンが『老辺餃子舘』だ。創業、約200年。 清朝の頃から続く餃子店で、中国版ギネス [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/09/2788460/",
+      "pubDate": "Sun, 09 Aug 2026 10:00:39 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/rouben.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "絵師「このイラストを描く過程をタイムラプスで動画にしました！」→とんでもないものが映り込んで16万いいね",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456581.html",
+      "pubDate": "2026-08-09T19:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96b5a96b.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能",
+      "description": "「見えないドローン」をアメリカ・ノースウェスタン大学の研究グループが開発しました。「ファントム・ツイスト(Phantom Twist)」と名付けられたこのドローンは、高速回転する扇風機の羽根やプロペラの形状が見えにくくなる「モーションブラー」を利用して姿を隠します。続きを読む...",
+      "link": "https://gigazine.net/news/20260809-phantom-twist-drone/",
+      "pubDate": "Sun, 09 Aug 2026 19:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「本当に強い奴が隠れていた」『鉄拳』の世界大会にほぼ無名のパキスタン人が予選参加→予選優勝から本戦に挑み、前回の準優勝者をストレートで下して優勝を果たす",
+      "description": "「本当に強い奴が隠れていた」『鉄拳』の世界大会にほぼ無名のパキスタン人が予選参加→予選優勝から本戦に挑み、前回の準優勝者をストレートで下して優勝を果たす",
+      "link": "https://togetter.com/li/2731013",
+      "pubDate": "Sun, 09 Aug 2026 18:50:45 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -171,19 +275,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画ライターが「IMAXで観るのは好きだけど、IMAX自体はあまり知らない人」向けに技術のコア部分を解説した記事が素人にもとてもわかりやすい",
-      "description": "映画ライターが「IMAXで観るのは好きだけど、IMAX自体はあまり知らない人」向けに技術のコア部分を解説した記事が素人にもとてもわかりやすい",
-      "link": "https://togetter.com/li/2730984",
-      "pubDate": "Sun, 09 Aug 2026 17:20:40 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -234,32 +325,6 @@
       "link": "https://rocketnews24.com/2026/08/09/2789788/",
       "pubDate": "Sun, 09 Aug 2026 08:00:01 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/kikimimi105-1koma.png"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ブレーキメーカー『DIXCEL』が渋滞を減らす「渋滞吸収運転」のやり方を解説→効果はあるが、実際にやろうとするといろんな問題がある？",
-      "description": "ブレーキメーカー『DIXCEL』が渋滞を減らす「渋滞吸収運転」のやり方を解説→効果はあるが、実際にやろうとするといろんな問題がある？",
-      "link": "https://togetter.com/li/2730975",
-      "pubDate": "Sun, 09 Aug 2026 16:52:31 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "夜中の山道を軽自動車で走行中、煽られて先に行かせた…その後、コースアウトして発煙筒を焚いて「助けて」の声が聞こえたが、煽っていた車だったので見捨てた→救護義務がある？体験談も",
-      "description": "夜中の山道を軽自動車で走行中、煽られて先に行かせた…その後、コースアウトして発煙筒を焚いて「助けて」の声が聞こえたが、煽っていた車だったので見捨てた→救護義務がある？体験談も",
-      "link": "https://togetter.com/li/2730974",
-      "pubDate": "Sun, 09 Aug 2026 16:50:31 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -665,19 +730,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_5673.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【噂】PS6の性能はPS5の2倍超えになるかもしれない模様",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555611.html",
-      "pubDate": "2026-08-09T10:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/587cf9f8.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -689,19 +741,6 @@
       "link": "https://gigazine.net/news/20260809-cio-smartcoby-pro-slim-ss/",
       "pubDate": "Sun, 09 Aug 2026 10:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】オタクによる盆踊りがこちらｗｗｗｗｗ　そもそも盆踊りって…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555597.html",
-      "pubDate": "2026-08-09T09:30:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/3/43508a3e-s.png"
     },
     {
       "siteId": "jin",
@@ -819,19 +858,6 @@
       "link": "https://jin115.com/archives/52456514.html",
       "pubDate": "2026-08-09T01:00:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/685acfd7.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "絵師「アナログ絵で独学でここまで成長しましたー！」→AIイラストだろと批判殺到→絵師「本日をもちまして全てを終えようと思います」→しかし・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456525.html",
-      "pubDate": "2026-08-09T00:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/7/f7559a42.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1107,19 +1133,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "面白い要素を全部乗せ、ローグライク×デッキ構築×パーティ制RPGの「Chrono Ark」を遊んでみた",
-      "description": "「Chrono Ark」は、ローグライクとデッキ構築、そしてパーティ制RPGという3つの要素を組み合わせたシングルプレイ向けRPGです。「面白い要素を3つあわせたゲームが面白くないわけがない！」ということで、実際にプレイして確かめてみることにしました。続きを読む...",
-      "link": "https://gigazine.net/news/20260807-chrono-ark/",
-      "pubDate": "Fri, 07 Aug 2026 23:35:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1170,19 +1183,6 @@
       "link": "https://www.buzzfeed.com/jp/jasmineoliphant/royal-house-of-norway-tablesetting",
       "pubDate": "Fri, 07 Aug 2026 00:35:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/06/04/subbuzz/sEtKX_Mqz.jpg?crop=695:463;0,37&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【41％オフ】new balanceのリカバリーシューズ「RCVRY v4」が9790円 → 5790円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。アパレル・食品・飲料など、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、ニューバランスのリカバリーシューズ「RCVRY v4」をピックアッ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/07/2789802/",
-      "pubDate": "Fri, 07 Aug 2026 04:10:14 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_0074.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,58 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "留守番している秋田犬たちの様子を確認したら・・「なんすかこれ、一緒に寝たい」「混ぜてほしい」",
+      "description": "お家で留守番中の秋田犬たち。 その様子を設置してあるドッグカメラで見た時の様子が話題を呼びました。 ※こちらは、2024年8月に公開した記事を再構成したものとなります 平和な留守番風景 ご紹介するのは、秋田犬こゆきと愉快 [&#8230;]",
+      "link": "https://getnews.jp/archives/3735902",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "もしものときはモバイルバッテリーに変身。エネループ愛用歴15年、「充電池の寿命がわかる充電器」に感動した！",
+      "description": "充電して繰り返し使える乾電池といえば、やっぱり個人的にはパナソニック（Panasonic）の「エネループ」。 「一度充電すれば10年後でも約70％の残量を維持できる」とのことで防災用としても重宝しており、気づけば15年近 [&#8230;]",
+      "link": "https://getnews.jp/archives/3735903",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【連載コラム】AFAMooのCreative Life―第161回 “ハッピーなダンスポップナンバー” VIBY「Gotcha (ガチャ)」",
+      "description": "みなさんこんばんは。アーティスト活動と並行して、フリーライターとしてOTOTOYでニュース記事を書いているAFAMooと申します。今回も毎週更新中のSpotifyプレイリスト「Tokyo Chill Dance」に掲載し [&#8230;]",
+      "link": "https://getnews.jp/archives/3735901",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "イヤホン、アンカーの「一つ前のモデル」にして大正解！お手頃価格で最新より20時間も長く使えるんだ",
+      "description": "最近のワイヤレスイヤホンは高性能化が進むけれど、その分価格もお高め。 高性能なモデルを選んでも、バッテリーの持続時間が短いと、充電し忘れで使えないことも多発しそう……。 前に使っていたイヤホンが壊れてしまい、「1万円以下 [&#8230;]",
+      "link": "https://getnews.jp/archives/3735904",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "悩ましきキッチンペーパーホルダー。探し続けた私がたどり着いたのは山崎実業のスチールタイプでした",
       "description": "商品提供：山崎実業 ロールタイプのキッチンペーパーは使いやすい反面、そのまま置くと生活感が出やすいのが悩み。これまでカバー付きやスタンドタイプなどいろいろ試してきましたが、「見た目」と「使いやすさ」の両方に満足できるもの [&#8230;]",
       "link": "https://getnews.jp/archives/3735899",
@@ -1768,61 +1820,9 @@
       "link": "https://getnews.jp/archives/3735895",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【夏麺】見つけたら買うべき隠れたベストセラー『日清 冷たいトマトのラーメン』",
-      "description": "美味しすぎて「オールシーズン生産してほしい」の声 日清から発売されているチルド麺の『日清 冷たいトマトのラーメン』はご存じでしょうか。 スーパーマーケットなどの生めんを扱っているコーナーなどで買うことができるのですが、実 [&#8230;]",
-      "link": "https://getnews.jp/archives/3735878",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "〈人生、歌がある〉8/22は「小柳ルミ子名場面集」",
-      "description": "BS朝日〈人生、歌がある〉8月22日はゲストに小柳ルミ子を迎え、「小柳ルミ子名場面集」を放送。番組後半では5月31日に亡くなった菅原洋一を偲ぶ。 出演は石川さゆり、岡田美里、川中美幸、クミコ、小柳ルミ子、神野美伽、菅原洋 [&#8230;]",
-      "link": "https://getnews.jp/archives/3735876",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "花王 リセッシュ 強力消臭シリーズがパワーアップ☆ 自分自身では気づかない無自覚臭まで消臭♪ 焼肉臭などのニオイ原因物質への消臭力も向上◎ 99％除菌ウイルス除去",
-      "description": "スポーツ後にしみついた汗・皮脂臭、焼き肉ランチ後の焼き肉臭、けむり臭、旅行から帰ってきて気が付く自分の家のニオイ…。 これぜんぶ、同じニオイを嗅ぎ続けて鼻が慣れてしまい、本人では気づきにくい衣類や布製品のニオイ――― 無 [&#8230;]",
-      "link": "https://getnews.jp/archives/3735877",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "〈MUSIC FAIR〉8/15出演者発表",
-      "description": "8月15日放送の〈MUSIC FAIR〉出演者が発表された。 出演は渡辺美里・中島健人・家入レオ・Da-iCE。 渡辺美里は夏の名曲「サマータイム ブルース」を家入、Da－iCE花村・大野とコラボする。ほか、中島健人は「 [&#8230;]",
-      "link": "https://getnews.jp/archives/3735872",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-09T09:45:27.074360",
+  "updatedAt": "2026-08-09T10:39:58.979178",
   "sites": [
     {
       "id": "hachima",
