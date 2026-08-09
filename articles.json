@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】X民「私がみい山アニメ化に反対するのはそれで虐げられるのが『反撃する力を持たない者』だから。弱男は殴り返す力を持つので使命感を持つほど守りたくならない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555671.html",
+      "pubDate": "2026-08-09T15:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/6/5612d648.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】高市首相、もはやマッサージを受けただけで叩かれてしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456560.html",
+      "pubDate": "2026-08-09T15:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/c/2c533ff1.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "業者の方に「家に猫がいます、アレルギーや苦手な方はいますか？隔離しますか？」と尋ねたら「厳選します」という返答が来た",
+      "description": "業者の方に「家に猫がいます、アレルギーや苦手な方はいますか？隔離しますか？」と尋ねたら「厳選します」という返答が来た",
+      "link": "https://togetter.com/li/2730928",
+      "pubDate": "Sun, 09 Aug 2026 14:58:04 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「帝国ホテルの部屋を見たい」と宿泊先に押し掛けてきた人がいきなり備え付けのチョコを食べだしたのでとがめたら、その後各方面に呪詛を吐かれまくった→残念な体験談に同情集まる",
+      "description": "「帝国ホテルの部屋を見たい」と宿泊先に押し掛けてきた人がいきなり備え付けのチョコを食べだしたのでとがめたら、その後各方面に呪詛を吐かれまくった→残念な体験談に同情集まる",
+      "link": "https://togetter.com/li/2730913",
+      "pubDate": "Sun, 09 Aug 2026 14:37:08 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "朝起きたら猫が障子のカスタマイズを始めていてガックリ→解決するための方法が「猫との暮らし」って感じだった",
+      "description": "朝起きたら猫が障子のカスタマイズを始めていてガックリ→解決するための方法が「猫との暮らし」って感じだった",
+      "link": "https://togetter.com/li/2730911",
+      "pubDate": "Sun, 09 Aug 2026 14:36:38 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】大食い女子「増えるわかめを大量に食べて、水を飲んでみました！」 → 腹がヤバイことになってしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555657.html",
+      "pubDate": "2026-08-09T14:30:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6b366fc4.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "声優養成所の指導者が嘲笑混じりの声で「いやw あのさぁwwなんでそんな表現になるの？w」などと馬鹿にし、具体的にどうすればいいかを質問すると「自分で考えるんだよ」と返してくる話",
+      "description": "声優養成所の指導者が嘲笑混じりの声で「いやw あのさぁwwなんでそんな表現になるの？w」などと馬鹿にし、具体的にどうすればいいかを質問すると「自分で考えるんだよ」と返してくる話",
+      "link": "https://togetter.com/li/2730898",
+      "pubDate": "Sun, 09 Aug 2026 14:16:21 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -34,10 +125,10 @@
       "siteColor": "#60a5fa",
       "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
       "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ルビィちゃんの声優、浜ちゃんにイジられてから歯車が狂いだしてしまうｗｗｗｗｗｗｗ",
+      "title": "ルビィちゃんの声優、浜ちゃんにイジられてから人生の歯車が狂いだしてしまうｗｗｗｗｗｗｗ",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52456554.html",
-      "pubDate": "2026-08-09T14:00:18+09:00",
+      "pubDate": "2026-08-09T14:00:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/4/c469842f-s.jpg"
     },
     {
@@ -119,19 +210,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "手作りピザの謙譲語表現「愚ピザ」→「愚〇〇」ってこういう時しか使わないのでは？という指摘から、日本語を改めて知ることになる",
-      "description": "手作りピザの謙譲語表現「愚ピザ」→「愚〇〇」ってこういう時しか使わないのでは？という指摘から、日本語を改めて知ることになる",
-      "link": "https://togetter.com/li/2730869",
-      "pubDate": "Sun, 09 Aug 2026 13:07:21 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -168,45 +246,6 @@
       "description": "「Happy Hacking Keyboard(HHKB)」はキーボードにこだわる人々から愛されている傑作キーボードで、「ファンクションキーを廃したコンパクト設計」や「静電容量無接点方式のスイッチによる上質な打鍵感」を特徴としています。2023年に登場したHHKB StudioはHHKBのキー配列はそのままに、静電容量無接点方式ではなくメカニカルキースイッチを搭載した新世代モデルとして人気を集めて",
       "link": "https://gigazine.net/news/20260809-hhkb-studio/",
       "pubDate": "Sun, 09 Aug 2026 13:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "靖国神社が境内におけるコスプレ衣装着用の禁止を発表、今までは「旧軍人にやめろと言いにくかった」と思われるが「もう最年少で90代後半や100歳オーバーだろうしなぁ」",
-      "description": "靖国神社が境内におけるコスプレ衣装着用の禁止を発表、今までは「旧軍人にやめろと言いにくかった」と思われるが「もう最年少で90代後半や100歳オーバーだろうしなぁ」",
-      "link": "https://togetter.com/li/2730861",
-      "pubDate": "Sun, 09 Aug 2026 12:57:44 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "人間ドックを受けて来たが、アホみたいに健康体すぎて医師から「まあ……強いて言えば交通事故とかに気をつけてください」と言われた話「ミギーかな？」「言われたい言葉ナンバーワン」",
-      "description": "人間ドックを受けて来たが、アホみたいに健康体すぎて医師から「まあ……強いて言えば交通事故とかに気をつけてください」と言われた話「ミギーかな？」「言われたい言葉ナンバーワン」",
-      "link": "https://togetter.com/li/2730856",
-      "pubDate": "Sun, 09 Aug 2026 12:47:48 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「我が子からうつった手足口病で爪が剥がれ始めた、持ってる情報はなんでも話すのでもうやめてほしい」恐ろしい実体験の数々に震える",
-      "description": "「我が子からうつった手足口病で爪が剥がれ始めた、持ってる情報はなんでも話すのでもうやめてほしい」恐ろしい実体験の数々に震える",
-      "link": "https://togetter.com/li/2730855",
-      "pubDate": "Sun, 09 Aug 2026 12:44:58 +0900",
       "thumbnail": ""
     },
     {
@@ -665,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/c/3cecb1bd-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "遂にユニクロ式「置くだけ会計レジ」がスーパーに進出か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555489.html",
-      "pubDate": "2026-08-09T04:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/b/7b25d74f-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +715,6 @@
       "link": "https://jin115.com/archives/52456529.html",
       "pubDate": "2026-08-09T04:00:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/c/bc5c3f64-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "艦これ絵師「AIってみんな言うけど違います！証拠はこれです！」→結果……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555488.html",
-      "pubDate": "2026-08-09T03:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8ba7e995.jpg"
     },
     {
       "siteId": "jin",
@@ -832,19 +845,6 @@
       "link": "https://rocketnews24.com/2026/08/08/2789843/",
       "pubDate": "Sat, 08 Aug 2026 12:00:00 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2075a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "数年前に「ひき肉です！」で一世を風靡した人気YouTuber『ちょんまげ小僧』さん、とんでもないことになっていた",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456524.html",
-      "pubDate": "2026-08-08T20:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/9/a9c219ef-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-09T05:14:06.987845",
+  "updatedAt": "2026-08-09T06:09:37.270537",
   "sites": [
     {
       "id": "hachima",
