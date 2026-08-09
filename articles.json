@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "元Repezen FoxxのDJ社長、活動終了を報告　一般人となり完全にネットから消える",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555761.html",
+      "pubDate": "2026-08-09T22:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/8/388dadfb.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ゴールデンボンバーのライブ中に突然、謎の女性がカンペを持って、ステージ上に乱入！→演出かと思いきや、とんでもなくガチでやばすぎる大事故に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456587.html",
+      "pubDate": "2026-08-09T22:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/f/bf245f0a.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中国大使館「中国人のみなさんへ。文明的、理性的で秩序ある行動をしてください」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555752.html",
+      "pubDate": "2026-08-09T21:25:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/5/153b6c00.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "モノタロウの受注手段でFAXの比率が激減していて「FAXの民」も絶滅寸前か→それでもFAXは無くならないとの声も",
+      "description": "モノタロウの受注手段でFAXの比率が激減していて「FAXの民」も絶滅寸前か→それでもFAXは無くならないとの声も",
+      "link": "https://togetter.com/li/2731054",
+      "pubDate": "Sun, 09 Aug 2026 21:00:47 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性「増えるワカメを大量に食べて水を飲むと腹が膨らむって本当？実際にやってみるわ」 → 腹がどんどん膨らんで… うわぁあああああああ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456575.html",
+      "pubDate": "2026-08-09T21:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/4/a4e03dd7-s.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2076話目「エルフの森の変化④」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/08/09/2789849/",
+      "pubDate": "Sun, 09 Aug 2026 12:00:10 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2076a.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "がん関連ウイルスを大幅に減少させるチューインガムが開発される",
+      "description": "ペンシルベニア大学の研究者らが、がん予防効果のあるチューインガムを開発しました。チューインガムをかむだけで、首から顔の領域にできる「頭頸部(とうけいぶ)がん」に関連する微生物を標的としてウイルス1種と細菌2種を大幅に減少させたことが報告されています。続きを読む...",
+      "link": "https://gigazine.net/news/20260809-cancer-fighting-chewing-gum/",
+      "pubDate": "Sun, 09 Aug 2026 21:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "岩下の新生姜とサクラクレパスのコラボクーピーペンシルでぬり絵をやった人が出来上がった作品を投稿したが、色合いは可愛いのに可愛くない",
+      "description": "岩下の新生姜とサクラクレパスのコラボクーピーペンシルでぬり絵をやった人が出来上がった作品を投稿したが、色合いは可愛いのに可愛くない",
+      "link": "https://togetter.com/li/2731051",
+      "pubDate": "Sun, 09 Aug 2026 20:49:01 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "唐沢なをき先生が『水木しげる先生の「見上げ入道」の細密な蜘蛛の巣はどうやって書いたんだ？』という疑問について専門家たちがいろいろ考察を重ねる",
+      "description": "唐沢なをき先生が『水木しげる先生の「見上げ入道」の細密な蜘蛛の巣はどうやって書いたんだ？』という疑問について専門家たちがいろいろ考察を重ねる",
+      "link": "https://togetter.com/li/2731050",
+      "pubDate": "Sun, 09 Aug 2026 20:47:22 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "人気女性ユーチューバーさん、インスタに載せた写真があまりにも「やりすぎ」と話題にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555741.html",
+      "pubDate": "2026-08-09T20:40:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/575ec86a.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -132,19 +262,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "夫が冷笑系すぎてこれから行くプールのこと水が溜まってるだけとか言い出した「そんなこと言ったら彼自身も、素粒子が一時的に人の形にまとまってるだけじゃん」",
-      "description": "夫が冷笑系すぎてこれから行くプールのこと水が溜まってるだけとか言い出した「そんなこと言ったら彼自身も、素粒子が一時的に人の形にまとまってるだけじゃん」",
-      "link": "https://togetter.com/li/2731028",
-      "pubDate": "Sun, 09 Aug 2026 19:36:38 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -156,19 +273,6 @@
       "link": "http://blog.esuteru.com/archives/10555727.html",
       "pubDate": "2026-08-09T19:30:00+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/7/f75ffa8a.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "海外に、嫌いな相手へラメ入りの封筒を送るサービスがあるらしい「ワロタと思ったらラメって一生消しきれないらしくてほん怖だった」「ラメの片付けまじで大変なんよな」",
-      "description": "海外に、嫌いな相手へラメ入りの封筒を送るサービスがあるらしい「ワロタと思ったらラメって一生消しきれないらしくてほん怖だった」「ラメの片付けまじで大変なんよな」",
-      "link": "https://togetter.com/li/2731023",
-      "pubDate": "Sun, 09 Aug 2026 19:17:10 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -220,19 +324,6 @@
       "description": "「見えないドローン」をアメリカ・ノースウェスタン大学の研究グループが開発しました。「ファントム・ツイスト(Phantom Twist)」と名付けられたこのドローンは、高速回転する扇風機の羽根やプロペラの形状が見えにくくなる「モーションブラー」を利用して姿を隠します。続きを読む...",
       "link": "https://gigazine.net/news/20260809-phantom-twist-drone/",
       "pubDate": "Sun, 09 Aug 2026 19:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「本当に強い奴が隠れていた」『鉄拳』の世界大会にほぼ無名のパキスタン人が予選参加→予選優勝から本戦に挑み、前回の準優勝者をストレートで下して優勝を果たす",
-      "description": "「本当に強い奴が隠れていた」『鉄拳』の世界大会にほぼ無名のパキスタン人が予選参加→予選優勝から本戦に挑み、前回の準優勝者をストレートで下して優勝を果たす",
-      "link": "https://togetter.com/li/2731013",
-      "pubDate": "Sun, 09 Aug 2026 18:50:45 +0900",
       "thumbnail": ""
     },
     {
@@ -561,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/ed650043-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】海外旅行ではペットボトルを〇〇してからバッグに入れて！⇒それを知らなかった人の末路が悲惨すぎるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555629.html",
-      "pubDate": "2026-08-09T12:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/4/6468621a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -626,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/6/060d8b88.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スリムクラブ真栄田「これで2000円いかない日高屋は国宝」→マジで凄すぎるだろこれｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555627.html",
-      "pubDate": "2026-08-09T11:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/4/04d7845d.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -663,19 +728,6 @@
       "link": "https://jin115.com/archives/52456523.html",
       "pubDate": "2026-08-09T11:20:40+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca63ff69.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "とある屋台が焼き鳥（生肉）を常温放置している様子が激写され、物議に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555623.html",
-      "pubDate": "2026-08-09T11:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/25d2af0d.jpg"
     },
     {
       "siteId": "jin",
@@ -845,32 +897,6 @@
       "link": "https://gigazine.net/news/20260809-kingjim-twip/",
       "pubDate": "Sun, 09 Aug 2026 08:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「アニソンで全力で盆踊りして盛り上がる日本人たち。伝統もオタクもこの熱量、素晴らしい」→女さんブチギレ「これを見て『日本の品格が落ちた』と思いました」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456531.html",
-      "pubDate": "2026-08-09T07:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/3/8356f8a9.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】スマホゲーム業界、サ終が相次ぎガチで危機的な状況に…その理由がこちら",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456529.html",
-      "pubDate": "2026-08-09T04:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/c/bc5c3f64-s.png"
     },
     {
       "siteId": "gigazine",
@@ -1120,19 +1146,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Nintendo Switch 2のプレイ動画をリニアPCMサラウンドで録画する方法、Blackmagic Designのキャプチャーボード「UltraStudio Express Recorder 3G」を使ってみた",
-      "description": "Nintendo SwitchやNintendo Switch 2はLPCM 5.1に対応しており、一部タイトルは再生環境があれば前方3ch・後方2ch・サブウーファー1chの5.1chサラウンド音声でのプレイが可能になります。この5.1chサラウンド音声のままで動画を録画する方法はないかと探してみたところ、Blackmagic Designの業務用キャプチャー「UltraStudio Expre",
-      "link": "https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/",
-      "pubDate": "Sat, 08 Aug 2026 00:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1157,19 +1170,6 @@
       "link": "https://rocketnews24.com/2026/08/07/2789965/",
       "pubDate": "Fri, 07 Aug 2026 09:27:03 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/fivetullys.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2688回「今までのあらすじ⑤」",
-      "description": "漫画：wako ・編集部からお知らせ 来週いっぱい休載します。次回掲載は8月17日(月)の予定です。 神ねこ様「細かいとこは過去回を読んでもらうとしてェ」 他にもオフィシャルショップで、トートバッグやアクリルスタンド、T [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/07/2789552/",
-      "pubDate": "Fri, 07 Aug 2026 05:00:14 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2688-2.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,9 +1698,74 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "『モンハンNow』もう応募した!? 来場者特典にも注目の公式オフライン交流会締め切り目前ガイド",
+      "description": "位置情報ゲーム『モンハンNow』ではコミュニティアンバサダープログラムに参加する世界各地のハンターたちによる日々のコミュティ活動や「コミュティアンバサダーデイ」という特別なオフライン交流会を企画。 ハンター同士の輪を広げ [&#8230;]",
+      "link": "https://getnews.jp/archives/3735916",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "元々ついていた蛇口を「シャワータイプ」に変更しただけで、水の飛び散りが激減した",
+      "description": "※本記事は2024年5月19日に公開された記事を再編集して掲載しています。 Text and Photographed by 門岡 明弥 引っ越してからもうすぐで1年になります。引越し当初と比べると家の中はずいぶんと変わ [&#8230;]",
+      "link": "https://getnews.jp/archives/3735919",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "42℃の車内はどこまで冷える？ ポータブルエアコンを車とキャンプで試してみたよ",
+      "description": "愛車のエアコンが故障したことがきっかけで、急場凌ぎになればとポータブルエアコンについて調べ始めたんですよ。 口コミや車中泊YouTube、AIの意見を参考にして辿り着いたのがEcoFlow（エコフロー）の「WAVE 3  [&#8230;]",
+      "link": "https://getnews.jp/archives/3735920",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "ふわふわ＆さらさらでベタつきにくい。夏にうれしい吸水速乾バスマット",
+      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  お風呂上がりのバスマット、ジトッと湿っているとなんか嫌な気分になりますよね。 クモリ（Kumori）の「しっかり吸水『足さら瞬乾』バスマッ [&#8230;]",
+      "link": "https://getnews.jp/archives/3735921",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "色違いのアグノムやエムリットを狙える可能性も / アヤシシやヒスイクレベースなどの希少ポケモンがレイドバトルに登場中【ポケモンGO】",
       "description": "8月10日20時まで『ポケモンGO』で開催中の「夏の遠足：凍てつく残火」に合わせ、レイドバトルの内容も変更されています。 図鑑埋め難易度の高いポケモンが多くラインアップされているので、特に最近冒険をスタートしたトレーナー [&#8230;]",
       "link": "https://getnews.jp/archives/3735909",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "夏になるといつものスキンケアが合わない。無印良品の「薬用クリアケア」に替えたら、朝のカサつきが気にならなくなった",
+      "description": "夏になってから、いつもの化粧水と乳液を使うと肌がなんだかベタつき、吹き出物も出るようになりました。 量を減らして使い続けていたものの、クーラーをつけたまま眠るようになってからは、朝起きると肌がカサカサに。 そのままお化粧 [&#8230;]",
+      "link": "https://getnews.jp/archives/3735914",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1755,74 +1820,9 @@
       "link": "https://getnews.jp/archives/3735907",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "5kmタマゴからメラルバしか孵化しないという超絶ボーナスが発生 →2kmしか落ちなくて阿鼻叫喚【ポケモンGO】",
-      "description": "8月8日11時〜17時、『ポケモンGO』では「炎と氷ふかの日」が開催されました。 2kmタマゴから「ムチュール」と「ブビィ」がかえりやすくなるイベント……のはずが、当日いちばん注目を集めていたのは5kmタマゴでした。 5 [&#8230;]",
-      "link": "https://getnews.jp/archives/3735905",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "留守番している秋田犬たちの様子を確認したら・・「なんすかこれ、一緒に寝たい」「混ぜてほしい」",
-      "description": "お家で留守番中の秋田犬たち。 その様子を設置してあるドッグカメラで見た時の様子が話題を呼びました。 ※こちらは、2024年8月に公開した記事を再構成したものとなります 平和な留守番風景 ご紹介するのは、秋田犬こゆきと愉快 [&#8230;]",
-      "link": "https://getnews.jp/archives/3735902",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "もしものときはモバイルバッテリーに変身。エネループ愛用歴15年、「充電池の寿命がわかる充電器」に感動した！",
-      "description": "充電して繰り返し使える乾電池といえば、やっぱり個人的にはパナソニック（Panasonic）の「エネループ」。 「一度充電すれば10年後でも約70％の残量を維持できる」とのことで防災用としても重宝しており、気づけば15年近 [&#8230;]",
-      "link": "https://getnews.jp/archives/3735903",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【連載コラム】AFAMooのCreative Life―第161回 “ハッピーなダンスポップナンバー” VIBY「Gotcha (ガチャ)」",
-      "description": "みなさんこんばんは。アーティスト活動と並行して、フリーライターとしてOTOTOYでニュース記事を書いているAFAMooと申します。今回も毎週更新中のSpotifyプレイリスト「Tokyo Chill Dance」に掲載し [&#8230;]",
-      "link": "https://getnews.jp/archives/3735901",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "イヤホン、アンカーの「一つ前のモデル」にして大正解！お手頃価格で最新より20時間も長く使えるんだ",
-      "description": "最近のワイヤレスイヤホンは高性能化が進むけれど、その分価格もお高め。 高性能なモデルを選んでも、バッテリーの持続時間が短いと、充電し忘れで使えないことも多発しそう……。 前に使っていたイヤホンが壊れてしまい、「1万円以下 [&#8230;]",
-      "link": "https://getnews.jp/archives/3735904",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-09T11:34:38.983737",
+  "updatedAt": "2026-08-09T13:01:45.187535",
   "sites": [
     {
       "id": "hachima",
