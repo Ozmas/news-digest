@@ -8,6 +8,19 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "日本では「一番くじ限定」なグッズが海外では「ばら売り」なのマジでどうなん？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555760.html",
+      "pubDate": "2026-08-10T05:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/0/10f0605b.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "トイレに置き忘れた「とある店の袋」があまりにも「愉快犯が仕掛けた爆発物」すぎて大騒ぎ",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10555751.html",
@@ -650,19 +663,6 @@
       "link": "https://jin115.com/archives/52456555.html",
       "pubDate": "2026-08-09T16:00:50+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/caadd791.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】「就職氷河期世代が苦しんだのは選り好みしてブルーカラーを選ばなかったから」← この意見にブチギレる人が殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555677.html",
-      "pubDate": "2026-08-09T16:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/5/95d4ce1f.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-09T19:37:52.519046",
+  "updatedAt": "2026-08-09T20:38:56.736997",
   "sites": [
     {
       "id": "hachima",
