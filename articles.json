@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "人事から「残業時間の管理の徹底を」という内容のメールが来たので、「人手不足の解消はお宅らの仕事であってこっちも好きで残業してる訳じゃない」と返信したら、無視された話",
+      "description": "人事から「残業時間の管理の徹底を」という内容のメールが来たので、「人手不足の解消はお宅らの仕事であってこっちも好きで残業してる訳じゃない」と返信したら、無視された話",
+      "link": "https://togetter.com/li/2731173",
+      "pubDate": "Mon, 10 Aug 2026 07:34:20 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【祝】ヒカキンさん、第二子誕生を報告！これで二児のパパに！　あだ名は「プチキン」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555828.html",
+      "pubDate": "2026-08-10T07:30:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b6a22eb3.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "娘が自動車学校の入校手続きで現金支払いを希望したが、「短大で色々お金がかかるからローン組んだ方がいい」と言われ、カードローンのキャッシングを勧められた→相談されて申し込みを中止",
+      "description": "娘が自動車学校の入校手続きで現金支払いを希望したが、「短大で色々お金がかかるからローン組んだ方がいい」と言われ、カードローンのキャッシングを勧められた→相談されて申し込みを中止",
+      "link": "https://togetter.com/li/2731170",
+      "pubDate": "Mon, 10 Aug 2026 07:26:09 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】事故物件を何度も修繕工事してる業者が「今までで一番怖かった」と語る物件、押し入れからあってはいけない◯◯が発見される…うわあああ((((( ；ﾟДﾟ)))",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555825.html",
+      "pubDate": "2026-08-10T07:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78913203.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "台湾、平和式典で長崎市に激怒「長崎は中国に迎合している」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456594.html",
+      "pubDate": "2026-08-10T07:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/8/9881f2a7.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "半導体がどうやって作られるかがゲーム風のビジュアルと説明で簡単にすぐわかる「ChipTycoon」",
+      "description": "半導体製造プロセスをアニメーションで視覚化した「Chip Tycoon」が公開されました。ミニチュア工場でぐるぐると動き回る半導体を見ながら製造プロセスを理解することができます。続きを読む...",
+      "link": "https://gigazine.net/news/20260810-chip-tycoon/",
+      "pubDate": "Mon, 10 Aug 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -405,32 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/575ec86a.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ラーメン二郎 沖縄店が台風の影響でもやしの代わりにネギを使用することになったが、見た目が沖縄そば風になって逆に美味しそう",
-      "description": "ラーメン二郎 沖縄店が台風の影響でもやしの代わりにネギを使用することになったが、見た目が沖縄そば風になって逆に美味しそう",
-      "link": "https://togetter.com/li/2731044",
-      "pubDate": "Sun, 09 Aug 2026 20:29:21 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "京都大学11月祭の統一テーマ投票の中間発表で「う◯ち」が首位になる→「これ面白いのか？」「それで突っ走るのか？」といろんな疑問が飛び交う",
-      "description": "京都大学11月祭の統一テーマ投票の中間発表で「う◯ち」が首位になる→「これ面白いのか？」「それで突っ走るのか？」といろんな疑問が飛び交う",
-      "link": "https://togetter.com/li/2731041",
-      "pubDate": "Sun, 09 Aug 2026 20:20:54 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -600,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/4/94dd2d76.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "老人会RUSTに出演したキズナアイさん、完全に吹っ切れるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555684.html",
-      "pubDate": "2026-08-09T17:30:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/afaaf08e-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -637,19 +676,6 @@
       "link": "https://jin115.com/archives/52456568.html",
       "pubDate": "2026-08-09T17:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/c/3c77fbbd-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "日本の花火大会まで中国人転売ヤーの餌食に！勝手に席取りビジネスを開始か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555683.html",
-      "pubDate": "2026-08-09T17:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/2/323c9838-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -847,19 +873,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/8/d8da8190.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『GANTZ（ガンツ）』全巻「100円」セールが終了間際！全37巻「23,322円」→「3,700円」！完結まですべて超お得に買えるこのチャンスを逃すな！本日23時59分まで！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456535.html",
-      "pubDate": "2026-08-09T10:20:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/d/4d048700.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1052,19 +1065,6 @@
       "description": "2023年7月から展開されてきたXの「クリエイター収益分配(Revenue Sharing)」が終了し、入れ替わりに「オリジナルコンテンツ報酬プログラム(Original Content Rewards Program)」が始まることが明らかになりました。すでに「クリエイター収益配分」への新規登録は停止されていて、参加者の収益獲得最終日は2026年9月7日分に設定されています。続きを読む...",
       "link": "https://gigazine.net/news/20260808-x-original-content-rewards-program/",
       "pubDate": "Sat, 08 Aug 2026 14:36:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "ペンで文字を書くように操作できるサンワサプライの「ペン型マウス」を使ってみた",
-      "description": "サンワサプライの「ペン型マウス(400-MAWB231)」は太いペンの形をしたマウスで、胸ポケットに入れてスマートに持ち運びながら、小さいスペースでも文字を書くようにマウスを操作することができます。サンワサプライからペン型マウスを提供してもらったので、どんな操作感なのか実際に使ってみました。続きを読む...",
-      "link": "https://gigazine.net/news/20260808-pen-mouth-sanwa/",
-      "pubDate": "Sat, 08 Aug 2026 14:00:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-09T21:37:45.227576",
+  "updatedAt": "2026-08-09T22:36:34.539343",
   "sites": [
     {
       "id": "hachima",
