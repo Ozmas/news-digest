@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "レンタル彼女を使ってデートの練習をしていた34歳男性、とあることに気づいて絶望してしまう。",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555690.html",
+      "pubDate": "2026-08-09T18:30:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/42515ae5.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "同人畑の友が、数日前突然「一次創作ファンタジーをやりたくなった」と30万文字超の設定資料を送ってきたが、それがあまりにも凄まじい出来だったので「なんとか世に出してください」と懇願した話",
+      "description": "同人畑の友が、数日前突然「一次創作ファンタジーをやりたくなった」と30万文字超の設定資料を送ってきたが、それがあまりにも凄まじい出来だったので「なんとか世に出してください」と懇願した話",
+      "link": "https://togetter.com/li/2731007",
+      "pubDate": "Sun, 09 Aug 2026 18:26:26 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「そこまでしないとエアコン使わないのか」民生委員の人が、高齢者世帯を回ってクーラーを起動、そのままリモコンを一旦預かってから返却してるが、すごく良い活動だと思う",
+      "description": "「そこまでしないとエアコン使わないのか」民生委員の人が、高齢者世帯を回ってクーラーを起動、そのままリモコンを一旦預かってから返却してるが、すごく良い活動だと思う",
+      "link": "https://togetter.com/li/2731001",
+      "pubDate": "Sun, 09 Aug 2026 18:06:21 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "高須先生の「2秒焼肉」は本当に美味いのか！？実際に試した結果",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10555689.html",
+      "pubDate": "2026-08-09T18:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f3f26da.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "元ジャンポケ斉藤被告、ガチでぶっ壊れてしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456577.html",
+      "pubDate": "2026-08-09T18:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/e/0e2ac583.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "無料で画像・動画・音声・データ・ドキュメントなどあらゆるファイルを自分のローカルPC内で変換できるオープンソースのセルフホスト型ファイルコンバーター「Transmute」、ファイルサイズ制限や透かしの追加など一切なしでユーザー作成も可能",
+      "description": "画像や動画・音声・文書などのファイル形式を変換するオンラインサービスは手軽に利用できますが、容量制限が設けられていたり機密性のあるファイルを外部サーバーへ送信しなければならなかったりします。「Transmute」なら自分のPCや管理下のサーバー内で幅広いファイル形式を変換・圧縮できるオープンソースのセルフホスト型ファイルコンバーターなのでかなり安全性が増すはずなので、実際に使ってみました。続きを読",
+      "link": "https://gigazine.net/news/20260809-transmute/",
+      "pubDate": "Sun, 09 Aug 2026 18:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "八王子まつりの屋台で、昼間から生肉を常温放置しているのを発見→この投稿に様々なツッコミ「宮崎地鶏なのにブロイラー、ブラジル産では？」「写真に対して違和感」衛生状態も気になる",
+      "description": "八王子まつりの屋台で、昼間から生肉を常温放置しているのを発見→この投稿に様々なツッコミ「宮崎地鶏なのにブロイラー、ブラジル産では？」「写真に対して違和感」衛生状態も気になる",
+      "link": "https://togetter.com/li/2730997",
+      "pubDate": "Sun, 09 Aug 2026 17:56:20 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "やませとかいう超大型エアコンの室外機が西日本にある説「設置を許した覚えはないぞ」「電源落としたる！」",
+      "description": "やませとかいう超大型エアコンの室外機が西日本にある説「設置を許した覚えはないぞ」「電源落としたる！」",
+      "link": "https://togetter.com/li/2730994",
+      "pubDate": "Sun, 09 Aug 2026 17:51:30 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -158,45 +262,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "落語にも現代にふさわしい表現の配慮が必要か……そもそも既に苦情が来るからやらなくなった演目も多いので、今も文化として生き残っている面もある",
-      "description": "落語にも現代にふさわしい表現の配慮が必要か……そもそも既に苦情が来るからやらなくなった演目も多いので、今も文化として生き残っている面もある",
-      "link": "https://togetter.com/li/2730955",
-      "pubDate": "Sun, 09 Aug 2026 16:48:58 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "税務署職員、約1億3500万円を脱税し懲戒免職される→さらに税務調査対象の女性から約1億5000万円の現金を引き出していた「こっちの方がヤバいのでは…」",
-      "description": "税務署職員、約1億3500万円を脱税し懲戒免職される→さらに税務調査対象の女性から約1億5000万円の現金を引き出していた「こっちの方がヤバいのでは…」",
-      "link": "https://togetter.com/li/2730969",
-      "pubDate": "Sun, 09 Aug 2026 16:34:55 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "新日本プロレス・鷹木信悟「どいつもこいつも横文字ばかりを使いやがって大和魂どこ行っちまったんだよ！ 俺がさ、見せてやるよ、本物の“MADE IN JAPAN”をな！」",
-      "description": "新日本プロレス・鷹木信悟「どいつもこいつも横文字ばかりを使いやがって大和魂どこ行っちまったんだよ！ 俺がさ、見せてやるよ、本物の“MADE IN JAPAN”をな！」",
-      "link": "https://togetter.com/li/2730970",
-      "pubDate": "Sun, 09 Aug 2026 16:34:13 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -208,19 +273,6 @@
       "link": "http://blog.esuteru.com/archives/10555678.html",
       "pubDate": "2026-08-09T16:30:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/7/277b382e.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "京急電鉄×「俺クロ」コラボ企画にてウミミ等身大パネルが盗難被害に遭ってしまう→なぜ盗まれたのか、どうすれば盗まれないかなどの話が集まる",
-      "description": "京急電鉄×「俺クロ」コラボ企画にてウミミ等身大パネルが盗難被害に遭ってしまう→なぜ盗まれたのか、どうすれば盗まれないかなどの話が集まる",
-      "link": "https://togetter.com/li/2730962",
-      "pubDate": "Sun, 09 Aug 2026 16:18:51 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -678,19 +730,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/20260806repo.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "郡山布「高原まつりをやる予定でしたが、シカがひまわりを全部食ってしまったので中止です」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555589.html",
-      "pubDate": "2026-08-09T09:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5a7bbdf6.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -702,19 +741,6 @@
       "link": "https://gigazine.net/news/20260809-missing-underscore/",
       "pubDate": "Sun, 09 Aug 2026 09:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "登録者数100万人超えの外国人YouTuber、長崎県・池島の民家に無断で侵入する動画を公開し、物議に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555585.html",
-      "pubDate": "2026-08-09T08:30:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/d/8d382a1d-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -819,19 +845,6 @@
       "link": "https://gigazine.net/news/20260808-scanwatch-vitals/",
       "pubDate": "Sat, 08 Aug 2026 23:55:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X収益化、終了へ インプレゾンビやパクツイの一掃なるか！？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456532.html",
-      "pubDate": "2026-08-08T23:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/7918ecaa.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1104,19 +1117,6 @@
       "description": "「Chrono Ark」は、ローグライクとデッキ構築、そしてパーティ制RPGという3つの要素を組み合わせたシングルプレイ向けRPGです。「面白い要素を3つあわせたゲームが面白くないわけがない！」ということで、実際にプレイして確かめてみることにしました。続きを読む...",
       "link": "https://gigazine.net/news/20260807-chrono-ark/",
       "pubDate": "Fri, 07 Aug 2026 23:35:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "初音ミクが計算してくれる電卓アプリ「電卓 - Desktop Mate Widgets」を使ってみた、数字を読み上げて計算に悩む姿も見せてくれる",
-      "description": "PCにキャラクターを呼び出せるアプリ「Desktop Mate 」の姉妹アプリとして、キャラクターが計算してくれる電卓アプリ「電卓 - Desktop Mate Widgets」が登場しました。PCでもスマートフォンでも使えるとのことなので、実際に使ってみました。続きを読む...",
-      "link": "https://gigazine.net/news/20260807-desktop-mate-widgets-calc/",
-      "pubDate": "Fri, 07 Aug 2026 22:00:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1698,6 +1698,45 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "悩ましきキッチンペーパーホルダー。探し続けた私がたどり着いたのは山崎実業のスチールタイプでした",
+      "description": "商品提供：山崎実業 ロールタイプのキッチンペーパーは使いやすい反面、そのまま置くと生活感が出やすいのが悩み。これまでカバー付きやスタンドタイプなどいろいろ試してきましたが、「見た目」と「使いやすさ」の両方に満足できるもの [&#8230;]",
+      "link": "https://getnews.jp/archives/3735899",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "最高の記念撮影！手招きに応じてやって来てくれたのは・・リス！？【アメリカ・動画】",
+      "description": "友達との旅行中の記念撮影で、思いがけない映像を残す事ができました！！ 誰かを呼んでいるようですが・・・、現地に有名人でもいたのでしょうか？ 誰かを手招き 動画は、アメリカ・アリゾナ州にある観光地セドアで撮影されました。  [&#8230;]",
+      "link": "https://getnews.jp/archives/3735898",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "〈ベストヒットＵＳＡ〉8/13はスティングほか",
+      "description": "BS朝日〈ベストヒットＵＳＡ〉8月13日のスター・オブ・ザ・ウィークはスティングを特集。アムステルダム国立美術館で行われたスペシャルなアコースティック・ライブを紹介する。 ホットメニューに登場するのは今年大ブレイクしたカ [&#8230;]",
+      "link": "https://getnews.jp/archives/3735897",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "〈バズリズム02〉8/14出演者発表",
       "description": "日本テレビ〈バズリズム02〉8月14日の出演者が発表された。 トークゲストはTREASUREが登場。スタジオライブはEBiDAN、cosmosy、AOAOが出演。あの人ランキングはゲストに佐々木希を迎え、生田斗真 / S [&#8230;]",
       "link": "https://getnews.jp/archives/3735896",
@@ -1781,48 +1820,9 @@
       "link": "https://getnews.jp/archives/3735872",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "60%の8周年を記念してプレミアム・フェミニンブランド「THE TIS」1ヶ月間の限定入店を決定",
-      "description": "グローバルファッションプラットフォーム「60%(シックスティーパーセント)」は、サービス開始8周年を記念し、韓国発のプレミアム・フェミニンブランド「THE TIS(ザティス)」の1ヶ月間限定となる特別入店を決定。 本期間 [&#8230;]",
-      "link": "https://getnews.jp/archives/3735870",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【現地レポ】「伊豆・村の駅」20周年リニューアル第1弾 三島の“じゃがいも・さつまいも”尽くしの新店舗を実食してきました！",
-      "description": "静岡県三島市にある「伊豆・村の駅」が、開業20周年を機に段階的なリニューアルをスタートさせました。その第1弾として2026年7月25日(土)、パン専門店「ほくほく村ベーカリー」と和菓子処「和菓子 いもんど」がオープン。オ [&#8230;]",
-      "link": "https://getnews.jp/archives/3735862",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "フジTV〈STAR〉8/13出演者発表",
-      "description": "フジテレビの音楽番組〈STAR〉8月6日の出演者が発表された。 出演は、INI、.ENDRECHERI.、CANDY TUNE、ちいかわ・ハチワレ、MyM、マルシィ、ME：I、RIIZE、緑黄色社会、LE SSERAFI [&#8230;]",
-      "link": "https://getnews.jp/archives/3735875",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-09T08:50:25.195166",
+  "updatedAt": "2026-08-09T09:45:27.074360",
   "sites": [
     {
       "id": "hachima",
