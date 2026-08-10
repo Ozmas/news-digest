@@ -2,6 +2,149 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】「敷地内にバイクを無断駐車されるけど警察呼ぶほどでもないかな…せや！」　→　◯◯◯と書いた張り紙で見事一発撃退成功ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556239.html",
+      "pubDate": "2026-08-11T08:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/9/39f41691.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中学生キッズ、強盗･恐喝･窃盗･児童ポルノ禁止法違反･リベンジポルノ防止法違反で逮捕 こんな奴二度と外に出すな！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456651.html",
+      "pubDate": "2026-08-11T08:30:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/c/fcc1a5dc.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "近所の70代経営者がいまだに17万/月で募集をかけて「優秀な人材が来ない」「私の若い頃は手取14万あれば十分だったのに」なんて言ってて草も生えない「物価を考えてほしい」",
+      "description": "近所の70代経営者がいまだに17万/月で募集をかけて「優秀な人材が来ない」「私の若い頃は手取14万あれば十分だったのに」なんて言ってて草も生えない「物価を考えてほしい」",
+      "link": "https://togetter.com/li/2731510",
+      "pubDate": "Tue, 11 Aug 2026 08:27:24 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "外食時にご飯を食べない娘がえずいたり、口から吐き出したり、ポスト主のズボンを汚したりして「ほんっとにムカつく！」と発言…子育てでのイライラは理想と現実とのギャップによると思う",
+      "description": "外食時にご飯を食べない娘がえずいたり、口から吐き出したり、ポスト主のズボンを汚したりして「ほんっとにムカつく！」と発言…子育てでのイライラは理想と現実とのギャップによると思う",
+      "link": "https://togetter.com/li/2731509",
+      "pubDate": "Tue, 11 Aug 2026 08:25:15 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ご飯屋さんでカードの支払い回数を聞かれて「一括で」と言ったら「10回？！何回ですか？」と聞かれ「1回です！」と言ったらめちゃくちゃ不審な顔をされた",
+      "description": "ご飯屋さんでカードの支払い回数を聞かれて「一括で」と言ったら「10回？！何回ですか？」と聞かれ「1回です！」と言ったらめちゃくちゃ不審な顔をされた",
+      "link": "https://togetter.com/li/2731506",
+      "pubDate": "Tue, 11 Aug 2026 08:14:10 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ディズニーホテルのロビーで息子にアニメを見せていたとき、アナとエルサの仮装の小学校低学年ぐらいのお嬢さん達が一緒に見てたが、そこに同い年ぐらいの黒人の女の子がお父さんとやって来た",
+      "description": "ディズニーホテルのロビーで息子にアニメを見せていたとき、アナとエルサの仮装の小学校低学年ぐらいのお嬢さん達が一緒に見てたが、そこに同い年ぐらいの黒人の女の子がお父さんとやって来た",
+      "link": "https://togetter.com/li/2731503",
+      "pubDate": "Tue, 11 Aug 2026 08:09:21 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "数年前、エージェントから某JTCのNY勤務のポジションを紹介されたが、年収1200万円で一部家賃補助、駐在手当なし…現地採用だとコストが高過ぎるので、日本で採用して送り込むとのこと",
+      "description": "数年前、エージェントから某JTCのNY勤務のポジションを紹介されたが、年収1200万円で一部家賃補助、駐在手当なし…現地採用だとコストが高過ぎるので、日本で採用して送り込むとのこと",
+      "link": "https://togetter.com/li/2731502",
+      "pubDate": "Tue, 11 Aug 2026 08:05:14 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】『ブルーアーカイブ』水着サツキ、物理学ガチ勢が胸と水着の布強度を算出した計算式を書いた結果、◯◯◯と判明ｗｗｗｗ　※なお乳◯は存在しないものとする",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556234.html",
+      "pubDate": "2026-08-11T08:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9ebbf225.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "株式会社カラー「会社概要を更新いたしました」→あの人の名前が消えていると話題に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456650.html",
+      "pubDate": "2026-08-11T08:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/a/8a884cf4.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "お前はニセモノであれ！ 認められない彼女！　四コマサボタージュFB第62回「本物」",
+      "description": "幼稚園か保育園の先生が園児達を大勢乗せた手押し車ような乗り物に乗せて散歩していたのだけど、アレってすごい重そうだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/11/2786638/",
+      "pubDate": "Mon, 10 Aug 2026 23:00:03 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-62.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "香港の研究者らが脳卒中治療のための点鼻スプレーを開発",
+      "description": "香港大学の研究チームが、虚血性脳卒中の応急処置に利用できる点鼻スプレーを開発したと発表しました。このような点鼻スプレーは世界初とのことです。続きを読む...",
+      "link": "https://gigazine.net/news/20260811-nasal-spray-stroke/",
+      "pubDate": "Tue, 11 Aug 2026 08:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -184,19 +327,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/f/5f824294.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画「ちいかわ」公式によるキャラクターPVがセイレーンまで10キャラ分が出揃う、それぞれに推すヒトからの推しがたりも",
-      "description": "映画「ちいかわ」公式によるキャラクターPVがセイレーンまで10キャラ分が出揃う、それぞれに推すヒトからの推しがたりも",
-      "link": "https://togetter.com/li/2731464",
-      "pubDate": "Tue, 11 Aug 2026 02:15:06 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -249,45 +379,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bce5ac63.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「島二郎とオデの取っ組み合いの喧嘩は観てみたい」映画「ちいかわ」ナガノ先生のロングインタビューにて「映画第2弾があるなら」で示唆されたビッグマッチが激アツ",
-      "description": "「島二郎とオデの取っ組み合いの喧嘩は観てみたい」映画「ちいかわ」ナガノ先生のロングインタビューにて「映画第2弾があるなら」で示唆されたビッグマッチが激アツ",
-      "link": "https://togetter.com/li/2731443",
-      "pubDate": "Tue, 11 Aug 2026 00:48:24 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "上司「なんでもいいから俺の分も弁当をつくってきてくれないか？彩りとか気にしない。強いて言えば米が食いたいが本当になんでもいい。できれば肉が食えるとちょっとうれしい」俺「了解」",
-      "description": "上司「なんでもいいから俺の分も弁当をつくってきてくれないか？彩りとか気にしない。強いて言えば米が食いたいが本当になんでもいい。できれば肉が食えるとちょっとうれしい」俺「了解」",
-      "link": "https://togetter.com/li/2731439",
-      "pubDate": "Tue, 11 Aug 2026 00:23:46 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ナガノ先生の映画「ちいかわ」ロングインタビューに出てきた「プロデューサーは腕にフォークを巻いていた」なる怪文、実はそういうオシャレアイテムがあると判明",
-      "description": "ナガノ先生の映画「ちいかわ」ロングインタビューに出てきた「プロデューサーは腕にフォークを巻いていた」なる怪文、実はそういうオシャレアイテムがあると判明",
-      "link": "https://togetter.com/li/2731437",
-      "pubDate": "Tue, 11 Aug 2026 00:18:20 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -312,19 +403,6 @@
       "link": "http://blog.esuteru.com/archives/10556179.html",
       "pubDate": "2026-08-11T00:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/2/d24224e9.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ブルーアーカイブのキャラの胸と着ている水着の釣り合いを計算したら→ラッキースケベは科学だと証明されてしまう「なお乳首は存在しないものとする」",
-      "description": "ブルーアーカイブのキャラの胸と着ている水着の釣り合いを計算したら→ラッキースケベは科学だと証明されてしまう「なお乳首は存在しないものとする」",
-      "link": "https://togetter.com/li/2731423",
-      "pubDate": "Mon, 10 Aug 2026 23:21:13 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -626,32 +704,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スマホゲー『NIKKE』×『ペルソナ』シリーズコラボ、ケツを揺らすのはこの子たち！オシャレなコラボPV公開！！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556118.html",
-      "pubDate": "2026-08-10T18:45:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7ec933ac-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【世論調査】中道改革連合の政党支持率1.7％　野党の6番手に沈む・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556109.html",
-      "pubDate": "2026-08-10T18:20:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e0d2c046-s.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -808,19 +860,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "スレッズ民「ここのローソンの店長マジでヤバい！こんなコンビニ二度と行かない！」とブチギレ→被害者アピするも「ヤバイのはお前だよ」とツッコミ殺到ｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456615.html",
-      "pubDate": "2026-08-10T14:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/d/0d9ed47f.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -886,19 +925,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "絵師「『ハンター×ハンター』知らない人に誰がどの能力を使うか解いてもらいたい」→問題が絶妙すぎてファンのニヤニヤが止まらなくなるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456612.html",
-      "pubDate": "2026-08-10T13:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/4/2478f9cc-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -948,19 +974,6 @@
       "description": "オープンモデルとして公開されている動画生成AI「MiniMax H3」の開発チームがオンライン掲示板のRedditでAMA(Ask Me Anything：何でも聞いて企画)を実施し、今後も各種AIモデルを公開予定であることを明言しました。続きを読む...",
       "link": "https://gigazine.net/news/20260810-minimax-h3-team-ama/",
       "pubDate": "Mon, 10 Aug 2026 12:18:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "CloudflareがAIエージェント向けブラウザ「Kitesurf」をリリース、ChromiumよりCPU・メモリ消費を大幅削減",
-      "description": "インターネットインフラ企業のCloudflareが、AIエージェントによるウェブ操作に特化した新しいブラウザ「Kitesurf」を発表しました。人間向けブラウザで一般的なタブやテーマ、拡張機能などは省き、AIエージェントがウェブページを読み取ったり操作したりする際のCPU・メモリ消費やスケーラビリティを優先して設計されており、Cloudflareのサーバーレスプラットフォーム「Workers」上で",
-      "link": "https://gigazine.net/news/20260810-cloudflare-kitesurf/",
-      "pubDate": "Mon, 10 Aug 2026 12:11:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1157,19 +1170,6 @@
       "link": "https://rocketnews24.com/2026/08/09/2784680/",
       "pubDate": "Sat, 08 Aug 2026 23:00:30 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari50-1koma.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2075話目「エルフの森の変化③」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/08/08/2789843/",
-      "pubDate": "Sat, 08 Aug 2026 12:00:00 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2075a.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,45 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "首の後ろでも一瞬着脱！「マグネット留め具」でネックレスを楽しむ習慣が戻りました",
+      "description": "※本記事は2025年10月26日に公開された記事を再編集して公開しています。 Text and Photographed by 山﨑 舞 ネイルをしているとストレスに感じるのが、ネックレスの留め具。 小さい上に扱いにくく [&#8230;]",
+      "link": "https://getnews.jp/archives/3736147",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【箱根強羅 KAIKA】全室露天風呂・ミシュラン監修の茶懐石　時間に追われる現代人が“自分をリセット”できる最新リトリート宿",
+      "description": "箱根・強羅に、2026年7月31日、静けさとくつろぎに満ちた新しい宿が誕生した。その名も『箱根強羅KAIKA(かいか)』。全19室すべての部屋に天然温泉の露天風呂が付いている。今回、開業前のKAIKAに実際に1泊させても [&#8230;]",
+      "link": "https://getnews.jp/archives/3736146",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "香水は苦手だけど、ほんのりいい香りを纏いたい。私が選んだのは「牛乳石鹸のアイテム」でした",
+      "description": "香水をつけている人にちょっと憧れを持ちつつも、いざ自分が使うとなると「ガラじゃない」という気がしてしまい、ハードルが高く感じます。 どのくらいの量をつければいいのかわからないし、つけすぎて香りが強くなりすぎるのも心配。自 [&#8230;]",
+      "link": "https://getnews.jp/archives/3736148",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "電子レンジの失敗、こぼす・汚す・熱すぎる。「110円のトレー」で掃除の回数がぐんと減りました",
       "description": "電子レンジが毎日の食生活に欠かせません。お弁当のおかず作り、お肉の解凍、子どもが夏休み中の今は冷凍めんの解凍にも大活躍。 こんなに毎日付き合ってるのに、どうもレンジの扱いがうまくなりません。熱くなりすぎて取り出せなかった [&#8230;]",
       "link": "https://getnews.jp/archives/3736145",
@@ -1781,48 +1820,9 @@
       "link": "https://getnews.jp/archives/3736140",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "不憫な配達人が主人公に　『ウェポンズ』監督が手掛ける『バイオハザード』日本限定予告編　「君はヤバい物を運んでいる」［ホラー通信］",
-      "description": "『バーバリアン』(22)『WEAPONS／ウェポンズ』(25)のザック・クレッガー監督がゲーム「バイオハザード」を映画化した『バイオハザード』が10月９日(金)より公開。バイオの日（８月10日）にちなんだ日本限定の予告編 [&#8230;]",
-      "link": "https://getnews.jp/archives/3736077",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "Pooh Shiesty、全16曲を収録した新ALリリース",
-      "description": "Pooh Shiestyが2026年8月7日(金)にニューアルバム『All Eyes on Shiest』をリリースした。 自身のキャラクターと現在地を凝縮した本作。Sexyy Red、GloRilla、BIG30、K  [&#8230;]",
-      "link": "https://getnews.jp/archives/3736131",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "STELLA LEFTY、軽快で明るい新曲リリース",
-      "description": "STELLA LEFTYが2026年8月7日(金)にニューシングル「Lean In, Kiss Me」をリリースした。 本作は、8月21日(金)にリリース予定のデビューアルバム『Long Way Home』からの先行シン [&#8230;]",
-      "link": "https://getnews.jp/archives/3736130",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-10T22:42:55.284533",
+  "updatedAt": "2026-08-10T23:39:42.922515",
   "sites": [
     {
       "id": "hachima",
