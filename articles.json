@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『学マス』新ガチャが鬼仕様で大炎上！既存ユーザーをバカにするガチャとは……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556156.html",
+      "pubDate": "2026-08-11T04:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a2098c9c.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "http://blog.esuteru.com/archives/10555954.html",
       "pubDate": "2026-08-10T16:30:57+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/4/e43adaca.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】22年前の秋葉原、懐かしすぎる・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555951.html",
-      "pubDate": "2026-08-10T16:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/8/e8ae8783.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-10T18:27:00.421871",
+  "updatedAt": "2026-08-10T19:34:20.887300",
   "sites": [
     {
       "id": "hachima",
