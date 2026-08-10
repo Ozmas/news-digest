@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "教師さん、給食を残した児童の口にミニトマトを突っ込む→体罰判定をもらってしまい、終わる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456642.html",
+      "pubDate": "2026-08-11T03:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/152fe2e0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "見るからに「ヤバイ」VTuber事務所が誕生！これは夢いっぱいですわ……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556149.html",
+      "pubDate": "2026-08-11T03:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/f/5f824294.png"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -704,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b51ab9f.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【野獣の日2026】野獣邸、今年も淫夢厨が集まり通報される・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555947.html",
-      "pubDate": "2026-08-10T15:30:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/ab82452c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -949,19 +962,6 @@
       "link": "https://gigazine.net/news/20260810-cloudflare-kitesurf/",
       "pubDate": "Mon, 10 Aug 2026 12:11:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "佐藤二朗さん、言葉にできない悔しさを感じる・・・「“ほんとうのこと”を僕の口からは何ひとつ言えなくて」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456608.html",
-      "pubDate": "2026-08-10T12:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/ed14c33f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-10T17:27:43.871239",
+  "updatedAt": "2026-08-10T18:27:00.421871",
   "sites": [
     {
       "id": "hachima",
