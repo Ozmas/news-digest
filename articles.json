@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "祖父宅の玄関に敷いてたゴム製のものが夜中、タヌキに齧られていると分かった父がタバスコをかけたら齧らなくなったとのこと…さらに出来の悪いトウモロコシにかけたら同じ結果に",
+      "description": "祖父宅の玄関に敷いてたゴム製のものが夜中、タヌキに齧られていると分かった父がタバスコをかけたら齧らなくなったとのこと…さらに出来の悪いトウモロコシにかけたら同じ結果に",
+      "link": "https://togetter.com/li/2731499",
+      "pubDate": "Tue, 11 Aug 2026 07:41:13 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "アフガニスタンで、タリバンのおっちゃんに「こっち検問所やから写真ダメやで」と言われたが、ぬい撮りは「ほーん、そんな文化あるんや」って感じだった… あと「Nakamura」と言ってた",
+      "description": "アフガニスタンで、タリバンのおっちゃんに「こっち検問所やから写真ダメやで」と言われたが、ぬい撮りは「ほーん、そんな文化あるんや」って感じだった… あと「Nakamura」と言ってた",
+      "link": "https://togetter.com/li/2731496",
+      "pubDate": "Tue, 11 Aug 2026 07:32:50 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】庵野秀明さんが社長の株式会社カラー、貞本義行さんの名前を外してしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556231.html",
+      "pubDate": "2026-08-11T07:30:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b69d53e.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "映画「MONDAYS／このタイムループ、上司に気づかせないと終わらない」は完成度の高い邦画で笑える展開も多い、脚本は「超かぐや姫！」も担当",
+      "description": "映画「MONDAYS／このタイムループ、上司に気づかせないと終わらない」は完成度の高い邦画で笑える展開も多い、脚本は「超かぐや姫！」も担当",
+      "link": "https://togetter.com/li/2731495",
+      "pubDate": "Tue, 11 Aug 2026 07:22:34 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "5年前、交差点で停車中に追突事故を起こされた相手が無保険で多重債務者…弁護士と保険会社に任せたところ今日になって「3割回収しました」と連絡があった→無保険者の対策が必要かもしれない",
+      "description": "5年前、交差点で停車中に追突事故を起こされた相手が無保険で多重債務者…弁護士と保険会社に任せたところ今日になって「3割回収しました」と連絡があった→無保険者の対策が必要かもしれない",
+      "link": "https://togetter.com/li/2731494",
+      "pubDate": "Tue, 11 Aug 2026 07:19:55 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "くら寿司の「ちいかわ」コラボは愚かと言いたくなるほどに酷い、せっかくの映画のタイミングなのに「島二郎の貝汁」や「人魚の寿司」がなくてがっかり",
+      "description": "くら寿司の「ちいかわ」コラボは愚かと言いたくなるほどに酷い、せっかくの映画のタイミングなのに「島二郎の貝汁」や「人魚の寿司」がなくてがっかり",
+      "link": "https://togetter.com/li/2731492",
+      "pubDate": "Tue, 11 Aug 2026 07:14:12 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "国の借金、過去最大を更新",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456649.html",
+      "pubDate": "2026-08-11T07:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/1/11ac8d6b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【怖すぎ】家の植え込みに何者かが仕込んだ小型カメラが隠してあった　→　「闇バイトの下見か？」と警察に連絡した結果、翌日とんでもないことに…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556230.html",
+      "pubDate": "2026-08-11T07:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/92d5e1ab.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -275,45 +379,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/9/39d1eba3.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "就職氷河期の頃、高学歴なのに低賃金のサービス業や派遣で能力を発揮した結果…そうした業界では「負の解らせ」が起きていた「今採用できるのはFラン手前位が中央値」",
-      "description": "就職氷河期の頃、高学歴なのに低賃金のサービス業や派遣で能力を発揮した結果…そうした業界では「負の解らせ」が起きていた「今採用できるのはFラン手前位が中央値」",
-      "link": "https://togetter.com/li/2731401",
-      "pubDate": "Mon, 10 Aug 2026 22:34:01 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「『昆布っぽいリボン』探していませんか？」手芸屋のユザワヤさんが斜め上の方向から映画ちいかわに便乗していて嫌いじゃない「昆布締め…ってコト！？」",
-      "description": "「『昆布っぽいリボン』探していませんか？」手芸屋のユザワヤさんが斜め上の方向から映画ちいかわに便乗していて嫌いじゃない「昆布締め…ってコト！？」",
-      "link": "https://togetter.com/li/2731398",
-      "pubDate": "Mon, 10 Aug 2026 22:15:19 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「それでも猫で回っている」これが地球の回転の正体らしいしコミュニティノートも「本当です」と言っています「何コレ？」",
-      "description": "「それでも猫で回っている」これが地球の回転の正体らしいしコミュニティノートも「本当です」と言っています「何コレ？」",
-      "link": "https://togetter.com/li/2731396",
-      "pubDate": "Mon, 10 Aug 2026 22:03:24 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -379,19 +444,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/2/f23aeddc.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「プロデューサーはなぜ腕にフォークを巻いてるの」『映画ちいかわ 人魚の島のひみつ』原作者ナガノ先生のロングインタビューが解禁、初期構想にいたキャラや次回作の話まで",
-      "description": "「プロデューサーはなぜ腕にフォークを巻いてるの」『映画ちいかわ 人魚の島のひみつ』原作者ナガノ先生のロングインタビューが解禁、初期構想にいたキャラや次回作の話まで",
-      "link": "https://togetter.com/li/2731384",
-      "pubDate": "Mon, 10 Aug 2026 21:08:21 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -428,19 +480,6 @@
       "description": "韓国のテクノロジー企業で、Micron・Samsungと並ぶ世界三大メモリチップメーカーであるSK Hynixが、AIメモリ需要に対応する中長期的な生産拠点確保のために54兆ウォン(約6兆円)を投資して新しいメモリチップ工場を建設することを発表しました。続きを読む...",
       "link": "https://gigazine.net/news/20260810-sk-hynix-38b/",
       "pubDate": "Mon, 10 Aug 2026 21:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "日本人の海外旅行離れの要因、「リピーターがコロナ禍の前との価格差を受け入れられずモチベーションが喪失している」という自説を唱える→賛同の声が続々「以前を知っていると呆然とする」",
-      "description": "日本人の海外旅行離れの要因、「リピーターがコロナ禍の前との価格差を受け入れられずモチベーションが喪失している」という自説を唱える→賛同の声が続々「以前を知っていると呆然とする」",
-      "link": "https://togetter.com/li/2731380",
-      "pubDate": "Mon, 10 Aug 2026 20:51:54 +0900",
       "thumbnail": ""
     },
     {
@@ -639,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/5/5597ee4d-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "インプレゾンビさん、ついに終了のお知らせ？X（旧ツイッター）、新たなクリエイター報酬制度を発表",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556103.html",
-      "pubDate": "2026-08-10T18:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/f/8f90fa0f.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -663,19 +689,6 @@
       "link": "https://gigazine.net/news/20260810-burgerking-dirty-the-one-pounder/",
       "pubDate": "Mon, 10 Aug 2026 17:56:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画あり】朝凪先生が描くムチムチメスガキに煽られながらリズムを刻む“わからせ”系フィットネスACT『がんばれ！チアリズム』登場ｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555995.html",
-      "pubDate": "2026-08-10T17:30:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/5779bece-s.png"
     },
     {
       "siteId": "jin",
@@ -910,19 +923,6 @@
       "link": "https://gigazine.net/news/20260810-change-sleep-boosts-academic-performance/",
       "pubDate": "Mon, 10 Aug 2026 12:45:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "チャンネル登録者30万人超えの人気女性配信者さん、まさかの完全顔出し配信→◯◯に似てるという声が集まる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456613.html",
-      "pubDate": "2026-08-10T12:40:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/f/ff2189a3.png"
     },
     {
       "siteId": "gigazine",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "電子レンジの失敗、こぼす・汚す・熱すぎる。「110円のトレー」で掃除の回数がぐんと減りました",
+      "description": "電子レンジが毎日の食生活に欠かせません。お弁当のおかず作り、お肉の解凍、子どもが夏休み中の今は冷凍めんの解凍にも大活躍。 こんなに毎日付き合ってるのに、どうもレンジの扱いがうまくなりません。熱くなりすぎて取り出せなかった [&#8230;]",
+      "link": "https://getnews.jp/archives/3736145",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【脳トレ】「敕」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
       "description": "画像に並んだたくさんの「敕」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「敕」とは違う文字が！？   画像の中には、 [&#8230;]",
       "link": "https://getnews.jp/archives/3736144",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3736130",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "Ravyn Lenae、全14曲を収録した新ALリリース",
-      "description": "Ravyn Lenaeが2026年8月7日(金)にニューアルバム『Blue Island』をリリースした。 R&#38;B、ポップ、オルタナティブ、ロック、ニューウェーブといった多彩な要素を大胆に融合した本作。ジャンルと [&#8230;]",
-      "link": "https://getnews.jp/archives/3736129",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-10T21:48:14.390428",
+  "updatedAt": "2026-08-10T22:42:55.284533",
   "sites": [
     {
       "id": "hachima",
