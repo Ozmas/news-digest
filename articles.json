@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中国人「ねぇ、なんで日本人って短パン履かないの？？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556194.html",
+      "pubDate": "2026-08-11T01:20:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c55e8b7b.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女子「遠距離7歳差ネット彼氏に初めて会いに行ってきます！いざ東京🩷」 → 衝撃の展開にｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456637.html",
+      "pubDate": "2026-08-11T01:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/1/71bfd29e-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "沖縄の自民県議「警察も認めた。玉城知事の支持者は極左暴力集団が全部支えている」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556191.html",
+      "pubDate": "2026-08-11T00:55:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bce5ac63.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「島二郎とオデの取っ組み合いの喧嘩は観てみたい」映画「ちいかわ」ナガノ先生のロングインタビューにて「映画第2弾があるなら」で示唆されたビッグマッチが激アツ",
+      "description": "「島二郎とオデの取っ組み合いの喧嘩は観てみたい」映画「ちいかわ」ナガノ先生のロングインタビューにて「映画第2弾があるなら」で示唆されたビッグマッチが激アツ",
+      "link": "https://togetter.com/li/2731443",
+      "pubDate": "Tue, 11 Aug 2026 00:48:24 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "上司「なんでもいいから俺の分も弁当をつくってきてくれないか？彩りとか気にしない。強いて言えば米が食いたいが本当になんでもいい。できれば肉が食えるとちょっとうれしい」俺「了解」",
+      "description": "上司「なんでもいいから俺の分も弁当をつくってきてくれないか？彩りとか気にしない。強いて言えば米が食いたいが本当になんでもいい。できれば肉が食えるとちょっとうれしい」俺「了解」",
+      "link": "https://togetter.com/li/2731439",
+      "pubDate": "Tue, 11 Aug 2026 00:23:46 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ナガノ先生の映画「ちいかわ」ロングインタビューに出てきた「プロデューサーは腕にフォークを巻いていた」なる怪文、実はそういうオシャレアイテムがあると判明",
+      "description": "ナガノ先生の映画「ちいかわ」ロングインタビューに出てきた「プロデューサーは腕にフォークを巻いていた」なる怪文、実はそういうオシャレアイテムがあると判明",
+      "link": "https://togetter.com/li/2731437",
+      "pubDate": "Tue, 11 Aug 2026 00:18:20 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -314,19 +392,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/2/12f57fc3.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ユニクロで、この表示の値段に騙されたことある人は私だけじゃないはず→引っかかったことある人多すぎ、疑問の声が相次ぐ",
-      "description": "ユニクロで、この表示の値段に騙されたことある人は私だけじゃないはず→引っかかったことある人多すぎ、疑問の声が相次ぐ",
-      "link": "https://togetter.com/li/2731374",
-      "pubDate": "Mon, 10 Aug 2026 20:12:53 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -340,19 +405,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/621fae34.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "宅配業者から電話で「お荷物がお渡しできる状況でない程潰れてまして」と言われたので見に行くと、この状態… 箱の角が潰れているといったことは何度かあったが、ここまで破壊されていたのは初めて",
-      "description": "宅配業者から電話で「お荷物がお渡しできる状況でない程潰れてまして」と言われたので見に行くと、この状態… 箱の角が潰れているといったことは何度かあったが、ここまで破壊されていたのは初めて",
-      "link": "https://togetter.com/li/2731372",
-      "pubDate": "Mon, 10 Aug 2026 20:01:54 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -364,19 +416,6 @@
       "link": "https://jin115.com/archives/52456610.html",
       "pubDate": "2026-08-10T20:00:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/f/6fdfee08-s.png"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「怖すぎる」店の横にバイクを停められたので「バイクから電波が出ている」旨の手紙を貼ったら置かれなくなった、ただ「文量が少ないし意味がわかりやすい」という批判（？）も",
-      "description": "「怖すぎる」店の横にバイクを停められたので「バイクから電波が出ている」旨の手紙を貼ったら置かれなくなった、ただ「文量が少ないし意味がわかりやすい」という批判（？）も",
-      "link": "https://togetter.com/li/2731371",
-      "pubDate": "Mon, 10 Aug 2026 19:57:32 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -717,19 +756,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/s2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【原爆】長崎の語り部のお爺ちゃん(84)、学生に「日本も原爆を持たないと負ける」と言われショックを受ける",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555945.html",
-      "pubDate": "2026-08-10T14:30:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3dd49b2c.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -741,19 +767,6 @@
       "link": "https://gigazine.net/news/20260810-ai-ram-price/",
       "pubDate": "Mon, 10 Aug 2026 14:20:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "俳優・佐藤二朗さん、Xで胸中吐露「“ほんとうのこと”を僕の口からは何ひとつ言えなくて…　言葉にできぬ悔しさを日々感じております」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555929.html",
-      "pubDate": "2026-08-10T14:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/2/f29acbea.jpg"
     },
     {
       "siteId": "jin",
@@ -988,19 +1001,6 @@
       "link": "https://rocketnews24.com/2026/08/10/2784314/",
       "pubDate": "Mon, 10 Aug 2026 02:00:56 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_2032.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ギャル2人「トイレ行こー」→そのまま2人で多目的トイレに入って・・・え？？？女性ってこれ普通なの？？？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456593.html",
-      "pubDate": "2026-08-10T11:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/1/a181531f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【何買う？】『ムカデ人間 4K』公式＆タイアップグッズが怒涛のリリース　トイレットペーパーや“ぷくぷくシール”も［ホラー通信］",
+      "description": "複数の人間の肛門と口を縫い合わせ、ひとつの生命体を創造する異常映画をクリアに美しく蘇らせた『ムカデ人間 4K』が８月21日(金)より公開。大量の公式グッズ＆タイアップグッズが解禁された。 公開劇場（一部を除く）で販売され [&#8230;]",
+      "link": "https://getnews.jp/archives/3736078",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "子を失った夫婦に訪れる“異様な幸福”　喪失と禁忌のフォークホラー『スターヴ・エイカー 召喚』予告編［ホラー通信］",
       "description": "我が子を失った夫婦を描いた、生命の倫理を揺るがすフォークホラー『スターヴ・エイカー 召喚』が９月11日(金)より公開。予告編と場面写真が解禁された。 予告編は、人里離れた土地“スターヴ・エイカー”に移り住み、幼い息子オー [&#8230;]",
       "link": "https://getnews.jp/archives/3735799",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3736132",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【神奈川県横浜市】「リト@葉っぱ切り絵展in横浜みなとみらい」の夏休み特別企画！中学生以下は入場無料",
-      "description": "あ’’〜〜〜〜〜 「Hello ！ Leaf Art World in Yokohama リト＠葉っぱ切り絵展 in 横浜みなとみらい(以下、リト@葉っぱ切り絵展in横浜みなとみらい)」は、8月8日(土)〜30日(日)の [&#8230;]",
-      "link": "https://getnews.jp/archives/3736141",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-10T15:08:07.283961",
+  "updatedAt": "2026-08-10T16:24:19.780928",
   "sites": [
     {
       "id": "hachima",
