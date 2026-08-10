@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本、7月の倒産件数が今年最多の〇〇〇〇件 これがサナエノミクスなのか・・・？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456636.html",
+      "pubDate": "2026-08-11T00:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【祝】『ノーマンズスカイ』発売10周年！発売以来ずっと無料で大型アプデ…「人々が探索した惑星はいまだ全宇宙の1%未満です」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556179.html",
+      "pubDate": "2026-08-11T00:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/2/d24224e9.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ブルーアーカイブのキャラの胸と着ている水着の釣り合いを計算したら→ラッキースケベは科学だと証明されてしまう「なお乳首は存在しないものとする」",
+      "description": "ブルーアーカイブのキャラの胸と着ている水着の釣り合いを計算したら→ラッキースケベは科学だと証明されてしまう「なお乳首は存在しないものとする」",
+      "link": "https://togetter.com/li/2731423",
+      "pubDate": "Mon, 10 Aug 2026 23:21:13 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "10歳未満の娘2人と10代の息子を2日半放置した27歳母親逮捕…「子どもたちが外を歩いているのを見た」と110番通報",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556173.html",
+      "pubDate": "2026-08-10T23:20:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/b/4b21a7bb.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気セクシー女優が突然姿を消して消息不明に → 数年後、とんでもないことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456633.html",
+      "pubDate": "2026-08-10T23:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f2998bd-s.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "Steam公式ゲーミングPC「Steam Machine」をLinuxデスクトップマシンとして使ってみたよレビュー、GIMPやFirefoxなどのLinuxアプリを実行可能",
+      "description": "「Steam Machine」はSteamを運営するValveが開発したゲーミングPCです。OSはLinuxベースの「Steam OS」を採用しており、ゲームをプレイするだけでなくデスクトップモードに切り替えて文書作成や画像編集といったPC作業を行うこともできます。デスクトップPCとしての使い心地が気になったので、各種アプリのインストール手順を確認したりベンチマークテストを実行したりしてみました。",
+      "link": "https://gigazine.net/news/20260810-steam-machine-pc/",
+      "pubDate": "Mon, 10 Aug 2026 23:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -298,19 +376,6 @@
       "description": "「怖すぎる」店の横にバイクを停められたので「バイクから電波が出ている」旨の手紙を貼ったら置かれなくなった、ただ「文量が少ないし意味がわかりやすい」という批判（？）も",
       "link": "https://togetter.com/li/2731371",
       "pubDate": "Mon, 10 Aug 2026 19:57:32 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "あらゆる娯楽のなかで『海水浴』がこんなに早く衰退するとは、誰が想像したのか…「だって今の夏は天災だもん」「スキーの方がヤバい」",
-      "description": "あらゆる娯楽のなかで『海水浴』がこんなに早く衰退するとは、誰が想像したのか…「だって今の夏は天災だもん」「スキーの方がヤバい」",
-      "link": "https://togetter.com/li/2731368",
-      "pubDate": "Mon, 10 Aug 2026 19:50:00 +0900",
       "thumbnail": ""
     },
     {
@@ -730,19 +795,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "蓮舫氏、高市首相が8月6日（原爆の日）に歯科受診に行ったことを批判「この日を避けて行くべきお立場ではないでしょうか」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555921.html",
-      "pubDate": "2026-08-10T13:40:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/e/eedadb99-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -780,19 +832,6 @@
       "link": "https://gigazine.net/news/20260810-grok-imagine-image-2/",
       "pubDate": "Mon, 10 Aug 2026 13:10:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【不穏】『ちいかわ』原作最新話のモモンガさん、死亡フラグが濃厚すぎてネット中がザワつく…　「悪の報い開始か」「どう転んでも鬱展開しか見えない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10555910.html",
-      "pubDate": "2026-08-10T13:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/2/e248290f.jpg"
     },
     {
       "siteId": "jin",
@@ -925,19 +964,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_2534.jpg"
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "Googleがハッカー集団の命名規則を刷新、中国系は「CASTLE」ロシア系は「RELIC」で識別しやすく",
-      "description": "Googleの脅威インテリジェンスチームであるGoogle Threat Intelligence Group(GTIG)が、ハッカー集団などの「脅威アクター」を追跡するための命名規則を刷新しました。新方式では中国に関連する集団には「CASTLE」、ロシアに関連する集団には「RELIC」といった単語を名前の後半に付けることで、名前から攻撃者の出自や動機、活動の種類を把握しやすくなります。続きを読む",
-      "link": "https://gigazine.net/news/20260810-google-hacker-codename/",
-      "pubDate": "Mon, 10 Aug 2026 11:43:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -977,19 +1003,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/1/a181531f.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ロシア、高市首相を煽る「首相は“誰が原爆を投下したか”に言及しなかった。じゃあ広島と長崎に落ちたのは○○だったってことか？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456603.html",
-      "pubDate": "2026-08-10T10:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/e/4e40e2c6.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1014,19 +1027,6 @@
       "link": "https://rocketnews24.com/2026/08/10/2789369/",
       "pubDate": "Mon, 10 Aug 2026 00:00:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/kasa202600.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「就職氷河期世代はブルーカラーの仕事を選ばなかったから苦しかったんでしょ？」→「何言ってんだコイツ」の声、殺到",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456599.html",
-      "pubDate": "2026-08-10T09:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/5/f5eaf992.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,58 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "子を失った夫婦に訪れる“異様な幸福”　喪失と禁忌のフォークホラー『スターヴ・エイカー 召喚』予告編［ホラー通信］",
+      "description": "我が子を失った夫婦を描いた、生命の倫理を揺るがすフォークホラー『スターヴ・エイカー 召喚』が９月11日(金)より公開。予告編と場面写真が解禁された。 予告編は、人里離れた土地“スターヴ・エイカー”に移り住み、幼い息子オー [&#8230;]",
+      "link": "https://getnews.jp/archives/3735799",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "マウントレーニア×新潮文庫『本パ』開幕、崎山蒼志によるスペシャルライブも",
+      "description": "森永乳業と新潮社は8月8日（土）、紀伊國屋書店 新宿本店にて、マウントレーニア×新潮文庫によるイベント『本パ』を開催した。 『本パ』は、両社のコラボレーションプロジェクト「ほんとのひとやすみ」の一環として実施する、新しい [&#8230;]",
+      "link": "https://getnews.jp/archives/3736143",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "岡山発！蜂谷工業の完全水耕栽培メロン「あっ晴れメロン」の公式ブランドサイトが公開",
+      "description": "蜂谷工業は、新規事業として取り組んできた水耕栽培によるメロン事業において、ブランドメロン「あっ晴れメロン」の公式ブランドサイトを公開した。 建設業で培った「水の技術」を最大限に活かし、安定した高品質・高糖度のメロン栽培に [&#8230;]",
+      "link": "https://getnews.jp/archives/3736139",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【東京都中央区】グラスヒュッテ・オリジナルが腕時計100周年記念展を開催！銀座で一般公開中",
+      "description": "NGHC 14F グラスヒュッテ・オリジナルは、「グラスヒュッテ腕時計100周年記念展 新たな始まり-懐中時計から腕時計へ」を8月11日(火)まで開催している。開催場所は銀座のニコラス・G・ハイエック センター14階にあ [&#8230;]",
+      "link": "https://getnews.jp/archives/3736140",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "不憫な配達人が主人公に　『ウェポンズ』監督が手掛ける『バイオハザード』日本限定予告編　「君はヤバい物を運んでいる」［ホラー通信］",
       "description": "『バーバリアン』(22)『WEAPONS／ウェポンズ』(25)のザック・クレッガー監督がゲーム「バイオハザード」を映画化した『バイオハザード』が10月９日(金)より公開。バイオの日（８月10日）にちなんだ日本限定の予告編 [&#8230;]",
       "link": "https://getnews.jp/archives/3736077",
@@ -1763,66 +1815,14 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【東京都町田市】ASVペスカドーラ町田が、日本フットサル界のレジェンド・森岡薫氏の引退試合を開催",
-      "description": "ASVペスカドーラ町田は、2025-26シーズンをもって現役を引退したクラブゼネラルマネージャー・森岡薫氏の引退試合を開催することを発表した。8月22日(土)、東京都の町田市立総合体育館で行われる。 日本フットサル界を代 [&#8230;]",
-      "link": "https://getnews.jp/archives/3736125",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【石川県金沢市】モンクレールの新店舗が香林坊アトリオ内にオープン！アウターウェアやアクセサリーも",
-      "description": "モンクレールは、8月1日(土)、石川県金沢市にある香林坊アトリオ内に新店舗をオープンした。 これにより、日本におけるブランドのプレゼンスをさらに強化するという。 「モンクレール 金沢店」の空間について 230平方メートル [&#8230;]",
-      "link": "https://getnews.jp/archives/3736126",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "『モンハンNow』夏の特別支給品!! 18日連続でもらえちゃう超お得なアイテムをゲットしよう",
-      "description": "2026年8月10（月）、探索拠点を舞台にした拠点要撃戦が始まった位置情報ゲーム『モンハンNow』にて、いつもよりたくさんの支給品がもらえちゃう特別キャンペーン。 そしてお買い物が少しお得になる2つの新しい試みが突如始ま [&#8230;]",
-      "link": "https://getnews.jp/archives/3736045",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "7年愛用しているパタゴニアの「ブラックホール・キューブ」。海で使ったらその魅力を再発見したよ",
-      "description": "※本記事は2025年8月9日に公開された記事を再編集して掲載しています。 Text and Photographed by sato 7年ほど前に購入して、旅行やお出かけの際に使っていたパタゴニア（Patagonia）の [&#8230;]",
-      "link": "https://getnews.jp/archives/3736120",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【東京都あきる野市】「秋川渓谷 瀬音の湯」東京とは思えない自然を満喫できる「せおと夏まつり」を開催",
-      "description": "東京都あきる野市の温泉施設「秋川渓谷 瀬音の湯」にて、家族みんなで楽しめる「せおと夏まつり」が8月15日(土)・16日(日)の2日間限定で開催される。 東京とは思えない大自然を満喫できる「瀬音の湯」 「秋川渓谷 瀬音の湯 [&#8230;]",
-      "link": "https://getnews.jp/archives/3736127",
+      "title": "【神奈川県横浜市】「リト@葉っぱ切り絵展in横浜みなとみらい」の夏休み特別企画！中学生以下は入場無料",
+      "description": "あ’’〜〜〜〜〜 「Hello ！ Leaf Art World in Yokohama リト＠葉っぱ切り絵展 in 横浜みなとみらい(以下、リト@葉っぱ切り絵展in横浜みなとみらい)」は、8月8日(土)〜30日(日)の [&#8230;]",
+      "link": "https://getnews.jp/archives/3736141",
       "pubDate": "",
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-10T13:56:50.924540",
+  "updatedAt": "2026-08-10T15:08:07.283961",
   "sites": [
     {
       "id": "hachima",
