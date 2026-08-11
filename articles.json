@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市政権、「言うことを聞かない」財務省エースを“左遷”か",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456697.html",
+      "pubDate": "2026-08-12T04:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/841d7668.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ポケモン新商品『プラコロ』は課金ゲー？ 出目の違いが話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556450.html",
+      "pubDate": "2026-08-12T04:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/5/151cfa90-s.png"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -574,19 +600,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ヒカル、「教祖」を名乗り「光の会」を開設ｗｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556342.html",
-      "pubDate": "2026-08-11T17:30:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/faadd4ba-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -832,19 +845,6 @@
       "link": "https://gigazine.net/news/20260811-china-ai-chinese-training-data/",
       "pubDate": "Tue, 11 Aug 2026 10:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "高市首相、財務省を『抵抗勢力』と見なす　対立構造が鮮明に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456655.html",
-      "pubDate": "2026-08-11T09:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/61a8f6ab.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-11T18:29:39.169990",
+  "updatedAt": "2026-08-11T19:40:10.609257",
   "sites": [
     {
       "id": "hachima",
