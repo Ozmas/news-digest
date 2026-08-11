@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "大物漫画家「異世界転生が流行るのは早めに終わってほしい。（現実が）よっぽど辛いんだろうなと思っちゃう」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456690.html",
+      "pubDate": "2026-08-11T21:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/166df21b-s.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2078話目「エルフの森の変化⑥」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/08/11/2790392/",
+      "pubDate": "Tue, 11 Aug 2026 12:00:26 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2078a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】新生銀行とゆうちょ、新作百合ゲームのSteam売上を取り扱い拒否！ついに全年齢向けゲームまで検閲される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556423.html",
+      "pubDate": "2026-08-11T21:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d0899f95.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "マンジャロやオゼンピックなどダイエットに使われるGLP-1受容体作動薬は「ハゲ」のリスクを高める可能性",
+      "description": "近年はオゼンピックやマンジャロといったGLP-1受容体作動薬が、2型糖尿病の治療だけでなくダイエットにも広く用いられています。ところが、そんなGLP-1受容体作動薬が脱毛症、つまり薄毛やハゲのリスクを高めるという研究結果が報告されました。続きを読む...",
+      "link": "https://gigazine.net/news/20260811-weight-loss-drugs-hair-loss-risk/",
+      "pubDate": "Tue, 11 Aug 2026 21:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "49歳無職、マレーシアの特殊詐欺拠点に送り込まれるも無能すぎて仕事できないため無報酬で帰国 → 怒った暴力団、無能をボコボコにして逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556422.html",
+      "pubDate": "2026-08-11T20:30:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/70be2c51.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -60,8 +125,8 @@
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "イギリスなどでスーツを作る時に使うらしい英語『Which way do you dress？(チ○ポジはどっちですか？)』→「さすが紳士の国」「日本でも古いテーラーでは聞かれる」",
-      "description": "イギリスなどでスーツを作る時に使うらしい英語『Which way do you dress？(チ○ポジはどっちですか？)』→「さすが紳士の国」「日本でも古いテーラーでは聞かれる」",
+      "title": "イギリスなどでスーツを作る時に使うらしい英語『Which way do you dress？』→「さすが紳士の国」「日本でも古いテーラーでは聞かれる」",
+      "description": "イギリスなどでスーツを作る時に使うらしい英語『Which way do you dress？』→「さすが紳士の国」「日本でも古いテーラーでは聞かれる」",
       "link": "https://togetter.com/li/2731736",
       "pubDate": "Tue, 11 Aug 2026 19:38:43 +0900",
       "thumbnail": ""
@@ -522,19 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e75da5b-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃事実】昭和では当たり前だった夏の娯楽『◯◯◯』がガチで急激に衰退して絶滅の危機に… 「アニメや漫画の夏イベントも変わりそう」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556290.html",
-      "pubDate": "2026-08-11T12:20:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5b15d92f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +598,6 @@
       "link": "https://jin115.com/archives/52456672.html",
       "pubDate": "2026-08-11T12:15:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/e/fe468a3b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【！？】男性「服についた血はどうすればいいんだろう」　→　これを聞いた女性の反応があまりに怖すぎるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556286.html",
-      "pubDate": "2026-08-11T12:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/33e9b555.jpg"
     },
     {
       "siteId": "gigazine",
@@ -860,19 +899,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/1/71bfd29e-s.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本、7月の倒産件数が今年最多の〇〇〇〇件 これがサナエノミクスなのか・・・？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456636.html",
-      "pubDate": "2026-08-11T00:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -1094,19 +1120,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "OpenAIが開発中の次期主力AIモデル「Astra」について「強力すぎる」ことを理由にサイバーリスク重大に指定して安全措置を開発中",
-      "description": "OpenAIは次期主力AIモデルとして「Astra」を準備しており、2026年8月1日には、Astraの内部バージョンが10件の数学・理論計算機科学の課題で新成果を上げたことを発表しています。しかし8月7日には、Astraに関する最新の社内評価でエージェントコーディングとサイバーセキュリティにおいて著しい進歩が見られたと述べた一方で、「重要なサイバーセキュリティの閾値に達する」と判断されています。",
-      "link": "https://gigazine.net/news/20260810-astra-cyber-capabilities/",
-      "pubDate": "Mon, 10 Aug 2026 13:50:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1209,19 +1222,6 @@
       "link": "https://rocketnews24.com/2026/08/09/2789849/",
       "pubDate": "Sun, 09 Aug 2026 12:00:10 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2076a.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "世界最古の餃子チェーン『老辺餃子舘』北京店に行ってみた / 中国ギネスの賞状や創始者の顔に感じる200年の歴史",
-      "description": "餃子の王将が来年2027年で創業60周年。3つの時代を跨ぐ60年も長いけれど、餃子で言うなら本場は中国である。中国が誇る世界最古の餃子チェーンが『老辺餃子舘』だ。創業、約200年。 清朝の頃から続く餃子店で、中国版ギネス [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/09/2788460/",
-      "pubDate": "Sun, 09 Aug 2026 10:00:39 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/rouben.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-11T11:22:12.744495",
+  "updatedAt": "2026-08-11T12:11:02.612538",
   "sites": [
     {
       "id": "hachima",
