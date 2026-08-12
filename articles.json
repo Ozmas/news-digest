@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "【本日の文学】焼き鮭弁当を美味しいと食べていたら、同じ弁当を食べていた上司が「あたし北海道から来たの」と語り出し、ポロポロと泣き出した",
+      "description": "【本日の文学】焼き鮭弁当を美味しいと食べていたら、同じ弁当を食べていた上司が「あたし北海道から来たの」と語り出し、ポロポロと泣き出した",
+      "link": "https://togetter.com/li/2732270",
+      "pubDate": "Thu, 13 Aug 2026 02:26:14 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "開催中止の『琵琶湖三市同時花火大会』運営「当初から開催する意思がなかった、は事実ではない」「返金については確定的な発信はできない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556747.html",
+      "pubDate": "2026-08-13T02:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b457e79.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "お買い物あるあるを描いたマンガ「ニンニク売り場で葛藤の末に」に共感、選択肢に迷ったときはゴルディロックス効果を実感しがち",
+      "description": "お買い物あるあるを描いたマンガ「ニンニク売り場で葛藤の末に」に共感、選択肢に迷ったときはゴルディロックス効果を実感しがち",
+      "link": "https://togetter.com/li/2732265",
+      "pubDate": "Thu, 13 Aug 2026 01:57:15 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「アイマス離婚しました。」離婚報告をした人の投稿に「ただの離婚では？」と疑問を呈す声が集まるが、趣味が共通でも生活の相性まで一致するとは限らない",
+      "description": "「アイマス離婚しました。」離婚報告をした人の投稿に「ただの離婚では？」と疑問を呈す声が集まるが、趣味が共通でも生活の相性まで一致するとは限らない",
+      "link": "https://togetter.com/li/2732264",
+      "pubDate": "Thu, 13 Aug 2026 01:56:51 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "オーストラリア政府、首相のメロン発言を日本に釈明「性的な意味合いを込めて発言したわけではない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556746.html",
+      "pubDate": "2026-08-13T01:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/1/e16ee30e.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「付き添う人も不安感が紛れていい」病院に併設されたスタバを疑問視する声に意見が、確かに不安な時にコーヒーやお菓子があると、心の支えになってくれそう",
+      "description": "「付き添う人も不安感が紛れていい」病院に併設されたスタバを疑問視する声に意見が、確かに不安な時にコーヒーやお菓子があると、心の支えになってくれそう",
+      "link": "https://togetter.com/li/2732253",
+      "pubDate": "Thu, 13 Aug 2026 01:08:57 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -366,19 +444,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "新幹線グリーン車で机に足を置き爆音で映画視聴している迷惑客のポストをしたところ、その後本人らしき人物からDMが届き「その投稿消してくれませんか?何がしたいの?インプ稼ぎ?笑」",
-      "description": "新幹線グリーン車で机に足を置き爆音で映画視聴している迷惑客のポストをしたところ、その後本人らしき人物からDMが届き「その投稿消してくれませんか?何がしたいの?インプ稼ぎ?笑」",
-      "link": "https://togetter.com/li/2732164",
-      "pubDate": "Wed, 12 Aug 2026 20:18:14 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -431,19 +496,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「焼売が終売」「不器用軒」崎陽軒のお弁当、めちゃくちゃ美味しいけどご飯が足りない…そう思って家からご飯を持ってきたら肝心の弁当が売り切れ",
-      "description": "「焼売が終売」「不器用軒」崎陽軒のお弁当、めちゃくちゃ美味しいけどご飯が足りない…そう思って家からご飯を持ってきたら肝心の弁当が売り切れ",
-      "link": "https://togetter.com/li/2732155",
-      "pubDate": "Wed, 12 Aug 2026 19:44:15 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -468,32 +520,6 @@
       "link": "https://jin115.com/archives/52456778.html",
       "pubDate": "2026-08-12T19:30:31+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/f/9ff33882.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ホットケーキは何をどうやったらパッケージみたいに焼けるんだよ→様々なコツや面倒で省きがちなあの工程が大事だというアドバイスが集まってきた",
-      "description": "ホットケーキは何をどうやったらパッケージみたいに焼けるんだよ→様々なコツや面倒で省きがちなあの工程が大事だというアドバイスが集まってきた",
-      "link": "https://togetter.com/li/2732152",
-      "pubDate": "Wed, 12 Aug 2026 19:28:03 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "30年以上前に「NTTのシステムのバグを利用して公衆電話をハッキングする」という闇バイトをしたポスト主…騙されていることがわかり、すぐに通報したが、捜査も裁判も難航した話が興味深い",
-      "description": "30年以上前に「NTTのシステムのバグを利用して公衆電話をハッキングする」という闇バイトをしたポスト主…騙されていることがわかり、すぐに通報したが、捜査も裁判も難航した話が興味深い",
-      "link": "https://togetter.com/li/2732150",
-      "pubDate": "Wed, 12 Aug 2026 19:17:20 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -678,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/1/91f92b05.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【売れすぎ】『めっちゃカメレオン』発売2ヶ月で売上本数2000万本を達成ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556616.html",
-      "pubDate": "2026-08-12T16:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/a/da507e85.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://gigazine.net/news/20260812-sony-semicon-tsmc-joint-venture/",
       "pubDate": "Wed, 12 Aug 2026 15:35:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】オタク「ハルヒ観る気あるの？ならこの順番を守って観てね」⇒ 面倒すぎるとドン引きされてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556615.html",
-      "pubDate": "2026-08-12T15:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4d570b1c.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-12T16:02:23.526583",
+  "updatedAt": "2026-08-12T17:31:18.965510",
   "sites": [
     {
       "id": "hachima",
