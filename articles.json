@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ネトフリドラマ『サンクチュアリ』『幽遊白書』『地面師たち』続編がクランクイン",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556714.html",
+      "pubDate": "2026-08-13T04:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/e/1eeddc32.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ホラゲー「日本事故物件監視協会3」に「報告できない赤いモヤがかかる異常」のバグ報告が寄せられるも公式は「不具合は確認できない」と回答、別件で黒い何かが蠢く報告も",
+      "description": "ホラゲー「日本事故物件監視協会3」に「報告できない赤いモヤがかかる異常」のバグ報告が寄せられるも公式は「不具合は確認できない」と回答、別件で黒い何かが蠢く報告も",
+      "link": "https://togetter.com/li/2732278",
+      "pubDate": "Thu, 13 Aug 2026 03:30:50 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】映画『スパイダーマンBND』の「あのシーン」撮影風景がエグすぎ！マジで神業",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556712.html",
+      "pubDate": "2026-08-13T03:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c2c5aca3-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "狂ったバイク乗りが◯◯する恐怖映像、公開される",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456787.html",
+      "pubDate": "2026-08-13T03:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/2/92c347a2.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -431,19 +483,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "2025年は58件だったケーキ、菓子店の倒産…今年は1月から7月で45件に増加し、様々な反応が集まるが円安だけの影響じゃなさそう",
-      "description": "2025年は58件だったケーキ、菓子店の倒産…今年は1月から7月で45件に増加し、様々な反応が集まるが円安だけの影響じゃなさそう",
-      "link": "https://togetter.com/li/2732165",
-      "pubDate": "Wed, 12 Aug 2026 20:27:08 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -652,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/7/578e47ef.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【噂】ソニー、『マーベルズ スパイダーマン3』を開発中！？業界向けデータベースサイトにゲーム情報が掲載！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556619.html",
-      "pubDate": "2026-08-12T17:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/503e65b1.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -676,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/08/12/2789657/",
       "pubDate": "Wed, 12 Aug 2026 08:00:02 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/aishokushitu.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「オタク系町おこしでよく例として出される鷲宮と大洗は参考にならない。オタクの金だけに目がくらまず町の人にオタクを◯◯させたから成功できた」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556617.html",
-      "pubDate": "2026-08-12T16:30:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/ef0ba661.png"
     },
     {
       "siteId": "jin",
@@ -962,19 +975,6 @@
       "link": "https://rocketnews24.com/2026/08/12/2790780/",
       "pubDate": "Wed, 12 Aug 2026 02:30:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_3536.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "AI疑惑の絵師さん、\"1時間34分\"もの証明動画を投稿するも疑惑はイマイチ晴れず・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456733.html",
-      "pubDate": "2026-08-12T11:30:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/6/a651236a-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-12T17:31:18.965510",
+  "updatedAt": "2026-08-12T19:07:56.900850",
   "sites": [
     {
       "id": "hachima",
