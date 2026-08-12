@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ゴーストオブヨウテイ コンプリートエディション』10月1日に発売決定！追加ストーリー＆ローグライクサバイバルモードなどの新コンテンツを収録",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556740.html",
+      "pubDate": "2026-08-13T01:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fc742fc4.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「廃墟に謎の錠がついてたからピッキングして中身見てみるわ！」 → 中からとんでもない物が出てくる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456776.html",
+      "pubDate": "2026-08-13T01:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/0/e02ecec2-s.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "『忍者と極道』近藤信輔先生による『ちいかわ』オデと島二郎の取っ組み合いのファンアートが爆誕、静と動の二人の強者の衝突が迫力満点",
+      "description": "『忍者と極道』近藤信輔先生による『ちいかわ』オデと島二郎の取っ組み合いのファンアートが爆誕、静と動の二人の強者の衝突が迫力満点",
+      "link": "https://togetter.com/li/2732248",
+      "pubDate": "Thu, 13 Aug 2026 00:40:08 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】USJ、地べたに座り込む外国人観光客だらけで終わる・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556682.html",
+      "pubDate": "2026-08-13T00:30:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f9fd98a9-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「こういうタイプの顔の男ガチで無理。生理的に受け付けない」ﾊﾟｼｬｯ → 共感殺到で「性格いい奴見たことない」などボロクソ言われてしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456771.html",
+      "pubDate": "2026-08-13T00:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/3/d38070db-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】X民「ヤマト運輸でポケカを送ったら全てなくされました。ベトナム人を大量雇用？本当に大丈夫？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556681.html",
+      "pubDate": "2026-08-13T00:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/7/275f0d43.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ビーストオブリンカネーション』アプデで大量改善！カメラや文字サイズ、ボスなどのバランス調整でより遊びやすく",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556730.html",
+      "pubDate": "2026-08-12T23:45:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75a9ad27.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -405,19 +496,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "常識無さ過ぎて社会人になるまで「1円単位で割り勘」してた。こういう価値観って本当にどこで学ぶの？→1円単位の割り勘の是非をめぐって大議論が巻き起こる",
-      "description": "常識無さ過ぎて社会人になるまで「1円単位で割り勘」してた。こういう価値観って本当にどこで学ぶの？→1円単位の割り勘の是非をめぐって大議論が巻き起こる",
-      "link": "https://togetter.com/li/2732149",
-      "pubDate": "Wed, 12 Aug 2026 19:15:37 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -678,19 +756,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c99f79dd.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "77歳女性「カセットコンロで煮物作るかね（しゃがむ」 → ガスボンベ爆発を起こすも本人は髪の毛の一部がちぢれた程度で済む",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556613.html",
-      "pubDate": "2026-08-12T15:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6bbe2b8e.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -702,19 +767,6 @@
       "link": "https://gigazine.net/news/20260812-blueskys-active-user/",
       "pubDate": "Wed, 12 Aug 2026 15:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【訃報】『金装のヴェルメイユ』の漫画家・梅津葉子さん、脳梗塞で死去　アニメ化もされた少年ガンガンの名作",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556614.html",
-      "pubDate": "2026-08-12T14:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/a/6ae22fb1.jpg"
     },
     {
       "siteId": "gigazine",
@@ -769,19 +821,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "とある男性が特殊二輪からヤバイ転倒をする → 周囲の対応が酷いと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556609.html",
-      "pubDate": "2026-08-12T14:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0f45bbbd.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +845,6 @@
       "link": "https://gigazine.net/news/20260812-chatgpt-desktop-linux/",
       "pubDate": "Wed, 12 Aug 2026 13:52:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "62歳無職男性「お？ワイヤレスイヤホンが落ちてる。オレのものにして使ったろ！」 17歳男子高校生「おまわりさん、あの人です」 → 男性逮捕される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556606.html",
-      "pubDate": "2026-08-12T13:40:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/a/aa9a30fd.jpg"
     },
     {
       "siteId": "gigazine",
@@ -962,32 +988,6 @@
       "link": "https://rocketnews24.com/2026/08/12/2790774/",
       "pubDate": "Wed, 12 Aug 2026 02:00:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_8848のコピー.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国「話聞きたいから来てもらえる？」 日本人「え、疑われてるの？…まあ話せばわかるやろ」→入国後拘束へ😱",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456744.html",
-      "pubDate": "2026-08-12T11:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/19ff4414.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【朗報】罪を犯すなど強制退去となった外国人、これからはもう逃げられない",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456737.html",
-      "pubDate": "2026-08-12T10:30:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/311782a9.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-12T14:37:52.515281",
+  "updatedAt": "2026-08-12T16:02:23.526583",
   "sites": [
     {
       "id": "hachima",
