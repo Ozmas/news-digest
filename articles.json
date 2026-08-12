@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "橋下徹さん、3人の息子が成人してもまだ○○状態だと明かす→ネットがざわつく",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456793.html",
+      "pubDate": "2026-08-13T07:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/3/c306ec42.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -897,19 +910,6 @@
       "link": "https://gigazine.net/news/20260812-spotifyai-persona/",
       "pubDate": "Wed, 12 Aug 2026 13:05:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】最近の若者、マジで日本語が通じない・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456749.html",
-      "pubDate": "2026-08-12T13:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/362e8ea9.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-12T21:22:10.581612",
+  "updatedAt": "2026-08-12T22:11:58.730122",
   "sites": [
     {
       "id": "hachima",
