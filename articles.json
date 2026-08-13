@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】ガンダム声優・岡本麻弥さん「いのちの党の支持者達から集団ネットリンチされました。自分の命を守るために休止します」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556935.html",
+      "pubDate": "2026-08-14T00:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/db5c9c94.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「食べログで超有名な店で出てきたトンカツ（6300円）がこちらです」ﾊﾟｼｬｯ → 投稿されたトンカツがヤバすぎるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456847.html",
+      "pubDate": "2026-08-14T00:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/16b89e55-s.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「親の覚悟が見えた」お子さんが生まれて3ヶ月のパパ、いろいろ考えて集めていた大量のプラモを売却→こういう決断できる人尊敬するし復帰も遠くない？",
+      "description": "「親の覚悟が見えた」お子さんが生まれて3ヶ月のパパ、いろいろ考えて集めていた大量のプラモを売却→こういう決断できる人尊敬するし復帰も遠くない？",
+      "link": "https://togetter.com/li/2732617",
+      "pubDate": "Thu, 13 Aug 2026 23:59:36 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ポケモンバンク』2027年2月26日にサービス終了へ！ついに3DS以前のポケモンを現行作品へ送る手段が消滅か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557030.html",
+      "pubDate": "2026-08-13T23:30:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c783b93a.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "リュウジ氏「『鉄鍋のジャン』は再現しても美味しいけど、『美味しんぼ』は美味しくない」→料理漫画の再現性と現実について反応あれこれ",
+      "description": "リュウジ氏「『鉄鍋のジャン』は再現しても美味しいけど、『美味しんぼ』は美味しくない」→料理漫画の再現性と現実について反応あれこれ",
+      "link": "https://togetter.com/li/2732605",
+      "pubDate": "Thu, 13 Aug 2026 23:03:37 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「いまだけチョコミント食べ美と申します！」tenten先生がマクドナルドのチョコミントフラッペ復活に向けて新たなる食べ美を爆誕させる、いやもう正式にコラボしてくれ",
+      "description": "「いまだけチョコミント食べ美と申します！」tenten先生がマクドナルドのチョコミントフラッペ復活に向けて新たなる食べ美を爆誕させる、いやもう正式にコラボしてくれ",
+      "link": "https://togetter.com/li/2732604",
+      "pubDate": "Thu, 13 Aug 2026 23:00:45 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ブラッド・ピットさん、○○が原因でアダルトビデオを見れなくなっていたｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456846.html",
+      "pubDate": "2026-08-13T23:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/25f67b3f-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【朗報】『ホグワーツ・レガシー』第2弾が開発中！ワーナーが株主向け資料で制作を明言！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557009.html",
+      "pubDate": "2026-08-13T23:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b1d731fc.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防",
+      "description": "寄付者情報データベース「PatronView」を運営するニック・グレイ氏が、ウェブサイトに押し寄せるAIクローラーやスクレイパーと約1年間にわたって続けてきた攻防を公開しました。サーバーが配信したページ数とアクセス解析の数字を比べると、「人間が1回ページ読み込んだ」と記録される間に、AIによるページ読み込みがおよそ214回発生していたとのことです。続きを読む...",
+      "link": "https://gigazine.net/news/20260813-traffic-bot-percent/",
+      "pubDate": "Thu, 13 Aug 2026 23:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -177,8 +294,8 @@
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "千葉県に大雨特別警報（レベル5）が発表、千葉駅は隣接する商業施設まで冠水、市川市ではバスが立ち往生…避難指示や緊急安全確保が発令される地域も",
-      "description": "千葉県に大雨特別警報（レベル5）が発表、千葉駅は隣接する商業施設まで冠水、市川市ではバスが立ち往生…避難指示や緊急安全確保が発令される地域も",
+      "title": "千葉県で大雨特別警報（レベル5）発表、千葉駅は隣接する商業施設まで冠水、市川市ではバスが立ち往生…避難指示や緊急安全確保が発令される地域も",
+      "description": "千葉県で大雨特別警報（レベル5）発表、千葉駅は隣接する商業施設まで冠水、市川市ではバスが立ち往生…避難指示や緊急安全確保が発令される地域も",
       "link": "https://togetter.com/li/2732566",
       "pubDate": "Thu, 13 Aug 2026 20:37:30 +0900",
       "thumbnail": ""
@@ -285,45 +402,6 @@
       "description": "映画「ちいかわ」特典のボンドロを活用したiPhoneケースが細部にもこだわられててすごい、ただし安定の人の心がない仕様",
       "link": "https://togetter.com/li/2732555",
       "pubDate": "Thu, 13 Aug 2026 19:48:16 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "東京のケーキ、ワンカット6,000円で衝撃「だれが考えたんだ、こんな小学生の考えた必殺技みたいな名前」「サイズもデカいんよ」",
-      "description": "東京のケーキ、ワンカット6,000円で衝撃「だれが考えたんだ、こんな小学生の考えた必殺技みたいな名前」「サイズもデカいんよ」",
-      "link": "https://togetter.com/li/2732551",
-      "pubDate": "Thu, 13 Aug 2026 19:40:56 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ロシアのプーチン大統領が択捉島を訪問し、抗議の声や様々な意見が集まるが、ある反応が秀逸だった「訪日するのってすごい久しぶりじゃない？」",
-      "description": "ロシアのプーチン大統領が択捉島を訪問し、抗議の声や様々な意見が集まるが、ある反応が秀逸だった「訪日するのってすごい久しぶりじゃない？」",
-      "link": "https://togetter.com/li/2732549",
-      "pubDate": "Thu, 13 Aug 2026 19:36:24 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "山形県のご当地スーパー『ヤマザワ』が山形県民の定番フード「納豆餅」を紹介していた→納豆餅って全国区じゃないの！？とざわつく皆様",
-      "description": "山形県のご当地スーパー『ヤマザワ』が山形県民の定番フード「納豆餅」を紹介していた→納豆餅って全国区じゃないの！？とざわつく皆様",
-      "link": "https://togetter.com/li/2732550",
-      "pubDate": "Thu, 13 Aug 2026 19:36:18 +0900",
       "thumbnail": ""
     },
     {
@@ -717,19 +795,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "男性教師、学校支給のアカウントで同僚の女性教師の水着画像を生成AIで作成 → 削除方法わからず履歴に残る → 生徒が共用PCを利用してバレ、停職6ヶ月の処分",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556874.html",
-      "pubDate": "2026-08-13T14:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6d090a31.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -756,19 +821,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "姪っ子「おじさん！自分の家ないの？」　45歳会社員の未婚男性「夏休みよ、はよ終われ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556865.html",
-      "pubDate": "2026-08-13T13:40:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/af7788a4-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -780,19 +832,6 @@
       "link": "https://gigazine.net/news/20260813-grok-4-6/",
       "pubDate": "Thu, 13 Aug 2026 13:33:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジでそれ】『ちいかわ』の一番すごいところは、子供向け作品にはあって当然の◯◯◯を完全に排除してるとこ　→　「わかる」と共感が殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556869.html",
-      "pubDate": "2026-08-13T13:20:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d9bb453b.png"
     },
     {
       "siteId": "gigazine",
@@ -925,32 +964,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/1/c13d8f31.jpg"
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "AppleはSiri AIが時事問題にさらにアクセスできるようにするため出版社との提携を模索している",
-      "description": "AppleがWWDC26で発表したSiri AIをよりスマートにするべく、Appleは出版社と報酬支払いについて協議を進めているとウォール・ストリート・ジャーナルが報じました。続きを読む...",
-      "link": "https://gigazine.net/news/20260813-apple-pay-publishers-improve-ai-siri/",
-      "pubDate": "Thu, 13 Aug 2026 11:08:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性初の検事総長、検察の不祥事が多すぎて退任へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456805.html",
-      "pubDate": "2026-08-13T11:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/c/4cbb4fb4.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -975,19 +988,6 @@
       "link": "https://rocketnews24.com/2026/08/13/2791004/",
       "pubDate": "Thu, 13 Aug 2026 01:48:37 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_4339.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【朗報】クルド人、ついに母国に帰るときが来る！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456801.html",
-      "pubDate": "2026-08-13T10:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/ce5526f5.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1724,6 +1724,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "DMBQ主催の恒例クアトロシリーズ、kanekoayano、Hedigan’s、LAUSBUB、YPY出演",
+      "description": "DMBQが毎年秋にクアトロにて行う自主公演が今年も決定した。 今回は渋谷クアトロにてkanekoayano、梅田クアトロにてLAUSBUBとYPY、そして名古屋クアトロにてHedigan’sという、豪華な競演ラインナップ [&#8230;]",
+      "link": "https://getnews.jp/archives/3736787",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "yama、新曲「mountain」リリックビデオ公開",
       "description": "yamaが2026年8月12日(水)にリリースしたニューシングル「mountain」のリリックビデオを公開した。 リリックビデオは、yamaが撮影した写真とyamaを撮影した写真を組み合わせて制作された。yamaがどのよ [&#8230;]",
       "link": "https://getnews.jp/archives/3736784",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3736777",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "忘れらんねえよ、話題沸騰『ヤニねこ』OP「なんもねえ」MV公開 声優の夏吉ゆうこ、稲田徹も出演",
-      "description": "忘れらんねえよが最新曲「なんもねえ」のMVを公開した。 「なんもねえ」は、現在放送中の7月期TVアニメ『ヤニねこ』のOPテーマ。OP映像や前代未聞の内容がきっかけとなり、アニメと共にSNSで話題沸騰中となっている楽曲だ。 [&#8230;]",
-      "link": "https://getnews.jp/archives/3736775",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-13T13:59:14.903402",
+  "updatedAt": "2026-08-13T15:08:05.957261",
   "sites": [
     {
       "id": "hachima",
