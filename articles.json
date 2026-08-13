@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「Webに悪意が溢れすぎてる」売りに出した覚えは一切ないのに、自分のガンプラがとあるサイトで勝手に売りに出されていた話… 在庫ありじゃねぇんだよ「完全な詐欺サイト」",
+      "description": "「Webに悪意が溢れすぎてる」売りに出した覚えは一切ないのに、自分のガンプラがとあるサイトで勝手に売りに出されていた話… 在庫ありじゃねぇんだよ「完全な詐欺サイト」",
+      "link": "https://togetter.com/li/2732697",
+      "pubDate": "Fri, 14 Aug 2026 08:05:46 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「道路走ってたら突然マグナムトルネードしてくる奴が出てきて大事故」パシャッ　→　お前らの想像の300倍以上マグナムトルネードでネット騒然ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557107.html",
+      "pubDate": "2026-08-14T08:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/f/3f8c8100.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "これからどうすんねん！ やらかした告白失敗青年！　四コマサボタージュFB第65回「今なら…」",
+      "description": "そういえば今年まだ海に行っていないんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/14/2786641/",
+      "pubDate": "Thu, 13 Aug 2026 23:00:08 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-65.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】ショートスリーパー堀大輔さん、存在しない『クイヤ』という生物を「あークイヤか！」と知ったか発言してしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456873.html",
+      "pubDate": "2026-08-14T08:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/a/9a3a2a61-s.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "クリストファー・ノーランの映画『オデュッセイア』で使われたIMAXの新型70mmフィルムカメラ「Keighley」とは？",
+      "description": "「Keighley」はカメラや映写システムの製造開発や映画製作、劇場配給などを行うIMAXコーポレーションが開発した新型70mmフィルムカメラです。開発にあたっては、クリストファー・ノーラン氏やホイト・ヴァン・ホイテマ氏といった著名な監督や撮影監督が協力しています。続きを読む...",
+      "link": "https://gigazine.net/news/20260814-imax-keighley-film-camera-the-odyssey/",
+      "pubDate": "Fri, 14 Aug 2026 08:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "きのこが好きな3歳児に山盛りのなめこ汁を夕飯に出したら、「これこれ。この世でいっちばんうまい汁、きのこ汁」と揉み手をしながら近づいてきて、そういう妖怪かと思った",
+      "description": "きのこが好きな3歳児に山盛りのなめこ汁を夕飯に出したら、「これこれ。この世でいっちばんうまい汁、きのこ汁」と揉み手をしながら近づいてきて、そういう妖怪かと思った",
+      "link": "https://togetter.com/li/2732695",
+      "pubDate": "Fri, 14 Aug 2026 07:49:57 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】アニメ『ヤニねこ』OP主題歌「なんもねえ」のMV公開　→　なんと声優の夏吉ゆうこさん・稲田徹さんがコスプレ出演！原作者やアニメ監督まで実写顔出し出演ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557106.html",
+      "pubDate": "2026-08-14T07:30:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8ed9f7c3.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "災害時に当日宿泊料金を12万円にしたホテルや突然20%値上げしたホテルに不満の声→「ダイナミックプライシングでは？」「こんな時に来てほしくない」様々な考察が集まる",
+      "description": "災害時に当日宿泊料金を12万円にしたホテルや突然20%値上げしたホテルに不満の声→「ダイナミックプライシングでは？」「こんな時に来てほしくない」様々な考察が集まる",
+      "link": "https://togetter.com/li/2732693",
+      "pubDate": "Fri, 14 Aug 2026 07:25:02 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジかよ】料理研究家リュウジさん「『鉄鍋のジャン』は再現しても美味しいけど、『美味しんぼ』の料理は美味しくない。再現性トップクラスの料理漫画は◯◯◯」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557099.html",
+      "pubDate": "2026-08-14T07:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4af62f9e.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -496,32 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/0/204ab19d.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "セブンイレブンが映画「ちいかわ」コラボで「うま辛カレースナック」を販売、激辛唐辛子パウダー付きだからあのエプロンがあればなりきり遊びもできちゃう",
-      "description": "セブンイレブンが映画「ちいかわ」コラボで「うま辛カレースナック」を販売、激辛唐辛子パウダー付きだからあのエプロンがあればなりきり遊びもできちゃう",
-      "link": "https://togetter.com/li/2732568",
-      "pubDate": "Thu, 13 Aug 2026 20:42:44 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "千葉県で大雨特別警報（レベル5）発表、千葉駅は隣接する商業施設まで冠水、市川市ではバスが立ち往生…避難指示や緊急安全確保が発令される地域も",
-      "description": "千葉県で大雨特別警報（レベル5）発表、千葉駅は隣接する商業施設まで冠水、市川市ではバスが立ち往生…避難指示や緊急安全確保が発令される地域も",
-      "link": "https://togetter.com/li/2732566",
-      "pubDate": "Thu, 13 Aug 2026 20:37:30 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -558,19 +649,6 @@
       "description": "AIを使ってオンライン会議の録画・文字起こし・要約を行うサービス「tl;dv」で、全ユーザーの会議メタデータを横断して18万1874件の会議記録を取得できる脆弱(ぜいじゃく)性が存在したと独立系セキュリティ研究者が報告しました。研究者はtl;dv運営者にこの件を報告したものの6カ月の間修正されていないと非難しましたが、tl;dv側は「修正されなかったのではなく複数の攻撃経路が存在していた」と説明し",
       "link": "https://gigazine.net/news/20260813-tldv-data-hack/",
       "pubDate": "Thu, 13 Aug 2026 20:08:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "日本で唯一の麻酔に特化した「麻酔博物館」、古の麻酔器や喉頭鏡が並んでいて、実にマニアック…麻酔医療の安全と質の向上の歴史を知ることができる「デートにもおすすめ」",
-      "description": "日本で唯一の麻酔に特化した「麻酔博物館」、古の麻酔器や喉頭鏡が並んでいて、実にマニアック…麻酔医療の安全と質の向上の歴史を知ることができる「デートにもおすすめ」",
-      "link": "https://togetter.com/li/2732559",
-      "pubDate": "Thu, 13 Aug 2026 20:00:48 +0900",
       "thumbnail": ""
     },
     {
@@ -626,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/f/cfd39481.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【世も末】横浜の高校生、学校内で「ゾンビたばこ」所持し書類送検「欲しくなって買った」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556969.html",
-      "pubDate": "2026-08-13T19:30:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/7055df44.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -665,19 +730,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/20260724_215405.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "Adoちゃん(23)、4000万円を寄付　熊本地震の被災者支援、被災地復興のため",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556937.html",
-      "pubDate": "2026-08-13T19:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2f7d6e94.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -702,19 +754,6 @@
       "link": "https://jin115.com/archives/52456835.html",
       "pubDate": "2026-08-13T18:30:41+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/f/7f81c4ca.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "プーチン大統領が北方領土を初訪問 →高市首相は遺憾の意「日本国民の感情傷つけ断じて許容できない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556936.html",
-      "pubDate": "2026-08-13T18:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/1/3155cd50-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -806,19 +845,6 @@
       "link": "https://gigazine.net/news/20260813-lfm2-5-vl-3b/",
       "pubDate": "Thu, 13 Aug 2026 16:31:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "冨樫義博先生の弟、ハンターハンターの◯◯を断言してしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456820.html",
-      "pubDate": "2026-08-13T16:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/ebe9156b.jpg"
     },
     {
       "siteId": "gigazine",
@@ -935,19 +961,6 @@
       "description": "中国企業・AlibabaのAI研究チームであるQwenがAIモデル「Qwen3.8-2.4T-A95B」をオープンモデルとして公開しました。AlibabaはすでにQwen3.8-2.4T-A95Bをベースとした「Qwen3.8 Max」を製品展開しており、OpenAIやAnthropicの最先端モデルに匹敵する性能として評価されています。続きを読む...",
       "link": "https://gigazine.net/news/20260813-alibaba-qwen-3-8-open/",
       "pubDate": "Thu, 13 Aug 2026 12:09:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "歯に塗るだけで削らずに虫歯の進行を止める薬とは？",
-      "description": "虫歯はミュータンス菌などの細菌によって歯が溶かされ、欠損したり穴が空いたりしてしまう病気です。そんな虫歯の治療では患部を削ることもありますが、「歯を削らずに塗るだけで虫歯の進行を止める薬」の臨床試験がアメリカで行われました。続きを読む...",
-      "link": "https://gigazine.net/news/20260813-drill-free-cavity-care-kids/",
-      "pubDate": "Thu, 13 Aug 2026 12:05:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1183,19 +1196,6 @@
       "link": "https://www.buzzfeed.com/jp/ayahara/hikomaro0810",
       "pubDate": "Tue, 11 Aug 2026 06:01:04 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/10/00/subbuzz/zQHAA1zn0.jpg?crop=1916:1277;263,262&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "歌舞伎町の焼肉食べ放題に1人で行き、空気に飲まれたまま「イエス！」と言ってしまい反省した日 / おひとりさま食べ放題のリアル",
-      "description": "「日本人はイエス」と言い過ぎる──よく言われる話である。私自身、そうならないように気を付けているつもりだが、「もっとはっきりNOと言うべきだった」と後で振り返って反省することはよくある。 先日もまさにそう。歌舞伎町の焼肉 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/11/2786593/",
-      "pubDate": "Tue, 11 Aug 2026 10:00:28 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/03/a_kabuki_noEXIF.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-13T22:19:18.050657",
+  "updatedAt": "2026-08-13T23:19:17.977627",
   "sites": [
     {
       "id": "hachima",
