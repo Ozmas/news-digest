@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "遺伝子配列を学習したAI、新種のウイルスを設計し始める・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456862.html",
+      "pubDate": "2026-08-14T04:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/32e9950f.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【策士】超前衛的な紳士スマホゲー『ブラウンダスト2』ついに錯視を使いOPのTKBをモロだしすることに成功",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557019.html",
+      "pubDate": "2026-08-14T04:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/7/771ed3a9.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大雨で千葉が水没！駅の自販機が大変なことに",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557018.html",
+      "pubDate": "2026-08-14T03:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/1883c30c-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高校の教師「今から所持品検査するから並べ～」 → 生徒のポケットから最悪な物が出てきて大事件に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456855.html",
+      "pubDate": "2026-08-14T03:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bd54d3a0-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -678,19 +730,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/collage.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "漫画家 小林よしのり氏（72）「ネトウヨは本を一冊も読めない。一冊どころか、文字を3行も読めない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556916.html",
-      "pubDate": "2026-08-13T17:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/4/e41d91af-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -702,19 +741,6 @@
       "link": "https://gigazine.net/news/20260813-lfm2-5-vl-3b/",
       "pubDate": "Thu, 13 Aug 2026 16:31:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ホロライブ「タレントにライブや案件ばっかやらせてたせいで、日常の配信時間めっちゃ減ってたの理解しました・・・」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556910.html",
-      "pubDate": "2026-08-13T16:30:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/a/da20c567-s.jpg"
     },
     {
       "siteId": "jin",
@@ -860,19 +886,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本国旗をわざと破壊する「国旗損壊チャレンジ」、一部界隈で流行してしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456813.html",
-      "pubDate": "2026-08-13T13:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/0/d078fccc.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -910,19 +923,6 @@
       "link": "https://gigazine.net/news/20260813-drill-free-cavity-care-kids/",
       "pubDate": "Thu, 13 Aug 2026 12:05:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【ガチでヤバイ】AIによる翻訳吹替、次元を超越！本人の声そのままで、口も日本語発声の形に変換",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456815.html",
-      "pubDate": "2026-08-13T12:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/8/98cc912e.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-13T17:31:56.635191",
+  "updatedAt": "2026-08-13T19:08:53.407997",
   "sites": [
     {
       "id": "hachima",
