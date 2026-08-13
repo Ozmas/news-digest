@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "遂に「世界で1枚のレアカード」が動画に登場。2023年に発売されてから初か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557026.html",
+      "pubDate": "2026-08-14T05:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/24338043-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民、理不尽トラブルに巻き込まれブチギレ「流石に女叩きしたくなるでこれ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456864.html",
+      "pubDate": "2026-08-14T05:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/4/c4e2147a.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -678,19 +704,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "とあるガールズバンド、公演中にギターを客の方に投げるパフォーマンス → 客の頭に直撃し重症を負ってしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556921.html",
-      "pubDate": "2026-08-13T17:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/8/38faed5f.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -832,19 +845,6 @@
       "link": "https://gigazine.net/news/20260813-twitch-amazon-ai-training/",
       "pubDate": "Thu, 13 Aug 2026 14:28:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【日本オワタ】ベトナム人の男女2人がベトナム人女性を襲撃、強盗殺人未遂で逮捕",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456817.html",
-      "pubDate": "2026-08-13T14:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/251bfc14.png"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-13T19:08:53.407997",
+  "updatedAt": "2026-08-13T20:04:57.405151",
   "sites": [
     {
       "id": "hachima",
