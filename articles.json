@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "帽子に入れるだけで頭が冷える!? アイスキャップマットを炎天下で試した結果",
+      "description": "全国的に気温の高い日が続き、まだまだ暑さ対策は必須。いろんなアイディア商品があるなか、通販サイトでありそうでなかったタイプのものを見つけたので買ってみた。 その名も「アイスキャップマット」。なんとコレ、帽子の中に仕込んで [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/13/2788364/",
+      "pubDate": "Thu, 13 Aug 2026 00:00:53 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2227.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "1年前に自宅が全焼した林家ペー・パー子さん、ヤバいことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456798.html",
+      "pubDate": "2026-08-13T09:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bb762a85.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "夜勤から帰ったら、「おまえ（たち）の犬は預かった。返してほしくば冷ごはんで炒飯をつくっておくように」という脅迫状が…緊急事態→急いで炒飯を作った結果、犬は無事とのこと",
+      "description": "夜勤から帰ったら、「おまえ（たち）の犬は預かった。返してほしくば冷ごはんで炒飯をつくっておくように」という脅迫状が…緊急事態→急いで炒飯を作った結果、犬は無事とのこと",
+      "link": "https://togetter.com/li/2732312",
+      "pubDate": "Thu, 13 Aug 2026 08:54:17 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "接客バイトのペーパーテストで「給料は誰からもらう？」という問いに「社名」を書いたらその場にいた自分だけ不正解で失笑されたの、いまだに納得してない→正解を巡って議論に",
+      "description": "接客バイトのペーパーテストで「給料は誰からもらう？」という問いに「社名」を書いたらその場にいた自分だけ不正解で失笑されたの、いまだに納得してない→正解を巡って議論に",
+      "link": "https://togetter.com/li/2732308",
+      "pubDate": "Thu, 13 Aug 2026 08:46:17 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "仙台駅で出会った少女が泣きながら現金を貸してくれないかと話しかけてきた… 目的地まで行くのにどうしても手持ちが足りないとのことなので、新手の詐欺ではない事を願いながら渡した",
+      "description": "仙台駅で出会った少女が泣きながら現金を貸してくれないかと話しかけてきた… 目的地まで行くのにどうしても手持ちが足りないとのことなので、新手の詐欺ではない事を願いながら渡した",
+      "link": "https://togetter.com/li/2732304",
+      "pubDate": "Thu, 13 Aug 2026 08:35:06 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市首相、終戦の日の靖国神社参拝を見送りへ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456795.html",
+      "pubDate": "2026-08-13T08:30:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/b/4b7f0d06.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】「暇すぎるからパチスロというのを初めてやったけど、5000円突っ込んだ挙句めぐみんの半裸眺めて終わった。pixivの方がよっぽどコスパ良い」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556796.html",
+      "pubDate": "2026-08-13T08:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/e/2eeb9fec.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "スマホに全部集約すると紛失や故障した場合に諸々生活が詰むので、あえて交通系ICや自宅玄関鍵は別にしているという話→共感の声が続々「いつ災害に遭うかわからない」「リスク分散したい」",
+      "description": "スマホに全部集約すると紛失や故障した場合に諸々生活が詰むので、あえて交通系ICや自宅玄関鍵は別にしているという話→共感の声が続々「いつ災害に遭うかわからない」「リスク分散したい」",
+      "link": "https://togetter.com/li/2732302",
+      "pubDate": "Thu, 13 Aug 2026 08:17:12 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "朝、一瞬だけど、子供にベランダの鍵を閉められてマジで焦った… こういうのって3～4歳の話じゃないの？1歳で鍵閉められるの？「記 憶 に 新 し い」「うちもありました」",
+      "description": "朝、一瞬だけど、子供にベランダの鍵を閉められてマジで焦った… こういうのって3～4歳の話じゃないの？1歳で鍵閉められるの？「記 憶 に 新 し い」「うちもありました」",
+      "link": "https://togetter.com/li/2732301",
+      "pubDate": "Thu, 13 Aug 2026 08:14:59 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】最新作『カリアのアトリエ』主人公カリアさん、パンツ履いてないことが確定ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10556791.html",
+      "pubDate": "2026-08-13T08:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/0556c253.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -249,32 +379,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b457e79.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "お買い物あるあるを描いたマンガ「ニンニク売り場で葛藤の末に」に共感、選択肢に迷ったときはゴルディロックス効果を実感しがち",
-      "description": "お買い物あるあるを描いたマンガ「ニンニク売り場で葛藤の末に」に共感、選択肢に迷ったときはゴルディロックス効果を実感しがち",
-      "link": "https://togetter.com/li/2732265",
-      "pubDate": "Thu, 13 Aug 2026 01:57:15 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「アイマス離婚しました。」離婚報告をした人の投稿に「ただの離婚では？」と疑問を呈す声が集まるが、趣味が共通でも生活の相性まで一致するとは限らない",
-      "description": "「アイマス離婚しました。」離婚報告をした人の投稿に「ただの離婚では？」と疑問を呈す声が集まるが、趣味が共通でも生活の相性まで一致するとは限らない",
-      "link": "https://togetter.com/li/2732264",
-      "pubDate": "Thu, 13 Aug 2026 01:56:51 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -286,19 +390,6 @@
       "link": "http://blog.esuteru.com/archives/10556746.html",
       "pubDate": "2026-08-13T01:30:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/1/e16ee30e.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「付き添う人も不安感が紛れていい」病院に併設されたスタバを疑問視する声に意見が、確かに不安な時にコーヒーやお菓子があると、心の支えになってくれそう",
-      "description": "「付き添う人も不安感が紛れていい」病院に併設されたスタバを疑問視する声に意見が、確かに不安な時にコーヒーやお菓子があると、心の支えになってくれそう",
-      "link": "https://togetter.com/li/2732253",
-      "pubDate": "Thu, 13 Aug 2026 01:08:57 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -325,19 +416,6 @@
       "link": "https://jin115.com/archives/52456776.html",
       "pubDate": "2026-08-13T01:00:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/0/e02ecec2-s.png"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『忍者と極道』近藤信輔先生による『ちいかわ』オデと島二郎の取っ組み合いのファンアートが爆誕、静と動の二人の強者の衝突が迫力満点",
-      "description": "『忍者と極道』近藤信輔先生による『ちいかわ』オデと島二郎の取っ組み合いのファンアートが爆誕、静と動の二人の強者の衝突が迫力満点",
-      "link": "https://togetter.com/li/2732248",
-      "pubDate": "Thu, 13 Aug 2026 00:40:08 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -390,19 +468,6 @@
       "link": "http://blog.esuteru.com/archives/10556730.html",
       "pubDate": "2026-08-12T23:45:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75a9ad27.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "渋滞に巻き込まれたラッコ、器を割ったハチワレ、日常回が続いてモモンガ長編はやはり終わったんだろうか…だが一方「これは凶兆」「不穏だ」と引き戻しを期待するヒトも",
-      "description": "渋滞に巻き込まれたラッコ、器を割ったハチワレ、日常回が続いてモモンガ長編はやはり終わったんだろうか…だが一方「これは凶兆」「不穏だ」と引き戻しを期待するヒトも",
-      "link": "https://togetter.com/li/2732225",
-      "pubDate": "Wed, 12 Aug 2026 23:33:07 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -613,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】『VIVANT』第2シーズン、視聴率がどんどん下がってしまう…一体なぜ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556696.html",
-      "pubDate": "2026-08-12T20:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/62a5dbe2.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +715,6 @@
       "link": "https://gigazine.net/news/20260812-headline/",
       "pubDate": "Wed, 12 Aug 2026 19:52:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "フジテレビの新音楽番組、記録的な大爆死！関係者「ゴールデンタイムでこの低視聴率はフジ開局以来初」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556689.html",
-      "pubDate": "2026-08-12T19:30:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1cf98e58.jpg"
     },
     {
       "siteId": "jin",
@@ -795,19 +834,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/1/91f92b05.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「ガンダムWのヒイロ、女優の◯◯さんがモデルだと知って並べてみたらマジで似てた」→初めて知ったネット民続出！そうだったのかよおおお！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456756.html",
-      "pubDate": "2026-08-12T16:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cbce1444.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -832,19 +858,6 @@
       "link": "https://gigazine.net/news/20260812-sony-semicon-tsmc-joint-venture/",
       "pubDate": "Wed, 12 Aug 2026 15:35:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "フジテレビ、開局以来初の絶望的な状況になっていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456754.html",
-      "pubDate": "2026-08-12T15:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c99f79dd.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1183,19 +1196,6 @@
       "link": "https://rocketnews24.com/2026/08/11/2786638/",
       "pubDate": "Mon, 10 Aug 2026 23:00:03 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-62.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2077話目「エルフの森の変化⑤」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/08/10/2790387/",
-      "pubDate": "Mon, 10 Aug 2026 12:00:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2077a.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-12T23:11:38.187450",
+  "updatedAt": "2026-08-13T00:08:34.220522",
   "sites": [
     {
       "id": "hachima",
