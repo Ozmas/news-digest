@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「山小屋はコンビニではありません」山小屋の管理人さんが営業時間外に訪れる登山客に物申す「日頃の苦労が伝わります」一方で疑問の声も",
+      "description": "「山小屋はコンビニではありません」山小屋の管理人さんが営業時間外に訪れる登山客に物申す「日頃の苦労が伝わります」一方で疑問の声も",
+      "link": "https://togetter.com/li/2733077",
+      "pubDate": "Fri, 14 Aug 2026 23:44:23 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "白地図の都道府県をはがしてぶつけて連鎖させる「白地図ストライク47」を遊んでみた",
+      "description": "白地図から都道府県を1つはがして引っ張り、弾としてぶつけて他の都道府県のHPを削り連鎖させる「白地図ストライク47」というゲームが公開されていたので、47都道府県全攻略(？)めざしてプレイしてみました。続きを読む...",
+      "link": "https://gigazine.net/news/20260814-white-map-strike-47/",
+      "pubDate": "Fri, 14 Aug 2026 23:36:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【最強の交通機関】千葉都市モノレール、大雨や冠水にバカ強いことが判明！多くの帰宅難民を救う！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557443.html",
+      "pubDate": "2026-08-14T23:30:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/1/e14a105e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ゼンレスゾーンゼロ』×『崩壊：スターレイル』は相互コラボだと判明！2026年冬、ゼンゼロキャラがスタレ世界に登場へ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557435.html",
+      "pubDate": "2026-08-14T23:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa326510.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "美少女コスプレイヤー「水着を試着してみた！」ﾊﾟｼｬｯ → 足元にとんでもない物が映ってて話題にｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456919.html",
+      "pubDate": "2026-08-14T23:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/e/2e1dd596-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -246,19 +311,6 @@
       "description": "大手電力会社が6,000億円分の値上げを申請、その理由はAIにより増えた電気代を賄うため？→アメリカでは既に大批判を受けている話が日本にも来たが、簡単な話ではなさそう",
       "link": "https://togetter.com/li/2732991",
       "pubDate": "Fri, 14 Aug 2026 20:38:21 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「致死量の砂糖を入れるから家族は甘すぎて苦手と言っていたけど」お盆、祖母が作ってくれたきな粉団子の思い出を語る投稿に、思い出の味を語る体験が続々と",
-      "description": "「致死量の砂糖を入れるから家族は甘すぎて苦手と言っていたけど」お盆、祖母が作ってくれたきな粉団子の思い出を語る投稿に、思い出の味を語る体験が続々と",
-      "link": "https://togetter.com/li/2732990",
-      "pubDate": "Fri, 14 Aug 2026 20:37:46 +0900",
       "thumbnail": ""
     },
     {
@@ -691,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/293dd242.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "死者も出た千葉県の大雨、とあるパチンコ店内が水浸しになっているにも関わらずパチンコをするパチンカーが話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557170.html",
-      "pubDate": "2026-08-14T14:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/b/3b947853-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +767,6 @@
       "link": "https://gigazine.net/news/20260814-climate-change-drought-wine-grapes-doomed/",
       "pubDate": "Fri, 14 Aug 2026 14:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "千葉県でヤバすぎる大雨・道路冠水の中、歩いて帰ったX民が話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557162.html",
-      "pubDate": "2026-08-14T13:40:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/9/6938e6c9.jpg"
     },
     {
       "siteId": "gigazine",
@@ -912,19 +938,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "MiniMaxが動画生成AIに続いて音楽生成AI「MiniMax-Music3」を無償公開、ローカルで最大5分の日本語ボーカル付き楽曲を生成可能",
-      "description": "中国のAI開発企業であるMiniMaxが音楽生成AI「MiniMax-Music3」を日本時間の2026年8月14日に公開しました。MiniMax-Music3はテキストでの指示に沿ってボーカル付きの楽曲を生成可能で、日本語ボーカルの生成にも対応しています。モデルが無償で公開されており、ローカルで実行可能。さらに、ユーザーの短い入力をもとに長い歌詞やAIモデルに認識させやすい構造化されたプロンプト",
-      "link": "https://gigazine.net/news/20260814-minimax-music3/",
-      "pubDate": "Fri, 14 Aug 2026 11:16:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1014,19 +1027,6 @@
       "link": "https://rocketnews24.com/2026/08/14/2785839/",
       "pubDate": "Fri, 14 Aug 2026 00:00:55 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/602deee0-3b31-49bb-aa4e-e8e07c97e912.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】「男女格差があるから女性を支援しなければいけない」という思想、目の付け所がうますぎるｗｗｗｗｗｗ次のターゲットはまさかの“コレ”ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456874.html",
-      "pubDate": "2026-08-14T09:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03c3ef04.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-14T13:55:10.628449",
+  "updatedAt": "2026-08-14T14:56:29.489315",
   "sites": [
     {
       "id": "hachima",
