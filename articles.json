@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "不動産コンサル「新卒で初任給月100万円出します！！！」→すごいことになるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456933.html",
+      "pubDate": "2026-08-15T03:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/f/5f8b90cc.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【C108】コミケ参加者は要注意！いつもお世話になってる「あの店」が今回は休業中",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557432.html",
+      "pubDate": "2026-08-15T03:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/7/7736c23a.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -665,19 +691,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/7b55ac4e-84fd-4211-b3fa-12c1a4422451.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "静岡県の海水浴場で20～30代ぐらいの遺体発見　ヒゲを生やし外見は男性だが生物学上「女性」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557206.html",
-      "pubDate": "2026-08-14T17:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/9/59472d5d-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -988,19 +1001,6 @@
       "link": "https://jin115.com/archives/52456878.html",
       "pubDate": "2026-08-14T11:00:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f30042e7.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "鈴木宗男氏「プーチン大統領の訪問についていちいち抗議するのはあまりにも稚拙。大統領の発言を正しく受け止めるべき」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456883.html",
-      "pubDate": "2026-08-14T10:30:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/a/1ab56fd1.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-14T17:02:18.142632",
+  "updatedAt": "2026-08-14T18:26:17.111796",
   "sites": [
     {
       "id": "hachima",
