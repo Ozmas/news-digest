@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "コケ山先生の『無知のグルメ 山ほこパフェ』のお祭り歩き感にほっこり、それにしても美味しいものを気軽に食べに行く友達はいいものだ",
+      "description": "コケ山先生の『無知のグルメ 山ほこパフェ』のお祭り歩き感にほっこり、それにしても美味しいものを気軽に食べに行く友達はいいものだ",
+      "link": "https://togetter.com/li/2733152",
+      "pubDate": "Sat, 15 Aug 2026 05:30:45 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ちいかわの成長が垣間見えてファン歓喜、ハチワレが割った茶碗の代わりを買いに来て「ポシェット」回の恩返しをする姿がエモい",
+      "description": "ちいかわの成長が垣間見えてファン歓喜、ハチワレが割った茶碗の代わりを買いに来て「ポシェット」回の恩返しをする姿がエモい",
+      "link": "https://togetter.com/li/2733147",
+      "pubDate": "Sat, 15 Aug 2026 05:19:34 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "飲食店の「生成AIポスター」はやっぱりダメ？行く気がなくなると話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557436.html",
+      "pubDate": "2026-08-15T05:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7c470292.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "サイゼリヤ、ついに“アレ”が来るかもしれない・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456935.html",
+      "pubDate": "2026-08-15T05:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/4/c4bbcdf9.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -353,32 +405,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/f/3fcd48af.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「ヘビに咬まれたら、毒を吸い出せるのか？」脚に模擬毒を注入し、3分後から市販の吸引器を使用した結果、吸い出せた毒は平均0.04％→口で毒を吸い出すのは効果がなさそう",
-      "description": "「ヘビに咬まれたら、毒を吸い出せるのか？」脚に模擬毒を注入し、3分後から市販の吸引器を使用した結果、吸い出せた毒は平均0.04％→口で毒を吸い出すのは効果がなさそう",
-      "link": "https://togetter.com/li/2733003",
-      "pubDate": "Fri, 14 Aug 2026 21:26:44 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画「ちいかわ」は「子供向け映画だから静かにするマナーはありません」という反応もあるが「ちいかわ」はそもそも子供向けなのか？…声を出してもいいが躾は大事",
-      "description": "映画「ちいかわ」は「子供向け映画だから静かにするマナーはありません」という反応もあるが「ちいかわ」はそもそも子供向けなのか？…声を出してもいいが躾は大事",
-      "link": "https://togetter.com/li/2733002",
-      "pubDate": "Fri, 14 Aug 2026 21:06:21 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -637,19 +663,6 @@
       "link": "http://blog.esuteru.com/archives/10557366.html",
       "pubDate": "2026-08-14T18:20:42+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4dc9f42d-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "Switch2『ぽこ あ ポケモン』の世界販売本数が“500万本”を突破！！発売から約4カ月での達成",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557210.html",
-      "pubDate": "2026-08-14T18:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b62da683.jpg"
     },
     {
       "siteId": "jin",
@@ -988,19 +1001,6 @@
       "link": "https://rocketnews24.com/2026/08/14/2790468/",
       "pubDate": "Fri, 14 Aug 2026 02:00:38 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/bjbs.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】日本が衰退した理由、コレです",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456878.html",
-      "pubDate": "2026-08-14T11:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f30042e7.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-14T19:30:24.357879",
+  "updatedAt": "2026-08-14T20:40:46.937997",
   "sites": [
     {
       "id": "hachima",
