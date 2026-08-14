@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "メディア「映画『ちいかわ』はゲスト声優もいないのにナゼ売れてるんだ……」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557438.html",
+      "pubDate": "2026-08-15T06:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/6/562bf1e7-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ちいかわファンアート『それぞれの闘い』が一枚絵ながら様々なしんどいシーンが詰め込まれてて情報量がエグい、「モモンガとでかつよの最期」「あのこ討伐」ほか",
+      "description": "ちいかわファンアート『それぞれの闘い』が一枚絵ながら様々なしんどいシーンが詰め込まれてて情報量がエグい、「モモンガとでかつよの最期」「あのこ討伐」ほか",
+      "link": "https://togetter.com/li/2733156",
+      "pubDate": "Sat, 15 Aug 2026 05:57:37 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -379,19 +405,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「『表現の自由を大切にするデータストレージ』を今まで以上に評価し積極的に応援していくべきかも」GoogleドライブのアカウントBAN問題にくりした善行さんがコメント",
-      "description": "「『表現の自由を大切にするデータストレージ』を今まで以上に評価し積極的に応援していくべきかも」GoogleドライブのアカウントBAN問題にくりした善行さんがコメント",
-      "link": "https://togetter.com/li/2733004",
-      "pubDate": "Fri, 14 Aug 2026 21:34:10 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -650,19 +663,6 @@
       "link": "http://blog.esuteru.com/archives/10557406.html",
       "pubDate": "2026-08-14T18:40:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/d/9d028d45.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】Netflix、買収・設立したゲームスタジオを2つ閉鎖　ゲーム事業本格参入とはなんだったのか",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557366.html",
-      "pubDate": "2026-08-14T18:20:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4dc9f42d-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-14T20:40:46.937997",
+  "updatedAt": "2026-08-14T21:29:26.400555",
   "sites": [
     {
       "id": "hachima",
