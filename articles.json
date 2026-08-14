@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "森口博子さん、ライブグッズであまりにも怪しい『ガ〇ダム』風グッズを発売ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557433.html",
+      "pubDate": "2026-08-15T04:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/d/9dd13efc.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「国宝って正直3でやめとくべきだと思ってたけど、5を観て考え方が変わったわ」という謎の国宝感想に対して「トイ・ストーリー」と「スター・ウォーズ」で反応が分かれる",
+      "description": "「国宝って正直3でやめとくべきだと思ってたけど、5を観て考え方が変わったわ」という謎の国宝感想に対して「トイ・ストーリー」と「スター・ウォーズ」で反応が分かれる",
+      "link": "https://togetter.com/li/2733132",
+      "pubDate": "Sat, 15 Aug 2026 04:00:06 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -405,19 +431,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "初めての理髪店で「お兄さん肌黒っ！絶対ハーフっしょ！国籍当てさせてください！」と言われた。道徳とか倫理って義務教育から無くなった感じ？",
-      "description": "初めての理髪店で「お兄さん肌黒っ！絶対ハーフっしょ！国籍当てさせてください！」と言われた。道徳とか倫理って義務教育から無くなった感じ？",
-      "link": "https://togetter.com/li/2732997",
-      "pubDate": "Fri, 14 Aug 2026 20:59:56 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -650,19 +663,6 @@
       "link": "https://jin115.com/archives/52456904.html",
       "pubDate": "2026-08-14T18:00:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/9/491b630a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "68歳の男性牧師さん、50代男性にビンタして硬膜下血種の傷害を負わせたとして逮捕される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557208.html",
-      "pubDate": "2026-08-14T17:30:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/7/9725fc50.png"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-14T18:26:17.111796",
+  "updatedAt": "2026-08-14T19:30:24.357879",
   "sites": [
     {
       "id": "hachima",
