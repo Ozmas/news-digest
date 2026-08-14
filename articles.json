@@ -8,6 +8,32 @@
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "道民が思うには、九州の自然の景色は生命力が豊かで、神様が人に寄り添って生きてる感じがするが、北海道の神様は多分人間のことを何とも思っていないのでは？→様々な考察",
+      "description": "道民が思うには、九州の自然の景色は生命力が豊かで、神様が人に寄り添って生きてる感じがするが、北海道の神様は多分人間のことを何とも思っていないのでは？→様々な考察",
+      "link": "https://togetter.com/li/2733171",
+      "pubDate": "Sat, 15 Aug 2026 07:42:47 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "高市首相が水面下でやらせてる「未成年SNS規制法案」、想像以上にヤバいｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557494.html",
+      "pubDate": "2026-08-15T07:30:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/8/8842dd7e.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
       "title": "トイレしてたらノックが聞こえて、小声でお父さんから「下見ろ」と言われて見たら、お金が出てきた…「お母さんには内緒だから！すぐしまえ！！」と言ってどこかへ行った",
       "description": "トイレしてたらノックが聞こえて、小声でお父さんから「下見ろ」と言われて見たら、お金が出てきた…「お母さんには内緒だから！すぐしまえ！！」と言ってどこかへ行った",
       "link": "https://togetter.com/li/2733165",
@@ -314,19 +340,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/ef9ab4a8-s.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「山小屋はコンビニではありません」山小屋の管理人さんが営業時間外に訪れる登山客に物申す「日頃の苦労が伝わります」一方で疑問の声も",
-      "description": "「山小屋はコンビニではありません」山小屋の管理人さんが営業時間外に訪れる登山客に物申す「日頃の苦労が伝わります」一方で疑問の声も",
-      "link": "https://togetter.com/li/2733077",
-      "pubDate": "Fri, 14 Aug 2026 23:44:23 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -624,19 +637,6 @@
       "link": "https://jin115.com/archives/52456913.html",
       "pubDate": "2026-08-14T19:30:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/f/4f4224dd-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【前代未聞】『GTA 6』予約の9割が100ドルのアルティメット版との報道！ハード比率はPS5版が77％、Xbox版が23％",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557412.html",
-      "pubDate": "2026-08-14T19:15:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/81448fe5.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-14T22:29:12.793054",
+  "updatedAt": "2026-08-14T22:53:58.326087",
   "sites": [
     {
       "id": "hachima",
