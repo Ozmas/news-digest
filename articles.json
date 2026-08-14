@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】Netflix、買収・設立したゲームスタジオを2つ閉鎖　ゲーム事業本格参入とはなんだったのか",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557366.html",
+      "pubDate": "2026-08-14T18:20:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4dc9f42d-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "八景島シーパラダイスに行ったが、水槽の中に魚がいるのかと思ったら、マツケンだった… 水族館のHPには「一日中マツケンから逃れられない異常な没入体験を実現」との言葉も",
+      "description": "八景島シーパラダイスに行ったが、水槽の中に魚がいるのかと思ったら、マツケンだった… 水族館のHPには「一日中マツケンから逃れられない異常な没入体験を実現」との言葉も",
+      "link": "https://togetter.com/li/2732952",
+      "pubDate": "Fri, 14 Aug 2026 18:12:19 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "Switch2『ぽこ あ ポケモン』の世界販売本数が“500万本”を突破！！発売から約4カ月での達成",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557210.html",
+      "pubDate": "2026-08-14T18:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b62da683.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気YouTuber「婚約者が俺の家で男と浮気してた」ﾊﾟｼｬｯ→現場の生々しい映像がこちら・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456904.html",
+      "pubDate": "2026-08-14T18:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/9/491b630a.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "転売などが心配されていた『超かぐや姫！』スタッフ本、イベント頒布終了後のPDF無料公開を宣言…「ありがたい」「紙で欲しかった」「通販はないのか」など様々な意見",
+      "description": "転売などが心配されていた『超かぐや姫！』スタッフ本、イベント頒布終了後のPDF無料公開を宣言…「ありがたい」「紙で欲しかった」「通販はないのか」など様々な意見",
+      "link": "https://togetter.com/li/2732948",
+      "pubDate": "Fri, 14 Aug 2026 17:44:34 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「絶対停電するからパソコンいじってる人は1回ログアウトしたほうがいいよー」とインカムしてから5分後、本当に停電… メンバーから感謝され、私は神となった",
+      "description": "「絶対停電するからパソコンいじってる人は1回ログアウトしたほうがいいよー」とインカムしてから5分後、本当に停電… メンバーから感謝され、私は神となった",
+      "link": "https://togetter.com/li/2732945",
+      "pubDate": "Fri, 14 Aug 2026 17:38:52 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "富野監督のガンダムにおける「敵=絶対的な悪ではない」の部分は、敵でも目の前の困っている人を見過ごせなかったり、話してみたら陽気な奴みたいな等身大の規模感の話",
+      "description": "富野監督のガンダムにおける「敵=絶対的な悪ではない」の部分は、敵でも目の前の困っている人を見過ごせなかったり、話してみたら陽気な奴みたいな等身大の規模感の話",
+      "link": "https://togetter.com/li/2732943",
+      "pubDate": "Fri, 14 Aug 2026 17:34:29 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "68歳の男性牧師さん、50代男性にビンタして硬膜下血種の傷害を負わせたとして逮捕される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557208.html",
+      "pubDate": "2026-08-14T17:30:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/7/9725fc50.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "30℃前半の気温だと『お、なんか今日ちょっと涼しいな』と思うカラダになってる「熱帯夜でも扇風機で寝れそうだなって」",
+      "description": "30℃前半の気温だと『お、なんか今日ちょっと涼しいな』と思うカラダになってる「熱帯夜でも扇風機で寝れそうだなって」",
+      "link": "https://togetter.com/li/2732939",
+      "pubDate": "Fri, 14 Aug 2026 17:26:30 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -119,19 +236,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "現代の女子高生がタイムスリップし、特攻隊員と恋に落ちる映画、現代の基準から考えたらありえないのでは？→当時でも紳士な人はいたらしいが…",
-      "description": "現代の女子高生がタイムスリップし、特攻隊員と恋に落ちる映画、現代の基準から考えたらありえないのでは？→当時でも紳士な人はいたらしいが…",
-      "link": "https://togetter.com/li/2732913",
-      "pubDate": "Fri, 14 Aug 2026 16:37:10 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -171,45 +275,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/7/77cbca22-s.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「ショーだからじゃなくて楽しいからやってるんだなってほっこりする」ショーの時間じゃないのに滑って回って遊んでみせてくれるイルカさんがかわいい",
-      "description": "「ショーだからじゃなくて楽しいからやってるんだなってほっこりする」ショーの時間じゃないのに滑って回って遊んでみせてくれるイルカさんがかわいい",
-      "link": "https://togetter.com/li/2732911",
-      "pubDate": "Fri, 14 Aug 2026 16:26:54 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画「ガス人間」で反社の構成員名簿が出てくるシーンがあり、そこには「情婦の有無」という記載欄が…実際の構成員名簿にあるのだろうか？→情婦に関する話題が興味深い",
-      "description": "映画「ガス人間」で反社の構成員名簿が出てくるシーンがあり、そこには「情婦の有無」という記載欄が…実際の構成員名簿にあるのだろうか？→情婦に関する話題が興味深い",
-      "link": "https://togetter.com/li/2732910",
-      "pubDate": "Fri, 14 Aug 2026 16:24:24 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "子供があまりハマなかったので、解像度低めのちいかわを描いてみた「元のデザインの秀逸さが感じられる」「肌色もギリギリだったんだ」",
-      "description": "子供があまりハマなかったので、解像度低めのちいかわを描いてみた「元のデザインの秀逸さが感じられる」「肌色もギリギリだったんだ」",
-      "link": "https://togetter.com/li/2732908",
-      "pubDate": "Fri, 14 Aug 2026 16:15:30 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -234,19 +299,6 @@
       "link": "https://jin115.com/archives/52456908.html",
       "pubDate": "2026-08-14T16:00:56+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/a/6a573d69-s.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『エヴァンゲリオン』の「アスカ」コスプレを披露した女子高生、食事中の姿が刑務所みたいと言われてしまう「元素材がそもそも良すぎるだろ」",
-      "description": "『エヴァンゲリオン』の「アスカ」コスプレを披露した女子高生、食事中の姿が刑務所みたいと言われてしまう「元素材がそもそも良すぎるだろ」",
-      "link": "https://togetter.com/li/2732903",
-      "pubDate": "Fri, 14 Aug 2026 16:00:53 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -574,6 +626,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/4100947e.jpg"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "井上咲楽、手作り味噌汁を披露→使った具材に「初めて知りました」「斬新」「味の想像がつきません」と驚きの声",
+      "description": "タレントの井上咲楽さんが8月12日にInstagramを更新。味噌汁を作っている様子を披露しました。ピーマンを切る姿に、ファンからは「初めて知りました」「斬新」「味の想像がつきません」などの声が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/saorihakamada/sakura-misosoup0812",
+      "pubDate": "Thu, 13 Aug 2026 22:31:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/13/00/thumb/Js1D8pdcV.jpg?crop=1905:1270;755,181&resize=1250:830"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -743,19 +808,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/6/96bedd52.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】プレイステーション公式、海外ゲーマーからの突撃で永遠に荒れ続ける！　炎上原因はもちろんアレｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557128.html",
-      "pubDate": "2026-08-14T10:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/a/aaf9f94d.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -795,19 +847,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/4/04661365.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバい】デスドルノートへの有名声優の下半身の噂タレコミ、さすがに一線を超える！　これはｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557125.html",
-      "pubDate": "2026-08-14T09:30:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/25f85629.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -832,19 +871,6 @@
       "link": "https://jin115.com/archives/52456874.html",
       "pubDate": "2026-08-14T09:00:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03c3ef04.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超悲報】冨樫義博さんの弟、「HUNTER×HUNTERは完結しません！」と断言",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557116.html",
-      "pubDate": "2026-08-14T09:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/0/90ff1ad0.jpg"
     },
     {
       "siteId": "jin",
@@ -912,6 +938,32 @@
       "thumbnail": ""
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "ビーチで撮影された「世界一危険な鳥」。特徴的な見た目に「ジュラシックワールドだ」「もはや恐竜」（海外）",
+      "description": "オーストラリアのクイーンズランド州で、「世界一危険な鳥」とも呼ばれるヒクイドリが撮影された。鋭い目つきやくちばしを目の前にしたカメラマンは、「鳥というより、むしろ恐竜だ」と、その姿を振り返った。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/annakajikawa/cassowary-picture-at-australia",
+      "pubDate": "Thu, 13 Aug 2026 18:36:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/12/06/subbuzz/sZqV5qV2c.jpg?crop=2119:1413;0,1&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "中尾明慶「夏休みの朝に…」手作りの朝食に絶賛の声「こんな高級な」「シェフのフレンチトースト」「焼き色もいい感じ」",
+      "description": "俳優の中尾明慶さんが8月11日にYouTubeチャンネルを更新。息子さんとともにフレンチトーストを作る様子を披露しました。香ばしそうな仕上がりに「めっちゃ美味しそう」「羨ましい」と反響が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/nakao-akiyoshi-french-toast",
+      "pubDate": "Thu, 13 Aug 2026 18:01:05 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/12/06/subbuzz/x95U40uY8.jpg?crop=3159:2106;0,203&resize=1250:830"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -977,19 +1029,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/4/c4e2147a.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "遺伝子配列を学習したAI、新種のウイルスを設計し始める・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456862.html",
-      "pubDate": "2026-08-14T04:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/32e9950f.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -1016,6 +1055,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2080a.jpg"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「高学歴」『VIVANT』最底辺モニター・山本巧の“主要勤務歴”が話題に「めっちゃエリート」「えぐすぎ」",
+      "description": "TBSのラジオ番組『VIVANT 悪役会議室』の公式アカウントが、8月11日にXを更新。国際テロ組織「テント」のモニター・山本巧（迫田孝也さん）が「主要勤務歴」を明かす場面を公開しました。SNSでは、「めっちゃエリート」「えぐすぎ」と反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yukiadachi/vivant-akuyakukaigi0811",
+      "pubDate": "Thu, 13 Aug 2026 06:16:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/12/12/subbuzz/sM2P2R6VP.jpg?crop=3851:2567;0,559&resize=1250:830"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1027,6 +1079,19 @@
       "link": "https://rocketnews24.com/2026/08/13/2788162/",
       "pubDate": "Thu, 13 Aug 2026 10:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/20260724_215405.jpg"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "益若つばさ「大量に作った」手作りの差し入れに絶賛の声「もっちゅりん越え」「何個でも食べられそう」",
+      "description": "モデルでタレントの益若つばささんが8月12日にInstagramを更新。手作りの差し入れを公開し、ファンからは「もっちゅりん越え」「何個でも食べられそう」などの反響が寄せられました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yuisasaki/masuwakatsubasa0813",
+      "pubDate": "Thu, 13 Aug 2026 04:31:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/13/06/subbuzz/_GCG0cEsM.jpg?crop=1266:844;0,380&resize=1250:830"
     },
     {
       "siteId": "rocketnews",
@@ -1120,19 +1185,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-64.png"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「街のほっこり遺産」ハンズ渋谷店を見守る“くつろ木”が話題に「ダンディーですわ」「めっちゃくつろいでる」",
-      "description": "ハンズの公式Xアカウントが、渋谷店の前にある街路樹の画像を投稿。店を見守る「くつろ木」が、SNSで注目を集めています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/masan2/kutsurogi-hands202608",
-      "pubDate": "Wed, 12 Aug 2026 18:31:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/12/02/thumb/9OG7BxrzJ.jpg?crop=4097:2731;0,0&resize=1250:830"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1191,50 +1243,11 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「誰やねん！！」彦摩呂、若い頃の姿に「沢村一樹さんかと思いました」「カッコイイ」「宝石箱より輝いてる」と反響",
-      "description": "タレントの彦摩呂さんが8月8日にInstagramを更新。自身の若い頃の写真を公開しました。「沢村一樹さんかと思いました」「宝石箱より輝いてる」などの反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/hikomaro0810",
-      "pubDate": "Tue, 11 Aug 2026 06:01:04 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/10/00/subbuzz/zQHAA1zn0.jpg?crop=1916:1277;263,262&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "佐々木希「朝から…」手作りした差し入れに反響「ちょっと珍しい」「絶対に美味しい」「羨ましすぎる」",
-      "description": "俳優の佐々木希さんが8月8日にInstagramを更新。俳優の岡崎紗絵さんとともに手作りした差し入れを披露しました。ドラマ『告白ー25年目の秘密ー』（日本テレビ系）で共演している2人が作った味噌汁の仕上がりに反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/sasaki-nozomi-sashiire-misoshiru",
-      "pubDate": "Tue, 11 Aug 2026 05:31:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/10/05/subbuzz/9vXt4d5xQ.jpg?crop=3078:2052;0,631&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "「犬なにしてるかな？」ペットカメラで確認したら…？ まさかの行動に「転生した人間」「とても良い姿勢」「自分のこと人間だと思ってる」",
       "description": "ペットカメラに映ったワンちゃんのとある行動がXに投稿され、「転生した人間」「とても良い姿勢」と、25万件を超える「いいね」が集まっています。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/yuisasaki/tvwomiteitainu",
       "pubDate": "Mon, 10 Aug 2026 19:01:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/10/01/subbuzz/L_xD-iW_2.jpg?crop=1053:702;0,297&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "のんの“だる着”姿に「こんなカッコでも…」「なんで」「オシャレで似合ってる」とネットくぎづけ",
-      "description": "俳優の「のん」さんが、8月7日にInstagramを更新。“だる着”姿を披露し「なんで」「オシャレで似合ってる」と話題になっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/non-darugi0807",
-      "pubDate": "Mon, 10 Aug 2026 06:01:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/10/02/thumb/V1U_Mu5WR.jpg?crop=3984:2656;0,373&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1274,19 +1287,6 @@
       "link": "https://www.buzzfeed.com/jp/ayahoshino/fukutabemushi",
       "pubDate": "Sat, 08 Aug 2026 18:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/09/subbuzz/zRBEE5XBw.jpg?crop=1913:1275;219,0&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「役者の別班ですか？」VIVANT“悪役”俳優の変貌ぶりに驚きの声「二度見しました」「神々しい！」",
-      "description": "日曜劇場『VIVANT』（TBS系）第1シーズンで悪役・ワニズを演じた俳優の河内大和さんが、8月5日にXを更新。主宰劇団の舞台『冬物語』で演じる「シチリア王」に扮した姿を披露しました。ワニズ役から一変した姿に、「二度見しました」「神々しい！」などの反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yukiadachi/kouchiyamato-ippennshot0805",
-      "pubDate": "Sat, 08 Aug 2026 06:31:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/07/04/subbuzz/klXXUm79e.jpg?crop=575:383;49,35&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,9 +1698,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "レコード屋さんみたいな図書館？ 昭和の面影が残る文京区「小石川図書館」へ",
-      "description": "本と音楽が出会う図書館。 本好きライターによる散策企画『ぶらり、図書館めぐり』第12弾は、東京都文京区にある「小石川図書館」を訪れました。 館内を歩いていると、本棚の先に現れるのは、約2万点のLPレコードを所蔵するレコー [&#8230;]",
-      "link": "https://getnews.jp/archives/3726043",
+      "title": "アクセル・ローズ、顎関節症（TMJ）との闘いを告白 「顎が外れそうな音がする」",
+      "description": "ガンズ・アンド・ローゼズのアクセル・ローズが、現地時間2026年8月12日に米ニュージャージー州メットライフ・スタジアムで行われた3時間に及ぶ同バンドの公演中に、TMJ（顎関節症）との闘いによって感覚を失ったことを明か [&#8230;]",
+      "link": "https://getnews.jp/archives/3736988",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1711,9 +1711,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "亜希監修の新定食に、なでしこのレジェンド・澤穂希が太鼓判！ 大戸屋「愛情めし」販売記念発表会",
-      "description": "8月14日より全国の大戸屋ごはん処（一部店舗除く）で、モデル・料理家の亜希監修による『愛情めし』を期間限定販売する株式会社大戸屋が、8月12日に東京都内で販売記念発表会を行った。会場には監修者の亜希に加え、サッカー・元な [&#8230;]",
-      "link": "https://getnews.jp/archives/3736919",
+      "title": "BTSのV、ツアー中に深刻な聴力低下の治療を受けていることを明かす",
+      "description": "BTSのVが現地時間2026年8月12日のライブ配信で、【ARIRANGワールド・ツアー】の最中に片耳の深刻な聴力低下を抱えていることを明かした。英BBCニュースによると、30歳のV（本名キム・テヒョン）は配信中に、右 [&#8230;]",
+      "link": "https://getnews.jp/archives/3736987",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1724,9 +1724,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "Rol3ert、10/21に初のフルALリリース決定",
-      "description": "Rol3ertが2026年10月21日(水)に自身初となるフルアルバム『meet me in my head』をリリースすることを〈SUMMER SONIC 2026 TOKYO〉のステージ上で発表した。 本作には、代表 [&#8230;]",
-      "link": "https://getnews.jp/archives/3736915",
+      "title": "eill、新曲「AFTER RAIN」配信リリース",
+      "description": "eillが、新曲「AFTER RAIN」を8月26日に配信リリースすることが決定した。 　今作には、過去に様々な楽曲でタッグを組んできたm-floの☆Taku Takahashiがアレンジャーとして参加している。 　あ [&#8230;]",
+      "link": "https://getnews.jp/archives/3736986",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1737,9 +1737,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "「現像しに行きます」はもう言わない。KODAKのスマホプリンターがあればね",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  旅先で撮ったスマホの写真、コンビニで現像するのって地味にめんどう…。 KODAK（コダック）が手がける「Mini 2 Retro」は、スマ [&#8230;]",
-      "link": "https://getnews.jp/archives/3736920",
+      "title": "西野カナ、2016年アリーナツアー【Just LOVE Tour】映像の一部をTikTok LIVE配信決定",
+      "description": "西野カナが、2016年に開催したアリーナツアー【Just LOVE Tour】の模様の一部を、8月16日20時よりTikTok公式アカウントで特別公開することが決定した。 　西野カナにとって、TikTok LIVEを活 [&#8230;]",
+      "link": "https://getnews.jp/archives/3736985",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1750,9 +1750,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "夏休みの自由研究にぴったりな「ロブロックス」って知ってる？親子で「創る」体験ができるオンラインプラットフォーム",
-      "description": "夏休みと言えば「自由研究」。しかし、子どもから「自由と言われると何をしていいか迷ってしまう」という話を聞いている保護者の方も多いのではないでしょうか。そこで今回は夏休みの自由研究にぴったりの「Roblox(ロブロックス) [&#8230;]",
-      "link": "https://getnews.jp/archives/3736917",
+      "title": "BOYNEXTDOOR、新曲「Boom Boom Boom」MVティザー公開",
+      "description": "BOYNEXTDOORが、8月18日0時にデジタルリリースする「Boom Boom Boom」のミュージックビデオ・ティザーを先行公開した。 　映像は、将棋棋士に扮するJAEHYUNが炎に包まれたカバンを持って登場する [&#8230;]",
+      "link": "https://getnews.jp/archives/3736984",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1763,9 +1763,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "和モダン和菓子ブランドtamayoseから抹茶づくしの「ふきよせ 甘い缶ミニ 抹茶」登場！",
-      "description": "まるやが企画運営する和モダン和菓子ブランド「tamayose」は、期間限定商品「ふきよせ 甘い缶ミニ 抹茶」を販売している。tamayoseの公式通販サイトから購入できる。 「tamayose」について 珠(宝物)を集め [&#8230;]",
-      "link": "https://getnews.jp/archives/3736913",
+      "title": "ボカロ国際共同制作プロジェクト「BEYOND BORDERs」が始動　Grimes×さたぱんPによる『Miku-Maxxing』配信開始",
+      "description": "株式会社ドワンゴは8月14日、国内外トップクリエイターによるボカロ楽曲共同制作プロジェクト「BEYOND BORDERs」のコラボレーションEP『EMERGE M▽DE MIKU』より、第1弾シングル『Miku-Max [&#8230;]",
+      "link": "https://getnews.jp/archives/3736983",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1776,9 +1776,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "宮澤佐江、ダブルピースで誕生日を報告！兄との幼少期写真も公開「無事に歳を重ねることができました」",
-      "description": "元AKB48で女優の宮澤佐江が14日、自身のインスタグラムを更新。13日に誕生日を迎えたことを報告し、幼少期の写真も公開した。 宮澤は「36 今年も無事に歳を重ねることができました」と報告し、写真を投稿。「毎年お誕生日の [&#8230;]",
-      "link": "https://getnews.jp/archives/3736918",
+      "title": "星野源、自身が撮影・監督を手がけた「好き」MV公開",
+      "description": "星野源が、新曲「好き」のミュージックビデオを公開した。 　同作は星野自身の撮影・監督作品となる。これまでのミュージックビデオもすべて星野自身がプロデュースを手がけ、監督や編集を担当した作品は発表されているが、自ら撮影を [&#8230;]",
+      "link": "https://getnews.jp/archives/3736982",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1789,9 +1789,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【東京都渋谷区】豆腐干の魅力を体感できる「豆腐干食堂」フェア、代官山 蔦屋書店で期間限定開催！",
-      "description": "優食は8月15日(土)〜31日(月)の期間、東京都渋谷区の代官山 蔦屋書店にて「ようこそ、『豆腐干食堂』。へ」フェアを開催する。 日本でも話題の中華食材「豆腐干」 「豆腐干(トウフカン)」とは、豆腐に圧力をかけて脱水した [&#8230;]",
-      "link": "https://getnews.jp/archives/3736914",
+      "title": "【先ヨミ・デジタル】Mrs. GREEN APPLE「Brand New」引き続きストリーミング・ソング首位走行中　「Yes! 東京」M!LKバージョンが続く",
+      "description": "GfK/NIQ Japanによるストリーミング再生回数レポートから2026年8月10日～8月12日の集計が明らかとなり、Mrs. GREEN APPLE「Brand New」が2,950,660回で現在首位を走っている [&#8230;]",
+      "link": "https://getnews.jp/archives/3736981",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1802,9 +1802,9 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "マンガみたいな巨大爬虫類たちと生活！ アメリカの爬虫類大好きおじさんジェイ・ブリューワーさん！",
-      "description": "カリフォルニア州の都市ファウンテンバレーで爬虫類動物園を経営し、飼育係・ブリーダーとしても働いている爬虫類大好きおじさんの「ジェイ・ブリューワー」（Jay Brewer）さん。 ジェイさんはタランチュラを咥えたり、イグア [&#8230;]",
-      "link": "https://getnews.jp/archives/3736897",
+      "title": "【先ヨミ・デジタル】福山雅治「邂逅」がDLソング首位を走行中　Kis-My-Ft2／スピッツが追う",
+      "description": "GfK/NIQ Japanによるダウンロード・ソング売上レポートから2026年8月10日～8月12日の集計が明らかとなり、福山雅治「邂逅」が6,530ダウンロード（DL）を売り上げて現在1位を走っている。 　「邂逅」は [&#8230;]",
+      "link": "https://getnews.jp/archives/3736980",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1815,14 +1815,14 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "のん主演〈幸せカナコの殺し屋生活２〉9/17配信開始",
-      "description": "のんが主演をつとめる4コママンガ〈幸せカナコの殺し屋生活〉の実写ドラマ続編〈幸せカナコの殺し屋生活２〉が9月17日（木）よりDMM TVにて独占配信されることが決定した。 配信日程は9月17日（木）から10月8日(木)ま [&#8230;]",
-      "link": "https://getnews.jp/archives/3736916",
+      "title": "【先ヨミ・デジタル】.ENDRECHERI.『new chapter purple』現在DLアルバム首位走行中　EBiDAN『Yes! 東京 （体験入学版）』が僅差で追う",
+      "description": "GfK/NIQ Japanによるダウンロード・アルバム売上レポートから、2026年8月10日～8月12日の集計が明らかとなり、.ENDRECHERI.『new chapter purple』が231ダウンロード（DL） [&#8230;]",
+      "link": "https://getnews.jp/archives/3736979",
       "pubDate": "",
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-14T08:20:01.479510",
+  "updatedAt": "2026-08-14T09:36:32.581082",
   "sites": [
     {
       "id": "hachima",
