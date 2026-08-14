@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「軽い買い物」のはずが会計は1.5倍に…それでも後悔ゼロ！ 業務スーパーマニアが娘と買い物へ行って気づいた「節約より大事なもの」",
+      "description": "「これおいしいのよね。スーパーで見かけないし、ダイソーより安いから買いだね！」 小6の娘が、お菓子売り場でそう言いながら、迷いなくカゴへ商品を入れました。 ……始まった。 ・夏休みなので娘と一緒に 業務スーパーマニアな主 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/14/2785839/",
+      "pubDate": "Fri, 14 Aug 2026 00:00:55 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/602deee0-3b31-49bb-aa4e-e8e07c97e912.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】「男女格差があるから女性を支援しなければいけない」という思想、目の付け所がうますぎるｗｗｗｗｗｗ次のターゲットはまさかの“コレ”ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456874.html",
+      "pubDate": "2026-08-14T09:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03c3ef04.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超悲報】冨樫義博さんの弟、「HUNTER×HUNTERは完結しません！」と断言",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557116.html",
+      "pubDate": "2026-08-14T09:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/0/90ff1ad0.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "せっかく手堅い企業に就職したのに、意識高い系の煽りに乗せられて退職…自己啓発&開業セミナーなどで全財産とできる限りの借金を搾取され、自己破産する患者を見てきた話",
+      "description": "せっかく手堅い企業に就職したのに、意識高い系の煽りに乗せられて退職…自己啓発&開業セミナーなどで全財産とできる限りの借金を搾取され、自己破産する患者を見てきた話",
+      "link": "https://togetter.com/li/2732708",
+      "pubDate": "Fri, 14 Aug 2026 08:41:53 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "AI絵師さん、自信満々で他人のイラストをAIで改変するも無事敗北してしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456876.html",
+      "pubDate": "2026-08-14T08:40:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/65e3413a.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】男性がカフェで勉強してたら女子から話しかけられて意気投合、連絡先交換してスノボデートの約束をする　→　当日向かった結果、ガチで最悪の展開に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557111.html",
+      "pubDate": "2026-08-14T08:30:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/3/038b8abf.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "豪雨の中、千葉のショッピングモールで撮られた映像をみていたが、「土嚢をちゃんと並べてないから浸水してんじゃん……」とか思ってたら、ドアを見て「ひっ？！」という声がリアルで出た",
+      "description": "豪雨の中、千葉のショッピングモールで撮られた映像をみていたが、「土嚢をちゃんと並べてないから浸水してんじゃん……」とか思ってたら、ドアを見て「ひっ？！」という声がリアルで出た",
+      "link": "https://togetter.com/li/2732701",
+      "pubDate": "Fri, 14 Aug 2026 08:27:32 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "クレジットカードにはカード番号やセキュリティコードが書いてあるが、番号を控えられたら一瞬で何百万円も使われるのに、なぜ普及できたのか？→歴史的背景などが興味深い",
+      "description": "クレジットカードにはカード番号やセキュリティコードが書いてあるが、番号を控えられたら一瞬で何百万円も使われるのに、なぜ普及できたのか？→歴史的背景などが興味深い",
+      "link": "https://togetter.com/li/2732700",
+      "pubDate": "Fri, 14 Aug 2026 08:23:19 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【激安速報】さむわんへるつ、対ありでした、ハイスコアガールDASH、亜人ちゃんは語りたいなどがKindleで実質半額！忘却バッテリー、おかえりアリスなども対象の学園マンガセール！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456870.html",
+      "pubDate": "2026-08-14T08:20:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/eb84efb1-s.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -89,7 +206,7 @@
       "title": "【画像】アニメ『ヤニねこ』OP主題歌「なんもねえ」のMV公開　→　なんと声優の夏吉ゆうこさん・稲田徹さんがコスプレ出演！原作者やアニメ監督まで実写顔出し出演ｗｗｗｗｗ",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10557106.html",
-      "pubDate": "2026-08-14T07:30:43+09:00",
+      "pubDate": "2026-08-14T07:30:21+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8ed9f7c3.jpg"
     },
     {
@@ -535,45 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/6/163f746e.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "水族館の入り口前の女子トイレに入ったら、そこには体調が悪そうな20歳くらいの女の子… その後、鏡越しに目が合った瞬間、近付いてきて「あの、こんな事言ったらダメかもしれないんですけど」",
-      "description": "水族館の入り口前の女子トイレに入ったら、そこには体調が悪そうな20歳くらいの女の子… その後、鏡越しに目が合った瞬間、近付いてきて「あの、こんな事言ったらダメかもしれないんですけど」",
-      "link": "https://togetter.com/li/2732573",
-      "pubDate": "Thu, 13 Aug 2026 21:27:06 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "映画「ちいかわ」公式がノンクレジットオープニング映像を解禁してテンション爆上がり、ナガノ先生が手掛けたOPなのでキャラ自身や関係性が端的に表現されていてスゴい",
-      "description": "映画「ちいかわ」公式がノンクレジットオープニング映像を解禁してテンション爆上がり、ナガノ先生が手掛けたOPなのでキャラ自身や関係性が端的に表現されていてスゴい",
-      "link": "https://togetter.com/li/2732574",
-      "pubDate": "Thu, 13 Aug 2026 21:25:47 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "昔、カフェで資格の本を読んでいたら女の子に声を掛けられた…その後スノボに誘われ、漆黒のアルファードで輩系の日焼け男が運転してスキー場へ→実はマルチの勧誘だった話",
-      "description": "昔、カフェで資格の本を読んでいたら女の子に声を掛けられた…その後スノボに誘われ、漆黒のアルファードで輩系の日焼け男が運転してスキー場へ→実はマルチの勧誘だった話",
-      "link": "https://togetter.com/li/2732571",
-      "pubDate": "Thu, 13 Aug 2026 21:06:32 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -613,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/0/204ab19d.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大阪・天王寺の強盗殺人未遂事件、ベトナム人の男女2人逮捕！女性の胸や首などを刺してバッグを奪う",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557001.html",
-      "pubDate": "2026-08-13T20:30:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fd3d0f8d.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +715,6 @@
       "link": "https://gigazine.net/news/20260813-tldv-data-hack/",
       "pubDate": "Thu, 13 Aug 2026 20:08:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】スマホアプリ『Link！Like！ラブライブ！』開発・運営会社が破産！運営コストが重すぎて負債103億円",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10556988.html",
-      "pubDate": "2026-08-13T20:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/d/1d83a97b.jpg"
     },
     {
       "siteId": "jin",
@@ -769,19 +821,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "夢月ロアさん、自身のXで今回の裁判結果の理由を告白！「◯◯を知ってもらうため。これだけの時間を失ってしまった」裁判相手の鳴神裁さんも謝罪",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456852.html",
-      "pubDate": "2026-08-13T18:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/5/f56d053d.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -793,32 +832,6 @@
       "link": "https://gigazine.net/news/20260813-mistral-ai-third-party-open-model/",
       "pubDate": "Thu, 13 Aug 2026 17:40:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "デュオリンゴ公式さん、X上で「入院した10歳少年」に神対応！→しかしその直後、別のユーザーにとんでもないことを言い出すｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456843.html",
-      "pubDate": "2026-08-13T17:30:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/a/fa268996.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "にじさんじ・夢月ロアさんと金魚坂めいろさんの問題、ついに解決→驚愕の文書が公開される・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456844.html",
-      "pubDate": "2026-08-13T17:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/9/291c205d.png"
     },
     {
       "siteId": "rocketnews",
@@ -1170,19 +1183,6 @@
       "link": "https://rocketnews24.com/2026/08/12/2786639/",
       "pubDate": "Tue, 11 Aug 2026 23:00:01 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/1koma-63.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2078話目「エルフの森の変化⑥」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/08/11/2790392/",
-      "pubDate": "Tue, 11 Aug 2026 12:00:26 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2078a.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-13T23:19:17.977627",
+  "updatedAt": "2026-08-14T00:08:40.078617",
   "sites": [
     {
       "id": "hachima",
