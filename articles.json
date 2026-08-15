@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【ネタバレ注意】『みいちゃんと山田さん』最終話、ついに公開→全読者騒然ガチで衝撃の結末に・・・「山田さんも◯◯だった」「タイトルだけでもちょっと意味深」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456987.html",
+      "pubDate": "2026-08-16T05:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa249303.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "配信者・スタンミさん上半身裸の写真を投稿したところ「TKBが変」と笑われてしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557801.html",
+      "pubDate": "2026-08-16T05:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/624e1d23.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -561,19 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/8/a8bf7043.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【炎上】「海出来てます！車沈んでます！」冠水する千葉県蘇我駅前でダンスする女2人が見つかる　豪雨で8人が死亡",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557585.html",
-      "pubDate": "2026-08-15T18:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/4/d4fcc37c.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -780,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/08/15/2791382/",
       "pubDate": "Sat, 15 Aug 2026 02:15:29 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_6432.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【朗報】『コミケ消臭ゲート』爆誕 お前ら、これで安心だぞｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456946.html",
-      "pubDate": "2026-08-15T11:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/eb05e927.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T19:47:02.634379",
+  "updatedAt": "2026-08-15T20:28:13.740404",
   "sites": [
     {
       "id": "hachima",
