@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「コミケの準備始めます」とあるコスプレイヤーが『ヤニねこ』大家のコスプレをするために逆モヒカンにしはじめて覚悟がスゴい",
+      "description": "「コミケの準備始めます」とあるコスプレイヤーが『ヤニねこ』大家のコスプレをするために逆モヒカンにしはじめて覚悟がスゴい",
+      "link": "https://togetter.com/li/2733507",
+      "pubDate": "Sun, 16 Aug 2026 00:35:55 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】おばさん「23歳の甥っ子が同棲してる30歳彼女に結婚迫られたけど断った。ナイス～」⇒ クズだと叩かれる",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557748.html",
+      "pubDate": "2026-08-16T00:30:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa63b878.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "スキップって歩くより速いし走るより疲れない気がするんだけどなんで日常ではやらない風潮なんだろう「歩くより疲れるし走るより遅いから」",
+      "description": "スキップって歩くより速いし走るより疲れない気がするんだけどなんで日常ではやらない風潮なんだろう「歩くより疲れるし走るより遅いから」",
+      "link": "https://togetter.com/li/2733504",
+      "pubDate": "Sun, 16 Aug 2026 00:29:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -379,19 +418,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/e/2e97e1c2.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "NEXCO東日本が公開した大雨の影響で通行止めになった千葉東金道路の様子が想像以上にひどかった→暑さや地形の不安定さを心配する声も相次いでいる",
-      "description": "NEXCO東日本が公開した大雨の影響で通行止めになった千葉東金道路の様子が想像以上にひどかった→暑さや地形の不安定さを心配する声も相次いでいる",
-      "link": "https://togetter.com/li/2733393",
-      "pubDate": "Sat, 15 Aug 2026 18:57:58 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -416,19 +442,6 @@
       "link": "http://blog.esuteru.com/archives/10557590.html",
       "pubDate": "2026-08-15T18:20:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/005bb69b.png"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "セブン-イレブンで客離れが起きている？圧倒的売上があっても他社に押され苦戦しているらしい→上げ底弁当などで評価を落としたから自業自得という厳しい声も",
-      "description": "セブン-イレブンで客離れが起きている？圧倒的売上があっても他社に押され苦戦しているらしい→上げ底弁当などで評価を落としたから自業自得という厳しい声も",
-      "link": "https://togetter.com/li/2733375",
-      "pubDate": "Sat, 15 Aug 2026 18:15:07 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -611,19 +624,6 @@
       "link": "http://blog.esuteru.com/archives/10557566.html",
       "pubDate": "2026-08-15T15:30:02+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35599671-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "MCU版『X-MEN』キャストが発表！『スターウォーズ』でおなじみアダム・ドライヴァーが参戦",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557565.html",
-      "pubDate": "2026-08-15T15:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a7aad6e.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T15:26:06.384528",
+  "updatedAt": "2026-08-15T15:48:31.578291",
   "sites": [
     {
       "id": "hachima",
