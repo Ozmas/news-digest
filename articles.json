@@ -8,6 +8,32 @@
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "希少小児がんで寝たきりになってしまったお子さんの唯一食べたい物が「かにぱん」だが、製造中止…事情を知った三立製菓さんから「手作りでお届けする」とメールが来た話",
+      "description": "希少小児がんで寝たきりになってしまったお子さんの唯一食べたい物が「かにぱん」だが、製造中止…事情を知った三立製菓さんから「手作りでお届けする」とメールが来た話",
+      "link": "https://togetter.com/li/2733595",
+      "pubDate": "Sun, 16 Aug 2026 07:44:50 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「みいちゃんと山田さん」、ついに完結！ 最終話の内容に、ネット民驚愕してしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557851.html",
+      "pubDate": "2026-08-16T07:30:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78d5e4ba.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
       "title": "子どもがイタリアンレストランのバイトで「説明している時にメモ取るな」と言われ、翌日「昨日説明したよね」と言われ、その状態で接客に出されて右往左往した→様々な反応",
       "description": "子どもがイタリアンレストランのバイトで「説明している時にメモ取るな」と言われ、翌日「昨日説明したよね」と言われ、その状態で接客に出されて右往左往した→様々な反応",
       "link": "https://togetter.com/li/2733593",
@@ -522,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/5/659907c2.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "アメリカで裁判所への提出書類に人間の目では空白にしか見えないように隠しプロンプトを仕込んでAIを操作した事例が発覚→アナログの信頼性が見直される？",
-      "description": "アメリカで裁判所への提出書類に人間の目では空白にしか見えないように隠しプロンプトを仕込んでAIを操作した事例が発覚→アナログの信頼性が見直される？",
-      "link": "https://togetter.com/li/2733405",
-      "pubDate": "Sat, 15 Aug 2026 19:37:53 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -572,19 +585,6 @@
       "link": "https://jin115.com/archives/52456966.html",
       "pubDate": "2026-08-15T19:00:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/6/b636f325.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スマホ版『デビルメイクライ』、ロックマンX DiVEコラボでとんでもないミスをやらかすｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557696.html",
-      "pubDate": "2026-08-15T19:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/e/2e97e1c2.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T22:27:46.616246",
+  "updatedAt": "2026-08-15T22:51:56.225024",
   "sites": [
     {
       "id": "hachima",
