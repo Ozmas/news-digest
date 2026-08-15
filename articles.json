@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市首相、靖国神社に遥拝",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456968.html",
+      "pubDate": "2026-08-15T20:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8f8d3dab.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ調オープンワールドRPG『ドラゴンソード:アウェイクニング』家庭用移植はユーザーが多いPS5優先！スイッチ2版は時期未定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557754.html",
+      "pubDate": "2026-08-15T20:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/5/659907c2.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -587,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/d/adf2f650.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "オタク「推しの生活の違和感を感じたら気をつけて。『結婚』という答え合わせ突然来ます」　→　違和感ポイントがあまりに生々しすぎると全オタク騒然…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557537.html",
-      "pubDate": "2026-08-15T12:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/3/f3428c14.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -845,19 +858,6 @@
       "link": "https://jin115.com/archives/52456935.html",
       "pubDate": "2026-08-15T05:00:43+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/4/c4bbcdf9.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "不動産コンサル「新卒で初任給月100万円出します！！！」→すごいことになるｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456933.html",
-      "pubDate": "2026-08-15T03:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/f/5f8b90cc.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1698,6 +1698,32 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "すぐ効かなくなる暑さ対策グッズにモヤモヤ。ケユカ「−9.6℃ 冷感クールタオル」なら水道水で何度でも復活するよ",
+      "description": "暑い日の外出には、何かしら暑さ対策グッズを持ちたくなるもの。 とはいえ、重かったりかさばったりするアイテムだと、逆に持ち歩くのがおっくうになってしまいます。 そんなときに見つけたのが、ケユカ（KEYUCA）「濡らしてひん [&#8230;]",
+      "link": "https://getnews.jp/archives/3737092",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "時給4万砂も楽勝の超効率 / クスネのコミュニティ・デイは相当な“ガチ”案件【ポケモンGO】",
+      "description": "8月16日14時〜17時に『ポケモンGO』で開催される「クスネ」のコミュニティ・デイ。 人気なポケモンではあるものの、戦力的にはそこまで活躍の機会のないポケモンなので「色違いくらいゲットしてまったりやるかぁ」と考えている [&#8230;]",
+      "link": "https://getnews.jp/archives/3737068",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【衝撃映像】川をドローンで撮影してたら・・！ワニが飛び出してパクっ！！【海外・動画】",
       "description": "釣りに来た川でドローンを飛ばした投稿者さん。 すると、そこに『ある生物』がやってきて・・・、トンデモない映像が撮れたのです！ ※こちらは、2022年8月に公開した記事を再構成したものとなります ドローンで川を撮影中！ 今 [&#8230;]",
       "link": "https://getnews.jp/archives/3737090",
@@ -1794,35 +1820,9 @@
       "link": "https://getnews.jp/archives/3737081",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "『ほの暮しの庭』レビュー：「先に知りたかった」後悔も含めて傑作！ 因習村で始まる“ほのぼのと仄暗い”スローライフ",
-      "description": "日本一ソフトウェアから2026年7月30日に発売された『ほの暮しの庭』は、発売からわずか数日で国内累計販売本数10万本を突破した。パッケージ版が一部店舗で品切れを起こすほどの勢いとなっている。 「夜廻」シリーズを手がけた [&#8230;]",
-      "link": "https://getnews.jp/archives/3736933",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【最終話】沖縄のレンタカー車内にカメラを忘れて東京に帰ってしまった話 / カメラとの再会",
-      "description": "沖縄のレンタカー車内にカメラを忘れて東京に帰ってしまった話。 最終話ということで、事の顛末をわかりやすく端的にお伝えすると……。 沖縄でタイムズカーの車内にカメラを忘れる ↓ そのまま東京に帰る ↓ カメラ紛失に気がつく [&#8230;]",
-      "link": "https://getnews.jp/archives/3736752",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T10:51:58.701350",
+  "updatedAt": "2026-08-15T11:24:49.379024",
   "sites": [
     {
       "id": "hachima",
