@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "母の初盆の精霊船、故人の意思を反映したら主張が激しくなった「阪神タイガースは宗教」→「阪急阪神宗猛虎派」「こんなに生き様が反映される何て素敵すぎる」",
+      "description": "母の初盆の精霊船、故人の意思を反映したら主張が激しくなった「阪神タイガースは宗教」→「阪急阪神宗猛虎派」「こんなに生き様が反映される何て素敵すぎる」",
+      "link": "https://togetter.com/li/2733417",
+      "pubDate": "Sat, 15 Aug 2026 20:34:55 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "祖父が玉砕命令のために戦車の下に潜り込み、自爆用の爆薬の袋を枕にして、そのタイミングを待っていた…しかし終戦を知らせる玉音放送を確認した上官達が既に逃げていた話",
+      "description": "祖父が玉砕命令のために戦車の下に潜り込み、自爆用の爆薬の袋を枕にして、そのタイミングを待っていた…しかし終戦を知らせる玉音放送を確認した上官達が既に逃げていた話",
+      "link": "https://togetter.com/li/2733416",
+      "pubDate": "Sat, 15 Aug 2026 20:31:50 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "味の素さん、自社商品の紹介写真になぜかAIを使っているとぶっ叩かれてしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557756.html",
+      "pubDate": "2026-08-15T20:30:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f8dbd416.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ハヤテのごとく！』完全版が全27巻すべて「50％ポイント還元」セール！26,730円分返ってくる！全52巻分＋描き下ろし多数！あの頃一世を風靡したサンデーの代表作",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456972.html",
+      "pubDate": "2026-08-15T20:30:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/e/8e2820f2.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -210,19 +262,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "コミケに行ったときのコミュ障あるある「フォロワーのブースに行き、特に話しかけたりはせず\"ほぅ…こいつが…\"と思って去る」",
-      "description": "コミケに行ったときのコミュ障あるある「フォロワーのブースに行き、特に話しかけたりはせず\"ほぅ…こいつが…\"と思って去る」",
-      "link": "https://togetter.com/li/2733374",
-      "pubDate": "Sat, 15 Aug 2026 18:13:29 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -259,19 +298,6 @@
       "description": "MySQLやPostgreSQL、MongoDBなど複数種類のデータベースを扱う際、個別に専用ツールを用意するのは面倒です。そこで、SQLとNoSQLを共通画面から操作でき、Windows・Linux・Macやブラウザから利用可能なデータベースマネージャー「DbGate」が公開されています。続きを読む...",
       "link": "https://gigazine.net/news/20260815-dbgate/",
       "pubDate": "Sat, 15 Aug 2026 18:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "祖母が電気ポットに水を入れてガスコンロで沸かそうとしてしまい危うく大事故になりかけた、これが認知症の怖いところ「認知症だと怒るに怒れないのも苦しい」",
-      "description": "祖母が電気ポットに水を入れてガスコンロで沸かそうとしてしまい危うく大事故になりかけた、これが認知症の怖いところ「認知症だと怒るに怒れないのも苦しい」",
-      "link": "https://togetter.com/li/2733370",
-      "pubDate": "Sat, 15 Aug 2026 17:59:48 +0900",
       "thumbnail": ""
     },
     {
@@ -587,19 +613,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "SNSの整形垢女子、インプレゾンビにキレッキレで無慈悲すぎる返信をもらってしまいむせび泣く　→　これはセンスの塊ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557541.html",
-      "pubDate": "2026-08-15T12:20:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/300255f9.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -845,19 +858,6 @@
       "link": "https://jin115.com/archives/52456936.html",
       "pubDate": "2026-08-15T07:00:07+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca2599cc.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "サイゼリヤ、ついに“アレ”が来るかもしれない・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456935.html",
-      "pubDate": "2026-08-15T05:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/4/c4bbcdf9.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1698,32 +1698,6 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "すぐ効かなくなる暑さ対策グッズにモヤモヤ。ケユカ「−9.6℃ 冷感クールタオル」なら水道水で何度でも復活するよ",
-      "description": "暑い日の外出には、何かしら暑さ対策グッズを持ちたくなるもの。 とはいえ、重かったりかさばったりするアイテムだと、逆に持ち歩くのがおっくうになってしまいます。 そんなときに見つけたのが、ケユカ（KEYUCA）「濡らしてひん [&#8230;]",
-      "link": "https://getnews.jp/archives/3737092",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "時給4万砂も楽勝の超効率 / クスネのコミュニティ・デイは相当な“ガチ”案件【ポケモンGO】",
-      "description": "8月16日14時〜17時に『ポケモンGO』で開催される「クスネ」のコミュニティ・デイ。 人気なポケモンではあるものの、戦力的にはそこまで活躍の機会のないポケモンなので「色違いくらいゲットしてまったりやるかぁ」と考えている [&#8230;]",
-      "link": "https://getnews.jp/archives/3737068",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【衝撃映像】川をドローンで撮影してたら・・！ワニが飛び出してパクっ！！【海外・動画】",
       "description": "釣りに来た川でドローンを飛ばした投稿者さん。 すると、そこに『ある生物』がやってきて・・・、トンデモない映像が撮れたのです！ ※こちらは、2022年8月に公開した記事を再構成したものとなります ドローンで川を撮影中！ 今 [&#8230;]",
       "link": "https://getnews.jp/archives/3737090",
@@ -1820,9 +1794,35 @@
       "link": "https://getnews.jp/archives/3737081",
       "pubDate": "",
       "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "『ほの暮しの庭』レビュー：「先に知りたかった」後悔も含めて傑作！ 因習村で始まる“ほのぼのと仄暗い”スローライフ",
+      "description": "日本一ソフトウェアから2026年7月30日に発売された『ほの暮しの庭』は、発売からわずか数日で国内累計販売本数10万本を突破した。パッケージ版が一部店舗で品切れを起こすほどの勢いとなっている。 「夜廻」シリーズを手がけた [&#8230;]",
+      "link": "https://getnews.jp/archives/3736933",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【最終話】沖縄のレンタカー車内にカメラを忘れて東京に帰ってしまった話 / カメラとの再会",
+      "description": "沖縄のレンタカー車内にカメラを忘れて東京に帰ってしまった話。 最終話ということで、事の顛末をわかりやすく端的にお伝えすると……。 沖縄でタイムズカーの車内にカメラを忘れる ↓ そのまま東京に帰る ↓ カメラ紛失に気がつく [&#8230;]",
+      "link": "https://getnews.jp/archives/3736752",
+      "pubDate": "",
+      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T11:24:49.379024",
+  "updatedAt": "2026-08-15T11:47:01.332083",
   "sites": [
     {
       "id": "hachima",
