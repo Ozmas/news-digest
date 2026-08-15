@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『原神』のモデリングが進化した結果、旧キャラと新キャラの差がエグイ事に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557803.html",
+      "pubDate": "2026-08-16T06:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/910f9b18.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +572,6 @@
       "link": "http://blog.esuteru.com/archives/10557597.html",
       "pubDate": "2026-08-15T18:40:39+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/41c81610.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】ムキムキ寺田心さん、フィジークの大会に出場した結果ｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557590.html",
-      "pubDate": "2026-08-15T18:20:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/005bb69b.png"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T20:52:25.327479",
+  "updatedAt": "2026-08-15T21:25:22.214649",
   "sites": [
     {
       "id": "hachima",
