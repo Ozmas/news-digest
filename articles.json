@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「ゲーム開発はもうやめようと思うので、最後にこのゲームが売れない理由を教えてください」 → めちゃくちゃ意見が殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557814.html",
+      "pubDate": "2026-08-15T23:40:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1c105975.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +650,6 @@
       "link": "https://jin115.com/archives/52456954.html",
       "pubDate": "2026-08-15T14:00:07+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/2/424455fa.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】『ズートピア3』が制作決定！そのほか新作ディズニーアニメも発表",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557564.html",
-      "pubDate": "2026-08-15T13:54:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/b/1b4c92ff-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1698,9 +1698,61 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【大阪府大阪市】豚肉創作料理レストラン「豚と炭火。こぶた家」の2号店がリンクス梅田にオープン",
+      "description": "神姫フードサービスは、土佐備長炭で焼き上げる黒豚の濃厚なコクと旨みを生かした豚肉創作料理レストラン「豚と炭火。こぶた家」の2号店となる「豚と炭火。こぶた家 リンクス梅田店」を、8月12日(水)大阪・梅田のヨドバシ梅田タワ [&#8230;]",
+      "link": "https://getnews.jp/archives/3737111",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【愛知県名古屋市】常設型観光エンターテインメント施設「世界アイドル共和国」オープン！盆に特別公演も",
+      "description": "「NDP」が運営する、常設型観光エンターテインメント施設「WORLD IDOL REPUBLIC(世界アイドル共和国) in NAGOYA SAKAE」が愛知県名古屋市中区栄に、8月8日(土)にグランドオープンした。8月 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737112",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "手のひらサイズの「コレ」が、キャンプやプールに行く時の“あのストレス”を解消してくれたよ",
       "description": "テント泊やキャンプでのエアマットや、プールでの浮き輪の準備。 息を吹き込んで膨らませるのは結構大変なんですよね〜。 遊ぶ前に疲れてしまうのも、撤収に時間がかかるのもちょっといや……。 そんな面倒な作業を一瞬で終わらせてく [&#8230;]",
       "link": "https://getnews.jp/archives/3737108",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "澤井珈琲が一杯ずつ、水でドリップできるアイスコーヒーを販売。お湯がなくてもOK",
+      "description": "水で出すドリップアイス 鳥取県境港市の澤井珈琲が、「水で出すドリップアイス」を今夏も販売する。ドリップバッグをカップにセットし、お湯ではなく水を注いで抽出する夏季限定商品だ。 お湯ではなく水を注いで抽出 暑い日に飲みたく [&#8230;]",
+      "link": "https://getnews.jp/archives/3737113",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【岩手県盛岡市】岩手のビール、グルメ、サウナが楽しめる「ゆっこ×ベアレン ととのいフェスト」開催",
+      "description": "岩手のビール、グルメ、サウナを一度に楽しめる施設といえば、ゆっこ盛岡だ。ゆっこ盛岡では9月13日(日)、その魅力を楽しめるイベント「ゆっこ×ベアレン ととのいフェスト2026」が開催される。 ゆっこのお風呂とサウナでとと [&#8230;]",
+      "link": "https://getnews.jp/archives/3737114",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1768,61 +1820,9 @@
       "link": "https://getnews.jp/archives/3737100",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【埼玉県川口市】台湾カステラ専門店「銀座 台楽蛋糕」が「イオンモール川口前川」に期間限定で出店！",
-      "description": "台湾フード店のフランチャイズ展開を行う東京都中央区の「BOCジャパン」が運営する台湾カステラ専門店「台楽蛋糕(タイラクタンガオ」は、8月11日(火・祝)〜8月17日(月)の期間、「イオンモール川口前川」に期間限定で催事出 [&#8230;]",
-      "link": "https://getnews.jp/archives/3737101",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【東京都目黒区】宇宙×カルチャーブランド「SPACE SOUVENIR」初のPOP UP実現",
-      "description": "RIDE Inc.が展開するファッション・ライフスタイルブランド「SPACE SOUVENIR(スペース スーベニア)」は、8月15日(土)〜9月13日(日)の期間、中目黒 蔦屋書店にてブランド初のPOP UPを開催する [&#8230;]",
-      "link": "https://getnews.jp/archives/3737102",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【長野県売木村】星の森オートキャンプ場が夏季限定「森オフィス」を実施。高原で仕事をする選択肢",
-      "description": "Nature Serviceが指定管理を行う、長野県下伊那郡売木村の「星の森オートキャンプ場」は、8月22日(土)～9月30日(水)、夏季限定企画「森オフィス」を実施する。 標高1,200mの高原にあるキャンプ場を、キャ [&#8230;]",
-      "link": "https://getnews.jp/archives/3737093",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "通販をスマートに開梱。ミドリのダンボールカッターがお買い得",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  ネット通販で届いた荷物を開ける機会が増えると、面倒なダンボールの開梱作業もささっと片付けたいもの。 MIDORI（ミドリ）の「ダンボールカ [&#8230;]",
-      "link": "https://getnews.jp/archives/3737097",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T14:27:35.062865",
+  "updatedAt": "2026-08-15T14:51:40.749201",
   "sites": [
     {
       "id": "hachima",
