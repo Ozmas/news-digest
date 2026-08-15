@@ -2,6 +2,149 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】ムキムキ寺田心さん、フィジークの大会に出場した結果ｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557590.html",
+      "pubDate": "2026-08-15T18:20:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/005bb69b.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "セブン-イレブンで客離れが起きている？圧倒的売上があっても他社に押され苦戦しているらしい→上げ底弁当などで評価を落としたから自業自得という厳しい声も",
+      "description": "セブン-イレブンで客離れが起きている？圧倒的売上があっても他社に押され苦戦しているらしい→上げ底弁当などで評価を落としたから自業自得という厳しい声も",
+      "link": "https://togetter.com/li/2733375",
+      "pubDate": "Sat, 15 Aug 2026 18:15:07 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "コミケに行ったときのコミュ障あるある「フォロワーのブースに行き、特に話しかけたりはせず\"ほぅ…こいつが…\"と思って去る」",
+      "description": "コミケに行ったときのコミュ障あるある「フォロワーのブースに行き、特に話しかけたりはせず\"ほぅ…こいつが…\"と思って去る」",
+      "link": "https://togetter.com/li/2733374",
+      "pubDate": "Sat, 15 Aug 2026 18:13:29 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【朗報？】9月発売予定の『マーベル・ウルヴァリン』、○○を1本1本モデリングする狂気の作品だと判明ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456958.html",
+      "pubDate": "2026-08-15T18:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/8/a8bf7043.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【炎上】「海出来てます！車沈んでます！」冠水する千葉県蘇我駅前でダンスする女2人が見つかる　豪雨で8人が死亡",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557585.html",
+      "pubDate": "2026-08-15T18:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/4/d4fcc37c.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり",
+      "description": "MySQLやPostgreSQL、MongoDBなど複数種類のデータベースを扱う際、個別に専用ツールを用意するのは面倒です。そこで、SQLとNoSQLを共通画面から操作でき、Windows・Linux・Macやブラウザから利用可能なデータベースマネージャー「DbGate」が公開されています。続きを読む...",
+      "link": "https://gigazine.net/news/20260815-dbgate/",
+      "pubDate": "Sat, 15 Aug 2026 18:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "祖母が電気ポットに水を入れてガスコンロで沸かそうとしてしまい危うく大事故になりかけた、これが認知症の怖いところ「認知症だと怒るに怒れないのも苦しい」",
+      "description": "祖母が電気ポットに水を入れてガスコンロで沸かそうとしてしまい危うく大事故になりかけた、これが認知症の怖いところ「認知症だと怒るに怒れないのも苦しい」",
+      "link": "https://togetter.com/li/2733370",
+      "pubDate": "Sat, 15 Aug 2026 17:59:48 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "お手を極めすぎた賢い猫が飼い主に「正しいお手」を指導するようになったマンガ「手をひっくり返してきます」",
+      "description": "お手を極めすぎた賢い猫が飼い主に「正しいお手」を指導するようになったマンガ「手をひっくり返してきます」",
+      "link": "https://togetter.com/li/2733369",
+      "pubDate": "Sat, 15 Aug 2026 17:56:49 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "AIはめっちゃ電気と水を食うから「ちょっと相談しちゃった」みたいな使い方を万人がしてはいけないと思ってる「正しいことを言ってるように見えるが暴論では…？」",
+      "description": "AIはめっちゃ電気と水を食うから「ちょっと相談しちゃった」みたいな使い方を万人がしてはいけないと思ってる「正しいことを言ってるように見えるが暴論では…？」",
+      "link": "https://togetter.com/li/2733367",
+      "pubDate": "Sat, 15 Aug 2026 17:52:15 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「チ。みたいなロマンを感じる」釧路の駅で降りたら、駅ノートに重力波望遠鏡の研究に携わってるイタリア人研究者が天文学についてページいっぱいに解説してた",
+      "description": "「チ。みたいなロマンを感じる」釧路の駅で降りたら、駅ノートに重力波望遠鏡の研究に携わってるイタリア人研究者が天文学についてページいっぱいに解説してた",
+      "link": "https://togetter.com/li/2733364",
+      "pubDate": "Sat, 15 Aug 2026 17:45:23 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "コミケ会場に『子供に見せたくない本を入れるポスト』のコスプレの人がいた「ここにあるのはそんな本ばっかりだろ！」",
+      "description": "コミケ会場に『子供に見せたくない本を入れるポスト』のコスプレの人がいた「ここにあるのはそんな本ばっかりだろ！」",
+      "link": "https://togetter.com/li/2733363",
+      "pubDate": "Sat, 15 Aug 2026 17:44:13 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -80,19 +223,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい",
-      "description": "アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい",
-      "link": "https://togetter.com/li/2733352",
-      "pubDate": "Sat, 15 Aug 2026 17:19:08 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -145,45 +275,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "自動車専門家が解説する冠水した道路を走行する際の正しい判断と対処法が万が一のときに命を救うかもしれない「もちろん冠水路に突っ込まないのが大前提」",
-      "description": "自動車専門家が解説する冠水した道路を走行する際の正しい判断と対処法が万が一のときに命を救うかもしれない「もちろん冠水路に突っ込まないのが大前提」",
-      "link": "https://togetter.com/li/2733338",
-      "pubDate": "Sat, 15 Aug 2026 16:47:06 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "フランスでおにぎりが大転換を遂げて「キイチゴ味のご飯にホワイトチョコレートが入ったおにぎり」になっていた",
-      "description": "フランスでおにぎりが大転換を遂げて「キイチゴ味のご飯にホワイトチョコレートが入ったおにぎり」になっていた",
-      "link": "https://togetter.com/li/2733335",
-      "pubDate": "Sat, 15 Aug 2026 16:45:07 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「子育てはご機嫌なおじさんを地球に納品する壮大なプロジェクト」というエッセイが話題になり男児を育てる母親たちにぶっ刺さっている",
-      "description": "「子育てはご機嫌なおじさんを地球に納品する壮大なプロジェクト」というエッセイが話題になり男児を育てる母親たちにぶっ刺さっている",
-      "link": "https://togetter.com/li/2733334",
-      "pubDate": "Sat, 15 Aug 2026 16:32:56 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -195,45 +286,6 @@
       "link": "http://blog.esuteru.com/archives/10557568.html",
       "pubDate": "2026-08-15T16:30:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0fe4c90f.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "【集合体注意】AIで作ったのを隠す気ゼロなサービスエリアの激キショみそカツ見て「極めてなにか生命に対する侮辱を感じますね」「気持ち悪すぎる」",
-      "description": "【集合体注意】AIで作ったのを隠す気ゼロなサービスエリアの激キショみそカツ見て「極めてなにか生命に対する侮辱を感じますね」「気持ち悪すぎる」",
-      "link": "https://togetter.com/li/2733332",
-      "pubDate": "Sat, 15 Aug 2026 16:22:39 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ちいかわを観た後に、母が私の新築キッチンで鯛を捌いて、きれいに掃除したはずなのにあちこちから鱗が出てきたのを思い出した",
-      "description": "ちいかわを観た後に、母が私の新築キッチンで鯛を捌いて、きれいに掃除したはずなのにあちこちから鱗が出てきたのを思い出した",
-      "link": "https://togetter.com/li/2733331",
-      "pubDate": "Sat, 15 Aug 2026 16:22:08 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「推しに月15万貢いでいる間、お前自身のスペックは1ミリも上がっていない」『推し活にハックされて貢ぎ続けている養分たち』に対するnoteに賛否が集まる",
-      "description": "「推しに月15万貢いでいる間、お前自身のスペックは1ミリも上がっていない」『推し活にハックされて貢ぎ続けている養分たち』に対するnoteに賛否が集まる",
-      "link": "https://togetter.com/li/2733330",
-      "pubDate": "Sat, 15 Aug 2026 16:20:19 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -613,19 +665,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/LINE_ALBUM_20260726-_3_260729_14-rotated.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「ガンダム富野由悠季監督は『高市早苗首相を止めろ』と言ってる。そんな富野監督の作品を観て育ったのに高市を支持する馬鹿はさぁ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557517.html",
-      "pubDate": "2026-08-15T10:30:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7e29de67.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +676,6 @@
       "link": "https://jin115.com/archives/52456944.html",
       "pubDate": "2026-08-15T10:00:24+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/a/0a2a3d2b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】料理研究家リュウジさん、「美味しんぼの料理は監修がいないからダメ」と語った後に本編のカルボナーラをディスるも皆に論破されて終わる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557516.html",
-      "pubDate": "2026-08-15T10:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4af62f9e.jpg"
     },
     {
       "siteId": "jin",
@@ -819,19 +845,6 @@
       "link": "https://jin115.com/archives/52456932.html",
       "pubDate": "2026-08-15T01:05:57+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/84b6fb1c-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "とある駅で降りたX民さん、駅ノートを発見 → 中を読んだらとんでもないことが書かれていてネット騒然ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456927.html",
-      "pubDate": "2026-08-15T00:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/ef9ab4a8-s.png"
     },
     {
       "siteId": "gigazine",
@@ -1013,19 +1026,6 @@
       "description": "中国ではインターネットのライブ配信を通じて商品を売り込むライブコマース市場が成熟しており、中にはAIで生成された「AIストリーマー(AI司会者)」によるライブコマースもあります。そんなAI司会者の「顔の魅力」が配信を視聴するユーザーに与える影響について調べた研究結果を、中国の研究チームが発表しました。続きを読む...",
       "link": "https://gigazine.net/news/20260814-perfect-ai-face-turning-shoppers-off/",
       "pubDate": "Fri, 14 Aug 2026 16:10:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "「ホグワーツ・レガシー」の続編についてワーナー・ブラザースが株主宛書簡で言及",
-      "description": "2023年に発売して大ヒットを記録したハリー・ポッターの世界を舞台としたオープンワールド・アクションRPG『ホグワーツ・レガシー』の続編について、制作元のワーナー・ブラザースが2026年8月6日付けの株主宛書簡で言及していることが分かりました。書簡では「ゲームタイトルのパイプラインの拡大」を掲げており、「『ホグワーツ・レガシー』の第2弾」が進行中であるとしています。続きを読む...",
-      "link": "https://gigazine.net/news/20260814-hogwarts-legacy-2/",
-      "pubDate": "Fri, 14 Aug 2026 14:42:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T08:34:52.669850",
+  "updatedAt": "2026-08-15T09:30:18.041423",
   "sites": [
     {
       "id": "hachima",
