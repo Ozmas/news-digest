@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国と韓国、高市内閣の靖国神社参拝に激怒",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456986.html",
+      "pubDate": "2026-08-16T03:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/d/cddbcff1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "甲子園でありえない「ストライク」に非難殺到！その動画がコチラ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557790.html",
+      "pubDate": "2026-08-16T03:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f009fa2-s.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -587,19 +613,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ニコニコ動画、有料会員数が初の90万人割れ「お金を払う意味が薄い」「運営がマトモに仕事してない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557578.html",
-      "pubDate": "2026-08-15T17:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/1/6120f78f.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -793,19 +806,6 @@
       "link": "https://gigazine.net/news/20260815-deep-breathing-increase-risk-taking-behavior/",
       "pubDate": "Sat, 15 Aug 2026 11:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "撮り鉄を車で轢き殺そうとした男を逮捕！トラブル時の動画が拡散され、様々な意見が飛び交う事態に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456949.html",
-      "pubDate": "2026-08-15T10:30:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/3266f503.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T17:48:25.574040",
+  "updatedAt": "2026-08-15T18:36:38.818050",
   "sites": [
     {
       "id": "hachima",
