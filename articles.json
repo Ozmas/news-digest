@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【遊戯王】『中島健人のオールナイトニッポン』にファン悲鳴！「ケンティーが何言ってるかわからないの！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557791.html",
+      "pubDate": "2026-08-16T04:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/2/22909779-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -572,19 +585,6 @@
       "link": "https://gigazine.net/news/20260815-dbgate/",
       "pubDate": "Sat, 15 Aug 2026 18:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画あり】撮り鉄とトラブルになり車をバックさせて男性を引き殺そうとした55歳の男逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557581.html",
-      "pubDate": "2026-08-15T17:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/1/311f9365-s.png"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T18:36:38.818050",
+  "updatedAt": "2026-08-15T19:25:30.150021",
   "sites": [
     {
       "id": "hachima",
