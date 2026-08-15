@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "スピードワゴン・小沢さん、自粛期間中に中卒からとんでもない大学へ進学していたことを告白ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456978.html",
+      "pubDate": "2026-08-16T00:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4797724.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】学マスの水着ガチャが未成年の性的搾取だと炎上！「この子達は高校生。官能的な売り方で出さないで」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557676.html",
+      "pubDate": "2026-08-16T00:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78570321.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -626,19 +652,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ホロライブ運営カバーの谷郷CEOのXが乗っ取られてとんでもないことに・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557546.html",
-      "pubDate": "2026-08-15T14:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/3/b3944d82.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +819,6 @@
       "link": "https://jin115.com/archives/52456943.html",
       "pubDate": "2026-08-15T09:40:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/9/9983fe38.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『手品先輩』全8巻すべて「50％ポイント還元」セール！3,168円分返ってくる！ムチムチでかわいい先輩のお色気満載ポンコツギャグ！アニメ化もされた話題作！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456912.html",
-      "pubDate": "2026-08-15T09:20:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/e/8eaa256f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T14:51:40.749201",
+  "updatedAt": "2026-08-15T15:26:06.384528",
   "sites": [
     {
       "id": "hachima",
