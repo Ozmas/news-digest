@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "子どもがイタリアンレストランのバイトで「説明している時にメモ取るな」と言われ、翌日「昨日説明したよね」と言われ、その状態で接客に出されて右往左往した→様々な反応",
+      "description": "子どもがイタリアンレストランのバイトで「説明している時にメモ取るな」と言われ、翌日「昨日説明したよね」と言われ、その状態で接客に出されて右往左往した→様々な反応",
+      "link": "https://togetter.com/li/2733593",
+      "pubDate": "Sun, 16 Aug 2026 07:21:30 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "千葉県を襲った記録的な大雨で、残クレ民嘆く　車のローンを残し保険未加入状態のまま水没、中にはローン3桁残したまま廃車になった人も",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557847.html",
+      "pubDate": "2026-08-16T07:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/1/e12ea4eb.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "小泉防衛大臣、韓国寄りの記事を書く某メディアに名指しでブチギレ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52456988.html",
+      "pubDate": "2026-08-16T07:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b221c7f.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +535,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "芸人・九月さん「何で本と映画で何を得たか言語化しなきゃいけないんだよ！！！栄養なくてもきゅうり食え！身にならなくても本を読め！」いい話だがきゅうりが気になりすぎる",
-      "description": "芸人・九月さん「何で本と映画で何を得たか言語化しなきゃいけないんだよ！！！栄養なくてもきゅうり食え！身にならなくても本を読め！」いい話だがきゅうりが気になりすぎる",
-      "link": "https://togetter.com/li/2733404",
-      "pubDate": "Sat, 15 Aug 2026 19:32:13 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -559,19 +585,6 @@
       "link": "http://blog.esuteru.com/archives/10557696.html",
       "pubDate": "2026-08-15T19:00:03+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/e/2e97e1c2.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【リモート参拝】高市首相、靖国神社に遙拝！日本武道館の駐車場から二拝二拍手一拝",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557597.html",
-      "pubDate": "2026-08-15T18:40:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/41c81610.jpg"
     },
     {
       "siteId": "jin",
@@ -741,19 +754,6 @@
       "link": "https://gigazine.net/news/20260815-insta360-mic-pro-appearance/",
       "pubDate": "Sat, 15 Aug 2026 12:30:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性「ヒスる度に1000円貯金する“ヒステリック貯金”やってみるわ！」→マジでとてつもないことになるｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456953.html",
-      "pubDate": "2026-08-15T12:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/d/adf2f650.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-15T21:47:24.392437",
+  "updatedAt": "2026-08-15T22:27:46.616246",
   "sites": [
     {
       "id": "hachima",
