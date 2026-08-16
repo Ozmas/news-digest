@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【怖い話】初代ニンテンドースイッチ、発売からもうすぐ10年",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558022.html",
+      "pubDate": "2026-08-16T20:30:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4f3a2cb0.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "豪雨に見舞われた千葉、県内で30代の男性が室内で発動発電機を使用し、一酸化炭素中毒で死亡する→なぜ室内で使ったの？「普通に臭くて耐えられないと思うけど」",
+      "description": "豪雨に見舞われた千葉、県内で30代の男性が室内で発動発電機を使用し、一酸化炭素中毒で死亡する→なぜ室内で使ったの？「普通に臭くて耐えられないと思うけど」",
+      "link": "https://togetter.com/li/2733823",
+      "pubDate": "Sun, 16 Aug 2026 20:25:26 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "【ヤバすぎ】45歳男、公演で寝そべっていた20歳男性の頭を全力で踏みつけ逮捕… 踏まれた男性は骨を折る重傷",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10558021.html",
@@ -233,19 +259,6 @@
       "description": "ざっくばらんって「ざっくりとおおまかに」って意味じゃなかったの？ずっと間違えてた…→間違えたまま使っている人が多いが「あけすけ」や「ぶっちゃけ」に近い言葉",
       "link": "https://togetter.com/li/2733805",
       "pubDate": "Sun, 16 Aug 2026 18:51:59 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "秋田市の沖合でサメの目撃情報が寄せられ秋田県庁が注意喚起を行っている「陸はクマ！海はサメ」「もうお互いを戦わせようよ…」",
-      "description": "秋田市の沖合でサメの目撃情報が寄せられ秋田県庁が注意喚起を行っている「陸はクマ！海はサメ」「もうお互いを戦わせようよ…」",
-      "link": "https://togetter.com/li/2733804",
-      "pubDate": "Sun, 16 Aug 2026 18:46:27 +0900",
       "thumbnail": ""
     },
     {
@@ -663,19 +676,6 @@
       "link": "https://jin115.com/archives/52456992.html",
       "pubDate": "2026-08-16T11:30:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/801fbfc3.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "色々と話題の坂口杏里さん、大巨漢のふわっち配信者と結婚を前提にした交際を宣言！ そして、現在の姿があまりにもすごいと話題になってしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557905.html",
-      "pubDate": "2026-08-16T11:30:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/2/22dd8ff7-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T11:24:51.993474",
+  "updatedAt": "2026-08-16T11:47:58.213479",
   "sites": [
     {
       "id": "hachima",
