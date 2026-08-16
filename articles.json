@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "秋葉原のエウリアン、令和になっても出没してコミケ帰りのオタクが注意喚起されるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557948.html",
+      "pubDate": "2026-08-16T15:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/6/461feee2.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "『現道・旧道・旧々道』異なる時代の道が見渡せる場所があって興奮した「より安全にしていった歴史が見える」",
+      "description": "『現道・旧道・旧々道』異なる時代の道が見渡せる場所があって興奮した「より安全にしていった歴史が見える」",
+      "link": "https://togetter.com/li/2733722",
+      "pubDate": "Sun, 16 Aug 2026 15:23:13 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "警察に職業を聞かれ、「浪人生」と答えたら「浪人ってなにかな？」と意味が通じなかった→基本的に浪人生は職業ではない「無職と言えという圧ですよ」",
+      "description": "警察に職業を聞かれ、「浪人生」と答えたら「浪人ってなにかな？」と意味が通じなかった→基本的に浪人生は職業ではない「無職と言えという圧ですよ」",
+      "link": "https://togetter.com/li/2733719",
+      "pubDate": "Sun, 16 Aug 2026 15:19:40 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "お盆休みの海外旅行、行きはJALのファーストクラス、帰りはANAのファーストクラスだが、テレビモニターが反応せず充電不可…ビジネスクラスに移動→後日補償があるとのこと",
+      "description": "お盆休みの海外旅行、行きはJALのファーストクラス、帰りはANAのファーストクラスだが、テレビモニターが反応せず充電不可…ビジネスクラスに移動→後日補償があるとのこと",
+      "link": "https://togetter.com/li/2733715",
+      "pubDate": "Sun, 16 Aug 2026 15:06:11 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "星田英利さん「国旗どころか、国家を損壊しているのは誰だ？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457002.html",
+      "pubDate": "2026-08-16T15:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/7/47cc33f0.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】スペインに流入した不法移民、たった2週間で現地をスラム街にしてしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557946.html",
+      "pubDate": "2026-08-16T15:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/4493da6a.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "コミケの一斉点検のときに「不審な物や人を見かけたら……」みたいな放送が流れる中、目の前を赤ピクミンが歩いて行って全員不審者だった",
+      "description": "コミケの一斉点検のときに「不審な物や人を見かけたら……」みたいな放送が流れる中、目の前を赤ピクミンが歩いて行って全員不審者だった",
+      "link": "https://togetter.com/li/2733713",
+      "pubDate": "Sun, 16 Aug 2026 14:56:34 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「これすなわち中身のカロリーはゼロ！」青森のコンビニで食べられる「なにも入ってません。」Xで注目が集まるが、本当に何も入っていないのか？",
+      "description": "「これすなわち中身のカロリーはゼロ！」青森のコンビニで食べられる「なにも入ってません。」Xで注目が集まるが、本当に何も入っていないのか？",
+      "link": "https://togetter.com/li/2733712",
+      "pubDate": "Sun, 16 Aug 2026 14:55:42 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -119,19 +223,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "愛犬の気持ちを表した画像が面白い上に共感できると話題に「うちの犬はよくこうなってる」とシリーズ化してワロタ",
-      "description": "愛犬の気持ちを表した画像が面白い上に共感できると話題に「うちの犬はよくこうなってる」とシリーズ化してワロタ",
-      "link": "https://togetter.com/li/2733676",
-      "pubDate": "Sun, 16 Aug 2026 13:02:51 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -158,19 +249,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90fe9fda.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "高齢者向けのChatGPT教室があった「ボロい商売みたいに言われるけど、対人スキル必須でキツイのでは？」経験者の話で需要が分かった",
-      "description": "高齢者向けのChatGPT教室があった「ボロい商売みたいに言われるけど、対人スキル必須でキツイのでは？」経験者の話で需要が分かった",
-      "link": "https://togetter.com/li/2733672",
-      "pubDate": "Sun, 16 Aug 2026 12:49:33 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -182,32 +260,6 @@
       "link": "http://blog.esuteru.com/archives/10557920.html",
       "pubDate": "2026-08-16T12:40:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/6/96002cb4-s.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "戦争を経験した漫画家である手塚治虫先生と水木しげる先生…その作品を比べると、巻き込まれた側と当事者側の違いが出ており興味深い",
-      "description": "戦争を経験した漫画家である手塚治虫先生と水木しげる先生…その作品を比べると、巻き込まれた側と当事者側の違いが出ており興味深い",
-      "link": "https://togetter.com/li/2733668",
-      "pubDate": "Sun, 16 Aug 2026 12:36:56 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "千葉の大雨で泥水に長時間浸かったので、破傷風ワクチンを接種したことをXで報告…靴擦れ程度でも心配ならやっておいた方がいいと言われた→気になる方は検討してみては？",
-      "description": "千葉の大雨で泥水に長時間浸かったので、破傷風ワクチンを接種したことをXで報告…靴擦れ程度でも心配ならやっておいた方がいいと言われた→気になる方は検討してみては？",
-      "link": "https://togetter.com/li/2733666",
-      "pubDate": "Sun, 16 Aug 2026 12:24:47 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -273,19 +325,6 @@
       "link": "https://rocketnews24.com/2026/08/16/2787968/",
       "pubDate": "Sun, 16 Aug 2026 02:55:03 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/39783_0.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "味の素パークの公式アカウント、AIによる補正でぐちゃぐちゃになった「ほんだし」の画像をポストし、批判相次ぐ流れに「ブランド名すら違う」「AINOMOTO」",
-      "description": "味の素パークの公式アカウント、AIによる補正でぐちゃぐちゃになった「ほんだし」の画像をポストし、批判相次ぐ流れに「ブランド名すら違う」「AINOMOTO」",
-      "link": "https://togetter.com/li/2733655",
-      "pubDate": "Sun, 16 Aug 2026 11:47:34 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -587,32 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa249303.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "配信者・スタンミさん上半身裸の写真を投稿したところ「TKBが変」と笑われてしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557801.html",
-      "pubDate": "2026-08-16T05:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/624e1d23.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【遊戯王】『中島健人のオールナイトニッポン』にファン悲鳴！「ケンティーが何言ってるかわからないの！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557791.html",
-      "pubDate": "2026-08-16T04:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/2/22909779-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52456972.html",
       "pubDate": "2026-08-15T20:30:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/e/8e2820f2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "高市首相、靖国神社に遥拝",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456968.html",
-      "pubDate": "2026-08-15T20:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8f8d3dab.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,71 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "花冷え。、新曲「バリバリBuddy」がTVアニメ「転生したら剣でしたII」ED曲に",
+      "description": "花冷え。の新曲「バリバリBuddy」がTVアニメ「転生したら剣でしたII」エンディングテーマに決定した。 「転生したら剣でした」は、シリーズ累計発行部数430万部を突破する大人気無機物転生ファンタジー。2022年に放送さ [&#8230;]",
+      "link": "https://getnews.jp/archives/3737192",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【東京都渋谷区】「SHIBUYA FOOD ISLANDS」で“夏おすすめ”の手土産を展開！新店・POPUPも登場",
+      "description": "東急百貨店が運営する渋谷駅周辺に点在するフードエリア「SHIBUYA FOOD ISLANDS」は、お盆や帰省シーズンに向けた商品や夏の暑さに対応する商品を展開している。また、新店オープンやPOP UPストアの出店の情報 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737188",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【東京都中野区】水産卸・魚一が手がける、大分の食文化が楽しめる新たな酒場がニューオープン",
+      "description": "8月10日(月)にグランドオープンした「アブラヤクマハチ」 大分の食文化を楽しめる新たな酒場が8月10日(月)、東京都中野区にグランドオープンした。店名は「アブラヤクマハチ」。運営するのは、いずみホールディングス傘下で水 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737189",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "家庭で育てる「淡路島玉ねぎ」厳選ポット苗3品種の予約販売がスタート！",
+      "description": "福岡ソノリクの子会社である、兵庫県淡路島で玉ねぎ栽培を30年以上手がける農業法人・今井ファームが、家庭菜園を楽しむ個人向けに、淡路島を代表する玉ねぎの苗「レクスター」「七宝」「ターザン」3品種の予約販売をスタートした。  [&#8230;]",
+      "link": "https://getnews.jp/archives/3737190",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【東京都世田谷区】地域に防災用井戸を開放！家族で楽しく防災を学べる井戸汲み体験イベントを開催",
+      "description": "高原クリニック イノベーティブスキャンは、8月23日(日)に、クリニック敷地内のオープンスペースにて「夏休み 井戸汲み体験 ～楽しく学べる防災イベント～」を開催する。 イベント開催の背景 災害時にもっとも困るものの一つが [&#8230;]",
+      "link": "https://getnews.jp/archives/3737191",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【岐阜県岐阜市】出汁茶漬け専門店「りおん」に、岐阜ならではの食文化を取り入れた新メニューが登場",
       "description": "精神障害・発達障害のある女性が運営する、岐阜県岐阜市にある出汁茶漬け専門店「りおん」は、8月1日(土)より、新たな料理の提供を開始した。新メニューは、「国産鰻の出汁茶漬け」「鮎雑炊」「冷やしたぬき茶漬け」「明方ハムステー [&#8230;]",
       "link": "https://getnews.jp/archives/3737184",
@@ -1755,74 +1820,9 @@
       "link": "https://getnews.jp/archives/3737177",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "ログインできない不具合が発生 →現在は復旧済み / まだエラーが出るなら端末の再起動を試そう【ポケモンGO】",
-      "description": "8月15日の朝、『ポケモンGO』にログインできない不具合が発生し、多くのトレーナーがゲームを起動できない状態になっていました。   ※現在はすでに解消されています。 朝7時ごろから大規模なサーバーダウン 不具合が確認され [&#8230;]",
-      "link": "https://getnews.jp/archives/3737173",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【兵庫県猪名川町】「“きらっと☆オンリーワン”バザール(猪名川)」開催！焼き菓子や雑貨などを販売",
-      "description": "兵庫県阪神北県民局宝塚健康福祉事務所は、8月21日(金)、日生中央サピエの1階催事スペースで「“きらっと☆オンリーワン”バザール(猪名川)」を開催する。 宝塚健康福祉事務所の取り組み 兵庫県阪神北県民局宝塚健康福祉事務所 [&#8230;]",
-      "link": "https://getnews.jp/archives/3737178",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【山口県長門市】長門市を代表する香酸柑橘「長門ゆずきち」を使った「長門ゆずきちまんじゅう」が誕生",
-      "description": "「長門ゆずきちまんじゅう」を紹介する清水駅長 「長門ゆずきち」は、山口県長門市を代表する香酸柑橘だ。この度、「長門ゆずきち」を皮ごと使ったオリジナル和菓子「長門ゆずきちまんじゅう」が誕生。 山口県長門市の「道の駅センザキ [&#8230;]",
-      "link": "https://getnews.jp/archives/3737179",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "「atmos」Albino & Pretoとタッグを組んだ“GEL-KAYANO12.1”別注デザインを発売",
-      "description": "東京からストリートカルチャーを発信し続ける「atmos」は、この度「Albino &#38; Preto(アルビノ アンド プレト、以下A&#38;P)」とタッグを組み「ASICS SportStyle」の『GEL-KA [&#8230;]",
-      "link": "https://getnews.jp/archives/3737171",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【福井県福井市】さくら通り整形外科クリニックが交通事故ゼロTシャツ着用で診療し交通事故防止を発信",
-      "description": "福井県福井市にある「Eternabloom さくら通り整形外科クリニック」は、地域における交通事故防止への意識を高めることを目的に、「交通事故ゼロTシャツ」を制作。 毎月10日・20日・30日などの「0」のつく日を「交通 [&#8230;]",
-      "link": "https://getnews.jp/archives/3737180",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T05:55:14.994002",
+  "updatedAt": "2026-08-16T06:48:41.364686",
   "sites": [
     {
       "id": "hachima",
