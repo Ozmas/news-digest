@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "整形外科医として断言するけど、きゅうりやナスに割り箸が刺さった日本製の車は搭乗者の死亡率が高い「たしか9割ぐらいだったよな」",
+      "description": "整形外科医として断言するけど、きゅうりやナスに割り箸が刺さった日本製の車は搭乗者の死亡率が高い「たしか9割ぐらいだったよな」",
+      "link": "https://togetter.com/li/2733706",
+      "pubDate": "Sun, 16 Aug 2026 14:37:25 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "イギリスから日本旅行中“行方不明”の12歳少女が無事保護 →衝撃の理由で〇〇していたと判明ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557947.html",
+      "pubDate": "2026-08-16T14:30:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/57e752f2-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「クスクス…お兄さんはもうこの村から出られないんだよ…？」ド田舎のお盆特別ダイヤがクローズドサークルを生み出してた",
+      "description": "「クスクス…お兄さんはもうこの村から出られないんだよ…？」ド田舎のお盆特別ダイヤがクローズドサークルを生み出してた",
+      "link": "https://togetter.com/li/2733701",
+      "pubDate": "Sun, 16 Aug 2026 14:17:44 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -249,19 +288,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『ラヴ上等』、法務省が釈明したが止まらない批判…誹謗中傷を控えるよう声明が出たが、「殺人未遂」に相当する行為を犯した人物を出演させたことに様々な意見",
-      "description": "『ラヴ上等』、法務省が釈明したが止まらない批判…誹謗中傷を控えるよう声明が出たが、「殺人未遂」に相当する行為を犯した人物を出演させたことに様々な意見",
-      "link": "https://togetter.com/li/2733654",
-      "pubDate": "Sun, 16 Aug 2026 11:44:30 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -299,19 +325,6 @@
       "link": "http://blog.esuteru.com/archives/10557905.html",
       "pubDate": "2026-08-16T11:30:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/2/22dd8ff7-s.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "古くなった熊スプレーを私有地の山で処分したのだが、ほぼ「自爆覚悟」の製品だと分かった→「唐辛子の雲がどこに行くか分からない」「自分が行動不能になる可能性も高い」",
-      "description": "古くなった熊スプレーを私有地の山で処分したのだが、ほぼ「自爆覚悟」の製品だと分かった→「唐辛子の雲がどこに行くか分からない」「自分が行動不能になる可能性も高い」",
-      "link": "https://togetter.com/li/2733647",
-      "pubDate": "Sun, 16 Aug 2026 11:12:25 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -611,19 +624,6 @@
       "link": "https://jin115.com/archives/52456986.html",
       "pubDate": "2026-08-16T03:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/d/cddbcff1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "甲子園でありえない「ストライク」に非難殺到！その動画がコチラ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557790.html",
-      "pubDate": "2026-08-16T03:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f009fa2-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1698,6 +1698,58 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【岐阜県岐阜市】出汁茶漬け専門店「りおん」に、岐阜ならではの食文化を取り入れた新メニューが登場",
+      "description": "精神障害・発達障害のある女性が運営する、岐阜県岐阜市にある出汁茶漬け専門店「りおん」は、8月1日(土)より、新たな料理の提供を開始した。新メニューは、「国産鰻の出汁茶漬け」「鮎雑炊」「冷やしたぬき茶漬け」「明方ハムステー [&#8230;]",
+      "link": "https://getnews.jp/archives/3737184",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【城県仙台市】子どもやマイノリティが雑貨や飲食の売り子に！「あべこべマルシェvol.6」開催",
+      "description": "UBUNTUは、障がいのある子どもや地域の子どもなどが、ハンドメイド雑貨・飲食物の販売やワークショップなどの売り子となって活躍する「あべこべマルシェvol.6」を、9月12日(土)・13日(日)に宮城県仙台市の宮城野区文 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737185",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【東京都・神奈川県・新潟市・京都府・福岡県】“梅”と“茶殻”を使用した、新潟発のアップサイクル酒「レゾネコ 梅と茶」発売！",
+      "description": "新潟県新潟市のLAGOON BREWERY(ラグーンブリュワリー)は、新潟県阿賀町の麒麟山酒造から提供された梅酒製造後の梅の実と、新潟県村上市の冨士美園から提供されたお茶抽出後の茶殻を、米とともに発酵させたクラフトサケ( [&#8230;]",
+      "link": "https://getnews.jp/archives/3737186",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【東京都港区】マックスプランが自社ビル屋上で採れた天然はちみつを「麻布十番納涼まつり」で販売",
+      "description": "マックスプランは、港区麻布十番の一橋交差点にある自社ビル「MAXPLAN AZABU10(マックスプラン あざぶじゅう)ビル」屋上で採れた、非加熱・無添加の希少な国産(麻布十番産)天然はちみつ「Azabu10(あざぶじゅ [&#8230;]",
+      "link": "https://getnews.jp/archives/3737187",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【東京都千代田区】オークラヤ住宅が「秋葉原営業所」を開設！不動産の売却や購入、住みかえの相談に対応",
       "description": "オークラヤ住宅は、8月6日(木)、東京都千代田区神田松永町に「秋葉原営業所」を移転・オープンした。 オークラヤ住宅について オークラヤ住宅は、不動産の仲介、売買及び所有、中古住宅のリフォーム、その他不動産の関する相談を事 [&#8230;]",
       "link": "https://getnews.jp/archives/3737177",
@@ -1768,61 +1820,9 @@
       "link": "https://getnews.jp/archives/3737180",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【注意喚起】沖縄のカーシェアに忘れ物をして東京に戻るとどうなるのか",
-      "description": "沖縄のカーシェアに忘れ物をして東京に戻るとどうなるのか？ 注意喚起も含めて、詳細をお伝えしたいと思います。 今回のパターン 筆者は、沖縄県でカーシェアサービス「タイムズカー」を借りてドライブした際、小型カメラ「Insta [&#8230;]",
-      "link": "https://getnews.jp/archives/3736769",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【ライブレポ】ファントムシータが誘う、「かわいさ」と「恐怖」が共存する遊園地──Zeppツアー「ふぁんとむ♥らんど」",
-      "description": "自分がいるのは、現実なのか、それとも虚構の世界なのか。 Adoプロデュースの4人組アイドル、ファントムシータが初の全国Zeppツアー「ふぁんとむ&#x2665;らんど」で描き出したのは、そんな世にも奇妙な遊園地だった。か [&#8230;]",
-      "link": "https://getnews.jp/archives/3737170",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【群馬県高崎市】工具専門のリユースショップ「アクトツール高崎店」オープン！キャンペーンも",
-      "description": "全国に工具専門リユースショップを展開するアクトは、8月29日(土)に「アクトツール高崎店」を直営店として出店する。 8月24日(月)からは、プレオープン期間として先行買取を実施するという。 アクトについて アクトは、20 [&#8230;]",
-      "link": "https://getnews.jp/archives/3737166",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "古民家を再生した焙煎所「吉川電気商会COFFEE ROASTERS」がECサイトをオープン！",
-      "description": "大阪市北区の「Re.コミニケ」は、同社が運営する奈良県北葛城郡河合町にあるコーヒー焙煎所「吉川電気商会 COFFEE ROASTERS」のECサイトを、8月1日(土)にオープンした。古民家を再生した焙煎所を拠点に、スペシ [&#8230;]",
-      "link": "https://getnews.jp/archives/3737167",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T05:02:00.463918",
+  "updatedAt": "2026-08-16T05:55:14.994002",
   "sites": [
     {
       "id": "hachima",
