@@ -8,6 +8,32 @@
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "皮膚科の受診で医師が絶対白癬菌がいると検査をしたが、見つからず…その後、患者が市販の水虫薬を使用したと発言→水虫か他の病気かわからないので市販薬使用の前に受診を",
+      "description": "皮膚科の受診で医師が絶対白癬菌がいると検査をしたが、見つからず…その後、患者が市販の水虫薬を使用したと発言→水虫か他の病気かわからないので市販薬使用の前に受診を",
+      "link": "https://togetter.com/li/2733983",
+      "pubDate": "Mon, 17 Aug 2026 08:44:18 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】やす子さん、ガチのマジで変わり果てた姿で見つかる…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558143.html",
+      "pubDate": "2026-08-17T08:30:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/a/7ac9f4cb.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
       "title": "某店舗で買取70万円のカードを査定してもらったら、25万円…キャンセルしたら奥から店長が出てきて「相場が30万円なので、30万円」と言われ、断った→他店で50万円で売れた",
       "description": "某店舗で買取70万円のカードを査定してもらったら、25万円…キャンセルしたら奥から店長が出てきて「相場が30万円なので、30万円」と言われ、断った→他店で50万円で売れた",
       "link": "https://togetter.com/li/2733979",
@@ -379,19 +405,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/350ece16.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "だから週1しか来ない畑でオクラは育てないと決めていたのに…「マジで硬くて食べられない」→品種によっては食べられるらしく『いきなり楽しみになってきた』",
-      "description": "だから週1しか来ない畑でオクラは育てないと決めていたのに…「マジで硬くて食べられない」→品種によっては食べられるらしく『いきなり楽しみになってきた』",
-      "link": "https://togetter.com/li/2733875",
-      "pubDate": "Sun, 16 Aug 2026 23:12:27 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -507,19 +520,6 @@
       "link": "https://rocketnews24.com/2026/08/16/2791345/",
       "pubDate": "Sun, 16 Aug 2026 12:00:27 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2083a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【怖い話】初代ニンテンドースイッチ、発売からもうすぐ10年",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558022.html",
-      "pubDate": "2026-08-16T20:30:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4f3a2cb0.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T23:24:55.579877",
+  "updatedAt": "2026-08-16T23:47:03.451282",
   "sites": [
     {
       "id": "hachima",
