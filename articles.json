@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "キュアアルカナ・シャドウさん、光堕ちして驚きの白さに → さらに闇堕ちした真っ黒フォームも登場ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557960.html",
+      "pubDate": "2026-08-16T17:30:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/e/fe96b448.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【激安終了速報】亜人ちゃんは語りたい、対ありでした、さむわんへるつなどがKindle”実質半額”になるセール、本日8/16終了！手品先輩、おかえりアリスなども対象の学園マンガセール！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457003.html",
+      "pubDate": "2026-08-16T17:30:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fe37828.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "コミケ初参加だから勘違いしそうになってるんだけど、今年って過ごしやすさの面では当たり年ってことであってる？",
+      "description": "コミケ初参加だから勘違いしそうになってるんだけど、今年って過ごしやすさの面では当たり年ってことであってる？",
+      "link": "https://togetter.com/li/2733781",
+      "pubDate": "Sun, 16 Aug 2026 17:28:57 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "6年前の水野美紀さんの投稿に、今になって広瀬アリスさんが「申し訳ありませんが、私は踊る大捜査線、出てません」と引用→なぜ今？なぜ踊る大捜査線？謎だらけの展開に",
+      "description": "6年前の水野美紀さんの投稿に、今になって広瀬アリスさんが「申し訳ありませんが、私は踊る大捜査線、出てません」と引用→なぜ今？なぜ踊る大捜査線？謎だらけの展開に",
+      "link": "https://togetter.com/li/2733780",
+      "pubDate": "Sun, 16 Aug 2026 17:28:33 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "お店の予約やカスタマーセンターに電話したときに流れる「応対品質向上のため録音させていただきます」みたいな音声に対し「ムカつかない？ナメてるよな」と思う人がいる",
+      "description": "お店の予約やカスタマーセンターに電話したときに流れる「応対品質向上のため録音させていただきます」みたいな音声に対し「ムカつかない？ナメてるよな」と思う人がいる",
+      "link": "https://togetter.com/li/2733776",
+      "pubDate": "Sun, 16 Aug 2026 17:10:59 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "法務省「『ラヴ上等』とのコラボは決して犯罪を肯定するものでないです」⇒ 批判の嵐に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557956.html",
+      "pubDate": "2026-08-16T17:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/be22c6ce.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】ネコ好き男子は「モテない」ことが研究で判明してしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457005.html",
+      "pubDate": "2026-08-16T17:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/0/404617e8.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第103話「正夢・窓」",
+      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/16/2791303/",
+      "pubDate": "Sun, 16 Aug 2026 08:00:24 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/kikimimi107-1koma.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "千葉県にあるサバゲーフィールドが今回の豪雨で水没したがその状態でゲームを決行しベトナム戦かなにかのようになっている「楽しんだもの勝ち！」",
+      "description": "千葉県にあるサバゲーフィールドが今回の豪雨で水没したがその状態でゲームを決行しベトナム戦かなにかのようになっている「楽しんだもの勝ち！」",
+      "link": "https://togetter.com/li/2733765",
+      "pubDate": "Sun, 16 Aug 2026 16:41:31 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「黄河を見に行ってきた」日本の河川のイメージとは全く異なる姿と役割があり、文明生まれる感がめっちゃあった",
+      "description": "「黄河を見に行ってきた」日本の河川のイメージとは全く異なる姿と役割があり、文明生まれる感がめっちゃあった",
+      "link": "https://togetter.com/li/2733764",
+      "pubDate": "Sun, 16 Aug 2026 16:40:30 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -132,45 +262,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/6/461feee2.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『現道・旧道・旧々道』異なる時代の道が見渡せる場所があって興奮した「より安全にしていった歴史が見える」",
-      "description": "『現道・旧道・旧々道』異なる時代の道が見渡せる場所があって興奮した「より安全にしていった歴史が見える」",
-      "link": "https://togetter.com/li/2733722",
-      "pubDate": "Sun, 16 Aug 2026 15:23:13 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "警察に職業を聞かれ、「浪人生」と答えたら「浪人ってなにかな？」と意味が通じなかった→基本的に浪人生は職業ではない「無職と言えという圧ですよ」",
-      "description": "警察に職業を聞かれ、「浪人生」と答えたら「浪人ってなにかな？」と意味が通じなかった→基本的に浪人生は職業ではない「無職と言えという圧ですよ」",
-      "link": "https://togetter.com/li/2733719",
-      "pubDate": "Sun, 16 Aug 2026 15:19:40 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "お盆休みの海外旅行、行きはJALのファーストクラス、帰りはANAのファーストクラスだが、テレビモニターが反応せず充電不可…ビジネスクラスに移動→後日補償があるとのこと",
-      "description": "お盆休みの海外旅行、行きはJALのファーストクラス、帰りはANAのファーストクラスだが、テレビモニターが反応せず充電不可…ビジネスクラスに移動→後日補償があるとのこと",
-      "link": "https://togetter.com/li/2733715",
-      "pubDate": "Sun, 16 Aug 2026 15:06:11 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -195,32 +286,6 @@
       "link": "http://blog.esuteru.com/archives/10557946.html",
       "pubDate": "2026-08-16T15:00:13+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/4493da6a.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "コミケの一斉点検のときに「不審な物や人を見かけたら……」みたいな放送が流れる中、目の前を赤ピクミンが歩いて行って全員不審者だった",
-      "description": "コミケの一斉点検のときに「不審な物や人を見かけたら……」みたいな放送が流れる中、目の前を赤ピクミンが歩いて行って全員不審者だった",
-      "link": "https://togetter.com/li/2733713",
-      "pubDate": "Sun, 16 Aug 2026 14:56:34 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「これすなわち中身のカロリーはゼロ！」青森のコンビニで食べられる「なにも入ってません。」Xで注目が集まるが、本当に何も入っていないのか？",
-      "description": "「これすなわち中身のカロリーはゼロ！」青森のコンビニで食べられる「なにも入ってません。」Xで注目が集まるが、本当に何も入っていないのか？",
-      "link": "https://togetter.com/li/2733712",
-      "pubDate": "Sun, 16 Aug 2026 14:55:42 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -587,19 +652,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari52-1koma.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "物価高の影響で、具無しの麺が各コンビニ、スーパーで販売 → 大人気商品に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557854.html",
-      "pubDate": "2026-08-16T08:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/3/235c9c75-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -611,19 +663,6 @@
       "link": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
       "pubDate": "Sun, 16 Aug 2026 08:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「みいちゃんと山田さん」、ついに完結！ 最終話の内容に、ネット民驚愕してしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557851.html",
-      "pubDate": "2026-08-16T07:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78d5e4ba.png"
     },
     {
       "siteId": "jin",
@@ -728,32 +767,6 @@
       "link": "https://jin115.com/archives/52456974.html",
       "pubDate": "2026-08-15T22:30:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/41fb3a96.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "飲食店にある「AIで作ったみそカツのメニュー」絶妙にキモい見た目で食欲が失せると話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456973.html",
-      "pubDate": "2026-08-15T22:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/7/a7148268.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】マジでハチャメチャな喧嘩、激写される 想像の100倍ヤバイｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456956.html",
-      "pubDate": "2026-08-15T21:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/b/ab47219d.png"
     },
     {
       "siteId": "rocketnews",
@@ -1170,19 +1183,6 @@
       "link": "https://rocketnews24.com/2026/08/14/2790468/",
       "pubDate": "Fri, 14 Aug 2026 02:00:38 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/bjbs.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "天安門広場に観光で行く時に注意すべき3つの点（2026年版）",
-      "description": "旅先だと立ち寄りたくなる観光スポット。かつて浅草に住んでいた私（中澤）は雷門に全く興味が出なかったが、北京に行ったら天安門広場は見ておかなければいけない気がしてきた。行く機会が少ない場所ほど、有名な観光スポットに行きたく [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/14/2789837/",
-      "pubDate": "Fri, 14 Aug 2026 01:00:06 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/tenan5.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,32 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "新ブキ「PETシューター レプリカ」が追加決定 / 中身はスシコラ、入手には『レイダース』のクリアデータが必須【スプラトゥーン3】",
+      "description": "暑い日々が続くが、みなさんイカがお過ごしだろうか？ 8月14日『スプラトゥーン3』に新ブキ「PETシューター レプリカ」が追加されると発表があった。 元ネタは7月23日発売のスピンオフ『スプラトゥーン レイダース』に登場 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737076",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "毎日持ち歩ける「防災」。軽量・コンパクトでいつものバッグに入れておける防災アイテム3選",
+      "description": "いざというときのために、しっかり持っておきたい防災アイテム。 しかし一方で、収納の奥底にしまい込んでしまっては、使いたいときに取り出せません。 いつ何が起こるかわからないだけに、毎日持ち歩くバッグの中にこそ、防災に役立つ [&#8230;]",
+      "link": "https://getnews.jp/archives/3737202",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "たった2畳の仕事部屋で絶賛活躍中。「山崎実業のマルチラック」でデスクまわりに空間が生まれたよ",
       "description": "※本記事は2026年4月15日に公開された記事を再編集して掲載しています。 Text and Photographed by 小林ユリ 商品提供：山崎実業 筆者の仕事部屋は約2畳のコンパクトなスペース。だから、モノを置き [&#8230;]",
       "link": "https://getnews.jp/archives/3737198",
@@ -1794,35 +1820,9 @@
       "link": "https://getnews.jp/archives/3737190",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【東京都世田谷区】地域に防災用井戸を開放！家族で楽しく防災を学べる井戸汲み体験イベントを開催",
-      "description": "高原クリニック イノベーティブスキャンは、8月23日(日)に、クリニック敷地内のオープンスペースにて「夏休み 井戸汲み体験 ～楽しく学べる防災イベント～」を開催する。 イベント開催の背景 災害時にもっとも困るものの一つが [&#8230;]",
-      "link": "https://getnews.jp/archives/3737191",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【岐阜県岐阜市】出汁茶漬け専門店「りおん」に、岐阜ならではの食文化を取り入れた新メニューが登場",
-      "description": "精神障害・発達障害のある女性が運営する、岐阜県岐阜市にある出汁茶漬け専門店「りおん」は、8月1日(土)より、新たな料理の提供を開始した。新メニューは、「国産鰻の出汁茶漬け」「鮎雑炊」「冷やしたぬき茶漬け」「明方ハムステー [&#8230;]",
-      "link": "https://getnews.jp/archives/3737184",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T07:35:01.543620",
+  "updatedAt": "2026-08-16T08:35:20.432956",
   "sites": [
     {
       "id": "hachima",
