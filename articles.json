@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大谷翔平、熊本・ベネズエラ・カナダに総額1億6000万円超を寄付！凄すぎんだろ・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557937.html",
+      "pubDate": "2026-08-16T14:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7cc12525.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性さん、お盆に1人で映画を見に行くも後ろからとんでもない会話が聞こえてきて絶望してしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457004.html",
+      "pubDate": "2026-08-16T14:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/c/9c664e60-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "登山の際、屈強な男性ばかりのパーティーよりも、女性が1人でもいた方が遭難率が低い？男性だけだと誰かが倒れるまでタフさを競い合う我慢大会みたいになってしまうらしい",
+      "description": "登山の際、屈強な男性ばかりのパーティーよりも、女性が1人でもいた方が遭難率が低い？男性だけだと誰かが倒れるまでタフさを競い合う我慢大会みたいになってしまうらしい",
+      "link": "https://togetter.com/li/2733689",
+      "pubDate": "Sun, 16 Aug 2026 13:43:35 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "開業医「学校の健康診断でこういうケースが増加した結果、本来なら見落とされるはずがない症例が増えてきた。どうすんのこれ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557926.html",
+      "pubDate": "2026-08-16T13:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e0a48dd1.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ちいかわが怖いと感じる人、すみっコぐらしやカービィに来ませんか？両者の特徴はこんな感じです→労働からは逃れられなくて泣く「労災が登場！」",
+      "description": "ちいかわが怖いと感じる人、すみっコぐらしやカービィに来ませんか？両者の特徴はこんな感じです→労働からは逃れられなくて泣く「労災が登場！」",
+      "link": "https://togetter.com/li/2733683",
+      "pubDate": "Sun, 16 Aug 2026 13:29:50 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "報道にて千葉豪雨で水没した車のドラレコを流していたが、全然「逃げない」ことに驚きの声…こういう時にどうすれば良くて、どう周知するのか？今後の知見になるのでは？",
+      "description": "報道にて千葉豪雨で水没した車のドラレコを流していたが、全然「逃げない」ことに驚きの声…こういう時にどうすれば良くて、どう周知するのか？今後の知見になるのでは？",
+      "link": "https://togetter.com/li/2733682",
+      "pubDate": "Sun, 16 Aug 2026 13:23:56 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -236,19 +314,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「心底残念に感じております」とあるブランドのアロハシャツのイラストを担当したイラストレーターが、納品したイラストと実際の商品が全く異なる仕上がりになっていたと報告",
-      "description": "「心底残念に感じております」とあるブランドのアロハシャツのイラストを担当したイラストレーターが、納品したイラストと実際の商品が全く異なる仕上がりになっていたと報告",
-      "link": "https://togetter.com/li/2733643",
-      "pubDate": "Sun, 16 Aug 2026 11:09:58 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -273,32 +338,6 @@
       "link": "http://blog.esuteru.com/archives/10557900.html",
       "pubDate": "2026-08-16T11:00:22+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/c/0cf97d1e.png"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「なんで来た途端にクライマックスなんだよこのクソ因習村は！」陰陽師が来た時には怨霊が絶賛大暴れ、村は9割方滅んでる『因習村クライマックス』の勢いが良い",
-      "description": "「なんで来た途端にクライマックスなんだよこのクソ因習村は！」陰陽師が来た時には怨霊が絶賛大暴れ、村は9割方滅んでる『因習村クライマックス』の勢いが良い",
-      "link": "https://togetter.com/li/2732921",
-      "pubDate": "Sun, 16 Aug 2026 10:59:47 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "この夏読むべき最恐ラノベは『さようなら、私たちに優しくなかった、すべての人々』『君を狂気と呼ぶのなら』の2冊です、心の準備が必要なレベルで重いけど読んでほしい",
-      "description": "この夏読むべき最恐ラノベは『さようなら、私たちに優しくなかった、すべての人々』『君を狂気と呼ぶのなら』の2冊です、心の準備が必要なレベルで重いけど読んでほしい",
-      "link": "https://togetter.com/li/2732886",
-      "pubDate": "Sun, 16 Aug 2026 10:46:57 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -587,32 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f009fa2-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ポケットペア責任者「パルワールドは多数のコラボ依頼を断っている。不自然すぎるコラボは進めたくない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557823.html",
-      "pubDate": "2026-08-16T02:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/2/22cb960a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "死産した子どもを冷凍庫に3年8ヶ月保管し続けた30代母親に有罪判決…袋には「大好きだよ」と書かれたメモ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557822.html",
-      "pubDate": "2026-08-16T01:30:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/6/3606608f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +767,6 @@
       "link": "https://rocketnews24.com/2026/08/15/2788409/",
       "pubDate": "Sat, 15 Aug 2026 10:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_6911.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ショートスリーパー堀大輔さん、健康診断で申告している「真の睡眠時間」がバレて終わるｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456966.html",
-      "pubDate": "2026-08-15T19:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/6/b636f325.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【東京都千代田区】オークラヤ住宅が「秋葉原営業所」を開設！不動産の売却や購入、住みかえの相談に対応",
+      "description": "オークラヤ住宅は、8月6日(木)、東京都千代田区神田松永町に「秋葉原営業所」を移転・オープンした。 オークラヤ住宅について オークラヤ住宅は、不動産の仲介、売買及び所有、中古住宅のリフォーム、その他不動産の関する相談を事 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737177",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "ログインできない不具合が発生 →現在は復旧済み / まだエラーが出るなら端末の再起動を試そう【ポケモンGO】",
       "description": "8月15日の朝、『ポケモンGO』にログインできない不具合が発生し、多くのトレーナーがゲームを起動できない状態になっていました。   ※現在はすでに解消されています。 朝7時ごろから大規模なサーバーダウン 不具合が確認され [&#8230;]",
       "link": "https://getnews.jp/archives/3737173",
@@ -1711,9 +1724,48 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【兵庫県猪名川町】「“きらっと☆オンリーワン”バザール(猪名川)」開催！焼き菓子や雑貨などを販売",
+      "description": "兵庫県阪神北県民局宝塚健康福祉事務所は、8月21日(金)、日生中央サピエの1階催事スペースで「“きらっと☆オンリーワン”バザール(猪名川)」を開催する。 宝塚健康福祉事務所の取り組み 兵庫県阪神北県民局宝塚健康福祉事務所 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737178",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【山口県長門市】長門市を代表する香酸柑橘「長門ゆずきち」を使った「長門ゆずきちまんじゅう」が誕生",
+      "description": "「長門ゆずきちまんじゅう」を紹介する清水駅長 「長門ゆずきち」は、山口県長門市を代表する香酸柑橘だ。この度、「長門ゆずきち」を皮ごと使ったオリジナル和菓子「長門ゆずきちまんじゅう」が誕生。 山口県長門市の「道の駅センザキ [&#8230;]",
+      "link": "https://getnews.jp/archives/3737179",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "「atmos」Albino & Pretoとタッグを組んだ“GEL-KAYANO12.1”別注デザインを発売",
       "description": "東京からストリートカルチャーを発信し続ける「atmos」は、この度「Albino &#38; Preto(アルビノ アンド プレト、以下A&#38;P)」とタッグを組み「ASICS SportStyle」の『GEL-KA [&#8230;]",
       "link": "https://getnews.jp/archives/3737171",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【福井県福井市】さくら通り整形外科クリニックが交通事故ゼロTシャツ着用で診療し交通事故防止を発信",
+      "description": "福井県福井市にある「Eternabloom さくら通り整形外科クリニック」は、地域における交通事故防止への意識を高めることを目的に、「交通事故ゼロTシャツ」を制作。 毎月10日・20日・30日などの「0」のつく日を「交通 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737180",
       "pubDate": "",
       "thumbnail": ""
     },
@@ -1768,61 +1820,9 @@
       "link": "https://getnews.jp/archives/3737167",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "冷蔵庫内は食材不足なので、こんな夜ごはんに【こぐれひでこの｢ごはん日記｣】",
-      "description": "8月5日 昼ごはん 先日いただいたマルセイユ土産のサーディン缶、オニオンスライス、アンチョビ、レモン、大葉をプラスしたサラダ。 サーディンが美味しいの。 レモンとパルミジャーノの生パスタ。参考にしたのはyoutube「フ [&#8230;]",
-      "link": "https://getnews.jp/archives/3737172",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "石川県金沢市の「SALINA」と「四十萬谷本舗」が、2種類のコラボピッツァを新発売！",
-      "description": "フレッシュトマトと花きんじょうのピッツァ 石川県金沢市に本社を構える四十萬谷本舗(しじまやほんぽ)が、8月8日(土)より、真のナポリピッツァ協会認定店である金沢の人気ピッツェリア「SALINA(サリーナ)」とコラボしたオ [&#8230;]",
-      "link": "https://getnews.jp/archives/3737168",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【浦和】全店舗で唯一「油そば」を食べられる富士そばに行ってみた結果 →これはすごくいい！",
-      "description": "東京都内を中心に展開している人気立ち食いそばチェーンの「名代 富士そば」（以下、富士そば）。 基本的なメニューは全店舗共通ですが、実は意外と店舗限定のメニューもあったりするのをご存知でしょうか。 浦和仲町店限定には油そば [&#8230;]",
-      "link": "https://getnews.jp/archives/3737137",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【東京都中央区】東京駅徒歩圏のシェア型オフィスの初期費用・月額利用料(最大3ヶ月)が全額免除！",
-      "description": "LOOPLACEが運営する、少人数のスタートアップや成長初期のチームに向けた小規模シェアオフィス「＆PLACE 京橋(アンドプレイス京橋)」は、8月5日(水)より、フリープランを対象とした「契約事務手数料・月額利用料金3 [&#8230;]",
-      "link": "https://getnews.jp/archives/3737169",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T04:09:09.668483",
+  "updatedAt": "2026-08-16T05:02:00.463918",
   "sites": [
     {
       "id": "hachima",
