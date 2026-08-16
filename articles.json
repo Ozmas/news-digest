@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "家を買う経済力がないまま50歳を過ぎて、この先も賃貸住まいの予定だが、引越しするにももう年齢が厳しい…賃貸は何歳まで住めるのだろうか？→様々なアドバイスが集まる",
+      "description": "家を買う経済力がないまま50歳を過ぎて、この先も賃貸住まいの予定だが、引越しするにももう年齢が厳しい…賃貸は何歳まで住めるのだろうか？→様々なアドバイスが集まる",
+      "link": "https://togetter.com/li/2733976",
+      "pubDate": "Mon, 17 Aug 2026 07:25:08 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本国旗にバツ印を付けて「日の丸いらない」とデモ行進→「国旗損壊じゃねえか。早く逮捕しろよ」→結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457037.html",
+      "pubDate": "2026-08-17T07:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9e73e514.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "これ解決できなくない!? 憑りつかれたクラスメイト！　四コマサボタージュFB第66回「原因」",
+      "description": "ホラーやオカルトの業界って微妙な流行りがあるよね。今の人気はモキュメンタリーなのかな。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/17/2789421/",
+      "pubDate": "Sun, 16 Aug 2026 22:00:51 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-66.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】先週まで『ちいかわ』を冷笑していた人、現在のまさかの末路がこちらｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558129.html",
+      "pubDate": "2026-08-17T07:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7d3040c6.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -431,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4f3a2cb0.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "豪雨に見舞われた千葉、県内で30代の男性が室内で発動発電機を使用し、一酸化炭素中毒で死亡する→なぜ室内で使ったの？「普通に臭くて耐えられないと思うけど」",
-      "description": "豪雨に見舞われた千葉、県内で30代の男性が室内で発動発電機を使用し、一酸化炭素中毒で死亡する→なぜ室内で使ったの？「普通に臭くて耐えられないと思うけど」",
-      "link": "https://togetter.com/li/2733823",
-      "pubDate": "Sun, 16 Aug 2026 20:25:26 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -520,19 +559,6 @@
       "link": "https://gigazine.net/news/20260816-gamer-air-traffic-controller/",
       "pubDate": "Sun, 16 Aug 2026 19:19:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【注意】コミケでサークル向けに怪しいアンケートが配られていると話題に！チラシには謎のQRコード",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558015.html",
-      "pubDate": "2026-08-16T19:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/20b59fe9.jpg"
     },
     {
       "siteId": "jin",
@@ -847,19 +873,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/tonari52-1koma.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女子大生「友達がアイロンビーズをAmazonしてくれた！さっそく開封しよ！」ﾊﾟｶｯ → 中から大人の〇〇が出てきて終わるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456971.html",
-      "pubDate": "2026-08-16T08:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/84ec26d5-s.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -1157,19 +1170,6 @@
       "link": "https://rocketnews24.com/2026/08/14/2789835/",
       "pubDate": "Fri, 14 Aug 2026 08:00:23 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/7b55ac4e-84fd-4211-b3fa-12c1a4422451.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "残り6店舗となった『から揚げの天才』に潜入！ 怪物の気配がする「二郎系チーズ唐揚げ丼」を食べてみた結果",
-      "description": "一世を風靡した……とまでは言わないものの、一時期かなり勢いがあった『から揚げの天才』をあなたは覚えているだろうか？　テリー伊藤さんがキャラクターを務めたワタミ系列のから揚げ店である。 2026年8月現在、店舗数は6店舗ま [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/14/2788439/",
-      "pubDate": "Fri, 14 Aug 2026 02:55:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2781.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "レトルトとは思えない「お気に入りのとうもろこし料理」。お弁当にもぴったりだよ",
+      "description": "とうもろこしの旬がやってきました。 改めておいしさに気づいた人が多いのか、今年は特にカフェやレストランのメニューで見かけることが多く、とうもろこし好きには嬉しい夏。ニョッキにケーキに、変わり種を楽しんでいます。 それでも [&#8230;]",
+      "link": "https://getnews.jp/archives/3737242",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【脳トレ】「研」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
       "description": "画像に並んだたくさんの「研」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「研」とは違う文字が！？   画像の中には、 [&#8230;]",
       "link": "https://getnews.jp/archives/3737239",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3737218",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【福岡県北九州市】「門司港レトロ 渦寿司-UZU-」オープン！職人が握る本格寿司を手頃な価格で提供",
-      "description": "福岡県北九州市の「サン・ルート」は、7月24日(金)に北九州市門司区の新施設「AMAZING SPOT MOJIKO」の2階(「BEB5 門司港 by 星野リゾート」併設施設)に、職人の本格手握りと配膳レーンを融合させた [&#8230;]",
-      "link": "https://getnews.jp/archives/3737220",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T21:47:19.844305",
+  "updatedAt": "2026-08-16T22:26:17.286450",
   "sites": [
     {
       "id": "hachima",
