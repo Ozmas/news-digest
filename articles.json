@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ヤバすぎ】45歳男、公演で寝そべっていた20歳男性の頭を全力で踏みつけ逮捕… 踏まれた男性は骨を折る重傷",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558021.html",
+      "pubDate": "2026-08-16T20:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/ab36dcf1.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気女性VTuber「1年間ほぼ毎日男性器の画像送ってきてた奴が急に送ってこなくなった。どうしたんだろ」 → とんでもないことになっていたｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457020.html",
+      "pubDate": "2026-08-16T20:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/2/e2f2b4f1-s.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "女性創業者のスタートアップが株式上場や大企業による買収を達成しにくいのはなぜか？",
+      "description": "急進的なアイデアを強みに短期間での成長を狙うスタートアップ起業は、株を所有する出資者が資金を回収するための方法として、「株式市場への上場」や「大企業による買収」を狙います。これらは「出口戦略(イグジット)」と呼ばれますが、新たな研究では女性創業者がいるスタートアップはイグジットを達成する可能性が低いことや、女性創業者のデメリットをなくす方法が明らかになりました。続きを読む...",
+      "link": "https://gigazine.net/news/20260816-women-founders-start-ups-exit-less/",
+      "pubDate": "Sun, 16 Aug 2026 20:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -652,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/e/fe4ac91d.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "とあるテスラオーナー、隣人ガチャ大外れして嘆いてしまう… 「完璧に不法侵入だからなぁ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557878.html",
-      "pubDate": "2026-08-16T10:30:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9ef726c4-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -819,19 +845,6 @@
       "link": "https://jin115.com/archives/52456979.html",
       "pubDate": "2026-08-16T01:00:30+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/d/ddb0c92e-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "スピードワゴン・小沢さん、自粛期間中に中卒からとんでもない大学へ進学していたことを告白ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456978.html",
-      "pubDate": "2026-08-16T00:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4797724.png"
     },
     {
       "siteId": "rocketnews",
@@ -1104,19 +1117,6 @@
       "description": "Linuxデスクトップからのウェブアクセスが、ある平日に全デスクトップ向けトラフィックの約22％を占めるまで急増していたことがCloudflareのデータから明らかになりました。一般的なOSシェア統計ではLinuxのデスクトップシェアは5％前後とされることが多いため、約22％というシェアは異常に高い数字です。続きを読む...",
       "link": "https://gigazine.net/news/20260814-linux-desktop-cloudflare/",
       "pubDate": "Fri, 14 Aug 2026 21:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある",
-      "description": "ChatGPTで知られるOpenAIの社内には、サム・アルトマンCEOや社長のグレッグ・ブロックマン氏など経営陣に直接業務における問題を報告して迅速な解決を求める「friction」というメールアドレスがあると元従業員が明かしました。続きを読む...",
-      "link": "https://gigazine.net/news/20260814-openai-special-address/",
-      "pubDate": "Fri, 14 Aug 2026 20:30:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T10:52:27.637656",
+  "updatedAt": "2026-08-16T11:24:51.993474",
   "sites": [
     {
       "id": "hachima",
