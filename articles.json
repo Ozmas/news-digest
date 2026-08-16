@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "これは裏技なのだが焼肉ライクの鶏肉は焼く前にレモン汁を染み込ませて焼くと体感256倍うまくなる、焼いた上でレモン汁をつけて食べると512倍うまくなる、満足度は1024倍",
+      "description": "これは裏技なのだが焼肉ライクの鶏肉は焼く前にレモン汁を染み込ませて焼くと体感256倍うまくなる、焼いた上でレモン汁をつけて食べると512倍うまくなる、満足度は1024倍",
+      "link": "https://togetter.com/li/2733796",
+      "pubDate": "Sun, 16 Aug 2026 18:27:35 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "片山さつき財務相「女子サッカーを男子並にするのは意味がある。政府や経済界が投資すれば目指す女子が増える」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557969.html",
+      "pubDate": "2026-08-16T18:20:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/db1046cf-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "AIに丸投げで開発したと言われるとバグが多そうに見えるし、AIを使わずに開発したと言われてもバグが多そうに見える、結局デバッグは避けて通れないしバランスが大事",
+      "description": "AIに丸投げで開発したと言われるとバグが多そうに見えるし、AIを使わずに開発したと言われてもバグが多そうに見える、結局デバッグは避けて通れないしバランスが大事",
+      "link": "https://togetter.com/li/2733791",
+      "pubDate": "Sun, 16 Aug 2026 18:17:24 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ひょっとしてA級戦犯について「A級だから1番悪いヤツらなんだ」と勘違いしてる人が一定数いらっしゃる？→A級戦犯はランクでもないし永久戦犯でもないんですよ",
+      "description": "ひょっとしてA級戦犯について「A級だから1番悪いヤツらなんだ」と勘違いしてる人が一定数いらっしゃる？→A級戦犯はランクでもないし永久戦犯でもないんですよ",
+      "link": "https://togetter.com/li/2733787",
+      "pubDate": "Sun, 16 Aug 2026 18:11:28 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "有名絵師さん、コミケブースで二次創作イラストの色紙を「オークション」にして荒稼ぎ→◯◯が理由で大炎上してしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457017.html",
+      "pubDate": "2026-08-16T18:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/f/ff2c8e33.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【炎上】加藤登紀子さん、サンモニで「北方領土はロシアの領土。日本は抗議できる立場にない」発言 → TBSが即訂正",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557968.html",
+      "pubDate": "2026-08-16T18:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c24d417b.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "無料でオープンソースの写真撮影ワークフローアプリ「darktable」、RAW現像も可能",
+      "description": "写真の選別やRAW現像、部分的な色補正からJPEGへの書き出しまでをまとめて行え、被写体を自動選択するAIマスクやAIノイズ除去もPC内で処理できる無料でオープンソースの写真ワークフローアプリ「darktable」が公開されています。続きを読む...",
+      "link": "https://gigazine.net/news/20260816-darktable/",
+      "pubDate": "Sun, 16 Aug 2026 18:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "アリババのAI「Qwen」が6カ月間に30億回ダウンロードされる世界1位のAIモデルに",
+      "description": "中国・アリババ(阿里巴巴)が展開しているオープンウェイトAIモデル「Qwen」シリーズが、過去6カ月間で30億回ダウンロードされたことがわかりました。この数字は国外各社や国内のライバルを上回るものです。続きを読む...",
+      "link": "https://gigazine.net/news/20260816-alibaba-qwen-3-billion-downloads/",
+      "pubDate": "Sun, 16 Aug 2026 17:45:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "最近食べすぎていたので食事制限→カップラーメンが猛烈に食べたくなり、スープを残せばいいかと具と麺を完食→ふと横のカロリー表示を見て驚愕",
+      "description": "最近食べすぎていたので食事制限→カップラーメンが猛烈に食べたくなり、スープを残せばいいかと具と麺を完食→ふと横のカロリー表示を見て驚愕",
+      "link": "https://togetter.com/li/2733784",
+      "pubDate": "Sun, 16 Aug 2026 17:35:40 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -158,45 +275,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0b662220.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "日本の給与が上がらないのは「解雇規制」が原因？日本銀行のデフレに関する記事から「流動性が高まる」「逆に給料が下がるのでは」などとさまざまな意見が集まる",
-      "description": "日本の給与が上がらないのは「解雇規制」が原因？日本銀行のデフレに関する記事から「流動性が高まる」「逆に給料が下がるのでは」などとさまざまな意見が集まる",
-      "link": "https://togetter.com/li/2733752",
-      "pubDate": "Sun, 16 Aug 2026 16:23:09 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "千葉豪雨で発生した大量の放置車両に対して千葉市長が対応状況と課題を解説している→法的なことだったりレッカー車が足りなかったりとかなり大変な模様",
-      "description": "千葉豪雨で発生した大量の放置車両に対して千葉市長が対応状況と課題を解説している→法的なことだったりレッカー車が足りなかったりとかなり大変な模様",
-      "link": "https://togetter.com/li/2733747",
-      "pubDate": "Sun, 16 Aug 2026 16:11:28 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "予備校講師がUberで配達を頼んだら、元生徒から手書きの手紙が…無事に大学進学を果たし、今はAFURIで働いているので店に来てほしいとのこと→感謝を伝えたい意志を感じる",
-      "description": "予備校講師がUberで配達を頼んだら、元生徒から手書きの手紙が…無事に大学進学を果たし、今はAFURIで働いているので店に来てほしいとのこと→感謝を伝えたい意志を感じる",
-      "link": "https://togetter.com/li/2733742",
-      "pubDate": "Sun, 16 Aug 2026 16:02:13 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -233,19 +311,6 @@
       "description": "イーロン・マスク氏率いるSpaceXが、AIコーディングツール・Cursorの開発元であるAnysphereの買収を完了させました。続きを読む...",
       "link": "https://gigazine.net/news/20260816-spacex-officially-closes-cursor-acquisition/",
       "pubDate": "Sun, 16 Aug 2026 16:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "男の人って普段写真を撮らないのにラーメンは撮るのはなぜ？→その理由に様々な意見が集まる「スタバ」「自分の思い出」「食事管理」",
-      "description": "男の人って普段写真を撮らないのにラーメンは撮るのはなぜ？→その理由に様々な意見が集まる「スタバ」「自分の思い出」「食事管理」",
-      "link": "https://togetter.com/li/2733740",
-      "pubDate": "Sun, 16 Aug 2026 15:57:29 +0900",
       "thumbnail": ""
     },
     {
@@ -574,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c28b052c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "靖国神社周辺で、今年も「8・15反『靖国』デモ」が行われる → セーラームーンのコスプレをした中年男性が叫び、警察官らが真顔で対応するｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557883.html",
-      "pubDate": "2026-08-16T09:24:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d8a5576.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -611,19 +663,6 @@
       "link": "https://jin115.com/archives/52456982.html",
       "pubDate": "2026-08-16T09:00:01+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "とあるSAがAIで作ったと思われる味噌カツのメニュー写真があまりにもきしょいと話題に…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557857.html",
-      "pubDate": "2026-08-16T08:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/1/f12c5c75.jpg"
     },
     {
       "siteId": "jin",
@@ -754,19 +793,6 @@
       "link": "https://jin115.com/archives/52456967.html",
       "pubDate": "2026-08-15T23:00:39+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/6/a612e3bd-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "漫画版『クラスで2番目に可愛い女の子と友だちになった』最新8巻まで「50％ポイント還元」セール！2,992円分返ってくる！「次にくるラノベ大賞」1位の人気ラブコメ！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456974.html",
-      "pubDate": "2026-08-15T22:30:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/41fb3a96.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1081,19 +1107,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "TikTokでものを買う人が急増中、2026年上半期だけで前年比92％増の約8兆円",
-      "description": "2026年上半期に「TikTok Shop」でユーザーが支払った金額が前年同期比で92％増加という驚異的な成長を見せていることがTikTokに関するレポートから判明しました。今後も成長は続き、2026年末までに倍増すると推定されています。続きを読む...",
-      "link": "https://gigazine.net/news/20260814-tiktok-shop/",
-      "pubDate": "Fri, 14 Aug 2026 19:57:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1105,19 +1118,6 @@
       "link": "https://rocketnews24.com/2026/08/14/2783609/",
       "pubDate": "Fri, 14 Aug 2026 10:00:27 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_1868.jpg"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "仮想の鳩を使ってメッセージを送信するアプリ「Carrier Pidge」",
-      "description": "即座にメッセージを送信するのではなく、仮想の伝書鳩を飛ばして時間をかけて送信するアプリ「Carrier Pidge」が公開されました。送信時間はユーザーの実際の位置によって異なり、鳩はたまに迷子になってしまうそうです。続きを読む...",
-      "link": "https://gigazine.net/news/20260814-carrier-pidge/",
-      "pubDate": "Fri, 14 Aug 2026 19:00:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,58 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "ニトリのブックスタンド、本当に1冊でも倒れなかった！1500円で日常の小さなストレスが解消されました",
+      "description": "本棚やデスク横に、読みかけの本やよく使う本を置いておきたい。でも、本が数冊しかない状態って意外と収納しづらいものです。 ブックエンドで支えても、本を1冊抜いた瞬間に隣の本まで倒れてしまったり、気づけば本が斜めになっていた [&#8230;]",
+      "link": "https://getnews.jp/archives/3737206",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "ちょっと変わったいつもの事。通りがかりにお隣さんの愛犬が・・横目でチラッと見てくる【海外・動画】",
+      "description": "いつものように外を歩く撮影者さん。 この道を歩くと、いつも『ある事』が待っているのだそうですよ！ 外を歩くと ご紹介するのは、アイルランドの都市ダブリンの住宅街で撮影された映像です。 撮影者さんは、いつものように家の前の [&#8230;]",
+      "link": "https://getnews.jp/archives/3737205",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【大阪府大阪市】WIND AND SEA×PaRappa the Rapper、Tシャツなどコラボコレクション発表！POP UPも",
+      "description": "WIND AND SEA(ウィンダンシー)は、世界中で愛されるキャラクターPaRappa the Rapper(パラッパラッパー)とのコラボレーションコレクションを発表！ また、PaRappa the Rapperの30 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737203",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【群馬県館林市】行政とまちづくり会社が連携した飲食施設「遠藤醸造所 ENDO BREWERY」館林駅前に誕生",
+      "description": "群馬県館林市は、館林アーバンデザインとプロシードとの3者連携による地域活性化策として、クラフトビールを楽しめる飲食施設「遠藤醸造所 ENDO BREWERY」を東武鉄道・館林駅西口駅前広場に5月25日(月)にオープンした [&#8230;]",
+      "link": "https://getnews.jp/archives/3737204",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "新ブキ「PETシューター レプリカ」が追加決定 / 中身はスシコラ、入手には『レイダース』のクリアデータが必須【スプラトゥーン3】",
       "description": "暑い日々が続くが、みなさんイカがお過ごしだろうか？ 8月14日『スプラトゥーン3』に新ブキ「PETシューター レプリカ」が追加されると発表があった。 元ネタは7月23日発売のスピンオフ『スプラトゥーン レイダース』に登場 [&#8230;]",
       "link": "https://getnews.jp/archives/3737076",
@@ -1768,61 +1820,9 @@
       "link": "https://getnews.jp/archives/3737197",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "花冷え。、新曲「バリバリBuddy」がTVアニメ「転生したら剣でしたII」ED曲に",
-      "description": "花冷え。の新曲「バリバリBuddy」がTVアニメ「転生したら剣でしたII」エンディングテーマに決定した。 「転生したら剣でした」は、シリーズ累計発行部数430万部を突破する大人気無機物転生ファンタジー。2022年に放送さ [&#8230;]",
-      "link": "https://getnews.jp/archives/3737192",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【東京都渋谷区】「SHIBUYA FOOD ISLANDS」で“夏おすすめ”の手土産を展開！新店・POPUPも登場",
-      "description": "東急百貨店が運営する渋谷駅周辺に点在するフードエリア「SHIBUYA FOOD ISLANDS」は、お盆や帰省シーズンに向けた商品や夏の暑さに対応する商品を展開している。また、新店オープンやPOP UPストアの出店の情報 [&#8230;]",
-      "link": "https://getnews.jp/archives/3737188",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【東京都中野区】水産卸・魚一が手がける、大分の食文化が楽しめる新たな酒場がニューオープン",
-      "description": "8月10日(月)にグランドオープンした「アブラヤクマハチ」 大分の食文化を楽しめる新たな酒場が8月10日(月)、東京都中野区にグランドオープンした。店名は「アブラヤクマハチ」。運営するのは、いずみホールディングス傘下で水 [&#8230;]",
-      "link": "https://getnews.jp/archives/3737189",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "家庭で育てる「淡路島玉ねぎ」厳選ポット苗3品種の予約販売がスタート！",
-      "description": "福岡ソノリクの子会社である、兵庫県淡路島で玉ねぎ栽培を30年以上手がける農業法人・今井ファームが、家庭菜園を楽しむ個人向けに、淡路島を代表する玉ねぎの苗「レクスター」「七宝」「ターザン」3品種の予約販売をスタートした。  [&#8230;]",
-      "link": "https://getnews.jp/archives/3737190",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T08:35:20.432956",
+  "updatedAt": "2026-08-16T09:31:52.007244",
   "sites": [
     {
       "id": "hachima",
