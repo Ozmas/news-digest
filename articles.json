@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "だから週1しか来ない畑でオクラは育てないと決めていたのに…「マジで硬くて食べられない」→品種によっては食べられるらしく『いきなり楽しみになってきた』",
+      "description": "だから週1しか来ない畑でオクラは育てないと決めていたのに…「マジで硬くて食べられない」→品種によっては食べられるらしく『いきなり楽しみになってきた』",
+      "link": "https://togetter.com/li/2733875",
+      "pubDate": "Sun, 16 Aug 2026 23:12:27 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【エグすぎ】千葉豪雨で水没し放置された車両は約2700台…多すぎてレッカー車の手配できず職員が手で押して動かす",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558049.html",
+      "pubDate": "2026-08-16T23:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c20c9f69.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「地下室の壁掘ってみるわ」 → 人生が変わる凄すぎる物が出てきて世界中が騒然ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457021.html",
+      "pubDate": "2026-08-16T23:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/327dbb3b-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -340,19 +379,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/aa_IMG_8622_noEXIF.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "地方民の疑問なんだけど、東京に住んでる人ってやっぱり芸能人に遭遇するもんなの？→ロケや撮影中に見かけることはある、それよりYouTuberやTikTokerの方がよく見る",
-      "description": "地方民の疑問なんだけど、東京に住んでる人ってやっぱり芸能人に遭遇するもんなの？→ロケや撮影中に見かけることはある、それよりYouTuberやTikTokerの方がよく見る",
-      "link": "https://togetter.com/li/2733808",
-      "pubDate": "Sun, 16 Aug 2026 18:59:53 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -626,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/c/9c664e60-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "開業医「学校の健康診断でこういうケースが増加した結果、本来なら見落とされるはずがない症例が増えてきた。どうすんのこれ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557926.html",
-      "pubDate": "2026-08-16T13:30:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e0a48dd1.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -845,19 +858,6 @@
       "link": "https://jin115.com/archives/52456987.html",
       "pubDate": "2026-08-16T05:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa249303.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国と韓国、高市内閣の靖国神社参拝に激怒",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456986.html",
-      "pubDate": "2026-08-16T03:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/d/cddbcff1.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T13:35:04.490844",
+  "updatedAt": "2026-08-16T14:28:18.609033",
   "sites": [
     {
       "id": "hachima",
