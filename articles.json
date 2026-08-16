@@ -8,6 +8,32 @@
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「東北のもの悲しさって、東北に来てみないとわからないというか。なんかどことない寂しさがあるよ」→東北出身者でも同じように感じるらしい…夏休みが短いとの声も",
+      "description": "「東北のもの悲しさって、東北に来てみないとわからないというか。なんかどことない寂しさがあるよ」→東北出身者でも同じように感じるらしい…夏休みが短いとの声も",
+      "link": "https://togetter.com/li/2733977",
+      "pubDate": "Mon, 17 Aug 2026 07:42:03 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】同人作家さん「初めて印刷所から『えちち過ぎるので印刷できません』と断られてしまった」　→　その同人誌がこちらｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558135.html",
+      "pubDate": "2026-08-17T07:30:43+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/6/4/642e566d.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
       "title": "家を買う経済力がないまま50歳を過ぎて、この先も賃貸住まいの予定だが、引越しするにももう年齢が厳しい…賃貸は何歳まで住めるのだろうか？→様々なアドバイスが集まる",
       "description": "家を買う経済力がないまま50歳を過ぎて、この先も賃貸住まいの予定だが、引越しするにももう年齢が厳しい…賃貸は何歳まで住めるのだろうか？→様々なアドバイスが集まる",
       "link": "https://togetter.com/li/2733976",
@@ -457,19 +483,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2083a.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「読書好きが絶対に許さない本の置き方」というXの投稿に賛否両論が集まるが、どちらかといえば怒るのは「読書好き」ではないのでは？",
-      "description": "「読書好きが絶対に許さない本の置き方」というXの投稿に賛否両論が集まるが、どちらかといえば怒るのは「読書好き」ではないのでは？",
-      "link": "https://togetter.com/li/2733832",
-      "pubDate": "Sun, 16 Aug 2026 20:51:09 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -520,19 +533,6 @@
       "link": "https://gigazine.net/news/20260816-women-founders-start-ups-exit-less/",
       "pubDate": "Sun, 16 Aug 2026 20:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "眞鍋かをりさん「消費減税は選挙の時のお約束じゃないですか。反対している人たちは筋通らなくないですか？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558018.html",
-      "pubDate": "2026-08-16T19:30:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/4/c4923022.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T22:26:17.286450",
+  "updatedAt": "2026-08-16T22:49:54.985964",
   "sites": [
     {
       "id": "hachima",
