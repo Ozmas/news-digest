@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【今週発売ゲーム】『シュタインズ・ゲート リブート』『MORTAL SHELL II』ほか、8月17～23日発売タイトルまとめ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557475.html",
+      "pubDate": "2026-08-17T00:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/374b48f6.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ゲーム開発者「引退します。最後に僕のゲームが売れない理由を教えてください」→これ、お前らどう思う？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457031.html",
+      "pubDate": "2026-08-17T00:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/2/52df36ee.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -626,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/4493da6a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "イギリスから日本旅行中“行方不明”の12歳少女が無事保護 →衝撃の理由で〇〇していたと判明ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557947.html",
-      "pubDate": "2026-08-16T14:30:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/57e752f2-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -845,19 +858,6 @@
       "link": "https://jin115.com/archives/52456988.html",
       "pubDate": "2026-08-16T07:00:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b221c7f.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【ネタバレ注意】『みいちゃんと山田さん』最終話、ついに公開→全読者騒然ガチで衝撃の結末に・・・「山田さんも◯◯だった」「タイトルだけでもちょっと意味深」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52456987.html",
-      "pubDate": "2026-08-16T05:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa249303.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T14:52:55.390272",
+  "updatedAt": "2026-08-16T15:26:18.113220",
   "sites": [
     {
       "id": "hachima",
