@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "有名絵師がコミケで「2次創作色紙オークション」で炎上！中には10万円以上も",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558016.html",
+      "pubDate": "2026-08-17T05:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/0/600732be.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「同人誌即売会で一万円を使用するのはダメ」という文化があるが午後入場組はそれが助かるサークルもあるのでは？…中国人が電子決済じゃないことに驚き、日本人が解説",
+      "description": "「同人誌即売会で一万円を使用するのはダメ」という文化があるが午後入場組はそれが助かるサークルもあるのでは？…中国人が電子決済じゃないことに驚き、日本人が解説",
+      "link": "https://togetter.com/li/2733957",
+      "pubDate": "Mon, 17 Aug 2026 04:59:20 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "寺田心がフィジーク大会で負けた相手が異次元過ぎる！高校生でこの仕上がりボディ……",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10558013.html",
@@ -418,19 +444,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "今年は開店1時間で270人が来店…毎年話題になるベローチェ有明店だが、“総指揮官”が高速提供できる理由を明かす「この方が総指揮官！？」",
-      "description": "今年は開店1時間で270人が来店…毎年話題になるベローチェ有明店だが、“総指揮官”が高速提供できる理由を明かす「この方が総指揮官！？」",
-      "link": "https://togetter.com/li/2733816",
-      "pubDate": "Sun, 16 Aug 2026 19:37:05 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -546,19 +559,6 @@
       "link": "https://jin115.com/archives/52457017.html",
       "pubDate": "2026-08-16T18:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/f/ff2c8e33.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【炎上】加藤登紀子さん、サンモニで「北方領土はロシアの領土。日本は抗議できる立場にない」発言 → TBSが即訂正",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10557968.html",
-      "pubDate": "2026-08-16T18:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c24d417b.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-16T19:46:21.652288",
+  "updatedAt": "2026-08-16T20:28:13.297507",
   "sites": [
     {
       "id": "hachima",
