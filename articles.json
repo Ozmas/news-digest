@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【！？】56歳女性、鉄砲水で流され行方不明に → 1週間以上経って釣り人が発見…かかとの骨を折るも命に別状なし",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558360.html",
+      "pubDate": "2026-08-18T00:35:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/62748c94.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -63,7 +76,7 @@
       "title": "【動画あり】ゲームメディア「エルデンリングがスイッチ2でまともに動くはずがない。そう考えていた。しかし、実際にプレイして度肝を抜かれた」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10558353.html",
-      "pubDate": "2026-08-17T23:45:48+09:00",
+      "pubDate": "2026-08-17T23:45:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8b888b14.jpg"
     },
     {
@@ -793,19 +806,6 @@
       "link": "https://rocketnews24.com/2026/08/17/2790690/",
       "pubDate": "Mon, 17 Aug 2026 05:00:05 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2689-2.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "慶應大学4年の女子大学生、バイト先の客のクレカ盗み化粧品購入し逮捕　余罪100万円分か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558216.html",
-      "pubDate": "2026-08-17T13:50:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/a/3a090d82-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-17T15:29:48.485970",
+  "updatedAt": "2026-08-17T15:53:58.553235",
   "sites": [
     {
       "id": "hachima",
