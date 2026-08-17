@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "千葉市で浸水の影響で放射性廃液が漏洩。",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558357.html",
+      "pubDate": "2026-08-18T05:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/e/0e95c325.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "コミケで過激なコスプレをしていたレイヤーさん、ニップレスが剥がれて胸が丸見えになってしまい話題にｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457090.html",
+      "pubDate": "2026-08-18T05:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/272b05a6-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -756,19 +782,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/1/d176e9aa-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "映画『ちいかわ』入場特典第3弾も本気すぎる！コレマジでどこまで行くんだ……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558236.html",
-      "pubDate": "2026-08-17T16:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/adf87c90.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -949,19 +962,6 @@
       "link": "https://gigazine.net/news/20260817-z-ai-glm-5-3/",
       "pubDate": "Mon, 17 Aug 2026 12:05:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "闇バイト、金を持ち逃げしても指示役から逃げられない理由が“本当の闇”すぎた・・・「その場合は警察に○○しますよ。闇バイトの親玉と伝えた上で」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457042.html",
-      "pubDate": "2026-08-17T12:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/e/1e946bc8.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-17T19:32:25.947331",
+  "updatedAt": "2026-08-17T20:32:02.664314",
   "sites": [
     {
       "id": "hachima",
