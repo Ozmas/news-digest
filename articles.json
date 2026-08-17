@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ドラマ『VIVANT』は巨人と阪神の話だった！？野球ファンは今後の展開が読めてしまうらしい",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558355.html",
+      "pubDate": "2026-08-18T03:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/d/2d3c64e0.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気ドラマ『VIVANT』、作中に登場する「AIハヤト」に不満を持つ人が続出・・・「雰囲気壊してる」「〇〇したい意図が透けて見える」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457085.html",
+      "pubDate": "2026-08-18T03:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/4/24be198b.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "JTCにいる50代窓際サラリーマンをテーマにしたAIマンガの「動かない社員の代わりにAIエージェントを使う」回の「シニアがAIをうまく使いこなす」シーンに共感",
+      "description": "JTCにいる50代窓際サラリーマンをテーマにしたAIマンガの「動かない社員の代わりにAIエージェントを使う」回の「シニアがAIをうまく使いこなす」シーンに共感",
+      "link": "https://togetter.com/li/2734257",
+      "pubDate": "Tue, 18 Aug 2026 02:44:12 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -351,19 +390,6 @@
       "link": "https://rocketnews24.com/2026/08/17/2791632/",
       "pubDate": "Mon, 17 Aug 2026 12:00:52 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2084a.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "駐車禁止の標識がない道路にポルシェ中古車店のカートレーラーが青空駐車…保育園の向かい側で危険なので、自治会に相談して警察へ通報→その後、当該の店が謝罪する結果に",
-      "description": "駐車禁止の標識がない道路にポルシェ中古車店のカートレーラーが青空駐車…保育園の向かい側で危険なので、自治会に相談して警察へ通報→その後、当該の店が謝罪する結果に",
-      "link": "https://togetter.com/li/2734161",
-      "pubDate": "Mon, 17 Aug 2026 21:00:47 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "gigazine",
@@ -743,19 +769,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_3478.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】若者「風の谷のナウシカってすごい！隠れた名作だからもっと知られて欲しい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558223.html",
-      "pubDate": "2026-08-17T15:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/3/b314a096.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1014,19 +1027,6 @@
       "link": "https://jin115.com/archives/52457051.html",
       "pubDate": "2026-08-17T11:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/75266ab0-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "イラン軍「米兵を殺害、または拘束したら1人につき480万円の報奨金を出す！女性が達成した場合は2倍の960万円だ！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457049.html",
-      "pubDate": "2026-08-17T10:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2462b3a-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-17T17:31:04.341935",
+  "updatedAt": "2026-08-17T18:47:24.431328",
   "sites": [
     {
       "id": "hachima",
