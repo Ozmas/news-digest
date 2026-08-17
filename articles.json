@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "先日の大雨で、残クレで買ったアルファードが水没して完全に動かなくなり、任意保険は未加入…今後どうすればいいのか？→様々な反応「新車は車両保険に加入した方がいい」",
+      "description": "先日の大雨で、残クレで買ったアルファードが水没して完全に動かなくなり、任意保険は未加入…今後どうすればいいのか？→様々な反応「新車は車両保険に加入した方がいい」",
+      "link": "https://togetter.com/li/2734290",
+      "pubDate": "Tue, 18 Aug 2026 07:35:07 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -480,19 +493,6 @@
       "description": "「中島健人ANN」の「遊戯王知らない人でも楽しんでいただけるのはここまで」から始まったガチ遊戯王タイムがコア過ぎて一部のファンが嘆く「遊戯王ファンの皆さん助けて」",
       "link": "https://togetter.com/li/2734167",
       "pubDate": "Mon, 17 Aug 2026 21:26:31 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ラウンジ使うために一等課金したのにラウンジが「本日は一等客室として使用しています」で使えなかった人「これは泣くで」→繁忙期だと仕方ないのか？意見分かれる",
-      "description": "ラウンジ使うために一等課金したのにラウンジが「本日は一等客室として使用しています」で使えなかった人「これは泣くで」→繁忙期だと仕方ないのか？意見分かれる",
-      "link": "https://togetter.com/li/2734166",
-      "pubDate": "Mon, 17 Aug 2026 21:23:44 +0900",
       "thumbnail": ""
     },
     {
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-17T22:29:13.947860",
+  "updatedAt": "2026-08-17T22:54:14.162246",
   "sites": [
     {
       "id": "hachima",
