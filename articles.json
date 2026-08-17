@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "騙されて500万振り込んだ男性さん、詐欺師に「詐欺だから警察行った方がいいですよ」と言われる → 結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457080.html",
+      "pubDate": "2026-08-18T02:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a627432-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ソニー、名作インディーゲーム開発者を理由なく一方的に契約解除…PS5での販売ができなくなったと報告",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558369.html",
+      "pubDate": "2026-08-18T02:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/4/d4940680.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -756,19 +782,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/underarmor_b07301.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】『うんこミュージアム』でお漏らしか　不正アクセスで個人情報をブリブリ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558225.html",
-      "pubDate": "2026-08-17T14:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7c17b01b.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -1040,19 +1053,6 @@
       "link": "https://rocketnews24.com/2026/08/17/2789161/",
       "pubDate": "Mon, 17 Aug 2026 00:00:37 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2844.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "国境が崩壊してアフリカ移民がなだれ込んだスペイン領セウタ、たった2週間でスラム街と化す",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457040.html",
-      "pubDate": "2026-08-17T09:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f8cb2419.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-17T16:33:27.542986",
+  "updatedAt": "2026-08-17T17:31:04.341935",
   "sites": [
     {
       "id": "hachima",
