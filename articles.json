@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女アイドルさん「公立中学校の『女バレ』や『女バス』は絶対に◯◯があります」→言ってくれてありがとうと大絶賛！13万いいね",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457086.html",
+      "pubDate": "2026-08-18T04:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0d54fac.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「ちいかわ入場特典3弾だけなんか毛色違わない？」→やっぱり”あの人”の仕業だったｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558356.html",
+      "pubDate": "2026-08-18T04:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/99db7c61.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -743,19 +769,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/adf87c90.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "姉「switchのデータ移行したいからあつ森のお金預かって」→ 妹「いいよ」⇒ 大変な事になってしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558226.html",
-      "pubDate": "2026-08-17T15:30:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b899c085.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1014,19 +1027,6 @@
       "link": "https://rocketnews24.com/2026/08/17/2783883/",
       "pubDate": "Mon, 17 Aug 2026 02:00:13 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_1971.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "はじめしゃちょー「共同購入で3500万円分サマージャンボ買いました！当たったら分配します！」→衝撃の結果にｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457051.html",
-      "pubDate": "2026-08-17T11:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/75266ab0-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-17T18:47:24.431328",
+  "updatedAt": "2026-08-17T19:32:25.947331",
   "sites": [
     {
       "id": "hachima",
