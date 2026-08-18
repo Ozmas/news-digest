@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "15歳中学生、自宅にガソリンを撒いて放火 → その後警察に自首「日頃からお父さんが暴力を振ってくるのが嫌いで…」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558658.html",
+      "pubDate": "2026-08-19T02:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/981f7ce4.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「えらいセクシーなキティさんがいる」スシローにいったらコラボのキティをお色気たっぷりなポーズに見間違えた話、でもマジで見えてしまう",
+      "description": "「えらいセクシーなキティさんがいる」スシローにいったらコラボのキティをお色気たっぷりなポーズに見間違えた話、でもマジで見えてしまう",
+      "link": "https://togetter.com/li/2734716",
+      "pubDate": "Wed, 19 Aug 2026 01:45:17 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "ゴキブリガスバーナーで爆発騒ぎの男、逆に地域を救った可能性浮上「現場近くの集中プロパンでガス漏れを確認」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10558651.html",
@@ -246,19 +272,6 @@
       "description": "「感染率100%の『日本病』」水木しげる『総員玉砕せよ!』で描かれた「死ね」のニュアンスから感じる硬直っぷりは今にも通じるものを感じる",
       "link": "https://togetter.com/li/2734630",
       "pubDate": "Tue, 18 Aug 2026 22:31:20 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "私がなぜ推しの熱愛報道が出ても元気なのかというと、つい先日親戚の結婚式に行ったところ、親戚の結婚相手が別界隈の推しだったという前代未聞の出来事があったからです",
-      "description": "私がなぜ推しの熱愛報道が出ても元気なのかというと、つい先日親戚の結婚式に行ったところ、親戚の結婚相手が別界隈の推しだったという前代未聞の出来事があったからです",
-      "link": "https://togetter.com/li/2734623",
-      "pubDate": "Tue, 18 Aug 2026 22:24:41 +0900",
       "thumbnail": ""
     },
     {
@@ -689,19 +702,6 @@
       "link": "https://gigazine.net/news/20260818-quake-shareware/",
       "pubDate": "Tue, 18 Aug 2026 16:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "新参オタク「なんでコミケのスタッフって態度良くないの？」⇒ 無償ボランティアだと忘れられているのが悲しいと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558491.html",
-      "pubDate": "2026-08-18T15:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/20b59fe9.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-18T16:36:46.482470",
+  "updatedAt": "2026-08-18T17:31:52.653190",
   "sites": [
     {
       "id": "hachima",
