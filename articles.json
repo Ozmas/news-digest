@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "タイミーで募集をかけて中年男性がやってきたが、質問しても無反応で会社を徘徊、すぐに帰らせた…後日、食堂で食事をしていた→警察案件だが、ルールを見直すきっかけに",
+      "description": "タイミーで募集をかけて中年男性がやってきたが、質問しても無反応で会社を徘徊、すぐに帰らせた…後日、食堂で食事をしていた→警察案件だが、ルールを見直すきっかけに",
+      "link": "https://togetter.com/li/2734774",
+      "pubDate": "Wed, 19 Aug 2026 07:26:12 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "やる気が出ねぇ！ 勉強に身が入らなかったクラスメイト！　四コマサボタージュFB第68回「自己催眠」",
+      "description": "作中のような張り紙をしたとして、本当に効果があるのか否かちょっと気になるんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/19/2789423/",
+      "pubDate": "Tue, 18 Aug 2026 22:00:42 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-68.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「スシローに来たら超セクシーなポーズのキティちゃんいた」パシャッ　→　想像以上にえちちでネット騒然！これはｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558690.html",
+      "pubDate": "2026-08-19T07:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/3/13ca298d.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "政党支持率、まさかの共産党が第2位に→共産党・小池書記局長「それはうれしいでしょ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457153.html",
+      "pubDate": "2026-08-19T07:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/6/06137a6c.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "車に運転支援機能を追加できるデバイスをGPUで強化するためのeGPUドック「Chestnut」をComma.aiがリリース",
+      "description": "天才的なプログラミング能力を買われてFacebookやGoogleで働いた経験もあるジョージ・ホッツ氏が2016年に立ち上げたスタートアップComma.aiは、自動車に取り付けるだけで運転支援機能を追加できるデバイスを開発しています。そんなComma.aiが新たに、より大型のドライビングモデルを車が実行できるようにGPUを車載コンピューターにつなぐためのeGPUドック「Chestnut」をリリース",
+      "link": "https://gigazine.net/news/20260819-egpu-dock-chestnut/",
+      "pubDate": "Wed, 19 Aug 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -353,19 +418,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「感染率100%の『日本病』」水木しげる『総員玉砕せよ!』で描かれた「死ね」のニュアンスから感じる硬直っぷりは今にも通じるものを感じる",
-      "description": "「感染率100%の『日本病』」水木しげる『総員玉砕せよ!』で描かれた「死ね」のニュアンスから感じる硬直っぷりは今にも通じるものを感じる",
-      "link": "https://togetter.com/li/2734630",
-      "pubDate": "Tue, 18 Aug 2026 22:31:20 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -624,19 +676,6 @@
       "link": "http://blog.esuteru.com/archives/10558568.html",
       "pubDate": "2026-08-18T18:30:56+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6bc51b2b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】ラジオ体操、知らないキッズが現る… 男児「昔はこんなのやってたんだなって思いました」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558558.html",
-      "pubDate": "2026-08-18T18:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/8/a82fb61f.png"
     },
     {
       "siteId": "jin",
@@ -951,19 +990,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/1/91db4594-s.jpg"
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "過去に重度の日焼けを経験した人は生涯にわたる皮膚がんリスクが高まる可能性",
-      "description": "子どもの頃は夏休みの間も部活や遊びで屋外を走り回っており、毎年のように日焼けしていたという人もいるはず。合計32万人以上を含んだ分析により、過去に重度の日焼けを経験した人は生涯にわたって皮膚がんリスクが高まる可能性があることが判明しました。続きを読む...",
-      "link": "https://gigazine.net/news/20260818-severe-sunburn-higher-odds-skin-cancer/",
-      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1014,19 +1040,6 @@
       "link": "https://rocketnews24.com/2026/08/18/2791759/",
       "pubDate": "Tue, 18 Aug 2026 02:00:50 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_7137.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【速報】お笑いトリオ「四千頭身」都築拓紀メンバー、書類送検",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457110.html",
-      "pubDate": "2026-08-18T10:38:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/0340d571.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1209,19 +1222,6 @@
       "link": "https://rocketnews24.com/2026/08/17/2790690/",
       "pubDate": "Mon, 17 Aug 2026 05:00:05 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2689-2.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【始発で酒を飲みに行く!?】1946年創業の超有名酒場「宇ち多゛」に初潜入したら、酒場というよりテーマパークだった",
-      "description": "みなさん、「宇ち多゛（うちだ）」という店をご存じだろうか。 京成立石にある1946年創業の老舗中の老舗。もつ焼きと煮込みを看板に掲げる超有名大衆酒場で、酒好きなら一度は耳にしたことがあるであろう聖地だ。 一方で、「初心者 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/17/2786630/",
-      "pubDate": "Mon, 17 Aug 2026 02:55:48 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_9258.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "クシは持たない派だったけど、「リファのコーム」は別。ペタッとした前髪をふわっと復活させてくれた",
+      "description": "※本記事は2025年6月24日に公開された記事を再編集して掲載しています。 Text and Photographed by mio ジメジメした暑さが続き、せっかくセットしても髪型の崩れやすさが気になります。 特に前髪 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737722",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "木村拓哉、20年の時を経て再タッグ「お久しぶりです！」 ギャツビー「ムービングラバー」が刷新",
       "description": "マンダムのメンズコスメブランド「ギャツビー」のヘアスタイリングシリーズ「ムービングラバー」がリニューアルされ、8月24日より販売開始となります。これに合わせ、木村拓哉さんを起用した新広告プロモーションが9月中旬より展開さ [&#8230;]",
       "link": "https://getnews.jp/archives/3737720",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3737713",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【埼玉県吉川市】地元職人に住まいの悩みを無料で相談できる「第59回住宅なんでも相談会」開催",
-      "description": "埼玉県吉川市商工会建設業部会内の吉川市建築協力会は、吉川市民の住まいの悩み・困りごとに無料で応える「第59回住宅なんでも相談会」を、9月6日(日)に吉川市商工会館にて開催。 同相談会は、吉川市内の建設業者から成る吉川市建 [&#8230;]",
-      "link": "https://getnews.jp/archives/3737717",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-18T21:52:09.131418",
+  "updatedAt": "2026-08-18T22:28:42.677697",
   "sites": [
     {
       "id": "hachima",
