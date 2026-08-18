@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【たしかに】スパイダーマンって田舎だとクソ弱そうじゃない？？？？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558626.html",
+      "pubDate": "2026-08-19T06:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75de0fd9.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "光合成プロセスを応用して「ドライアイ」を治療",
+      "description": "目の表面に広がる涙が不足することで、不快感や見えにくさが生じるドライアイ(乾性角結膜炎)を治療するために、光合成を用いる方法が考案されています。続きを読む...",
+      "link": "https://gigazine.net/news/20260819-dry-eye-disease-tip-plants/",
+      "pubDate": "Wed, 19 Aug 2026 06:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -626,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7aa27880.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「楊国福麻辣湯」仙台駅前店、無断で羽生結弦選手や鳩山由紀夫元首相の名前を利用して祝い花を設置 → 公式が謝罪",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558526.html",
-      "pubDate": "2026-08-18T17:30:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/2/12c94b59.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -948,19 +961,6 @@
       "description": "子どもの頃は夏休みの間も部活や遊びで屋外を走り回っており、毎年のように日焼けしていたという人もいるはず。合計32万人以上を含んだ分析により、過去に重度の日焼けを経験した人は生涯にわたって皮膚がんリスクが高まる可能性があることが判明しました。続きを読む...",
       "link": "https://gigazine.net/news/20260818-severe-sunburn-higher-odds-skin-cancer/",
       "pubDate": "Tue, 18 Aug 2026 12:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "アメリカ陸軍の大隊が再入隊者募集のため「GTA6を遊ぶための休暇」を提供",
-      "description": "特定の日付までに再入隊すれば「GTA6」のために休暇を与える、というお触れをアメリカ陸軍のとある大隊が提示したことが分かりました。続きを読む...",
-      "link": "https://gigazine.net/news/20260818-army-bonus-gta6/",
-      "pubDate": "Tue, 18 Aug 2026 11:58:00 +0900",
       "thumbnail": ""
     },
     {
@@ -1698,6 +1698,45 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "木村拓哉、20年の時を経て再タッグ「お久しぶりです！」 ギャツビー「ムービングラバー」が刷新",
+      "description": "マンダムのメンズコスメブランド「ギャツビー」のヘアスタイリングシリーズ「ムービングラバー」がリニューアルされ、8月24日より販売開始となります。これに合わせ、木村拓哉さんを起用した新広告プロモーションが9月中旬より展開さ [&#8230;]",
+      "link": "https://getnews.jp/archives/3737720",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "THE ALFEE、バンドにおけるライブ本数の記録を更新",
+      "description": "今年デビュー52周年を迎えるTHE ALFEEが、8月15・16日にKアリーナ横浜で恒例の夏のイベントを開催した。 1982年の所沢航空公園から始まった夏のイベントは今年で40回目。総動員数は延べ181万人となった。   [&#8230;]",
+      "link": "https://getnews.jp/archives/3737719",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【脳トレ】「伀」の中に紛れて1つ違う文字がある！？あなたは何秒で探し出せるかな？？【違う文字を探せ！】",
+      "description": "画像に並んだたくさんの「伀」という字。 その数144個なのですが・・・、実はその中に1つ違う漢字が紛れ込んでいます！！ その1文字を、ぜひ探し出してください！！ この画像に1つ「伀」とは違う文字が！？   画像の中には、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737721",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "「ギャツビー ムービングラバー」がリニューアルで⽊村拓哉さんと再タッグ！「いい予感しかない。」",
       "description": "メンズコスメブランド「ギャツビー」は、ヘアスタイリングシリーズ「ムービングラバー」をリニューアルし、2026年8⽉24⽇(⽉)より発売。2006年の発売時にも「ムービングラバー」を盛り上げていた⽊村拓哉さんと再タッグを組 [&#8230;]",
       "link": "https://getnews.jp/archives/3737698",
@@ -1781,48 +1820,9 @@
       "link": "https://getnews.jp/archives/3737717",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "北海道登別温泉「第一滝本館」2027年おせちの早割予約開始！彩り豊かな42品の三段重",
-      "description": "北海道登別温泉で165年以上の歴史を持つ老舗温泉旅館「第一滝本館」が、毎年好評の「滝本のおせち2027」の予約受付を8月15日(土)に開始した。 新年を祝う特選42品の三段重 「滝本のおせち2027」は、ひとつひとつを目 [&#8230;]",
-      "link": "https://getnews.jp/archives/3737708",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "『レディ・オア・ノット２』監督コンビが明かす“人体爆裂シーン”誕生の理由　「いちばん予想外で面白いから」［ホラー通信］",
-      "description": "大富豪に嫁いだ花嫁が一族伝統の“ゲーム”で命を狙われるサバイバル・ホラー続編、『レディ・オア・ノット２』が現在公開中。監督を務めたマット・ベティネッリ＝オルピン、タイラー・ジレットのコンビがインタビューに応じてくれた。  [&#8230;]",
-      "link": "https://getnews.jp/archives/3737483",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "節約も兼ねて導入した「スルッと氷がとれる製氷トレー」。冷凍庫内を有効活用できるようになったよ",
-      "description": "冷たい飲み物が美味しい季節。 市販の氷だけだと足りなくなってきて、今年の夏は、節約もかねて製氷器を取り入れることにしました。 底面だけやわらかいのがポイント パール金属「冷た倶楽部 取り出しやすいアイストレー（蓋付）」7 [&#8230;]",
-      "link": "https://getnews.jp/archives/3737706",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-18T20:54:21.809830",
+  "updatedAt": "2026-08-18T21:29:17.907046",
   "sites": [
     {
       "id": "hachima",
