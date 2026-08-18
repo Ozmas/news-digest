@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "15歳から電子タバコを吸い続けた女性の末路がこちら・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457143.html",
+      "pubDate": "2026-08-19T05:13:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/f/6f2c6142-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "サイバーコネクトツー・松山洋が、にじさんじ・石神のぞみに謝罪ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558621.html",
+      "pubDate": "2026-08-19T05:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/2/d22be576-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -626,19 +652,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【続報】「2次創作色紙オークション」で炎上中の有名絵師、配信で説明か 「1000万ぐらい、利益出さないと営利だと思ってなかった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558522.html",
-      "pubDate": "2026-08-18T17:05:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/0/600732be.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1014,19 +1027,6 @@
       "link": "https://jin115.com/archives/52457110.html",
       "pubDate": "2026-08-18T10:38:34+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/0340d571.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "美女コスプレイヤー「コミケ終わったからこれ」→コミケ中とコミケ後の比較画像を公開して3.4万いいね",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457094.html",
-      "pubDate": "2026-08-18T10:30:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/1/d1456532.png"
     },
     {
       "siteId": "rocketnews",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-18T19:31:04.742778",
+  "updatedAt": "2026-08-18T20:29:28.543253",
   "sites": [
     {
       "id": "hachima",
