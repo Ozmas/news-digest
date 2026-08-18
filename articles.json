@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】ホロライブVTuber・博衣こよりさんとMLBがコラボ⇒ アンチが発狂してしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558571.html",
+      "pubDate": "2026-08-19T00:30:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a1a5148.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "家賃3万円ほどアップのお知らせが来て、淡々と断っていたら調停→訴訟になると連絡が来た「こちらに勝ち目ないのかな？」→大家さんたちの意見も",
+      "description": "家賃3万円ほどアップのお知らせが来て、淡々と断っていたら調停→訴訟になると連絡が来た「こちらに勝ち目ないのかな？」→大家さんたちの意見も",
+      "link": "https://togetter.com/li/2734689",
+      "pubDate": "Wed, 19 Aug 2026 00:24:47 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "もうすぐハロウィンだー！って騒いでるのは多分ディズニーオタクとDAISOぐらいだと思うよ「百均って季節の催し物シリーズの準備早くない？？」",
+      "description": "もうすぐハロウィンだー！って騒いでるのは多分ディズニーオタクとDAISOぐらいだと思うよ「百均って季節の催し物シリーズの準備早くない？？」",
+      "link": "https://togetter.com/li/2734684",
+      "pubDate": "Wed, 19 Aug 2026 00:10:27 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「ラヴ上等への批判は学生時代にどれだけ不良から被害を受けたかで受け止め方は違うと思う」⇒ 4万いいね超え",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558570.html",
+      "pubDate": "2026-08-19T00:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/be22c6ce.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【書類送検】四千頭身・都築拓紀メンバー、ヤバい秘密が判明する",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457144.html",
+      "pubDate": "2026-08-19T00:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/0340d571.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "早慶と旧帝大、MARCHと地方国立の序列なんかよりも世の中の「学歴厨」にはこんな話をしてほしい「昔の2chの学歴版はこの手の話が流れてて面白かった」",
+      "description": "早慶と旧帝大、MARCHと地方国立の序列なんかよりも世の中の「学歴厨」にはこんな話をしてほしい「昔の2chの学歴版はこの手の話が流れてて面白かった」",
+      "link": "https://togetter.com/li/2734677",
+      "pubDate": "Tue, 18 Aug 2026 23:45:18 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -197,32 +275,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b6727745.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "非正規が3年で雇い止めになるの「3年も経験を積んだ重要な戦力をクビにしてまた1から新人を育てるなんてしないだろう」と思って作られてそうだけど、現実は全然違った",
-      "description": "非正規が3年で雇い止めになるの「3年も経験を積んだ重要な戦力をクビにしてまた1から新人を育てるなんてしないだろう」と思って作られてそうだけど、現実は全然違った",
-      "link": "https://togetter.com/li/2734597",
-      "pubDate": "Tue, 18 Aug 2026 21:15:30 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「こいつら怯えてやがるぜ」スーパーで購入したパック寿司がめちゃくちゃ寄ってしまった姿を見ての一言が強い…そのメンタルになりたいぜ",
-      "description": "「こいつら怯えてやがるぜ」スーパーで購入したパック寿司がめちゃくちゃ寄ってしまった姿を見ての一言が強い…そのメンタルになりたいぜ",
-      "link": "https://togetter.com/li/2734593",
-      "pubDate": "Tue, 18 Aug 2026 21:08:29 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -234,19 +286,6 @@
       "link": "https://jin115.com/archives/52457138.html",
       "pubDate": "2026-08-18T21:00:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/3/a3f06712.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "同年代にはわかる激レア品のポーションをもらった、ちなみに賞味期限は20年前→レアかと思ったらみんな物持ちが良くて残ってた「すごい独特な味がした記憶」",
-      "description": "同年代にはわかる激レア品のポーションをもらった、ちなみに賞味期限は20年前→レアかと思ったらみんな物持ちが良くて残ってた「すごい独特な味がした記憶」",
-      "link": "https://togetter.com/li/2734589",
-      "pubDate": "Tue, 18 Aug 2026 21:00:29 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -717,19 +756,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "会社員男性（36）、交際相手の長男（2）を暴行して○なせる → 『傷害』容疑で逮捕される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558476.html",
-      "pubDate": "2026-08-18T14:30:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/0/10cdaad7-s.png"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -767,19 +793,6 @@
       "link": "https://jin115.com/archives/52457121.html",
       "pubDate": "2026-08-18T14:00:25+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f8723fce.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【！？】台湾で、『野獣先輩展』が開かれてしまう… いや、マジの展示会かよ…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558473.html",
-      "pubDate": "2026-08-18T14:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/ab82452c.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1040,19 +1053,6 @@
       "link": "https://rocketnews24.com/2026/08/18/2791755/",
       "pubDate": "Tue, 18 Aug 2026 00:00:50 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/9284f698-e8bb-40e1-963b-46abb2dd2072.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】ラジオ体操、終わる・・・令和キッズ「ラジオ体操ってなんですか？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457104.html",
-      "pubDate": "2026-08-18T09:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/ebb66473-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,32 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "「ギャツビー ムービングラバー」がリニューアルで⽊村拓哉さんと再タッグ！「いい予感しかない。」",
+      "description": "メンズコスメブランド「ギャツビー」は、ヘアスタイリングシリーズ「ムービングラバー」をリニューアルし、2026年8⽉24⽇(⽉)より発売。2006年の発売時にも「ムービングラバー」を盛り上げていた⽊村拓哉さんと再タッグを組 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737698",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "山下健二郎が『みらいエコ住宅2026事業』特別動画に出演！省エネ住宅の魅力を体感",
+      "description": "三代目 J SOUL BROTHERSの山下健二郎が出演する『みらいエコ住宅2026事業』の特別WEB動画が、本日18日（火）より公開された。 今回の動画では、住まいづくりに関する活動にも取り組んでいる山下が、実際に住宅 [&#8230;]",
+      "link": "https://getnews.jp/archives/3737715",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【やったぜ】『ムカデ人間 4K』公開記念、『ムカデ人間２』『ムカデ人間３』が東京・神戸で日替わり上映［ホラー通信］",
       "description": "美しくクリアにリマスターされた『ムカデ人間 4K』が８月21日(金)よりいよいよ公開。「スクリーンで１が観られるなら２も観たい、いや３だって……！」という“ムカデ人間”大好き人間の潜在的願望に応え、『ムカデ人間２』『ムカ [&#8230;]",
       "link": "https://getnews.jp/archives/3737484",
@@ -1794,35 +1820,9 @@
       "link": "https://getnews.jp/archives/3737704",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【福島県会津若松市】“赤べこ”をテーマにした新たな観光交流拠点「アカベコランド会津若松駅前店」OPEN！",
-      "description": "JR東日本東北総合サービスが、8月8日(土)、JR会津若松駅前に、アカベコランドが展開する会津を代表する民芸品「赤べこ」をテーマにした新たな観光交流拠点「アカベコランド会津若松駅前店」をオープン。列車を降りてすぐ、定番の [&#8230;]",
-      "link": "https://getnews.jp/archives/3737709",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "Ankerの70W・3ポート充電器が3,990円に！コンパクトで持ち運びにも",
-      "description": "70Wの高出力に対応しながら、持ち運びやすいコンパクトさを実現したAnker（アンカー）の充電器が、Amazonのタイムセールでお得になっています。 「Anker Nano Charger（70W, 3 Ports）」は [&#8230;]",
-      "link": "https://getnews.jp/archives/3737595",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-18T14:38:30.031806",
+  "updatedAt": "2026-08-18T15:36:24.850801",
   "sites": [
     {
       "id": "hachima",
