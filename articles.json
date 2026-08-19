@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【！？】中道落選者ら、新たな政治団体『ゴリラ』を立ち上げ！政党化を視野に16人が参加予定「行き場が無くなったからではない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558898.html",
+      "pubDate": "2026-08-19T23:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7c832dae.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "Claudeエージェント同士が「縄張り争い」で互いを妨害したり価格について共謀したりする事例がAnthropicの実験で発生",
+      "description": "AIエージェントとは与えられた目標に沿ってツールを使い、複数の手順からなる作業を自律的に進めるAIです。Anthropicは2026年8月13日、それぞれ異なる目標を与えられた複数のAIエージェントが明確な上下関係なしに同じコードベースを編集したり同じ市場で商品を販売したりする状況を再現し、協調や対立のパターンを調べた研究結果を公開しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/",
+      "pubDate": "Wed, 19 Aug 2026 23:30:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "AIにより飛行機雲発生の少ない空路を選んで地球温暖化緩和を目指す「Operation Blue Skies」をGoogleが始動",
+      "description": "飛行機雲(コントレイル)は、航空機が搭載しているジェットエンジンの排気ガスに含まれる煤粒子に水蒸気が凝結して形成されるもので、地球温暖化の原因の1つであり、航空業界による気候への影響のおよそ3分の1を占めています。このため、GoogleはAIを活用して北大西洋上の空路を飛行機雲が発生しにくいものにする試みに、イギリス政府や航空業界の協力を得て取り組んでいます。試みは「Operation Blue ",
+      "link": "https://gigazine.net/news/20260819-operation-blue-skies/",
+      "pubDate": "Wed, 19 Aug 2026 23:10:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「泊まった宿でこの朝食（11000円）が出てきた。なんだよこれ」ﾊﾟｼｬｯ → とんでもない画像が投稿されて賛否両論にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457189.html",
+      "pubDate": "2026-08-19T23:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/8/8834fdff-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【謎】鳥取県の国立公園の道路沿いに3日連続で大量の食パンが捨てられているのが発見される…誰が何の目的で捨てたのかは不明",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558889.html",
+      "pubDate": "2026-08-19T23:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/0/806f2efc.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "使い込むほど成長するAIエージェント「Hermes Agent」をWindowsで実際に使ってみた、インストールからウェブ検索・ブラウザ操作まで",
+      "description": "Nous Researchが開発する「Hermes Agent」は、実際にAIモデルを作成する中で具体的にどういう機能がAIエージェントに求められているのか？という視点から、単なるチャットではなく「ターミナルでの操作」を前提に開発されており、ウェブ検索・ブラウザ操作・ファイル操作など複数のツールを組み合わせながらタスクを進められるオープンソースのAIエージェントです。さらに、複雑な作業で得た手順を",
+      "link": "https://gigazine.net/news/20260819-hermes-agent-first-use/",
+      "pubDate": "Wed, 19 Aug 2026 22:50:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -756,19 +834,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2691-2.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "へずまりゅう議員「奈良から被災地の熊本に出向き、自分から豚汁を受け取った人が自分を脅迫してきた」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558732.html",
-      "pubDate": "2026-08-19T13:40:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/e/0ea67bd7-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -780,19 +845,6 @@
       "link": "https://rocketnews24.com/2026/08/19/2792450/",
       "pubDate": "Wed, 19 Aug 2026 04:22:48 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_4339_74e51f.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「ヤマト運輸でーす」と言いながらしつこく家のドアを叩く奴が居て怪しいので「対応できない」と断る　→　結果、怪しい業者がまさか過ぎる対応に出た話ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558769.html",
-      "pubDate": "2026-08-19T13:20:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/7/275f0d43.jpg"
     },
     {
       "siteId": "gigazine",
@@ -886,32 +938,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "SamsungがClaude Codeを導入し「1カ月かかる設計を2日に短縮した」と報告",
-      "description": "SamsungがAnthropicのAIコーデイングツール「Claude Code」を導入し、一部の半導体設計・検証作業の期間を大幅に短縮したことが分かりました。続きを読む...",
-      "link": "https://gigazine.net/news/20260819-samsung-claude-code/",
-      "pubDate": "Wed, 19 Aug 2026 12:14:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "AIヌード化アプリがInstagramやFacebookの広告で宣伝されていたことが判明、Appleの審査を掻い潜り公式ストアで配信されていた",
-      "description": "FacebookやInstagramといったSNSを展開するMetaは、自社プラットフォームで横断的に広告を配信できるMeta広告という広告サービスを展開しています。このMeta広告で広告が掲出されたAIヌード化アプリの「Kromix」を、AppleがApp Storeから削除したことが明らかになりました。続きを読む...",
-      "link": "https://gigazine.net/news/20260819-apple-pulls-ai-nudify-app-promoted-meta-ads/",
-      "pubDate": "Wed, 19 Aug 2026 12:04:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -936,19 +962,6 @@
       "link": "https://rocketnews24.com/2026/08/19/2791800/",
       "pubDate": "Wed, 19 Aug 2026 02:55:42 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/10tamotsu.jpg"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "「Firefox 154」正式版リリース、Windows版でアプリアイコンを変更可能に",
-      "description": "ウェブブラウザ「Firefox 154」の正式版が2026年8月18日に公開されました。AIを活用する「Smart Window」で関連するタブをまとめたグループを提案できるようになったほか、ローカルネットワーク上の機器へのWebSocket接続にもアクセス許可が必要になりました。また、Windows版Firefoxがクラウドゲーミングサービス「GeForce NOW」に対応したり、Firefox",
-      "link": "https://gigazine.net/news/20260819-firefox-154/",
-      "pubDate": "Wed, 19 Aug 2026 11:52:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1053,19 +1066,6 @@
       "link": "https://rocketnews24.com/2026/08/19/2792254/",
       "pubDate": "Wed, 19 Aug 2026 01:00:22 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/b1.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ブルアカ色紙オークションで炎上の絵師さん、謝罪する「色紙オークションは今後行わない」「1年はコミケに出ない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457156.html",
-      "pubDate": "2026-08-19T10:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/4/2435a985-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "6,000円台で満足。Xiaomiスマートウォッチが「最適解な理由」",
+      "description": "この記事は2025年3月16日に公開された記事を編集して再掲載しています。 ※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。   スマートウォッチ（スマウォ）がスマートフォン（スマホ）ほど普 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738003",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "いろいろ使ったけど、結局ナーズの「リフ粉」がいい。あえて“ミニサイズ”を選ぶ理由があるんだ",
       "description": "汗や皮脂でメイク崩れが気になるこの季節。 適度なツヤ感は残したいものの、テカってる感じは出したくなく、フェイスパウダー選びって意外とむずかしいんですよね。 とにかく減りが遅い、ナーズの「リフ粉」 ナーズ「ライトリフレクテ [&#8230;]",
       "link": "https://getnews.jp/archives/3738002",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3737992",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "洗車に掃除に踏み台に大活躍。1台4役の「かしこいバケツ」が17％オフ",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  家の中でも外でも、使う道具が増えると収納場所に困りがちですよね。 そんなとき、日常からアウトドアまで幅広く活用できる、イノマタ化学（Ino [&#8230;]",
-      "link": "https://getnews.jp/archives/3737998",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-19T13:50:08.262396",
+  "updatedAt": "2026-08-19T14:38:58.496759",
   "sites": [
     {
       "id": "hachima",
