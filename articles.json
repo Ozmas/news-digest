@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "謎を解くカギは寝方にあり！ 勘が働く不良仲間！　四コマサボタージュFB第69回「幽体離脱」",
+      "description": "今まで右向きに横になる恰好で寝ていたのだけど、過度に体重がかかるのか腰が痛くなるんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/20/2789424/",
+      "pubDate": "Wed, 19 Aug 2026 22:00:50 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-69.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【地獄】暴落止まらないキオクシア株価、最も多額の金を溶かして退場した個人投資家が現れてしまう…　「今年資産10億から誰が◯◯◯円まで激減すると思うねん」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10558955.html",
+      "pubDate": "2026-08-20T07:00:46+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国側の招待で中道・自民・立憲の議員が北京へ「日中関係は現在すべてのパイプが失われ過去最悪の状況」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457213.html",
+      "pubDate": "2026-08-20T07:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89181a08.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "AIによるディープフェイクがミステリー小説にも影響を与えていると推理小説家が解説",
+      "description": "生成AIの発達によって、これまでより大幅に少ない労力と時間で、本物と見間違うほど精巧な動画や画像、音声を生成できるようになりました。こうしたAI生成のディープフェイクがミステリー小説にも影響を与えていると、『＃ニーナに何があったのか？』などのミステリー小説で知られるオーストラリア人作家のダーヴラ・マクティアナン氏が解説しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260820-ai-deepfakes-changing-rules-crime-fiction/",
+      "pubDate": "Thu, 20 Aug 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -678,19 +730,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【怖すぎ】高齢者を助けて警察から感謝状をもらった女、中年男性を誘拐して逮捕される　トクリュウが関与か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558816.html",
-      "pubDate": "2026-08-19T18:30:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/4/b4bf2030.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -977,32 +1016,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "AppleがEUのApp Store手数料を変更、インストール数課金「Core Technology Fee」を廃止しApp Store外で配信されるアプリの手数料は売上の5％に",
-      "description": "AppleがEUで配信されるサードパーティーアプリに課される手数料を変更し、インストール数に応じて開発者へ料金を課す「Core Technology Fee(CTF)」を廃止すると発表しました。代わりにApp Store以外で配信されるアプリの売上の5％を手数料として徴収する「Core Technology Commission(CTC)」が導入されます。新しい取引条件は2026年10月1日から適",
-      "link": "https://gigazine.net/news/20260819-apple-eu-commission/",
-      "pubDate": "Wed, 19 Aug 2026 12:52:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【画像】東京都心・家賃5万円の物件、ガチでヤバすぎるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457155.html",
-      "pubDate": "2026-08-19T12:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d6261aef.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1261,19 +1274,6 @@
       "link": "https://rocketnews24.com/2026/08/18/2790703/",
       "pubDate": "Tue, 18 Aug 2026 05:00:52 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2690-2.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【Amazon】最大70％オフ！ 価格が一気に下がった注目アイテム26選（8月18日）",
-      "description": "毎日お得なタイムセールを開催しているAmazon。家電・食品・ファッションなど、さまざまなカテゴリーのアイテムを特別価格でゲットできるチャンス。 本日は、価格が一気に下がった注目のアイテムを厳選ピックアップしてみたぞ。  [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/18/2792089/",
-      "pubDate": "Tue, 18 Aug 2026 04:04:35 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_5952_b6da97_7b45ee.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-19T21:54:38.508267",
+  "updatedAt": "2026-08-19T22:29:35.201225",
   "sites": [
     {
       "id": "hachima",
