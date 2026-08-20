@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "8歳の時に父と兄と富士山に登り、8合目で体力の限界を迎えたが、父と兄は山頂アタック…水筒と酸素のスプレー缶と板チョコ１枚を大事に抱えたまま、岩場で数時間過ごした",
+      "description": "8歳の時に父と兄と富士山に登り、8合目で体力の限界を迎えたが、父と兄は山頂アタック…水筒と酸素のスプレー缶と板チョコ１枚を大事に抱えたまま、岩場で数時間過ごした",
+      "link": "https://togetter.com/li/2735565",
+      "pubDate": "Fri, 21 Aug 2026 07:29:27 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "なぜか高円寺のコインパーキングに落ちてた、普通の人なら犬の糞かと思うけど俺の目は誤魔化せないぜ「これはうんこですね」「池袋のヨドバシに返してこい」",
+      "description": "なぜか高円寺のコインパーキングに落ちてた、普通の人なら犬の糞かと思うけど俺の目は誤魔化せないぜ「これはうんこですね」「池袋のヨドバシに返してこい」",
+      "link": "https://togetter.com/li/2735564",
+      "pubDate": "Fri, 21 Aug 2026 07:23:46 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本政府、アメリカ産ジャガイモの輸入解禁手続きを進める→農家ブチギレ「断じて容認できない」「現場の意欲を著しく低下させる」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457269.html",
+      "pubDate": "2026-08-21T07:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/8/888c2c30.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "いつものヤツが出てこない！ 代わりに来たアイツ！　四コマサボタージュFB第70回「本命」",
+      "description": "大人だから良い財布が欲しくてネットで調べたりしてたのだけど、やっぱり結構良い値がするね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/21/2789425/",
+      "pubDate": "Thu, 20 Aug 2026 22:00:48 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-70.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "伝説の転生SF漫画『ぼくの地球を守って』、実写ドラマ化決定！　主演は広瀬アリスさん",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559294.html",
+      "pubDate": "2026-08-21T07:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/4/0493d32e.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "映画『バックルームズ』の劇場限定16分映像『Everything Must Go』がYouTubeで公開、ケイン・パーソンズのシリーズ最新作として視聴可能に",
+      "description": "インターネット発の都市伝説「The Backrooms」を独自の映像作品へ発展させてきた映像作家ケイン・パーソンズが、シリーズ最新作『Backrooms - Everything Must Go』を2026年8月18日にYouTubeで公開しました。約16分の『Everything Must Go』は2026年5月29日にアメリカで公開された映画『バックルームズ』のエンドロール後に上映されていた追",
+      "link": "https://gigazine.net/news/20260821-backrooms-everything-must-go/",
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -457,32 +535,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ビルの看板にゲームセンターって書いてあって見に行ったらパチスロ実機が2台置かれてるだけだった→機種が懐かしすぎて打ちたいと言い出す人が続出",
-      "description": "ビルの看板にゲームセンターって書いてあって見に行ったらパチスロ実機が2台置かれてるだけだった→機種が懐かしすぎて打ちたいと言い出す人が続出",
-      "link": "https://togetter.com/li/2735436",
-      "pubDate": "Thu, 20 Aug 2026 21:13:59 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ゆうきまさみ先生が「後藤隊長は後藤田正晴から来ているという説はどこから来たんだ？」と疑問を呈していたが、普通にカミソリ後藤田だと思っていた人が多数",
-      "description": "ゆうきまさみ先生が「後藤隊長は後藤田正晴から来ているという説はどこから来たんだ？」と疑問を呈していたが、普通にカミソリ後藤田だと思っていた人が多数",
-      "link": "https://togetter.com/li/2735432",
-      "pubDate": "Thu, 20 Aug 2026 21:01:24 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -704,19 +756,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "くら寿司、最低価格「115円→110円」値下げ発表！ なお33品目は「115円→120円」値上げ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559207.html",
-      "pubDate": "2026-08-20T18:40:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca6b81f0.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -847,19 +886,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性「なんかお腹出てきてヤバいんだけどｗ」ﾊﾟｼｬｯ→衝撃の原因が明らかに・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457231.html",
-      "pubDate": "2026-08-20T15:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/6/06feac3b-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -962,19 +988,6 @@
       "link": "https://rocketnews24.com/2026/08/20/2792941/",
       "pubDate": "Thu, 20 Aug 2026 03:14:35 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/18851.jpg"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "100歳以上の高齢者の体内にはがん細胞を殺す珍しい免疫細胞が多いとの研究結果",
-      "description": "100歳を超えて長生きする人々はセンテナリアンと呼ばれ、中には110歳を超えるスーパーセンテナリアンと呼ばれる人々もいます。日本の大阪大学や慶應義塾大学などの研究チームが、これらの人々の体内には「がん細胞を殺す珍しい免疫細胞」が多いことを発見しました。続きを読む...",
-      "link": "https://gigazine.net/news/20260820-live-past-100-cancer-killing-cells/",
-      "pubDate": "Thu, 20 Aug 2026 12:00:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1170,19 +1183,6 @@
       "link": "https://rocketnews24.com/2026/08/19/2792450/",
       "pubDate": "Wed, 19 Aug 2026 04:22:48 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_4339_74e51f.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ホリエモン × 鳥羽シェフ】構想1年！「小麦の奴隷」チームが作った『十割そば たもつ』のこだわりが凄かった",
-      "description": "ホリエモンこと、堀江貴文氏は食通として知られており、自身の発案によって誕生した地方活性型エンタメパン屋「小麦の奴隷」は、フランチャイズを含め全国に店舗展開している。 その運営元の「株式会社こむぎの」が2026年7月中旬に [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/19/2791800/",
-      "pubDate": "Wed, 19 Aug 2026 02:55:42 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/10tamotsu.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-20T21:33:00.699145",
+  "updatedAt": "2026-08-20T22:32:43.847111",
   "sites": [
     {
       "id": "hachima",
