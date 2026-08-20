@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "コンビニのおにぎりが値上がりしまくっていて「おむすび権米衛」の値段と変わらなくなってきた…「おむすび権米衛」のほうが満足度が高いと感じる人の声が集まる",
+      "description": "コンビニのおにぎりが値上がりしまくっていて「おむすび権米衛」の値段と変わらなくなってきた…「おむすび権米衛」のほうが満足度が高いと感じる人の声が集まる",
+      "link": "https://togetter.com/li/2735450",
+      "pubDate": "Thu, 20 Aug 2026 22:38:08 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『脳外科医竹田くん』モデル事件が起こった病院、患者が減り過ぎで経営改革 → 赤穂市で非正規職員130人の雇い止めへ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559230.html",
+      "pubDate": "2026-08-20T22:30:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/9/5989bce1.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "斎藤知事「ちいかわってなんですか？」記者「観たほうがいいと思いますよ」→実際に観に行った結果ｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457257.html",
+      "pubDate": "2026-08-20T22:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/509dc5b4.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【売り上げランキング】PS5『ビーストオブリンカネーション』4.8万本！『リズム天国 ミラクルスターズ』は4度目の首位獲得！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10557010.html",
+      "pubDate": "2026-08-20T22:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/c/6cbbeef0.jpg"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "AIエージェントを「マウスの動き」で見抜く検知手法が研究されている",
+      "description": "ウェブサイト上で人間の代わりに操作するAIエージェントを「マウスの動き」から見分ける手法をCDNやサイバーセキュリティサービスを提供するAkamaiが研究しています。人間とAIエージェントではマウス操作の回数や間隔に大きな違いがあり、Akamaiは少ない操作データでもAIエージェント特有の振る舞いを判別する仕組みを試作しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260820-akamai-identify-agent/",
+      "pubDate": "Thu, 20 Aug 2026 22:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -138,8 +203,8 @@
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "『脳外科医竹田くん』モデル事件が起こった病院が経営改革を実施、病院職員の一部が市役所へ異動に→市役所勤めだった非正規130人の雇い止めが発生「この救いのなさ」",
-      "description": "『脳外科医竹田くん』モデル事件が起こった病院が経営改革を実施、病院職員の一部が市役所へ異動に→市役所勤めだった非正規130人の雇い止めが発生「この救いのなさ」",
+      "title": "『脳外科医竹田くん』事件の病院が経営難に陥り業務改革を実施、一部病院職員が市役所へ異動に→元々市役所勤めをしていた非正規130人に雇い止めが発生「この救いのなさ」",
+      "description": "『脳外科医竹田くん』事件の病院が経営難に陥り業務改革を実施、一部病院職員が市役所へ異動に→元々市役所勤めをしていた非正規130人に雇い止めが発生「この救いのなさ」",
       "link": "https://togetter.com/li/2735423",
       "pubDate": "Thu, 20 Aug 2026 20:50:16 +0900",
       "thumbnail": ""
@@ -233,19 +298,6 @@
       "description": "2026年8月21日にアメリカ・イギリスで公開されるジャン＝フランソワ・リシェ監督、ジェイソン・ステイサム主演の映画「Mutiny」が、Amazonプライム・ビデオのアメリカ版で全編ストリーミング配信されていたことが報じられています。続きを読む...",
       "link": "https://gigazine.net/news/20260820-amazon-mutiny/",
       "pubDate": "Thu, 20 Aug 2026 20:30:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "リビングのエアコンをつけたら「初めてご使用いただいた日から長い年月が経ちました。今まで大事に使ってくれて、ありがとう」と言い出した→買い替えを検討？2027年問題も",
-      "description": "リビングのエアコンをつけたら「初めてご使用いただいた日から長い年月が経ちました。今まで大事に使ってくれて、ありがとう」と言い出した→買い替えを検討？2027年問題も",
-      "link": "https://togetter.com/li/2735417",
-      "pubDate": "Thu, 20 Aug 2026 20:26:16 +0900",
       "thumbnail": ""
     },
     {
@@ -769,19 +821,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/4/04b4efb0-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「会社に猫を連れてくる社員がいてうざい。一日中ニャーニャー鳴いてて、マジでうるさい」　→　その直後に判明した真相が恐ろしすぎて11万いいね…マジか((((( ；ﾟДﾟ)))",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559040.html",
-      "pubDate": "2026-08-20T13:20:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/0/a0042197.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -806,19 +845,6 @@
       "link": "https://jin115.com/archives/52457222.html",
       "pubDate": "2026-08-20T13:00:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/9/498e03bb.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "娘が車同士の物損事故を起こしたが相手夫婦がイキリ散らかして娘の車の窓ドンドン叩いて恫喝　→　全てを録画してたドラレコを警察に提出した結果、悲惨な末路にｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559036.html",
-      "pubDate": "2026-08-20T13:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b652b932.jpg"
     },
     {
       "siteId": "gigazine",
@@ -912,19 +938,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/6/a643b730.jpg"
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "StripeがOpenRouterの買収を正式発表、AIのための経済インフラを構築へ",
-      "description": "決済サービス大手のStripeが、AIゲートウェイサービスを展開するOpenRouterとの買収契約に合意したことを現地時間の2026年8月19日に発表しました。続きを読む...",
-      "link": "https://gigazine.net/news/20260820-stripe-acquire-openrouter/",
-      "pubDate": "Thu, 20 Aug 2026 11:33:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1001,19 +1014,6 @@
       "link": "https://jin115.com/archives/52457218.html",
       "pubDate": "2026-08-20T10:30:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c830ec14.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女子「もう！なんで女子トイレばっかり行列できるのよ！」→調べた結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457217.html",
-      "pubDate": "2026-08-20T10:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/1/c1d36792.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,45 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "アイロンは面倒、スチーマーだけだと伸ばしきれない…。山崎実業の「ノートみたいな板」で解決した！",
+      "description": "着たいと思った服に袖を通したら、シワが気になってきた……。 かといって、出かける直前にアイロンとアイロン台を出すのはめんどくさいですよね。 手軽な衣類スチーマーだけで、しっかりパリッとシワを伸ばすのも至難の業。 そのせい [&#8230;]",
+      "link": "https://getnews.jp/archives/3738232",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "“ムカデ人間の先頭”北村昭博、『ムカデ人間』ビギナーを歓迎　「怖がらずに観に来て」「一生忘れられない濃い映画体験になる」［ホラー通信］",
+      "description": "オランダの鬼才トム・シックス監督が手掛けた『ムカデ人間』が美しくクリアに4Kリマスターされ、８月21日(金)よりリバイバル上映。ムカデ人間の先頭・カツロー役を演じた北村昭博さんがインタビューに応じてくれた。 日本公開から [&#8230;]",
+      "link": "https://getnews.jp/archives/3738085",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "雨のパレード、新曲「Ghost Bullets」MV公開",
+      "description": "雨のパレードが2026年8月19日(水)にリリースしたニューシングル「Ghost Bullets」のミュージックビデオを公開した。 本作は、オルタナティブR&#38;Bのムードと洗練されたダンスグルーヴが融合した1曲。夜 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738231",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "着る日焼け対策、肌寒い室内用にも！ ナンガの「超コンパクトに持ち歩ける長袖シャツ」は夏場でも出番が多い1着です",
       "description": "去年購入してから、夏の心強い快適パンツとして愛用している、NANGA（ナンガ）の「PLCエクスカーションパンツ」。 このパンツに使われている生地の肌触りと軽さがクセになり、同じ生地を使った同シリーズの服が気になっていまし [&#8230;]",
       "link": "https://getnews.jp/archives/3738228",
@@ -1781,48 +1820,9 @@
       "link": "https://getnews.jp/archives/3738221",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【大阪府大阪市】ホテル「トラベロッジ大阪心斎橋」開業！内装施工を手掛けたのはタクトデザイン工房",
-      "description": "シンガポールを拠点にアジアでホテル展開を急拡大する「トラベロッジ・ホテルズ・アジア」が、インバウンド需要が高まる関西エリアの中心である大阪・心斎橋に、旗艦拠点「トラベロッジ大阪心斎橋」を8月に開業！8月6日(木)にオープ [&#8230;]",
-      "link": "https://getnews.jp/archives/3738225",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "電動歯ブラシを始めるならこれ？ ブラウン「オーラルB iO2」が41％オフ",
-      "description": "電動歯ブラシをこれから使い始めたい人に向けた、BRAUN（ブラウン）のエントリーモデル「オーラルB iO2」がAmazonでタイムセール中です。 オーラルB独自の丸型回転ブラシや押し付け防止センサーなど、電動歯ブラシ初心 [&#8230;]",
-      "link": "https://getnews.jp/archives/3738081",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【福岡県小郡市】九州国際学院、外国人技能実習生が主体となり令和8年熊本地震の被災地へ物資支援実施",
-      "description": "支援先の施設での写真撮影 福岡市の「RPJ」が運営する「九州国際学院」は、現在講習中の外国人技能実習生たちが主体となり、熊本県で発生した地震の被災地へ物資支援を行った。 被災者や先輩を支える思いから実施された物資支援 支 [&#8230;]",
-      "link": "https://getnews.jp/archives/3738226",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-20T12:58:33.677511",
+  "updatedAt": "2026-08-20T13:53:26.217391",
   "sites": [
     {
       "id": "hachima",
