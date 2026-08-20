@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "浜口京子さん最新の姿がコチラ！なんか筋肉スゲェことになっちゃってるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559232.html",
+      "pubDate": "2026-08-21T05:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/a/8a0cdeff-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "同人作家「亡くなった叔父さんの遺品を整理しよっと…ん？」 → とんでもない物が出てきてネット民も大号泣・・・(´;ω;｀)",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457252.html",
+      "pubDate": "2026-08-21T05:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/080c4855-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -678,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/3/b3aac833.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【恐怖】立憲民主党の男性党員、AIで架空の女性議員候補アカウントを作成して活動　キモすぎると話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559087.html",
-      "pubDate": "2026-08-20T18:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/85ba2928-s.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -884,19 +897,6 @@
       "link": "https://rocketnews24.com/2026/08/20/2792819/",
       "pubDate": "Thu, 20 Aug 2026 05:00:57 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2692-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【朗報】ベトナム政府「海外で違法残留した奴ら高額罰金な」→ビビったベトナム人が入管に殺到する事態に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457229.html",
-      "pubDate": "2026-08-20T14:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/ce397cbe.png"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-20T19:35:42.945190",
+  "updatedAt": "2026-08-20T20:34:22.587628",
   "sites": [
     {
       "id": "hachima",
