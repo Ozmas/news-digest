@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ブルアカ同人色紙オークション問題で改めて考える必要がある「2次創作ガイドライン」…公式以外が自警団的に動くのは筋違いであり、公式からの警告で頒布中止になった例も",
+      "description": "ブルアカ同人色紙オークション問題で改めて考える必要がある「2次創作ガイドライン」…公式以外が自警団的に動くのは筋違いであり、公式からの警告で頒布中止になった例も",
+      "link": "https://togetter.com/li/2735533",
+      "pubDate": "Fri, 21 Aug 2026 03:14:52 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『リコリス・リコイル』公式さん、イラストで盛大にやらかすｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559226.html",
+      "pubDate": "2026-08-21T03:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/b/4be86be5-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "体重100キロ近い人気YouTuber「痩せると話題のマンジャロ使ってみるわ！」 → 数ヶ月後、とんでもないことになっていたｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457250.html",
+      "pubDate": "2026-08-21T03:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/7996e0b9-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -405,19 +444,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "近所に見たこともない不気味な生物が現れたけど何の動物？→疥癬にかかったタヌキのようだが、最近目撃例が多いとの声が相次ぐ「全国的に増えてない？」",
-      "description": "近所に見たこともない不気味な生物が現れたけど何の動物？→疥癬にかかったタヌキのようだが、最近目撃例が多いとの声が相次ぐ「全国的に増えてない？」",
-      "link": "https://togetter.com/li/2735426",
-      "pubDate": "Thu, 20 Aug 2026 20:54:09 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -691,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/892b468b.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】「今回の震災は天罰だ。2030年までに日本を地球上から消滅させよう」中国で”熊本地震”への罵詈雑言",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559075.html",
-      "pubDate": "2026-08-20T17:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/c/9cce7d59-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -936,19 +949,6 @@
       "link": "https://rocketnews24.com/2026/08/20/2792941/",
       "pubDate": "Thu, 20 Aug 2026 03:14:35 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/18851.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女子高生ミスコン2026、都道府県別の代表が出揃う！これは可愛いいいい！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457226.html",
-      "pubDate": "2026-08-20T12:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/b/3bd7df76.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-20T17:34:32.470475",
+  "updatedAt": "2026-08-20T18:47:29.841749",
   "sites": [
     {
       "id": "hachima",
