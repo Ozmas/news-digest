@@ -2,6 +2,162 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2692回「8月」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/08/20/2792819/",
+      "pubDate": "Thu, 20 Aug 2026 05:00:57 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2692-2.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【朗報】ベトナム政府「海外で違法残留した奴ら高額罰金な」→ビビったベトナム人が入管に殺到する事態に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457229.html",
+      "pubDate": "2026-08-20T14:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/ce397cbe.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "またもや淫夢ブームか… 野獣の日に投稿されたとある動画が10日で100万回再生数を突破し、話題のヤニねこよりもよく見られている動画に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559030.html",
+      "pubDate": "2026-08-20T14:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a1cd719-s.png"
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "1日に少なくとも1杯の砂糖入り飲料を飲む人は胃がんになる確率が2倍以上になるとの研究結果",
+      "description": "砂糖の過剰摂取が健康に悪いことは広く知られており、これまでの研究では生物学的老化の加速や心血管疾患のリスク増加などを引き起こすことが示されています。新たな研究では、1日に少なくとも1杯(約237ml)の砂糖入り飲料を飲む人は、胃がんになる確率が約2.45倍になるという結果が報告されました。続きを読む...",
+      "link": "https://gigazine.net/news/20260820-sugar-sweetened-beverages-linked-stomach-cancer/",
+      "pubDate": "Thu, 20 Aug 2026 14:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "熱いアスファルトの上で動けずにいる何らかの幼虫を発見→虫が苦手な人が取った行動がこちら「自分の性格に辟易とした」",
+      "description": "熱いアスファルトの上で動けずにいる何らかの幼虫を発見→虫が苦手な人が取った行動がこちら「自分の性格に辟易とした」",
+      "link": "https://togetter.com/li/2735234",
+      "pubDate": "Thu, 20 Aug 2026 13:49:22 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "『マクドナルドが完全にフィリピンの米食文化に屈している』大手チェーン店が米メニューをふんだんに取り揃えていてすごい「なぜ日本にはない？」",
+      "description": "『マクドナルドが完全にフィリピンの米食文化に屈している』大手チェーン店が米メニューをふんだんに取り揃えていてすごい「なぜ日本にはない？」",
+      "link": "https://togetter.com/li/2735232",
+      "pubDate": "Thu, 20 Aug 2026 13:46:56 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「ゲーセンでちいかわ取った時に『娘が欲しいんで譲ってもらえませんか？』と言われた。その後、とんでもないこと言われたんだが…」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559026.html",
+      "pubDate": "2026-08-20T13:40:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/4/04b4efb0-s.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "藤崎マーケット田崎さんが難波でPayPay1.3万円と現金1万円の交換を頼まれ、咄嗟に「交番いきますか？」と言うと断られたので「ライライなら出来るんですけど？」と言った話",
+      "description": "藤崎マーケット田崎さんが難波でPayPay1.3万円と現金1万円の交換を頼まれ、咄嗟に「交番いきますか？」と言うと断られたので「ライライなら出来るんですけど？」と言った話",
+      "link": "https://togetter.com/li/2735228",
+      "pubDate": "Thu, 20 Aug 2026 13:31:10 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "妻と見てたレストランのサイトのメニューがなんかバグってて爆笑した「本格本格ナ格ナポナポリ風マ風マルマルゲルゲリータ！」",
+      "description": "妻と見てたレストランのサイトのメニューがなんかバグってて爆笑した「本格本格ナ格ナポナポリ風マ風マルマルゲルゲリータ！」",
+      "link": "https://togetter.com/li/2735227",
+      "pubDate": "Thu, 20 Aug 2026 13:27:31 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「会社に猫を連れてくる社員がいてうざい。一日中ニャーニャー鳴いてて、マジでうるさい」　→　その直後に判明した真相が恐ろしすぎて11万いいね…マジか((((( ；ﾟДﾟ)))",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559040.html",
+      "pubDate": "2026-08-20T13:20:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/0/a0042197.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「島二郎ってなんであんなに人気があるんだろう？」ただ手作りカレーを振る舞って、頼もしいのに気を遣わせないムーブもできるおっさんってだけなのに…",
+      "description": "「島二郎ってなんであんなに人気があるんだろう？」ただ手作りカレーを振る舞って、頼もしいのに気を遣わせないムーブもできるおっさんってだけなのに…",
+      "link": "https://togetter.com/li/2735225",
+      "pubDate": "Thu, 20 Aug 2026 13:16:17 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "SpaceXによる買収報道をAIスタートアップ・Cognitionのスコット・ウーCEOが否定、「売却予定なし」",
+      "description": "「SpaceXがAIコーディングのスタートアップ・Cognitionに買収打診を行った」という報道があり、Cognitionのスコット・ウーCEOが「そういった事実はなく、売却の予定はない」と否定しています。続きを読む...",
+      "link": "https://gigazine.net/news/20260820-cognition-is-not-for-sale/",
+      "pubDate": "Thu, 20 Aug 2026 13:16:00 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -132,19 +288,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「刺さる内容だなあ」ITの職場において、低スキル者を排除することが成功のために重要だとする記事が話題に、「一見その通りかなと思うけど……」という意見もあるが",
-      "description": "「刺さる内容だなあ」ITの職場において、低スキル者を排除することが成功のために重要だとする記事が話題に、「一見その通りかなと思うけど……」という意見もあるが",
-      "link": "https://togetter.com/li/2735212",
-      "pubDate": "Thu, 20 Aug 2026 12:19:16 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -156,32 +299,6 @@
       "link": "https://rocketnews24.com/2026/08/20/2792941/",
       "pubDate": "Thu, 20 Aug 2026 03:14:35 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/18851.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "アニメイト店長時代にコミケに行こうとするも阻止されていた人が、C96でコミケ参加を実現→現在は転職して2児のパパに",
-      "description": "アニメイト店長時代にコミケに行こうとするも阻止されていた人が、C96でコミケ参加を実現→現在は転職して2児のパパに",
-      "link": "https://togetter.com/li/2735208",
-      "pubDate": "Thu, 20 Aug 2026 12:07:50 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「この本読んでこの世の終わりくらい泣いた」ヨシタケシンスケ先生の絵本『あんなに あんなに』を読んだけど涙を堪えるのに必死だった、子育てしてる人には読んでほしい",
-      "description": "「この本読んでこの世の終わりくらい泣いた」ヨシタケシンスケ先生の絵本『あんなに あんなに』を読んだけど涙を堪えるのに必死だった、子育てしてる人には読んでほしい",
-      "link": "https://togetter.com/li/2734932",
-      "pubDate": "Thu, 20 Aug 2026 12:05:33 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -223,19 +340,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "車同士の事故で、相手が夫を呼んで窓をどんどん叩いてきたので被害届を出したら暴行容疑で書類送検され、泣きながら謝罪しようとしてきた「感情的になったら負け」",
-      "description": "車同士の事故で、相手が夫を呼んで窓をどんどん叩いてきたので被害届を出したら暴行容疑で書類送検され、泣きながら謝罪しようとしてきた「感情的になったら負け」",
-      "link": "https://togetter.com/li/2735207",
-      "pubDate": "Thu, 20 Aug 2026 11:59:23 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -246,19 +350,6 @@
       "description": "30人乗りの完全電動飛行機のデモ機「X1」が初飛行に成功しました。動力はバッテリーのみで、27分間の飛行で5ドル(約800円)分の電力を消費したとのことです。続きを読む...",
       "link": "https://gigazine.net/news/20260820-electric-aircraft-xi/",
       "pubDate": "Thu, 20 Aug 2026 11:50:00 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "東日本大震災をネタにしているホラー小説を読んでウワッとなった…実際の事件や事故をエンタメに組み込むのに忌避感を覚えるかどうかの違いは年月か規模かどっちなんだろ",
-      "description": "東日本大震災をネタにしているホラー小説を読んでウワッとなった…実際の事件や事故をエンタメに組み込むのに忌避感を覚えるかどうかの違いは年月か規模かどっちなんだろ",
-      "link": "https://togetter.com/li/2735205",
-      "pubDate": "Thu, 20 Aug 2026 11:47:06 +0900",
       "thumbnail": ""
     },
     {
@@ -782,32 +873,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/b/ab0f9902.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "セブンイレブンも店内POPに生成AI使用で物議！「買う気しないからやめてほしい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558895.html",
-      "pubDate": "2026-08-20T04:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0b7ef69b-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ハイキュー!!』新作アニメ2本のビジュアルとPVが公開！相変わらずクオリティ高ぇ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558892.html",
-      "pubDate": "2026-08-20T03:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7c8d15f6.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -819,19 +884,6 @@
       "link": "https://jin115.com/archives/52457202.html",
       "pubDate": "2026-08-20T03:00:02+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/4/246dd192-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『パルワールド』と『ノーマンズスカイ』、コラボ決定か！？開発者がXで反応",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10558913.html",
-      "pubDate": "2026-08-20T02:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/2642a5a1.jpg"
     },
     {
       "siteId": "jin",
@@ -964,19 +1016,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2086a.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "出勤前にパチンコ大当たりした男性、人生を賭ける暴挙に出る",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457197.html",
-      "pubDate": "2026-08-19T21:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89d072f5.jpg"
-    },
-    {
       "siteId": "gigazine",
       "siteName": "GIGAZINE",
       "siteShortName": "GIGAZINE",
@@ -1003,19 +1042,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "函館名物の味がスープとともに楽しめる「函館ラッキーピエロ万歳焼きそば」を食べてみた",
-      "description": "函館のローカルハンバーガーチェーンとして愛され、ご当地バーガー日本一にも選ばれている函館ラッキーピエロのメニューをインスタント麺にした「函館ラッキーピエロ万歳焼きそば」がローソンに並んでいたので、買ってきて食べてみました。続きを読む...",
-      "link": "https://gigazine.net/news/20260819-lucky-pierrot-yakisoba/",
-      "pubDate": "Wed, 19 Aug 2026 19:48:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1027,19 +1053,6 @@
       "link": "https://rocketnews24.com/2026/08/19/2792591/",
       "pubDate": "Wed, 19 Aug 2026 10:00:34 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1f645175-7c5d-4632-9d1e-97adf0f85390.png"
-    },
-    {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "AIの利用拡大を懸念しているアメリカの若者が過半数を突破、AIにより仕事が奪われると考える人も増加している",
-      "description": "近年はChatGPTやGeminiといったチャットAIの利用が一般的になり、仕事や勉強などにAIを活用する人々も増えています。ところがアメリカのピュー研究所が2026年6月に行った調査では、18～29歳の若者の過半数がAIについて期待よりもむしろ懸念を抱いていることが浮き彫りになりました。続きを読む...",
-      "link": "https://gigazine.net/news/20260819-young-americans-increasingly-wary-ai/",
-      "pubDate": "Wed, 19 Aug 2026 19:00:00 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1183,19 +1196,6 @@
       "link": "https://rocketnews24.com/2026/08/19/2792187/",
       "pubDate": "Wed, 19 Aug 2026 00:00:09 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/b024786b-d26f-49b0-9d5a-a43d1020fdb4.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "日焼け対策ガチ勢がワークマンの「980円フェイスガード」「780円アームカバー」を使ってみた！ 愛用中のヤケーヌと比べてわかった正直なところ",
-      "description": "日差しが強い季節、私（夏野）が外出するときに欠かせないものがある。 それが、日焼け対策用フェイスカバーだ。 顔の下半分から首元までガッツリ覆ってくれるので、日焼け対策としては非常に心強い。息苦しさも少なく、私はかなり気に [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/19/2791144/",
-      "pubDate": "Tue, 18 Aug 2026 23:00:34 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/LINE_ALBUM_20260806-_1_260808_42.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,45 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【沖縄グルメ】沖縄大好き人間がガチで推す「絶対に食べて欲しい沖縄本島グルメランキングトップ5」",
+      "description": "こんにちは、なまら沖縄大好き人間です。沖縄県には無数においしいグルメがたくさんあります。あまりにもおいしすぎて、沖縄に移住したいと思う人もいる事でしょう。特に沖縄本島には、なまらウマイ絶品グルメが存在します。 沖縄大好き [&#8230;]",
+      "link": "https://getnews.jp/archives/3737999",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "「今読んでる本だけ収納したい」は、山崎実業の新作本棚で叶う！ 手に取りやすいから積読も減りそうだ",
+      "description": "暮らしを快適にするために、日々さまざまなアイテムをリサーチしたり、試したりしているROOMIEライター。 本記事では、そんな彼らが、今気になったものを紹介していきます。 専用の大きな棚を買うほどではないちょっとした量の本 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738114",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "隅田川往く船上でイタリア伝統のアペリティーボを！ イタリアンビール「ペローニ」主催のクルージングイベントを体験",
+      "description": "フレグランスの香りをまとわせて味わう「プロフューモ」という飲み方を提案するイタリアンプレミアムビールNo.1ブランド「ペローニ」。その主力商品『ペローニ ナストロアズーロ』の全国通年販売が8月25日よりスタート。これを記 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738113",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "愛媛の“おいしい”が全国へ！「愛媛百貨店」がAKOMEYA TOKYOで期間限定ポップアップを開催",
       "description": "愛媛県は、2026年9月1日から10月15日までの期間、ポップアップイベント「愛媛百貨店 in AKOMEYA TOKYO」を開催することを発表しました。   「愛媛百貨店 in AKOMEYA TOKYO」9月1日より [&#8230;]",
       "link": "https://getnews.jp/archives/3738105",
@@ -1781,48 +1820,9 @@
       "link": "https://getnews.jp/archives/3737952",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "愛媛の逸品がAKOMEYA TOKYOに集結！　鯛めしやみかんジュースなど全国6店舗で期間限定販売",
-      "description": "愛媛県は2026年9月1日から10月15日までの期間、ポップアップイベント「愛媛百貨店 in AKOMEYA TOKYO」を開催します。愛媛の逸品を集めた楽天市場のオンラインストア「愛媛百貨店」が、全国6カ所の「AKOM [&#8230;]",
-      "link": "https://getnews.jp/archives/3738076",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "メガラグラージはソロ周回が可能 / ふしぎなアメやわざマシンをガッツリ稼ぐ大チャンス到来中【ポケモンGO】",
-      "description": "8月24日10時まで『ポケモンGO』のメガレイドバトルに登場している「メガラグラージ」はソロでの撃破が可能！  ラグラージが1発ゲットできるというだけでも十分に破格！  さらに「ふしぎなアメ」やら「わざマシンスペシャル」 [&#8230;]",
-      "link": "https://getnews.jp/archives/3738042",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "50%オフも！Amazonタイムセールで「クーラーバッグ」や「アウトドアチェア」が今ならお買い得ですよ",
-      "description": "Amazon（アマゾン）で毎日開催されているAmazonタイムセール、今日2026年8月20日は「クーラーバッグ」や「アウトドアチェア」ほか、今すぐ欲しい人気のアイテムがお得に多数登場しています。 なお、以下の表示価格は [&#8230;]",
-      "link": "https://getnews.jp/archives/3738078",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-20T04:08:58.204370",
+  "updatedAt": "2026-08-20T05:04:54.377265",
   "sites": [
     {
       "id": "hachima",
