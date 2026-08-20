@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "フロムの完全新作PvPvE『ダスクブラッド』先行プレイ映像公開！かなりバカゲーの予感ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559265.html",
+      "pubDate": "2026-08-21T00:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/2/3284e7bd.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「江戸時代なら傘職人で生きていける」10歳になる子どもが紙で巨大な傘を作った話、お見事なクオリティのオシャレな傘でびっくり",
+      "description": "「江戸時代なら傘職人で生きていける」10歳になる子どもが紙で巨大な傘を作った話、お見事なクオリティのオシャレな傘でびっくり",
+      "link": "https://togetter.com/li/2735499",
+      "pubDate": "Fri, 21 Aug 2026 00:24:34 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "見た目が完全に”毛”な食べ物、発見される！クレープの具に使って、さらに追い毛している動画が話題にｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457247.html",
+      "pubDate": "2026-08-21T00:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/e/0e0892cd.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】スペイン本土のリゾートビーチに移民ボートが上陸⇒ 観光客が避難する大パニックになってしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559096.html",
+      "pubDate": "2026-08-21T00:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f818e465.jpg"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -298,19 +350,6 @@
       "description": "『脳外科医竹田くん』事件の病院が経営難に陥り業務改革を実施、一部病院職員が市役所へ異動に→元々市役所勤めをしていた非正規130人に雇い止めが発生「この救いのなさ」",
       "link": "https://togetter.com/li/2735423",
       "pubDate": "Thu, 20 Aug 2026 20:50:16 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「大雨で上流から流れてきた？」印旛沼の川漁師が網を回収していたら鮎を発見してめちゃくちゃ驚いていた→どこからきたのかや定着できるかの考察",
-      "description": "「大雨で上流から流れてきた？」印旛沼の川漁師が網を回収していたら鮎を発見してめちゃくちゃ驚いていた→どこからきたのかや定着できるかの考察",
-      "link": "https://togetter.com/li/2735422",
-      "pubDate": "Thu, 20 Aug 2026 20:49:46 +0900",
       "thumbnail": ""
     },
     {
@@ -730,19 +769,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/6/06feac3b-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「世界に先駆けて日本はAI止めない？日本はゲーム・アニメコンテンツを作るのはむちゃくちゃ強いじゃん」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559050.html",
-      "pubDate": "2026-08-20T15:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d03758e9-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -780,19 +806,6 @@
       "link": "https://jin115.com/archives/52457212.html",
       "pubDate": "2026-08-20T14:30:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/af306b2b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ブーメラン芸】蓮舫氏、千葉豪雨による水害に対する政府の対応を批判するポストを削除してしまい、叩かれる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559043.html",
-      "pubDate": "2026-08-20T14:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/b/3babc75c.jpg"
     },
     {
       "siteId": "gigazine",
@@ -975,19 +988,6 @@
       "link": "https://jin115.com/archives/52457211.html",
       "pubDate": "2026-08-20T11:20:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/08a1ab23.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "絵師さん「コミケ参加したらスタッフに『台車通ります！』って言われた…何が言いたいのかちゃんとハッキリして！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457221.html",
-      "pubDate": "2026-08-20T11:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/3/a3590282-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,45 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "Lienel、「一途な輪舞」配信開始 ”ピュアきゅん”溢れるドラマOP映像も公開",
+      "description": "Lienelが、MBSドラマフィル枠にて放送中の新ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌となっている新曲「一途な輪舞」を2026年8月21日(金)に配信リリースした。 オープニング主題歌を務める今作「一途 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738236",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【人生のホラー映画ベスト３】　『レディ・オア・ノット２』監督 マット・ベティネッリ＝オルピン＆タイラー・ジレット編［ホラー通信］",
+      "description": "映画関係者・著名人の皆さんにホラー映画のオールタイムベスト３作品を挙げていただく恒例企画です。 今回は、映画『レディ・オア・ノット２』が公開中のマット・ベティネッリ＝オルピン監督、タイラー・ジレット監督にお伺いしました。 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738083",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "ワンボタンで自動高速充填。ベストセラー「タイヤの空気入れ」",
+      "description": "この記事は2025年3月16日に公開された記事を編集して再掲載しています。 ※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  末っ子が自転車に乗れるようになり、私、妻、子ども２人の自転車4 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738234",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "アイロンは面倒、スチーマーだけだと伸ばしきれない…。山崎実業の「ノートみたいな板」で解決した！",
       "description": "着たいと思った服に袖を通したら、シワが気になってきた……。 かといって、出かける直前にアイロンとアイロン台を出すのはめんどくさいですよね。 手軽な衣類スチーマーだけで、しっかりパリッとシワを伸ばすのも至難の業。 そのせい [&#8230;]",
       "link": "https://getnews.jp/archives/3738232",
@@ -1781,48 +1820,9 @@
       "link": "https://getnews.jp/archives/3738191",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "「ちょこっとひとり焼肉」がしたい日は、手乗りサイズの卓上グリルを使って",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  「今日は焼肉が食べたい」と思っても、お店へ行くほどでもない日ってありますよね。 THANKO（サンコー）の「卓上おひとりさま焼き肉 ソログ [&#8230;]",
-      "link": "https://getnews.jp/archives/3738230",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "ウナギがなければゴンズイを食べればいいじゃない！ 刺されると死ぬほど痛い毒魚・ゴンズイを刺されながら食べてみた結果→衝撃的に旨い料理方法はコレ",
-      "description": "前回、刺されると死ぬほど痛い魚・ゴンズイに刺され、その痛みを味わいました。 今回はゴンズイの、ウナギのように上品で脂がのって非常に美味しいと評判の、その味を味わってみたいと思います。 ※ゴンズイの捌き方や刺された時の痛み [&#8230;]",
-      "link": "https://getnews.jp/archives/3737676",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "tayori、白鳥玉季が出演した新曲「ヘヴン」MV公開",
-      "description": "tayoriが2026年7月8日(水)にリリースしたニューシングル「ヘヴン」のミュージックビデオを公開した。 本作は、希望と憧憬を高らかに歌い上げた、多幸感あふれるナンバー。明るく爽やかなサウンドに乗せて描かれる鮮やかな [&#8230;]",
-      "link": "https://getnews.jp/archives/3738221",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-20T14:41:05.526659",
+  "updatedAt": "2026-08-20T15:38:20.986330",
   "sites": [
     {
       "id": "hachima",
