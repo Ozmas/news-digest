@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "令和No.1神ボディとして話題だった超人気グラドルさん、不倫報道で消える → 2年後、とんでもないことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457263.html",
+      "pubDate": "2026-08-21T04:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/a/5aed4079-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】配信者のラブマツさん『Undertale』の”アレ”を完全再現ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559229.html",
+      "pubDate": "2026-08-21T04:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/af2ec601.png"
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -678,19 +704,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「朝早く起きて、お弁当を用意したのに旦那からこう言われた！」 ← お前らどう 思う？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559082.html",
-      "pubDate": "2026-08-20T17:30:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/e/1e2097c3.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -910,19 +923,6 @@
       "link": "https://gigazine.net/news/20260820-cognition-is-not-for-sale/",
       "pubDate": "Thu, 20 Aug 2026 13:16:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【は？】撮り鉄、「誰が一番電車を遅延させたか」を競って電車を止めまくってしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457222.html",
-      "pubDate": "2026-08-20T13:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/9/498e03bb.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-20T18:47:29.841749",
+  "updatedAt": "2026-08-20T19:35:42.945190",
   "sites": [
     {
       "id": "hachima",
