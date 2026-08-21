@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "期待の新作ゲーム『Japanese Ramen Simulator』に明らかにラーメンハゲがいるんだけどｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559424.html",
+      "pubDate": "2026-08-22T05:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b0b25e37-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "岡村隆史さん、とんでもない事件を引き起こしていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457313.html",
+      "pubDate": "2026-08-22T05:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/c/9c823e93.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "オレンジジュース自販機「IJOOZ」が一部地域でサービス終了！安くて美味しい方なのに……",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10559665.html",
@@ -652,19 +678,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/18/11/subbuzz/4bTJvgaO5.jpg?crop=4127:2751;0,196&resize=1250:830"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ﾁｮﾜﾖ】話題の“スピキMMO”こと『スピキ育成』、ついに公式公認に！？モバイル向け対応で本家『トリッカル』開発元からサーバー用PCの支援ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559492.html",
-      "pubDate": "2026-08-21T18:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4d760a54-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -949,19 +962,6 @@
       "link": "https://gigazine.net/news/20260821-googlebook-event/",
       "pubDate": "Fri, 21 Aug 2026 13:15:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "農具メーカー「エヴァのスコップ作ったわ！1000本売れたらええやろ！」→想定よりも凄いことになるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457284.html",
-      "pubDate": "2026-08-21T13:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/3/33eddf95-s.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-21T19:51:25.867636",
+  "updatedAt": "2026-08-21T20:30:54.614570",
   "sites": [
     {
       "id": "hachima",
