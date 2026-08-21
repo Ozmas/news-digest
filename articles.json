@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "大阪中之島美術館で開催中のフェルメール展、真珠の耳飾りの少女の絵は真正面に行くまでに1時間くらいかかります「予約制の意味…」",
+      "description": "大阪中之島美術館で開催中のフェルメール展、真珠の耳飾りの少女の絵は真正面に行くまでに1時間くらいかかります「予約制の意味…」",
+      "link": "https://togetter.com/li/2735983",
+      "pubDate": "Sat, 22 Aug 2026 06:34:51 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -546,19 +559,6 @@
       "link": "https://jin115.com/archives/52457309.html",
       "pubDate": "2026-08-21T19:30:08+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/5/e5771e62-s.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ブラック企業に勤めた後、転職活動が100社超えで内定ゼロと無理を悟り、公務員試験に挑戦…アルバイト、受験、面接、合格発表を経て、無事に国税専門官の内定が決定した話",
-      "description": "ブラック企業に勤めた後、転職活動が100社超えで内定ゼロと無理を悟り、公務員試験に挑戦…アルバイト、受験、面接、合格発表を経て、無事に国税専門官の内定が決定した話",
-      "link": "https://togetter.com/li/2735831",
-      "pubDate": "Fri, 21 Aug 2026 19:21:28 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-21T21:29:19.997169",
+  "updatedAt": "2026-08-21T21:54:18.657714",
   "sites": [
     {
       "id": "hachima",
