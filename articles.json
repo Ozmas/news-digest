@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「親戚が『米20kgを1万円で売る』と言ってくれたのに、母がとんでもないことを言い出し悲しくなった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560267.html",
+      "pubDate": "2026-08-23T07:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/7/976bf403-s.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -494,19 +507,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/furukawa-yuta-suzumi-kata",
       "pubDate": "Sat, 22 Aug 2026 06:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/21/05/subbuzz/ko0iNoQm2.jpg?crop=1887:1258;0,206&resize=1250:830"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバイ】東京都で『レベル4 大雨危険警報』… 神田川は増水でレベル4氾濫危険警報、秋葉原でも浸水被害が出はじめる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560158.html",
-      "pubDate": "2026-08-22T19:30:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/6/16de6ee3.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-22T22:27:17.360154",
+  "updatedAt": "2026-08-22T22:51:44.666619",
   "sites": [
     {
       "id": "hachima",
