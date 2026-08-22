@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ママレード・ボーイ』全巻「100円」セール終了間際！全8巻「4,344円」→「800円」！今では許されないガチでやばすぎる設定の少女漫画！本日23時59分まで",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457387.html",
+      "pubDate": "2026-08-23T06:30:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/381f5cee.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -611,19 +624,6 @@
       "link": "https://jin115.com/archives/52457356.html",
       "pubDate": "2026-08-22T15:00:01+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/3/835c6500.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "海外民「この画像、子猫とウサギどちらに見える？」→様々な見え方がある中、日本人だけが◯◯◯にしか見えないと話題にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457354.html",
-      "pubDate": "2026-08-22T14:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8c54ea49.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-22T21:26:31.892262",
+  "updatedAt": "2026-08-22T21:49:12.760682",
   "sites": [
     {
       "id": "hachima",
