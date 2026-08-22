@@ -8,6 +8,32 @@
       "siteColor": "#60a5fa",
       "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
       "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「AIでアニメ作りました！」→ガチで面白すぎて話題にｗｗｗｗｗ「おもろくて悔しい」「AIアニメの正解はコレ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457375.html",
+      "pubDate": "2026-08-23T03:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/2/52ecffeb.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「男子高生ミスターコン」でネット民から絶大な支持を受けていた三重代表が辞退。原因はデスドルノートに晒されたことか",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560176.html",
+      "pubDate": "2026-08-23T03:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7cf323fd.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
       "title": "【速報】茨城で震度5弱の地震発生　東京・千葉・埼玉など首都圏でも強い揺れ",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52457400.html",
@@ -496,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/a/4a64090a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "外国人が女性VTuberたちに「自分を『雑魚』と呼んでくれ」 とリクエスト → その理由が怖すぎた「悪意マシマシ過ぎて横転」「スルーして正解だった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559837.html",
-      "pubDate": "2026-08-22T17:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fcbc0c88.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -650,19 +663,6 @@
       "link": "https://rocketnews24.com/2026/08/22/2793665/",
       "pubDate": "Sat, 22 Aug 2026 02:43:46 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2737-1.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女さん「サービスエリアのトイレ行列だけどお腹痛い！男子トイレ入るもん！」→通報され警察出動→女さん「早く帰って休みたかったのに本当に呆れた…」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457348.html",
-      "pubDate": "2026-08-22T11:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/f/9fb0d2d3.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-22T17:49:04.986187",
+  "updatedAt": "2026-08-22T18:37:11.089251",
   "sites": [
     {
       "id": "hachima",
