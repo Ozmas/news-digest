@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "京都市「駐輪場の不正駐輪チャリが多すぎる…せや！」 →とんでもない方法で対策を取り始めるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559808.html",
+      "pubDate": "2026-08-22T14:30:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/41a64907.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "決済手段が書かれた紙が置いてあってほしいのって、レジ前ではない「直前まで確認できないから慌てる」「入口や席にあればこちらも準備がしやすい」",
+      "description": "決済手段が書かれた紙が置いてあってほしいのって、レジ前ではない「直前まで確認できないから慌てる」「入口や席にあればこちらも準備がしやすい」",
+      "link": "https://togetter.com/li/2736094",
+      "pubDate": "Sat, 22 Aug 2026 14:09:51 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "海外民「この画像、子猫とウサギどちらに見える？」→様々な見え方がある中、日本人だけが◯◯◯にしか見えないと話題にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457354.html",
+      "pubDate": "2026-08-22T14:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8c54ea49.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "コンビニで一番くじ5枚分の料金で28枚のくじをめくり欲しいフィギュアだけ詐取か 40歳男逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559806.html",
+      "pubDate": "2026-08-22T14:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f938f4b6-s.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「長いと噂のエスカレーターに乗ったら、全然頂上に着かなくて遭難するかと思った」本当に後悔してるのは隣のレーンで味わい深い",
+      "description": "「長いと噂のエスカレーターに乗ったら、全然頂上に着かなくて遭難するかと思った」本当に後悔してるのは隣のレーンで味わい深い",
+      "link": "https://togetter.com/li/2736085",
+      "pubDate": "Sat, 22 Aug 2026 13:44:16 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】夫「郵便で来たこのハガキ、真面目な内容なのに末尾に『草ｗ』って書いてあるんだけど」パシャッ　→　実際に来たモノがこちらｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559768.html",
+      "pubDate": "2026-08-22T13:40:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6a36f6d.png"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "帰り道の歩道橋でいきなり若者に「これから凄いものが通りますよ」と声をかけられ、何が来るのかと待っていたら、トレーラーに乗った京王線の新型車両が通過していった話",
+      "description": "帰り道の歩道橋でいきなり若者に「これから凄いものが通りますよ」と声をかけられ、何が来るのかと待っていたら、トレーラーに乗った京王線の新型車両が通過していった話",
+      "link": "https://togetter.com/li/2736082",
+      "pubDate": "Sat, 22 Aug 2026 13:39:13 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -145,32 +236,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/c/6c027985.png"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ちいかわ映画を観た後に、子供が「ちいかわごっこしたい！」と言うのだが、なぜか食べられる側になろうとする",
-      "description": "ちいかわ映画を観た後に、子供が「ちいかわごっこしたい！」と言うのだが、なぜか食べられる側になろうとする",
-      "link": "https://togetter.com/li/2736064",
-      "pubDate": "Sat, 22 Aug 2026 12:39:46 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「救急の日」ポスターがAI生成で作られて気持ち悪さを感じたポスト主…背景や配置を考えていてAIには見えないという意見が多数集まり、議論となる→視点次第で感じ方が違う",
-      "description": "「救急の日」ポスターがAI生成で作られて気持ち悪さを感じたポスト主…背景や配置を考えていてAIには見えないという意見が多数集まり、議論となる→視点次第で感じ方が違う",
-      "link": "https://togetter.com/li/2736062",
-      "pubDate": "Sat, 22 Aug 2026 12:37:12 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -182,19 +247,6 @@
       "link": "http://blog.esuteru.com/archives/10559772.html",
       "pubDate": "2026-08-22T12:20:01+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e06992e4.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「あの祠壊したんか！？」なんてのは現代じゃフィクションでしか聞けないと思ってたけど「平将門に無礼働いたんか！？」の大合唱がリアルに聞こえてきた令和日本",
-      "description": "「あの祠壊したんか！？」なんてのは現代じゃフィクションでしか聞けないと思ってたけど「平将門に無礼働いたんか！？」の大合唱がリアルに聞こえてきた令和日本",
-      "link": "https://togetter.com/li/2736059",
-      "pubDate": "Sat, 22 Aug 2026 12:19:29 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -652,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fb85ad19-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "期待の新作ゲーム『Japanese Ramen Simulator』に明らかにラーメンハゲがいるんだけどｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559424.html",
-      "pubDate": "2026-08-22T05:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b0b25e37-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,32 +715,6 @@
       "link": "https://jin115.com/archives/52457313.html",
       "pubDate": "2026-08-22T05:00:23+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/c/9c823e93.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "オレンジジュース自販機「IJOOZ」が一部地域でサービス終了！安くて美味しい方なのに……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559665.html",
-      "pubDate": "2026-08-22T04:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/911bd55d-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【北斗乳星】期待の新作ゲーム『アストラエ・オラティオ』の新キャラがほくろフェチ特攻すぎる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559664.html",
-      "pubDate": "2026-08-22T03:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/3/83d4afa2-s.png"
     },
     {
       "siteId": "jin",
@@ -819,19 +832,6 @@
       "link": "https://gigazine.net/news/20260821-dont-paste-the-ai-please/",
       "pubDate": "Fri, 21 Aug 2026 21:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "法務省、恋愛リアリティショー『ラヴ上等』とコラボするも演者の経歴がヤバすぎて炎上→その後、マジでとんでもない事態に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457327.html",
-      "pubDate": "2026-08-21T20:40:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/057a5309.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1698,6 +1698,19 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【Appleグルメ】スティーブ・ジョブズが2週間に1回日本からアメリカに取り寄せていた和菓子「赤坂青野の豆大福」",
+      "description": "Apple社の創始者であり、iPhoneやiPadの生みの親として世界的レベルでカリスマ的存在になっている人物といえば、スティーブ・ジョブズである。今回は、そんな彼が愛した和菓子「赤坂青野の豆大福」を食べる。 和菓子屋「 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738597",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "まだまだ夏を楽しめる♡今行きたい関東の夏スポット2選🌻",
       "description": "こんにちは&#x1f60a; 唐道優衣です！ 今回は、夏のお出かけにおすすめしたい、東京近郊の夏イベントをご紹介します&#x1f390; 「夏らしいことをしたいけど、遠くまで行くのはちょっと大変…」という方にもおすすめ♡ [&#8230;]",
       "link": "https://getnews.jp/archives/3738595",
@@ -1807,22 +1820,9 @@
       "link": "https://getnews.jp/archives/3737889",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "スマホを1秒固定で冷やす。サンワの新作車載ホルダーは夏ドライブのリフレッシャー",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  夏に車内でスマートフォンを使う人、さらにスマホを手にしながら極力無駄な動きを省いて乗り降りしたい人へ。 6月に発売したサンワサプライの「車 [&#8230;]",
-      "link": "https://getnews.jp/archives/3738560",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-22T04:38:08.673608",
+  "updatedAt": "2026-08-22T05:32:06.828473",
   "sites": [
     {
       "id": "hachima",
