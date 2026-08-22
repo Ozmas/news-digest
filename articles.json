@@ -2,6 +2,162 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "秋葉原、崩壊",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457374.html",
+      "pubDate": "2026-08-22T21:40:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60ae7908.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "国連の女性差別撤廃委員会、皇室典範や夫婦同姓の義務付けを批判「法律や政策が固定観念や家父長制に支配されれば男女平等は実現しない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560189.html",
+      "pubDate": "2026-08-22T21:30:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6e7c7d3f.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "チーズケーキの底の部分大好きだから、全面底にして作ってみた→底部分の方が主役と思ってる民集合して歓喜「むしろなぜ最初からそうじゃないのか」",
+      "description": "チーズケーキの底の部分大好きだから、全面底にして作ってみた→底部分の方が主役と思ってる民集合して歓喜「むしろなぜ最初からそうじゃないのか」",
+      "link": "https://togetter.com/li/2736241",
+      "pubDate": "Sat, 22 Aug 2026 21:23:22 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『エアマスター』全巻「99円」セール！全28巻「21,252円」→「2,772円」！脳が灼けるほど熱くなる名言だらけの傑作！セールでネット民が話題に「読んでおいたほうがいい」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457368.html",
+      "pubDate": "2026-08-22T21:20:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/f/cf5aa554.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【文春】慶應クレカ窃盗ネキ、父親は大手クレカ海外法人の「最高経営責任者」だった…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560187.html",
+      "pubDate": "2026-08-22T21:10:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/9/398d71ce.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「ヤニねこ」OP「なんもねえ」がオリコン週間ストリーミング急上昇ランキング1位を獲得し「ちいかわ」、Mrs.GREEN APPLE、Snow Manを押さえた結果でスゴい",
+      "description": "「ヤニねこ」OP「なんもねえ」がオリコン週間ストリーミング急上昇ランキング1位を獲得し「ちいかわ」、Mrs.GREEN APPLE、Snow Manを押さえた結果でスゴい",
+      "link": "https://togetter.com/li/2736235",
+      "pubDate": "Sat, 22 Aug 2026 21:04:12 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ゲリラ豪雨の中、小粋な太鼓のリズムが聞こえてきて祭りか？と思ったらマンホールがこの有様「これはすごいｗ」",
+      "description": "ゲリラ豪雨の中、小粋な太鼓のリズムが聞こえてきて祭りか？と思ったらマンホールがこの有様「これはすごいｗ」",
+      "link": "https://togetter.com/li/2736233",
+      "pubDate": "Sat, 22 Aug 2026 21:01:22 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2089話目「エルフの森の変化⑰」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/08/22/2792008/",
+      "pubDate": "Sat, 22 Aug 2026 12:00:52 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2089a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "東京駅、水没",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457373.html",
+      "pubDate": "2026-08-22T21:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/e/7e4e0d8f.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "ある鍛冶屋が制作した超特大の180cm木刀があまりにも『シグルイ』に出てきそうなブツすぎる「これを注文したのはもしかして…」",
+      "description": "ある鍛冶屋が制作した超特大の180cm木刀があまりにも『シグルイ』に出てきそうなブツすぎる「これを注文したのはもしかして…」",
+      "link": "https://togetter.com/li/2736232",
+      "pubDate": "Sat, 22 Aug 2026 21:00:35 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "gigazine",
+      "siteName": "GIGAZINE",
+      "siteShortName": "GIGAZINE",
+      "siteColor": "#facc15",
+      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
+      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
+      "title": "Waymoがロボタクシーの性能向上のためカスタムASICチップを開発",
+      "description": "ロボタクシー事業を複数の都市で展開しているWaymoが、カスタムのASIC(特定用途向け集積回路)チップを開発しました。続きを読む...",
+      "link": "https://gigazine.net/news/20260822-waymo-brain/",
+      "pubDate": "Sat, 22 Aug 2026 21:00:00 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "米国産の生鮮ばれいしょが輸入解禁されるのでは？という意見に、農林水産省が回答→解禁するのかしないのか、全然はっきりしないことへの批判が集まる",
+      "description": "米国産の生鮮ばれいしょが輸入解禁されるのでは？という意見に、農林水産省が回答→解禁するのかしないのか、全然はっきりしないことへの批判が集まる",
+      "link": "https://togetter.com/li/2736231",
+      "pubDate": "Sat, 22 Aug 2026 20:55:41 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "togetter",
       "siteName": "Togetter",
       "siteShortName": "Togetter",
@@ -119,19 +275,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "ヤマダ電機が色褪せたレトロゲー新品を定価で売ってるのはガチ「現品そのまま出してて色褪せ酷い」でも見方を変えれば「プレ値のソフトが定価で買える」",
-      "description": "ヤマダ電機が色褪せたレトロゲー新品を定価で売ってるのはガチ「現品そのまま出してて色褪せ酷い」でも見方を変えれば「プレ値のソフトが定価で買える」",
-      "link": "https://togetter.com/li/2736201",
-      "pubDate": "Sat, 22 Aug 2026 19:43:22 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -143,58 +286,6 @@
       "link": "http://blog.esuteru.com/archives/10560158.html",
       "pubDate": "2026-08-22T19:30:50+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/6/16de6ee3.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "献血バスを眺めていたら希望者と勘違いされ「そちらでお待ちください！」と笑顔で言われたので断りづらくてそのまま献血してる「持っていきな、ABマイナスの血を」",
-      "description": "献血バスを眺めていたら希望者と勘違いされ「そちらでお待ちください！」と笑顔で言われたので断りづらくてそのまま献血してる「持っていきな、ABマイナスの血を」",
-      "link": "https://togetter.com/li/2736196",
-      "pubDate": "Sat, 22 Aug 2026 19:29:54 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「さぁ食べるのだポッター！」カツオの刺身に大量に盛られたニンニクを写した一枚の投稿、タイトルに違和感がなさすぎる",
-      "description": "「さぁ食べるのだポッター！」カツオの刺身に大量に盛られたニンニクを写した一枚の投稿、タイトルに違和感がなさすぎる",
-      "link": "https://togetter.com/li/2736194",
-      "pubDate": "Sat, 22 Aug 2026 19:27:13 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "父の入院申込書の連帯保証人になってほしいとLINEが来たので、「すいません親に連帯保証人にはなるなって言われてるので…」と回答すると、「親や」とツッコミが入った",
-      "description": "父の入院申込書の連帯保証人になってほしいとLINEが来たので、「すいません親に連帯保証人にはなるなって言われてるので…」と回答すると、「親や」とツッコミが入った",
-      "link": "https://togetter.com/li/2736192",
-      "pubDate": "Sat, 22 Aug 2026 19:23:49 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "地下鉄の駅に、モバイルSuicaにクレカ経由でチャージできず改札が出られないイタリア人女性がいたので精算機で不足分の210円チャージしてあげたらお礼で2ユーロ硬貨を渡された",
-      "description": "地下鉄の駅に、モバイルSuicaにクレカ経由でチャージできず改札が出られないイタリア人女性がいたので精算機で不足分の210円チャージしてあげたらお礼で2ユーロ硬貨を渡された",
-      "link": "https://togetter.com/li/2736187",
-      "pubDate": "Sat, 22 Aug 2026 19:06:47 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -574,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/c/6c027985.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】メルカリに「着用イメージをAIで生成」機能が実装されるも、可愛い服を激ダサくしてしまい逆に買わなくなると騒然　→　これはｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559772.html",
-      "pubDate": "2026-08-22T12:20:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e06992e4.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -598,19 +676,6 @@
       "link": "https://jin115.com/archives/52457350.html",
       "pubDate": "2026-08-22T12:00:24+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/100e607b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "男性迷惑系配信者が平将門の首を祀る『将門塚』で石碑をよじ登り奇声、局部露出 →「罰当たりすぎる」「知性も教養もない」と批判殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559767.html",
-      "pubDate": "2026-08-22T12:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/c/4cabc0ea.jpg"
     },
     {
       "siteId": "gigazine",
@@ -821,32 +886,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/suizokukan-86.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "美女コスプレイヤー「男の前でコスプレしたのに全然反応ありませんでした泣」ﾊﾟｼｬｯ → 投稿された自撮り、何かがおかしいと話題にｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457323.html",
-      "pubDate": "2026-08-22T08:30:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/260d4630-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男性さん、マチアプで知り合った女に飲み放題5千円のバーに連れて行かれる → 会計で962万円を請求された結果ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457320.html",
-      "pubDate": "2026-08-22T08:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/3/a30c1e03-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -871,19 +910,6 @@
       "link": "https://gigazine.net/news/20260822-ayaneo-konkr-pocket-advance/",
       "pubDate": "Sat, 22 Aug 2026 08:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男性「勘違いしている女性が多いけど、デート代を全額奢らせておいて後日『対等な関係でいたい』は矛盾しています」→女性のアンサーがこちら・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457316.html",
-      "pubDate": "2026-08-22T07:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/eb4f5c49.jpg"
     },
     {
       "siteId": "gigazine",
@@ -1081,19 +1107,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "gigazine",
-      "siteName": "GIGAZINE",
-      "siteShortName": "GIGAZINE",
-      "siteColor": "#facc15",
-      "siteGradient": "linear-gradient(135deg, #facc15, #fb923c)",
-      "siteBgAlpha": "rgba(250, 204, 21, 0.12)",
-      "title": "AIは「確実に6人を犠牲に1人を救える方法」と「全員生還か全員犠牲のギャンブル」のどちらを選ぶのか？",
-      "description": "「人命と自分のデータセンターどちらを助けるか」や「AIに殺人を犯したと告白したら警察に密告するのか」などAIのさまざまな検証をしているYouTubeチャンネルのAi Convoが、新たなシナリオとして「『6人を犠牲に1人を救う確実な方法』と『全員助かるか全員犠牲になるギャンブル』のどちらを選ぶのか」について複数のAIに尋ねた結果を報告しています。続きを読む...",
-      "link": "https://gigazine.net/news/20260821-ai-gamble-lives/",
-      "pubDate": "Fri, 21 Aug 2026 16:00:00 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1196,19 +1209,6 @@
       "link": "https://rocketnews24.com/2026/08/21/2792923/",
       "pubDate": "Fri, 21 Aug 2026 01:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/rawsontokaihokuriku-42.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "『ぺクスダバンコーヒー』のすぐ近くに、韓国発の『マスコーヒー』がオープン！　中・韓の格安大容量コーヒーチェーンが続々日本進出中",
-      "description": "先日、私（佐藤）は東京・新橋にオープンしたぺクスダバンコーヒー（Paik&#8217;s COFFEE）を訪ねた。韓国発祥のコーヒーブランドで格安・大容量を売りにしており、アメリカーノが税込250円という破格の安さを武器 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/21/2793057/",
-      "pubDate": "Fri, 21 Aug 2026 00:00:56 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/cmasscoffee.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1698,6 +1698,32 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "マツキヨの「顔の汗そのものを減らしてくれるミスト」のおかげで通勤でメイクが崩れなくなった！",
+      "description": "まだまだ暑い夏。 朝どれだけ丁寧にベースメイクを仕上げても、駅に着く頃にはじんわりと汗が滲み、崩れていくのがストレスでした。 そんなとき、マツキヨの店頭で見つけたのが、マンダムの「汗対策ミスト」。 国内メーカーのものや、 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738609",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "保存容器は耐熱ガラスが正解。iwakiの7個セットが28％オフ",
+      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  冷蔵庫の中で保存容器がかさばる、料理のにおいが移る…。 そんな小さなストレスを解消してくれるのが、iwaki（イワキ）の「耐熱ガラス 保存 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738610",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "hardnuts、新ギタリストとしてナカムラが正式加入",
       "description": "hardnutsに新ギタリストとしてナカムラが正式加入することが発表された。 ナカムラは昨年からhardnutsのサポートギターを担っており、本日開催された初のワンマンライブを機に加入が決定。加入に伴い、新体制で撮影され [&#8230;]",
       "link": "https://getnews.jp/archives/3738608",
@@ -1794,35 +1820,9 @@
       "link": "https://getnews.jp/archives/3738601",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "ワークマン「ディアライト防水シューズ」はコスパ最強の全天候シューズ。普段使いできるから急な雨でも安心です",
-      "description": "※本記事は2026年3月23日に公開された記事を再編集して掲載しています。 Text and Photographed by 服部 隆宏 8月も後半に入り涼しくなってくると同時に、曇りや雨の日も増えてきました。 8〜9月 [&#8230;]",
-      "link": "https://getnews.jp/archives/3738599",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "料理の幅が広がる。和平フレイズのグリルパンが64％オフの大特価",
-      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  魚焼きグリル、魚を焼くだけではもったいないです。 和平フレイズ（Wahei Freiz）の「グリルパン ランチーニ 角型 RA-9505」 [&#8230;]",
-      "link": "https://getnews.jp/archives/3738600",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-22T11:48:08.154775",
+  "updatedAt": "2026-08-22T12:49:09.952337",
   "sites": [
     {
       "id": "hachima",
