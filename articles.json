@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "自分が長女なので、お母さんが色々察してまずサツキを優先するシーンでいつもヴッとなります「じゅんばん！が食い気味なのが辛い。我慢してるのよね」",
+      "description": "自分が長女なので、お母さんが色々察してまずサツキを優先するシーンでいつもヴッとなります「じゅんばん！が食い気味なのが辛い。我慢してるのよね」",
+      "link": "https://togetter.com/li/2736141",
+      "pubDate": "Sat, 22 Aug 2026 16:33:08 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "フロム新作『ダスクブラッド』ネットワークテスト感想まとめ「ソウル系かと思ったらアーマード・コアだった」「最後のPvPがストレス」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559818.html",
+      "pubDate": "2026-08-22T16:30:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f1599f7.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "上司「1～2時間いい？」僕「子どもの迎えがあるので17時頃には上がらせていただく予定です」上司「わかってる」で結局20時30分に開放→上司が悪いか、僕が悪いかで議論",
+      "description": "上司「1～2時間いい？」僕「子どもの迎えがあるので17時頃には上がらせていただく予定です」上司「わかってる」で結局20時30分に開放→上司が悪いか、僕が悪いかで議論",
+      "link": "https://togetter.com/li/2736137",
+      "pubDate": "Sat, 22 Aug 2026 16:21:21 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "うちの猫があまりにもどんくさいので見てほしい「ピタゴラスイッチみたいになってて、かわいそかわいい」",
+      "description": "うちの猫があまりにもどんくさいので見てほしい「ピタゴラスイッチみたいになってて、かわいそかわいい」",
+      "link": "https://togetter.com/li/2736132",
+      "pubDate": "Sat, 22 Aug 2026 16:05:31 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "薬局の受付にあるタッチパネルの操作に困っているおばあちゃんが店員さんに話しかけたら、「自分でやってくださいよ、みんなやってますよ」と突き放されて、手助けした話",
+      "description": "薬局の受付にあるタッチパネルの操作に困っているおばあちゃんが店員さんに話しかけたら、「自分でやってくださいよ、みんなやってますよ」と突き放されて、手助けした話",
+      "link": "https://togetter.com/li/2736131",
+      "pubDate": "Sat, 22 Aug 2026 16:05:05 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "入院中の子ども「やっぱり帰ろうと思いましゅ！おじゃましました！」グッとくる小児病棟のナースコールがこちら「可愛くて切ない」",
+      "description": "入院中の子ども「やっぱり帰ろうと思いましゅ！おじゃましました！」グッとくる小児病棟のナースコールがこちら「可愛くて切ない」",
+      "link": "https://togetter.com/li/2736129",
+      "pubDate": "Sat, 22 Aug 2026 16:01:44 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気セクシー女優・瀬戸環奈さん、”例のプールのルームツアー”動画を公開！マジの豪邸＆紳士諸君には見覚えのあるシーンきたあああ！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457357.html",
+      "pubDate": "2026-08-22T16:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/7/57196a5f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【歴史修正】X民「『モンハンワイルズ』が伸び悩んだ最大の理由は過剰なネガキャン」 ← ツッコミ殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10559814.html",
+      "pubDate": "2026-08-22T16:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b0eeb8ac.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "「謝られたら許さなくちゃいけない」「貸してって言われたらいいよって言わなくちゃいけない」という教育はよくないと思ってる、気持ちに寄り添ってもらえない悲しさだけが残る",
+      "description": "「謝られたら許さなくちゃいけない」「貸してって言われたらいいよって言わなくちゃいけない」という教育はよくないと思ってる、気持ちに寄り添ってもらえない悲しさだけが残る",
+      "link": "https://togetter.com/li/2736128",
+      "pubDate": "Sat, 22 Aug 2026 15:59:50 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "結婚相談所では「ちいかわにイライラする人はモラハラ気質があるから」とちいかわを一緒に観ることを推奨されてるらしい？「モモンガにイラついてたら子育てはできない」",
+      "description": "結婚相談所では「ちいかわにイライラする人はモラハラ気質があるから」とちいかわを一緒に観ることを推奨されてるらしい？「モモンガにイラついてたら子育てはできない」",
+      "link": "https://togetter.com/li/2736127",
+      "pubDate": "Sat, 22 Aug 2026 15:51:43 +0900",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -93,19 +223,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "妻の希望で夜釣りに出かけたら6歳の我が子の生け簀カゴがおじさんたちの賽銭箱になり、大量のイワシを持ち帰ることになった「おじさんが釣れて草」",
-      "description": "妻の希望で夜釣りに出かけたら6歳の我が子の生け簀カゴがおじさんたちの賽銭箱になり、大量のイワシを持ち帰ることになった「おじさんが釣れて草」",
-      "link": "https://togetter.com/li/2736101",
-      "pubDate": "Sat, 22 Aug 2026 14:35:16 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -117,19 +234,6 @@
       "link": "http://blog.esuteru.com/archives/10559808.html",
       "pubDate": "2026-08-22T14:30:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/41a64907.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "決済手段が書かれた紙が置いてあってほしいのって、レジ前ではない「直前まで確認できないから慌てる」「入口や席にあればこちらも準備がしやすい」",
-      "description": "決済手段が書かれた紙が置いてあってほしいのって、レジ前ではない「直前まで確認できないから慌てる」「入口や席にあればこちらも準備がしやすい」",
-      "link": "https://togetter.com/li/2736094",
-      "pubDate": "Sat, 22 Aug 2026 14:09:51 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -158,19 +262,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f938f4b6-s.jpg"
     },
     {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「長いと噂のエスカレーターに乗ったら、全然頂上に着かなくて遭難するかと思った」本当に後悔してるのは隣のレーンで味わい深い",
-      "description": "「長いと噂のエスカレーターに乗ったら、全然頂上に着かなくて遭難するかと思った」本当に後悔してるのは隣のレーンで味わい深い",
-      "link": "https://togetter.com/li/2736085",
-      "pubDate": "Sat, 22 Aug 2026 13:44:16 +0900",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -182,58 +273,6 @@
       "link": "http://blog.esuteru.com/archives/10559768.html",
       "pubDate": "2026-08-22T13:40:02+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6a36f6d.png"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "帰り道の歩道橋でいきなり若者に「これから凄いものが通りますよ」と声をかけられ、何が来るのかと待っていたら、トレーラーに乗った京王線の新型車両が通過していった話",
-      "description": "帰り道の歩道橋でいきなり若者に「これから凄いものが通りますよ」と声をかけられ、何が来るのかと待っていたら、トレーラーに乗った京王線の新型車両が通過していった話",
-      "link": "https://togetter.com/li/2736082",
-      "pubDate": "Sat, 22 Aug 2026 13:39:13 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "透明な鍋を買ったのでそれでお米を炊いてみた、中がどういう状態になってるのか見えて面白いしちゃんと炊けたけど吹きこぼれは凄かった「調理実習でしか見たことない」",
-      "description": "透明な鍋を買ったのでそれでお米を炊いてみた、中がどういう状態になってるのか見えて面白いしちゃんと炊けたけど吹きこぼれは凄かった「調理実習でしか見たことない」",
-      "link": "https://togetter.com/li/2734877",
-      "pubDate": "Sat, 22 Aug 2026 13:33:34 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "あまりにも心を動かされてしまったために20年ほど封印していた『日出処の天子』を再読…傑作すぎた「親からの愛や理解が得られないことが人を苦しめるという現代的な話」",
-      "description": "あまりにも心を動かされてしまったために20年ほど封印していた『日出処の天子』を再読…傑作すぎた「親からの愛や理解が得られないことが人を苦しめるという現代的な話」",
-      "link": "https://togetter.com/li/2734852",
-      "pubDate": "Sat, 22 Aug 2026 13:31:37 +0900",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "知らない野良猫が家の外に居て、うちの猫が「おうおういえ～！」って言ってる→あまりにもおうおういえ～！でワロタ",
-      "description": "知らない野良猫が家の外に居て、うちの猫が「おうおういえ～！」って言ってる→あまりにもおうおういえ～！でワロタ",
-      "link": "https://togetter.com/li/2736076",
-      "pubDate": "Sat, 22 Aug 2026 13:22:42 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -665,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/3/a30c1e03-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】太いと言われて傷つく全ての女を救済するために全ての「デブ」を引き受ける女性アイドル現る　→　身体も器も大きすぎる女神とネット大絶賛！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559732.html",
-      "pubDate": "2026-08-22T08:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/441790d7.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -702,19 +728,6 @@
       "link": "https://gigazine.net/news/20260822-ayaneo-konkr-pocket-advance/",
       "pubDate": "Sat, 22 Aug 2026 08:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ICC赤根智子所長らへの米国制裁に欧州各国が連帯表明続々！さらに石破首相時代はトランプを阻止できていたと判明…高市さん…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559729.html",
-      "pubDate": "2026-08-22T07:30:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/7/777598c8.jpg"
     },
     {
       "siteId": "jin",
@@ -806,19 +819,6 @@
       "link": "https://gigazine.net/news/20260821-hermes-agent-skill/",
       "pubDate": "Fri, 21 Aug 2026 23:00:00 +0900",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "BBC「まって、『日本』ってなんでAI使ってないの？」「世界はみんなAI使ってる。日本だけだよ？」「人手不足で高齢化って、AIが一番刺さる国でしょ？なにしてんの？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457332.html",
-      "pubDate": "2026-08-21T22:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60b91a25.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1698,6 +1698,32 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "ワークマン「ディアライト防水シューズ」はコスパ最強の全天候シューズ。普段使いできるから急な雨でも安心です",
+      "description": "※本記事は2026年3月23日に公開された記事を再編集して掲載しています。 Text and Photographed by 服部 隆宏 8月も後半に入り涼しくなってくると同時に、曇りや雨の日も増えてきました。 8〜9月 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738599",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "料理の幅が広がる。和平フレイズのグリルパンが64％オフの大特価",
+      "description": "※こちらは「かいサポ（お買いものサポーターチーム）」が編集・執筆した記事です。  魚焼きグリル、魚を焼くだけではもったいないです。 和平フレイズ（Wahei Freiz）の「グリルパン ランチーニ 角型 RA-9505」 [&#8230;]",
+      "link": "https://getnews.jp/archives/3738600",
+      "pubDate": "",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "getnews",
+      "siteName": "ガジェット通信",
+      "siteShortName": "ガジェ通",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
       "title": "【Appleグルメ】スティーブ・ジョブズが2週間に1回日本からアメリカに取り寄せていた和菓子「赤坂青野の豆大福」",
       "description": "Apple社の創始者であり、iPhoneやiPadの生みの親として世界的レベルでカリスマ的存在になっている人物といえば、スティーブ・ジョブズである。今回は、そんな彼が愛した和菓子「赤坂青野の豆大福」を食べる。 和菓子屋「 [&#8230;]",
       "link": "https://getnews.jp/archives/3738597",
@@ -1794,35 +1820,9 @@
       "link": "https://getnews.jp/archives/3738511",
       "pubDate": "",
       "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "モンベルでひっそり復活していた「名作インナー」。汗の不快感がなくなって、秋冬まで大活躍してくれるよ",
-      "description": "※本記事は2026年5月17日に公開された記事の再掲載です。 Text and Photographed by OGMAX モンベルのインナーウェアといえば、ジオラインやコアスパン、スーパーメリノウールなど様々な素材のも [&#8230;]",
-      "link": "https://getnews.jp/archives/3738559",
-      "pubDate": "",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "getnews",
-      "siteName": "ガジェット通信",
-      "siteShortName": "ガジェ通",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #60a5fa)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "”ザクⅡモデルの焼肉グリル”とか意味不明なので発売元のイワタニを問い詰めてみました",
-      "description": "「イワタニのカセットコンロ」で知られる岩谷産業株式会社が、なぜか『機動戦士ガンダム』とコラボしたカセットガス スモークレス焼肉グリル”やきまる”の「シャア専用ザクⅡモデル」と「ザクⅡモデル」を販売しています。 ”ザクⅡモ [&#8230;]",
-      "link": "https://getnews.jp/archives/3737889",
-      "pubDate": "",
-      "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-22T06:48:35.555926",
+  "updatedAt": "2026-08-22T07:35:56.172275",
   "sites": [
     {
       "id": "hachima",
