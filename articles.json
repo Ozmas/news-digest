@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【！？】最近の子供靴にベイブレードがついているんだがｗｗｗｗ → 欲しがる大人が続出",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560276.html",
+      "pubDate": "2026-08-23T08:30:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c72368d4.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【祝】フィギュアスケートで話題のりくりゅうペア、婚約したことを発表 「いつしか、なくてはならない存在となった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560285.html",
+      "pubDate": "2026-08-23T08:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bce01027-s.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -470,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/f/cf5aa554.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【文春】慶應クレカ窃盗ネキ、父親は大手クレカ海外法人の「最高経営責任者」だった…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560187.html",
-      "pubDate": "2026-08-22T21:10:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/9/398d71ce.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -520,19 +533,6 @@
       "link": "https://brutus.jp/post-519591/",
       "pubDate": "Sat, 22 Aug 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】脱糞事件の池袋ヨドバシ、ゲリラ豪雨で雨漏り！「今度はおしっこかよ」「ウォシュレットかな？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560173.html",
-      "pubDate": "2026-08-22T20:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4df55baa.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-22T23:25:52.945323",
+  "updatedAt": "2026-08-22T23:48:09.901038",
   "sites": [
     {
       "id": "hachima",
