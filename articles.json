@@ -8,6 +8,32 @@
       "siteColor": "#4ade80",
       "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
       "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
+      "title": "駅の5番乗り場に到着する列車の行き先が “新たな人生” でヤバい「「乗るのちょっと怖い」「異世界転生できる？」",
+      "description": "駅の5番乗り場に到着する列車の行き先が “新たな人生” でヤバい「「乗るのちょっと怖い」「異世界転生できる？」",
+      "link": "https://togetter.com/li/2736317",
+      "pubDate": "Sun, 23 Aug 2026 00:40:58 +0900",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "結婚相談所「ちいかわにイライラする人は◯◯◯◯気質だから結婚前にちいかわを一緒に観ましょう」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560079.html",
+      "pubDate": "2026-08-23T00:30:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7d3040c6.jpg"
+    },
+    {
+      "siteId": "togetter",
+      "siteName": "Togetter",
+      "siteShortName": "Togetter",
+      "siteColor": "#4ade80",
+      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
+      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
       "title": "卒業した推しを熱心に推してた人がいて、その人が高頻度でとあるVTuberのことについて投稿していた…そのVTuberの配信を聞いたら聞き馴染みしかない声がして泣いた話",
       "description": "卒業した推しを熱心に推してた人がいて、その人が高頻度でとあるVTuberのことについて投稿していた…そのVTuberの配信を聞いたら聞き馴染みしかない声がして泣いた話",
       "link": "https://togetter.com/li/2736313",
@@ -273,19 +299,6 @@
       "link": "http://blog.esuteru.com/archives/10560187.html",
       "pubDate": "2026-08-22T21:10:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/9/398d71ce.jpg"
-    },
-    {
-      "siteId": "togetter",
-      "siteName": "Togetter",
-      "siteShortName": "Togetter",
-      "siteColor": "#4ade80",
-      "siteGradient": "linear-gradient(135deg, #4ade80, #22d3ee)",
-      "siteBgAlpha": "rgba(74, 222, 128, 0.12)",
-      "title": "「ヤニねこ」OP「なんもねえ」がオリコン週間ストリーミング急上昇ランキング1位を獲得し「ちいかわ」、Mrs.GREEN APPLE、Snow Manを押さえた結果でスゴい",
-      "description": "「ヤニねこ」OP「なんもねえ」がオリコン週間ストリーミング急上昇ランキング1位を獲得し「ちいかわ」、Mrs.GREEN APPLE、Snow Manを押さえた結果でスゴい",
-      "link": "https://togetter.com/li/2736235",
-      "pubDate": "Sat, 22 Aug 2026 21:04:12 +0900",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -676,19 +689,6 @@
       "link": "https://jin115.com/archives/52457356.html",
       "pubDate": "2026-08-22T15:00:01+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/3/835c6500.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "京都市「駐輪場の不正駐輪チャリが多すぎる…せや！」 →とんでもない方法で対策を取り始めるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559808.html",
-      "pubDate": "2026-08-22T14:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/41a64907.jpg"
     },
     {
       "siteId": "jin",
@@ -1822,7 +1822,7 @@
       "thumbnail": ""
     }
   ],
-  "updatedAt": "2026-08-22T15:26:16.932583",
+  "updatedAt": "2026-08-22T15:48:50.312357",
   "sites": [
     {
       "id": "hachima",
