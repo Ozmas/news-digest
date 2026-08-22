@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アメリカ人がドンキに売ってるとある商品に激怒！「なんで日本だけなんだよ！これはアメリカのもんだろ！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560180.html",
+      "pubDate": "2026-08-23T04:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/573900ec.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "https://jin115.com/archives/52457362.html",
       "pubDate": "2026-08-22T18:00:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "引退間近の「ドクターイエロー」停車中のJR京都駅ホームで、緊急性がないのに非常ボタン押した男逮捕　撮り鉄の仕業ではないかと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10559840.html",
-      "pubDate": "2026-08-22T17:30:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/99ea57ba-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-22T18:37:11.089251",
+  "updatedAt": "2026-08-22T19:26:13.816697",
   "sites": [
     {
       "id": "hachima",
