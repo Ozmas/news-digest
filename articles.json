@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "かつて江戸にもあった〈三十三間堂〉。それは◯◯八幡宮の東側にありました。【今日の名所江戸百景 by 村上隆】",
+      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
+      "link": "https://casabrutus.com/categories/art/489668",
+      "pubDate": "Sat, 22 Aug 2026 22:00:51 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "真夜中に関東で震度4～震度5弱が発生　その影響で東京都江東区清澄で水道管が破裂　気象庁「今後２～３日程度は、大きい地震が発生することが多い」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560265.html",
+      "pubDate": "2026-08-23T07:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f835304-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "テレビに出演した女性インフルエンサーさん、「婚活で相手に求める希望年収は5000万円以上」と言ってバズりまくる → 次の日、凄いことになっていたｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457370.html",
+      "pubDate": "2026-08-23T07:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/1/f17165c5-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -483,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/0/20346691.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】若年層で『うつ病』による影響が顕在化「こんな社会で病まないほうがおかしい」「本当に若い人の精神疾患が多い」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560151.html",
-      "pubDate": "2026-08-22T19:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9ef70f03.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -611,19 +637,6 @@
       "link": "https://rocketnews24.com/2026/08/22/2792999/",
       "pubDate": "Sat, 22 Aug 2026 06:00:46 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/5f242dda-46ae-42c5-9f12-cf0366c40d60.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "アメリカニキ「アメリカンドッグ食べるか」 日本人「こっちでは根本のカリカリだけ集めた商品が売ってるよ」→存在を知ってしまったアメリカニキの反応がこちらｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457356.html",
-      "pubDate": "2026-08-22T15:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/3/835c6500.jpg"
     },
     {
       "siteId": "brutus",
@@ -1432,19 +1445,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6941-1024x767.jpeg"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "仙台〝杜の都〞ならではの緑を映す癒しの空間で、柔らかな一杯を。",
-      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
-      "link": "https://casabrutus.com/categories/food/487793",
-      "pubDate": "Tue, 18 Aug 2026 22:00:57 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-22T21:49:12.760682",
+  "updatedAt": "2026-08-22T22:27:17.360154",
   "sites": [
     {
       "id": "hachima",
