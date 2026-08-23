@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ネタバレ注意】『ワンピース』最新話のイム様、第二形態でガチでとんでもない姿になるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560504.html",
+      "pubDate": "2026-08-24T08:30:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/50919fc5.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -637,19 +650,6 @@
       "link": "https://brutus.jp/post-506379/",
       "pubDate": "Sun, 23 Aug 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "元TOKIOの松岡昌宏さん(49)、“女優”を“俳優”と呼ぶ風潮に警鐘「本当に間違ってます。実にけしからん。“女優さん”は特別なんです」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560380.html",
-      "pubDate": "2026-08-23T19:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/a/3a86245c-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-23T23:25:59.902363",
+  "updatedAt": "2026-08-23T23:48:57.431711",
   "sites": [
     {
       "id": "hachima",
