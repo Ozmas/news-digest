@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "もっとソレっぽい形になれ！ いまいち納得できない命の授業！　四コマサボタージュFB第71回「いただきます…」",
+      "description": "私の学生時代には食育というか命の授業なんてものはなかったのだけど、いつから始めたものなんだろうね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/24/2790980/",
+      "pubDate": "Sun, 23 Aug 2026 22:00:36 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-71.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "仙台朝市から発信！  人にも環境にも優しい、サステナブルなコーヒーカルチャーとは？",
+      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
+      "link": "https://casabrutus.com/categories/food/490113",
+      "pubDate": "Sun, 23 Aug 2026 22:00:24 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【つらい】親戚から20kg1万円の格安でお米を買える事になった　→　母に伝えた時に返された言葉があまりに悲しすぎるとネット中がむせび泣く…これは…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560496.html",
+      "pubDate": "2026-08-24T07:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa932623.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市内閣、ちょっとヤバそう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457466.html",
+      "pubDate": "2026-08-24T07:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/c/3c825e2c.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -431,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/a/2a1186e2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "映画『ちいかわ 人魚の島のひみつ』興行収入100億円突破！！ホラー映画に分類した場合ジョーズ(90億)を超え日本歴代一位に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560358.html",
-      "pubDate": "2026-08-23T18:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e76733ff-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +676,6 @@
       "link": "https://jin115.com/archives/52457407.html",
       "pubDate": "2026-08-23T11:30:13+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d2373081.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「女子高生ミスコン2026」出場者、フレネミーにやられる　これは辞退不可避か",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457411.html",
-      "pubDate": "2026-08-23T11:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/2/92054e12-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -949,19 +975,6 @@
       "link": "https://sumida.goguynet.jp/2026/08/22/kushikatunatana20260825/",
       "pubDate": "Fri, 21 Aug 2026 23:01:47 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6930-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "大興奮！ 念願叶った隣りの女子！　隣りの席の子の様子がおかしい第53回「水着」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/08/22/2789777/",
-      "pubDate": "Fri, 21 Aug 2026 23:00:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/tonari53-1koma.png"
     },
     {
       "siteId": "brutus",
@@ -1393,19 +1406,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "古代ギリシャの入浴文化を現代に。〈ディプティック〉から朝と夜の心身ケアに寄り添うコレクションが誕生。",
-      "description": "〈ディプティック〉からボディケアコレクション〈レ リチュエル ドゥ ソワン〉が登場。香り、光、道具、そして手の動き。五感のすべてに働きかけるリチュアルが揃う。",
-      "link": "https://casabrutus.com/categories/design/492172",
-      "pubDate": "Wed, 19 Aug 2026 02:25:44 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-23T21:49:55.734746",
+  "updatedAt": "2026-08-23T22:27:33.468577",
   "sites": [
     {
       "id": "hachima",
