@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【1本68円】ぎゅっと濃い十六茶（630ml）24本セットが1638円 / Amazonタイムセール",
+      "description": "毎日お得なタイムセールを開催しているAmazon。飲料やアパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、アサヒ飲料のブレンド茶『ぎゅっと濃い十六茶（630ml）』24本セットを [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/23/2793826/",
+      "pubDate": "Sun, 23 Aug 2026 01:35:51 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_0613.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民、勝手に自分の車のホイールナットを緩める男を捕まえる → その後、どうなったかというと…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560295.html",
+      "pubDate": "2026-08-23T10:30:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/c/5c2f7759-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "免許センターの違反講習中に「体調が悪い」と席を立つ人物・・・なぜか講師が必死にそれを引き留める→その直後、衝撃の展開に・・・！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457398.html",
+      "pubDate": "2026-08-23T10:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bbe0f84c.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "新千歳空港から車で約10分！ ルタオ唯一のパン工房「ドレモルタオ」で今年の夏イチオシ限定パンを食べてみた",
+      "description": "北海道土産の定番として知られる「ルタオ」。 チーズケーキのイメージが強いが、新千歳空港から車で約10分の場所にある「ドレモルタオ」には、ルタオ唯一のパン工房が併設されているのを知っているだろうか？ 店内にはここだけの限定 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/23/2789491/",
+      "pubDate": "Sun, 23 Aug 2026 01:00:12 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/LINE_ALBUM_20260806_260806_21_65a875.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "約4年半対魔忍を応援していたゲーム制作者、対魔忍の同人ゲーを販売した結果、公式から販売停止されブチギレ 「もう対魔忍を応援できません」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560289.html",
+      "pubDate": "2026-08-23T10:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e97c0695.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "おじいちゃんが帰宅途中の女性に手を振る事案が発生　手を振るだけでもアカンのか…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560282.html",
+      "pubDate": "2026-08-23T09:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/876985ed.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "5年間洗っていない黒リュックを「オキシ漬け」した結果…ドブ水みたいになってゾッとした",
+      "description": "ものぐさな男性諸君にお伺いしたい。あなたはカバン、もっと言うと「リュックサック」を洗ったことがあるだろうか？　正直に申し上げて私（サンジュン）は人生で1度もリュックサックを洗濯したことがない。 自分のことを不潔だとは思っ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/23/2792558/",
+      "pubDate": "Sun, 23 Aug 2026 00:00:27 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_3522.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【祝】“りくりゅう”三浦璃来さんと木原龍一さんが結婚！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457406.html",
+      "pubDate": "2026-08-23T09:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f80b6476-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -418,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f992181.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "愛知県「助けて！55億円で買った山を27年間ずっと放置してるの！とにかく活用できる案出してちょうだい！！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560200.html",
-      "pubDate": "2026-08-22T22:30:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/efe3c180.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -444,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/7324208e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】スイッチ2版『CoD:MW4』グラフィックが酷すぎてテスター失望「人が集まるとカクくつ」「こんな酷いDLSSは見たことがない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560192.html",
-      "pubDate": "2026-08-22T22:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fd687416.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -468,19 +546,6 @@
       "link": "https://jin115.com/archives/52457374.html",
       "pubDate": "2026-08-22T21:40:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60ae7908.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "国連の女性差別撤廃委員会、皇室典範や夫婦同姓の義務付けを批判「法律や政策が固定観念や家父長制に支配されれば男女平等は実現しない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560189.html",
-      "pubDate": "2026-08-22T21:30:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6e7c7d3f.jpg"
     },
     {
       "siteId": "jin",
@@ -611,32 +676,6 @@
       "link": "https://jin115.com/archives/52457330.html",
       "pubDate": "2026-08-22T18:30:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/7/f74cf261.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "Grok「野獣先輩はもう一生ネットの宝物として捧げられてるので、人権はとっくに返ってきてませんよスギ！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457362.html",
-      "pubDate": "2026-08-22T18:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "若者「職場のパワハラモラハラ辞めろ！配慮しろ！」→極限まで配慮した結果がこちら・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457360.html",
-      "pubDate": "2026-08-22T17:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/a/4a64090a.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1029,32 +1068,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "千葉県の道の駅を全制覇したのでオススメ10選を紹介する / 900駅巡ったマニアのまとめ「小学校にお泊りできる道の駅」など",
-      "description": "きれいな海を望む絶景から、南房総の海鮮＆絶品グルメなどが目白押しの千葉県。しかし都心から簡単に行けるがゆえに「どこに立ち寄るのが正解か分からない」と迷ってしまう人も多いはず。そんな旅を最高に盛り上げてくれる強い味方が、県 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/21/2791439/",
-      "pubDate": "Fri, 21 Aug 2026 02:55:54 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_5388_Original.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "関東でジェネリック金龍が味わえるってマジ!? 金龍ラーメン公式Xが薦める日高屋アレンジを実践してみた",
-      "description": "大阪の人にとってはおなじみの「金龍ラーメン」。その公式Xのポストがちょっとした話題を呼んでいる。 なんでも「日高屋のとんこつニラ南蛮にキムチを入れてみてください。道頓堀に飛べます。」というのだ。 大阪にしか店舗がない金龍 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/21/2793109/",
-      "pubDate": "Fri, 21 Aug 2026 02:30:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/h1.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1066,19 +1079,6 @@
       "link": "https://casabrutus.com/categories/design/491886",
       "pubDate": "Fri, 21 Aug 2026 02:25:35 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "わずか4品で勝負！ ミニストップ『ズッキュン増量フェア』は精鋭か無謀か確かめた",
-      "description": "2026年8月20日現在、実はミニストップでも『ズッキュン増量フェア』が開催されている。ファミマとNewDaysでも同様のキャンペーンが開催されているため、今週は “コンビニ増量祭り” といったところだろうか？　だがしか [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/21/2792947/",
-      "pubDate": "Fri, 21 Aug 2026 02:00:52 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_3751.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-22T23:48:09.901038",
+  "updatedAt": "2026-08-23T01:43:20.364847",
   "sites": [
     {
       "id": "hachima",
