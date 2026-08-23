@@ -2,6 +2,227 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】 広島の老舗洋食店 「プティポワ」で 45年愛された 辛口欧風カレーが曳舟にやって来た！",
+      "description": "いつも号外NET墨田区をご覧いただきましてありがとうございます。今回は読者さまからの情報提供を元にNEW OPENの情報をお伝えします。 ニュー曳舟荘で営業を始めたプティポワが美味しかったので投稿させていただきました。広 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/08/24/petitspois/",
+      "pubDate": "Sun, 23 Aug 2026 23:01:26 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/771997418_28006620228957310_1163508043396660396_n-1024x678.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「辛くしないで」とお願いしたのに激辛ポテトが出てきた → シェフに理由を聞いたら、そもそも逃げ道がなかった【カンバ通信：第505回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今日もランチにポテトを食べに行ってきたので、その時のことをレポートしよう。 今回のお店の名前は「TJS CUISINE」。 イ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/24/2793500/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:37 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/c0d785ce-ac76-405c-8f31-c253b77a0175.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】ある貧乳細身グラビアアイドルさん、「乳の需要は無いけど作画資料に最高」と絵師達から大絶賛！　リアル美少女アニメキャラ体型と興奮される身体がこちらｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560501.html",
+      "pubDate": "2026-08-24T08:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/a/8adfdacd.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "弁護士「客のクレカを盗んで使い込んだ慶応女子、たぶん不起訴になります」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457467.html",
+      "pubDate": "2026-08-24T08:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/2/12bb40aa.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日の運勢。星々が告げる運を味方にするヒント【ブルータス週間占い】",
+      "description": "全体の空模様 25日、水星（思考）が乙女座に入ります。水星にとって、乙女座はホームグラウンドにあたるサイン（星座）。本来の力を発揮しやすい場所です。水星が獅子座にいたときは華やかさや勢いが目立ちましたが、今週は、乙女座ら [&#8230;]",
+      "link": "https://brutus.jp/post-521351/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 牡羊座の運勢【ブルータス週間占い】",
+      "description": "牡羊座の羅針盤 過去を手放す 水星（思考）が、牡羊座にとって日々の仕事の部屋である乙女座に入ります。目の前のことを一つずつ丁寧に片づける力が高まる週。25日以降は、課題がクリアになりそうです。日々のタスクに責任を持ちなが [&#8230;]",
+      "link": "https://brutus.jp/post-521397/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 牡牛座の運勢【ブルータス週間占い】",
+      "description": "牡牛座の羅針盤 好きなものを発信する 太陽と水星（思考）が、牡牛座にとって娯楽の部屋にあたる乙女座で重なります。趣味として続けてきたことや、好きでやってきたことを、外へ発信してみたいとき。ハマっているドラマの考察をSNS [&#8230;]",
+      "link": "https://brutus.jp/post-521403/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 双子座の運勢【ブルータス週間占い】",
+      "description": "双子座の羅針盤 日常に少しだけ変化を起こす 双子座の支配星である水星（思考）が25日に乙女座へ移動します。乙女座は、双子座にとっては足元を表す部屋。そこに太陽もいるので、ゆっくりとこれまでの自分を振り返る時間を持てそうで [&#8230;]",
+      "link": "https://brutus.jp/post-521406/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 蟹座の運勢【ブルータス週間占い】",
+      "description": "蟹座の羅針盤 新たな世界へ軽快に進む 蟹座にとって学びを意味する部屋である天秤座に、25日、水星（コミュニケーション）が入ります。その影響で、好奇心がどんどん膨らんでいくでしょう。「面白そう」と思ったことを軽やかに追いか [&#8230;]",
+      "link": "https://brutus.jp/post-521408/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 獅子座の運勢【ブルータス週間占い】",
+      "description": "獅子座の羅針盤 自らのスキルを見直す 週初めに月が獅子座にとって日々の業務の部屋となる山羊座にいます。今週は、仕事もプライベートも堅実に進めていきましょう。やらなければいけないことがたくさん出てくるかもしれませんが、きち [&#8230;]",
+      "link": "https://brutus.jp/post-521418/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 乙女座の運勢【ブルータス週間占い】",
+      "description": "乙女座の羅針盤 「楽しいこと探し」に出かける 25日、水星（思考）が自エリア（乙女座）にやってきます。水星にとって乙女座は、その性質を発揮しやすいホームグラウンド。今週は頭が冴え、やりたいことにどんどん着手していけそうで [&#8230;]",
+      "link": "https://brutus.jp/post-521421/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 天秤座の運勢【ブルータス週間占い】",
+      "description": "天秤座の羅針盤 行動から気持ちを変える 今週は、過去を振り返る時間が増えそうです。これは、水星（思考）が天秤座にとって内省の部屋である乙女座に移る影響。思い出したくなかったトラウマや後悔が浮かんでくるかもしれません。 け [&#8230;]",
+      "link": "https://brutus.jp/post-521430/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 蠍座の運勢【ブルータス週間占い】",
+      "description": "蠍座の羅針盤 同志と一緒に楽しく前進する 今週は、月が蠍座にとって学びの部屋にあたる山羊座にいるところから始まります。「面白そう！」という思いが、世界を広げるきっかけとなるときです。好奇心の赴くままに動きましょう。 水星 [&#8230;]",
+      "link": "https://brutus.jp/post-521435/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 射手座の運勢【ブルータス週間占い】",
+      "description": "射手座の羅針盤 思い込みを手放す 今週は、現実を客観的に見つめながら、自分の目標を言葉にしていきましょう。太陽と水星（思考）が射手座にとって社会的立場の部屋にあたる乙女座に揃い、高みを目指す気持ちが強くなります。 仕事で [&#8230;]",
+      "link": "https://brutus.jp/post-521439/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 山羊座の運勢【ブルータス週間占い】",
+      "description": "山羊座の羅針盤 時間をかけて段取りを組む 自エリア（山羊座）に月がいるところから始まる1週間。楽しいことを進める力が強まっています。水星（コミュニケーション）が山羊座にとって将来を意味する部屋である乙女座に入り、太陽と並 [&#8230;]",
+      "link": "https://brutus.jp/post-521443/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 水瓶座の運勢【ブルータス週間占い】",
+      "description": "水瓶座の羅針盤 悩みは目上の人に相談する 週の前半は、自分を労わりながらゆっくり過ごしましょう。火星（意欲）が水瓶座から見て日々の業務の部屋、蟹座にいるため、何かと忙しくなりそうです。知らないうちに疲れがたまるかもしれま [&#8230;]",
+      "link": "https://brutus.jp/post-521445/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "8月24日〜8月30日 魚座の運勢【ブルータス週間占い】",
+      "description": "魚座の羅針盤 「今」を楽しむ 水星（コミュニケーション）が労働の部屋である獅子座にいる先週までの間は、責任感が強まり、プレッシャーで気が張っていました。ところが、週明け早々水星が乙女座に移動するので、肩の荷が降ります。あ [&#8230;]",
+      "link": "https://brutus.jp/post-521448/",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -470,19 +691,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】Threads民「新幹線、立ち席チケで買って椅子持ち込んだわｗライフハックｗ」 →大炎上",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560378.html",
-      "pubDate": "2026-08-23T18:40:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/24d9756f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -665,19 +873,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/kaitenzushi.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女さん、トイレ問題にブチギレ・・・「めちゃめちゃ不公平。なんで同じ仕組み・同じ個数になっているんだろう。女に生まれて損や！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457407.html",
-      "pubDate": "2026-08-23T11:30:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d2373081.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -821,19 +1016,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/21/05/subbuzz/ko0iNoQm2.jpg?crop=1887:1258;0,206&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "放課後から大舞台へ。テクノポップバンド〈LAUSBUB〉のメジャーデビュー作が発売",
-      "description": "メジャーデビューを果たす〈LAUSBUB〉が求める“らしさ”とは ──メジャーデビュー・アルバム『society &#124; lazy』はCD2枚組！ ──つまり、ディスク2には「これからの〈LAUSBUB〉」が入ってる。 ── [&#8230;]",
-      "link": "https://brutus.jp/post-519878/",
-      "pubDate": "Sat, 22 Aug 2026 10:00:03 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -860,19 +1042,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_3805.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ハイテクをまとった新顔。〈LACOSTE〉のスニーカー：Brutus Best Bets",
-      "description": "ハイテクをまとった新顔 今年の春に初登場した〈ラコステ〉のスニーカー「スピナーシールド」が、よりタフに進化！流線形のアッパーを覆うのは、奥行きを生む3Dの半透明プリント。防水性を備え、足元には独自の衝撃吸収技術を採用した [&#8230;]",
-      "link": "https://brutus.jp/post-519053/",
-      "pubDate": "Sat, 22 Aug 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -884,19 +1053,6 @@
       "link": "https://rocketnews24.com/2026/08/22/2792999/",
       "pubDate": "Sat, 22 Aug 2026 06:00:46 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/5f242dda-46ae-42c5-9f12-cf0366c40d60.png"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "結局、杉本博司の写真って何がすごいんだ？4人の写真家が読み解く杉本写真術",
-      "description": "現在、東京国立近代美術館で展覧会『杉本博司 絶滅写真』を開催中の現代美術作家、杉本博司。そこでも展示されているのが、杉本が20代の頃から制作にまつわる覚書やアイデアを記していたノートブック、通称「スギモトノート」だ。 こ [&#8230;]",
-      "link": "https://brutus.jp/post-519662/",
-      "pubDate": "Sat, 22 Aug 2026 03:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -951,19 +1107,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_8605.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【水族館の裏側】500円のバックヤードツアーに参加したら、巨大水槽の上で足がすくんだ / 北海道「サケのふるさと 千歳水族館」",
-      "description": "普段は見ることのできない裏側をのぞくのはおもしろい。 今回見てきたのは、水族館の裏側。バックヤードツアーに参加して、普段は立ち入れないエリアを見学してきた。 場所は、北海道千歳市にある「サケのふるさと 千歳水族館」。日本 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/22/2791099/",
-      "pubDate": "Sat, 22 Aug 2026 00:00:28 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/suizokukan-86.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -975,19 +1118,6 @@
       "link": "https://sumida.goguynet.jp/2026/08/22/kushikatunatana20260825/",
       "pubDate": "Fri, 21 Aug 2026 23:01:47 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6930-1024x767.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ここ最近話題をさらったあなたの国のカップルは？：BRUTUS CITY JOURNAL",
-      "description": "🇫🇷 フェラーリを背負うF1の貴公子が人気インフルエンサーと結婚！ フランス／パリ F1界の貴公子、フェラーリ所属のシャルル・ルクレールと、SNSに約300万人のフォロワーを持つインフルエンサーで、アートキュレーターのア [&#8230;]",
-      "link": "https://brutus.jp/post-506771/",
-      "pubDate": "Fri, 21 Aug 2026 23:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1029,32 +1159,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "それはレッテルにすぎない。でも──。女性監督のパイオニアと「フェミニズム映画」を考える：映画選びの教科書 2026年版 Vol.13",
-      "description": "「女性監督」も「フェミニズム映画」も、単なるレッテルにすぎないとサリー・ポッターは言う。 しかしその一方で、彼女はフェミニストであることを誇りにも感じている。 彼女の初長編監督作『ザ・ゴールドディガーズ』は、BFI（英国 [&#8230;]",
-      "link": "https://brutus.jp/post-520559/",
-      "pubDate": "Fri, 21 Aug 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "かご・箱、なに使ってますか？Vol.1",
-      "description": "イラストレーター・三宅瑠人 〈日本民藝館〉で購入した編みかご 脚付きで入れたものがよく乾くので、洗った後の子供用の細々とした雑貨を入れる定位置にしています。側面の三角形の編み込みが中に入れたものの印象を和らげるのも気に入 [&#8230;]",
-      "link": "https://brutus.jp/post-513792/",
-      "pubDate": "Fri, 21 Aug 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1066,19 +1170,6 @@
       "link": "https://www.buzzfeed.com/jp/yukiadachi/tkawa-nakajimaayumu0815",
       "pubDate": "Fri, 21 Aug 2026 06:31:01 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/21/05/subbuzz/zyPPuom4t.jpg?crop=1502:1001;477,242&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ロックの話をしよう。Vol.10「可愛らしいローリング・ストーンズ」",
-      "description": "ロックが流行らなくなった。そんな身も蓋もない話から、この対談は始まる。 かつてロックは、若者の音楽であり、バンドの音楽であり、衝動やロマンや思想を映し出す音楽だった。ギターを持つこと、バンドを組むこと、レコードを買うこと [&#8230;]",
-      "link": "https://brutus.jp/post-518448/",
-      "pubDate": "Fri, 21 Aug 2026 10:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1107,19 +1198,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/19/14/subbuzz/dk7HchzuX.jpg?crop=779:519;178,926&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ブランドの美学を投影。〈OUR LEGACY〉のワークシャツ：Brutus Best Bets",
-      "description": "ブランドの美学を投影 20周年を迎えた〈アワー レガシー〉が今季掲げるメッセージは、「JUST CLOTHES＝純粋な服」。節目だからと着飾るのではなく、しかるべき時と場所にある服というブランドの原点へ立ち返った。オンブ [&#8230;]",
-      "link": "https://brutus.jp/post-519042/",
-      "pubDate": "Fri, 21 Aug 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1131,19 +1209,6 @@
       "link": "https://www.buzzfeed.com/jp/yusuketsuji/kumamon0820",
       "pubDate": "Thu, 20 Aug 2026 23:01:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/20/05/subbuzz/C3xyvOQ8O.jpg?crop=3390:2260;0,250&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】“架空のスポーツ洋品店”がコンセプト。〈150SPORTS〉の有線ヘッドホン",
-      "description": "90年代のデザインに惹かれるあの人へどこか懐かしい有線ヘッドホン 〈150SPORTS〉の有線ヘッドホン 1995年頃の渋谷・猿楽町と宇田川町に存在した“架空のスポーツ洋品店”をコンセプトにした〈150スポーツ〉。こちら [&#8230;]",
-      "link": "https://brutus.jp/post-519716/",
-      "pubDate": "Fri, 21 Aug 2026 03:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1198,19 +1263,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6831-1024x767.jpeg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "「韓国文化通信」Vol.43 写真家、『OhBoy!』編集長・Kim HyeonSeong",
-      "description": "動物と地球の未来のための雑誌 ──年代から写真家として活躍されていましたが、どのようなお仕事が多かったのでしょうか？ ──2009年に愛犬を亡くされたことがきっかけで雑誌『OhBoy!』を立ち上げます。この経緯について詳 [&#8230;]",
-      "link": "https://brutus.jp/post-518129/",
-      "pubDate": "Thu, 20 Aug 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1237,19 +1289,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/14/08/subbuzz/Mp8gL0VXB.jpg?crop=2536:1691;514,119&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "流行写真通信 第43回：瀧本幹也の宇宙と内面を横断する40年分の観測写真",
-      "description": "「太陽の光が地球に届くまでには約8分20秒かかるんです。茅ヶ崎の海で、満月の光が地球に到達するまでの時間を調べたら、1.3秒だった。そんなに違うんだと」と語るのは瀧本幹也。9月2日から11月8日まで神奈川県の茅ヶ崎市美術 [&#8230;]",
-      "link": "https://brutus.jp/post-520465/",
-      "pubDate": "Thu, 20 Aug 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1261,32 +1300,6 @@
       "link": "https://www.buzzfeed.com/jp/yuisasaki/hashimotokannna0820",
       "pubDate": "Thu, 20 Aug 2026 07:16:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/20/06/subbuzz/Ol9KqkNgB.jpg?crop=3332:2221;0,331&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "斉藤壮馬の「ただいま、ゼロ年代。」第51回 Arctic Monkeys『Whatever People Say I Am, That's What I'm Not』",
-      "description": "Arctic Monkeys『Whatever People Say I Am, That's What I'm Not』 この連載でも何度か書いてきたように、2000年代前後に巻き起こったムーヴメント、ロックンロールリ [&#8230;]",
-      "link": "https://brutus.jp/post-518203/",
-      "pubDate": "Thu, 20 Aug 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ファッションエディター・大水さん",
-      "description": "ジャケット75,900円、ネクタイ8,800円（共にエンジニアドガーメンツ TEL：03･6419･1798）、オールインワン88,000円（メゾン エ ヴォヤージュ／メゾン エ ヴォヤージュ 麻布台ヒルズ店 TEL：03･5797･8515）、シャツ29,920円（ユナイテッドアローズ／ユナイテッドアローズ 六本木ヒルズ店 TEL：050･8893･4217）、グローブ各9,900円（キャッシュ",
-      "link": "https://brutus.jp/post-519341/",
-      "pubDate": "Thu, 20 Aug 2026 10:00:00 +0000",
-      "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/08/29cdaea26b8ebddca9409aec51c1138e.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1562,19 +1575,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6681-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】曳舟の「ROCAcoffee roasters」の2号店が押上にOPEN予定です！",
-      "description": "2025年6月に曳舟駅そばにOPENした「ROCAcoffee roasters」 【墨田区】曳舟駅南側ふじのき公園のすぐそばに「ROCAcoffee roasters」5月1日プレオープンです。 2025年2月に隅田公 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/08/14/roca2-open/",
-      "pubDate": "Thu, 13 Aug 2026 23:01:22 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6812-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-23T22:51:56.504949",
+  "updatedAt": "2026-08-23T23:25:59.902363",
   "sites": [
     {
       "id": "hachima",
