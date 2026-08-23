@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【地獄】ラーメンオタクさん、人として当たり前の◯◯◯を店から注意されて逆ギレ　→　怒りの低評価レビュー攻撃へｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560498.html",
+      "pubDate": "2026-08-24T07:30:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/0/105adfc4-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -468,19 +481,6 @@
       "link": "http://blog.esuteru.com/archives/10560378.html",
       "pubDate": "2026-08-23T18:40:40+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/24d9756f.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女さん、トイレ行列問題に怒り「女に生まれて損や！めちゃめちゃ不公平。なんで同じ仕組み・同じ個数になっているんだろう。」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560377.html",
-      "pubDate": "2026-08-23T18:20:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/a/2a1186e2.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-23T22:27:33.468577",
+  "updatedAt": "2026-08-23T22:51:56.504949",
   "sites": [
     {
       "id": "hachima",
