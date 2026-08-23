@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【九州】女性「九州男児のイメージ悪すぎて辛い…本当は○○なのに」←擁護発言の中にヤバすぎる言葉が紛れ込んでいてネット民戦慄へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457405.html",
+      "pubDate": "2026-08-23T13:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/1/f1c6cfe5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【訃報】名馬・ナカヤマフェスタが息を引き取る。",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560328.html",
+      "pubDate": "2026-08-23T13:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6c8e860.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「会計で『はい100万円ね！』ってボケられたときなんて返せばいいの？「○ね」でいい？」→関西人から対処法が集まる→結果ｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457404.html",
+      "pubDate": "2026-08-23T12:41:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/9/59992ff2.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ラーメンハゲで話題になった新作ゲーム『Japanese Ramen Simulator』ひっそりと「にじさんじネタ」も見つかり話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560314.html",
+      "pubDate": "2026-08-23T12:40:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/0/105adfc4-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "チケット販売がクソすぎて炎上した『フェルメール展』。会場内も阿鼻叫喚の地獄で非難殺到！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560311.html",
+      "pubDate": "2026-08-23T12:20:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6a09b12.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【激安終了速報】雷雷雷、極楽街などのKindle実質半額セールは本日8/23終了！アニメ化企画進行中、地雷なんですか？地原さん、乙女ゲームのヒロインで最強サバイバルも対象！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457412.html",
+      "pubDate": "2026-08-23T12:20:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a92d906.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -522,32 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4b5a39a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【謎】55歳男性、コツコツ銀行から下ろした現金1150万円を自宅のアルミ缶の中に入れて保管するもいつの間にかなくなっていたと通報…住宅には侵入された形跡なし",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560236.html",
-      "pubDate": "2026-08-23T01:30:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7d95d43a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "警察官と鬼ごっこがしたかっただけの純粋な17歳少年と16歳少女、深夜の交番に爆竹を投げ込んで逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560232.html",
-      "pubDate": "2026-08-23T01:00:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/5/65bd10b4.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +611,6 @@
       "link": "https://jin115.com/archives/52457389.html",
       "pubDate": "2026-08-23T01:00:07+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/e/3e4a1fd2.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "結婚相談所「ちいかわにイライラする人は◯◯◯◯気質だから結婚前にちいかわを一緒に観ましょう」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560079.html",
-      "pubDate": "2026-08-23T00:30:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7d3040c6.jpg"
     },
     {
       "siteId": "jin",
@@ -613,32 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/7324208e.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "秋葉原、崩壊",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457374.html",
-      "pubDate": "2026-08-22T21:40:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60ae7908.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『エアマスター』全巻「99円」セール！全28巻「21,252円」→「2,772円」！脳が灼けるほど熱くなる名言だらけの傑作！セールでネット民が話題に「読んでおいたほうがいい」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457368.html",
-      "pubDate": "2026-08-22T21:20:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/f/cf5aa554.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -650,19 +663,6 @@
       "link": "https://rocketnews24.com/2026/08/22/2792008/",
       "pubDate": "Sat, 22 Aug 2026 12:00:52 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2089a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "東京駅、水没",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457373.html",
-      "pubDate": "2026-08-22T21:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/e/7e4e0d8f.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-23T03:07:57.349016",
+  "updatedAt": "2026-08-23T04:10:03.212956",
   "sites": [
     {
       "id": "hachima",
