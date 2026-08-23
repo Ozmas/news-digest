@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『鉄のラインバレル』完全版が全巻「99円」セール！全18巻「15,840円」→「1,782円」！ロボット好きは全員読むべき『ULTRAMAN』作者の名作！完全版は「真の最終回」収録",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457453.html",
+      "pubDate": "2026-08-23T21:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/4/24fcff08.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "オーケー一ツ家店がオーケー一ツ家店外に設置していたスプリンクラーが地震で誤作動…オーケー一ツ家店前が泡だらけに",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560410.html",
+      "pubDate": "2026-08-23T21:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/c/0c4ef61d.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "大人気コスプレイヤー・えなこさん、配信中にガッツリ見えてしまい話題にｗｗｗｗｗｗ 「最高すぎ」「けんきを許すな」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457451.html",
+      "pubDate": "2026-08-23T21:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/9/09643916-s.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2090話目「エルフの森の変化⑱」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/08/23/2792012/",
+      "pubDate": "Sun, 23 Aug 2026 12:00:31 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2090a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【外道】私立高校で女子生徒の盗撮事件が発生 →男子生徒複数人が◯◯していたと発覚・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560401.html",
+      "pubDate": "2026-08-23T21:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/cc99cfd0.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "俳優、音楽家・渡辺大知の日本映画セレクション。映像と音楽が美しく溶け合う10本",
+      "description": "映像と音楽が美しく溶け合う10本 自分のルーツである映画と音楽を同時に好きになったのは、小学生の時に観た『天使にラブソングを…』の影響です。それから出演者の一人であるハーヴェイ・カイテルつながりで『ミーン・ストリート』に [&#8230;]",
+      "link": "https://brutus.jp/post-475278/",
+      "pubDate": "Sun, 23 Aug 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -444,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a92d906.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "映画『閃光のハサウェイ キルケーの魔女』を字幕アリで「例のシーン」を確認した結果ｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560309.html",
-      "pubDate": "2026-08-23T12:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d0abd24e.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +559,6 @@
       "link": "https://rocketnews24.com/2026/08/23/2792225/",
       "pubDate": "Sun, 23 Aug 2026 02:55:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/kaitenzushi.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "主婦「ネットで見たレシピ作ったのに大失敗！」→レシピ通りじゃない投稿者に、山本ゆりさんが神対応",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560308.html",
-      "pubDate": "2026-08-23T11:30:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ff3b3dca.jpg"
     },
     {
       "siteId": "jin",
@@ -700,34 +752,8 @@
       "title": "『ママレード・ボーイ』全巻「100円」セール終了間際！全8巻「4,344円」→「800円」！今では許されないガチでやばすぎる設定の少女漫画！本日23時59分まで",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52457387.html",
-      "pubDate": "2026-08-23T06:30:10+09:00",
+      "pubDate": "2026-08-23T06:30:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/381f5cee.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "反高市・小渕優子氏「消費税を作るためにどれだけの先人の苦労があったと思う？すぐ減税するなんて言ってはいけない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457386.html",
-      "pubDate": "2026-08-23T06:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/0/d0fcec3c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ホスト「ホスト辞めるので、7年間ずっと応援してくれたエースの客にプロポーズします」 → 結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457381.html",
-      "pubDate": "2026-08-23T05:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/08d93321-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -990,19 +1016,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2088話目「エルフの森の変化⑯」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/08/21/2792004/",
-      "pubDate": "Fri, 21 Aug 2026 12:00:10 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2088a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1261,19 +1274,6 @@
       "link": "https://brutus.jp/post-519341/",
       "pubDate": "Thu, 20 Aug 2026 10:00:00 +0000",
       "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/08/29cdaea26b8ebddca9409aec51c1138e.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "山の記憶を、街の日常へ。〈サロモン〉SPORTSTYLE 26FWと富ヶ谷〈Sanva〉の2日間",
-      "description": "展示会場にカフェを選んだ理由 ここ数年、街ですれ違う人の足元に〈サロモン〉を見かける回数が、はっきりと増えた。もとは山を走るための靴が、平日の通勤路にも、休日のカフェにも並び、履かれている。 発端は、パリのセレクトショッ [&#8230;]",
-      "link": "https://brutus.jp/post-518394/",
-      "pubDate": "Thu, 20 Aug 2026 08:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-23T11:48:32.590409",
+  "updatedAt": "2026-08-23T12:50:41.651619",
   "sites": [
     {
       "id": "hachima",
