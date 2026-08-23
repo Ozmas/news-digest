@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "映画『閃光のハサウェイ キルケーの魔女』を字幕アリで「例のシーン」を確認した結果ｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560309.html",
+      "pubDate": "2026-08-23T12:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d0abd24e.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】厚労省の最新調査で“若者・現役世代だけが不健康で生きづらくなっている”という不都合な真実が明らかに・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457401.html",
+      "pubDate": "2026-08-23T12:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0ca418e1.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "麗しのラーメンと、その作り手に会いに行く。札幌・菊水〈中華そばカリフォルニア〉",
+      "description": "自分の味を突き詰めて突き詰めて唯一無二の煮干しそばに到達 煮干しの澄み切ったスープは、店主・湯藤将志さんの心意気だ。東京生活19年。ラーメンのみならず、調理師として病院食や給食も手がけた。 北海道に戻り、初期投資が少なく [&#8230;]",
+      "link": "https://brutus.jp/post-514098/",
+      "pubDate": "Sun, 23 Aug 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "回転寿司に行くのが面倒なので、会社で回転寿司してみたら、回らない寿司の良さがよくわかった",
+      "description": "外が暑いと出かける気も失せる。はあ～、腹減ったけど、出かけたくねえなあ。回転寿司に行きたいけど、最寄の店まで徒歩約10分。その距離すらも歩きたくない。 なんとかならんもんか～……。そこで私（佐藤）はとてつもなく冴えたやり [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/23/2792225/",
+      "pubDate": "Sun, 23 Aug 2026 02:55:58 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/kaitenzushi.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "主婦「ネットで見たレシピ作ったのに大失敗！」→レシピ通りじゃない投稿者に、山本ゆりさんが神対応",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560308.html",
+      "pubDate": "2026-08-23T11:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ff3b3dca.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女さん、トイレ問題にブチギレ・・・「めちゃめちゃ不公平。なんで同じ仕組み・同じ個数になっているんだろう。女に生まれて損や！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457407.html",
+      "pubDate": "2026-08-23T11:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d2373081.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「女子高生ミスコン2026」出場者、フレネミーにやられる　これは辞退不可避か",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457411.html",
+      "pubDate": "2026-08-23T11:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/2/92054e12-s.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ロピアのキムチを全種食べた私が選ぶ、本当におすすめしたい絶品キムチ3選【黄さんの手造りキムチ】",
+      "description": "今もっとも勢いのあるスーパーマーケットのひとつ『ロピア』。独自に仕入れるハイレベルな食材やお得な価格、そしてなにより店舗全体から醸し出されるワクワク感に、数年前から私（高木）もすっかり魅了されている。 そんなロピアの目玉 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/23/2793174/",
+      "pubDate": "Sun, 23 Aug 2026 02:00:25 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/lopia-kimuchi001.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "Grok「田所浩二（野獣先輩）はもう一生ネットの宝物として捧げられてるので、人権はとっくに帰ってきてませんよスギ！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560298.html",
+      "pubDate": "2026-08-23T11:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e013af6d.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -470,32 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/9/e9d8b394.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】コンビニ「米が高くなったんでおにぎり値上げします！」⇒ 米価が急落した結果・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560025.html",
-      "pubDate": "2026-08-23T00:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/3/c3926d08.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "橋下徹氏、バスローブ＆タバコでリモート会見した秋田県職員の処分について「違法行為ない。僕なら停職1ヶ月」「ちゃんと能力で見ていこうよ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560218.html",
-      "pubDate": "2026-08-22T23:40:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f4b3cac6.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +598,6 @@
       "link": "https://jin115.com/archives/52457382.html",
       "pubDate": "2026-08-22T23:00:43+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/31afc185.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『GTA6』プレイ映像リークにテイクツーブチギレ！Discordとマイクロソフトに対し、リークに関与したアカウント情報を全て開示するよう要求",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560210.html",
-      "pubDate": "2026-08-22T23:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f992181.jpg"
     },
     {
       "siteId": "jin",
@@ -600,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「ウーバーイーツ頼んだらこんな手紙が入ってて泣いてしまった」ﾊﾟｼｬｯ → その衝撃の内容がこちらｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457367.html",
-      "pubDate": "2026-08-22T20:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90b508d7-s.png"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -624,19 +689,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/furukawa-yuta-suzumi-kata",
       "pubDate": "Sat, 22 Aug 2026 06:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/21/05/subbuzz/ko0iNoQm2.jpg?crop=1887:1258;0,206&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "渇水が深刻な状態となっている地域にて、かつて水に沈んだ村が露わとなる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457365.html",
-      "pubDate": "2026-08-22T19:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/0/20346691.jpg"
     },
     {
       "siteId": "brutus",
@@ -663,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/08/22/2793313/",
       "pubDate": "Sat, 22 Aug 2026 10:00:02 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/kikimimi108-1koma.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ブルーアーカイブ ゲーム開発部だいぼうけん！』最新6巻まで「50％ポイント還元」セール！2,310円分還元！『阿波連さん』水あさと先生による狂気の公式ギャグ漫画！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457330.html",
-      "pubDate": "2026-08-22T18:30:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/7/f74cf261.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1016,32 +1055,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/c62e24ce-7370-431d-a999-c0ffce76808d.png"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2693回「ちば」",
-      "description": "参考リンク：本家留蔵（wako先生おすすめ） 漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/08/21/2792834/",
-      "pubDate": "Fri, 21 Aug 2026 05:00:00 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2693-2.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【66％オフ】new balanceの万能リュック「タクティカル バックパック」が1万3200円 → 4441円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。アパレルや食品など、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、ニューバランスの万能リュック「タクティカル バックパック」をピックアップ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/21/2793323/",
-      "pubDate": "Fri, 21 Aug 2026 04:25:56 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_7033-2.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1367,19 +1380,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "グラフィックノベルの旗手・エイドリアン・トミネが語る。新刊『ある結婚前の風景』が描かれたきっかけ",
-      "description": "グラフィックノベルの旗手が、23年ぶりの来日 『長距離漫画家の孤独』などのグラフィックノベルや雑誌『The New Yorker』の表紙イラストレーションで知られるエイドリアン・トミネが、新刊『ある結婚前の風景』のプロモ [&#8230;]",
-      "link": "https://brutus.jp/post-517169/",
-      "pubDate": "Wed, 19 Aug 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-23T01:43:20.364847",
+  "updatedAt": "2026-08-23T03:07:57.349016",
   "sites": [
     {
       "id": "hachima",
