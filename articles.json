@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "国交省、2031年から新型車に○○義務化へ→また余計な機能が増えると批判殺到",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457530.html",
+      "pubDate": "2026-08-25T08:30:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b05829f1.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】絵師「『ちいかわ』ナガノ先生、こんなシンプルな絵柄なのに◯◯◯◯が表現できてるの絵が上手すぎる！」　→　圧倒的共感が殺到！「ガチで鳥山明レベルの画力」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560773.html",
+      "pubDate": "2026-08-25T08:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/205fce60.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -613,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/9/89de108a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ローソン「米の価格が下落したんで、おにぎりを一律10円値下げしますわ」 → それでも文句を言う人が続出してしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560625.html",
-      "pubDate": "2026-08-24T18:30:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ff14c018.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52457494.html",
       "pubDate": "2026-08-24T16:00:41+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/e/4ee0a000-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "飲食チェーン社長「外国人の方が生産性高くて真面目。日本人は現場で働きたがらない」→ひろゆき氏「安く働く外国人労働者を入れれば入れるほど◯◯になる」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457490.html",
-      "pubDate": "2026-08-24T15:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8c97ef55.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-24T23:26:18.622524",
+  "updatedAt": "2026-08-24T23:49:20.883246",
   "sites": [
     {
       "id": "hachima",
