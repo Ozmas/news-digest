@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "消費者庁が「ダークパターン」規制へ！ で、ダークパターンって何？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560706.html",
+      "pubDate": "2026-08-25T04:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/24867fe5.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -611,19 +624,6 @@
       "link": "http://blog.esuteru.com/archives/10560589.html",
       "pubDate": "2026-08-24T16:00:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/6/76ae4f3c-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「なろう小説によくある展開を全部満たすのって”あの時代劇”じゃね」⇒ 6万いいね超え",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560586.html",
-      "pubDate": "2026-08-24T15:30:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/3/13ce092e.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-24T18:48:44.493001",
+  "updatedAt": "2026-08-24T19:33:41.590293",
   "sites": [
     {
       "id": "hachima",
