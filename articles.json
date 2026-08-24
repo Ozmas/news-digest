@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国「日本は中国人観光客なしでは持ちこたえられない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457519.html",
+      "pubDate": "2026-08-25T06:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/133e3e68.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "AmazonPrimeで遂に『チェンソーマン レゼ篇』が解禁か！？ 公式が匂わせ投稿",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560705.html",
+      "pubDate": "2026-08-25T06:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/6/46396a23-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -600,19 +626,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】X民「『AIイラストってAIってすぐわかるよな(ﾄﾞﾔｯ』みたいは人はこの絵はAIだと見抜けるの？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560592.html",
-      "pubDate": "2026-08-24T16:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e9bafe5c.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -702,19 +715,6 @@
       "link": "https://jin115.com/archives/52457491.html",
       "pubDate": "2026-08-24T13:00:05+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/a/0a0e051d-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】「結婚するつもりない」若者の割合、ちょっとエグい・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457472.html",
-      "pubDate": "2026-08-24T12:40:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/321f9f6e.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-24T20:36:18.480141",
+  "updatedAt": "2026-08-24T21:34:22.877522",
   "sites": [
     {
       "id": "hachima",
