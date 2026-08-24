@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "そういう意味で出してない！ 唐突な彼女との別れ！　四コマサボタージュFB第72回「距離」",
+      "description": "「テレビを見る時は……」って番組冒頭に表示されるテロップなんだけど、子どもの頃にはそういう注意書きみたいなのがなかったような気がするんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/25/2790981/",
+      "pubDate": "Mon, 24 Aug 2026 22:00:49 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-72.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "名作アクションRPG『天地創造』（Terranigma）、リメイク決定！　2027年にSwitch2/Switch/PS5/PS4/Xbox Series X|S/Steamでリリース",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560754.html",
+      "pubDate": "2026-08-25T07:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/9/a92d3b9d-s.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "仙台で〈COFFEE COUNTY〉のロースター出身店主が独立！ 自家焙煎が生むこだわりの一杯。",
+      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
+      "link": "https://casabrutus.com/categories/food/490117",
+      "pubDate": "Mon, 24 Aug 2026 22:00:42 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "経産省、日本発アニメ、マンガ、ゲームの海外売上拡大を目指す「ものがたり大国5か年計画」を発表へ！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457527.html",
+      "pubDate": "2026-08-25T07:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/6/f6a2f710.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -587,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/821b6a71.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "強者男性「こういう場面で女子の分も奢らないといけないのが凄く嫌なんだけどこれってケチになる？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560595.html",
-      "pubDate": "2026-08-24T17:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b02f3979.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -702,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/08/24/2794143/",
       "pubDate": "Mon, 24 Aug 2026 05:00:16 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2694-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "相模原市で17歳の男子高校生が死亡　繰り返し殴られたような跡があり、事件に巻き込まれたか",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457491.html",
-      "pubDate": "2026-08-24T13:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/a/0a0e051d-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1250,19 +1276,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/18/07/thumb/p3Ai7VjwX.jpg?crop=5000:3333;0,737&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "新千歳空港から車で約10分！ ルタオ唯一のパン工房「ドレモルタオ」で今年の夏イチオシ限定パンを食べてみた",
-      "description": "北海道土産の定番として知られる「ルタオ」。 チーズケーキのイメージが強いが、新千歳空港から車で約10分の場所にある「ドレモルタオ」には、ルタオ唯一のパン工房が併設されているのを知っているだろうか？ 店内にはここだけの限定 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/23/2789491/",
-      "pubDate": "Sun, 23 Aug 2026 01:00:12 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/LINE_ALBUM_20260806_260806_21_65a875.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1442,19 +1455,6 @@
       "description": "英国・オックスフォード大学大学院で博士号を取得され、美術やデザインへの造詣が深い彬子女王殿下が、明治、大正、昭和初期に建てられたモダン建築をめぐる連載。その頃は西洋建築が輸入された時代であり、和風と洋風が折衷した独特な様式が魅力で、皇室ゆかりの施設も多く建てられています。そんなモダン建築について、彬子女王殿下ならではの視点で綴っていきます。\n\n第13回は〈高松宮記念館〉。高松宮殿下が旧海軍兵学校在",
       "link": "https://casabrutus.com/categories/architecture/491753",
       "pubDate": "Thu, 20 Aug 2026 07:25:59 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "〈UM〉が内装を手がけた、香川のローカルなひとときを楽しむ宿。",
-      "description": "香川・庵治の交差点にある古民家をリノベーションしたゲストハウス〈kawasakike〉がスタート。",
-      "link": "https://casabrutus.com/categories/travel/491545",
-      "pubDate": "Thu, 20 Aug 2026 02:25:50 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-24T21:34:22.877522",
+  "updatedAt": "2026-08-24T22:31:29.774162",
   "sites": [
     {
       "id": "hachima",
