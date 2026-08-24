@@ -8,6 +8,32 @@
       "siteColor": "#60a5fa",
       "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
       "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【物議】弁護士「死刑に賛成の人は、自分の大切な人が死刑囚になっても死刑に賛成するのでしょうか」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457515.html",
+      "pubDate": "2026-08-25T03:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca6fd21a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "映画『THE FIRST SLAM DUNK』の野外上映が決定！ しかも参加費無料",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560704.html",
+      "pubDate": "2026-08-25T03:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/252f6ef1.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
       "title": "【悲報】ウーバーイーツで銀だこを頼んだ人、とんでもない物が届いて話題にｗｗｗｗｗｗ",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52457514.html",
@@ -613,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8c97ef55.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【予約開始】『バニーガーデン2』『へべれけ ばにーがーでん』、Switchパッケージ版がAmazonで予約スタート！　限定版特典は6キャラクター分のASMR収録CDなど",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560579.html",
-      "pubDate": "2026-08-24T15:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c40e91b.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -702,19 +715,6 @@
       "link": "https://jin115.com/archives/52457463.html",
       "pubDate": "2026-08-24T12:20:49+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/569677e1.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "キックボクサー「友達と友達の彼女と3人でご飯行って、俺と友達で割り勘になる時とか凄く嫌なんだけどこれってケチになる？笑」→様々な意見が集まる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457487.html",
-      "pubDate": "2026-08-24T12:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/b/2b862961-s.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-24T17:35:14.388654",
+  "updatedAt": "2026-08-24T18:48:44.493001",
   "sites": [
     {
       "id": "hachima",
