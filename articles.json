@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "飲食チェーン社長「外国人の方が生産性高くて真面目。日本人は現場で働きたがらない」→ひろゆき氏「安く働く外国人労働者を入れれば入れるほど◯◯になる」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457490.html",
+      "pubDate": "2026-08-24T15:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8c97ef55.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】『バニーガーデン2』『へべれけ ばにーがーでん』、Switchパッケージ版がAmazonで予約スタート！　限定版特典は6キャラクター分のASMR収録CDなど",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560579.html",
+      "pubDate": "2026-08-24T15:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c40e91b.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【1足179円】アディダスの定番靴下3足セットが1430円 → 536円（63％オフ）！Amazonタイムセールで見つけたイチオシ商品26選",
+      "description": "毎日お得なタイムセールを開催しているAmazon。家電・食品・ファッションなど、さまざまなカテゴリーのアイテムを特別価格でゲットできるチャンス。 本日は『アディダス』の定番靴下3足セットが1430円 → 536円（63％ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/24/2794166/",
+      "pubDate": "Mon, 24 Aug 2026 05:42:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_703511.jpg.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "男子高校生ら4人、スーパーで万引きをした後に盗んだケチャップで70代女性の顔にかけたとして逮捕される 「通り魔のように10人くらいぶっかけた」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560576.html",
+      "pubDate": "2026-08-24T14:30:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/2/02396746-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -782,32 +834,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/21/08/subbuzz/E9KFWaIeM.jpg?crop=588:392;329,932&resize=1250:830"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバイ】ワンピースカードゲームが天野喜孝コラボ！描くキャラクターはこの2人",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560359.html",
-      "pubDate": "2026-08-24T06:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/c/8c679a73-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "実写版『ワンピース』アラバスタ編の新キャストが公開！これは今回も期待できそう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560399.html",
-      "pubDate": "2026-08-24T05:30:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/6/868cdd85-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -923,19 +949,6 @@
       "link": "https://brutus.jp/post-475278/",
       "pubDate": "Sun, 23 Aug 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "とあるVTuberさん「カップケーキ作りました！」ﾊﾟｼｬｯ → 背景にとんでもない物が映ってしまい話題にｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457446.html",
-      "pubDate": "2026-08-23T20:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/f/9fdcd033-s.png"
     },
     {
       "siteId": "brutus",
@@ -1222,19 +1235,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/furukawa-yuta-suzumi-kata",
       "pubDate": "Sat, 22 Aug 2026 06:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/21/05/subbuzz/ko0iNoQm2.jpg?crop=1887:1258;0,206&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第104話「音声」",
-      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/08/22/2793313/",
-      "pubDate": "Sat, 22 Aug 2026 10:00:02 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/kikimimi108-1koma.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-24T05:19:30.430310",
+  "updatedAt": "2026-08-24T06:04:35.171032",
   "sites": [
     {
       "id": "hachima",
