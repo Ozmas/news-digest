@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】カナリアサンドイッチ曳舟店が8月22日（土）をもって閉店。今後はどうなるの？",
+      "description": "京成曳舟駅近くの路地裏にある「カナリアサンドイッチ曳舟店」 ボリュームたっぷりのサンドイッチは、お食事としても、おやつとしても、大満足！ とても人気のお店です。 そんなカナリアサンドイッチ曳舟店が、2026年7月21日に [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/08/25/canariahikifune-close/",
+      "pubDate": "Mon, 24 Aug 2026 23:01:01 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6693-1024x767.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "本田望結さん、最新の姿にネット騒然",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457523.html",
+      "pubDate": "2026-08-25T08:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/5/453e533a.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【なぜ？】霜降り明星せいやさんの瞳を再現したカラコンが大人気らしい / 気になりすぎて実際に購入してみた",
+      "description": "今、霜降り明星せいやさんの瞳の色を再現したカラコンが人気なんだそう。 ……いやいや、いったいなぜ!? ・綺麗な瞳と話題だった 実は「せいやの目が綺麗すぎる」「せいやの目になりたい」という声がSNSでたびたび投稿されるほど [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/25/2793647/",
+      "pubDate": "Mon, 24 Aug 2026 23:00:49 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_7792.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【泣いた】兄が急死して両親が「兄のPCやハードディスクに残ってる画像を全て見たい」と言い出した　→　その時に弟が取った行動があまりに素敵すぎてネットが感動の嵐ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560765.html",
+      "pubDate": "2026-08-25T08:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/ed579275.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "グルマン温故知新：広尾〈pizzeria la nuvola〉研究肌の職人が編み出した雲のようなピッツァ",
+      "description": "pizzeria la nuvola（広尾） 研究肌の職人が編み出した雲のようなピッツァ 店名の“nuvola”とは、イタリア語で「雲」。そこには「まるで雲のような、飲めるくらい軽い生地のピッツァを作りたい」という思いが [&#8230;]",
+      "link": "https://brutus.jp/post-517814/",
+      "pubDate": "Mon, 24 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "小泉進次郎防衛相「護衛艦や兵器輸出が平和につながる」   →　「逆だろ！」と批判殺到…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560758.html",
+      "pubDate": "2026-08-25T07:30:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/9410eec7-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -574,19 +652,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/BF_1920.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "とあるX民、コミケでAI本を購入してしまいブチギレ 「見抜けなかった俺の負けだわ」なお、作者は垢削除して逃走済",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560615.html",
-      "pubDate": "2026-08-24T18:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d0358f0.png"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -598,19 +663,6 @@
       "link": "https://www.buzzfeed.com/jp/yuisasaki/kudoshizuka0824",
       "pubDate": "Mon, 24 Aug 2026 04:46:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/06/subbuzz/ckEp8ll8U.jpg?crop=1817:1211;0,229&resize=1250:830"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】「空の紙パックを日本刀で袈裟斬り」 ← あまりにもレベル高すぎる上、地味だと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560598.html",
-      "pubDate": "2026-08-24T17:30:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/d/1de00ec9.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -715,19 +767,6 @@
       "link": "https://rocketnews24.com/2026/08/24/2794166/",
       "pubDate": "Mon, 24 Aug 2026 05:42:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_703511.jpg.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【画像】美人声優さん、とんでもない衣装でイベントに出演",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457488.html",
-      "pubDate": "2026-08-24T14:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/5/85685f46.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1133,19 +1172,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2090a.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "俳優、音楽家・渡辺大知の日本映画セレクション。映像と音楽が美しく溶け合う10本",
-      "description": "映像と音楽が美しく溶け合う10本 自分のルーツである映画と音楽を同時に好きになったのは、小学生の時に観た『天使にラブソングを…』の影響です。それから出演者の一人であるハーヴェイ・カイテルつながりで『ミーン・ストリート』に [&#8230;]",
-      "link": "https://brutus.jp/post-475278/",
-      "pubDate": "Sun, 23 Aug 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1235,19 +1261,6 @@
       "link": "https://rocketnews24.com/2026/08/23/2793174/",
       "pubDate": "Sun, 23 Aug 2026 02:00:25 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/lopia-kimuchi001.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1本68円】ぎゅっと濃い十六茶（630ml）24本セットが1638円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。飲料やアパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、アサヒ飲料のブレンド茶『ぎゅっと濃い十六茶（630ml）』24本セットを [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/23/2793826/",
-      "pubDate": "Sun, 23 Aug 2026 01:35:51 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_0613.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1588,19 +1601,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6749-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】はせがわクリニック跡に「まいばすけっと墨田向島3丁目店」が8月21日OPEN！",
-      "description": "東京スカイツリーの真下、曳舟川通り。閉院した「はせがわクリニック」の跡地にまいばすけっとがOPENします。 2026年8月21日（金）OPEN。現在、オープニングスタッフを募集中です。 徒歩3，4分のところには「まいばす [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/08/15/mybasket-muko3/",
-      "pubDate": "Fri, 14 Aug 2026 23:01:40 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6681-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-24T22:31:29.774162",
+  "updatedAt": "2026-08-24T23:26:18.622524",
   "sites": [
     {
       "id": "hachima",
