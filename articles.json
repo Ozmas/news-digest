@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】『牧場物語』最新作＆『ルーンファクトリー6』最新映像が公開！！ルンファクはついにマルチプレイ対応か！？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560689.html",
+      "pubDate": "2026-08-24T22:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ffe6dabe.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "小学生「九九覚えるくらいなら足し算をその回数だけやればよくね？はい論破ｗ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457505.html",
+      "pubDate": "2026-08-24T22:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/0/30fdedd1.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -119,6 +145,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/9/89b1d5f0.jpg"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "婚約したりくりゅうペア、YouTubeでの姿に「恋人感醸し出してる」「りくちゃんのこと全部覚えてるりゅうくん」と大反響",
+      "description": "ミラノ・コルティナ冬季オリンピックの「フィギュアスケート・ペア」で金メダルを獲得した“りくりゅう”こと三浦璃来さんと木原龍一さんが、YouTubeチャンネルを更新。「50の質問」に答える動画を公開し、「恋人感醸し出してる」などと反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yukiadachi/miurariku-kihararyuichikonyaku2shot0823",
+      "pubDate": "Mon, 24 Aug 2026 07:16:04 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/07/subbuzz/LD39X53PO.jpg?crop=3543:2362;652,215&resize=1250:830"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -156,6 +195,32 @@
       "link": "https://brutus.jp/post-518248/",
       "pubDate": "Mon, 24 Aug 2026 11:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "山﨑賢人、『キングダム』撮影中の寝姿に反響「すごい体勢で寝ている」「どうして…」「この体勢で休憩できるんですか！？」",
+      "description": "俳優の山﨑賢人さんのマネージャーが運用する公式アカウントが8月23日にInstagramを更新。山﨑さんが主演する映画『キングダム 魂の決戦』撮影中の、休憩の様子を公開しました。愛馬の上で目を閉じる山﨑さんの姿に注目が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/yamazaki-kento-kingdom-neteru",
+      "pubDate": "Mon, 24 Aug 2026 06:46:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/01/subbuzz/IonPKeyZx.jpg?crop=3627:2418;860,105&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "高橋文哉「大好きな先輩」北村匠海との2ショット公開→「久しぶりに見た」「雰囲気似てますよね」と反響",
+      "description": "俳優の高橋文哉さんが8月24日にInstagramを更新。歌手で俳優の北村匠海さんとの2ショットを披露し、「けんちゃんたかしコンビ久しぶりに見た」「似てますよね」と反響を集めています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tomokaunno/takahashidior0824",
+      "pubDate": "Mon, 24 Aug 2026 06:31:01 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/08/subbuzz/Uqvq26Z1X.jpg?crop=2696:1797;485,354&resize=1250:830"
     },
     {
       "siteId": "jin",
@@ -260,6 +325,19 @@
       "link": "http://blog.esuteru.com/archives/10560615.html",
       "pubDate": "2026-08-24T18:00:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d0358f0.png"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「混ぜるだけ！」工藤静香のキャベツ消費レシピに「いくらでも食べられそう」「マネしてみます」絶賛の声",
+      "description": "歌手の工藤静香さんが8月21日にInstagramを更新。手料理のレシピを公開し、ファンからは「いくらでも食べられそう」「マネしてみます」などの反響が寄せられました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yuisasaki/kudoshizuka0824",
+      "pubDate": "Mon, 24 Aug 2026 04:46:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/06/subbuzz/ckEp8ll8U.jpg?crop=1817:1211;0,229&resize=1250:830"
     },
     {
       "siteId": "hachima",
@@ -548,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/a/0a0e051d-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "外国人観光客のレンタカー事故が現在急増中！ 左側通行が原因か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560557.html",
-      "pubDate": "2026-08-24T12:40:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c24a9c86-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -793,19 +858,6 @@
       "link": "https://rocketnews24.com/2026/08/24/2792447/",
       "pubDate": "Mon, 24 Aug 2026 00:00:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_8306.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "4歳息子を映画につれてってみる！→しかし、上映中に泣き出してしまう→理由を聞いたら、まさかの・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457465.html",
-      "pubDate": "2026-08-24T09:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/b/6b4f373b.jpg"
     },
     {
       "siteId": "sumida",
@@ -1243,19 +1295,6 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「ん？」古川雄大の涼み方にツッコミ相次ぐ「顔より大きくない？」「業務用…」「初めて見ました」",
-      "description": "俳優の古川雄大さんが8月20日にInstagramを更新。ドラマ撮影中に涼む姿を披露しました。木曜ドラマ『親愛なる夫へ～完璧な妻の嘘～』（読売テレビ・日本テレビ系）で田中麗奈さんとともにW主演を務める古川さん。意外な涼み方に反響が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/furukawa-yuta-suzumi-kata",
-      "pubDate": "Sat, 22 Aug 2026 06:31:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/21/05/subbuzz/ko0iNoQm2.jpg?crop=1887:1258;0,206&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "「シッポブンブンボーダーコリー」手作りの犬型ロボットを見たワンコの反応に「ドン引きして逃げたwwww」「本家を追い出す威圧ぶり」と大反響",
       "description": "自身がモデルのロボットを見たワンコの動画がXに投稿され、「最後ドン引きして逃げたwwww」「本家を追い出す威圧ぶり」と11万件を超える「いいね」が集まっています。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/saorihakamada/shippobunbun0814",
@@ -1289,19 +1328,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "【虎に翼】伊藤沙莉、法服姿の新ビジュアル解禁に反響「寅ちゃんおかえり」「凛としてカッコいい」",
-      "description": "2027年に映画公開が発表されているNHK連続テレビ小説『虎に翼』の劇場版公式アカウントが8月21日にXを更新。新ビジュアルを公開し、「寅ちゃんおかえり」「凛としてカッコいい」と反響が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/tomokaunno/toratubamovie0821",
-      "pubDate": "Fri, 21 Aug 2026 18:31:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/21/01/subbuzz/MixR_6fEy.jpg?crop=2487:1658;0,59&resize=1250:830"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1313,19 +1339,6 @@
       "link": "https://casabrutus.com/categories/art/489657",
       "pubDate": "Fri, 21 Aug 2026 22:00:37 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "『Tシャツが乾くまで』嫁姑トラブルで樹生が“ガツン”と一言「うちの母親、義姉にちょっと嫌味なこと…」妹が見た兄の姿とは？",
-      "description": "ドラマ『Tシャツが乾くまで』（TBS系）公式アカウントがInstagramを更新。サイドストーリーから、園田樹生について妹・実樹が語る場面を切り抜いた動画を公開しました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yukiadachi/tkawa-nakajimaayumu0815",
-      "pubDate": "Fri, 21 Aug 2026 06:31:01 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/21/05/subbuzz/zyPPuom4t.jpg?crop=1502:1001;477,242&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1417,19 +1430,6 @@
       "link": "https://casabrutus.com/categories/food/490106",
       "pubDate": "Thu, 20 Aug 2026 22:00:12 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「ビックリ」橋本環奈、“推し活”の様子を公開→「ガチ勢だね！」「ぬい活も...」「概念コーデ」ファン驚き",
-      "description": "俳優の橋本環奈さんが8月18日にXを更新。宝塚歌劇団星組トップスターで俳優の礼真琴さんが主演を務めるミュージカル『BOOP! The Musical ブープ！ザ ミュージカル』を鑑賞した際の写真を公開し、ファンからは「ガチ勢だね！」「ぬい活も...」などの反響が寄せられました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yuisasaki/hashimotokannna0820",
-      "pubDate": "Thu, 20 Aug 2026 07:16:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/20/06/subbuzz/Ol9KqkNgB.jpg?crop=3332:2221;0,331&resize=1250:830"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-24T13:00:02.448691",
+  "updatedAt": "2026-08-24T13:57:27.618256",
   "sites": [
     {
       "id": "hachima",
