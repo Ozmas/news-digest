@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【朗報】『ドラゴンボール』のテーマパーク、建設へｗｗｗｗｗｗｗ　ただし・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560845.html",
+      "pubDate": "2026-08-25T14:30:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/4100b339-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ハンバーガー屋で「ウチ、インバウンド料金で高いんですけど大丈夫ですか？」と聞かれる→ちょっと高いくらいだろと思ってメニューを確認し、絶望してしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457551.html",
+      "pubDate": "2026-08-25T14:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/e/fea5f46a.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -639,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/6/46396a23-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "パッケージがオ〇ホすぎるプラモデルｗｗｗｗ　しかも中身もドスケベじゃねえか！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560709.html",
-      "pubDate": "2026-08-25T05:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/7/47c6e9da.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52457508.html",
       "pubDate": "2026-08-24T23:00:08+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/7/87399804.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "小学生「九九覚えるくらいなら足し算をその回数だけやればよくね？はい論破ｗ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457505.html",
-      "pubDate": "2026-08-24T22:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/0/30fdedd1.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-25T05:06:55.758815",
+  "updatedAt": "2026-08-25T05:59:07.820607",
   "sites": [
     {
       "id": "hachima",
