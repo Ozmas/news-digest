@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "有識者「小泉農相時代の◯◯がコメ価格暴落の要因となりつつある」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457578.html",
+      "pubDate": "2026-08-26T06:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a953ded.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "どれがAIが作ったラーメン画像か分かる？ 本物ラーメン判定が話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560982.html",
+      "pubDate": "2026-08-26T06:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a470eb5d-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -312,19 +338,6 @@
       "link": "http://blog.esuteru.com/archives/10560984.html",
       "pubDate": "2026-08-25T22:30:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/30846f83.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "警視庁「助けて！人材不足で警察官の数が足りないの！！」通報への対応時間が延びるなどの影響が出始めている模様",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560981.html",
-      "pubDate": "2026-08-25T22:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/3/231f324b.jpg"
     },
     {
       "siteId": "jin",
@@ -715,19 +728,6 @@
       "link": "https://casabrutus.com/categories/fashion/490593",
       "pubDate": "Tue, 25 Aug 2026 02:25:10 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】ジョギング中の女性が「後ろに誰かいるよ！」と伝えられる→振り返るとそこには…いや怖すぎいいいい！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457547.html",
-      "pubDate": "2026-08-25T11:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/84ab73e7.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-25T20:34:33.866106",
+  "updatedAt": "2026-08-25T21:33:23.042424",
   "sites": [
     {
       "id": "hachima",
