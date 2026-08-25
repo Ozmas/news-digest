@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【実験】生成AIで『かごめかごめ』をロックアレンジ！ レイジ・スカパラ・ナインインチ風に挑んだら意外としっくり来た！",
+      "description": "子どもの頃に慣れ親しんだ曲を、AIを使ってロックにアレンジしたらどうなるか？　『どんぐりころころ』『こがね虫』に続いて、今回は『かごめかごめ』に挑戦。 前回のこがね虫は、メロディが堅実で安定しているうえに、謎めいた歌詞も [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/25/2794323/",
+      "pubDate": "Tue, 25 Aug 2026 08:00:45 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/かごめかごめ.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『地球防衛軍6.2 INVADERS FROM ANOTHER WORLD』発表！未知なる世界線・圧倒的物量の敵が襲いかかるぞおおおお！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457559.html",
+      "pubDate": "2026-08-25T17:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/5/e5eba10b.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】『ライザのアトリエ』AIチャットRPG、課金圧がエグすぎるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560865.html",
+      "pubDate": "2026-08-25T17:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9de17db.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "アルプス山脈を背負って。〈MONCLER〉 × 〈FRGMT〉のスカジャン：Brutus Best Bets",
+      "description": "アルプス山脈を背負って 藤原ヒロシのスタイルに欠かせないスカジャンが〈モンクレール〉流に。地図を刺繍したヴィンテージの“マップスカジャン”は日本とイタリアがモチーフ。通常なら富士山が鎮座する背面には、ブランドのルーツであ [&#8230;]",
+      "link": "https://brutus.jp/post-519082/",
+      "pubDate": "Tue, 25 Aug 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "医者「三次救急してるとベトナム人やインドネシア人がエグい労災で来る。日本語を話せないから安全管理とか絶対できてない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560856.html",
+      "pubDate": "2026-08-25T16:30:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/1/31989c02.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "スウェーデンの陶芸家・リサ・ラーソンの追悼展が〈松屋銀座〉で。日本初公開作品も！",
+      "description": "愛らしく、ユーモラスな動物たちや静謐な人物像など、数多くの温かな作品を生み出してきたスウェーデンの陶芸家、リサ・ラーソン。2024年3月、惜しまれつつこの世を去った彼女に、さまざまな視点から迫る『リサ・ラーソン 追悼展―アーティスト・デザイナー・インスピレーションの源』が、9月25日から松屋銀座で開催されます。",
+      "link": "https://casabrutus.com/categories/design/492368",
+      "pubDate": "Tue, 25 Aug 2026 07:25:08 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -574,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b05829f1.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】絵師「『ちいかわ』ナガノ先生、こんなシンプルな絵柄なのに◯◯◯◯が表現できてるの絵が上手すぎる！」　→　圧倒的共感が殺到！「ガチで鳥山明レベルの画力」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560773.html",
-      "pubDate": "2026-08-25T08:30:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/205fce60.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -624,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/08/25/2793647/",
       "pubDate": "Mon, 24 Aug 2026 23:00:49 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_7792.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【泣いた】兄が急死して両親が「兄のPCやハードディスクに残ってる画像を全て見たい」と言い出した　→　その時に弟が取った行動があまりに素敵すぎてネットが感動の嵐ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560765.html",
-      "pubDate": "2026-08-25T08:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/ed579275.jpg"
     },
     {
       "siteId": "brutus",
@@ -741,19 +793,6 @@
       "link": "https://jin115.com/archives/52457514.html",
       "pubDate": "2026-08-25T02:00:55+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/3/a3bffbd0-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気YouTuber「過去に7人が食べて亡くなったという猛毒植物食べてみます！」 →　結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457512.html",
-      "pubDate": "2026-08-25T01:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/384f7c97-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1081,19 +1120,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/niseko-21.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "離島なのに本島だと？ 香川県の塩飽（しわく）諸島にある『本島』という謎の島に行ってきた",
-      "description": "2年前、私（耕平）は香川県にある「牛島（うしじま）」という人口10人ほどの離島を取材した。当時からずっと気になっていたのが、さらに奥にある島の名前だ。その名も…… 『本島』 いや、離島なのに本島って……離島に渡る船に乗っ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/24/2792447/",
-      "pubDate": "Mon, 24 Aug 2026 00:00:36 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_8306.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1246,19 +1272,6 @@
       "title": "8月24日〜8月30日 山羊座の運勢【ブルータス週間占い】",
       "description": "山羊座の羅針盤 時間をかけて段取りを組む 自エリア（山羊座）に月がいるところから始まる1週間。楽しいことを進める力が強まっています。水星（コミュニケーション）が山羊座にとって将来を意味する部屋である乙女座に入り、太陽と並 [&#8230;]",
       "link": "https://brutus.jp/post-521443/",
-      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "8月24日〜8月30日 水瓶座の運勢【ブルータス週間占い】",
-      "description": "水瓶座の羅針盤 悩みは目上の人に相談する 週の前半は、自分を労わりながらゆっくり過ごしましょう。火星（意欲）が水瓶座から見て日々の業務の部屋、蟹座にいるため、何かと忙しくなりそうです。知らないうちに疲れがたまるかもしれま [&#8230;]",
-      "link": "https://brutus.jp/post-521445/",
       "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1497,19 +1510,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6831-1024x767.jpeg"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "盛岡で出会う、浅煎りコーヒーを日常にもたらすコーヒーカルチャーの発信基地。",
-      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
-      "link": "https://casabrutus.com/categories/food/490106",
-      "pubDate": "Thu, 20 Aug 2026 22:00:12 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-25T07:02:25.567994",
+  "updatedAt": "2026-08-25T08:08:53.416715",
   "sites": [
     {
       "id": "hachima",
