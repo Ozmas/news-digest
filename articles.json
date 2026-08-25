@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】日本一のグルメバーガー「BRISK STAND」が「東京ミズマチ」に8月29日にグランドオープン！",
+      "description": "先日お伝えしました東京ミズマチ「shake tree Diner」跡地にOPENする「BRISK STAND」のOPENが2026年8月29日に決定しました！ 【墨田区】ミズマチの「Shake Tree Diner」が7 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/08/26/briskstand-open/",
+      "pubDate": "Tue, 25 Aug 2026 23:01:00 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/sub2-1024x738.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】一吹きで竹林も庭も一瞬で全滅してしまうヤバすぎる除草剤、現る！！　「これもう大量殺戮兵器だろ」ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561054.html",
+      "pubDate": "2026-08-26T08:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/50eb1bd4.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "母の終活をきっかけに、自分の身の回りも整理してみた / 黒歴史は捨てられたが、プリ帳は捨てられなかった",
+      "description": "70歳の母が、数年前から少しずつ終活を始めている。 母は元気なのだが、「元気なうちに」と家の中のものを整理しているらしく、実家に置きっぱなしだった私のゲームボーイなども、気づけば姿を消していた。 え、捨てちゃったの……。 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/26/2791240/",
+      "pubDate": "Tue, 25 Aug 2026 23:00:57 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/shu-katu_21c8a0.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国の白菜出荷業者「この液体に浸けると鮮度を保てるぞ！」→ガチでヤバい物質だったことが判明し大騒ぎに",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457582.html",
+      "pubDate": "2026-08-26T08:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/cae9f9cf.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -340,19 +392,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f87d8b79.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ゆで太郎社長「外国人労働者は納税者で日本国のメンバー。日本人だけじゃ社会が持たない」⇒ 炎上",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560940.html",
-      "pubDate": "2026-08-26T00:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58a6f087-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +728,6 @@
       "link": "https://rocketnews24.com/2026/08/25/2794538/",
       "pubDate": "Tue, 25 Aug 2026 03:32:16 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_5952_b6da97_c482d0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "関西人は4280円を標準語で言えない→逆に”関西人にしか言えない早口言葉”がこれなんだけど言える？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457549.html",
-      "pubDate": "2026-08-25T12:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d6afcee7.jpg"
     },
     {
       "siteId": "brutus",
@@ -1105,19 +1131,6 @@
       "link": "https://brutus.jp/post-520646/",
       "pubDate": "Mon, 24 Aug 2026 03:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「1100円焼肉食べ放題」コスパ良さげな看板の店に入ったら → 焼肉食べ放題どころの騒ぎじゃなくて大阪を感じた",
-      "description": "食い倒れの聖地と呼ばれる難波。大阪が「食い倒れの街」と呼ばれる由来は、食べ物にお金を使いすぎて財産を失ってしまうほど美味しいものがあるという意味らしいけど、大阪出身の私（中澤）としてはウマさよりも安さというイメージだ。大 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/24/2793204/",
-      "pubDate": "Mon, 24 Aug 2026 02:55:44 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/yakiniku2.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1601,19 +1614,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6889-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】8月29日 喫茶キシノ（ノウドひきふね）で「浄瑠璃ってなぁに？」が開催されます。",
-      "description": "2026年8月29日（土）、喫茶キシノ（ノウドひきふね）で「浄瑠璃ってなぁに？」が開催されます。 「浄瑠璃」と聞くと、なんだか難しそう、敷居が高そうと思う方も多いのではないでしょうか。でも、今回のイベントはそんな方にこそ [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/08/16/noudo202608/",
-      "pubDate": "Sat, 15 Aug 2026 23:01:55 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6749-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-25T22:32:36.750028",
+  "updatedAt": "2026-08-25T23:29:08.261472",
   "sites": [
     {
       "id": "hachima",
