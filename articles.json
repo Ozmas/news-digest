@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "高市首相、ICC赤根所長らへの制裁対応が弱腰と言われて否定！　「日本は法の支配を一貫して支持している。制裁は日本の立場と相いれるものではない」　※なお",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561051.html",
+      "pubDate": "2026-08-26T07:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/62579d60.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "福島・喜多方で深煎りコーヒーを。手回し焙煎が生むスモーキーな余韻を堪能する。",
+      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
+      "link": "https://casabrutus.com/categories/food/490122",
+      "pubDate": "Tue, 25 Aug 2026 22:00:59 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "歯医者予約したら40分も待たされた　→　お詫びとして女医からスケベな◯◯◯サービスが始まってしまい男性客大満足ｗｗｗｗｗ　これはｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561050.html",
+      "pubDate": "2026-08-26T07:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/372e58dd.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "やっちまった！ つい、お決まりの流れで晒した強盗！　四コマサボタージュFB第73回「確認」",
+      "description": "どうやら紙巻タバコを吸うのはおっちゃんくさいらしいね。そんな認識を持たれるレベルで電子タバコが普及してるなんて知らなかった……。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/08/26/2790982/",
+      "pubDate": "Tue, 25 Aug 2026 22:00:27 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-73.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ハライチ岩井さん、番組生放送を急遽欠席→笑えない真相が明らかになる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457580.html",
+      "pubDate": "2026-08-26T07:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/5/e5a24915.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -301,19 +366,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89cca47c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "期待の新作『ウィッチャー4』はgamescomでお披露目なし！発売時期は2028年に「スタジオ史上最も巨大で大胆で野心的な作品に」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560989.html",
-      "pubDate": "2026-08-25T23:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f867614a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -325,19 +377,6 @@
       "link": "https://jin115.com/archives/52457565.html",
       "pubDate": "2026-08-25T23:00:21+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/f/bfdc6f7c.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "厚労省「中国産ホルムアルデヒド白菜、普通では考えられないので検査はやっていない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560984.html",
-      "pubDate": "2026-08-25T22:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/30846f83.jpg"
     },
     {
       "siteId": "jin",
@@ -702,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/08/25/2791401/",
       "pubDate": "Tue, 25 Aug 2026 02:30:54 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/40544_0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「近所のスーパーで黄色いアクエリアス売ってた！（写真ﾊﾟｼｬ」→マジでどうなってるのかよく分からない写真が爆誕！手が…うわあああ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457548.html",
-      "pubDate": "2026-08-25T11:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/2/b21d5401.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1094,19 +1120,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/yakiniku2.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "アパホテルで人生初の「ビジホ飲み」をしたら自宅より圧倒的に快適だった",
-      "description": "先日、生まれて初めてアパホテルに泊まった。大浴場で汗を流したら、翌朝の仕事に備えて早めに就寝。それがビジネスホテルでの一般的な過ごし方だろう。 しかしだ。せっかく一人でビジホに泊まっているのだから、寝るだけではもったいな [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/24/2790587/",
-      "pubDate": "Mon, 24 Aug 2026 02:30:52 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_6265.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1471,19 +1484,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/19/14/subbuzz/dk7HchzuX.jpg?crop=779:519;178,926&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "インテリアスタイリストのコリン・キングが手がけた、空間を緩やかに仕切るシェルフ。",
-      "description": "インテリアスタイリストのコリン・キングが手がけた《Crescent Shelving》。",
-      "link": "https://casabrutus.com/categories/design/491886",
-      "pubDate": "Fri, 21 Aug 2026 02:25:35 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-25T21:33:23.042424",
+  "updatedAt": "2026-08-25T22:32:36.750028",
   "sites": [
     {
       "id": "hachima",
