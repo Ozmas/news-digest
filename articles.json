@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本、『本当の意味』で中国に追い抜かれる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457583.html",
+      "pubDate": "2026-08-26T08:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/2/e2ce647a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【怖すぎ】イオンモールで噛んだ後のガムを知らない大人に投げつけたクソガキ現る　→　ガチギレした被害者がした「クソガキへの報復」があまりに恐ろしいと騒然…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561059.html",
+      "pubDate": "2026-08-26T08:30:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/8/28d4464f.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -52,6 +78,19 @@
       "link": "https://jin115.com/archives/52457582.html",
       "pubDate": "2026-08-26T08:00:08+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/cae9f9cf.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "みやげもんコレクション：石人形（山口県／岩国市）",
+      "description": "昆虫が川底で作る、七福神の形 山口県・岩国の名勝、錦帯橋（きんたいきょう）のたもとで採れる「石人形」は、一見すると人の形をした小さな石の塊です。しかし、その正体はなんと昆虫の巣。ニンギョウトビケラという水生昆虫の幼虫が、 [&#8230;]",
+      "link": "https://brutus.jp/post-518073/",
+      "pubDate": "Tue, 25 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -379,19 +418,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0e67cda-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "社長「バイトが始業時間1分前に来て制服に着替える。叱るのは今の時代ダメかな？」⇒ ツッコミの嵐に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560948.html",
-      "pubDate": "2026-08-26T00:30:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f87d8b79.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +728,6 @@
       "link": "https://rocketnews24.com/2026/08/25/2794523/",
       "pubDate": "Tue, 25 Aug 2026 05:00:08 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2695-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "夢遊病のVtuberさん、寝ている間に恐ろしい行動をしていたことが発覚・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457550.html",
-      "pubDate": "2026-08-25T13:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/1/71a1b9c8.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1302,19 +1315,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "8月24日〜8月30日 天秤座の運勢【ブルータス週間占い】",
-      "description": "天秤座の羅針盤 行動から気持ちを変える 今週は、過去を振り返る時間が増えそうです。これは、水星（思考）が天秤座にとって内省の部屋である乙女座に移る影響。思い出したくなかったトラウマや後悔が浮かんでくるかもしれません。 け [&#8230;]",
-      "link": "https://brutus.jp/post-521430/",
-      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-25T23:29:08.261472",
+  "updatedAt": "2026-08-25T23:53:25.762611",
   "sites": [
     {
       "id": "hachima",
