@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2695回「プラ②」",
+      "description": "参考リンク：福岡工業大学 漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/08/25/2794523/",
+      "pubDate": "Tue, 25 Aug 2026 05:00:08 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2695-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「休むために嘘つくのめんどいから職場にアイドルオタクをカミングアウト！仕事溜まってるけど解散ライブ行きたいから休ませて！」　→　オタクがド直球で上司に頼んだ結果ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560812.html",
+      "pubDate": "2026-08-25T14:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/3/f3428c14.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「銀行のATMでお金おろしたら『当たり』が出た」パシャッ　→　マジで窓口まで持っていくと◯◯◯がもらえる模様ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560807.html",
+      "pubDate": "2026-08-25T13:40:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d992c0cc.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジでこれ】「ゲームの鬱イベント、終わった後に◯◯◯◯させられる展開すごく好き」　→　ゲーマーから圧倒的共感が殺到ｗｗｗｗｗ　ゲームの具体例集まる",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560810.html",
+      "pubDate": "2026-08-25T13:20:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/4/34b8d479.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -613,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/70a6bd86.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "消費者庁が「ダークパターン」規制へ！ で、ダークパターンって何？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560706.html",
-      "pubDate": "2026-08-25T04:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/24867fe5.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -639,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca6fd21a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "映画『THE FIRST SLAM DUNK』の野外上映が決定！ しかも参加費無料",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560704.html",
-      "pubDate": "2026-08-25T03:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/252f6ef1.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +689,6 @@
       "link": "https://jin115.com/archives/52457514.html",
       "pubDate": "2026-08-25T02:00:55+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/3/a3bffbd0-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ながら運転や居眠り運転を検知するドライバー監視システムの車への搭載義務化へ！2031年から新型車に適用",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560715.html",
-      "pubDate": "2026-08-25T02:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/7/b7490f4a.jpg"
     },
     {
       "siteId": "jin",
@@ -1250,19 +1263,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "もっとソレっぽい形になれ！ いまいち納得できない命の授業！　四コマサボタージュFB第71回「いただきます…」",
-      "description": "私の学生時代には食育というか命の授業なんてものはなかったのだけど、いつから始めたものなんだろうね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/08/24/2790980/",
-      "pubDate": "Sun, 23 Aug 2026 22:00:36 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-71.png"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-25T04:10:00.685213",
+  "updatedAt": "2026-08-25T05:06:55.758815",
   "sites": [
     {
       "id": "hachima",
