@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【放送事故】飲食店で配信していたニコ生主さん、とんでもないことが起こってしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457555.html",
+      "pubDate": "2026-08-25T20:40:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26cbe9c5.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】日本人さん、韓国の海水浴場で風景を撮るフリをしながら水着女性を撮っていたのがバレて逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560961.html",
+      "pubDate": "2026-08-25T20:30:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9fa1e27b.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "セブンさん、一日の塩分摂取量を凌駕するラーメンを発売ｗｗｗｗ「殺人的しょっぱさ」「熱中症気味の中食べたらちょうど良い」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457571.html",
+      "pubDate": "2026-08-25T20:20:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/010fb55c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "スプラトゥーンの一番くじが炎上　エグい内容がこちら・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457570.html",
+      "pubDate": "2026-08-25T20:01:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/e/1e1e3dbf-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ファルコム近藤社長「『軌跡』シリーズのリメイクを続けていきたい」 → ファンブチギレ「界の続きはいつになるのか」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10560955.html",
+      "pubDate": "2026-08-25T20:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/ac5da940.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -13,6 +78,19 @@
       "link": "https://brutus.jp/post-492697/",
       "pubDate": "Tue, 25 Aug 2026 11:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「驚異的な反射神経」白煙を上げてスピンする車を間一髪で回避！ F1ドライバーの神業に称賛の声",
+      "description": "アウディ・レボリュートF1チームのガブリエル・ボルトレート選手が突然バランスを崩し、白煙を上げながらスピン。背後からはチームメイトのニコ・ヒュルケンベルグ選手が猛スピードで迫っていました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/kenjiando/hulkenberg",
+      "pubDate": "Tue, 25 Aug 2026 06:46:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/25/07/subbuzz/_EgpV0ifO.jpg?crop=3727:2485;280,0&resize=1250:830"
     },
     {
       "siteId": "hachima",
@@ -483,19 +561,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/焼鳥大サムネ.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】『ぽたぽた焼き』のおばあちゃんが教える英語のaとthaの冠詞の使い分けかた、あまりにハイレベルすぎてネットがざわつく！これはｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560816.html",
-      "pubDate": "2026-08-25T11:40:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/4/3452c84e.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -533,19 +598,6 @@
       "link": "https://casabrutus.com/categories/fashion/490593",
       "pubDate": "Tue, 25 Aug 2026 02:25:10 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "第2回『ONE PIECE』キャラクター世界人気投票、結果発表！　麦わら海賊団で一番の不人気仲間はもちろん◯◯◯◯に決定ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560806.html",
-      "pubDate": "2026-08-25T11:20:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/4/c42cb0d1.jpg"
     },
     {
       "siteId": "jin",
@@ -793,45 +845,6 @@
       "link": "https://casabrutus.com/categories/food/490117",
       "pubDate": "Mon, 24 Aug 2026 22:00:42 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "経産省、日本発アニメ、マンガ、ゲームの海外売上拡大を目指す「ものがたり大国5か年計画」を発表へ！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457527.html",
-      "pubDate": "2026-08-25T07:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/6/f6a2f710.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国「日本は中国人観光客なしでは持ちこたえられない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457519.html",
-      "pubDate": "2026-08-25T06:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/133e3e68.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "85歳夫婦、大阪市に突然4億円を寄付→その理由が、まさかの・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457518.html",
-      "pubDate": "2026-08-25T05:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/70a6bd86.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1179,7 +1192,7 @@
       "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
       "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
       "title": "8月24日〜8月30日 牡羊座の運勢【ブルータス週間占い】",
-      "description": "牡羊座の羅針盤 過去を手放す 水星（思考）が、牡羊座にとって日々の仕事の部屋である乙女座に入ります。目の前のことを一つずつ丁寧に片づける力が高まる週。25日以降は、課題がクリアになりそうです。日々のタスクに責任を持ちなが [&#8230;]",
+      "description": "牡羊座の羅針盤 過去を手放す 水星（思考）が、牡羊座にとって日々の仕事の部屋である乙女座に入ります。目の前のことをひとつずつ丁寧に片付ける力が高まる週。25日以降は、課題がクリアになりそうです。日々のタスクに責任を持ちな [&#8230;]",
       "link": "https://brutus.jp/post-521397/",
       "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
       "thumbnail": ""
@@ -1677,22 +1690,9 @@
       "link": "https://www.buzzfeed.com/jp/nanamioyamada/coolbit-202607",
       "pubDate": "Wed, 15 Jul 2026 18:01:04 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "天然木のスマートホームコントローラー「muiボード」で注目。mui Labが「情報技術と人の暮らしの融合」を目指す理由とは？",
-      "description": "天然木を使ったスマートホームコントローラー「muiボード」の製造・販売などスマートホーム関連事業を手がけるmui Lab（ムイラボ）株式会社。起業した経緯や、事業のベースとなった「カームテクノロジー」という思想について伺いました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/munenoriumeki/mui-lab-interview",
-      "pubDate": "Thu, 11 Jun 2026 23:01:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/03/07/subbuzz/4txYsa_zD.png?crop=2346:1564;1101,910&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-25T11:00:49.743624",
+  "updatedAt": "2026-08-25T11:55:53.756578",
   "sites": [
     {
       "id": "hachima",
