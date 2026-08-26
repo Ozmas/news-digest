@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "平将門の「将門塚」でイタズラした迷惑配信者、恐ろしい罰が下る",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457635.html",
+      "pubDate": "2026-08-27T01:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa87f3d1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメアイコン中国人「中国の学校は刑務所。本当に日本の学生として一度生きてみたい」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561223.html",
+      "pubDate": "2026-08-27T00:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca73f6fa.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高校生「文化祭の準備でクラスLINE入ってって言われて入れて貰ったらこれ」ﾊﾟｼｬｯ → 投稿された画像に全ネット民が泣く・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457630.html",
+      "pubDate": "2026-08-27T00:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89c7cc33-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ファミマ「多様性の時代なんで髪型・髪色を自由にします」⇒ しれっとヒジャブも許可され炎上",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561217.html",
+      "pubDate": "2026-08-27T00:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dc108e91.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "参政党・神谷氏「今まで以上に配信してるのに全然再生されない。確実に何か\"見えない力\"が働いてる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561287.html",
+      "pubDate": "2026-08-26T23:45:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/624b2d75.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +561,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2925.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "陸上部顧問「弁当を受け取っていたら、エントリー用紙の提出遅れちゃった（ﾃﾍﾍﾟﾛ」 → 生徒4人が出場できず",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561154.html",
-      "pubDate": "2026-08-26T14:30:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/4/1417a361-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -522,19 +574,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2696-2.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大人向けの塊魂っぽいゲーム『ROLLA』が10月1日に発売！ 人を捕食し、巨大化していくゲー",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561143.html",
-      "pubDate": "2026-08-26T14:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/751ba963-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +585,6 @@
       "link": "https://jin115.com/archives/52457605.html",
       "pubDate": "2026-08-26T14:00:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/8/b8e8797c.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "職質されたX民、警察官に車のドアハイザーを壊された上、対応にブチギレ 「本人は認め、賠償すると言われたけど…」→ ネットからツッコミ殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561137.html",
-      "pubDate": "2026-08-26T13:40:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/2/52363ed1.png"
     },
     {
       "siteId": "jin",
@@ -741,32 +767,6 @@
       "link": "https://jin115.com/archives/52457589.html",
       "pubDate": "2026-08-26T10:00:00+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b05e970.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "株主優待だけで生活する桐谷さん、「優待やめて好きなもの食べたほうが良いのでは？」という質問にガチ回答",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457588.html",
-      "pubDate": "2026-08-26T09:30:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9bc6c96d.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「コーカサス・マフィア」のボスが白昼堂々、監視カメラの前で撃たれて死亡→暗殺者の正体は不明、マジのプロか",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457585.html",
-      "pubDate": "2026-08-26T09:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/64cfd6d8.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-26T14:13:12.913057",
+  "updatedAt": "2026-08-26T16:01:08.206500",
   "sites": [
     {
       "id": "hachima",
