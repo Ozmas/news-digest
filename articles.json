@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「クールジャパン失敗おじさん」こと中村伊知哉さん、今度はコミケ運営にも目をつける　→　オタクの敵認定されて大炎上ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561095.html",
+      "pubDate": "2026-08-26T10:30:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/1/71530977.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【深刻】警視庁、ちょっと笑えない状況になっていた　都民には公開されない裏ですでに治安に影響が出始める",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457592.html",
+      "pubDate": "2026-08-26T10:30:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/172e0c41.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】現在の落語界、未だに女性落語家は着替えスペースを用意されず高座裏でコソコソ着替えてる模様…　女性真打がせめてカーテンをと頼んでも上の男達は無視",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561089.html",
+      "pubDate": "2026-08-26T10:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/05d1fcb5.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【検証】イマーシブ・フォート閉館から半年、お台場・青海エリアは本当に「オワコン」なのか？ 現地をぐるっと歩いてたしかめた",
+      "description": "最近、東京・お台場が「オワコン」とか「廃墟」とか言われている。たしかに近頃あまり話題を聞くことがなくなった。2021年末から2022年にかけてヴィーナスフォート・パレットタウンなどが営業を終え、大観覧車も解体され、後にイ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/26/2794634/",
+      "pubDate": "Wed, 26 Aug 2026 01:00:25 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/aomikaiwai.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "信号無視で日本人を轢いたクルド人「日本人に差別されたことを思い出して信号を見逃した」→検察と被害者家族、大激怒",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457589.html",
+      "pubDate": "2026-08-26T10:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b05e970.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】海外の人と仕事をして「See you next Tuesday!」と笑顔で言ったら「それ英語圏では絶対言っちゃアカンやつ」と警告された　→　その理由があまりにまさか過ぎたｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561081.html",
+      "pubDate": "2026-08-26T09:30:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/99143408.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "株主優待だけで生活する桐谷さん、「優待やめて好きなもの食べたほうが良いのでは？」という質問にガチ回答",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457588.html",
+      "pubDate": "2026-08-26T09:30:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9bc6c96d.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】ある女性ユーチューバー、「ヘソが怖すぎる」と批判噴出して炎上　→　原因となったヘソがこちらｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561074.html",
+      "pubDate": "2026-08-26T09:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ffbe3fec.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「コーカサス・マフィア」のボスが白昼堂々、監視カメラの前で撃たれて死亡→暗殺者の正体は不明、マジのプロか",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457585.html",
+      "pubDate": "2026-08-26T09:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/64cfd6d8.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "25年物の「PORTERのウエストポーチ」をオキシ漬けした結果… 浸した瞬間に “秒で” ドブ水になって戦慄した",
+      "description": "つい先日、私（サンジュン）は5年間洗っていないリュックをオキシ漬けした。黒いリュックなので目に見えた汚れは少なかったが、結果的にオキシ液はドブ水のような色合いに変わり果ててしまった。 ドブ水にショックを受けた私は、次なる [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/26/2792998/",
+      "pubDate": "Wed, 26 Aug 2026 00:00:27 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_3644.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -340,19 +470,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74942a98.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "金持ち風アカウントさん「親のクレカ持たされてた」発言に総ツッコミされてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560978.html",
-      "pubDate": "2026-08-26T03:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/1/71e15def-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -364,45 +481,6 @@
       "link": "https://jin115.com/archives/52457575.html",
       "pubDate": "2026-08-26T03:00:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/b/8bc87804.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバすぎ】韓国の済州島、エグいレベルで行方不明事件が相次いでいた…担当警官が虚偽の報告書を作り放置 → 遺体が大量に見つかりはじめる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561007.html",
-      "pubDate": "2026-08-26T02:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/0/a047282a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "トクリュウトップの暴力団幹部とセクシー女優さん、コカイン所持で逮捕！ホテルのベッドの上でイチャイチャしていたところを警察が突入",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561003.html",
-      "pubDate": "2026-08-26T01:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b07a4319.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "高市総理、ガソリン補助金継続を表明「命と暮らしを守り、経済活動に支障を生じさせない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560997.html",
-      "pubDate": "2026-08-26T01:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f818d208.jpg"
     },
     {
       "siteId": "jin",
@@ -626,19 +704,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/かごめかごめ.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『地球防衛軍6.2 INVADERS FROM ANOTHER WORLD』発表！未知なる世界線・圧倒的物量の敵が襲いかかるぞおおおお！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457559.html",
-      "pubDate": "2026-08-25T17:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/5/e5eba10b.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -665,32 +730,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "学歴詐称疑惑の田久保前市長、PCからヤバいデータが出てくるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457556.html",
-      "pubDate": "2026-08-25T16:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/3/d37ef2a4.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国人が作った日本を揶揄する動画、天才だと話題になってしまう・・・「高市支持者にだけ見えてる虚構の世界と日本の現実のギャップを見事に解説してる」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457553.html",
-      "pubDate": "2026-08-25T15:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7aa96c5e.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -702,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/08/25/2794517/",
       "pubDate": "Tue, 25 Aug 2026 06:00:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_3903.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ハンバーガー屋で「ウチ、インバウンド料金で高いんですけど大丈夫ですか？」と聞かれる→ちょっと高いくらいだろと思ってメニューを確認し、絶望してしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457551.html",
-      "pubDate": "2026-08-25T14:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/e/fea5f46a.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1105,32 +1131,6 @@
       "link": "https://casabrutus.com/categories/art/492325",
       "pubDate": "Mon, 24 Aug 2026 07:25:14 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1足179円】アディダスの定番靴下3足セットが1430円 → 536円（63％オフ）！Amazonタイムセールで見つけたイチオシ商品26選",
-      "description": "毎日お得なタイムセールを開催しているAmazon。家電・食品・ファッションなど、さまざまなカテゴリーのアイテムを特別価格でゲットできるチャンス。 本日は『アディダス』の定番靴下3足セットが1430円 → 536円（63％ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/24/2794166/",
-      "pubDate": "Mon, 24 Aug 2026 05:42:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_703511.jpg.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2694回「プラ①」",
-      "description": "参考リンク：国立環境研究所「マイクロプラスチック、ナノプラスチックとは？」、「ほんの“1g”から数百万個のナノプラスチックに？」 漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/24/2794143/",
-      "pubDate": "Mon, 24 Aug 2026 05:00:16 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2694-2.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-25T23:53:25.762611",
+  "updatedAt": "2026-08-26T01:41:22.313731",
   "sites": [
     {
       "id": "hachima",
