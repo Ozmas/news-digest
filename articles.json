@@ -2,6 +2,188 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "セクシー女優とトクリュウのトップで暴力団幹部の男がまとめて逮捕される！ホテルでコカインを使用した疑い",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457608.html",
+      "pubDate": "2026-08-26T12:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/c/cc160524.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】大物歌手アグネス・チャンさん、71歳になった現在とんでもない姿で発見される！　「ミニスカが似合いすぎ」「奇跡の美脚」ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561124.html",
+      "pubDate": "2026-08-26T12:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/8/08279350.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】紙製のモダンなプロダクト。〈Yuki MIKAMI〉の掛け時計",
+      "description": "いつも時間に追われるあの人へ手描きの掛け時計 〈Yuki MIKAMI〉の掛け時計 昭和35年創業の老舗パッケージメーカー〈岩㟢紙器〉が打ち出す、オリジナルブランド「AKERU PROJECT」は、紙製のモダンなプロダク [&#8230;]",
+      "link": "https://brutus.jp/post-520677/",
+      "pubDate": "Wed, 26 Aug 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【検証】香川で『温玉ぶっかけうどん風ソフトクリーム』という謎のデザートがあったので本物の「温玉ぶっかけうどん」と食べ比べてみた",
+      "description": "香川といえば、言うまでもなくうどんである。先日、金比羅山を訪れた際のこと。参道の入り口付近にあった店のメニュー看板に、私（耕平）の目は完全に釘付けになった。その名も…… 『温玉ぶっかけうどん風ソフトクリーム』 うどん風の [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/26/2793823/",
+      "pubDate": "Wed, 26 Aug 2026 02:55:21 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_8579-2.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【日本終了】スマホ依存の未成年「ドパガキ」、学力が致命的に低下　→　難しい入試を突破したはずの大学生でさえ◯◯◯◯で完全に終わる…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561113.html",
+      "pubDate": "2026-08-26T11:40:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d8a2a68-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【さす東】「どう考えても九州より東京の方が不健全だし日本衰退の要因が詰まってる」→容赦ないド正論が話題に「これ見てイラっとした関東民は二度と“さす九”とか言うな」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457596.html",
+      "pubDate": "2026-08-26T11:30:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/c/7cfdb2a2.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "690円で本場の味！ 御徒町「エウサ ハラールマート」のチキンビリヤニをテイクアウトしてみた",
+      "description": "先日、セブンイレブンの「CAFE BOX 骨付きチキンビリヤニ」を紹介したばかりだが、私にはもうひとつ気になっているビリヤニがあった。 それが東京・御徒町にある「Eusa Halal Mart（エウサ ハラールマート）」 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/26/2793420/",
+      "pubDate": "Wed, 26 Aug 2026 02:30:03 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/e4.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "〈LE LABO〉が京都の工房から受け継ぐ、聞香の時間。",
+      "description": "〈LE LABO〉が日本の香道から着想した初のインセンスコレクションを発表。",
+      "link": "https://casabrutus.com/categories/design/490620",
+      "pubDate": "Wed, 26 Aug 2026 02:25:35 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "スープカレー屋「チキンカリー辛さ1.5倍を食い逃げした君！晒すわ！代金を支払いに来なければ、警察に被害届出すわ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561114.html",
+      "pubDate": "2026-08-26T11:20:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/b/7b00fc83.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "作家・乙一氏が制作したローグライクのフリーゲーム『Minimal Rogue』が無料公開中！　Claude Codeを使用し制作",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561101.html",
+      "pubDate": "2026-08-26T11:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bdee7047.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "宮井和美｜さっぽろ天神山アートスタジオ──13年の軌跡から考える、アーティスト・イン・レジデンスのこれまでとこれから",
+      "description": "さっぽろ天神山アートスタジオは、2014年に初開催された札幌国際芸術祭（SIAF）を契機に開設された。札幌市が保有していた旧・札幌天神山国際ハウスを修繕し、札幌市初の公的なアーティスト・イン・レジデンス（以下AIR）拠点 [&#8230;]",
+      "link": "https://artscape.jp/article/75974/",
+      "pubDate": "Wed, 26 Aug 2026 02:00:37 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【動画】X民「煽り運転が始まる90%の原因がコレ。何で左に避けないの？🤔」←2台の車、どちらが悪いかで大議論に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457594.html",
+      "pubDate": "2026-08-26T11:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/c/4cf5dfdf.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "最近、ご飯はずっとこれ → 『王様のねこまんま』鰹節を敷き詰めて「卵黄・金ごま・山わさび」をのせたら、半膳でも幸福感がスゴイ",
+      "description": "最近ハマっている、ご飯の食べ方がある。私は勝手に『王様のねこまんま』と呼んでいる。 非常に簡単なので、みんなもすぐ真似できる。ご紹介しよう。 ・材料と作り方 まずはご飯。1膳でも半膳でもいい。私は半膳にしている。 ご飯を [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/26/2794593/",
+      "pubDate": "Wed, 26 Aug 2026 02:00:05 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/6f2a4646-8231-49f0-b695-35036c396f34.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "“TAKEOFF”の続章は、宇宙へ。〈BAO BAO ISSEY MIYAKE〉「KURO」シリーズに新たなラインナップ",
+      "description": "続章は、大気圏を超えて 〈BAO BAO ISSEY MIYAKE〉は2010年秋冬シーズンに単独ブランドとしてスタートした。以来、三角形のピースを組み合わせて平面から立体へと姿を変える構造が、ブランドを象徴する意匠にな [&#8230;]",
+      "link": "https://brutus.jp/post-516393/",
+      "pubDate": "Wed, 26 Aug 2026 02:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -11,7 +193,7 @@
       "title": "「クールジャパン失敗おじさん」こと中村伊知哉さん、今度はコミケ運営にも目をつける　→　オタクの敵認定されて大炎上ｗｗｗｗ",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10561095.html",
-      "pubDate": "2026-08-26T10:30:40+09:00",
+      "pubDate": "2026-08-26T10:30:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/1/71530977.jpg"
     },
     {
@@ -418,58 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/4/646cf83b-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "シリーズ最新作『ロックマン デュアル オーバーライド』1stトレーラー公開！『プラグマタ』にロックマンスキン追加決定ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561023.html",
-      "pubDate": "2026-08-26T03:35:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/5/55c8e3e0-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】新ストーリーが追加された『紅の砂漠 エンハンスド』今日から無料アプデとして配信開始！！まさかの日本語ボイスきたああああああ！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561022.html",
-      "pubDate": "2026-08-26T03:32:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/9/090d0ed9.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】PS5/PC/スマホ向け都市型オープンワールドRPG『無限大ANANTA』2027年1月15日配信決定！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561018.html",
-      "pubDate": "2026-08-26T03:21:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7e8cd5ad.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】ホヨバの新作ダークファンタジー『NODUS FALL』発表！フォトリアルグラフィックのアクションゲーム！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561015.html",
-      "pubDate": "2026-08-26T03:13:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74942a98.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -600,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/010fb55c.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "スプラトゥーンの一番くじが炎上　エグい内容がこちら・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457570.html",
-      "pubDate": "2026-08-25T20:01:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/e/1e1e3dbf-s.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -639,19 +756,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/25/07/subbuzz/_EgpV0ifO.jpg?crop=3727:2485;280,0&resize=1250:830"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ライザのアトリエ』AIチャットアプリ、サービス開始→尋常じゃないレベルの課金圧で批判殺到",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457558.html",
-      "pubDate": "2026-08-25T19:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/f/3f1d9f5b.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -676,19 +780,6 @@
       "link": "https://brutus.jp/post-512535/",
       "pubDate": "Tue, 25 Aug 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "コンビニの前で佇むTKO木下さん、お行儀が悪すぎると話題に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457562.html",
-      "pubDate": "2026-08-25T18:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/4/a41f8b10.png"
     },
     {
       "siteId": "rocketnews",
@@ -964,19 +1055,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2091話目「エルフの森の変化⑲」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/08/24/2792016/",
-      "pubDate": "Mon, 24 Aug 2026 12:00:13 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2091a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1055,19 +1133,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/08/subbuzz/Uqvq26Z1X.jpg?crop=2696:1797;485,354&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【地震対策】先日の震度5弱で「食器棚の上ヤバイ」と思ったので、酒瓶が降ってくる前に落下防止バーを自作した",
-      "description": "つい先日の23日未明、とても大きな地震が起きた。 関東で最大震度5弱。スマホから地震の警報は鳴るわ、揺れはかなり大きいわで、けっこうビビった。 その後、すぐに寝てしまったのだが、翌朝起きて真っ先に思った。 「食器棚の上、 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/24/2794332/",
-      "pubDate": "Mon, 24 Aug 2026 09:00:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/BF_1920.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1079,19 +1144,6 @@
       "link": "https://www.buzzfeed.com/jp/yuisasaki/kudoshizuka0824",
       "pubDate": "Mon, 24 Aug 2026 04:46:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/06/subbuzz/ckEp8ll8U.jpg?crop=1817:1211;0,229&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ハチワレも利用する「あのおかしの店」で発見！『映画ちいかわ』の激辛カレースナックが期待以上のウマさでした",
-      "description": "『映画ちいかわ 人魚の島のひみつ』の魅力は数あれど、作中に登場する美味しそうな食べ物もそのひとつ。わたあめ、ビール、じゃがバター、たこ焼き、すき焼きケバブに、てりてりソースの焼きそば～～♪　さらにはカツカレーや貝汁まで盛 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/24/2794196/",
-      "pubDate": "Mon, 24 Aug 2026 08:00:30 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_8636_d1971f.jpg"
     },
     {
       "siteId": "brutus",
@@ -1289,32 +1341,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "8月24日〜8月30日 獅子座の運勢【ブルータス週間占い】",
-      "description": "獅子座の羅針盤 自らのスキルを見直す 週初めに月が獅子座にとって日々の業務の部屋となる山羊座にいます。今週は、仕事もプライベートも堅実に進めていきましょう。やらなければいけないことがたくさん出てくるかもしれませんが、きち [&#8230;]",
-      "link": "https://brutus.jp/post-521418/",
-      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "8月24日〜8月30日 乙女座の運勢【ブルータス週間占い】",
-      "description": "乙女座の羅針盤 「楽しいこと探し」に出かける 25日、水星（思考）が自エリア（乙女座）にやってきます。水星にとって乙女座は、その性質を発揮しやすいホームグラウンド。今週は頭が冴え、やりたいことにどんどん着手していけそうで [&#8230;]",
-      "link": "https://brutus.jp/post-521421/",
-      "pubDate": "Sun, 23 Aug 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1458,19 +1484,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "江戸の人気展望台に上ってみよう！【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/489657",
-      "pubDate": "Fri, 21 Aug 2026 22:00:37 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1546,19 +1559,6 @@
       "description": "全国各地の美術館・博物館を渡り歩き、そこで出会うグッズたちへの感動を広く伝えるミュージアムグッズ愛好家・大澤夏美さん。博物館経営論の視点からもそれらを捉え直す彼女が、日々新たな商品や話題が生まれるミュージアムグッズの現場 [&#8230;]",
       "link": "https://artscape.jp/article/76155/",
       "pubDate": "Thu, 20 Aug 2026 02:00:43 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "杉江あこ｜ルーシー・リー展─東西をつなぐ優美のうつわ─",
-      "description": "会期：2026/07/04～2026/09/13 会場：東京都庭園美術館［東京都］ 公式サイト：https://www.teien-art-museum.ne.jp/exhibition/lucie-rie/ 英国の陶芸 [&#8230;]",
-      "link": "https://artscape.jp/article/75441/",
-      "pubDate": "Thu, 20 Aug 2026 02:00:40 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-26T01:41:22.313731",
+  "updatedAt": "2026-08-26T03:10:35.273431",
   "sites": [
     {
       "id": "hachima",
