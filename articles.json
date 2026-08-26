@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ファミリーマート、店舗スタッフの『ヒジャブ』着用自由化→日本人ブチギレ・・・「ファミマよ、さようなら」「二度と行かない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457639.html",
+      "pubDate": "2026-08-27T05:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2ca8861.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ドパガキ向け！転調回数が多いヒット曲ランキングｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561289.html",
+      "pubDate": "2026-08-27T05:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1c2f8aa8.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「エンジョイ勢で高学歴だったり、頭の回転がものすごく速かったり、仕事でかなり稼いでたりする人を見たことない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561286.html",
+      "pubDate": "2026-08-27T04:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/a/8a0ad040.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -457,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/2/32058f50-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "元プロゲーマー「反射神経とか感覚で勝ててた時代は終わって、ちゃんと勉強した奴が勝つ時代。わざわざゲームするのに勉強したくない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561183.html",
-      "pubDate": "2026-08-26T17:30:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35f0d00c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,19 +507,6 @@
       "link": "https://jin115.com/archives/52457612.html",
       "pubDate": "2026-08-26T17:00:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/5/4567c8fd.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "新作オープンワールド探偵アドベンチャーARPG『白銀の城』PS5版が正式発表！バイオ風TPSマルチプレイモードも公開！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561175.html",
-      "pubDate": "2026-08-26T17:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/eb6dfb4b.jpg"
     },
     {
       "siteId": "brutus",
@@ -741,19 +754,6 @@
       "link": "https://brutus.jp/post-516393/",
       "pubDate": "Wed, 26 Aug 2026 02:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【深刻】警視庁、ちょっと笑えない状況になっていた　都民には公開されない裏ですでに治安に影響が出始める",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457592.html",
-      "pubDate": "2026-08-26T10:30:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/172e0c41.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-26T18:18:02.590992",
+  "updatedAt": "2026-08-26T20:40:43.558538",
   "sites": [
     {
       "id": "hachima",
