@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "梨花、14歳息子の姿を公開→「そっくり」「筋肉すごい」「大っきくなりましたね」と大反響",
+      "description": "アメリカ在住でモデルの梨花さんが8月26日にInstagramを更新。14歳の息子さんが高校生になることを報告し、成長の過程を写真で公開しました。ファンからは「そっくり」「筋肉すごい」「大っきくなりましたね」などの反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/saorihakamada/rinka0826",
+      "pubDate": "Wed, 26 Aug 2026 05:01:04 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/26/01/thumb/Aj82G2GXU.jpg?crop=1811:1207;0,133&resize=1250:830"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "1人ビアガーデンは地獄なのか？ 歌舞伎町でやってみたら天国だった / 正確には「天空」",
+      "description": "1人ラーメン、1人焼肉、1人カラオケ……と “おひとりさま” が市民権を得ていく中でも「さすがにそれは」と思われがちなものがある。たとえば、1人BBQや1人ビアガーデンはそうだろう。 どちらも「何人かで楽しむ」というイメ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/26/2793579/",
+      "pubDate": "Wed, 26 Aug 2026 09:00:45 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/a_IMG_7893_noEXIF.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "自民党議員、言ってしまう・・・「アメリカの制裁に政府が弱気なのは、みんなトランプ大統領が怖くて言えないんだよ…」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457609.html",
+      "pubDate": "2026-08-26T18:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/d/6dd25bda.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "江戸川区・西葛西の交差点で都営バスが信号機に衝突し、乗客2人が怪我する事故が発生 → 事故の原因があいつのせいだった…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561187.html",
+      "pubDate": "2026-08-26T18:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/2/32058f50-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "元プロゲーマー「反射神経とか感覚で勝ててた時代は終わって、ちゃんと勉強した奴が勝つ時代。わざわざゲームするのに勉強したくない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561183.html",
+      "pubDate": "2026-08-26T17:30:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35f0d00c.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -535,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b05e970.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジ注意】海外の人と仕事をして「See you next Tuesday!」と笑顔で言ったら「それ英語圏では絶対言っちゃアカンやつ」と警告された　→　その理由があまりにまさか過ぎたｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561081.html",
-      "pubDate": "2026-08-26T09:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/99143408.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +611,6 @@
       "link": "https://jin115.com/archives/52457588.html",
       "pubDate": "2026-08-26T09:30:08+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9bc6c96d.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】ある女性ユーチューバー、「ヘソが怖すぎる」と批判噴出して炎上　→　原因となったヘソがこちらｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561074.html",
-      "pubDate": "2026-08-26T09:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ffbe3fec.jpg"
     },
     {
       "siteId": "jin",
@@ -704,6 +743,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/5/e5a24915.jpg"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "糸井嘉男、きつねダンスを踊る姿に「アカン、これは…」「1番セクシー」「1人だけデカすぎ」ファンくぎづけ",
+      "description": "元プロ野球選手の糸井嘉男さんが8月22日にInstagramを更新。北海道北広島市にある野球場・エスコンフィールドHOKKAIDOできつねダンスを踊る姿を披露しました。「アカン、これは…」「1番セクシー」などの反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/ayahara/itoiyoshio0825",
+      "pubDate": "Tue, 25 Aug 2026 17:01:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/25/02/subbuzz/gBI05k2Ng.jpg?crop=2243:1495;1,614&resize=1250:830"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -756,19 +808,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0e67cda-s.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中野ブロードウェイの時計店で総額2億円近い時計が盗まれる！あの有名犯罪者グループによる犯行か？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457569.html",
-      "pubDate": "2026-08-26T00:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89cca47c.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -819,6 +858,19 @@
       "link": "https://www.buzzfeed.com/jp/kenjiando/hulkenberg",
       "pubDate": "Tue, 25 Aug 2026 06:46:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/25/07/subbuzz/_EgpV0ifO.jpg?crop=3727:2485;280,0&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "M!LK曽野舜太「アイス溶けるまで」勉強の工夫に注目集まる「忙しいのに…」「すごすぎんか？」「激務の中で挑戦してるだけですごい」",
+      "description": "5人組ダンスボーカルグループ「M!LK」の曽野舜太さんが8月22日にInstagramを更新。机に向かい勉強中の様子を公開しました。気象予報士試験を受験することを明かしていた曽野さん。夏らしい勉強時間の工夫にも反響が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/milk-sono-shunta-benkyoho",
+      "pubDate": "Tue, 25 Aug 2026 06:46:01 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/06/subbuzz/6o8vgSjdl.jpg?crop=1719:1146;202,214&resize=1250:830"
     },
     {
       "siteId": "rocketnews",
@@ -1016,17 +1068,17 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ドミノ・ピザの月見メニューが「エッグタルト20個」で大困惑→「売る気ある？」と担当者に聞いてみた",
-      "description": "今年の夏も後半に差し掛かってきた。この時期、飲食チェーンがこぞって発表し始めるのが月見系メニュー。そう “月見商戦” のゴングがもう間もなく打ち鳴らされるシーズンだ。 さあ、各企業はどんな月見メニューを販売するんでしょう [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/25/2794187/",
-      "pubDate": "Tue, 25 Aug 2026 01:00:42 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_3883.jpg"
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "平原綾香、初めての手作りカレーを披露→「お店のカレー」「スパイスから作るなんてすごい」「料理の才能まで…」と大反響",
+      "description": "歌手の平原綾香さんが8月22日にInstagramを更新。歌手の氷川きよしさん指導のもと、カレーを手作りしたことを報告しました。スパイスから作ったカレーに、ファンからは「お店のカレー」「料理の才能まで…」などの声が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/saorihakamada/hiraharaayaka-curry0822",
+      "pubDate": "Mon, 24 Aug 2026 21:46:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/23/22/thumb/0zzS8LuaG.jpg?crop=1956:1304;0,21&resize=1250:830"
     },
     {
       "siteId": "artscape",
@@ -1107,19 +1159,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "婚約したりくりゅうペア、YouTubeでの姿に「恋人感醸し出してる」「りくちゃんのこと全部覚えてるりゅうくん」と大反響",
-      "description": "ミラノ・コルティナ冬季オリンピックの「フィギュアスケート・ペア」で金メダルを獲得した“りくりゅう”こと三浦璃来さんと木原龍一さんが、YouTubeチャンネルを更新。「50の質問」に答える動画を公開し、「恋人感醸し出してる」などと反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yukiadachi/miurariku-kihararyuichikonyaku2shot0823",
-      "pubDate": "Mon, 24 Aug 2026 07:16:04 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/07/subbuzz/LD39X53PO.jpg?crop=3543:2362;652,215&resize=1250:830"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1131,45 +1170,6 @@
       "link": "https://brutus.jp/post-518248/",
       "pubDate": "Mon, 24 Aug 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "山﨑賢人、『キングダム』撮影中の寝姿に反響「すごい体勢で寝ている」「どうして…」「この体勢で休憩できるんですか！？」",
-      "description": "俳優の山﨑賢人さんのマネージャーが運用する公式アカウントが8月23日にInstagramを更新。山﨑さんが主演する映画『キングダム 魂の決戦』撮影中の、休憩の様子を公開しました。愛馬の上で目を閉じる山﨑さんの姿に注目が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/yamazaki-kento-kingdom-neteru",
-      "pubDate": "Mon, 24 Aug 2026 06:46:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/01/subbuzz/IonPKeyZx.jpg?crop=3627:2418;860,105&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "高橋文哉「大好きな先輩」北村匠海との2ショット公開→「久しぶりに見た」「雰囲気似てますよね」と反響",
-      "description": "俳優の高橋文哉さんが8月24日にInstagramを更新。歌手で俳優の北村匠海さんとの2ショットを披露し、「けんちゃんたかしコンビ久しぶりに見た」「似てますよね」と反響を集めています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/tomokaunno/takahashidior0824",
-      "pubDate": "Mon, 24 Aug 2026 06:31:01 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/08/subbuzz/Uqvq26Z1X.jpg?crop=2696:1797;485,354&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「混ぜるだけ！」工藤静香のキャベツ消費レシピに「いくらでも食べられそう」「マネしてみます」絶賛の声",
-      "description": "歌手の工藤静香さんが8月21日にInstagramを更新。手料理のレシピを公開し、ファンからは「いくらでも食べられそう」「マネしてみます」などの反響が寄せられました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yuisasaki/kudoshizuka0824",
-      "pubDate": "Mon, 24 Aug 2026 04:46:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/24/06/subbuzz/ckEp8ll8U.jpg?crop=1817:1211;0,229&resize=1250:830"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-26T08:10:25.845248",
+  "updatedAt": "2026-08-26T09:19:48.036170",
   "sites": [
     {
       "id": "hachima",
