@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「下手くそはゲームしたらだめなの？上手いからって偉そうにして馬鹿にしていいの？いつも疑問です」→大激論が始まる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457613.html",
+      "pubDate": "2026-08-26T19:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/b/0b0fd916.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】任天堂ファン、約40年かけて集めた860本以上のファミコンソフトを盗まれる　被害額は10万ドル(約1,590万円)",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561224.html",
+      "pubDate": "2026-08-26T19:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bce7cecc.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "老舗オンラインFPS『AVA』が10月28日をもってサービス終了！2008年から続く18年の歴史に幕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561193.html",
+      "pubDate": "2026-08-26T18:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/3/53fba924.jpg"
+    },
+    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -535,19 +574,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「クールジャパン失敗おじさん」こと中村伊知哉さん、今度はコミケ運営にも目をつける　→　オタクの敵認定されて大炎上ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561095.html",
-      "pubDate": "2026-08-26T10:30:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/1/71530977.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +585,6 @@
       "link": "https://jin115.com/archives/52457592.html",
       "pubDate": "2026-08-26T10:30:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/172e0c41.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】現在の落語界、未だに女性落語家は着替えスペースを用意されず高座裏でコソコソ着替えてる模様…　女性真打がせめてカーテンをと頼んでも上の男達は無視",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561089.html",
-      "pubDate": "2026-08-26T10:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/05d1fcb5.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -795,19 +808,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/b/8bc87804.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "大女優さん、実は好きじゃない国民的○○をぶっちゃける「なんでこんなに支持受けているのかよくわからない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457574.html",
-      "pubDate": "2026-08-26T01:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0e67cda-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -931,7 +931,7 @@
       "siteColor": "#34d399",
       "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
       "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "スウェーデンの陶芸家・リサ・ラーソンの追悼展が〈松屋銀座〉で。日本初公開作品も！",
+      "title": "スウェーデンの陶芸家、リサ・ラーソンの追悼展が〈松屋銀座〉で。日本初公開作品も！",
       "description": "愛らしく、ユーモラスな動物たちや静謐な人物像など、数多くの温かな作品を生み出してきたスウェーデンの陶芸家、リサ・ラーソン。2024年3月、惜しまれつつこの世を去った彼女に、さまざまな視点から迫る『リサ・ラーソン 追悼展―アーティスト・デザイナー・インスピレーションの源』が、9月25日から松屋銀座で開催されます。",
       "link": "https://casabrutus.com/categories/design/492368",
       "pubDate": "Tue, 25 Aug 2026 07:25:08 +0000",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-26T09:19:48.036170",
+  "updatedAt": "2026-08-26T10:06:35.912263",
   "sites": [
     {
       "id": "hachima",
