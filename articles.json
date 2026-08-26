@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "農水省、放出した政府備蓄米の買い戻しへ！コメ農家と買占め業者を救済か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561252.html",
+      "pubDate": "2026-08-26T20:40:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/70cbb79e.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ホロライブVtuberさん、〇〇kg痩せたことを報告！凄すぎるだろ！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457627.html",
+      "pubDate": "2026-08-26T20:30:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/6/e6febe9c.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -509,19 +535,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_8579-2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【日本終了】スマホ依存の未成年「ドパガキ」、学力が致命的に低下　→　難しい入試を突破したはずの大学生でさえ◯◯◯◯で完全に終わる…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561113.html",
-      "pubDate": "2026-08-26T11:40:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d8a2a68-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -819,19 +832,6 @@
       "link": "https://jin115.com/archives/52457578.html",
       "pubDate": "2026-08-26T06:00:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a953ded.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "国際的なカンパニーの人に「See you next Tuesday!」→それ絶対言っちゃアカンと指摘される→その理由がこれ・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457576.html",
-      "pubDate": "2026-08-26T05:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/6/e665c7b3.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-26T11:02:49.856647",
+  "updatedAt": "2026-08-26T11:57:32.638618",
   "sites": [
     {
       "id": "hachima",
