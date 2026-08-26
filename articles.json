@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女性X民「DQNよりチー牛っぽい男の方がモラハラは多いです」⇒ 女性から共感の嵐にｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561163.html",
+      "pubDate": "2026-08-26T16:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/1/e101253a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "蚊、とんでもない事故を引き起こしてしまい終わる…",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457614.html",
+      "pubDate": "2026-08-26T16:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/7/f736774f.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【検証】セブンの「味が濃すぎて食べられない」で話題『冷やしコショウそば』を食べたらこうだった",
+      "description": "2026年8月25日からセブンイレブンで発売されている『ラーメンWalker監修　冷やしコショウそば』が話題を呼んでいる。平たく言うと「味が濃すぎて食べられない」というのだ。 ええ～、コンビニグルメで食べられないことって [&#8230;]",
+      "link": "https://rocketnews24.com/2026/08/26/2794827/",
+      "pubDate": "Wed, 26 Aug 2026 06:30:25 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_4104.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "男「植毛は嫌だ！でも…せや！」 → とんでもない方法で髪の毛が生えているように見えさせるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561164.html",
+      "pubDate": "2026-08-26T15:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/7/f76cf22a-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【さす東】X民「どう考えても東京の方が九州より不健全だし日本衰退の要因が詰まってる」⇒ 関東民ブチギレｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561155.html",
+      "pubDate": "2026-08-26T15:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/6/86179f28.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "辻希美さんの娘・希空さん（18）、大胆なビキニ姿を公開　可愛すぎると話題に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457606.html",
+      "pubDate": "2026-08-26T15:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/b/4b17d6b9.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -548,19 +626,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "高市首相、ICC赤根所長らへの制裁対応が弱腰と言われて否定！　「日本は法の支配を一貫して支持している。制裁は日本の立場と相いれるものではない」　※なお",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561051.html",
-      "pubDate": "2026-08-26T07:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/62579d60.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -572,19 +637,6 @@
       "link": "https://casabrutus.com/categories/food/490122",
       "pubDate": "Tue, 25 Aug 2026 22:00:59 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "歯医者予約したら40分も待たされた　→　お詫びとして女医からスケベな◯◯◯サービスが始まってしまい男性客大満足ｗｗｗｗｗ　これはｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561050.html",
-      "pubDate": "2026-08-26T07:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/372e58dd.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -624,19 +676,6 @@
       "link": "https://jin115.com/archives/52457578.html",
       "pubDate": "2026-08-26T06:00:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a953ded.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "どれがAIが作ったラーメン画像か分かる？ 本物ラーメン判定が話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560982.html",
-      "pubDate": "2026-08-26T06:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a470eb5d-s.jpg"
     },
     {
       "siteId": "jin",
@@ -704,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/f/bfdc6f7c.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "韓国、なんかヤバイことになる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457567.html",
-      "pubDate": "2026-08-25T22:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/15931bb5-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -728,19 +754,6 @@
       "link": "https://rocketnews24.com/2026/08/25/2792020/",
       "pubDate": "Tue, 25 Aug 2026 12:00:56 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2092a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ラジオ番組でうっかり「彼」と発言してしまった人気女性声優さん、真相を激白する",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457572.html",
-      "pubDate": "2026-08-25T21:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/e/5e6c5ff4.png"
     },
     {
       "siteId": "brutus",
@@ -1001,19 +1014,6 @@
       "link": "https://artscape.jp/article/76631/",
       "pubDate": "Tue, 25 Aug 2026 01:00:26 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "デアゴスティーニを完走した私、今度はアシェット「ピーナッツミニチュアタウン」を2年以上かけて作る / 第1回：創刊号（299円）",
-      "description": "今から約3年前、私（あひるねこ）はデアゴスティーニ『週刊つくってあつめるスヌーピー＆フレンズ』を完成させた。全130号、かかった期間は約2年半である。 もう二度とこの手のシリーズには手を出すまい……。そう誓ったはずだった [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/25/2794163/",
-      "pubDate": "Tue, 25 Aug 2026 00:00:44 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_7306.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-26T06:01:03.084524",
+  "updatedAt": "2026-08-26T07:26:54.467290",
   "sites": [
     {
       "id": "hachima",
