@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2696回「TATARI」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/08/26/2794784/",
+      "pubDate": "Wed, 26 Aug 2026 05:00:48 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/2696-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大人向けの塊魂っぽいゲーム『ROLLA』が10月1日に発売！ 人を捕食し、巨大化していくゲー",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561143.html",
+      "pubDate": "2026-08-26T14:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/751ba963-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "環境省、ついに太陽光パネル購入補助を廃止へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457605.html",
+      "pubDate": "2026-08-26T14:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/8/b8e8797c.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "職質されたX民、警察官に車のドアハイザーを壊された上、対応にブチギレ 「本人は認め、賠償すると言われたけど…」→ ネットからツッコミ殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561137.html",
+      "pubDate": "2026-08-26T13:40:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/2/52363ed1.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジか】「神奈川の田舎でタクシードライバーやっただけでこの給料！　ゲームしながらお金もらってる感覚でMMO廃人には天職」パシャッ　→　夢のある金額すぎてネット騒然",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10561145.html",
+      "pubDate": "2026-08-26T13:20:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/0/1001321f.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -561,45 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/2/d2e170ab.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ゲームイベント『Gamescom Opening Night LIVE 2026』 主な発表内容まとめ！ホヨバ新作やウィッチャー3リマスターなどなど！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561012.html",
-      "pubDate": "2026-08-26T05:20:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/1/314603f2.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ウィッチャー3 リマスター』9月29日配信決定！本編を持っている人は無料でアップデート可能！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10561032.html",
-      "pubDate": "2026-08-26T05:13:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/2/d2595dd1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【激ムズ】書籍版「サイゼリヤまちがいさがし」がkindleセール！９９円で永遠に暇つぶしできる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10560980.html",
-      "pubDate": "2026-08-26T05:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/ae603dd3-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +741,6 @@
       "link": "https://brutus.jp/post-521411/",
       "pubDate": "Tue, 25 Aug 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【放送事故】飲食店で配信していたニコ生主さん、とんでもないことが起こってしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457555.html",
-      "pubDate": "2026-08-25T20:40:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26cbe9c5.png"
     },
     {
       "siteId": "brutus",
@@ -1027,19 +1040,6 @@
       "link": "https://brutus.jp/post-517814/",
       "pubDate": "Mon, 24 Aug 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "そういう意味で出してない！ 唐突な彼女との別れ！　四コマサボタージュFB第72回「距離」",
-      "description": "「テレビを見る時は……」って番組冒頭に表示されるテロップなんだけど、子どもの頃にはそういう注意書きみたいなのがなかったような気がするんだよね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/08/25/2790981/",
-      "pubDate": "Mon, 24 Aug 2026 22:00:49 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-72.png"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-26T04:11:16.897669",
+  "updatedAt": "2026-08-26T05:06:36.306966",
   "sites": [
     {
       "id": "hachima",
