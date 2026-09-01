@@ -2,17 +2,238 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ホロライブ、新たな二次創作ガイドラインに『私刑禁止』を明記！　「ガイドライン違反行為を見かけても運営に連絡するだけにしてね」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563209.html",
+      "pubDate": "2026-09-01T10:30:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/5/d5e4b6af.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
       "siteColor": "#60a5fa",
       "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
       "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【過去最安多数】AmazonスマイルSALE開催中！！相場を破壊する超コスパガジェットからスーパーより安い○○まで徹底調査の厳選商品まとめ！！！！",
+      "title": "再生数3桁だったお医者さんユーチューバー、本性を現した途端に再生数が急激に伸びるｗｗｗｗｗ",
       "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457750.html",
-      "pubDate": "2026-09-01T09:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/1/9156cb38.jpg"
+      "link": "https://jin115.com/archives/52457975.html",
+      "pubDate": "2026-09-01T10:30:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d65fe7b5-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "教員の負担軽減に『部活動の全面廃止』がスタート→「部活は日本の文化だったのに」「親と教師の負担が大きすぎた」「格差拡大に繋がる」など賛否が入り乱れる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457971.html",
+      "pubDate": "2026-09-01T10:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/c/9c525627.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ローソン限定「ナガラ食品監修 ホルモン鍋焼うどん」新発売！ ローホル好きが食べたらココが気になった",
+      "description": "「ローホル」の愛称で親しまれている「ナガラ食品　ホルモン鍋」。ローソンで長らく販売されているこのホルモン鍋シリーズに2026年8月25日、新商品が登場した。 それが「ナガラ食品監修 ホルモン鍋焼うどん」。 さっそく購入し [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/01/2796413/",
+      "pubDate": "Tue, 01 Sep 2026 01:00:33 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/n1.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【東京】Art for Well-being ハッカソン「表現×ケア×テクノロジー 現場ではじめるための実践ワークショップ」",
+      "description": "大阪大学 中之島センターにて、「Art for Well-being」プロジェクトの一環として、ハッカソン「表現×ケア×テクノロジー 現場ではじめるための実践ワークショップ」が開催されます。 本イベントは、心身のケアの選 [&#8230;]",
+      "link": "https://artscape.jp/article/77251/",
+      "pubDate": "Tue, 01 Sep 2026 01:00:31 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】8月31日で展示終了した『お台場ユニコーンガンダム』、バナージが例のBGMと共にサプライズメッセージ！　「9年間ありがとう」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563205.html",
+      "pubDate": "2026-09-01T10:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/b/cbdb0f0b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】高橋留美子さんが描いた最新の『犬夜叉』イラスト（180万円）、なんかちょっと違うと話題にｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563197.html",
+      "pubDate": "2026-09-01T09:30:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/30fad55f.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「自分の〇〇を洗面器に入れて乗客にニオイを振り撒く」やばい浮浪者、見つかる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457970.html",
+      "pubDate": "2026-09-01T09:30:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/16e95b5b.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【たった1語】AIの画像加工は「/（スラッシュ）〇〇」だけでもイケる！ 細かく指示を出さなくても上手く描けたぞ",
+      "description": "今までは一体なんだったのか？　AIに画像加工をお願いするときに、長い指示文（プロンプト）を書き連ねて、「いや違う」とか「そうだ。けどもっとコレをこうして……」と文章をこねくり回していたのに、今さらそんな手間のかかることを [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/01/2795615/",
+      "pubDate": "Tue, 01 Sep 2026 00:00:54 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/commandslash.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『AmazonスマイルSALE』後半戦、ガチの厳選品あげてくわ！まさかの“アレ”もセール中だぞ！！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457974.html",
+      "pubDate": "2026-09-01T09:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/5/455629a5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】人気声優・前田佳織里さん、突然お腹を出すｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563141.html",
+      "pubDate": "2026-09-01T09:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/1/f15c31db.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性講師(24)、16歳未満の少年をわいせつ目的で誘惑した疑いで逮捕→3週間後、驚きの行動に出て再逮捕へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457969.html",
+      "pubDate": "2026-09-01T08:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/178f66e1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超便利】蚊に刺されて「かゆい」と悶えてる人に◯◯でその場所を濡らしたら即かゆみが消えた！　→　ガチだったｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563139.html",
+      "pubDate": "2026-09-01T08:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/4/34dd60b7.png"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】悲しみの声が続々と…。曳舟のパン屋さん「ブーランジェリーオットポン」が閉店を発表。",
+      "description": "いつも号外NET墨田区をご覧いただきましてありがとうございます。今回は沢山の読者さまから情報提供を頂きました閉店の情報をお伝えします。 曳舟図書館のあるマークフロントタワー曳舟の1Fに店舗を構える「ブーランジェリー　オッ [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/09/01/hautpont-close/",
+      "pubDate": "Mon, 31 Aug 2026 23:01:34 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_7162-1024x767.jpeg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【防災の日】地震対策のため食器棚の落下防止バーを作って安心した私、翌日には『まだ全然ダメだ』と気づく",
+      "description": "一度心配になってしまったら、ずっと気にしてしまう方だ。 少し前、大きな地震があった。その際、我が家の食器棚の上に置いてある酒類が「これ、大きな地震が来たら全部落ちてくるのでは……？」と急に怖くなった。 そこで私はホームセ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/01/2796603/",
+      "pubDate": "Mon, 31 Aug 2026 23:00:46 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2016_1920.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ココイチの値上げ、やっぱりアカンかった模様・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52457968.html",
+      "pubDate": "2026-09-01T08:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/3/83a269d3.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【放送事故】お昼のワイドショーで女性の胸元が丸見えになってしまう　→　結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563125.html",
+      "pubDate": "2026-09-01T08:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/0516791a.gif"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "カカオバター香る、軽～いフレンチクルーラー。神奈川／鎌倉〈MAISON CACAO〉",
+      "description": "MAISON CACAO カカオバター香る、軽～いフレンチクルーラー 近年菓子職人から注目されるフレンチクルーラー。生地がシュークリームと似ていることが理由とされ、チョコレートブランド〈メゾンカカオ〉の旗艦店でも作られて [&#8230;]",
+      "link": "https://brutus.jp/post-521160/",
+      "pubDate": "Mon, 31 Aug 2026 23:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -340,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/ae684c35.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ハウス食品、『ココイチ』を運営する壱番屋の売却検討へ…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563040.html",
-      "pubDate": "2026-08-31T21:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/afb6b51e.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -405,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/1/e1695b0e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ソニー「今の時代、購入したデジタルゲームの所有権を得たと考えるのは現実的ではない」集団訴訟に反論",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563031.html",
-      "pubDate": "2026-08-31T20:30:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e9b266bc.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +637,6 @@
       "link": "https://jin115.com/archives/52457919.html",
       "pubDate": "2026-08-31T20:00:23+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/7/97e918a7.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ホラーゲー『ハロウィン ザ・ゲーム』日本のPS5版だけ発売中止…理由はやっぱりアレでした",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563019.html",
-      "pubDate": "2026-08-31T20:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/e/3eb84b00.jpg"
     },
     {
       "siteId": "brutus",
@@ -483,45 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/7/57909e24.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『24時間テレビ』マラソン中継乱入男は「登録者数400人の迷惑系YouTuber」だったと判明　しかもニコ超でひろゆきに◯◯していた・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563012.html",
-      "pubDate": "2026-08-31T19:30:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/117e58e5-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "Amazonスマイルセール開催中！『エースコンバット7』79%オフ『テイルズ オブ アライズ』60%オフ！ゲーミングマウスやキーボードもお安く！終わる前に忘れずチェック！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563018.html",
-      "pubDate": "2026-08-31T19:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fb5619d6.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "TikToker「進撃の巨人読んだけど面白くなかった。あの終わり方でいいの？」→大荒れに",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457912.html",
-      "pubDate": "2026-08-31T19:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/13101e95.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -548,19 +691,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【知ってた】中道改革連合・立憲民主党・公明党、3党合流断念　事実上の分裂が決定的に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10562931.html",
-      "pubDate": "2026-08-31T18:40:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/752f0e9e-s.png"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -574,19 +704,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/31/00/thumb/f1w2TSDA6.jpg?crop=2700:1800;0,143&resize=1250:830"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ソニー「史上最大規模のVTuber事務所作ってデビューさせます！」 → 5年後・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457924.html",
-      "pubDate": "2026-08-31T18:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/39521359-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -598,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/08/31/2795451/",
       "pubDate": "Mon, 31 Aug 2026 08:00:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/image_78aafe.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "乱入者が現れた24時間テレビのマラソン、別の場所でもやべーやつが暴走していた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457913.html",
-      "pubDate": "2026-08-31T17:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/d/0d5f11d8-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -637,32 +741,6 @@
       "link": "https://casabrutus.com/categories/design/491519",
       "pubDate": "Mon, 31 Aug 2026 07:25:32 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性声優さん、「信頼関係を著しく損なう行為」により活動休止へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457915.html",
-      "pubDate": "2026-08-31T16:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/f/7f3e6f11.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ポケモン、7年ぶりとなる新作映画『ポケモン：ワイルドカード』2027年公開発表！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52457911.html",
-      "pubDate": "2026-08-31T15:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/601a0e74.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1016,19 +1094,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "8月31日〜9月6日 魚座の運勢【ブルータス週間占い】",
-      "description": "魚座の羅針盤 行き詰まったら人に尋ねる 変化は少ない週ですが、仕事もプライベートも、ルーティーンをこなしていくことで充実させられます。魚座にとって日々の生活の部屋にあたる獅子座にいる木星（成長）が、土星（課題）と120度 [&#8230;]",
-      "link": "https://brutus.jp/post-522571/",
-      "pubDate": "Sun, 30 Aug 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1224,19 +1289,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "新大久保でキムチを買うなら？ 韓国系スーパー4店舗の白菜キムチを徹底比較してわかったこと",
-      "description": "日本最大級のコリアンタウンである新大久保に行ったなら、キムチを買って帰りたいと思う人も多いかもしれない。しかし、ここで生じるのが「どこで買えばよいかわからない」問題だ。 そこで今回は、新大久保の代表的な韓国系スーパー4店 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/30/2795239/",
-      "pubDate": "Sun, 30 Aug 2026 02:00:03 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/k10.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1248,32 +1300,6 @@
       "link": "https://www.buzzfeed.com/jp/kahorimachida/moca20260825",
       "pubDate": "Sat, 29 Aug 2026 21:01:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/26/06/subbuzz/qQs3YOawj.jpg?crop=1694:1129;0,903&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1個13.4円】イオン系列のディスカウントストアで売ってた「冷凍たこ焼き」、40個入り537円のお味はいかに",
-      "description": "実を言うと「冷凍たこ焼き」は冷凍食品コーナーに必ずと言っていいほど置いてある。少量から食べられるし、おやつにもなるあたり使い勝手がいいから人気なのかもしれない。 さて、そんなたこ焼きにもいろいろある。高いものがあれば安い [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/30/2785311/",
-      "pubDate": "Sun, 30 Aug 2026 01:00:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/07/IMG_1979.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ライブ配信】テロップ・ロゴ表示を実装しました！ そしてついに全員ワイヤレスマイクを装着!!",
-      "description": "毎週水曜19時半より、当サイトのYouTubeチャンネルで行っているライブ配信。お盆休み明けの2回目で、ここのところ3人揃う機会が少なかったのが、8月26日は久しぶりに羽鳥・佐藤・中澤の3人が揃った。 しかし、パソコンで [&#8230;]",
-      "link": "https://rocketnews24.com/2026/08/30/2795854/",
-      "pubDate": "Sun, 30 Aug 2026 00:00:34 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/826liverepo1.jpg"
     },
     {
       "siteId": "sumida",
@@ -1536,19 +1562,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_7087-1024x767.jpeg"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "宮井和美｜さっぽろ天神山アートスタジオ──13年の軌跡から考える、アーティスト・イン・レジデンスのこれまでとこれから",
-      "description": "さっぽろ天神山アートスタジオは、2014年に初開催された札幌国際芸術祭（SIAF）を契機に開設された。札幌市が保有していた旧・札幌天神山国際ハウスを修繕し、札幌市初の公的なアーティスト・イン・レジデンス（以下AIR）拠点 [&#8230;]",
-      "link": "https://artscape.jp/article/75974/",
-      "pubDate": "Wed, 26 Aug 2026 02:00:37 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1599,19 +1612,6 @@
       "link": "https://sumida.goguynet.jp/2026/08/23/heatupmeetup/",
       "pubDate": "Sat, 22 Aug 2026 23:01:21 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/01-1024x767.png"
-    },
-    {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】串カツ田中京成曳舟店8月25日OPENです！オープン記念キャンペーンも。",
-      "description": "先日もお伝えしました「串カツ田中　京成曳舟店」の続報です。 【墨田区】京成曳舟駅前 、曳舟西ビューハイツの空き区画に新規OPENするお店が判明。 いつも号外NET墨田区をご覧いただきましてありがとうございます。今日も読者 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/08/22/kushikatunatana20260825/",
-      "pubDate": "Fri, 21 Aug 2026 23:01:47 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_6930-1024x767.jpeg"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-08-31T22:59:03.220183",
+  "updatedAt": "2026-09-01T01:47:02.739336",
   "sites": [
     {
       "id": "hachima",
