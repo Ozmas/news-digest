@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【デカすぎ】スイッチ2版『FF7 リベレーション』インストールサイズは130GBだと判明！もちろんキーカード方式",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563996.html",
+      "pubDate": "2026-09-04T02:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/4/342eed28.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "タレント・千秋さん「ドバイは今や日本より治安が良く安全。何故なら・・・」→納得の理由がこちらｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458151.html",
+      "pubDate": "2026-09-04T02:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03d7c15c.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "炎上料理人・こめお、東京カレー万博の出展取りやめ！麻布十番まつり食中毒事故で7日間の営業停止命令",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563963.html",
+      "pubDate": "2026-09-04T01:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/2/0276e00d.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ショートスリーパー堀大輔氏、高須克弥氏に謝罪 →全然◯◯と話題にｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563953.html",
+      "pubDate": "2026-09-04T01:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/5/a54b8116.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "アフリカ移民が大量になだれ込んだスペイン領セウタ、ヤバイことになっていた",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458143.html",
+      "pubDate": "2026-09-04T01:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/3/d3f57ebb-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】汚部屋住人「掃除して」→ 清掃業者「この汚さなら8万円です」⇒ 汚部屋住人がブチギレるｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563925.html",
+      "pubDate": "2026-09-04T00:30:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/17792695.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "命を削ってTEMUの食材を食いまくっていた人気YouTuberさん、ヤバイことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458149.html",
+      "pubDate": "2026-09-04T00:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/5/4558134a-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】X民「女は男の◯◯に興奮する。ホストで謎の役職が多いのはそのため」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563921.html",
+      "pubDate": "2026-09-04T00:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/1/f11a6e17.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -13,6 +117,123 @@
       "link": "https://jin115.com/archives/52457974.html",
       "pubDate": "2026-09-03T23:59:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/5/455629a5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『State of Play』＆『State of Play 日本』発表内容まとめ！『FF7リベレーション』『Fate/EXTRA Record』『ガンダム ローグオービット』発売日発表、『MHWA』新古龍公開などなど",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563989.html",
+      "pubDate": "2026-09-03T23:50:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f94a8657.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『デジモンストーリー タイムストレンジャー』大型DLC「英雄の遺志」2027年配信決定！本編から3年後で新主人公！！！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563988.html",
+      "pubDate": "2026-09-03T23:27:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/583660bc-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】ゲーム『陰の実力者になりたくて!』が2027年発売決定！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563984.html",
+      "pubDate": "2026-09-03T23:10:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/8/38ad1925-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【速報】『Fate/EXTRA Record』、2027年1月28日に無事発売決定！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458169.html",
+      "pubDate": "2026-09-03T23:08:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9db51d85.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "フルリメイク作品『Fate/EXTRA Record』発売日が2027年1月18日に決定！！ようやく遊べるぞおおおおおおお",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563983.html",
+      "pubDate": "2026-09-03T23:03:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/6/a68d9de6-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『レイトン』『イナイレ』最新情報来るか！？レベルファイブ最新情報が公開される「LEVEL5 VISION 2026 Ⅱ 夢」9月10日21時から配信決定！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563962.html",
+      "pubDate": "2026-09-03T23:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fd304e95-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】『ドラゴンボール ゼノバース3』が2027年発売決定！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563982.html",
+      "pubDate": "2026-09-03T22:59:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/351510dc-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ドパガキモード】『FF7 リベレーション』はまさかの倍速実装ｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563981.html",
+      "pubDate": "2026-09-03T22:54:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d98c72ae.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【速報】『ファイナルファンタジー7 リベレーション』 2027年4月8日発売決定！最新映像も公開！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458167.html",
+      "pubDate": "2026-09-03T22:52:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/80a7af9b.jpg"
     },
     {
       "siteId": "hachima",
@@ -119,19 +340,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fb3949d5-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ゴースト・オブ・ヨーテイ』にツシマの“仁さん”が参戦ｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563964.html",
-      "pubDate": "2026-09-03T22:12:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/421080bf-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -143,32 +351,6 @@
       "link": "https://jin115.com/archives/52458140.html",
       "pubDate": "2026-09-03T22:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68464321.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【初週売り上げ】スイッチ2版『エルデンリング』2.7万本、『MGSマスターコレクション2』計2.6万本、スイッチ2版『FF X/X-2』6千本！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563951.html",
-      "pubDate": "2026-09-03T22:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58ffecee.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】新作オープンワールドARPG『ドーンウォーカー』日本版は出血描写規制あり！吸血鬼の物語なのに血の描写はNG",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563950.html",
-      "pubDate": "2026-09-03T21:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7d224d37.jpg"
     },
     {
       "siteId": "jin",
@@ -197,19 +379,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96ea86b5.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【噂】『アサシンクリード4』リメイク、スイッチ2版が登場か！？専用デザインコントローラーがリーク！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563947.html",
-      "pubDate": "2026-09-03T21:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/54ff6050.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -236,19 +405,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "オーナー「頭おかしいんかゴラ！」パイプ椅子ぶん投げる強烈なパワハラ →タクシー会社・東京エムケイが謝罪会見「62歳の弟に姉が大ゲンカ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563942.html",
-      "pubDate": "2026-09-03T20:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/d/2dd3ec75.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -260,19 +416,6 @@
       "link": "https://jin115.com/archives/52458137.html",
       "pubDate": "2026-09-03T20:30:22+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/f/cf8319df.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】『ちいかわ』くら寿司コラボ湯呑、キャンペーンが始まる前からメルカリに出品されてしまう　店長が横流しか",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563935.html",
-      "pubDate": "2026-09-03T20:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/4436567e.jpg"
     },
     {
       "siteId": "jin",
@@ -314,19 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/e/8e00c2a8.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ニューヨーク「子どもがバカになる！小中学校でAI利用禁止な！！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563933.html",
-      "pubDate": "2026-09-03T19:30:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9ce24cd.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -338,32 +468,6 @@
       "link": "https://jin115.com/archives/52458138.html",
       "pubDate": "2026-09-03T19:20:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/e/deeaad2a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】「麻布十番まつり食中毒事故」はこめおで確定！原因はサルモネラ菌で割烹こめおは営業停止",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563934.html",
-      "pubDate": "2026-09-03T19:15:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/07a9cbfa.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "フランスの『ドラゴンボール』テーマパーク、ガチで無許可だった模様　東映アニメーション「一切のライセンス許諾を行っていない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563927.html",
-      "pubDate": "2026-09-03T19:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/33fe5904.jpg"
     },
     {
       "siteId": "jin",
@@ -392,19 +496,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【麻布十番まつり】炎上料理人・こめおの集団食中毒疑い、体調不良が116人に増加！なぜか港区は厚労省に未報告",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563924.html",
-      "pubDate": "2026-09-03T18:30:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/9/a9c2bdc4.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -431,19 +522,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/image-1024x767.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【え？】妻が夫の飲み物にメタノール混ぜ、視力障害を負わせる → 裁判で妻に無罪判決  ｻｲﾊﾞﾝﾁｮ「自○目的で自ら摂取した可能性も排斥できないやん？はい無罪」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563899.html",
-      "pubDate": "2026-09-03T18:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/6/9695fd13.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -468,19 +546,6 @@
       "link": "https://www.buzzfeed.com/jp/yusuketsuji/mitsubishi0902",
       "pubDate": "Thu, 03 Sep 2026 04:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/02/06/subbuzz/VWE_lFgsO.jpg?crop=5730:3820;1,0&resize=1250:830"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "へずまりゅう議員「もうダメかも。議員辞職に追い込まれそう。公職選挙法違反に関する嘘まみれの陳情書を提出された」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563811.html",
-      "pubDate": "2026-09-03T17:30:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/e/0ea67bd7-s.jpg"
     },
     {
       "siteId": "jin",
@@ -587,19 +652,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_4901.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "北海道、アレの侵略が始まってしまい終わる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458126.html",
-      "pubDate": "2026-09-03T15:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1ce3a384.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -611,32 +663,6 @@
       "link": "https://rocketnews24.com/2026/09/03/2797848/",
       "pubDate": "Thu, 03 Sep 2026 05:00:45 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/2702-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『薬屋のひとりごと』実写化正式発表！猫猫役は芦田愛菜さん！配信時期はまさかの…",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458134.html",
-      "pubDate": "2026-09-03T14:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/3/b3ace4bb.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】水曜日のダウンタウン、◯◯シーンをモザイク無しで放送してしまう衝撃回ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458124.html",
-      "pubDate": "2026-09-03T13:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/7709fa90.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -665,19 +691,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/03/02/subbuzz/vRuMzbEn_.jpg?crop=1026:684;90,0&resize=1250:830"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】「なぜ女性は簡単に股を開くのでしょうか？」→結果ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458107.html",
-      "pubDate": "2026-09-03T12:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9ec42fbc.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -702,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/09/03/2797033/",
       "pubDate": "Thu, 03 Sep 2026 02:55:30 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/LINE_ALBUM_20260813_260814_177.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本感染症学会・日本呼吸器学会・日本ワクチン学会「いいから毎年最新の新型コロナワクチンの定期接種をしろっての！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458112.html",
-      "pubDate": "2026-09-03T11:40:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/b/ab8a4a2f.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-03T13:47:19.997464",
+  "updatedAt": "2026-09-03T17:43:23.240791",
   "sites": [
     {
       "id": "hachima",
