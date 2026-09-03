@@ -2,6 +2,162 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】錦糸町、太平3丁目の「喜多方食堂 山海」が一時休業中です。",
+      "description": "錦糸町北口から蔵前橋通り方面へ、太平3丁目で営業している人気の喜多方食堂 山海。 四ツ目通り沿い、オリナス錦糸町の西側にあるお店です。 先日、店主様が交通事故に遭い、骨折の為、現在休業中となっています。 お店のInsta [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/09/04/sankai-kyugyo/",
+      "pubDate": "Thu, 03 Sep 2026 23:01:46 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/IMG_7194-1024x767.jpeg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "アシェット「ピーナッツミニチュアタウン」のコンプリートを目指したら、2号目で早くも詰みかけた話",
+      "description": "ピーナッツ！　先日、アシェット・コレクションズ・ジャパンから創刊された『ピーナッツ ミニチュアタウン』全120号のコンプリートを目指して始まった本企画。 前回の記事の段階ではまだ決まっていなかったが、今号から「週刊アシェ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/04/2797805/",
+      "pubDate": "Thu, 03 Sep 2026 23:00:47 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_7584.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「中古で買ったビデオカメラの中に謎のテープ入ってた。再生してみるわ」 → ヤバすぎる映像が流れてネット民が震える・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458161.html",
+      "pubDate": "2026-09-04T08:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/7/87a88574-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】『りくろーおじさんのチーズケーキ』に並んでた東京人、「残り15個」の案内が出た瞬間大阪人のおじさんがした◯◯◯行為に衝撃！　大阪すげええ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10564044.html",
+      "pubDate": "2026-09-04T08:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/e/0e3aab22.gif"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ホームセンター",
+      "description": "手に持ったレザーコート1,815,000円、ニット423,500円、パンツ396,000円、レザーベルト154,000円、レザーシューズ258,500円＊すべて予定価格（以上プラダ／プラダ クライアントサービス TEL：0120-45-1913）\n\t\t\n\t\n\n\n\n\nナイロンジャケット504,900円、シャツ139,700円、パンツ191,400円、シルクスカーフ88,000円、レザーベルト69,3",
+      "link": "https://brutus.jp/post-522703/",
+      "pubDate": "Thu, 03 Sep 2026 23:00:00 +0000",
+      "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/08/99ddf9b4997e9d1f93ee87600be3fdbf.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】PS5/Switch2『FF7リベレーション』、『Fate/EXTRA Record』、Switch2『Call of Duty Modern Warfare 4』など、Amazonで予約スタート",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10564040.html",
+      "pubDate": "2026-09-04T07:30:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c76c211f.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "新作映画「SEKIRO: NO DEFEAT」、公開直前に◯◯が発生して監督ブチギレ　ミスした会社名を名指しで公開へ・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458164.html",
+      "pubDate": "2026-09-04T07:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dca23ff6.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃事実】脳外科医VTuber「下痢でお尻が荒れるのは腸液がアルカリ性だから。なので◯◯◯をケツ穴にぶち込めば大丈夫」　→　ガチだったｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10564030.html",
+      "pubDate": "2026-09-04T07:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/8/08d461c2.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "滋賀・高島、琵琶湖のほとりで一杯を。〈NOTA SHOP〉が手がけた心地よいカフェ。",
+      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
+      "link": "https://casabrutus.com/categories/food/491877",
+      "pubDate": "Thu, 03 Sep 2026 22:00:15 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "オワタ！ 先生が最後に落としていった爆弾！　四コマサボタージュFB第80回「どうやらオレは留年するらしい…」",
+      "description": "授業態度も悪くないのにふつうに留年やら赤点取って補修受けている子いたりするよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/09/04/2792901/",
+      "pubDate": "Thu, 03 Sep 2026 22:00:07 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-80.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "19歳男性が17歳女性とみだらな行為をして逮捕！これは流石に条例がおかしいと話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10563946.html",
+      "pubDate": "2026-09-04T06:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b8972e56-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ヤードで盗難車を保管した外国人、『盗まれたものと知りながら保管』したのに不起訴処分→「外人無罪法まじでやべーな」「何やったら起訴するん」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458160.html",
+      "pubDate": "2026-09-04T06:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/2/726cce7b.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -327,58 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/80a7af9b.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】『ファイナルファンタジー7 リベレーション』が2027年4月8日発売決定！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563979.html",
-      "pubDate": "2026-09-03T22:44:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/2/e2e01253-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『Until Dawn 2』（アンティルドーン2）発売が2027年1月28日に決定！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563978.html",
-      "pubDate": "2026-09-03T22:43:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e75d33e9-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "コナミ完全新作ゲーム『ラプソディ イン スカーレット』発表！1920年代のNYで魔法と獣を駆使して戦う3Dアクション！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563976.html",
-      "pubDate": "2026-09-03T22:36:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d00f45e4-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】コナミの完全新作RPG『Rev. NOiR』が2027年発売！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10563975.html",
-      "pubDate": "2026-09-03T22:32:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/739d84e0-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -535,19 +639,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【画像】店でサラダ頼んで食べてたら混入してた虫がこちら　でけえええええ！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458130.html",
-      "pubDate": "2026-09-03T18:30:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9b2ee1fe.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -561,19 +652,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/image-1024x767.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ふるさと納税の『基準厳格化』前に寄付できるのは9月30日まで！＆最大5000ポイント当たるキャンペーンは本日23:59までの終了直前！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458147.html",
-      "pubDate": "2026-09-03T18:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d6de411c.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -585,19 +663,6 @@
       "link": "https://www.buzzfeed.com/jp/yusuketsuji/mitsubishi0902",
       "pubDate": "Thu, 03 Sep 2026 04:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/02/06/subbuzz/VWE_lFgsO.jpg?crop=5730:3820;1,0&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気声優・中田譲治さん、炎上",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458133.html",
-      "pubDate": "2026-09-03T17:30:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/9/a91ae41b.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1055,19 +1120,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_7071-1024x767.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ファミマ45周年】日清コラボ「どんぎつねむすび」はただのおいなりさん疑惑。 実際に食べたら “完全体のどん兵衛” でビビった",
-      "description": "聞くところによるとファミリーマートがこの9月で創立45周年を迎えるという。一昔前はそうでもなかったが、最近のファミマは特に存在感がある！　ここ数年では「最もわくわくするコンビニ」かもしれない。 それを裏付けるかのように現 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/02/2796828/",
-      "pubDate": "Wed, 02 Sep 2026 02:00:24 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/don01.jpeg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1079,19 +1131,6 @@
       "link": "https://artscape.jp/article/77339/",
       "pubDate": "Wed, 02 Sep 2026 02:00:18 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "幸せになれるダルバート。下井草「リーシャ ダイニング」に通いつめる女が毎回注文するメニューとは",
-      "description": "行列がいつも絶えなかったりインフルエンサーが絶賛していたりといったお店は、行ってみるとやっぱりおいしいことが多い。 けれど、そこまで有名じゃないけれど、「自分にとってはピカイチ！」というお店もあるものだ。 私にとってその [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/02/2796229/",
-      "pubDate": "Wed, 02 Sep 2026 01:00:39 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/r1.jpg"
     },
     {
       "siteId": "artscape",
@@ -1302,19 +1341,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/01/00/thumb/-cy8G6WQr.jpg?crop=1943:1295;0,404&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "新定番！〈SAINT LAURENT〉のボートシューズ：Brutus Best Bets",
-      "description": "新定番がボートシューズに 2023年秋冬に登場した「ル・ローファー」の系譜に、新たにボートシューズが仲間入りした。艶やかなカーフスキンを、職人のハンドステッチによるモックトウで端正に仕立て、甲にはゴールドトーンのYSLモ [&#8230;]",
-      "link": "https://brutus.jp/post-519178/",
-      "pubDate": "Tue, 01 Sep 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1377,19 +1403,6 @@
       "description": "軽井沢駅から車で約5分。自然豊かなカラマツの森に、新たなホテル〈ESSENCE KARUIZAWA〉がオープンした。",
       "link": "https://casabrutus.com/categories/design/491519",
       "pubDate": "Mon, 31 Aug 2026 07:25:32 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "カレル・マルテンスのアートがタオルに。",
-      "description": "オランダのハウスウェアブランド〈スイート702〉から、カレル・マルテンスによるタオルコレクション《M&M コレクション》が発売。",
-      "link": "https://casabrutus.com/categories/design/490613",
-      "pubDate": "Mon, 31 Aug 2026 02:25:39 +0000",
       "thumbnail": ""
     },
     {
@@ -1601,19 +1614,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_7087-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】日本一のグルメバーガー「BRISK STAND」が「東京ミズマチ」に8月29日にグランドオープン！",
-      "description": "先日お伝えしました東京ミズマチ「shake tree Diner」跡地にOPENする「BRISK STAND」のOPENが2026年8月29日に決定しました！ 【墨田区】ミズマチの「Shake Tree Diner」が7 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/08/26/briskstand-open/",
-      "pubDate": "Tue, 25 Aug 2026 23:01:00 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/sub2-1024x738.png"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-03T20:48:53.035138",
+  "updatedAt": "2026-09-03T23:08:15.022095",
   "sites": [
     {
       "id": "hachima",
