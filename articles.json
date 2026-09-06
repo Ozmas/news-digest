@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【スゲエ】ついに今までのロボット掃除機では絶対に掃除できなかった「あそこ」まで掃除できるマシンが登場",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10564986.html",
+      "pubDate": "2026-09-07T03:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/ae88f467-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ジブリ・鈴木P「ジブリ風のAI絵はみんなすぐに飽きると思った」「宮崎駿は情報遮断してるからそもそも生成AIを知らない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565065.html",
+      "pubDate": "2026-09-07T02:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/8/a8bbbbb7.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジかよ】農村でよく見かける『野焼き』、過去5年間でクマ以上に死者を出していた・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565063.html",
+      "pubDate": "2026-09-07T01:20:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/c/3cf16dd3.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -418,19 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a3eb7c66.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【転売問題】X民「メルカリだけ手を汚さず賠償もせずひたすら儲かってて最悪」⇒ 9万いいね超え",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564926.html",
-      "pubDate": "2026-09-06T16:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/c/ec70cfad.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,32 +468,6 @@
       "link": "https://jin115.com/archives/52458338.html",
       "pubDate": "2026-09-06T16:00:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/9/d998cf4a.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "細田守監督の映画『果てしなきスカーレット』バンダイチャンネルでの再生数がまさかの〇回ｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564903.html",
-      "pubDate": "2026-09-06T15:30:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/e/ee6f6811-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "反戦論者が『ガンダムUC』バナージを反戦のアイコンにしようとして物議「お前ら見てないだろ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564912.html",
-      "pubDate": "2026-09-06T15:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/a/aa9bb2fb.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-06T16:05:22.298994",
+  "updatedAt": "2026-09-06T18:34:12.458359",
   "sites": [
     {
       "id": "hachima",
