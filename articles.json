@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "男性インフルエンサー「男性器増大の手術受けてくるわ！」 → 翌日、最悪なことになる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458354.html",
+      "pubDate": "2026-09-07T01:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c8ad8992.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ビートたけしさん、河川敷のBBQに「なんで欧米の総パクリをそのまま受け入れてしまうの？」「ルールを作って日本的なものにすればいいのに」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565062.html",
+      "pubDate": "2026-09-07T00:40:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/2/024a35ef.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【今週発売ゲーム】『東方紅魔郷：New Classic』『ハロウィン ザ・ゲーム』『制服カノジョ3』ほか、9月7～13日発売タイトルまとめ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10564435.html",
+      "pubDate": "2026-09-07T00:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/e/0ea389c1.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "NHK防災「関東・東海・東北のみなさま、今夜は“2階以上”で寝てください」→異例の呼びかけが大拡散　どうかご安全に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458377.html",
+      "pubDate": "2026-09-07T00:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/c/6c0cbf00.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "55歳無職男、お店で人気アニメフィギュアを盗む → 目撃した客が戻すようこっそり声かけ → 客に暴行し逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565058.html",
+      "pubDate": "2026-09-06T23:30:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fc04680f.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性VTuber「世界一危険なインドの寝台列車で女一人旅したらおっさんに〇〇された」 → マジで怖すぎる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458363.html",
+      "pubDate": "2026-09-06T23:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/7070603b-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "政府内で「消費税1%が終わる29年春に、中低所得者に給付金を渡す」案が浮上",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565044.html",
+      "pubDate": "2026-09-06T22:45:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/b/7b42b848.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中島美嘉（43）の食生活、ヤバすぎる　よく太らないな・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565029.html",
+      "pubDate": "2026-09-06T22:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/17c87680-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国でタクシーに乗った日本人さん、車内にあった謎のメッセージを翻訳 → ヤバイことが書かれてて11万いいねｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458350.html",
+      "pubDate": "2026-09-06T22:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/1/8101a45b-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -379,32 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/7/a79dbe25.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "闇バイト「ここが次の強盗現場や！せや！集合写真撮ろうぜ！イエーイ！」 → うち一人が別件で逮捕され写真がバレて今回の事件が発覚し、4人を逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564910.html",
-      "pubDate": "2026-09-06T14:30:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a1a11bf5.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】東京藝術大学の学園祭に「初音ミク」が降霊！？ やっぱすげえな藝大は……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564909.html",
-      "pubDate": "2026-09-06T14:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/e/5eda79d5.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -418,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cbab9e77.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アニメ『ヤニねこ』公式がマジで最低すぎる「ヤニねこあるある」動画を公開！担当声優も「文字に起こしていいやつなんか？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564904.html",
-      "pubDate": "2026-09-06T13:30:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/a/6a6a4a8a-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,32 +520,6 @@
       "link": "https://jin115.com/archives/52458326.html",
       "pubDate": "2026-09-06T13:00:56+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5c1ae860.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "役満ボディの美人雀士・岡田紗佳の熱愛発覚相手がポケモン配信者「ライバロリ」でネット民大盛り上がりｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564914.html",
-      "pubDate": "2026-09-06T13:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/4/d4861511.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "くら寿司「ちいかわコラボ中止になったんで、お詫びとして全品10％割引を実施するわ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564901.html",
-      "pubDate": "2026-09-06T12:40:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/9/69f42454.jpg"
     },
     {
       "siteId": "jin",
@@ -754,58 +806,6 @@
       "link": "https://casabrutus.com/categories/art/489838",
       "pubDate": "Sat, 05 Sep 2026 22:00:29 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【賛否両論】「やっぱり芸能界の人は漫画原作者を下に見ている」・・・とある歌手の投稿が大大大炎上中・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458320.html",
-      "pubDate": "2026-09-06T07:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/a/9a617ee7.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「ペット禁止なのに隣人が猫を5匹くらい飼い始めたらしい。可愛い」 → 3ヵ月後、とんでもないことになっていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458307.html",
-      "pubDate": "2026-09-06T05:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/698db76b-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "コンカフェにハマって借金しまくって遊びまくってたイキリ大学生さん、家にとんでもない物が届いて号泣・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458302.html",
-      "pubDate": "2026-09-06T03:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/e/0e873824-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "板野友美さん、VLOGにとんでもないシーンが映り込み大炎上　今後どちらに転んでも最悪の展開だと話題に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458316.html",
-      "pubDate": "2026-09-06T01:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/e/1e159fe0.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-06T12:45:40.842433",
+  "updatedAt": "2026-09-06T16:05:22.298994",
   "sites": [
     {
       "id": "hachima",
