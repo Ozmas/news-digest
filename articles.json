@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【物議】学校「政治的な話は禁止。○○と言ってはいけません」→さすがに変じゃないかと拡散",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458380.html",
+      "pubDate": "2026-09-07T10:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/08529c72.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【朗報】USJ、ついにポケモンエリア開業きたあああああ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565135.html",
+      "pubDate": "2026-09-07T10:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f9fd98a9-s.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ぼる塾田辺さんも絶賛した「あんこの勝ち」のANしゅーくりーむを食べてみた / 糖度の違うあんこ3種を食べ比べ",
+      "description": "スイーツ好き、とくにあんこが好きな人に知ってほしいシュークリームと出会ってしまった。 それはスイーツの女王として知られているぼる塾の田辺さんも絶賛したという「あんこの勝ち」の「ANしゅーくりーむ」。 なんと糖度が違うあん [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/07/2796037/",
+      "pubDate": "Mon, 07 Sep 2026 01:00:22 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/Photo-1-1.jpeg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【神奈川】「瀧本幹也　LUNATION 朔望―海から天体を読む」展　関連イベント",
+      "description": "神奈川・茅ヶ崎市美術館にて、9月2日から開催されている「瀧本幹也　LUNATION 朔望―海から天体を読む」展の関連イベントが行なわれます。 写真家・瀧本幹也を迎えてのアーティスト・トークをはじめ、ゲストトーク「撮ること [&#8230;]",
+      "link": "https://artscape.jp/article/77690/",
+      "pubDate": "Mon, 07 Sep 2026 01:00:02 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】『まどマギ』の鹿目まどかさん、顔がデカすぎて終わるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565131.html",
+      "pubDate": "2026-09-07T09:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/edead49e.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "悔しさを拳に込めて…福井で「越前瓦」ができる工場見学に行ってみた。最後に人生初の瓦割りに挑戦したら爽快すぎた",
+      "description": "おりゃーーー！ 重ねた瓦に精神を集中させ、拳を一気に振り下ろす。テレビでは見たことがあるが、自分で挑戦するのは初めてだ。 福井県を訪れるにあたり、工場見学マニアとして気になっていた場所がある。それが、越前瓦を製造している [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/07/2797432/",
+      "pubDate": "Mon, 07 Sep 2026 00:00:31 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/LINE_ALBUM_20260818_260902_108.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【あっ・・・】ロバート監督、大谷さんの本性をサラッと暴露",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458365.html",
+      "pubDate": "2026-09-07T09:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/31de3d2a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「くら寿司はヒロアカ等のコラボでも散々不正してたのに、ちいかわの時だけ緊急中止に発展したのはなんで？」　→　実はナガノさんが過去◯◯◯してたから説が最も有力か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565124.html",
+      "pubDate": "2026-09-07T09:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/9/69f42454.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ごく普通の日本人、銃の形したオモチャ持たせると高確率で人に向ける　→　グアムに来た新婚夫婦が最悪の末路に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565121.html",
+      "pubDate": "2026-09-07T08:30:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e0bb8207.jpg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】ライフ菊川店は改装工事の為、9月18日までお休みです。",
+      "description": "現在、ライフ菊川店が改装の為、休業中です。 リニューアルオープンは2026年9月19日（土）あさ9時30分です。 こちらの入り口入って左手にある「ポニークリーニング」は営業中。 ライフの休業中は中和小学校並びの入り口から [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/09/07/lifekikukawa-kyugyo/",
+      "pubDate": "Sun, 06 Sep 2026 23:01:47 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/IMG_7329-1024x767.jpeg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +143,19 @@
       "link": "https://rocketnews24.com/2026/09/07/2797560/",
       "pubDate": "Sun, 06 Sep 2026 23:00:50 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/chiikawash.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】出張先のホテルにて同行知人から「申し訳ないけど部屋交換できますか？」　→　軽い気持ちでOKした結果、想像以上に最高の素敵部屋すぎたｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565114.html",
+      "pubDate": "2026-09-07T08:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/aea78cda.jpg"
     },
     {
       "siteId": "brutus",
@@ -247,6 +390,19 @@
       "link": "https://rocketnews24.com/2026/09/07/2795156/",
       "pubDate": "Sun, 06 Sep 2026 22:00:08 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-81.png"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "湯切りしちゃいそう？ 「回収されてしまうウミガメ」が話題→「ちゃんと理解してるんだ」「スペースコロニーに入港する輸送船」",
+      "description": "カゴを見ただけで自然と寄ってきちゃう。賢いウミガメの子どもに13万いいねが集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/umigamekaisyu",
+      "pubDate": "Sun, 06 Sep 2026 17:31:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/04/07/thumb/X4onXpMdV.jpg?crop=1538:1025;0,618&resize=1250:830"
     },
     {
       "siteId": "hachima",
@@ -522,32 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "左翼さん「くら寿司のちいかわコラボ中止は高市が悪い」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565017.html",
-      "pubDate": "2026-09-06T20:45:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/e/5e829b2d-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "国連会議で128カ国が『殺人ロボット』規制に向けた定義文書に合意　なお反対している国は・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565004.html",
-      "pubDate": "2026-09-06T20:05:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/30acf264.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -574,19 +704,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】タイでチ◯コ増大の施術を受けたインフルエンサー、死亡　死因は・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564988.html",
-      "pubDate": "2026-09-06T19:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35325e4e.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -600,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/8/d8672de2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】ヒカキン、あの「横揺れヤリラフィーダンス」の人とコラボｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564963.html",
-      "pubDate": "2026-09-06T19:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bdfcd69b-s.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -624,19 +728,6 @@
       "link": "https://brutus.jp/post-523763/",
       "pubDate": "Sun, 06 Sep 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "平原綾香さん「ちいかわミュージカルやりませんか？」と東宝プロデューサーに相談　→大炎上",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10564962.html",
-      "pubDate": "2026-09-06T18:40:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/056131a1.jpg"
     },
     {
       "siteId": "jin",
@@ -827,24 +918,24 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "サモエドの「スーパーぽんぽん見て見てタイム」が反則級のかわいらしさ→「めっちゃ吸いたい」「もふもふしたい」",
+      "description": "全身が白くてもふもふな毛で覆われていることで知られる大型犬・サモエド。そんなサモエドが見せてくれた、「スーパーぽんぽん見て見てタイム」がかわいいとSNSで話題になっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/kahorimachida/ponpon20260904",
+      "pubDate": "Sat, 05 Sep 2026 22:46:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/04/08/subbuzz/ueT_7bybh.jpg?crop=3072:2048;0,1105&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "北海道で発見された恐竜は新種だった。ニッポノペルタの公式復元画がカッコいい",
       "description": "北海道夕張市で発見された新種のヨロイ竜「ニッポノペルタ・エゾエンシス」。名前には「北海道で見つかった日本の盾」という意味が込められています。論文には、服部雅人さんが手がけた復元画も掲載。そのカッコいい姿にも注目です。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/yuisasaki/nipponoperuta",
       "pubDate": "Sat, 05 Sep 2026 22:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/04/04/subbuzz/DXMtK4y7g.jpg?crop=3297:2198;0,0&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "新聞記者「中国の人によく『悪いのは日本の右翼。普通の市民とは仲良く共に歩みたい。悪いのは軍国化する政治だよ』って言われるの！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458330.html",
-      "pubDate": "2026-09-06T11:30:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90e50c12.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -858,19 +949,6 @@
       "link": "https://casabrutus.com/categories/design/491852",
       "pubDate": "Sun, 06 Sep 2026 02:25:56 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ホリプロタレントがニコ生デビュー→とんでもない洗礼を受けてしまうｗｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458327.html",
-      "pubDate": "2026-09-06T11:01:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/8/48da3ad2.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1133,19 +1211,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_3959.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "13年間ずっと33歳だったXのアイコンを、47歳の自分に変えてみた",
-      "description": "まあ、このままでもいいのかなと思いつつ、ちょっと前からXのアイコンを変更したいなぁと思っていた。だって、めちゃめちゃ古い写真なんだもん。 私がX（Twitter）に登録したのは、2013年の2月らしい。そして、その時から [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/05/2798574/",
-      "pubDate": "Sat, 05 Sep 2026 00:00:39 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/BF.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1157,19 +1222,6 @@
       "link": "https://sumida.goguynet.jp/2026/09/05/adomachi202609/",
       "pubDate": "Fri, 04 Sep 2026 23:01:05 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2019/07/9f894cd49a1ac04d832035d4bb4cf022_s.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "何用だ、若造！ 娘を尋ねてきた男子に大警戒の父！　隣りの席の子の様子がおかしい第57回「お迎え」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/09/05/2793303/",
-      "pubDate": "Fri, 04 Sep 2026 23:00:09 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/tonari57-1koma.png"
     },
     {
       "siteId": "casabrutus",
@@ -1497,19 +1549,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_7162-1024x767.jpeg"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "artscape編集部｜カタログ＆ブックス｜2026年8月［近刊編］",
-      "description": "展覧会カタログ、アートやデザインにまつわる近刊書籍をアートスケープ編集部が紹介します。 メディア行為論──アテンションと身ぶりはいかに把捉（ハック）されるのか？ 著者：西兼志 発行：東京大学出版会 発行日：2026年07 [&#8230;]",
-      "link": "https://artscape.jp/article/75982/",
-      "pubDate": "Mon, 31 Aug 2026 02:00:53 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1542,19 +1581,6 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "小3の模擬ビジネスが「いい経験」と話題⇒「食育にも生かせる」「夏休みの自由研究に良さそう」",
-      "description": "夏休み、小3の息子が育てたオクラには、ただ食べるためだけじゃない、たくさんの思いが詰まっていました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/okura-mogibusiness",
-      "pubDate": "Sat, 29 Aug 2026 22:31:04 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/28/07/thumb/PAkhLOU-y.jpg?crop=2048:1365;0,358&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "「だんだん好きになる…」ウサギと飼い主の“催眠術”にメロメロになる人が続出⇒「やはり時代はウサギ」「す、好きです」",
       "description": "カメラにお顔を向けたウサギさんのお耳がぴょこぴょこと動いて……ずっと見ていたくなる、とってもかわいい動画がSNSに投稿されました。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/kahorimachida/moca20260825",
@@ -1573,32 +1599,6 @@
       "link": "https://sumida.goguynet.jp/2026/08/30/heatupmeetup2/",
       "pubDate": "Sat, 29 Aug 2026 23:01:23 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_7151-1024x767.jpeg"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "ビートを刻んできた犬vs.プロカリンバ奏者、最高すぎるセッションに「ロングバージョン希望」「一生見ていられる」",
-      "description": "突如ビートを刻んできたワンちゃんに対し、プロカリンバ奏者が果敢に挑む様子を収めた動画がSNSに投稿されました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/kahorimachida/beat20260827",
-      "pubDate": "Fri, 28 Aug 2026 22:31:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/28/05/subbuzz/piTj9Y-xl.jpg?crop=610:407;0,144&resize=1250:830"
-    },
-    {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】「新潟雪国ラーメンなおじ 錦糸町店」8月29日OPEN！",
-      "description": "錦糸町南口、マルイの南側馬車通り沿いのラーメン店「麺屋三郎」。 このところずっと営業していないなぁ、と2026年7月頃から気にしていたのですが、新しいお店の告知が掲示されているのに気が付きました。 こちらには「新潟雪国ラ [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/08/29/naojikinshicho/",
-      "pubDate": "Fri, 28 Aug 2026 23:01:29 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/73043BF3-68A8-48A7-881B-D56F003A5702-1024x767.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-06T23:01:43.749696",
+  "updatedAt": "2026-09-07T01:14:49.070681",
   "sites": [
     {
       "id": "hachima",
