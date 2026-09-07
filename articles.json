@@ -2,6 +2,162 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【闇】リスナー「ホロライブの人たちは本名呼ばないように対策とかしてる？」→ホロライブVTuberの回答がコチラｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565209.html",
+      "pubDate": "2026-09-08T03:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b1845680-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「ヒカキンの動画で久々に腹抱えて笑った」→とんでもない内容で16万いいねｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458427.html",
+      "pubDate": "2026-09-08T03:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/eb4bb81e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "世界的ギタリストさん、神社でダンス動画を撮影する迷惑外国人に注意喚起「どうかやめてください。自国全体に極めて恥ずかしい印象を残しています」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565335.html",
+      "pubDate": "2026-09-08T02:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5a5e6ffa.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『モンハンワイルズ』プレイヤー数が爆増中！『アセンダンス』に備えて購入・再開したユーザーが多い模様",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565329.html",
+      "pubDate": "2026-09-08T01:25:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ffcaf7cc.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「飛行機で隣の人がPCしてる！何見てるか見ちゃおっとｗ」 → ヤバすぎるものが映ってて人生終了する・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458422.html",
+      "pubDate": "2026-09-08T01:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/7767c871-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【恐怖】札幌の公園トイレ54箇所で蛍光灯が無断でLEDに交換されていたことが判明…誰が何のためにやったのかは不明",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565325.html",
+      "pubDate": "2026-09-08T00:40:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/2/2201516d.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "元モー娘。の小川麻琴さん、結婚＆出産＆離婚していたことを報告「10歳の息子がいます」「公表しないことを選び、そのまま時間が経ってしまった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565322.html",
+      "pubDate": "2026-09-08T00:05:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/de949f18.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "パパ活女子「毎月パパから50万円貰ってるｗ現金手渡しだから確定申告しなくてもバレないからｗ」 → 数年後、とんでもないことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458419.html",
+      "pubDate": "2026-09-08T00:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5ce21ba5-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "くら寿司さん、なぜか企業理念である『食の戦前回帰』ページを削除してしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565316.html",
+      "pubDate": "2026-09-07T23:30:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bf64afe8.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ホロライブ・戌神ころねさん、卒業説が浮上・・・XとYouTubeから「ホロライブ所属」の文字が同時に消える",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458424.html",
+      "pubDate": "2026-09-07T23:04:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d7d0942d.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ヤバすぎ】採用面接で不採用にした人物をトクリュウに紹介したとして建設会社代表らが再逮捕！「海外で稼げるテレアポの仕事を紹介できる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565303.html",
+      "pubDate": "2026-09-07T22:40:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/2/2225024b.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "某ガチャガチャショップの店員さん、「不人気キャラが7連続で出ておかしい」と客に言われ一緒に中身をチェック → ヤバすぎる物を見つけて絶句・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458412.html",
+      "pubDate": "2026-09-07T22:30:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bd6c8475-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -392,45 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/7347eaaa.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】男「結婚するならこんな感じの地味女がいいよ」⇒ 女性からツッコミの嵐にｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565183.html",
-      "pubDate": "2026-09-07T16:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/2/12b96ff7.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】最新作『鬼武者 Way of the Sword』にちょっとエッチでプルンプルンな敵がいると話題にｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565184.html",
-      "pubDate": "2026-09-07T15:30:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/beb40fd1-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「今の公立学校は政治的な話は禁止だから◯◯反対と言っちゃダメらしい」⇒ 物議に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565181.html",
-      "pubDate": "2026-09-07T15:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68cdc84f.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -457,32 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/7/37969a3b-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】くら寿司のちいかわ中止詫び10％割引キャンペーン、客からの申告制との報告多数",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565178.html",
-      "pubDate": "2026-09-07T14:30:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/8/88c0db34-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ミスタードーナツが9月30日より値上げ　ポン・デ・リングなど31品目が対象",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565172.html",
-      "pubDate": "2026-09-07T14:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/dedc3b8d-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -494,32 +585,6 @@
       "link": "https://rocketnews24.com/2026/09/07/2799194/",
       "pubDate": "Mon, 07 Sep 2026 05:00:02 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/2704-2.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【世論調査】高市内閣の支持率、また上昇　なお食料品減税の評価は・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565169.html",
-      "pubDate": "2026-09-07T13:40:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/5/a5d82594-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバい】有名ロシア人インフルエンサー「ロシア見る度にヤバみが増してて◯◯できなくなった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565157.html",
-      "pubDate": "2026-09-07T13:20:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8e5fd567.jpg"
     },
     {
       "siteId": "jin",
@@ -652,19 +717,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【物議】学校「政治的な話は禁止。○○と言ってはいけません」→さすがに変じゃないかと拡散",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458380.html",
-      "pubDate": "2026-09-07T10:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/08529c72.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -702,19 +754,6 @@
       "link": "https://rocketnews24.com/2026/09/07/2797432/",
       "pubDate": "Mon, 07 Sep 2026 00:00:31 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/LINE_ALBUM_20260818_260902_108.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【あっ・・・】ロバート監督、大谷さんの本性をサラッと暴露",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458365.html",
-      "pubDate": "2026-09-07T09:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/31de3d2a.jpg"
     },
     {
       "siteId": "sumida",
@@ -925,19 +964,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】産経新聞、中道改革連合を煽り散らかす記事を掲載ｗｗｗｗｗｗ「俺たちの戦いはこれからだ！」ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458379.html",
-      "pubDate": "2026-09-07T07:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/a/6a736fed.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -962,32 +988,6 @@
       "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/umigamekaisyu",
       "pubDate": "Sun, 06 Sep 2026 17:31:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/04/07/thumb/X4onXpMdV.jpg?crop=1538:1025;0,618&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "トー横キッズに「将来なりたい職業」を質問 → キッズ達の将来の夢がヤバすぎるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458352.html",
-      "pubDate": "2026-09-07T04:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/82b505c7-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男性インフルエンサー「男性器増大の手術受けてくるわ！」 → 翌日、最悪なことになる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458354.html",
-      "pubDate": "2026-09-07T01:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c8ad8992.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-07T13:24:16.261811",
+  "updatedAt": "2026-09-07T18:20:37.908112",
   "sites": [
     {
       "id": "hachima",
