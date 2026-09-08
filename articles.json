@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】太平4丁目交差点近く「蕎麦 旨酒 一ゆう」が閉店…。",
+      "description": "錦糸町駅北口、四ツ目通りをスカイツリー方面へ。太平4丁目の交差点近くにある蕎麦店「一ゆう」 蕎麦はもちろんの事、ランチセットの親子丼、カツ丼セットが大人気。そして麻辣つけそばや坦々つけそばなど、ここでしか食べられない美味 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/09/09/ichiyu-close/",
+      "pubDate": "Tue, 08 Sep 2026 23:01:33 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/IMG_7184-1024x767.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】主婦「学生ぶりにプリクラ撮るか！…えっ」　→　17年越しに信じられない事実が発覚して震える…うわああああ((((( ；ﾟДﾟ)))",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565632.html",
+      "pubDate": "2026-09-09T08:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8eaae1df.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "学生の頃以来17年ぶりにプリクラを撮った女性、とんでもない事実に気付いて震えるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458489.html",
+      "pubDate": "2026-09-09T08:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/c/fc1256ef.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【100均検証】スリコの『追尾スマホホルダー（3300円）』を試したら、想像以上に追いかけてきてビビった！",
+      "description": "そういえば、300円ショップ「3COINS（スリーコインズ）」、通称スリコに気になる商品が売られていた。 その名も『追尾スマホホルダー（TRACKING HOLDER FOR SMART PHONE）』。要するに、自動で [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/09/2800040/",
+      "pubDate": "Tue, 08 Sep 2026 23:00:21 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/2041b75b-2bfe-47f2-975d-c47e41095d07_1920.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【放送事故】ホロライブ・博衣こよりさん、『空の軌跡 the 1st』配信プレイ中に、えちち過ぎるバグに遭遇してしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565630.html",
+      "pubDate": "2026-09-09T07:30:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/50a395e7.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "長野の森とともに生きる。アートディレクター・藤村雅史による、森の中のコーヒーショップ。",
+      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
+      "link": "https://casabrutus.com/categories/food/490957",
+      "pubDate": "Tue, 08 Sep 2026 22:00:54 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "色とかは問題じゃない！ コンプレックスに悩む男子生徒！　四コマサボタージュFB第83回「違う」",
+      "description": "散髪屋さんってゴルゴ・こち亀・美味しんぼ・北斗の拳なんかが置いてある所が多い気がするのだけど、なんであのラインナップなんだろうね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/09/09/2795158/",
+      "pubDate": "Tue, 08 Sep 2026 22:00:45 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/1koma-83.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】有名地雷系女子「地雷メイクやめて、カラコン変えて前髪薄くした」　→　メイク前後の写真が完全に別人で美人すぎるとネット中騒然ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10565627.html",
+      "pubDate": "2026-09-09T07:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/ed401e4c-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "元プロ野球選手、肝臓がんが再発して闘病の末に亡くなる→2ヶ月後、凄いことになっていたｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458488.html",
+      "pubDate": "2026-09-09T07:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/800f3aaf.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -483,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/82eda79c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【予約開始】『カリアのアトリエ』2027年2月25日発売決定！！新PVも公開、メインビジュアルかっけええええ！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565533.html",
-      "pubDate": "2026-09-08T19:30:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/dd9b2f46.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +611,6 @@
       "link": "https://jin115.com/archives/52458469.html",
       "pubDate": "2026-09-08T19:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/1/917773ce.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "生活保護受給者、メルカリで邪悪なライフハック「ポイントだけ売り買いすれば、役所にバレることなく買い物できる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565521.html",
-      "pubDate": "2026-09-08T19:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/44991167.jpg"
     },
     {
       "siteId": "brutus",
@@ -535,32 +626,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【！？】六本木に「大人が赤子に還る」というとんでもないサウナが爆誕！ → 「ホラー」「悪趣味」「笑ゥせぇるすまんに出てきそう」など話題に…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10565516.html",
-      "pubDate": "2026-09-08T18:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/ebd6f8e1-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "愛知・岐阜・三重で線状降水帯が発生！現地の映像がやばい・・・警戒レベル4で避難指示が発令された地域も",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458466.html",
-      "pubDate": "2026-09-08T18:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/7/072e8c00.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -572,19 +637,6 @@
       "link": "https://rocketnews24.com/2026/09/08/2799819/",
       "pubDate": "Tue, 08 Sep 2026 08:00:42 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/sinkyu.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "Suicaペンギンに代わる、後継キャラクターの3候補のデザインが公開！ネット投票で決定するぞ！→ガチでやばいことになってるかもしれない・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458465.html",
-      "pubDate": "2026-09-08T17:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/1760529d.jpg"
     },
     {
       "siteId": "brutus",
@@ -1029,19 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ぼる塾田辺さんも絶賛した「あんこの勝ち」のANしゅーくりーむを食べてみた / 糖度の違うあんこ3種を食べ比べ",
-      "description": "スイーツ好き、とくにあんこが好きな人に知ってほしいシュークリームと出会ってしまった。 それはスイーツの女王として知られているぼる塾の田辺さんも絶賛したという「あんこの勝ち」の「ANしゅーくりーむ」。 なんと糖度が違うあん [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/07/2796037/",
-      "pubDate": "Mon, 07 Sep 2026 01:00:22 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/Photo-1-1.jpeg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1053,19 +1092,6 @@
       "link": "https://artscape.jp/article/77690/",
       "pubDate": "Mon, 07 Sep 2026 01:00:02 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "悔しさを拳に込めて…福井で「越前瓦」ができる工場見学に行ってみた。最後に人生初の瓦割りに挑戦したら爽快すぎた",
-      "description": "おりゃーーー！ 重ねた瓦に精神を集中させ、拳を一気に振り下ろす。テレビでは見たことがあるが、自分で挑戦するのは初めてだ。 福井県を訪れるにあたり、工場見学マニアとして気になっていた場所がある。それが、越前瓦を製造している [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/07/2797432/",
-      "pubDate": "Mon, 07 Sep 2026 00:00:31 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/LINE_ALBUM_20260818_260902_108.jpg"
     },
     {
       "siteId": "sumida",
@@ -1432,19 +1458,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "呉服店の宣伝？ 看板や暖簾が大きく描かれた絵の秘密とは【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/489674",
-      "pubDate": "Fri, 04 Sep 2026 22:00:10 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1575,19 +1588,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_7162-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】石原3丁目の「珍々亭」が37年の歴史に幕を下ろしました。",
-      "description": "石原3丁目、蔵前橋通り沿い。長い間地元の方に愛されてきたらーめん、餃子「珍々亭」 ラーメン、餃子、チャーハンの王道メニューから、家族皆で訪れた時は色々な一品料理を楽しんだり、と地元の皆様には欠かせないお店です。 そんな珍 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/08/31/chinchintei-close/",
-      "pubDate": "Sun, 30 Aug 2026 23:01:01 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_7047-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-08T21:20:14.061105",
+  "updatedAt": "2026-09-08T23:34:51.582269",
   "sites": [
     {
       "id": "hachima",
