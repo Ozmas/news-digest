@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "社民党・福島みずほさん、レタスチャーハンを作るだけで万バズｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10566953.html",
+      "pubDate": "2026-09-13T04:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/42ce6dc6-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】ハクスラARPG『ディアブロ5』発表！！2029年春リリース予定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10566987.html",
+      "pubDate": "2026-09-13T03:30:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/8/38c20313.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】名作RTS『スタークラフト』シリーズ、復活ッ！！オープンワールドシューターとして　リリース時期は2030年",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10566986.html",
+      "pubDate": "2026-09-13T03:10:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/5/65260be5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『スレイヤーズ』イラストレーター・あらいずみるい氏のAI疑惑が再燃。3年前は鎮火したものの今見ると……？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10566905.html",
+      "pubDate": "2026-09-13T03:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75d83ef6-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「ATMのこの挟むやつに指挟んだらどうなるんやろ？気になるからやってみるわ」 → 結果ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458740.html",
+      "pubDate": "2026-09-13T03:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/5/35b7612f-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -444,32 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/8/b82422d5.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】SCP財団の本家、映画化発表に声明！「映画関係者に連絡とってるけど返事がない。ライセンス制度で映画をYouTubeに無断転載できる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10566830.html",
-      "pubDate": "2026-09-12T18:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/1/e1b02309.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "小島秀夫監督、『PHYSINT』騒動でDECIMAエンジンを使えなくなる可能性が浮上！？『デススト2』他機種版にも影響するのではないかと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10566775.html",
-      "pubDate": "2026-09-12T17:30:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/7/77750d2a.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -496,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/250d7f52.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【炎上】レベルファイブ日野社長、新作発表会の生成AIを謝罪！「プレゼンを派手にしたかった」「AI効率化で開発期間を5年→2年に短縮する計画」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10566758.html",
-      "pubDate": "2026-09-12T17:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2bb19f87.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -520,19 +546,6 @@
       "link": "https://brutus.jp/post-523231/",
       "pubDate": "Sat, 12 Sep 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "転売ヤー「こちらも相当努力している」「株も不動産も転売。この行為が悪なら何も売れなくなる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10566755.html",
-      "pubDate": "2026-09-12T16:30:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/5/d5ac8150.png"
     },
     {
       "siteId": "casabrutus",
@@ -624,19 +637,6 @@
       "link": "https://jin115.com/archives/52458699.html",
       "pubDate": "2026-09-12T13:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/6/06eca969-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "透析生活で生活保護を申請したガーナ人、最高裁で敗訴するも・・・裁判長「今回は多数決で負けたけど保護の否定は著しく人道に反する！無効だ！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458697.html",
-      "pubDate": "2026-09-12T12:40:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f87baa82.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-12T17:22:55.536328",
+  "updatedAt": "2026-09-12T19:35:08.778376",
   "sites": [
     {
       "id": "hachima",
