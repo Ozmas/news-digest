@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「自販機でコーラ飲もっと」ﾎﾟﾁｯ → 怖すぎる物が出てきてネット民が絶句・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458796.html",
+      "pubDate": "2026-09-14T03:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/1/81adb967-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【沖縄県知事選】共産・田村氏「高市政権の異常な介入で誹謗中傷、デマという卑劣な攻撃が行われた」「辺野古移設の民意は示されていない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567205.html",
+      "pubDate": "2026-09-14T02:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0d59a78.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "玉城デニーさん「変なSNSのせいで負けた」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458812.html",
+      "pubDate": "2026-09-14T02:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/690764fb.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "30代・資産1億の男性が結婚相談所に行った結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458787.html",
+      "pubDate": "2026-09-14T01:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/36a03362.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "AI大手アンソロピックCEO「このままAI開発が進めば、6～12ヶ月後にはインターネット全体を乗っ取る能力をもつ可能性がある」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567202.html",
+      "pubDate": "2026-09-14T01:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/9/5999a962.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】はじめしゃちょー「育児に参加できず負担をかけた妻に高級レストランをご馳走！」 →とある人々の逆鱗に触れて叩かれまくる",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567174.html",
+      "pubDate": "2026-09-14T00:30:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/5/f56d6394.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【今週発売ゲーム】『ウルヴァリン』『FE万紫千紅』『空の軌跡2nd』ほか、9月14～20日発売タイトルまとめ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10566636.html",
+      "pubDate": "2026-09-14T00:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/a/6a65d003.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ヒカキンさん、〇〇の初期症状疑惑で医者へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458802.html",
+      "pubDate": "2026-09-14T00:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/2/124407c8.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -431,45 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/5/c5ea3a7c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民さん「『iPhone Duo』(36万円)欲しい！！妻に買っていいか聞くか」→奥さんに正論パンチで否決されてしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567077.html",
-      "pubDate": "2026-09-13T16:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/374b101b-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ショートスリーパー】1日30分睡眠で1週間ライブ配信の堀大輔さんの4日目、マジで辛そうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567073.html",
-      "pubDate": "2026-09-13T15:30:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fb16a209.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ヒカキンの「ONICHA」がついに国産大麦使用にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567058.html",
-      "pubDate": "2026-09-13T15:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/29f00bdb-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +559,6 @@
       "link": "https://rocketnews24.com/2026/09/13/2800818/",
       "pubDate": "Sun, 13 Sep 2026 06:00:37 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/20eecd41-0f0d-4394-8967-a66e80317b2d_1920.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "Tシャツにサンダルだけの姿で自宅から出てきた無職男性（55）、警察官に見つかり逮捕される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567054.html",
-      "pubDate": "2026-09-13T14:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/17f6074d.jpg"
     },
     {
       "siteId": "jin",
@@ -626,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0c8c07ed.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【ヤバすぎ】連続強姦で懲役18年だった男、出所後不同意わいせつ未遂で逮捕",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458759.html",
-      "pubDate": "2026-09-13T11:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/0/c0ea2a66.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -650,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/09/13/2798527/",
       "pubDate": "Sun, 13 Sep 2026 02:00:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_8794.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "先月の千葉豪雨、○○万年に1度の大雨だった",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458760.html",
-      "pubDate": "2026-09-13T10:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/2/727a852e-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -678,19 +704,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_4492.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男性(44)「5000万円貯まったから仕事やめるわ！自由だああああ！」 → 5年後、とんでもないことになっていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458744.html",
-      "pubDate": "2026-09-13T10:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/80eba2c3.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -702,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/09/13/2797092/",
       "pubDate": "Sun, 13 Sep 2026 00:00:44 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/VIVANT-19.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【使途不明金】『赤い羽根募金』、募金を断られはじめる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458752.html",
-      "pubDate": "2026-09-13T09:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/8412e1a4.png"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-13T14:51:51.240359",
+  "updatedAt": "2026-09-13T18:01:08.202714",
   "sites": [
     {
       "id": "hachima",
