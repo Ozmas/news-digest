@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】ニンダイで発表されたカービィ新作が『フィットボクシング 刀剣乱舞』に負けてしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567172.html",
+      "pubDate": "2026-09-14T06:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fd47a1a0-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】日本、マンジャロの聖地になる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458799.html",
+      "pubDate": "2026-09-14T06:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/8/483b52fe.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "面接ほぼ全勝してる就活生が語る、「最強の面接方法」が話題に！天才だろこれｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458804.html",
+      "pubDate": "2026-09-14T05:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/5608f4fd-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「ジャンプ＋」連載作品は面白いのに単行本の売れ行きが悪いらしい……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567171.html",
+      "pubDate": "2026-09-14T05:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/ac0dabc9.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "皆口裕子に声が似すぎてるVTuberによる『テイルズオブエターニア』実況が「脳がバグる」と話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567165.html",
+      "pubDate": "2026-09-14T04:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b11c9146-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『デジモン BEATBREAK』に超絶ドスケベデジモンが登場して話題にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567152.html",
+      "pubDate": "2026-09-14T03:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6a4576e.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -405,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/9183d75a.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "週刊少年ジャンプ『ドラゴンボール』新連載掲載号のオークション落札価格ｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567122.html",
-      "pubDate": "2026-09-13T18:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/c/ec968295.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -429,32 +494,6 @@
       "link": "https://jin115.com/archives/52458753.html",
       "pubDate": "2026-09-13T18:00:22+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/f/cfc0289a.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "太陽光施設から13トン(5500万円相当)の銅線ケーブルを盗んだベトナム国籍の男2人逮捕　犯罪グループ「トクリュウ」か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567120.html",
-      "pubDate": "2026-09-13T17:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/ccd2abb1-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】来場者全員ちょろそうなAIセミナーが話題に「情報商材そっくり」との指摘相次ぐ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567089.html",
-      "pubDate": "2026-09-13T17:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9f03630f.png"
     },
     {
       "siteId": "rocketnews",
@@ -494,19 +533,6 @@
       "link": "https://brutus.jp/post-523235/",
       "pubDate": "Sun, 13 Sep 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "コメが無いと騒いで稼ぎまくった米卸売業者さん達「誰も得をしていない」「国は税金で俺たちのコメの在庫をなんとかしろ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567083.html",
-      "pubDate": "2026-09-13T16:30:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/8/a8659be1-s.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -639,19 +665,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_2925.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「アマゾンにスイッチ2が3万で売ってるから買ってみるわ！」→ページをよく見てみると・・・うわあああああああ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458738.html",
-      "pubDate": "2026-09-13T11:40:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -663,19 +676,6 @@
       "link": "https://casabrutus.com/categories/fashion/491834",
       "pubDate": "Sun, 13 Sep 2026 02:25:40 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】『NARUTO』 『トリコ』 『遊☆戯☆王』など、懐かしの2000年代作品が「全巻50％ポイント還元」！！週末限定の激安セールは今日まで！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458762.html",
-      "pubDate": "2026-09-13T11:20:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0c8c07ed.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-13T18:01:08.202714",
+  "updatedAt": "2026-09-13T21:03:24.326549",
   "sites": [
     {
       "id": "hachima",
