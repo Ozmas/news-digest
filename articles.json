@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "『VIVANT』で話題の岐阜県庁へ！ ロケ地紹介だけじゃない「見せ方」が上手い / 無料の展望ロビーもオシャレ！",
+      "description": "現在放送中のTBS系日曜劇場『VIVANT』。 そのロケ地として、岐阜県内のさまざまな場所が使われている。 そのひとつが、岐阜県庁。岐阜出身の筆者にとっては帰省時に結構訪れる身近な場所なのだが、まさかドラマの海外シーンと [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/13/2797092/",
+      "pubDate": "Sun, 13 Sep 2026 00:00:44 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/VIVANT-19.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "へずまりゅう議員「居眠りガー！」 柿本元気議員「お前もやろ！ほれ、動画」 へずまりゅう「下向いてただけ！」 Xで非難合戦に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567010.html",
+      "pubDate": "2026-09-13T09:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/e/0ea67bd7-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【使途不明金】『赤い羽根募金』、募金を断られはじめる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458752.html",
+      "pubDate": "2026-09-13T09:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/8412e1a4.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "無職男性（30）「元同僚の女性が好きだなぁ」 → 告白せずストーカー行為で逮捕 → しばらくして怨恨の感情を持ち、◯すつもりで斧や牛刀を準備したとして書類送検される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567009.html",
+      "pubDate": "2026-09-13T08:30:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d9356fb4-s.jpg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】緑2丁目、唐揚げ専門「やまだ商店両国店」が休業中。再開は？",
+      "description": "いつも号外NET墨田区をご覧いただきましてありがとうございます。今回も読者さまからの情報提供をもとにお伝えします。 現在、緑2丁目の唐揚げ専門店「やまだ商店」が改装工事の為、休業中です。 View this post o [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/09/13/yamadasyoten-kyugyo/",
+      "pubDate": "Sat, 12 Sep 2026 23:01:58 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/IMG_7145-1024x767.jpeg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "つまりそれって…！ ついに気付いた隣りの男子！　隣りの席の子の様子がおかしい第60回「続・無自覚」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/09/13/2795595/",
+      "pubDate": "Sat, 12 Sep 2026 23:00:43 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/tonari60-1koma.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ホロライブ・戌神ころねさん、Xでプロフからホロライブ所属が消えていると話題になり、卒業かと噂されてしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567003.html",
+      "pubDate": "2026-09-13T08:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/6/86f54574.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "漫画アプリ『ジャンプラ』の作品の単行本、マジで全然売れてないらしい・・・こんな面白いのにどうして・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458731.html",
+      "pubDate": "2026-09-13T08:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/9320a461.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "コーネリアスがゲストを迎え、少しだけ賑やかな3年ぶりの新作を発表",
+      "description": "コーネリアスが体現した音楽家とテクノロジーが共生する未来 2001年の『POINT』以降、最新デジタルツールを取り入れた、緻密なレコーディング方法に加え、複数のプロジェクトへの参加もあり、10年にアルバム1枚という間隔が [&#8230;]",
+      "link": "https://brutus.jp/post-523749/",
+      "pubDate": "Sat, 12 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "被害女性「知らない人が押入れに入っていたんです！逃げたけど…」 犯人「あ、自転車取りに戻ってきました」 → 逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567007.html",
+      "pubDate": "2026-09-13T07:30:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/3/638773e3.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -13,6 +143,19 @@
       "link": "https://jin115.com/archives/52458751.html",
       "pubDate": "2026-09-13T07:00:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/5/854889b7.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "2本の柱が画面を切り取る、江戸のウォーターフロント。【今日の名所江戸百景 by 村上隆】",
+      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
+      "link": "https://casabrutus.com/categories/art/489855",
+      "pubDate": "Sat, 12 Sep 2026 22:00:09 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -353,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/7/f70a0d92.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "議員の居眠りを動画撮影し晒していたへずまりゅう、自身も居眠りしていた事が判明「税金の無駄なので辞職されて下さい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10566937.html",
-      "pubDate": "2026-09-12T21:30:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/5/f5b560f3.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -377,19 +507,6 @@
       "link": "https://jin115.com/archives/52458710.html",
       "pubDate": "2026-09-12T21:00:37+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/e/6ee01d35-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバい】全日本実業団陸上の会場で集団食中毒の疑い、23人が搬送！配布された弁当が原因か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10566931.html",
-      "pubDate": "2026-09-12T21:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7c335cdb.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -418,19 +535,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】NVIDIAのグラボ『GeForce RTX 5090』日本でついに100万超え…AIのせいでPCゲーマー完全に終わる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10566924.html",
-      "pubDate": "2026-09-12T20:35:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/eae6badc.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +546,6 @@
       "link": "https://jin115.com/archives/52458729.html",
       "pubDate": "2026-09-12T20:30:32+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/3/e37a6fb8.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "結婚相手に求める条件は？ → 男性「共通の趣味」女性「経済力！学歴！容姿！家事！育児！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10566922.html",
-      "pubDate": "2026-09-12T20:05:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/b/4b249763.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -600,19 +691,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "全国展開しているあのラーメン屋、とんでもない行列を作りネット民困惑「並んでまで食うものではない」「AIじゃないの？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458716.html",
-      "pubDate": "2026-09-12T16:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0cf9fff9-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -624,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/09/12/2800801/",
       "pubDate": "Sat, 12 Sep 2026 06:00:59 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/2e332a8d-b135-46c9-897d-84c14b655c59_1920.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【！？】埼玉県、ガチでヤバい事に・・・”在留資格がない”事を理由に免許証の更新を断られた外国人13人が埼玉県を提訴",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458703.html",
-      "pubDate": "2026-09-12T15:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/0/40bba541.jpg"
     },
     {
       "siteId": "brutus",
@@ -1120,19 +1185,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/icesnowsalt12.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "米研ぎに使うだけでお米がおいしくなるらしい「おこめポーチ」を使ってみた → お米ラバーにオススメしたい",
-      "description": "毎日食べる白いご飯は、少しでも美味しく炊きたい。そんな食いしんぼう精神から、毎日土鍋でご飯を炊いている私。 ある日Amazonで「特許技術で理想的なお米の研ぎ方を再現し、一粒一粒お米本来の力を最大限に引き出す」という魔法 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/11/2798124/",
-      "pubDate": "Fri, 11 Sep 2026 00:00:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_9053.jpeg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1144,19 +1196,6 @@
       "link": "https://sumida.goguynet.jp/2026/09/11/sakananofukusuke-kyugyo/",
       "pubDate": "Thu, 10 Sep 2026 23:01:01 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/08/IMG_7169-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "2年半かけて作る「週刊アシェットスヌーピー」第3号 / 読者おすすめの接着剤『タミヤセメント』を投入してみた結果",
-      "description": "ピーナッツ！　アシェット『ピーナッツ ミニチュアタウン』全120号の完成を目指して始まった本連載「週刊アシェットスヌーピー」。 現在2号まで組み立て済みだが、細かいパーツの接着作業がなかなか厄介だな……と思っていたところ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/11/2800781/",
-      "pubDate": "Thu, 10 Sep 2026 23:00:33 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/collage.jpg"
     },
     {
       "siteId": "brutus",
@@ -1341,19 +1380,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "建物の中に街を作る。デザイナー・柳原照弘が内装を手がけた神戸のカフェ空間とは？",
-      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
-      "link": "https://casabrutus.com/categories/food/491893",
-      "pubDate": "Wed, 09 Sep 2026 22:00:25 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1403,19 +1429,6 @@
       "description": "開催概要編 アーティスト・作品編 パート3 パート4 パート5 パート6",
       "link": "https://brutus.jp/post-522666/",
       "pubDate": "Wed, 09 Sep 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "『前橋国際芸術祭2026』を知ろう！楽しもう！～アーティスト・作品編～",
-      "description": "前橋の街ごと楽しむアートプロジェクト10選 2年に1度、ビエンナーレ形式の芸術祭として始まる『前橋国際芸術祭2026』。世界各国から約70組のアーティストを招聘して行われることもあり、展開される作品はジャンルもスタイルも [&#8230;]",
-      "link": "https://brutus.jp/post-523092/",
-      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1588,19 +1601,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/IMG_7194-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】7日ごろまで大雨が続く可能性。あなたの家の浸水リスク、知っていますか？",
-      "description": "台風24号と秋雨前線の影響で、各地で雨が強まっています。 今回の台風は動きが遅く、雨の影響が長引く可能性があります。これからの雨の降り方が気になるところです。 7日ごろまで大雨が続く可能性も 【週明けにかけて前線や台風の [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/09/03/mamorioh-heavyrain/",
-      "pubDate": "Thu, 03 Sep 2026 09:01:55 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/image-1024x767.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-12T22:05:03.093003",
+  "updatedAt": "2026-09-13T00:09:52.866518",
   "sites": [
     {
       "id": "hachima",
