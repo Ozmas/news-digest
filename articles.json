@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「家を片付けてたらこんなの出てきた。怖すぎる」→ガチで怖すぎて5万いいね",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458872.html",
+      "pubDate": "2026-09-15T07:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/9/e90f4113.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】資産1億円男性、婚活をはじめる　→　金融有識者の女性から火の玉ストレートの指摘でボコボコにされてしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567510.html",
+      "pubDate": "2026-09-15T07:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6fa9c43f.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "勝手に作んな！ 蜂の危険より巣に目が行く持ち主！　四コマサボタージュFB第87回「そこそこのコンプレックスを抱えていた家主」",
+      "description": "バズーカ型の蜂殺虫剤みたいなのがあるのだけど、あの殺虫剤めちゃくちゃ効くんだよね。蜂退治する時に重宝してます。メーカーさんありがとう。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/09/15/2797814/",
+      "pubDate": "Mon, 14 Sep 2026 22:00:17 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/1koma-87.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "広島・鞆の浦から、瀬戸内を“発酵”させる。港町の路地裏に佇むコーヒースタンド。",
+      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
+      "link": "https://casabrutus.com/categories/food/491960",
+      "pubDate": "Mon, 14 Sep 2026 22:00:11 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ドラマ『VIVANT』がいつのまにか「コナン」声優だらけに。視聴者からは不満の声",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567392.html",
+      "pubDate": "2026-09-15T06:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/4/b41d8743.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ポケモン全1025匹を好きにTシャツプリントできる特別企画がZOZOTOWNより展開！コンプするのにかかる値段がこちらｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458871.html",
+      "pubDate": "2026-09-15T06:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/2/b2b63520.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ガルパン』などの水島努監督「SuicaキャラB案が落選したら引き取ってアニメにしたい。」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567389.html",
+      "pubDate": "2026-09-15T05:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/20035662.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ユーチューバー「アニメでよくある水中で口移しで酸素を受け渡しするアレ、本当にできるのか実験してみます！」 → 衝撃の展開にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458864.html",
+      "pubDate": "2026-09-15T05:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/2/b2e2f091-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -509,32 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/0021bb1d.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ショートスリーパー堀大輔、仮眠を取り入れると宣言ｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567356.html",
-      "pubDate": "2026-09-14T17:30:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/c/5c4f5602.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "映画『ちいかわ』、島二郎とオデの喧嘩を描いた＜オデと島＞が掲載された薄い本が新たな特典にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567344.html",
-      "pubDate": "2026-09-14T17:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/442c4aee.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -546,19 +624,6 @@
       "link": "https://rocketnews24.com/2026/09/14/2801070/",
       "pubDate": "Mon, 14 Sep 2026 08:00:56 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/rooibos-soup008.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "読めない看板「ンョ゛ハー゛」の発音、ついに解明かｗｗｗｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458815.html",
-      "pubDate": "2026-09-14T17:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/9/e98f5cdc.png"
     },
     {
       "siteId": "brutus",
@@ -574,19 +639,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】ガストのステーキがいくらなんでも赤すぎると話題に！これは・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567324.html",
-      "pubDate": "2026-09-14T16:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f928adc9.png"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -598,32 +650,6 @@
       "link": "https://casabrutus.com/categories/art/493185",
       "pubDate": "Mon, 14 Sep 2026 07:25:21 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "松本人志さん、手術を受けると発表",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458838.html",
-      "pubDate": "2026-09-14T16:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56d865f1.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "スイッチ2版『めっちゃカメレオン』、めっちゃカオスなことになっている模様ｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458822.html",
-      "pubDate": "2026-09-14T15:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/25203d0f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1159,19 +1185,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_4492.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "『VIVANT』で話題の岐阜県庁へ！ ロケ地紹介だけじゃない「見せ方」が上手い / 無料の展望ロビーもオシャレ！",
-      "description": "現在放送中のTBS系日曜劇場『VIVANT』。 そのロケ地として、岐阜県内のさまざまな場所が使われている。 そのひとつが、岐阜県庁。岐阜出身の筆者にとっては帰省時に結構訪れる身近な場所なのだが、まさかドラマの海外シーンと [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/13/2797092/",
-      "pubDate": "Sun, 13 Sep 2026 00:00:44 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/VIVANT-19.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1299,19 +1312,6 @@
       "description": "カーサが注目する、今週末のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
       "link": "https://casabrutus.com/categories/art/493699",
       "pubDate": "Fri, 11 Sep 2026 22:55:06 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "彫り師の名前を描きこんだ、満月の竹の町の風景【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/489852",
-      "pubDate": "Fri, 11 Sep 2026 22:00:53 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-14T19:09:18.146066",
+  "updatedAt": "2026-09-14T22:40:02.312403",
   "sites": [
     {
       "id": "hachima",
