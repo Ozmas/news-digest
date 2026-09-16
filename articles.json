@@ -2,6 +2,318 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【噂】Xboxサブスク『Game Pass』大規模変更との報道！新作ゲームの発売初日配信が廃止されるとの情報も",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568051.html",
+      "pubDate": "2026-09-16T23:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/2/12221245.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「1人1泊1万円の宿で出てきた料理がこれ」ﾊﾟｼｬｯ → とんでもない画像が投稿されて話題にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458976.html",
+      "pubDate": "2026-09-16T23:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc68b85a-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ファイアーエムブレム 万紫千紅』レビュー解禁！「シリーズ史上最も野心的」「4つのゲームが1つになったかのようなスケール感」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568057.html",
+      "pubDate": "2026-09-16T22:30:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/b/9b85602e.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "兵庫県へ大量の「金の延べ棒」が寄付される！時価総額がマジでヤバすぎるｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458987.html",
+      "pubDate": "2026-09-16T22:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/1/e1a8fb14.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ちょっと不評な『トルネコの大冒険』リマスター、不満点がちょっと解消されるアプデが配信「今後も改善を進めてまいります」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568037.html",
+      "pubDate": "2026-09-16T22:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/db105bd2.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "今度は牛角×『呪術廻戦』コラボで不正発覚！従業員によるランダム特典不正開封＆持ち出し発覚",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568033.html",
+      "pubDate": "2026-09-16T21:30:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7e2d8663.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「コイ」に性的加害を加えた男、逮捕される",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458975.html",
+      "pubDate": "2026-09-16T21:30:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aae3ff5d.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【文春報道】広島カープ・菊池涼介が同僚選手に根性焼きか「ライターで炙ったフォークを押し当てた」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568030.html",
+      "pubDate": "2026-09-16T21:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3df776e2.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【世も末】生徒が空き巣していることを知った教師、ガチでありえない行動にでる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458982.html",
+      "pubDate": "2026-09-16T21:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/39238c0d.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2114話目「エルフの森の変化（余談②）」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/09/16/2802161/",
+      "pubDate": "Wed, 16 Sep 2026 12:00:02 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/2114a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ボードゲームは、会社をもっとクリエイティブにしますか？",
+      "description": "〈ヤッホーブルーイング〉が〈ボードゲームリゾート GAW〉を体験！ 長野県原村。八ヶ岳連峰の西側の麓、自然豊かな高原にある〈ボードゲームリゾート GAW〉。東京を中心にボードゲーム専門のゲームマスターとして活動していたあ [&#8230;]",
+      "link": "https://brutus.jp/post-506251/",
+      "pubDate": "Wed, 16 Sep 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "45秒で人生が変わる思考法が話題に！「10年後、君の人生は最悪になっている。どうか10年前に戻らせてくれと神様に願う。すると…」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458964.html",
+      "pubDate": "2026-09-16T20:30:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/6/066709d7.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ひどい】「赤い羽根募金」新たに7000万円の使途不明金が明らかに…合計は2億5000万円",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568029.html",
+      "pubDate": "2026-09-16T20:30:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/6/868ae895.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性「メロいは性的な意味じゃない、男と違って女は性的な物が絡まないトキメキがある！」→大物議に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458969.html",
+      "pubDate": "2026-09-16T20:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/44f4091b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『東京ゲームショウ2026』各メーカーの出展タイトル・生放送まとめ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10566994.html",
+      "pubDate": "2026-09-16T20:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68ef3b9c.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "パネットーネ種の生地で包むクリームを味わうドーナツ。清澄白河〈UN DONUT〉",
+      "description": "「パティシエならではのドーナツを考えたとき、譲れなかったのはクリーム」と、森大祐さん。上質な素材を惜しみなく使った、新鮮で口溶けのよいクリームを引き立てる生地をと試行錯誤し、辿り着いたのがパネットーネ種での発酵だ。 極薄 [&#8230;]",
+      "link": "https://brutus.jp/post-521112/",
+      "pubDate": "Wed, 16 Sep 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【難問】客「お饅頭5個のを5個ね」←お前らはこれ客が何個の饅頭を注文したかわかるよな？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458963.html",
+      "pubDate": "2026-09-16T19:30:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/682f28e1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【遅すぎ】辺野古転覆事件、運航団体が謝罪声明！沖縄県知事選でデニー氏が負けた途端にこれ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568023.html",
+      "pubDate": "2026-09-16T19:30:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bb144aac.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "バイクと事故を起こすと大勢に囲まれる。かつては車を燃やされたことも…ケニアのドライバーが恐れる理由【カンバ通信：第517回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回も、リクエストボックスに質問が届いていたので答えていきたい。 質問はこちら。 「ケニアで、バイクと車が事故を起こしたとき [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/16/2801069/",
+      "pubDate": "Wed, 16 Sep 2026 10:00:53 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/73339420-55d0-4b7d-ac55-832f51032cf6_1920.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "反戦アニメーター「日本が軍備増強しても、中国に敵うはずはないから友好関係継続する以外ない。ネトウヨはそれが理解できない」→専門家「左翼の流行りの敗北主義論」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458966.html",
+      "pubDate": "2026-09-16T19:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/2/c2fa75dd.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【文春報道】『VIVANT』監督、パワハラでスタッフを骨折させていた！TBSは機密扱いで激アマ処分",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568019.html",
+      "pubDate": "2026-09-16T19:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/0/109ab002.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "かっこいい大人たち。〈キャプテン サンシャイン〉デザイナー・児島晋輔にとっての「マスターピース」",
+      "description": "ルールを超えて、リアルクローズを更新する ブランド創業から13年が経ち、昨年には目標に掲げていた旗艦店を東京・南青山にオープンさせた〈キャプテン サンシャイン〉デザイナーの児島晋輔さん。同年10月には韓国にも出店。国内外 [&#8230;]",
+      "link": "https://brutus.jp/post-525157/",
+      "pubDate": "Wed, 16 Sep 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "メルカリ「転売対策でポケカ30周年記念商品は当面出品禁止」 → 株価が大幅安",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10567989.html",
+      "pubDate": "2026-09-16T18:30:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f4eedc5c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "パチンコ所得への課税、始まるかも知れない",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52458972.html",
+      "pubDate": "2026-09-16T18:30:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0c236ada.jpg"
+    },
+    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -301,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/7/e7bdd2b1.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "人気キャバ嬢インフルエンサー「ヤマトリノ」、麻薬取締法違反の疑いで現行犯逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567888.html",
-      "pubDate": "2026-09-16T13:20:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/064a7fa9.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -325,58 +624,6 @@
       "link": "https://rocketnews24.com/2026/09/16/2802708/",
       "pubDate": "Wed, 16 Sep 2026 04:14:47 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/RN24.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大物ゲームクリエイター桜井政博さん「独創性みたいなものを失った業界はゆっくりと死んでいくだけ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567910.html",
-      "pubDate": "2026-09-16T13:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/3/e3c99853.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "無職の20歳男性、車で運転中追い越された車から小石が飛んでブチギレ → 180キロのスピードを出してカーブで曲がりきれず → 対向車に激突し4人死傷",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567889.html",
-      "pubDate": "2026-09-16T12:40:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/e/3e61483a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【痛快】ブラック上司、朝礼で「有休を全て使って退職する奴がいます」と公開処刑　→　名指しされた退職予定者がその場で最高の反撃をキメてしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567898.html",
-      "pubDate": "2026-09-16T12:20:52+09:00",
-      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/2/b/2b455024.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "男性「貞子なんかテレビから出てくるとこをバットで殴れば余裕っしょｗ」　→　実践した結果、最悪の末路に…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567882.html",
-      "pubDate": "2026-09-16T12:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/7074d9d3.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -418,19 +665,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【地獄】ポケカ30周年版を買い求める日本人さん、朝からローソンにあり得ない大行列を作って終わる……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567891.html",
-      "pubDate": "2026-09-16T11:40:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/dd2b7d26.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -470,19 +704,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】『マーベル ウルヴァリン』、バイクチェイスシーンで操作をしなくても目的地に到着してしまうとしてクソゲーと話題になってしまう⋯",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567880.html",
-      "pubDate": "2026-09-16T11:20:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca878c9c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +715,6 @@
       "link": "https://jin115.com/archives/52458947.html",
       "pubDate": "2026-09-16T11:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/d/0d2dc117.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【訃報】SNSで数年前話題になった「サイゼで喜ぶ妻」、死去",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567873.html",
-      "pubDate": "2026-09-16T11:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/9461f03c-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -548,19 +756,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【予約開始】コエテクアクションゲー『Wo Long 2: Wings of Ember』、2027年3月4日発売決定！　Amazonで予約スタート",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567876.html",
-      "pubDate": "2026-09-16T10:30:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/3/03f85308.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -600,19 +795,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/LINE_ALBUM_20260813-_1_260814_186.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】FPSゲーマー女子、対戦中にガチギレ！　お前らの想像の300倍以上キレてるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10567868.html",
-      "pubDate": "2026-09-16T10:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/c/5c99058a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -639,45 +821,6 @@
       "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/09/48ddc6df374f558b9a5ed8f86a61982b.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【物議】帰化議員、外国人と共に新たな社会を作る政治団体「新世党」を設立→大炎上中",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458945.html",
-      "pubDate": "2026-09-16T09:40:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/82ef3fe0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「災害医療」のスペシャリスト“DMAT”を描いた人気漫画『Dr.DMAT～瓦礫の下のヒポクラテス～』が全巻77円の激安セール開催！！グランドジャンプ15周年記念！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458939.html",
-      "pubDate": "2026-09-16T09:20:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/178ee659.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "元プロ野球選手・元木大介さん、激やせした姿を公開するもファン騒然・・・「さすがにやりすぎ」「心配してしまう」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458944.html",
-      "pubDate": "2026-09-16T09:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/c/fc5c79bb.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -691,19 +834,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/jasrac9.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "納豆、ガチの有能食品だった！「週◯以上食べる人は軽度認知障害、抑うつ症状が少ない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458940.html",
-      "pubDate": "2026-09-16T08:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/9099d31d.png"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -715,19 +845,6 @@
       "link": "https://sumida.goguynet.jp/2026/09/16/711oshiage1nishi-open/",
       "pubDate": "Tue, 15 Sep 2026 23:01:48 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/IMG_7437-1024x767.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "18歳中国人「日本観光に来たついでに東大模試を初めて受けてみた」→結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458936.html",
-      "pubDate": "2026-09-16T08:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f26bde63.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -780,58 +897,6 @@
       "link": "https://rocketnews24.com/2026/09/16/2797815/",
       "pubDate": "Tue, 15 Sep 2026 22:00:27 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/1koma-88.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "なでしこジャパン「キャパ5万の会場でアジア大会やります！」→ガチでヤバいことに・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458933.html",
-      "pubDate": "2026-09-16T07:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/3/238dd5cd.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気VTuberさん、配信で男性同士が◯◯する動画を誤って流してしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458931.html",
-      "pubDate": "2026-09-16T06:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/774d570d.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】エスカレーターの歩行禁止を義務付けた名古屋、凄いことになっていた",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458928.html",
-      "pubDate": "2026-09-16T05:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cbad4eae-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「〇〇映画館で働いてる彼氏にちいかわの特典貰ったWWW」→名前を出された映画館ブチギレ「調査したけどそんな事実はない。法的手続き進めてるからよろしく」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52458924.html",
-      "pubDate": "2026-09-16T03:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/69c273f0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1055,19 +1120,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/dmugensoft.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "日高屋「ネギタワー味噌ラーメン」にネギ増しして「ネギネギタワー味噌ラーメン」にしてみた！ 結果は…？",
-      "description": "日高屋に「ネギタワー味噌ラーメン」というメニューがある。味噌ラーメンの上にネギがタワーのようにこんもり乗った隠れ人気の1品だ。 ある日、ネギ好きの私は考えた。「ネギタワー味噌ラーメンにネギを追加したら、ネギネギタワー味噌 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/15/2798847/",
-      "pubDate": "Tue, 15 Sep 2026 02:30:45 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/n13.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1092,19 +1144,6 @@
       "link": "https://artscape.jp/article/77590/",
       "pubDate": "Tue, 15 Sep 2026 02:00:57 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【立ち食いそば放浪記397】創業104年の老舗が挽く「大雪そば」がウマイ！ 札幌『霧の下』が観光客も寿司チャンスを逃すレベル",
-      "description": "海鮮、ジンギスカン、スープカレー、ラーメンとグルメの枚挙に暇がない北海道・札幌。ここ数年で札幌に何度も行っている私（中澤）だけど、行く度に寿司食ってる。たまにしか味わえない観光客は、やっぱり王道を外せない。 しかし、そん [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/15/2798561/",
-      "pubDate": "Tue, 15 Sep 2026 02:00:47 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/kiri8.jpg"
     },
     {
       "siteId": "artscape",
@@ -1250,19 +1289,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "グローブの名門の次なる一手。〈GRIP SWANY 1848〉のアノラック：Brutus Best Bets",
-      "description": "グローブの名門の次なる一手 〈グリップスワニー〉と聞けば、まず思い浮かぶのは丈夫なレザーグローブ。その名門が今季、本格的にアパレルラインを始動。舵を取るのは、東京・吉祥寺の名店〈ジ・アパートメント〉の大橋高歩。90年代の [&#8230;]",
-      "link": "https://brutus.jp/post-523239/",
-      "pubDate": "Mon, 14 Sep 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1273,19 +1299,6 @@
       "description": "ブランドの包装紙や箱が韓紙と手仕事によって彫刻へ。ソウルに拠点を置く、イ・ギュハンの現在地を訪ねた。",
       "link": "https://casabrutus.com/categories/art/493185",
       "pubDate": "Mon, 14 Sep 2026 07:25:21 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】ポップな花形が目を引く。〈The Conran Shop〉のペントレーとペンポット",
-      "description": "ワークデスクが賑やかなあの人へ鮮やかなセラミックプロダクト 〈The Conran Shop〉のペントレーとペンポット 東ロンドンを拠点に活動する「スーパーグループ」は、セラミックアーティストのイアン・マッキンタイアとイ [&#8230;]",
-      "link": "https://brutus.jp/post-522827/",
-      "pubDate": "Mon, 14 Sep 2026 03:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1325,19 +1338,6 @@
       "description": "京都市京セラ美術館　ザ・トライアングル にて、「松延総司：壁」が開催されます。 ── 松延総司（まつのべそうし）は、インスタレーションや立体、ドローイングなどを通して、線、影、無意識、地（背景）といった、掴みどころのない [&#8230;]",
       "link": "https://artscape.jp/article/78239/",
       "pubDate": "Mon, 14 Sep 2026 01:00:15 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "Brutus Best Beauty：〈PERFUMER H〉〈THE GINZA〉etc. 注目のビューティ新製品",
-      "description": "episteme 先進サイエンスでたるみに活 ロート製薬長年の再生医療研究を生かし、細胞培養技術と肌メカニズムの融合を掲げた〈エピステーム〉。4種の複合保湿成分と1種の独自保湿成分を配合した最高峰美容液は、ハリの源にアプ [&#8230;]",
-      "link": "https://brutus.jp/post-523479/",
-      "pubDate": "Mon, 14 Sep 2026 00:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-16T09:27:04.329560",
+  "updatedAt": "2026-09-16T14:19:21.078195",
   "sites": [
     {
       "id": "hachima",
