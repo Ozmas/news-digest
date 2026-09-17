@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市内閣の支持率、過去最低へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459055.html",
+      "pubDate": "2026-09-18T07:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/c/fcdad9f7.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ホロライブ・博衣こよりさん「抜きたい！抜かせて！（剣を）」　→　えちちすぎるAI翻訳で国際的に最悪の展開にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568497.html",
+      "pubDate": "2026-09-18T07:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/3/6361d265.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "うちわ必須！ ファン心理を理解しつつある夫！　四コマサボタージュFB第90回「心待ち」",
+      "description": "アイドルのファンの人達の間で掟があると聞いたのだけど、作法の教則本というかルールブックとかないのかな。ちょっと読んでみたいんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/09/18/2797817/",
+      "pubDate": "Thu, 17 Sep 2026 22:00:49 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/1koma-90.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "人々の心に、栄養を。最新鋭の焙煎機×圧巻の内装で、 建築都市・高松を体感するカフェ。",
+      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
+      "link": "https://casabrutus.com/categories/food/492193",
+      "pubDate": "Thu, 17 Sep 2026 22:00:13 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高身長女性「圧倒的な2m級デカ女とハグ♡」→投稿された画像がヤバすぎるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459051.html",
+      "pubDate": "2026-09-18T06:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/6110ed20.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "転売ヤーにムカついたX民が編み出した「フリーチャットを使った遊び」が極悪すぎるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568419.html",
+      "pubDate": "2026-09-18T06:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9d377b9.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "マンション11階から5歳児が転落死 → 記事の最後の文にキツすぎることが書いてると話題に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459047.html",
+      "pubDate": "2026-09-18T05:01:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/1342993d-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『崩壊スターレイル』の美人コスプレイヤーさん、とんでもないモノを付けたまま写真を撮ってしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568418.html",
+      "pubDate": "2026-09-18T05:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f191777-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -457,19 +561,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバすぎ】旭化成の元従業員、中国企業に機密情報を流出させ逮捕　余罪も捜査中",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10568373.html",
-      "pubDate": "2026-09-17T18:40:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/f/8f319986.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,32 +572,6 @@
       "link": "https://jin115.com/archives/52459023.html",
       "pubDate": "2026-09-17T18:30:05+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/4/7411ccca.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】TGSのビジネスデーで配布されたカードをメルカリで売っぱらうバカ出現　なお一般デー並に混んでいるという指摘も",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10568369.html",
-      "pubDate": "2026-09-17T18:20:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/c/0c62de07.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "玉城デニー氏（66）「こんなのは知事選挙じゃない」「政策で選べよ。人物で選べよ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10568250.html",
-      "pubDate": "2026-09-17T18:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6b749c92-s.jpg"
     },
     {
       "siteId": "jin",
@@ -587,19 +652,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "オレ達の青春『家庭科の裁縫ドラゴン』まさかの小説化ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459019.html",
-      "pubDate": "2026-09-17T16:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/317c7d85.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -611,32 +663,6 @@
       "link": "https://rocketnews24.com/2026/09/17/2802830/",
       "pubDate": "Thu, 17 Sep 2026 06:00:29 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/top2.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本に輸入された中国産「発がん性」食品、コレだった・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459016.html",
-      "pubDate": "2026-09-17T15:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/f/5f7b5b99.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ショートスリーパー堀大輔さん、1週間ライブ配信をやり遂げた感想を投稿→X民「初めて30分睡眠やった感想でほんま草」1.6万いいねｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459015.html",
-      "pubDate": "2026-09-17T14:30:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0a30110.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1055,19 +1081,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/RN24.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "アメ横で初めてケバブのお店を利用したら「ソースの名前」に困惑 /  その理由を尋ねたら予想通りの答えが…",
-      "description": "腹が減ったけど、何を食べたら良いかわからないときってあるよね。選ぶほど食べられるものがないときなら、とりあえず目についたものでいいかってなるけど、選べないほど食べられるものがあると、選択することすら面倒になってしまう。  [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/16/2800498/",
-      "pubDate": "Wed, 16 Sep 2026 03:00:43 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/araskebab.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1406,19 +1419,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "マクドナルドの包装紙をオブジェに。ソウル拠点のアーティスト、イ・ギュハンのアトリエ探訪。",
-      "description": "ブランドの包装紙や箱が韓紙と手仕事によって彫刻へ。ソウルに拠点を置く、イ・ギュハンの現在地を訪ねた。",
-      "link": "https://casabrutus.com/categories/art/493185",
-      "pubDate": "Mon, 14 Sep 2026 07:25:21 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-17T19:11:29.672040",
+  "updatedAt": "2026-09-17T22:22:54.710685",
   "sites": [
     {
       "id": "hachima",
