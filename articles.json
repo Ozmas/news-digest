@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】毎年大好評の『山賊ぶどう』が今年も錦糸町マルイにやってきます。",
+      "description": "果実王国山梨の牧丘から、甘くて新鮮なぶどうが錦糸町にやってくる！ 牧丘は標高600m以上の山間部にあり、昼間暑く夜涼しい寒暖差がぶどうの糖度をあげ、甘くて濃厚なおいしいぶどうを作るのに最適な地です。 そんな牧丘で、果樹園 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/09/19/sanzokubudou2026/",
+      "pubDate": "Fri, 18 Sep 2026 23:01:17 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/sanzoku2026-730x767.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【ガチ注意】埼玉、住宅内から「現金・散弾銃・散弾銃の弾」が盗まれガチの世紀末突入へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459125.html",
+      "pubDate": "2026-09-19T08:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/0/a0078fc8.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "もう終盤かよ！ 調子を崩され楽しみ切れなかった隣りの男子！　隣りの席の子の様子がおかしい第61回「夏祭り」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/09/19/2798307/",
+      "pubDate": "Fri, 18 Sep 2026 23:00:25 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/tonari61-1koma.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】罵倒や冷笑レスバ癖が染み付いた人、やはり取り返しがつかない悪影響があった！　「脳に不可逆のダメージが入ってついに◯◯」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568931.html",
+      "pubDate": "2026-09-19T08:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ad09442e.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "グルマン温故知新：西荻窪〈韓国料理あんちゃん〉“和牛”にフォーカスし、定番の味を磨く",
+      "description": "韓国料理あんちゃん（西荻窪） “和牛”にフォーカスし、定番の味を磨く オーナーの安昌秀（アン・チャンス）さんの愛称そのままの店名、韓国の虹色縞模様が彩る内外観はオーセンティック。が、味わいに洗練が潜む一軒だ。 「日本の韓 [&#8230;]",
+      "link": "https://brutus.jp/post-524007/",
+      "pubDate": "Fri, 18 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【9月19日〜23日】シルバーウィーク必見の“アート＆デザイン”まとめ！",
+      "description": "カーサが注目する、今週末のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
+      "link": "https://casabrutus.com/categories/art/493881",
+      "pubDate": "Fri, 18 Sep 2026 22:55:59 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【Kindleセール】『やはり俺の青春ラブコメはまちがっている。』、18冊分が1500円で買える電子合本発売！　『ゆびさきミルクティー』『ユリア百式』1冊99円、桜井のりお『ロロッロ』など",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568925.html",
+      "pubDate": "2026-09-19T07:30:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e7694549.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「乱視の人が夜に運転するとこうなる」パシャッ　→　皆こうなんじゃないの…？とネット騒然",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10568924.html",
+      "pubDate": "2026-09-19T07:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/f/1f172646.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国人教授、男のロマン“ジェットパック”を開発！オープンキャンパスで飛び立つ様子を公開へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459107.html",
+      "pubDate": "2026-09-19T07:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79489c47.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "かつての〈築地本願寺〉が見守る海上交通の拠点。【今日の名所江戸百景 by 村上隆】",
+      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
+      "link": "https://casabrutus.com/categories/art/489858",
+      "pubDate": "Fri, 18 Sep 2026 22:00:04 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -444,32 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2d0540ce.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『FF7リベレーション』の容量、約200GBになる見込み！ブルーレイディスク2枚でも収まらないデカさｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10568823.html",
-      "pubDate": "2026-09-18T19:30:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/c/4c55bc37.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "メタノールを夫に飲ませ、傷害罪に問われた妻の『無罪』が確定、地検は控訴せず「夫が自ら飲んだ疑いを否定できない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10568819.html",
-      "pubDate": "2026-09-18T19:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/7/473efe87.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -507,19 +611,6 @@
       "link": "https://brutus.jp/post-522788/",
       "pubDate": "Fri, 18 Sep 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【早すぎ】沖縄知事当選の古謝玄太氏の子どもが通う学校に爆破予告が来る「就任を辞退し再び選挙を実施しろ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10568808.html",
-      "pubDate": "2026-09-18T18:40:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/f/8f571c73-s.jpg"
     },
     {
       "siteId": "jin",
@@ -587,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「誹謗中傷の巣窟になってる『好き嫌い.com』はサイト閉鎖するべき」→閉鎖してはいけない真の理由が判明して話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459082.html",
-      "pubDate": "2026-09-18T17:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/8/a89d4d2c.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -624,19 +702,6 @@
       "link": "https://brutus.jp/post-525276/",
       "pubDate": "Fri, 18 Sep 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】『最強伝説　黒沢』 『ワシズ　閻魔の闘牌』などの人気漫画が「全巻99円」で買える激安セールは今日まで！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459089.html",
-      "pubDate": "2026-09-18T16:30:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bb743786.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1029,19 +1094,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "令和のおよげたいやきくん…!? 阿佐ヶ谷にオープンした “次世代たい焼き店” が波に乗りすぎていた",
-      "description": "日本の伝統的な和菓子「たい焼き」。それを令和流にアップデートすると……？ 2026年9月10日、東京・阿佐ヶ谷にオープンしたのは「TOKYO TAIYAKI MANIA Asagaya Lab」。 なんとここでは、たい焼 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/17/2802830/",
-      "pubDate": "Thu, 17 Sep 2026 06:00:29 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/top2.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1354,19 +1406,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜寒河江編〜",
-      "description": "赤ほっぺ 漬物、山菜、サクランボ。山形の味だけ集めた大衆酒場 ・山形の昔ながらの郷土料理に舌鼓。・地元酒蔵の日本酒はもちろん、地物野菜や果物、キノコの自家製サワーも。・一方で、季節食材を使った創作料理も。・ずーずー弁（山 [&#8230;]",
-      "link": "https://brutus.jp/post-512317/",
-      "pubDate": "Tue, 15 Sep 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1378,32 +1417,6 @@
       "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/dokukinoko-nagoya0914",
       "pubDate": "Tue, 15 Sep 2026 05:16:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/15/03/thumb/rqADk3j0i.jpg?crop=1920:1280;0,80&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "東京〈YAECA〉とソウル〈WOL〉で両国開催！ 韓国民画チェッカドをめぐるクラフト展。",
-      "description": "ソウルで工芸作品を扱うライフスタイルショップ＆ギャラリー〈WOL〉と東京の心地の良い日常着をコンセプトで服作りを行う〈YAECA〉。日韓のクラフトシーンを牽引する両者が手を取り合いました。",
-      "link": "https://casabrutus.com/categories/art/493159",
-      "pubDate": "Tue, 15 Sep 2026 07:25:51 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "実験器具を着想源に。〈コスタ ボダ〉からクレネル兄弟のフラワーベースが登場。",
-      "description": "〈コスタ ボダ〉からスウェーデンの若手デザイナー、マッティとサイモンのクレネル兄弟によるフラワーベース《Lab》が登場。",
-      "link": "https://casabrutus.com/categories/design/493291",
-      "pubDate": "Tue, 15 Sep 2026 02:25:49 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "artscape",
@@ -1588,19 +1601,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/09/02/subbuzz/DFywlZo7v.jpg?crop=5240:3493;53,0&resize=1250:830"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】太平四丁目交差点近く「蕎麦 旨酒 一ゆう」が閉店…。",
-      "description": "錦糸町駅北口、四ツ目通りをスカイツリー方面へ。太平四丁目の交差点近くにある蕎麦店「一ゆう」 蕎麦はもちろんの事、ランチセットの親子丼、カツ丼セットが大人気。そして麻辣つけそばや坦々つけそばなど、ここでしか食べられない美味 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/09/09/ichiyu-close/",
-      "pubDate": "Tue, 08 Sep 2026 23:01:33 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/IMG_7184-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2024-08/21/2/asset/b0b0c3868232/sub-buzz-1477-1724208117-3.jpg?crop=2700:1800;162,629&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-18T21:09:07.274146",
+  "updatedAt": "2026-09-18T23:31:08.309361",
   "sites": [
     {
       "id": "hachima",
