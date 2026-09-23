@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "お前が正義感出すな！ 囚われの中年男性！　四コマサボタージュFB第94回「それとは別問題」",
+      "description": "コレを描いてる今、6月中旬なんだけど、あんまり雨が降っていない感じなんだ。梅雨入りしてないのかな……。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/09/24/2800704/",
+      "pubDate": "Wed, 23 Sep 2026 22:00:27 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/1koma-94.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "コメ農家、政府にブチギレ・・・「大人しいからな、農家は。ほんとはね、百姓一揆やらなきゃあかん」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459415.html",
+      "pubDate": "2026-09-24T07:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/10360c89.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "映画『名探偵プリキュア』は鬱の特効薬！？ 映画を見て職場復帰した人が話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10570360.html",
+      "pubDate": "2026-09-24T06:30:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c93f3251-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "酪農家VTuberが「足だけ汚れてない理由」があまりにガチすぎるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10570359.html",
+      "pubDate": "2026-09-24T06:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/9/6985fb7d.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "氷河期世代を苦しめる“非正規雇用”の拡大は悪だったのか？『自己責任論』に当事者と専門家が反論・・・「儲かってる人のために私たちが歯車として働いている」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459413.html",
+      "pubDate": "2026-09-24T05:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/e/beee90f4.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「駅近のスタバが1500円払わないと座れない！」　これマジ……？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10570357.html",
+      "pubDate": "2026-09-24T05:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0166777-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ETCカードって毎回抜かないとダメなの！？車内放置は「重大な過失」に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10570313.html",
+      "pubDate": "2026-09-24T04:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/7242fe36-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -431,32 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e8f0d5e9.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "立命館大の君島教授、玉城デニー氏をノーベル平和賞候補に推薦！沖縄知事選で政治利用されていたと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10570211.html",
-      "pubDate": "2026-09-23T17:30:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/18100482.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【炎上】元セクシー女優がラーメン二郎野猿街道店でラーメン作りを体験、その様子を投稿 → 13年勤めている女性店員がブチギレ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10570202.html",
-      "pubDate": "2026-09-23T17:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6b596cf2-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -483,19 +548,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/vidtomusic.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "Bungie、FPS『マラソン』の失敗を認める「期待に届かなかった。今後は常設PvEやチームデスマッチを実装する」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10570197.html",
-      "pubDate": "2026-09-23T16:30:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/0/60d00f43.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -507,19 +559,6 @@
       "link": "https://casabrutus.com/categories/food/492998",
       "pubDate": "Wed, 23 Sep 2026 07:25:57 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「Vtuberの中の人が結婚していたことより、こっちの事実の方が怖い」⇒ 5万いいね超え",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10570186.html",
-      "pubDate": "2026-09-23T16:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/a/3a7c3447.jpg"
     },
     {
       "siteId": "jin",
@@ -639,19 +678,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/batch_IMG_2190.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "大人気コスプレイヤー・えなこさん、美しすぎるお尻のケア方法を公開して12万いいね",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459380.html",
-      "pubDate": "2026-09-23T11:30:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/8464c859.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -676,19 +702,6 @@
       "link": "https://casabrutus.com/categories/design/493012",
       "pubDate": "Wed, 23 Sep 2026 02:25:46 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】日本の治安、終了のお知らせ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459376.html",
-      "pubDate": "2026-09-23T11:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/84eadf7f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -988,19 +1001,6 @@
       "link": "https://rocketnews24.com/2026/09/22/2803821/",
       "pubDate": "Tue, 22 Sep 2026 01:00:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/balatoncafe.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「これ100均より安くない？」業務スーパーで見つけた日用品3選",
-      "description": "業務スーパーといえば、大容量の冷凍食品やお肉、調味料。私もずっと「食材を買う店」だと思っていました。ところがある日、何気なく日用品コーナーを見ていて気づいたんです。 「……これ、100均より安くない？」 気になって、その [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/22/2801796/",
-      "pubDate": "Tue, 22 Sep 2026 00:00:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/FotoJet_1920.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2022-06/26/4/asset/c2c53cd337cd/sub-buzz-4084-1656218695-3.jpg?crop=3000:2000;0,27&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-23T18:32:43.359345",
+  "updatedAt": "2026-09-23T22:08:50.176263",
   "sites": [
     {
       "id": "hachima",
