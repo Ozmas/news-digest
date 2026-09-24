@@ -2,6 +2,162 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】心が満たされる「幸せな食卓」を。「ちょっと贅沢食堂」錦糸町北口にOPEN！",
+      "description": "2026年7月、錦糸町駅北口ロータリー近くのローソンのちょっと先に、何やら新しいお店ができそうなのを発見！ブルーシートで隠してあるけど、食堂ができるみたい！  こちらには錦糸町に「ちょっと贅沢食堂」がオープン。ちょっと… [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/09/25/chottozeitaku-shokudou/",
+      "pubDate": "Thu, 24 Sep 2026 23:01:21 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/7ead62866d2756d7e0b4204574d20c0a-1024x767.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "洗顔料「ロゼット 蜜芋の香り」が完全に焼き芋で脳がバグる！ 芋フェチ狙い撃ちの新作が出たぞ",
+      "description": "秋といえば、毎年お芋の商品が出る季節。コンビニ菓子にスイーツ、ドリンクなど、今年もここぞとばかりに登場している。 そんな中、異色すぎる芋アイテムに出くわしてしまった。それが「ロゼット洗顔パスタ 蜜芋の香り」。 これがマジ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/25/2804295/",
+      "pubDate": "Thu, 24 Sep 2026 23:00:31 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/r1.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性モデルさん、想像の遥か上を行く理由で解雇へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459494.html",
+      "pubDate": "2026-09-25T08:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c851f36c.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "グルマン温故知新：祐天寺〈李朝膳 Le Chozen〉日本に暮らすコリアンの家庭料理がベース",
+      "description": "李朝膳 Le Chozen（祐天寺） 日本に暮らすコリアンの家庭料理がベース 「子供の頃、家で韓国料理を食べている友達は少なかった」と、オーナーの石山秀一さん。1985年生まれの在日コリアン2世。食に厳格な父、料理上手な [&#8230;]",
+      "link": "https://brutus.jp/post-524043/",
+      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】アニメ『ちいかわ』、10月2日から新作放送を一時休止へ！　来年1月までリバイバル放送",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10570701.html",
+      "pubDate": "2026-09-25T07:30:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/205fce60.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "Adoさん、K-POPイベントの大トリに出演して「おどるポンポコリン」披露　→　とんでもない大惨事になってしまう…　お前らの想像の300倍以上地獄",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10570699.html",
+      "pubDate": "2026-09-25T07:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d8e8be04.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "アイツやんけ！ 服のチョイスをミスった父！　四コマサボタージュFB第95回「父が遺したビデオレター」",
+      "description": "そう言えばオーバーオール人生で一度も着たことなかった……。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/09/25/2800705/",
+      "pubDate": "Thu, 24 Sep 2026 22:00:36 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/1koma-95.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "K-POPイベントの大トリにAdoさんが登場、しかも歌った曲が「おどるポンポコリン」→K-POPファンがマジギレ！ネット民も流石に同情・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459500.html",
+      "pubDate": "2026-09-25T07:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/8/8811ae53.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "旧印刷所を生かした、長崎を代表するロースター〈カリオモンズ〉のコーヒー空間。",
+      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
+      "link": "https://casabrutus.com/categories/food/492202",
+      "pubDate": "Thu, 24 Sep 2026 22:00:04 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "左派連合『オール沖縄』、辺野古移設容認派に乗っ取られるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10570626.html",
+      "pubDate": "2026-09-25T06:30:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/5/45ab7ae5.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【物議】母親「中学生の娘の体育祭、打ち上げで◯◯円は贅沢すぎない？お金かけなくたってみんなでわちゃわちゃしてるだけで楽しいと思うんですけど🤔」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459488.html",
+      "pubDate": "2026-09-25T06:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/7/57fab607.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "もうムチムチ時代は終わり！？ 来年の流行はどうやら「うすほそ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10570581.html",
+      "pubDate": "2026-09-25T06:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/a/2a78bff5-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -392,19 +548,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【噂】ソニー、プレステのディスク廃止計画を撤回するかも！？ゲーム開発者にアンケート調査を行っているとの情報",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10570571.html",
-      "pubDate": "2026-09-24T19:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/6/c6b60418.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -416,19 +559,6 @@
       "link": "https://jin115.com/archives/52459455.html",
       "pubDate": "2026-09-24T19:30:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2dbeedc.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アニメ『新 美味しんぼ』キャストが判明！海原雄山役はあの至高の声優が引き継ぐ！！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10570567.html",
-      "pubDate": "2026-09-24T19:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/30dd4337.jpg"
     },
     {
       "siteId": "jin",
@@ -483,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/2/423c4312-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "AI学習のため？日本の古本屋で「謎の大量注文」相次ぐ　アメリカに”50トン”の輸出記録も",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10570564.html",
-      "pubDate": "2026-09-24T18:40:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b0618c35-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +624,6 @@
       "link": "https://jin115.com/archives/52459418.html",
       "pubDate": "2026-09-24T18:20:57+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/e/aeeb4be4.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】如月千早さん、いまだけ月見食べ美とコラボしてマックCMのあの曲を歌うｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10570562.html",
-      "pubDate": "2026-09-24T18:20:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/0/40c3a088.jpg"
     },
     {
       "siteId": "jin",
@@ -561,19 +665,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/d5.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【！？】たまごっちさん、とある最新映画で”殺人マシン”にされてしまうｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459469.html",
-      "pubDate": "2026-09-24T17:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/ce3e50f2-s.png"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -598,32 +689,6 @@
       "link": "https://casabrutus.com/categories/design/493937",
       "pubDate": "Thu, 24 Sep 2026 07:25:59 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】次回のシルバーウィーク、◯年後だと判明・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459460.html",
-      "pubDate": "2026-09-24T16:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b955594.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "逆転裁判シリーズ、待望の新情報を突如発表！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459459.html",
-      "pubDate": "2026-09-24T15:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/d/5d4e56ee.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1003,32 +1068,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/カップラーメン-アイキャッチ.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1缶172円】プリングルズ（105g）8缶セットが半額の1374円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。食品・アパレル・生活用品など、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、プリングルズのポテトチップス「サワークリーム＆オニオン（105 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/23/2805152/",
-      "pubDate": "Wed, 23 Sep 2026 02:50:24 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/batch_IMG_2190.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "どうやっても美味しいに決まっている「冷凍餃子」を敢えてアレンジしてみた結果  → パスタや味噌汁、エビチリ風にしても最強だった件について",
-      "description": "ここ最近、冷凍餃子をいただく機会が頻繁（ひんぱん）に訪れる。はじめは焼いたり茹でたりして味わっていたのだが、次から次へと追い餃子が押し寄せてくるため、少し違う食べ方も試してみたくなってきた。 潤沢な餃子が手中にあるからこ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/23/2802457/",
-      "pubDate": "Wed, 23 Sep 2026 02:30:31 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/a2e8e788-073a-43a3-a63d-4df89c4e14bc.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1276,19 +1315,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "韓国の〈ADERERROR〉が〈BIRKENSTOCK〉の代表モデルとコラボレーション第2弾を発表。",
-      "description": "〈BIRKENSTOCK〉の代表モデル《Boston》が〈ADERERROR〉とのコラボによりレザーキャップとアッパーフラップで登場。",
-      "link": "https://casabrutus.com/categories/fashion/493389",
-      "pubDate": "Mon, 21 Sep 2026 07:25:39 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1326,19 +1352,6 @@
       "link": "https://sumida.goguynet.jp/2026/09/21/legato-paypay/",
       "pubDate": "Sun, 20 Sep 2026 23:01:42 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/IMG_7539-1024x767.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "9月21日〜27日の運勢。星々が告げる運を味方にするヒント【ブルータス週間占い】",
-      "description": "全体の空模様 中秋の名月を週末に控えた今週、だんだん深まっていく秋を穏やかに感じられるでしょう。23日に太陽が天秤座に移動するため、先週までの乙女座らしい忙しなさは落ち着いていきます。 週前半、22日に水星（思考）と木星 [&#8230;]",
-      "link": "https://brutus.jp/post-527025/",
-      "pubDate": "Sun, 20 Sep 2026 23:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "sumida",
@@ -1588,19 +1601,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/IMG_7437-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】すみだプレミアム付きデジタル商品券の「A券」どこで使う？～お勧め店のご紹介その１",
-      "description": "2026年7月22日から販売開始された「すみだプレミアム付きデジタル商品券」 現在、墨田区民限定先着順での販売が行われています。 【墨田区】物価高の味方です！２０％お得な「すみだプレミアム付きデジタル商品券」発売開始。  [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/09/15/nakamura-paypay/",
-      "pubDate": "Mon, 14 Sep 2026 23:01:52 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/01/IMG_0927-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2022-06/26/4/asset/c2c53cd337cd/sub-buzz-4084-1656218695-3.jpg?crop=3000:2000;0,27&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-24T20:19:13.502684",
+  "updatedAt": "2026-09-24T23:20:07.151028",
   "sites": [
     {
       "id": "hachima",
