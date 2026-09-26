@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "次長課長・河本準一さん、緊急入院",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459623.html",
+      "pubDate": "2026-09-27T06:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f8318820.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "不評すぎる『ジョジョ7部 スティール・ボール・ラン』のEDが完全にネタにされてしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571234.html",
+      "pubDate": "2026-09-27T06:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/9/5985e6dc.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ジャンプ＋の「連載争奪戦」にAI漫画がランクインして大荒れ……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571249.html",
+      "pubDate": "2026-09-27T05:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/5/15c06704.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "映画『オデュッセイア』日本公式がクソみたいなキャッチコピーを投稿して炎上",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571237.html",
+      "pubDate": "2026-09-27T04:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4a34744e-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "トランプ大統領、イランの停戦案を拒否！「選挙終わったら空爆再開するから、よろしくな」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459621.html",
+      "pubDate": "2026-09-27T04:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/4/14f971a8.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -405,19 +470,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/175e08bd.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "元キャバ嬢VTuber「配信とキャバクラは全然別。女がお仕事でおしゃべりしてくれるの全部キャバクラだ！って思っちゃう感じ？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571209.html",
-      "pubDate": "2026-09-26T18:20:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/f/5f66fe48.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -431,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/f/2f3dc84f.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "千葉県・熊谷知事「この災害に乗じて政権批判をする方がいるのですが、全面的な支援を受けています」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571203.html",
-      "pubDate": "2026-09-26T18:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/bef8c34b-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -455,19 +494,6 @@
       "link": "https://rocketnews24.com/2026/09/26/2801426/",
       "pubDate": "Sat, 26 Sep 2026 09:00:16 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_0163.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『GTA6』元開発者「スイッチ2版は意味がないと思う。ファンならPS5やXboxを買うでしょ？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571200.html",
-      "pubDate": "2026-09-26T17:30:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c23a803d.jpg"
     },
     {
       "siteId": "jin",
@@ -637,32 +663,6 @@
       "link": "https://rocketnews24.com/2026/09/26/2803295/",
       "pubDate": "Sat, 26 Sep 2026 02:00:18 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/miyoshi6.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「元東京都民だけど、○○に引っ越したら最高だったわ」→共感殺到で3万いいね！「人が増えるから宣伝するな」という声も",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459565.html",
-      "pubDate": "2026-09-26T11:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03704f72.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【大炎上】配達員のウズベキスタン人(45)、受け取りに来た小学生が好み過ぎて襲い掛かってしまう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459570.html",
-      "pubDate": "2026-09-26T10:30:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/518d415c.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/07/09/thumb/N7fYTfxmm.jpg?crop=1245:830;3,0&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-26T18:26:58.239190",
+  "updatedAt": "2026-09-26T21:25:59.106187",
   "sites": [
     {
       "id": "hachima",
