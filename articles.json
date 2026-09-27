@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "気候変動により高騰するコーヒー豆の代わりとして、代替コーヒー飲料が続々登場！味わいや風味を似せてコストダウン",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571547.html",
+      "pubDate": "2026-09-28T04:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/f/cfdbbf97.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「2階建てバスが外国人に人気なのか…せや！！」世界初の『走る回転寿司』爆誕…2階建てバスで回転寿司を食べながら東京観光",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571543.html",
+      "pubDate": "2026-09-28T03:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7ec39d4b.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "落とし物を届けたら中から現金150万円と通帳 → 持ち主のおじいちゃんがお礼に15万円渡そうとしてきた結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459664.html",
+      "pubDate": "2026-09-28T03:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/d/0dfcf345.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ベッキーさん、10年ぶりに『世界の果てまでイッテQ！』に出演！番組内で宮川大輔とともに号泣「ただただ、ありがたい時間でした」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571528.html",
+      "pubDate": "2026-09-28T02:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fcb9dba8.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "現代の闇市と揶揄されるメルカリ、たまには役に立つと話題にｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459647.html",
+      "pubDate": "2026-09-28T02:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/6/c6518b2a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ガチのマジ】イラン上空で謎の飛行物体が激写される！！米国は沈黙…これは完全にUFO",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571519.html",
+      "pubDate": "2026-09-28T01:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/843ced09.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【注意喚起】「インスタで『ぷにコーン』と検索しないでください」→興味本位で検索した人、終わる・・・「してしまいました。後悔しました」「自業自得で調べて吐き気」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459682.html",
+      "pubDate": "2026-09-28T01:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50e4b1b0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【一生ネットの宝物】『INMU KING』、M!LKやSnow Manと並びオリコンチャートに掲載される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571517.html",
+      "pubDate": "2026-09-28T00:30:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/073053bc.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -405,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/417655f3.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【クレカ規制問題】日中韓による独自決済手段がネットで検討され始めるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571409.html",
-      "pubDate": "2026-09-27T17:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/9/4979cdb1.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -431,32 +522,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/AB535FB1-788B-4EC3-BA1E-4C5BF13A3A93.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】X民「5年前のレシートと最低賃金の変化がこちら」⇒ インフレじゃなくて◯◯◯◯だと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571408.html",
-      "pubDate": "2026-09-27T16:30:57+09:00",
-      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/5/1/51292d70.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ネット民「ジャングリアに30億円の融資するなら、◯◯◯の整備に充てれば？」⇒ 納得の声が殺到し8万いいね超え",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571407.html",
-      "pubDate": "2026-09-27T16:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/9/59f329f1.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -468,19 +533,6 @@
       "link": "https://jin115.com/archives/52459652.html",
       "pubDate": "2026-09-27T16:00:03+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/1/810c9852.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "マチアプ女さん、結婚相手にとんでもないスペックを要求ｗｗｗｗ「親は◯◯してる人がいいです」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571406.html",
-      "pubDate": "2026-09-27T15:30:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bddb413c.jpg"
     },
     {
       "siteId": "jin",
@@ -507,19 +559,6 @@
       "link": "https://rocketnews24.com/2026/09/27/2803777/",
       "pubDate": "Sun, 27 Sep 2026 06:00:23 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/140beac4-9b22-4289-9895-5d958515e33b_1920.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "学生「VTuberに会いたいからレコーディングの仕事がしたいです！」⇒ 業界人「絶対にやめておけ！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571404.html",
-      "pubDate": "2026-09-27T15:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75fe670b.png"
     },
     {
       "siteId": "rocketnews",
@@ -637,45 +676,6 @@
       "link": "https://rocketnews24.com/2026/09/27/2804785/",
       "pubDate": "Sun, 27 Sep 2026 02:00:25 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/41751_0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】令和最新の読書方法がコレらしい　なお、ネット民から「ダサすぎる」「自分に酔ってそう」の声殺到",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459627.html",
-      "pubDate": "2026-09-27T11:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/8/98a30425.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】番犬さん、不法侵入してきた犯人に対し驚きの行動をとってしまうｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459605.html",
-      "pubDate": "2026-09-27T10:40:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/365710f0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安終了速報】無職転生、その着せ替え人形は恋をする、ブルーピリオドなどが実質半額になるKindle超セール開始！ゴルゴ13、ラーメン発見伝、美味しんぼなどの名作も対象！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459628.html",
-      "pubDate": "2026-09-27T10:20:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b001ae57.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/07/09/thumb/N7fYTfxmm.jpg?crop=1245:830;3,0&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-27T15:15:12.778309",
+  "updatedAt": "2026-09-27T19:11:49.285874",
   "sites": [
     {
       "id": "hachima",
