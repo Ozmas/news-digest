@@ -2,17 +2,342 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "へそ出しセクシー衣装の女性配信者さん、配信中にとんでもないことが起きる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459704.html",
+      "pubDate": "2026-09-28T10:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/f/3fe609ce.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【最強回転寿司】なにわのサーモン無双！ 回転寿司マニアが大阪『大起水産』に感じた「珍しさ」について",
+      "description": "回転寿司における人気メニュー・サーモン。トロける味はどこで食べても大体ウマイのが信頼になっているのだと思われるが、その安定感ゆえに突き抜けるのも難しいネタであると言えよう。全国の回転寿司を巡るのが趣味の私（中澤）もサーモ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/28/2805671/",
+      "pubDate": "Mon, 28 Sep 2026 01:00:14 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/taiki9.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【地獄】虐待加害父親が小学校の3者面談に来た結果、まともな親が絶対しない◯◯◯をして担任教師が震えあがる　→　虐待被害児童から「あるある」の声…",
+      "title": "【日本終了】「日本異常ランキング」、ベスト9が本当にこの世の終わりだった……",
       "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571587.html",
-      "pubDate": "2026-09-28T07:00:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/b/1b4c7018.jpg"
+      "link": "http://blog.esuteru.com/archives/10571603.html",
+      "pubDate": "2026-09-28T09:30:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/e/1e5c40a1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】交差点に警察官がたくさんいて、何かあったのかと焦ったら警官に大根を渡された　→　まさか過ぎる理由がこちらｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571598.html",
+      "pubDate": "2026-09-28T09:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/d/0dd6ba1b.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】『残クレアルファード』に手を出した人の末路がこちら・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459677.html",
+      "pubDate": "2026-09-28T09:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/39c13f2a.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【2900円】ワークマンで売ってるワンランク上の疲労回復ウェア「メディヒールコスモス」を実際に着てみた感想",
+      "description": "少しずつ秋らしくなってきて、半袖から長袖へ。このタイミングで衣替えをした人も多いのではないだろうか。 もちろん部屋着や寝間着も長袖にするワケだが、ワークマンで気になる商品を見つけたので買ってみた。疲労回復ウェアのコーナー [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/28/2795180/",
+      "pubDate": "Mon, 28 Sep 2026 00:00:01 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/08/IMG_2907-1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】海外ニキ、アニメ『ヤニねこ』最終回のマイクロビキニJKにブチギレ！ 「なんで日本アニメの女子はデカ乳なのに◯◯◯なの！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571594.html",
+      "pubDate": "2026-09-28T08:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/1/d15ada04.jpg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】あのカフェも⁉ 気になっていた両国駅東口の「栄光ビル」のテナントが明らかになって来ました。",
+      "description": "両国駅前ガード沿い、完成した「栄光ビル」の全容が少しずつ分かって来ました！ 【墨田区】両国駅東口そば「ピーエックス」 「スロットX PART-2」が10月28日（土）をもって閉店しました。 両国駅東口からすぐ、ガード沿い [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/09/28/ryogokuekimae-eikobill/",
+      "pubDate": "Sun, 27 Sep 2026 23:01:32 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/IMG_7789-1024x767.jpeg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "A4用紙を「立てる」ためだけの文房具!? 「ペーパースタンド」を使ってみたら地味だけど超便利だった",
+      "description": "データ化が進んできた昨今ではあるけれど、仕事柄、まだまだ紙の資料をいただく機会が多い。私の場合はA4用紙を見ながらパソコンやiPadに文字を打ち込むことがほとんどだ。 だから、いつも思ってたんだよね…… 「A4用紙をディ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/09/28/2805017/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:49 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_1410.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】iPad勉強民「せや！教材を全部データ化して暗記しにくい所に、えちちなエ◯画像配置したろ」　→　それで勉強した結果、衝撃の展開にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571593.html",
+      "pubDate": "2026-09-28T08:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/0516791a.gif"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【炎上】地下アイドル運営、連絡が取れなくなったメンバーの“ヤバすぎる画像”を投稿 → 本人ブチギレ「いじめでしょうか？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459674.html",
+      "pubDate": "2026-09-28T08:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/3/231eb37f-s.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日の運勢。星々が告げる運を味方にするヒント【ブルータス週間占い】",
+      "description": "全体の空模様 活気に溢れた1週間です。週の始まりに牡羊座に月が入っていて、さらに火星（意欲）が獅子座に移動。火のエレメントに属す2サイン（星座）に天体が揃うこととなります。 獅子座は自己表現を促すサインなので、個々人の主 [&#8230;]",
+      "link": "https://brutus.jp/post-527882/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 牡羊座の運勢【ブルータス週間占い】",
+      "description": "牡羊座の羅針盤 過去を新しく捉え直す 行動力が上がる週の始まりです。週明け早々火星（意欲）が獅子座に移動するので、自己表現の幅を広げたくなります。29日に太陽が天王星（改革）と120度でつながると、新しい人間関係や場所に [&#8230;]",
+      "link": "https://brutus.jp/post-527884/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 牡牛座の運勢【ブルータス週間占い】",
+      "description": "牡牛座の羅針盤 心を整えるために暮らしを整える 今までのパターンを崩し、新しい自分へ脱皮していきたい週です。火星（意欲）が、牡牛座にとって居場所や基盤を示す部屋にあたる獅子座に入り、まずは生活の土台を整えることがテーマと [&#8230;]",
+      "link": "https://brutus.jp/post-527890/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 双子座の運勢【ブルータス週間占い】",
+      "description": "双子座の羅針盤 ゆっくり過ごす時間をつくる なんとなくモチベーションが上がりにくい週の始まりです。無理に気合いを入れるより、外へ出て季節の変化を肌で感じてみましょう。 29日に起こる太陽と天王星（改革）の120度のつなが [&#8230;]",
+      "link": "https://brutus.jp/post-527894/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 蟹座の運勢【ブルータス週間占い】",
+      "description": "蟹座の羅針盤 童心に戻って道を固める 金星（喜び）が蟹座にとって娯楽の部屋にあたる蠍座にいて、30日には水星（思考）も入ってきます。今週は、肩の力が抜け、楽しいと思えることを優先して動けるようになりそうです。好きなアーテ [&#8230;]",
+      "link": "https://brutus.jp/post-527896/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 獅子座の運勢【ブルータス週間占い】",
+      "description": "獅子座の羅針盤 守りたいもののために走る 挑戦したいことに向かって、まっすぐ走っていける週です。火星（意欲）が自エリア（獅子座）に在住し、太陽も好奇心を示す天秤座にいるため、行動力は十分。投げられたボールに向かってまっす [&#8230;]",
+      "link": "https://brutus.jp/post-527909/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 乙女座の運勢【ブルータス週間占い】",
+      "description": "乙女座の羅針盤 未来のための頑張り貯金をする 長い目でゴールを見据えて、地道に努力を積み重ねていける週です。週明け早々に火星（意欲）が乙女座にとって内省の部屋となる獅子座に入ることで、自分との戦いが始まります。 ただ、そ [&#8230;]",
+      "link": "https://brutus.jp/post-527920/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 天秤座の運勢【ブルータス週間占い】",
+      "description": "天秤座の羅針盤 肩書きという鎧を脱ぐ 音楽とともにダンスパートナーを変えていくように、人間関係は状況によって変化するのだと実感するときです。週の初め、月が天秤座にとって対人関係を意味する部屋、牡羊座にいるため、出会いには [&#8230;]",
+      "link": "https://brutus.jp/post-527922/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 蠍座の運勢【ブルータス週間占い】",
+      "description": "蠍座の羅針盤 準備万端でなくても力を試す 蠍座にとって労働の部屋にあたる牡羊座に月がいる週頭。28日に火星（意欲）がキャリアの部屋である獅子座に入るため、仕事での野心が高まってくるときです。 一方で、太陽が内省の部屋であ [&#8230;]",
+      "link": "https://brutus.jp/post-527924/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 射手座の運勢【ブルータス週間占い】",
+      "description": "射手座の羅針盤 過去の感傷に浸りきる 週の初めに月がいるのは、射手座にとって娯楽の部屋にあたる牡羊座。楽しいことが多く、心を弾ませながら過ごせそうです。28日に火星（意欲）が哲学や未来を意味する部屋にあたる獅子座に入ると [&#8230;]",
+      "link": "https://brutus.jp/post-527926/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 山羊座の運勢【ブルータス週間占い】",
+      "description": "山羊座の羅針盤 仲間と一緒に進む 太陽は山羊座にとってキャリアの部屋にあたる天秤座に在住。29日には、天王星（改革）と120度でつながります。仕事で実力を発揮する機会に恵まれますが、同時に、これまでのやり方の限界にも気が [&#8230;]",
+      "link": "https://brutus.jp/post-527928/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 水瓶座の運勢【ブルータス週間占い】",
+      "description": "水瓶座の羅針盤 自分らしさを出す ようやく目標地点が見えてきたような感覚を抱く週の始まりです。太陽は水瓶座にとって理想を意味する部屋、天秤座にいて、29日に天王星（改革）と120度でつながります。これによって目の前がすっ [&#8230;]",
+      "link": "https://brutus.jp/post-527930/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "9月28日〜10月4日 魚座の運勢【ブルータス週間占い】",
+      "description": "魚座の羅針盤 新しい興味の種を探す 週明けすぐに月は魚座にとって学びの部屋である牡牛座に入ります。ほぼ同じタイミングで、火星（意欲）が獅子座へ移動。獅子座は日々の業務の部屋にあたり、この配置によって、集中してタスクを消化 [&#8230;]",
+      "link": "https://brutus.jp/post-527933/",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『無職転生Ⅲ』第2クール、2027年放送決定！　迫る、龍神オルステッドとの戦い",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571588.html",
+      "pubDate": "2026-09-28T07:30:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/4/d443d944.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "グリーンショップ〈アラヘアム〉が手がける、霧島の絶景コーヒーショップ。",
+      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
+      "link": "https://casabrutus.com/categories/food/492204",
+      "pubDate": "Sun, 27 Sep 2026 22:00:39 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -39,6 +364,19 @@
       "link": "https://jin115.com/archives/52459706.html",
       "pubDate": "2026-09-28T07:00:25+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/ed661e3a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【地獄】虐待父親が小学校の3者面談に来た結果、まともな親が絶対しない◯◯◯をして担任教師が震えあがる　→　虐待被害児童から「あるある」の声…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10571587.html",
+      "pubDate": "2026-09-28T07:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/b/1b4c7018.jpg"
     },
     {
       "siteId": "jin",
@@ -392,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4c2a891.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【異常事態】アジア大会、バド宮崎友花選手の試合が深夜0時に開始！破綻スケジュールに海外から非難殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571483.html",
-      "pubDate": "2026-09-27T20:30:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/66967dfd.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -418,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/4/2408644c-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『スター・ウォーズ』エピソード10の監督が決定！トムホ版スパイダーマンのジョン・ワッツ監督！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571477.html",
-      "pubDate": "2026-09-27T20:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/a/aadfd297.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -442,19 +754,6 @@
       "link": "https://brutus.jp/post-492311/",
       "pubDate": "Sun, 27 Sep 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "サ終を発表したロボゲー『シンデュアリティ』、オフライン版の制作決定で「やっと完成して遊べるようになる」と言われてしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571475.html",
-      "pubDate": "2026-09-27T19:30:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/b/4b297610.jpg"
     },
     {
       "siteId": "jin",
@@ -483,19 +782,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/Photo-7-2.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像あり】東武東上線内に”顔に紙袋をかぶり、金正恩が印刷された紙を窓にかかげる”不審者出現",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571425.html",
-      "pubDate": "2026-09-27T19:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/483e2e59.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +806,6 @@
       "link": "https://brutus.jp/post-428281/",
       "pubDate": "Sun, 27 Sep 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "坂本龍一さんの娘、 坂本美雨さん「7万人のニューヨーク市民をオペラ観劇に招待！なんて素敵なんだ。日本が愚かすぎる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10571422.html",
-      "pubDate": "2026-09-27T18:40:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/175736e7.jpg"
     },
     {
       "siteId": "jin",
@@ -574,32 +847,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/AB535FB1-788B-4EC3-BA1E-4C5BF13A3A93.jpeg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "NMB人気アイドルさん「助けて！ファンからお金を騙し取ったら、ストーカーになっちゃったの！」→運営「・・・は？」→ガチでやばいことになる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459652.html",
-      "pubDate": "2026-09-27T16:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/1/810c9852.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【恐すぎ】最近の千葉の災害、”アレ”が原因じゃないか？と騒がれ始める・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459636.html",
-      "pubDate": "2026-09-27T15:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96cdbc3e.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -624,19 +871,6 @@
       "link": "https://rocketnews24.com/2026/09/27/2806276/",
       "pubDate": "Sun, 27 Sep 2026 05:23:21 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_5749-.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「美しすぎるボートレーサー、見つかりました」→ネット「うおおおおおおお！！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459629.html",
-      "pubDate": "2026-09-27T14:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/f/bf7860bd.jpg"
     },
     {
       "siteId": "brutus",
@@ -821,19 +1055,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "新たな才能、門脇康平の初長編作品『我々は宇宙人』が公開。こだわったのは驚異的なリアリティ",
-      "description": "解像度の高さが、観る者自身の記憶を掘り起こす 製作中、自分が本当に信じられない演出は全部なくそうと決意して、スタジオにその誓いを書いたものを貼っていました。なんとなくフィクションだからあり得るだろうという演出は、自分の中 [&#8230;]",
-      "link": "https://brutus.jp/post-525491/",
-      "pubDate": "Sat, 26 Sep 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -884,19 +1105,6 @@
       "link": "https://rocketnews24.com/2026/09/26/2802004/",
       "pubDate": "Sat, 26 Sep 2026 06:00:00 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/koedenai1.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "6人が語る、6大ジャンルのドラマ論。〜小柳帝とホームドラマ〜",
-      "description": "“家”という舞台で起きる、人と人との物語に心を動かされる 私はテレビっ子でしたし、親の締めつけもかなり緩く、早く寝ろとも言われませんでしたので、大人の観るドラマを小さい頃から親と一緒に観る習慣がありました。ただ、その頃の [&#8230;]",
-      "link": "https://brutus.jp/post-451062/",
-      "pubDate": "Sat, 26 Sep 2026 03:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -964,32 +1172,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/25/06/thumb/QiEMitX5F.png?crop=1487:991;304,0&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "『大衆ジンギスカン酒場ラムちゃん』が休日限定で提供している「ランチ定食」を頼んでみた → 国産野菜が食べ放題でスゴすぎ！",
-      "description": "0円飲み放題が話題の「大衆ジンギスカン酒場 ラムちゃん」。我がサイトのMr.酒ことあひるねこ記者も、その斬新すぎるシステムに賞賛の言葉を送っている。 そんなラムちゃん、土日祝の12:00〜15:00にだけ限定販売している [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/26/2804346/",
-      "pubDate": "Sat, 26 Sep 2026 01:00:11 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/41564_0.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ガチ判定】AIに自分のクズ度を聞いたら57％だった。そして「クズではある。ただし業務用の大クズではなく、家庭用の中クズ」と言われた理由",
-      "description": "自分がどういう人間なのか、他人から本気で言ってもらう機会は中年になるとほとんどない。 私（耕平）は会社では役職がついて、成人した娘2人の父親でもある。なので現在、忖度なしに誰も「あなたはこういう人です」とは言ってくれない [&#8230;]",
-      "link": "https://rocketnews24.com/2026/09/26/2800350/",
-      "pubDate": "Sat, 26 Sep 2026 00:00:00 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/1.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1014,32 +1196,6 @@
       "link": "https://www.buzzfeed.com/jp/white_lily/midori-miniclip-penholder",
       "pubDate": "Fri, 25 Sep 2026 19:01:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/24/04/thumb/Az73ra5bO.png?crop=1620:1080;150,0&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "トラはねるな！ 妹の宿題に付き合う隣の男子！　隣りの席の子の様子がおかしい第63回「宿題」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/09/26/2801011/",
-      "pubDate": "Fri, 25 Sep 2026 23:00:39 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/tonari63-1koma.png"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "みやげもんコレクション：ひろしま張子（広島県／広島市）",
-      "description": "広島の風物詩を詰め込んだ新しい張子玩具 広島県の張子というと、廿日市張子と宮島張子、三原だるま、そして平成の中頃に廃絶した常石張子が知られています。この「ひろしま張子」は、そんな広島で生まれた新しい張子玩具です。 誕生の [&#8230;]",
-      "link": "https://brutus.jp/post-524027/",
-      "pubDate": "Fri, 25 Sep 2026 23:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1068,58 +1224,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ブルータス時計ブランド学 Vol.90〈ピアジェ〉の「ポロ」",
-      "description": "〈ピアジェ〉の「ポロ」とは スポーツウォッチを薄型ケースでエレガントに再構築 〈ピアジェ〉の歴史を遡ると、「ポロ」の名が1979年に見つかる。当時は、現在に続くSS製のラグジュアリースポーツウォッチが各社から登場していた [&#8230;]",
-      "link": "https://brutus.jp/post-523036/",
-      "pubDate": "Fri, 25 Sep 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ホームリネン、なに使ってますか？Vol.2",
-      "description": "〈krank〉藤井健一郎 〈OLDMAN'S TAILOR〉 のクロス 小さい頃から、サーカスの空気感が大好きです。刺繍で描かれたクラシックなテント小屋……僕にとっては、持っておかない理由がないくらいです。こちらもクタク [&#8230;]",
-      "link": "https://brutus.jp/post-520440/",
-      "pubDate": "Fri, 25 Sep 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ロックの話をしよう。Vol.15「死の美学と生のパワー」",
-      "description": "ロックが流行らなくなった。そんな身も蓋もない話から、この対談は始まる。 かつてロックは、若者の音楽であり、バンドの音楽であり、衝動やロマンや思想を映し出す音楽だった。ギターを持つこと、バンドを組むこと、レコードを買うこと [&#8230;]",
-      "link": "https://brutus.jp/post-526068/",
-      "pubDate": "Fri, 25 Sep 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "手は口ほどに#22：気鋭のパティシエがつくるのは、クラシックで新しいフランス菓子",
-      "description": "子供の頃は、工作やプラモデルをつくるのが好きだった。 やがて、ホテルの厨房に立つようになった。若い頃は、とにかく働いた。「就業時間は9時からなのに、6時には厨房に行ってました。7時に行ったら、遅刻のように言われたことも」 [&#8230;]",
-      "link": "https://brutus.jp/post-527178/",
-      "pubDate": "Fri, 25 Sep 2026 09:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1130,19 +1234,6 @@
       "description": "神戸・竹中大工道具館にて、「木の生命、かたちへ　—ジョージ・ナカシマと職人たち」展が開催されます。 ── 一本の木には、それぞれ固有の形と表情があります。ジョージ・ナカシマ（1905–1990）は、その個性を生かす家具を [&#8230;]",
       "link": "https://artscape.jp/article/79450/",
       "pubDate": "Fri, 25 Sep 2026 08:00:41 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "公園の木とともに育っていく。福岡・博多駅前の風変わりなパンビストロ",
-      "description": "曲線の向こうに広がる、団らんの風景 2026年8月、福岡・博多駅前の「明治公園」にオープンしたベーカリー＆パンビストロ〈Land Bageri〉。そのモチーフは、人が身を寄せ合い、火を囲んだ暮らしの原点を思わせる「洞窟」 [&#8230;]",
-      "link": "https://brutus.jp/post-526804/",
-      "pubDate": "Fri, 25 Sep 2026 08:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1198,19 +1289,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/7ead62866d2756d7e0b4204574d20c0a-1024x767.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "グルマン温故知新：祐天寺〈李朝膳 Le Chozen〉日本に暮らすコリアンの家庭料理がベース",
-      "description": "李朝膳 Le Chozen（祐天寺） 日本に暮らすコリアンの家庭料理がベース 「子供の頃、家で韓国料理を食べている友達は少なかった」と、オーナーの石山秀一さん。1985年生まれの在日コリアン2世。食に厳格な父、料理上手な [&#8230;]",
-      "link": "https://brutus.jp/post-524043/",
-      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1224,19 +1302,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今月のギフト】お世話になっているあの人へ。1万円以下で買える、気の利いたプレゼント #23",
-      "description": "引っ越したばかりのあの人へ圧縮されたタオルセット3,850円\n    \n\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\n〈lil〉のタオルセット圧縮タオル（バスタオル 約60×110cm＊広げた状態 1枚、フェイスタオル 約34×80cm＊広げた状態 2枚） 3,850円\n\n\n\n\nもっと詳しく\n",
-      "link": "https://brutus.jp/post-524412/",
-      "pubDate": "Thu, 24 Sep 2026 12:00:00 +0000",
-      "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/09/2026-07-01_BU_gift-10217-750x500.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1248,32 +1313,6 @@
       "link": "https://www.buzzfeed.com/jp/ayahara/matsushitakouhei0924",
       "pubDate": "Thu, 24 Sep 2026 07:16:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/24/04/subbuzz/zJMLJSvn5.jpg?crop=2237:1491;649,557&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "〈stacks bookstore〉店主・山下丸郎に聞く「全国また行きたい酒場」",
-      "description": "会津若松〈地酒処 天竜〉 母の故郷が会津なので会津には子供の頃からよく遊びに行ってます。夜はわりと静かな雰囲気なのですが、南会津マウンテンブルーイングの皆からおすすめされた〈天竜〉に入ると大賑わい。日本酒の種類も豊富で最 [&#8230;]",
-      "link": "https://brutus.jp/post-512598/",
-      "pubDate": "Thu, 24 Sep 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "東大にはこんな先輩もいます。Vol.2 モデル、古書店店主etc. 先輩たちに5つの質問",
-      "description": "東京大学に入学した理由は？ 今でも忘れられない、キャンパスの中の思い出の場所や、講義、先生は？ 大学時代に進路について考えていたことは？ 大学で学んだことで、今の人生に生きていることは？ 今受験生に戻ったら、また東大に入 [&#8230;]",
-      "link": "https://brutus.jp/post-525773/",
-      "pubDate": "Thu, 24 Sep 2026 10:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1365,32 +1404,6 @@
       "link": "https://sumida.goguynet.jp/2026/09/24/akibajinjya-sairei2026/",
       "pubDate": "Wed, 23 Sep 2026 23:01:53 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/A3362502-F249-4082-AAFA-6CBAF83C0453-e1789111424941-1024x767.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "4人の写真家と見つめる、京都の余白の記憶",
-      "description": "西芳寺 湘南亭 写真・文：瀧本幹也 視覚に心地よい余白は、建築の形だけに宿るものではない。静寂に耳を澄まし目を閉じると、茶の湯が尊ぶ「間」が意識の奥に浮かび上がってきた。 「苔寺」として知られる西芳寺には、千利休の次男・ [&#8230;]",
-      "link": "https://brutus.jp/post-462997/",
-      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "韓国発〈ボフミルコーヒー〉が対馬へ。国内外のロースタリーを紹介する「場」を目指す。",
-      "description": "全国で続くカフェの新規オープン。コーヒーへのこだわりに加え、店舗のデザインやフードメニュー、器選びにも個性が宿ります。新しい“波”が感じられる最新のカフェを毎日ご紹介！",
-      "link": "https://casabrutus.com/categories/food/492199",
-      "pubDate": "Wed, 23 Sep 2026 22:00:21 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1601,19 +1614,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】9月25日（金）‼　アルカキット錦糸町リニューアルオープンの日が近づいて来ました！",
-      "description": "2026年6月に、リニューアルのため休業をお伝えした「ユニクロ アルカキット錦糸町店」 【墨田区】ご注意下さい！アルカキット錦糸町のユニクロは休業中です。 昨年（2025年）末からお伝えしています、アルカキット錦糸町4階 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/09/18/uniqlorenewal2026/",
-      "pubDate": "Thu, 17 Sep 2026 23:01:46 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/6ed774a1973d3eff73e5d14e7fd600d5-1024x731.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/07/09/thumb/N7fYTfxmm.jpg?crop=1245:830;3,0&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-27T22:29:53.093337",
+  "updatedAt": "2026-09-28T01:07:35.635959",
   "sites": [
     {
       "id": "hachima",
