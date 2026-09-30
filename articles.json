@@ -2,6 +2,149 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「家取り壊したら〇〇出てきた」ﾊﾟｼｬｯ→マジでワクワクする奴が出てきて万バズｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459877.html",
+      "pubDate": "2026-10-01T06:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2df80064.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アジア競技大会の『LoL』がなぜか「無線マウス使用禁止」で大炎上！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10572342.html",
+      "pubDate": "2026-10-01T06:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4adc90f4-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "タレント・壇蜜の写真集のギャラが「33万円」だと判明しネット民が絶句",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10572350.html",
+      "pubDate": "2026-10-01T05:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/18ef4325-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国・習近平政権、岩屋前外相を厚遇→ネットでは意見が割れる「それが中国のやり方　騙されるな」「もう岩屋さんが首相になった方がいい」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459875.html",
+      "pubDate": "2026-10-01T05:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/a/6a39ab79.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『ヤニねこ』などの制作会社が船橋にサウナを開業ｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10572347.html",
+      "pubDate": "2026-10-01T05:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/2/52b0bb13.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女だと勘違いしてウキウキで通話に誘った男さん、相手が同じ男と判明した2秒後ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459873.html",
+      "pubDate": "2026-10-01T04:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/1/d17850ec-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【⁉】格ゲーVTuber・蒼輪ちなみが「生身で」FAV gamingの選手として加入",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10572346.html",
+      "pubDate": "2026-10-01T04:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/7/471608f6-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【いいの？】『都市伝説解体センター』の廻屋渉が鎌ヶ谷警察署の1日警察署長にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10572343.html",
+      "pubDate": "2026-10-01T03:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6e0f71c2.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "JKが履く上履きの「中敷き」だけを狙う被害多発 被害校は少なくとも〇〇件に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459872.html",
+      "pubDate": "2026-10-01T03:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/4/d41b146b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『紅の砂漠』DLC「未知なる旅路」が10月30日に配信延期「完成度の高いコンテンツと安定したプレイ体験には追加の開発期間が必要と判断」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10572353.html",
+      "pubDate": "2026-10-01T02:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/3/e30562f5.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "少年ジャンプ＋、突然ブチギレ声明！超有能編集者・林士平さんとの関係を「終了させました」と発表・・・『チェンソーマン』『スパイファミリー』『ダンダダン』など担当",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52459887.html",
+      "pubDate": "2026-10-01T02:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/f/7f51c851.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -418,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/34e79ef6.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "自治体「お前が産地偽装した返礼品を発送したせいでふるさと納税制度から除外されたわ！2億5400万円の賠償払え！」 業者「ふざけんな！市に損失はねーだろ！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10572225.html",
-      "pubDate": "2026-09-30T18:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/50c6be14-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +572,6 @@
       "link": "https://jin115.com/archives/52459858.html",
       "pubDate": "2026-09-30T18:00:37+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e8b77cb0.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "高市首相が抜擢した簗和生新農相に圧力疑惑！「選挙で自民党支持しなければ予算を大幅カット」文春と新潮が肉声公開",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10572221.html",
-      "pubDate": "2026-09-30T18:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/1/716f0e3d.jpg"
     },
     {
       "siteId": "brutus",
@@ -483,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/5/a55a270f.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【注意】『エスコン8』購入特典の移植版『エスコンZERO』後日販売なし！ダウンロード版の予約特典は10月2日午前6時59分まで！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10572210.html",
-      "pubDate": "2026-09-30T17:30:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fc52730d.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +611,6 @@
       "link": "https://jin115.com/archives/52459841.html",
       "pubDate": "2026-09-30T17:00:43+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】30～34歳の未婚率 女性41.9%、男性53.8%！50歳時未婚率は男女ともに過去最高に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10572192.html",
-      "pubDate": "2026-09-30T17:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/ea069497.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -535,32 +626,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/bandai7.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "GEO「せや！新業態として、レトロゲーも扱ったろ！」 → とんでもない結果になる…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10572189.html",
-      "pubDate": "2026-09-30T16:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/8/38bc3a79-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「なんでネトウヨって中国嫌いなの？？」→ぐうの音も出ない“ファクト”を突き付けられる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459839.html",
-      "pubDate": "2026-09-30T16:30:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/5/b57edca1.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -574,45 +639,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】女子「こういう顔のチー牛はモテます。隠れファンを各所に発生させ気づいたら無双してます」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10572175.html",
-      "pubDate": "2026-09-30T16:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/7081919c.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "デイリー新潮「中国産の野菜を使用してる外食チェーン晒しまーす！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459838.html",
-      "pubDate": "2026-09-30T16:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/5/55a88feb.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "声優・津田健次郎さんの「生成AIによる無断模倣動画」裁判結果がこちら・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459857.html",
-      "pubDate": "2026-09-30T15:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/3/b38316ac.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -624,19 +650,6 @@
       "link": "https://rocketnews24.com/2026/09/30/2807609/",
       "pubDate": "Wed, 30 Sep 2026 06:00:09 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_9464.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【ヤバすぎ】妻との離婚裁判、弁護士事務所に“反社”が入り込んでいる可能性が浮上→結果・・・・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459831.html",
-      "pubDate": "2026-09-30T14:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cb796d95.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -663,19 +676,6 @@
       "link": "https://rocketnews24.com/2026/09/30/2807592/",
       "pubDate": "Wed, 30 Sep 2026 04:07:50 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/RN24_1122.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「バスケのフリースローを外野が妨害してる！恥ずかしくないんか？」→有識者、まさかの一言「これは〇〇ですよ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52459830.html",
-      "pubDate": "2026-09-30T13:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/4/048f568a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/07/09/thumb/N7fYTfxmm.jpg?crop=1245:830;3,0&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-09-30T16:57:18.188562",
+  "updatedAt": "2026-09-30T21:22:47.007671",
   "sites": [
     {
       "id": "hachima",
