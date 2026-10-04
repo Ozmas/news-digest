@@ -2,6 +2,123 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "本が本を呼び、人を繋ぐ。近年人気の街、丹波篠山に位置する自家焙煎コーヒーと本の店。",
+      "description": "本と出会う時間をじっくり味わえる喫茶スペース併設の書店から、アート本を探すこと自体がアート体験になる書店、複数の店主が共同で運営する話題のシェア型書店まで。わざわざ足を延ばしてでも訪れたい、全国の個性豊かなブックストアを紹介します！",
+      "link": "https://casabrutus.com/categories/culture/492515",
+      "pubDate": "Sun, 04 Oct 2026 22:00:52 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "清掃中の男性が「誘拐された、助けて！」という手紙が入ったガラス瓶を発見 → それをSNSに投稿した結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460123.html",
+      "pubDate": "2026-10-05T07:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/4/04c2c2fb-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【泣いた】結婚式10日前にキャンセルした男性、150万円請求される　→　「◯◯◯です」と事情を話したら運営に100万円まで大幅値下げしてもらった話ｗｗｗ　マジか",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10573786.html",
+      "pubDate": "2026-10-05T07:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/f/df529d85.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "メインよりその周辺が気になる！ 本気を出した武道家！　四コマサボタージュFB第101回「第三の眼」",
+      "description": "挌闘家と武道家の違いがあまりよく分からないんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/05/2805426/",
+      "pubDate": "Sun, 04 Oct 2026 22:00:01 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/1koma-101.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ダンジョン飯』 『サイレント・ウィッチ』 『J⇔M　ジェイエム』などの人気作品が50％オフの激安セール開催！！ニコニコカドカワ祭り2026 第3弾！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460141.html",
+      "pubDate": "2026-10-05T06:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/6/86d6ac37.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「え？セブンのスイーツがファミマに売ってるｗ」(ﾊﾟｼｬｯ→嘘を疑われるが、実際あり得るらしい・・・その理由がコチラ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460130.html",
+      "pubDate": "2026-10-05T06:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fd1d80d1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『咲-Saki-』原村和の3サイズを測ってみたら想像以上にスゲェボディだった",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10573727.html",
+      "pubDate": "2026-10-05T06:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/4/34ade4b4.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】イオンにあるゲーセンのクレーンゲームが酷すぎ！！マジで撫でてるだけでアーム閉じてねぇｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10573720.html",
+      "pubDate": "2026-10-05T05:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/4/b4ee2836.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "タワマン23階に住む子供、ベランダをつたって自宅から隣の部屋に移動しようと試みるもマジで最悪なことに・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460135.html",
+      "pubDate": "2026-10-05T05:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/8/48a2daac.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -431,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/a/ba980f51-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【宗教】中国のアニソンイベントのDJ、命がけで『INMU KING』をプレイ　お前らの想像の300倍ノリノリで踊る中国人達の熱量がヤバすぎると話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10573633.html",
-      "pubDate": "2026-10-04T18:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bf042d98-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -455,19 +559,6 @@
       "link": "https://jin115.com/archives/52460112.html",
       "pubDate": "2026-10-04T18:00:00+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f890a494.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "中国メディア「うっかり誤って噛んだだけ。証拠もない。」アジア大会柔道女子の中国選手の噛みつき反則負けをトンデモ擁護",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10573632.html",
-      "pubDate": "2026-10-04T17:30:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/3/b31be17b.png"
     },
     {
       "siteId": "jin",
@@ -494,19 +585,6 @@
       "link": "https://rocketnews24.com/2026/10/04/2806556/",
       "pubDate": "Sun, 04 Oct 2026 08:00:03 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/kikimimi116-1koma.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】最近のクレーンゲーム、アームがとんでもない事になってしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10573628.html",
-      "pubDate": "2026-10-04T17:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/580762d6.jpg"
     },
     {
       "siteId": "brutus",
@@ -587,45 +665,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/saize03.jpeg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "バンド『サザンオールスターズ』のメンバー、約5億8000万円の申告漏れ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460109.html",
-      "pubDate": "2026-10-04T14:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/39db0a53-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "米国産ジャガイモの輸入解禁、○○の圧力で滅茶苦茶早まりそう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460098.html",
-      "pubDate": "2026-10-04T13:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/9/e943bd63.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "訪中した岩屋前外相、高市首相の外交を皮肉たっぷりに全否定→ネットの反応、真っ二つ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460087.html",
-      "pubDate": "2026-10-04T12:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/9/e91c2032.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -676,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/10/04/2806354/",
       "pubDate": "Sun, 04 Oct 2026 02:30:14 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/41867.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "YouTuber「飛行機に変形ナイフ持ち込めるか試したろｗ」→結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460097.html",
-      "pubDate": "2026-10-04T11:30:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/67bb9c36-s.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -962,19 +988,6 @@
       "link": "https://rocketnews24.com/2026/10/03/2808270/",
       "pubDate": "Sat, 03 Oct 2026 02:00:15 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/s2.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "1500年前の中国の仏教美術が残る世界遺産「雲崗石窟」に行ってみたら、仏のテンションが思ってたのと違った",
-      "description": "仏教の本場である中国。山西省大同市の西16kmには1500年以上前の古代仏教美術が残る遺跡がある。ユネスコ世界遺産にも登録されている『雲崗石窟（うんこうせっくつ）』だ。 岩壁や石窟に彫られた巨大な仏像群はネットで画像を見 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/03/2805992/",
-      "pubDate": "Sat, 03 Oct 2026 01:00:13 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/unkou18.jpg"
     },
     {
       "siteId": "sumida",
@@ -1393,19 +1406,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2023/09/030E94C1-52DB-4DF5-9808-860B476AB3A9-1024x767.jpeg"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "ふさわしい本を”調合”する、 赤坂の予約制アート古書店。",
-      "description": "本と出会う時間をじっくり味わえる喫茶スペース併設の書店から、アート本を探すこと自体がアート体験になる書店、複数の店主が共同で運営する話題のシェア型書店まで。わざわざ足を延ばしてでも訪れたい、全国の個性豊かなブックストアを紹介します！",
-      "link": "https://casabrutus.com/categories/design/492445",
-      "pubDate": "Wed, 30 Sep 2026 22:00:03 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/07/09/thumb/N7fYTfxmm.jpg?crop=1245:830;3,0&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-04T19:29:41.429393",
+  "updatedAt": "2026-10-04T22:29:12.709850",
   "sites": [
     {
       "id": "hachima",
