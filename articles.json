@@ -2,6 +2,136 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "苦しすぎて『いのちの電話』を頼った女性、ヤバすぎることを言われ絶望・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460326.html",
+      "pubDate": "2026-10-08T05:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/f/3ff9ecb6.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ラーメン二郎直系店さん、接客が「刑務所すぎる」と話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10574563.html",
+      "pubDate": "2026-10-08T05:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/5/b5937f3c-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【スゲエ】アニメ『ジョジョ7部 スティールボールラン』OP曲がビルボートチャート入り！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10574559.html",
+      "pubDate": "2026-10-08T04:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/2/e289400e-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「『女だけの街』令和最新版の漫画描きました！これが今の女だけの街の話です！男は反省して！」→批判殺到",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460324.html",
+      "pubDate": "2026-10-08T03:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/b/3b99d92f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "カクヨム作家さんスシローで釜玉を頼んで「出汁が入ってない！」とキレる→世間からツッコミ殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10574556.html",
+      "pubDate": "2026-10-08T03:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1c9b5394.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "配信者に大流行中の運転指示ゲーム『妹に運転を教える』デモ版プレイヤーが増えすぎてAIトークン利用料も爆増！1日でとんでもない金額が消費されていた・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10574587.html",
+      "pubDate": "2026-10-08T02:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/292226d7.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【アジア大会】愛知県・大村知事の「来てほしくなかった」発言、案の定タイで叩かれまくる「タイにも来てほしくない」「日本人はいつも他人のせい」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10574579.html",
+      "pubDate": "2026-10-08T01:30:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/e/3e85aee9.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "警察の職質を撃退できる最強の方法が話題に！「〇〇って言ったらあいつら諦めるで」 → ガチで効くらしいぞこれｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460322.html",
+      "pubDate": "2026-10-08T01:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/13439e20.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ここ数日のサイバー攻撃、日本だけじゃなく世界中で被害続出！アメリカや欧州もひどい状況に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10574581.html",
+      "pubDate": "2026-10-08T01:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78178860.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「なんでみんな山坂ばかりの横浜に住みたがるの？」⇒ 平坦な埼玉に住んだらメンタルにきた人の話に共感が集まる",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10574522.html",
+      "pubDate": "2026-10-08T00:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/8/c824065a-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -366,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/8/28550911.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【流出祭り】HIS、顧客600人超のパスポート情報漏えいか",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10574445.html",
-      "pubDate": "2026-10-07T17:30:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/6/f665933f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -390,19 +507,6 @@
       "link": "https://jin115.com/archives/52460308.html",
       "pubDate": "2026-10-07T17:00:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca35d0a3.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】超品薄のPS5 Pro、ついに海外中古価格が1,399.99ドル(約22万円)まで上昇　発売当初の新品価格の約2倍",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10574439.html",
-      "pubDate": "2026-10-07T17:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/00658dcc.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -431,32 +535,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【炎上】KAITOハッシュタグ問題、キンプリ高橋海人さんも「ボカロ=実在する人間」だと勘違いしてる説が浮上　高橋さんの本人のコメントがこちら",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10574424.html",
-      "pubDate": "2026-10-07T16:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4a43ab9b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ハッカー集団「日本は、世界最悪のコンピュータセキュリティ体制を持つ国のひとつなんだわ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10574423.html",
-      "pubDate": "2026-10-07T16:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/4/c415b84e-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -468,19 +546,6 @@
       "link": "https://jin115.com/archives/52460299.html",
       "pubDate": "2026-10-07T16:00:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/a/9a302862.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "無職転生作者「書籍版を出す時に問題部分を消そうと提案してきた出版社さんには先見の明があった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10574420.html",
-      "pubDate": "2026-10-07T15:30:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/72ea9e97.jpg"
     },
     {
       "siteId": "jin",
@@ -520,32 +585,6 @@
       "link": "https://jin115.com/archives/52460298.html",
       "pubDate": "2026-10-07T15:00:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/21b65218.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】野球場のビール売り子、キャバクラ化してしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10574418.html",
-      "pubDate": "2026-10-07T15:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca7e885a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "公正取引委員会「お前ら、ビール価格調整したやろ？調査するわ」 → 「アサヒ」「キリン」「サッポロ」「サントリー」を対象に強制調査",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10574414.html",
-      "pubDate": "2026-10-07T14:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/1/21811cd0-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -704,19 +743,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/i1.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "文科省、東大の次期学長選にブチギレ・・・記者「任命の可否の判断は？」→「○○が重要なので」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460285.html",
-      "pubDate": "2026-10-07T11:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/2/e274ea04.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -728,32 +754,6 @@
       "link": "https://artscape.jp/article/79402/",
       "pubDate": "Wed, 07 Oct 2026 02:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "反戦アニメーター「中国が日本を攻めるわけない。○○するだけで日本は破滅するのだから。それがわからない人が多すぎて不思議」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460284.html",
-      "pubDate": "2026-10-07T10:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db26f8bf.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "自転車乗りさん「車乗ってる人へ。カーブで追い越すのやめてくれ、事故るかと思った」→怒りの証拠動画が投稿されるも・・・これどっちが悪い？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460280.html",
-      "pubDate": "2026-10-07T10:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/563fb719.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-07T15:23:26.996511",
+  "updatedAt": "2026-10-07T20:44:12.713872",
   "sites": [
     {
       "id": "hachima",
