@@ -2,6 +2,240 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「当日の欠席は半額のキャンセル料がかかります」→この言葉の表現を少し変えた結果、逆に感謝されるようになるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460462.html",
+      "pubDate": "2026-10-10T09:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/a/4a8f1098.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【朗報】『ソニックレーシング クロスワールド』、DLCで「FF7リメイク」「サンリオ」「P3R・P4R・P5R」とコラボ決定！！　スマブラかｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10575549.html",
+      "pubDate": "2026-10-10T09:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75cebd46.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「ちくしょうめぇぇ！」 味噌蔵の奥で貧乏神神社を発見。棒で叩いて蹴って豆を投げつける、衝撃の参拝方法を体験してみた",
+      "description": "神社といえば、手を合わせて静かにお願い事をする場所。 ところが長野県には、棒で叩き、蹴り飛ばし、さらには豆まで投げつけるという、とんでもない神社がある。 しかも、祀られているのは貧乏神。そんなことをしてバチが当たらないの [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/10/2811340/",
+      "pubDate": "Sat, 10 Oct 2026 00:00:45 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/LINE_ALBUM_20261009-_3_261009_40.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "外国人の生活保護に反対する和光市議・萩原圭一氏に賞賛の嵐！「クレームが来ても負けじと訴え続ける。ここでやめたら左翼どもの思うツボ」と強気の姿勢！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460463.html",
+      "pubDate": "2026-10-10T08:40:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/5/35c23148-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】『瑠璃の宝石』の凪さん、アニメ公式グッズやコラボでのドスケベ姿が限界突破！　想像の60倍以上、乳と尻でえちちｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10575547.html",
+      "pubDate": "2026-10-10T08:30:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/5/f55a20f7.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『だがしかし』全11巻すべて「50％ポイント還元」セール！2,932円分返ってくる！『よふかしのうた』コトヤマ先生が描く、駄菓子コメディ！一世を風靡した人気漫画！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460451.html",
+      "pubDate": "2026-10-10T08:20:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/3/2397fe9b.jpg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】映画だけでなく、フードやマーケット、ステージも楽しめる“まちと共に歩む映画祭「すみだパークシネマフェスティバル」",
+      "description": "今年もこの時期がやって来ました！ 「すみだパークシネマフェスティバル2026」 2026年10月10日(土)〜10月12日(月・祝) に、隅田公園 そよ風ひろばで開催されます。 「すみだパークシネマフェスティバル2026 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/10/sumidaparkcinemafes2026/",
+      "pubDate": "Fri, 09 Oct 2026 23:01:38 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8025-1024x767.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "プリキュア公式、プリキュアおじさんに大激怒！その理由がこれ・・・さすがにアカンわ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460461.html",
+      "pubDate": "2026-10-10T08:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8cb25207-s.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "え、なんで!? 意外にもできる子だった隣りの女子！　隣りの席の子の様子がおかしい第67回「テスト返し」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/10/2805791/",
+      "pubDate": "Fri, 09 Oct 2026 23:00:15 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/tonari67-1koma.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】ある料理インフルエンサーが公開した『赤いきつね』ショート動画、PRとして100点満点とネット絶賛！　「CM史上最も購買意欲わいた」「手間がすごい」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10575541.html",
+      "pubDate": "2026-10-10T08:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/dec5cf14.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "『第一回 前橋国際芸術祭 2026』がスタート。実行委員長で〈ジンズ〉CEOの田中仁さんに聞く、最新の見どころとは？",
+      "description": "「昭和のミルフィーユ」のような前橋ならではの芸術祭 「今回の参加アーティストでもある写真家の蜷川実花さんが、前橋の街を『昭和のミルフィーユ』と表現してくださったんです。昔ながらの商店や路地や、廃墟になった建物など、昭和の [&#8230;]",
+      "link": "https://brutus.jp/post-529696/",
+      "pubDate": "Fri, 09 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【10月10日〜12日】三連休必見の“アート＆デザイン”まとめ！",
+      "description": "カーサが注目する、三連休のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
+      "link": "https://casabrutus.com/categories/art/494963",
+      "pubDate": "Fri, 09 Oct 2026 22:55:38 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】PS5『Forza Horizon6』、Amazonで予約スタート！　予約特典は『限定フェラーリ J50』",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10575538.html",
+      "pubDate": "2026-10-10T07:30:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/4/c497dc2f.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "経験人数900人超のアダルト系女性YouTuberさん、とんでもないことになってしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460459.html",
+      "pubDate": "2026-10-10T07:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/4109d44b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "男性「貧乳女子と付き合うと『男はどうせデカ乳が好きなんでしょ？』と1度は尋問される。これの模範解答は何？」　→　正解がこちらｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10575535.html",
+      "pubDate": "2026-10-10T07:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/6/76add797.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "「目黒の秋刀魚」のモデルにもなった茶屋。【今日の名所江戸百景 by 村上隆】",
+      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
+      "link": "https://casabrutus.com/categories/art/491301",
+      "pubDate": "Fri, 09 Oct 2026 22:00:19 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "令和版「理想のお嫁さんランキング」、完成",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460456.html",
+      "pubDate": "2026-10-10T06:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/f/bf18d26e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】今年の鍋は白菜抜きになる模様。",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10575487.html",
+      "pubDate": "2026-10-10T06:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/ef0d6b5e.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -327,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ガルパン新作アクションゲーム『ガールズ＆パンツァー オールスター・タンク・カーニバル』スイッチ2独占で発売決定！大洗の再現度がすげえｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10575437.html",
-      "pubDate": "2026-10-09T20:30:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a226b2cd.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -379,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/d/0d609eb4-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【祝】『エースコンバット8』シリーズ最速で100万本を突破！これには某艦長もニッコリｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10575436.html",
-      "pubDate": "2026-10-09T20:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/2/12fbacd9.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -418,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/2/525093f3.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【辺野古沖転覆】京都府「同志社国際高は令和7年度の私学助成金の半額を返還するように。8年分も減額だ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10575434.html",
-      "pubDate": "2026-10-09T19:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a417af28-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +637,6 @@
       "link": "https://jin115.com/archives/52460445.html",
       "pubDate": "2026-10-09T19:20:48+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/c/2c6270a0.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ブックオフも不正アクセスで最大643万件の会員情報漏えい　住所氏名など",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10575375.html",
-      "pubDate": "2026-10-09T19:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78a0e4f0.jpg"
     },
     {
       "siteId": "jin",
@@ -509,58 +691,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『龍が如く』キャラと結婚できるスペシャルパッケージを買った人が告発！運営の対応がかなりマズイっぽい",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10575307.html",
-      "pubDate": "2026-10-09T18:40:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/d/1d13f818-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "看護師「この患者デブすぎ臭すぎ嗚咽祭りｗ」ﾊﾟｼｬｯ→大炎上へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460444.html",
-      "pubDate": "2026-10-09T18:40:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05573834.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アフガニスタン旅行で炎上した母子旅YouTuberさん、今度は3歳＆5歳連れでイラン→イラクへ 「日本より治安が良い」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10575262.html",
-      "pubDate": "2026-10-09T18:20:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1c687aba.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『月曜日のたわわ』最新15巻まで「50％ポイント還元」セール！5,940円分返ってくる！卑猥すぎてフェミに炎上させられた問題作！『乳』が主役の漫画！青版・同人版も",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460441.html",
-      "pubDate": "2026-10-09T18:20:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/edc43802.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -572,19 +702,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/09/edoshiki-open/",
       "pubDate": "Fri, 09 Oct 2026 09:01:12 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7961-1024x767.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ドコモがサイバー攻撃を受けて個人情報1億1000万件が流出し、ダークウェブで販売中との情報がXで拡散→ドコモが調査した結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460440.html",
-      "pubDate": "2026-10-09T18:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7aafc3d9-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -600,19 +717,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_9265.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "スレッズ女子「待って。クーリッシュ食べようとしたらなんか出てきたんだけど」→ロッテに調べてもらった結果、衝撃の報告書が届く・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460430.html",
-      "pubDate": "2026-10-09T17:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/2/625c4729.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -624,32 +728,6 @@
       "link": "https://brutus.jp/post-528153/",
       "pubDate": "Fri, 09 Oct 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "アニメ化もされた人気作品『RAIL WARS!』原作が「全巻100円」の激安セール開催！！続編・外伝も対象に！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460431.html",
-      "pubDate": "2026-10-09T16:30:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9e04cb17.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "鹿乃つのさん、ついにアカウント凍結",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460433.html",
-      "pubDate": "2026-10-09T16:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9b94eb97.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1081,32 +1159,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ダイソーなら550円なのにスリコは2200円！ 4倍高い「電子レンジで魚が焼けるやつ」を使ったら雲泥の差だった【100均検証】",
-      "description": "先日紹介した、3COINS（スリーコインズ）の「電子レンジ用ハーフホットサンドメーカー（税込2750円）」。これが非常に良かった。 電子レンジでチンするだけなのに、パンはしっかりカリカリ。あまりに気に入ったので、その横に [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/08/2810474/",
-      "pubDate": "Thu, 08 Oct 2026 02:55:46 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_355fd1.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "看板の主張が強すぎ！ 御徒町の家系ラーメン『大聖家』の「超幅広油そば」がライス不可避の破壊力だった",
-      "description": "上野・御徒町・アキバエリアは私、P.K.サンジュンのホームグラウンドである。前職時代の職場があったこと、今でも通っているスポーツジムがあることもあり、現在も週に2～3回は同エリアに足を踏み入れている。 そんな私が最近「主 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/08/2809299/",
-      "pubDate": "Thu, 08 Oct 2026 02:30:26 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/daiseiya01.jpeg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1354,19 +1406,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/75c140d3601436d9bf49d9f8aa3af58a-730x767.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "あなたの国を旅するのにおすすめのローカル鉄道は？：BRUTUS CITY JOURNAL",
-      "description": "🇨🇳 世界遺産の九寨溝（きゅうさいこう）に鉄道が開通！時速200㎞で高原を走る川青鉄路 中国／北京 四川省成都と青海省西寧を結ぶ川青鉄路は、全長約836㎞。2011年から工事が始まり、23年秋に竣工部分より運行を開始した [&#8230;]",
-      "link": "https://brutus.jp/post-511267/",
-      "pubDate": "Tue, 06 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1391,32 +1430,6 @@
       "link": "https://www.buzzfeed.com/jp/white_lily/iwate-local-craftbeer",
       "pubDate": "Tue, 06 Oct 2026 06:01:04 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/25/05/thumb/JPrQjAM18.png?crop=1620:1080;150,0&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "ジャズ喫茶ベイシーが恵比寿に降臨？ JBLの至高のスピーカーが最高のレコードに出会う瞬間。",
-      "description": "「音楽のエネルギーをダイレクトに浴びせるスピーカー」とも言われ、マニアにとどまらず、熱狂的なファンを持つJBL。そのJBLが創立80周年の集大成としてフラッグシップスピーカー《Summit Everest》を2026年秋リリースした。そのお披露目イベントともなった「Sound Summit 2026」が、9月初旬に恵比寿の〈BLUE NOTE PLACE〉にて開催された。",
-      "link": "https://casabrutus.com/categories/design/493668",
-      "pubDate": "Tue, 06 Oct 2026 07:25:15 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "工業用パレットから着想を得たハイバックソファが〈Karimoku New Standard〉から。",
-      "description": "〈Karimoku New Standard〉からゲッケラー・ミヘルスによるハイバックソファ《Fence Sofa 1-Seater》が登場。",
-      "link": "https://casabrutus.com/categories/design/493373",
-      "pubDate": "Tue, 06 Oct 2026 02:25:24 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "artscape",
@@ -1627,19 +1640,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/30/04/subbuzz/MiBBVH9bE.jpg?crop=943:629;28,28&resize=1250:830"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】10月3日（土）4日（日）は錦糸公園へ集合！すみだまつり・こどもまつり開催。",
-      "description": "今年もすみだまつり・こどもまつりの時期がやって来ました！ 2026年は10月3日（土）4日（日）の開催。会場は例年同様で錦糸公園・ひがしんアリーナほかとなっています。 現在、すでに設営の準備がはじまっています。自転車の駐 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/01/sumidamatsuri2026/",
-      "pubDate": "Wed, 30 Sep 2026 23:01:19 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2023/09/030E94C1-52DB-4DF5-9808-860B476AB3A9-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-09T20:16:21.899314",
+  "updatedAt": "2026-10-10T00:15:14.456453",
   "sites": [
     {
       "id": "hachima",
