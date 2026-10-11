@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ナルト』と『忍空』新作コラボアニメ、大炎上してしまう・・・海外のナルトファンがブチギレ「NINKUとかいうクソ野郎はいったい誰だよ！？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460573.html",
+      "pubDate": "2026-10-12T07:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/5/35e43523.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超便利】「ずっと身体がだるくて階段のぼるだけで息が切れる人！　◯◯◯を1日1杯飲むだけで劇的に疲れが取れるし朝スッキリ起きれる」　→　ガチだったｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10576194.html",
+      "pubDate": "2026-10-12T07:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/e/3e4bbf92.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "四ツ谷に広がる、魚好きのためのディープな世界。多角的に「サカナ」に特化した専門書店。",
+      "description": "本と出会う時間をじっくり味わえる喫茶スペース併設の書店から、アート本を探すこと自体がアート体験になる書店、複数の店主が共同で運営する話題のシェア型書店まで。わざわざ足を延ばしてでも訪れたい、全国の個性豊かなブックストアを紹介します！",
+      "link": "https://casabrutus.com/categories/culture/492609",
+      "pubDate": "Sun, 11 Oct 2026 22:00:22 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "とあるライブでスタッフのPCが大画面に映るアクシデント！⇒デスクトップがヤバすぎて大バズｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10576118.html",
+      "pubDate": "2026-10-12T06:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/aeb1df2a-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "巨人がCS敗退でファンがブーイング！いったいナゼ……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10576113.html",
+      "pubDate": "2026-10-12T05:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fdd70d82.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ガルパンおじさん、めちゃくちゃ揺れる4DX中でも爆睡してしまうぐらい年を取ってしまう。",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10576106.html",
+      "pubDate": "2026-10-12T04:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/7/278e2d52-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "YouTuber「健康診断の前日にラーメン15杯食べたらどうなるんだろ？やってみるわ！」 → 凄いことになるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460569.html",
+      "pubDate": "2026-10-12T04:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/2/429a65c7.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -366,45 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/9/099863d8.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "日本人「マクドナルドで家族で会計が4790円でした。高市総理どうにかして！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10576048.html",
-      "pubDate": "2026-10-11T18:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/f/8ff9d90d.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女子「なんで男ってブスなのに自信もってるの？」⇒ 20万いいねを集めた返しがこちらｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10576036.html",
-      "pubDate": "2026-10-11T17:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0dbf756.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】コンビニオーナー「セブンイレブン本部様へ。何も知らない無知な新規オーナーを地獄に落とし続けるつもりですか？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10576034.html",
-      "pubDate": "2026-10-11T17:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0b7ef69b-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +494,6 @@
       "link": "https://brutus.jp/post-528165/",
       "pubDate": "Sun, 11 Oct 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ネット老人「40代がフェイクニュースに一番騙されにくいのは2chで英才教育を受けてきたから」⇒ 2万いいね超え",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10576032.html",
-      "pubDate": "2026-10-11T16:30:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3d3fc549.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -691,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/b/0b81d8a1.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "岸本先生が描くナルト新作漫画『NARUTO-ナルト- SHADOW RISING』発表！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460532.html",
-      "pubDate": "2026-10-11T08:04:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/798ffce1-s.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -741,19 +767,6 @@
       "link": "https://brutus.jp/post-529070/",
       "pubDate": "Sat, 10 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】ヤフーニュースで批判殺到の“あの単語”がNGワードにされた模様",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460529.html",
-      "pubDate": "2026-10-11T07:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/08f24bfc.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1143,19 +1156,6 @@
       "description": "和菓子を愛するあの人へ150年余受け継がれる不朽の草だんご 〈髙木屋老舗〉の「草だんご」 柴又は帝釈天の参道に店を構える〈髙木屋老舗〉。ご存じ、映画『男はつらいよ』のモデルとなったことで全国に知られる老舗の甘味処だ。 創 [&#8230;]",
       "link": "https://brutus.jp/post-530557/",
       "pubDate": "Fri, 09 Oct 2026 03:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "韓国のバッグブランド〈BLANKOF〉と〈Graphpaper〉がコラボレーション。",
-      "description": "ミニマリズムを追求する韓国のバッグブランド〈BLANKOF〉と〈Graphpaper〉のコラボ。",
-      "link": "https://casabrutus.com/categories/fashion/493359",
-      "pubDate": "Fri, 09 Oct 2026 02:25:38 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-11T18:21:35.922885",
+  "updatedAt": "2026-10-11T22:20:16.551359",
   "sites": [
     {
       "id": "hachima",
