@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "移民推進派だった知事「さすがに移民入れすぎた。欧米と比べてもペースが速すぎる」→ネット「自分で受け入れて何言ってんだ」「あ、選挙が近いからか」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460925.html",
+      "pubDate": "2026-10-18T05:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/77639e39.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -702,19 +715,6 @@
       "link": "https://jin115.com/archives/52460889.html",
       "pubDate": "2026-10-17T10:30:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/a/0a00ae5c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【正論】カンニング竹山さん「サイゼリヤのたった20円値上げで高いとか言ってる人、そんな奴はどこの店でも食べられない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460887.html",
-      "pubDate": "2026-10-17T10:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/439ee149.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-17T20:00:48.607586",
+  "updatedAt": "2026-10-17T20:30:39.445626",
   "sites": [
     {
       "id": "hachima",
