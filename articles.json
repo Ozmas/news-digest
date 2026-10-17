@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "YouTubeからテレビ業界を批判してきたオリラジ中田「テレビに戻りたい」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578027.html",
+      "pubDate": "2026-10-18T06:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/acadd4de.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,19 +494,6 @@
       "link": "https://jin115.com/archives/52460904.html",
       "pubDate": "2026-10-17T18:00:30+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68464321.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『GTA6』国内レーティングが「CERO Z」に決定！日本版の表現規制は…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10577911.html",
-      "pubDate": "2026-10-17T18:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/5/e58c60e4.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-17T21:00:46.787206",
+  "updatedAt": "2026-10-17T21:30:40.734817",
   "sites": [
     {
       "id": "hachima",
