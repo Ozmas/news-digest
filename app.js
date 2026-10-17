@@ -68,7 +68,7 @@ async function fetchAllSites() {
   btnRefresh.classList.add('loading');
 
   try {
-    const res = await fetch('./articles.json');
+    const res = await fetch(`./articles.json?t=${Date.now()}`, { cache: 'no-store' });
     if (!res.ok) throw new Error('Data fetch error: ' + res.status);
     const data = await res.json();
 
