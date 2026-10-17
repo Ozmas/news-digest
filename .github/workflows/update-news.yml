@@ -2,8 +2,13 @@ name: Update News Digest
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # 30分に1回実行
-  workflow_dispatch: # 手動で実行ボタンも有効化
+    - cron: '*/30 * * * *' # 予備（GitHub側の定期実行は遅延しやすい）
+  workflow_dispatch: # cron-job.org からの起動 / 手動実行
+
+# 同時に複数実行されないようにする（後から来た方は待機）
+concurrency:
+  group: update-news
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -28,5 +33,6 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add articles.json
-          git commit -m "Auto-update news digest [skip ci]" || echo "No changes to commit"
+          git commit -m "Auto-update news digest [skip ci]" || { echo "No changes to commit"; exit 0; }
+          git pull --rebase -X theirs origin main || true
           git push
