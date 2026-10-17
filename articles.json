@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「くら寿司テイクアウトしたら、パックの中にゴキブリがいたんだけど！？」 ← 思った以上に生きているゴキブリが寿司を食べていたんだが…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578126.html",
+      "pubDate": "2026-10-18T08:30:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/9/19e685d0-s.png"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -455,19 +468,6 @@
       "link": "http://blog.esuteru.com/archives/10578035.html",
       "pubDate": "2026-10-17T20:30:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8b752d52.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "年1回現金を支給する新給付金制度、平均3万円程度になる模様　対象は2000万人程度",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578034.html",
-      "pubDate": "2026-10-17T20:05:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a2f7d137.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-17T23:30:38.410468",
+  "updatedAt": "2026-10-17T23:53:14.258917",
   "sites": [
     {
       "id": "hachima",
