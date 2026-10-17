@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「the TRUE DIARY show」第20回：編集者・菅原祐樹",
+      "description": "８月20日（木） 古書に値段をつけるとはどういうことなのか。もともと好きで集めていた本なので、古書としての価値をあまり気にしていなかった。自分の感覚ではもうボロいし、300円でいいやと思っていた本が古書市場を調べるとその [&#8230;]",
+      "link": "https://brutus.jp/post-526076/",
+      "pubDate": "Sat, 17 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "また祭りで死亡事故か　愛媛・西条市で副市長が太鼓台の下敷きになり、死亡",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578122.html",
+      "pubDate": "2026-10-18T07:30:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/3/f3db6e53-s.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -455,19 +481,6 @@
       "link": "https://rocketnews24.com/2026/10/17/2812189/",
       "pubDate": "Sat, 17 Oct 2026 10:00:41 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/C16D517B-5020-422F-82CA-07FFD069FEB8.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ちいかわポップアップストア、新作以外の購入制限なし → 転売ヤーが押し寄せて最悪の光景に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578019.html",
-      "pubDate": "2026-10-17T19:00:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/9/09a573ed.jpg"
     },
     {
       "siteId": "jin",
@@ -1315,19 +1328,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7760-1024x767.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "杉本博司の代表作〈海景〉のある部屋。六景",
-      "description": "《相模湾、江之浦》 人生や生き方まで変える美術作品はあるだろうか。彼はあると答えてくれた 〈海景〉の静寂や水平線の広がりが空間全体に静粛をもたらし、日々のビジネスの重圧からのバランスをとり、心を落ち着かせることがあるだろ [&#8230;]",
-      "link": "https://brutus.jp/post-527543/",
-      "pubDate": "Wed, 14 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-17T22:30:39.260265",
+  "updatedAt": "2026-10-17T23:00:49.643640",
   "sites": [
     {
       "id": "hachima",
