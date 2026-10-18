@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "男性「結婚相談所で身長159cmは、大欠陥なので年収あっても普通の人を嫁にもらうのは無理と言われた…こういう人としか結婚できないらしい」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460926.html",
+      "pubDate": "2026-10-18T22:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/c/3caca3ee.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -780,19 +793,6 @@
       "link": "https://jin115.com/archives/52460916.html",
       "pubDate": "2026-10-18T07:00:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/1/d163a24c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "移民推進派だった知事「さすがに移民入れすぎた。欧米と比べてもペースが速すぎる」→ネット「自分で受け入れて何言ってんだ」「あ、選挙が近いからか」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460925.html",
-      "pubDate": "2026-10-18T05:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/77639e39.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T13:00:49.767456",
+  "updatedAt": "2026-10-18T13:06:39.571734",
   "sites": [
     {
       "id": "hachima",
