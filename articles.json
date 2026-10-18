@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "きゃりーぱみゅぱみゅさん、娘に「ぱみゅぱみゅ」だとバレる",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578163.html",
+      "pubDate": "2026-10-18T12:20:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/30a42b81-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +572,6 @@
       "link": "http://blog.esuteru.com/archives/10578018.html",
       "pubDate": "2026-10-18T00:30:39+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/44925f4a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】カリカリ整形女子の絵師さん、新作を公開ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578016.html",
-      "pubDate": "2026-10-18T00:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/b/cb0838d7.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T03:00:49.567655",
+  "updatedAt": "2026-10-18T03:30:38.854103",
   "sites": [
     {
       "id": "hachima",
