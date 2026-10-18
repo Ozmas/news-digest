@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画あり】天才チンパンジー・パンくん、ネットでは「野生化した」「凶暴化した」と言われているけど現在はこんな感じです",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578277.html",
+      "pubDate": "2026-10-18T21:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/af42708d-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -533,19 +546,6 @@
       "link": "https://jin115.com/archives/52460928.html",
       "pubDate": "2026-10-18T12:00:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f9b0844.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ホロライブさん、グッズを再入荷しないせいで在庫による「真の人気ランキング」が完成してしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578160.html",
-      "pubDate": "2026-10-18T12:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a175585e-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T12:30:41.052634",
+  "updatedAt": "2026-10-18T13:00:49.767456",
   "sites": [
     {
       "id": "hachima",
