@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "お母さん「夫が子供に”東西南北”を教えてるんだけど、ナニコレそんなことある！？」→その驚愕の概念がこちら",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460948.html",
+      "pubDate": "2026-10-18T21:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fd201107.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2146話目「新設、トラップ部隊⑳」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/10/18/2813524/",
+      "pubDate": "Sun, 18 Oct 2026 12:00:41 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2146a.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -769,19 +795,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/77639e39.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "結婚式の新郎、祝いに「RTX5090」をプレゼントされガチ泣きｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460908.html",
-      "pubDate": "2026-10-18T03:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa6cd38c.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1014,19 +1027,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/17/sanire-open/",
       "pubDate": "Fri, 16 Oct 2026 23:01:25 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7964-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ちょっと話聞いてくれや！ 久々に登場した友人！　隣りの席の子の様子がおかしい第69回「相談」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/10/17/2808389/",
-      "pubDate": "Fri, 16 Oct 2026 23:00:35 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari69-1koma.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T12:00:49.129009",
+  "updatedAt": "2026-10-18T12:30:41.052634",
   "sites": [
     {
       "id": "hachima",
