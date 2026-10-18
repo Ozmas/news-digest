@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "エクアドルでミサを執り行っていた司祭、突然倒れてきたキリストの十字架が頭を直撃し死亡…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578326.html",
+      "pubDate": "2026-10-19T01:05:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/6/364d739f.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【！？】ドジャース・大谷翔平選手が着用したユニホーム、ガチでとんでもない金額で落札されてしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460981.html",
+      "pubDate": "2026-10-19T01:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/c/ac20cfd2.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b822b886.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "名古屋発祥のラーメンチェーン店「スガキヤ」が20年ぶりに関東に再進出 → 15日にオープンした店では3日連続大行列が出来てしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578170.html",
-      "pubDate": "2026-10-18T14:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0f9aaa0.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/10/18/2812449/",
       "pubDate": "Sun, 18 Oct 2026 02:00:24 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_9386.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "デッドバイデイライト公式「10周年記念グッズを4万円で発売します！」→「空箱が届いた」との報告が相次ぐ異常事態に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460939.html",
-      "pubDate": "2026-10-18T10:30:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/41ef641d-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T16:00:50.633332",
+  "updatedAt": "2026-10-18T16:30:41.325506",
   "sites": [
     {
       "id": "hachima",
