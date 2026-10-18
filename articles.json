@@ -21,6 +21,19 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "まんが日本昔ばなし公式「皆さまに、ご報告とお願いがあります」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578332.html",
+      "pubDate": "2026-10-19T02:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4a512ea9.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "エクアドルでミサを執り行っていた司祭、突然倒れてきたキリストの十字架が頭を直撃し死亡…",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10578326.html",
@@ -546,19 +559,6 @@
       "link": "https://jin115.com/archives/52460949.html",
       "pubDate": "2026-10-18T15:00:23+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/6/a6fe4c51-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "映画館がまた入場特典を横流し！『ストリートファイター』のレアステッカーを複数出品",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578181.html",
-      "pubDate": "2026-10-18T14:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b822b886.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T17:00:49.727426",
+  "updatedAt": "2026-10-18T17:30:40.598144",
   "sites": [
     {
       "id": "hachima",
