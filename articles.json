@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ゲーセンで『太鼓の達人』プレイ中の子供が乱入してくる動画！これは許せる？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578280.html",
+      "pubDate": "2026-10-19T05:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/70038477-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -533,19 +546,6 @@
       "link": "https://jin115.com/archives/52460951.html",
       "pubDate": "2026-10-18T16:00:56+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/9/f9541274.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「PS5とPCが比較される時点でPS5は失敗。比較されないSwitchは成功、比較もされないXboxは大失敗」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578192.html",
-      "pubDate": "2026-10-18T16:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/dde573a3.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T20:00:53.022604",
+  "updatedAt": "2026-10-18T20:30:40.748405",
   "sites": [
     {
       "id": "hachima",
