@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「鮮やかに見せるため」に食品に絵の具を混入させて園児に提供していた中国の園長に終身刑　園児247人に異常値",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578257.html",
+      "pubDate": "2026-10-18T19:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/850835c4-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -26,6 +39,19 @@
       "link": "https://rocketnews24.com/2026/10/18/2813464/",
       "pubDate": "Sun, 18 Oct 2026 10:00:23 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/30分かかるケニアのポテト_1920-1.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高齢者「月に貰える年金はコレだけ・・・こんなの国民をバカにしてる！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460935.html",
+      "pubDate": "2026-10-18T19:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/93e46e24.jpg"
     },
     {
       "siteId": "brutus",
@@ -587,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/ac3693ce-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【現地まとめ】フランス各地で教育環境の改善や物価高対策を求める大規模デモが発生 → 暴徒が続出し、あちこち破壊行為をして現地がやべーことに…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578134.html",
-      "pubDate": "2026-10-18T09:30:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/0/10f62480-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52460923.html",
       "pubDate": "2026-10-18T00:30:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/a/6a9a44f7.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "セ・リーグ優勝の阪神さん、あと１球コールから逆転負けし3位のDeNAに４連敗でクライマックス敗退wwwww",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460917.html",
-      "pubDate": "2026-10-18T00:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/f/2f59dd25.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T10:00:49.327480",
+  "updatedAt": "2026-10-18T10:30:44.743775",
   "sites": [
     {
       "id": "hachima",
