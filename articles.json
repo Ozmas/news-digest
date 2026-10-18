@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "名古屋発祥のラーメンチェーン店「スガキヤ」が20年ぶりに関東に再進出 → 15日にオープンした店では3日連続大行列が出来てしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578170.html",
+      "pubDate": "2026-10-18T14:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0f9aaa0.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ガーシー氏「なんで刺青あったらサウナとかダメなの？もうファッションの一部になってきてるのに。そろそろ堂々と入らせてください笑笑」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460934.html",
+      "pubDate": "2026-10-18T14:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/1/e177b001.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -561,19 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa6cd38c.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】テレビに喧嘩を売りまくっていたオリラジ中田敦彦さん、テレビ復活を希望「拗ねたところがあった」「本当に恥知らずなヤツだと思う」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578081.html",
-      "pubDate": "2026-10-18T02:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/1/2141961c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://rocketnews24.com/2026/10/17/2812189/",
       "pubDate": "Sat, 17 Oct 2026 10:00:41 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/C16D517B-5020-422F-82CA-07FFD069FEB8.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "新オープンした生ハンバーグ店、謎パフォーマンスも込みで色々ヤバすぎると話題にｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460903.html",
-      "pubDate": "2026-10-17T19:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b92b617e.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T05:00:49.644535",
+  "updatedAt": "2026-10-18T05:30:39.031167",
   "sites": [
     {
       "id": "hachima",
