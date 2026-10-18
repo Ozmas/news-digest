@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【激安終了速報】名探偵コナン、寄生獣、うしおととらなどが”実質半額”になる超Kindleセールは本日10月18日まで！プラネテス、五等分の花嫁、シャングリラ・フロンティアなども対象！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460945.html",
+      "pubDate": "2026-10-18T13:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/7859c6d1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【膝がない！】身長148cm体重132kgという「AIと疑いたくなるような体形の女性アイドル」が話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578169.html",
+      "pubDate": "2026-10-18T13:30:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bdbc8f58.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -548,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/1/2141961c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "日本俳優連合、俳優・声優の声を生成AIで利用する際のガイドラインを発表！本人と事前同意した上で追加使用料も必要、故人の声の再現は原則禁止",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578077.html",
-      "pubDate": "2026-10-18T01:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/e/3ef439a4.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://www.buzzfeed.com/jp/white_lily/tamagotchi-kitchentimer",
       "pubDate": "Sat, 17 Oct 2026 05:01:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/09/05/thumb/XU6_6_AGu.png?crop=1620:1080;150,0&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "バズった発売前インディーゲー、即日AIでパクられる 体験版や紹介映像を公開できない時代到来か",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460904.html",
-      "pubDate": "2026-10-17T18:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68464321.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T04:30:38.800676",
+  "updatedAt": "2026-10-18T05:00:49.644535",
   "sites": [
     {
       "id": "hachima",
