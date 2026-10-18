@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "創価学会「財務（寄付）についてデマが拡散されています。事実無根です」→元信者の暴露合戦でとんでもないことになる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460931.html",
+      "pubDate": "2026-10-18T09:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/4/b487edfb.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "コストコに行ったのに買ったものが地味すぎる！ 米・卵・肉ばかり買う節約主婦が、それでもコストコに通い続ける理由",
+      "description": "コストコに行ってきました。 帰宅してレシートを見返してみたら……お米、卵、お肉、さつまいも、コーヒー。 ……地味すぎん？（笑） コストコといえば、巨大なスイーツやパン、デリ、海外のお菓子など、いかにもコストコらしい商品が [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/18/2813487/",
+      "pubDate": "Sun, 18 Oct 2026 00:00:03 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_2685_1920.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -730,19 +756,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/4senmahrah.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "G7のテレビ会議を欠席した高市首相「○○が使えなくて会議に出れなかったの！私は演説の準備してたもん！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460891.html",
-      "pubDate": "2026-10-17T11:30:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/5/e59a62b0.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1066,19 +1079,6 @@
       "link": "https://www.buzzfeed.com/jp/munenoriumeki/honoka-matsumoto-cover",
       "pubDate": "Thu, 15 Oct 2026 22:01:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/15/01/subbuzz/tmZRJ3Mfo.jpg?crop=2466:1644;0,704&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1リットル550円】大阪・アメ村の韓国発メガサイズコーヒー『fave COFFEE』を飲んでみた / 都内の競合ブランドより少し高いが実力は…？",
-      "description": "「コーヒーの2050年問題」をご存知だろうか？　この先、予測されるさまざまな気候変動の影響により、コーヒーの収穫量が劇的に減少して、品質低下や価格が高騰することが予測されている。 コカ・コーラシステムはそれに先手を打つ意 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/16/2812724/",
-      "pubDate": "Fri, 16 Oct 2026 02:00:59 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/favecoffee.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-17T23:53:14.258917",
+  "updatedAt": "2026-10-18T00:00:49.503196",
   "sites": [
     {
       "id": "hachima",
