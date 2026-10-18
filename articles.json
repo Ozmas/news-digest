@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "有名プロゲーマーさん、格ゲーの海賊版にブチギレ「根本的な価値観や道徳観が違う」→外国人から批判殺到「日本人はなぜ著作権侵害を家族の死のように恨むの？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460960.html",
+      "pubDate": "2026-10-18T18:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9dc8e226.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -715,19 +728,6 @@
       "link": "https://jin115.com/archives/52460917.html",
       "pubDate": "2026-10-18T00:00:04+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/f/2f59dd25.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "高校で「常識だよねえ」が口癖の嫌味な先生が病気で急に来なくなる → 卒業式の日、衝撃の事実が判明ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460910.html",
-      "pubDate": "2026-10-17T23:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/f/dfbe0fb4-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T09:00:50.243321",
+  "updatedAt": "2026-10-18T09:30:39.192577",
   "sites": [
     {
       "id": "hachima",
