@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "コールオブデューティ最新作、朝鮮半島が舞台→「最高指導者の肖像画」を銃で撃ってみると、とんでもないことに・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460953.html",
+      "pubDate": "2026-10-18T17:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3aa7d9b2.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第116話「揺れ」",
+      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/18/2813349/",
+      "pubDate": "Sun, 18 Oct 2026 08:00:39 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kikimimi21-1koma.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -26,19 +52,6 @@
       "link": "http://blog.esuteru.com/archives/10578214.html",
       "pubDate": "2026-10-18T17:00:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b8afe02b-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "コールオブデューティ最新作、朝鮮半島が舞台→「最高指導者の肖像画」を銃で打ってみると、とんでもないことに・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460953.html",
-      "pubDate": "2026-10-18T17:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3aa7d9b2.jpg"
     },
     {
       "siteId": "brutus",
@@ -1042,19 +1055,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【行楽の秋】ロケットニュース24記者が本気で選ぶ「行ってみたら意外と最高だったお出かけスポット」8選",
-      "description": "シトシトと長いこと雨が続いた日本列島。それもようやく収まり気候的には今が1番イイ！　窓を開けて寝られるの最高!!　春もいいけど、やはり秋も捨てがたい魅力があるよね。 それはさておき、秋と言えば「食欲の秋」であり「運動の秋 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/16/2812751/",
-      "pubDate": "Fri, 16 Oct 2026 10:00:58 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kouraku.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T08:00:49.717859",
+  "updatedAt": "2026-10-18T08:30:39.066938",
   "sites": [
     {
       "id": "hachima",
