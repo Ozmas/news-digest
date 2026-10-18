@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】X民「広島県警の人員輸送車から幅寄せ食らった！」 ← お前ら、どう思う？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578132.html",
+      "pubDate": "2026-10-18T09:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/9929695d.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,19 +494,6 @@
       "link": "https://brutus.jp/post-512462/",
       "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "だんじり祭りで死亡事故発生 → 地元民「命を落としても自己責任」「私が死んだら親はお詫び行脚すると思う」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578035.html",
-      "pubDate": "2026-10-17T20:30:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8b752d52.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-18T00:00:49.503196",
+  "updatedAt": "2026-10-18T00:30:38.243404",
   "sites": [
     {
       "id": "hachima",
