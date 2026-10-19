@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】フランスのデモ、日本のアニメ絵やコスプレで溢れ返る　ワンピースやドラゴンボールをゴリゴリ政治利用",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578466.html",
+      "pubDate": "2026-10-19T17:30:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6a75195-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -26,6 +39,19 @@
       "link": "https://rocketnews24.com/2026/10/19/2812668/",
       "pubDate": "Mon, 19 Oct 2026 08:00:19 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/escaleter1.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『コミックシーモア』不正アクセスによりサービス再開の見通し立たず 電子書籍がヤバイ時代到来か",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461025.html",
+      "pubDate": "2026-10-19T17:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8cd244dc.jpg"
     },
     {
       "siteId": "hachima",
@@ -626,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/a/1a3faedd.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】『あの花』めんまの女装をしたオタクが秩父の街を練り歩く「ゆきあつまつり」、2026年の現在も続いてたｗｗｗｗｗ　地元子供が怖がってギャン泣き",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578392.html",
-      "pubDate": "2026-10-19T09:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/570fbf0a.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -949,19 +962,6 @@
       "link": "https://jin115.com/archives/52460926.html",
       "pubDate": "2026-10-18T22:00:37+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/c/3caca3ee.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "お母さん「夫が子供に”東西南北”を教えてるんだけど、ナニコレそんなことある！？」→その驚愕の概念がこちら",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460948.html",
-      "pubDate": "2026-10-18T21:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fd201107.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T08:00:51.351061",
+  "updatedAt": "2026-10-19T08:30:41.691514",
   "sites": [
     {
       "id": "hachima",
