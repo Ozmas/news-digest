@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ホロライブ・ラプラス・ダークネスさん「セクハラ男オタク達へ、わたくしが下ネタで盛り上がるのは女体に対して　オスは興味ありません」→ガチでヤバいことになってしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461049.html",
+      "pubDate": "2026-10-20T05:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/c/fcf2bd21.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -689,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/10/19/2832311/",
       "pubDate": "Mon, 19 Oct 2026 04:40:33 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_4199_7fdd7b.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本人の異常性、白人様がたった1本の動画にまとめてしまう→訪日外国人から共感殺到で8万いいね超えにｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461012.html",
-      "pubDate": "2026-10-19T13:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/3/c346c852.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T20:00:51.996028",
+  "updatedAt": "2026-10-19T20:30:45.257478",
   "sites": [
     {
       "id": "hachima",
