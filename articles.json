@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【検証】「ちょっとバタバタしていて…」って、一体何をしているの？ 思いつく限りのバタバタを実際にやってみた",
+      "description": "「ちょっとバタバタしていて、返信が遅くなりました」「これからしばらくバタバタしそうで……」 ビジネスでもプライベートでも、何かと多用される「バタバタ」。忙しさの理由を詳しく説明しなくても、なんとなく通用する便利なワードで [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/20/2802187/",
+      "pubDate": "Mon, 19 Oct 2026 23:00:07 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/LINE_ALBUM_20261016_261016_8.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "東京大学に眠るお宝に出会う。経済学研究科の小島浩之先生が解説する「古貨幣」",
+      "description": "日本最古の金貨も藩札も。貨幣と紙幣で3万点以上 場所：経済学部資料室 江戸時代の大判・小判や中国の銅銭など国内最大級の東洋古貨幣コレクションを有する経済学部資料室。企業資料や古文書といった歴史的経済資料を研究すべく、経済 [&#8230;]",
+      "link": "https://brutus.jp/post-495279/",
+      "pubDate": "Mon, 19 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】小栗旬さん、24歳上のあの有名俳優を呼び捨て！　「実はずっと食わせてました」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578643.html",
+      "pubDate": "2026-10-20T07:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/700ee6a8-s.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -548,19 +587,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/13/05/thumb/xrAfJnZJO.png?crop=1620:1080;150,0&resize=1250:830"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "有識者「個人がWindows機を使う理由が、ほんと〜によくわからないどう考えてもMacがよくない？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578458.html",
-      "pubDate": "2026-10-19T18:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/99143408.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1029,19 +1055,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月19日〜25日 山羊座の運勢【ブルータス週間占い】",
-      "description": "山羊座の羅針盤 人のサポートに回る 19日の未明に、自エリア（山羊座）で上弦の月を迎えます。これは、自分の希望や意志をクリアにしていくものです。月はすぐに水瓶座に移動しますが、水瓶座は山羊座から見て「マイペース」を意味す [&#8230;]",
-      "link": "https://brutus.jp/post-532242/",
-      "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1157,19 +1170,6 @@
       "link": "https://rocketnews24.com/2026/10/18/2812988/",
       "pubDate": "Sun, 18 Oct 2026 02:55:39 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/pikkuru01.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ガイドブック×ホラーという新ジャンル『るるぶ■■版 蓋ヶ瀬』を読んだ感想（ネタバレなし）",
-      "description": "国内旅行のバイブルといえば、ガイドブック『るるぶ』。 誌面に「これでもか！」と詰め込まれたスポットの写真や、編集部員が実際に現地を歩いて集めた情報を眺めていると、旅のイメージが膨らむよね。 そんなるるぶが、ホラーという新 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/18/2813630/",
-      "pubDate": "Sun, 18 Oct 2026 02:30:18 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/futagase_rurubu001.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T22:30:42.299763",
+  "updatedAt": "2026-10-19T23:00:49.250059",
   "sites": [
     {
       "id": "hachima",
