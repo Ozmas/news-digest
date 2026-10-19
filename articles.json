@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "クッションのような快適な座り心地。新居猛がデザインした日本発の名作椅子。",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/design/495025",
+      "pubDate": "Mon, 19 Oct 2026 22:00:46 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -528,11 +541,11 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "えっ、こうやって剥くの！？SNSでバズってた「謎ピーラー」が想像以上に便利すぎた話",
+      "title": "ピーラーなのに縦型！SNSでバズってた「謎グッズ」試したら便利すぎてもう手放せない…",
       "description": "ピーラーといえば、定番はY字型。しかし、縦型のピーラーも便利なんです。今回は、SNSでバズっていた「オクソー タテ型ピーラー」で3種類の野菜や果物の皮剥きをして検証しました。結論→想像以上に快適に使えました……！View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/white_lily/swivel-peeler",
       "pubDate": "Mon, 19 Oct 2026 05:01:01 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/13/05/thumb/xrAfJnZJO.png?crop=1620%3A1080%3B150%2C0"
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/13/05/thumb/xrAfJnZJO.png?crop=1620:1080;150,0&resize=1250:830"
     },
     {
       "siteId": "hachima",
@@ -1380,19 +1393,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "Chill CARS｜《メルセデス・ベンツ W111》優美な外観と工芸品のような内装を保つ、威厳ある高級車。",
-      "description": "ひと目見るだけで息を呑むようなクルマである。それは威厳あるたたずまいや風格から、自然に滲み出てくるものだろう。",
-      "link": "https://casabrutus.com/categories/vehicle/494407",
-      "pubDate": "Fri, 16 Oct 2026 07:25:24 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T22:10:50.343747",
+  "updatedAt": "2026-10-19T22:30:42.299763",
   "sites": [
     {
       "id": "hachima",
