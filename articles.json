@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジか】YOASOBIの最近のライブ、チケットが余ってしまいファン達が心配…　「よっぽどチケット売れてないの？超人気覇権アーティストなのに…」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578403.html",
+      "pubDate": "2026-10-19T10:30:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/1/d1a3a62b.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -689,19 +702,6 @@
       "link": "http://blog.esuteru.com/archives/10578276.html",
       "pubDate": "2026-10-18T20:55:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/8/a8f0d8ca.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "コムドットのリーダーやまとさん、親孝行中に盗撮してきたファンに警告「もし親の顔をSNS出した場合2人の写真を全国に公開します」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578260.html",
-      "pubDate": "2026-10-18T20:20:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4f43ad93.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T01:30:40.011933",
+  "updatedAt": "2026-10-19T02:00:49.866861",
   "sites": [
     {
       "id": "hachima",
