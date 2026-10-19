@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】スクエニ「他社サービスで流出したと思われる情報を組み合わせた不正ログインを確認した」IDやパスワードを使いまわしている人はマジで今すぐ変えろ！！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578560.html",
+      "pubDate": "2026-10-19T21:20:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/8/38b89f80.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【あっ】フランスで暴動デモを起こした人たちの正体、判明する",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461036.html",
+      "pubDate": "2026-10-19T21:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/9612bbd3.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -216,7 +242,7 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "ピーラーなのに縦型！SNSでバズってた「謎グッズ」試したら便利すぎてもう手放せない…",
+      "title": "えっ、こうやって剥くの！？SNSでバズってた「謎ピーラー」が想像以上に便利すぎた話",
       "description": "ピーラーといえば、定番はY字型。しかし、縦型のピーラーも便利なんです。今回は、SNSでバズっていた「オクソー タテ型ピーラー」で3種類の野菜や果物の皮剥きをして検証しました。結論→想像以上に快適に使えました……！View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/white_lily/swivel-peeler",
       "pubDate": "Mon, 19 Oct 2026 05:01:01 -0400",
@@ -585,19 +611,6 @@
       "link": "http://blog.esuteru.com/archives/10578419.html",
       "pubDate": "2026-10-19T12:40:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/72594263.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】『ドラゴンボール超 ビルス』最新話、作画が超進化して歴代最高クオリティになりファン大絶賛！　想像の300倍以上別物ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578421.html",
-      "pubDate": "2026-10-19T12:20:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a3386591.jpg"
     },
     {
       "siteId": "jin",
@@ -1027,19 +1040,6 @@
       "link": "https://jin115.com/archives/52460988.html",
       "pubDate": "2026-10-19T07:00:42+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/6/e639dbc6.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "柿を毎日6個食べまくっていた人、ヤバイことになる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460982.html",
-      "pubDate": "2026-10-19T04:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/b/5b330818-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T12:00:55.496284",
+  "updatedAt": "2026-10-19T12:30:46.193384",
   "sites": [
     {
       "id": "hachima",
