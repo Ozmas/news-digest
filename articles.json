@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "荒らすな！ 寄って来られたら困る土地主！　四コマサボタージュFB第112回「森の歌姫」",
+      "description": "熊が狩人を襲おうとして走ってくる姿を捉えた動画を見たことがあるんだ。けっこう大きめの図体の割にめくちゃくちゃ足が速くてビックリした。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/20/2810804/",
+      "pubDate": "Mon, 19 Oct 2026 22:00:27 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-112.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1159,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【半額】UNDER ARMOURの定番ロングTシャツが4950円 → 2197円（S〜XL）/ Amazonプライム感謝祭",
-      "description": "いまAmazonで開催されている大バーゲン「プライム感謝祭」。さまざまな人気商品を特別価格で手に入れるチャンスがやってきたぞ。 さて本日は、アンダーアーマーの定番ロングTシャツをピックアップ！ いまならS〜XLサイズが4 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/18/2813971/",
-      "pubDate": "Sun, 18 Oct 2026 02:25:42 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_0068_460fd3.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T21:30:41.989615",
+  "updatedAt": "2026-10-19T22:00:49.461263",
   "sites": [
     {
       "id": "hachima",
