@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女性だけのBBQがマジで最悪！「肉を食えずに帰って来た」理由がまさに地獄",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578580.html",
+      "pubDate": "2026-10-20T06:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/a/aab93477-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +572,6 @@
       "link": "https://jin115.com/archives/52461025.html",
       "pubDate": "2026-10-19T17:00:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8cd244dc.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "Key麻枝准さん、咽頭がんを公表　『ヘブンバーンズレッド』など今後の活動は・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578482.html",
-      "pubDate": "2026-10-19T17:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9af43866-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T21:00:48.362812",
+  "updatedAt": "2026-10-19T21:30:41.989615",
   "sites": [
     {
       "id": "hachima",
