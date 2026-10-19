@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "某企業「INMU KING、いい曲だし広告に利用しちゃおｗ」社員(これ指摘したら淫夢厨ってバレるな…) → 結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578596.html",
+      "pubDate": "2026-10-20T00:45:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/d/0d85af97.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -24,7 +37,7 @@
       "title": "【悲報】厚生労働省が検討している出産無償化+現金給付の新制度、外国人に悪用されるだけではないかと話題に…",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10578588.html",
-      "pubDate": "2026-10-20T00:00:43+09:00",
+      "pubDate": "2026-10-20T00:00:03+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6d82a82a.jpg"
     },
     {
@@ -611,19 +624,6 @@
       "link": "http://blog.esuteru.com/archives/10578441.html",
       "pubDate": "2026-10-19T14:30:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/059e6724-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ショートスリーパー・堀大輔と丸の内OLレイナが正式交際を発表！キスの動画まで上げてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578440.html",
-      "pubDate": "2026-10-19T14:10:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6bdca548-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T15:30:43.615809",
+  "updatedAt": "2026-10-19T16:00:51.382687",
   "sites": [
     {
       "id": "hachima",
