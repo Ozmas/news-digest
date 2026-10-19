@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【視覚障害者の日常】目が見えなくなって初めて知った「ATM横の受話器」の正体",
+      "description": "先月、目が見えなくなってから初めて、1人でATMから現金を引き出せた。 数年ぶりである。 きっかけは、見えていた頃には意味を考えたこともなかった「ATM横の受話器」だった。 ・急に現金が必要になった その日は、郵便局で急 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/19/2812158/",
+      "pubDate": "Mon, 19 Oct 2026 00:00:59 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/銀行アイキャッチ_64ec89.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【大炎上】高市首相「子供の登下校の防犯強化に取り組みます」→ネット大合唱「だったら移民政策をやめてください！！！！！！！！！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52460989.html",
+      "pubDate": "2026-10-19T09:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/a/1a3faedd.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -847,19 +873,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/41e9c7ee-s.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【再炎上】ムスリムの子供見守り活動で大炎上した行徳警察署、火消しを開始か→むしろ火に油を注ぐ結果に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460928.html",
-      "pubDate": "2026-10-18T12:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f9b0844.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1131,19 +1144,6 @@
       "link": "https://rocketnews24.com/2026/10/17/2812893/",
       "pubDate": "Sat, 17 Oct 2026 02:00:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/imokuri02.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【最大69％オフ】半額以下に値下がりした注目アイテム45選 / Amazonプライム感謝祭",
-      "description": "いまAmazonで開催されている大バーゲン「プライム感謝祭」。さまざまな人気商品を特別価格で手に入れるチャンスがやってきたぞ。 さて本日は、半額以下で買える注目アイテムを45点リストアップ。大幅に値下がりした商品を厳選し [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/17/2813680/",
-      "pubDate": "Sat, 17 Oct 2026 01:46:20 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/PAS26_CCM_020_LUDO_AppAds_mb_2868x1320.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T00:00:51.156509",
+  "updatedAt": "2026-10-19T00:02:23.219284",
   "sites": [
     {
       "id": "hachima",
