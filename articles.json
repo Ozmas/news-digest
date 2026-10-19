@@ -28,6 +28,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/o12.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】X民「残念ながら2027年の確定申告から、e-Taxでマイナカードを所持してないと増税になる大改悪がされました。全力で怒って撤回させるべき」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578401.html",
+      "pubDate": "2026-10-19T10:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/c/8c66f7be.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://brutus.jp/post-530453/",
       "pubDate": "Sun, 18 Oct 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「すとぷり」ななもり＆さとみが卒業を発表！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578263.html",
-      "pubDate": "2026-10-18T19:50:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bcb5de75.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T01:00:48.864231",
+  "updatedAt": "2026-10-19T01:30:40.011933",
   "sites": [
     {
       "id": "hachima",
