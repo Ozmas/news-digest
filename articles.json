@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "匿名の人物から大阪市に寄付された金の延べ棒21キロ、4億9962万6538円で売却「水道事業で大切に活用させていただきます」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578545.html",
+      "pubDate": "2026-10-19T20:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/6/163db813.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "電車に乗車中の男性「ｺﾞﾎｯｺﾞﾎｯ」→女性「イヤアアアアｱ！男が咳してるううううううううう！！」→駅員に通報された結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461020.html",
+      "pubDate": "2026-10-19T20:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/7/b7e755c5-s.png"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -587,19 +613,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】神奈川県立歴史博物館さん、リニューアルオープンで『ちいかわ』に全力ですり寄ってしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578412.html",
-      "pubDate": "2026-10-19T11:40:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74942da3.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1014,19 +1027,6 @@
       "link": "https://jin115.com/archives/52460981.html",
       "pubDate": "2026-10-19T01:00:37+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/c/ac20cfd2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気漫画『怨み屋本舗』シリーズがほぼ全巻「26円 or 100円」で買える激安セール開催！！26周年＆シリーズ通算100巻到達記念キャンペーン！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460986.html",
-      "pubDate": "2026-10-19T00:30:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89019328.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T11:00:50.956639",
+  "updatedAt": "2026-10-19T11:06:29.386094",
   "sites": [
     {
       "id": "hachima",
