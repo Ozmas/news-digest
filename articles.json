@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ヤニねこ』が突如ドエロいグッズを発売！クソ……こんなヤツで……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578902.html",
+      "pubDate": "2026-10-21T04:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/a/8a4ed3b4.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -455,19 +468,6 @@
       "link": "http://blog.esuteru.com/archives/10578747.html",
       "pubDate": "2026-10-20T17:30:24+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/2030848d.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【予算カット発言】高市首相が全省庁調査拒否 → 首相の地元奈良の選挙区で交付金が爆増していることが判明ｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578742.html",
-      "pubDate": "2026-10-20T17:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0768031.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T19:00:51.717258",
+  "updatedAt": "2026-10-20T19:30:41.170092",
   "sites": [
     {
       "id": "hachima",
