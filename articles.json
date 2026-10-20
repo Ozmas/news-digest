@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "買うっ！ 意図せず難問を突破した就活生！　四コマサボタージュFB第113回「面接の問題」",
+      "description": "「ペンやペットボトルの水を一万円でお客様に売って下さい。」という面接の問題ってどう答えるのがベストなんだろうね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/21/2810805/",
+      "pubDate": "Tue, 20 Oct 2026 22:00:19 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-113.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "快適な座り心地と彫刻的な美しいフォルムを追求した、モーテン・グッドラーによるフォールディングチェア。",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/design/495028",
+      "pubDate": "Tue, 20 Oct 2026 22:00:05 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1094,19 +1120,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【平日限定】牛角アプリで「黒毛和牛カルビ」が何皿でも半額484円！ 生ビールも209円というバグみたいな価格設定で最高だった",
-      "description": "飲食チェーンの公式アプリに出ているクーポンは、大してお得ではない。 過去に一度でもそう思ったことがある人は、ぜひ「牛角」のアプリを開いてみてほしい。そして、そこに掲載されている「黒毛和牛フェア」というクーポンをタップして [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/19/2813388/",
-      "pubDate": "Mon, 19 Oct 2026 02:55:26 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/collage_495f8f.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1365,19 +1378,6 @@
       "link": "https://www.buzzfeed.com/jp/white_lily/tamagotchi-kitchentimer",
       "pubDate": "Sat, 17 Oct 2026 05:01:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/09/05/thumb/XU6_6_AGu.png?crop=1620:1080;150,0&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "博多駅前に公園が誕生！ 総合デザイン監修は藤本壮介。",
-      "description": "藤本壮介が手がけた〈明治公園〉が福岡・博多駅前に誕生。",
-      "link": "https://casabrutus.com/categories/design/494357",
-      "pubDate": "Sat, 17 Oct 2026 07:25:25 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T21:30:41.637860",
+  "updatedAt": "2026-10-20T22:00:48.684748",
   "sites": [
     {
       "id": "hachima",
