@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "Switch2版『モンハンワイルズ体験版』、様々な感想が飛び交う「個人的には十分なクオリティ」「50FPS出るならPCより良い」「Switch2版重い」「ガビガビカクカクすぎ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461102.html",
+      "pubDate": "2026-10-21T05:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/b/abb45470.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ゾゾタウンの『ポケモン30周年Tシャツ』めちゃくちゃ洗濯に弱い模様！「1回洗っただけで剥がれた」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578903.html",
+      "pubDate": "2026-10-21T05:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fc887a17-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -457,19 +483,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【噂】ディズニー、『スター・ウォーズ バトルフロント3』を企画中との報道！EAのDICEとソニーのバンジーが協議中か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578747.html",
-      "pubDate": "2026-10-20T17:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/2030848d.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -793,19 +806,6 @@
       "link": "https://artscape.jp/article/81500/",
       "pubDate": "Tue, 20 Oct 2026 01:00:53 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "フランスX民「日本人ってめっちゃバカだよね。そりゃ中国人も嫌うよな」→フランス語圏から共感が殺到・・・そこに中国人も押し寄せて日本人がボコボコに叩かれる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461062.html",
-      "pubDate": "2026-10-20T10:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/ebb493ff.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T20:00:50.553692",
+  "updatedAt": "2026-10-20T20:21:21.204790",
   "sites": [
     {
       "id": "hachima",
