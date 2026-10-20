@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "カードゲーム「これから私たちは、」でこれから何するか決めてみた",
+      "description": "友人と過ごす時間がマンネリ化して、ついダラダラと時間だけが過ぎてしまう。集まったはいいけれど、何をするか決められない。 だったら、「これから何をするか」をカードゲームで決めてみるのはどうだろう？ ・これからやりたいことが [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/21/2810267/",
+      "pubDate": "Tue, 20 Oct 2026 23:00:35 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-3-1.jpeg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「韓国文化通信」Vol.47 〈IAAC Crafts〉主宰、陶芸家・Jeon Hyunji",
+      "description": "ライフスタイルに寄り添う陶器を提案 ──ヒョンジさんが陶芸に興味を持ったきっかけを教えてください。 ──大学卒業後は、そのまま作家として活動されていたのでしょうか？ ──なるほど、ご自身が陶芸の作家として作品を販売するだ [&#8230;]",
+      "link": "https://brutus.jp/post-529264/",
+      "pubDate": "Tue, 20 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "スクエニ、AIでゲームを自動プレイするシステムを開発・実用化へ！　AIが画面を見ながら自ら考えて操作",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578963.html",
+      "pubDate": "2026-10-21T07:30:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f3eaf3c.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -455,19 +494,6 @@
       "link": "http://blog.esuteru.com/archives/10578845.html",
       "pubDate": "2026-10-20T19:30:25+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/3/836085fc.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【迷走】『スター・ウォーズ』新作映画が企画停止！「もう終わったシリーズ」「ルーカスにEP7～9を作り直してもらえ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578841.html",
-      "pubDate": "2026-10-20T19:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fc357935.jpg"
     },
     {
       "siteId": "jin",
@@ -1094,19 +1120,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2729-2.png"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【45%オフ 】Championの定番長袖Tシャツが4180円 → 2297円 / Amazonプライム感謝祭",
-      "description": "いよいよフィナーレを迎える年に1度のビッグセール「プライム感謝祭」。買い逃しがないように終了時刻（23時59分）まで思う存分ショッピングを楽しもう。 本日は『チャンピオン』の定番長袖Tシャツが4180円 → 2297円（ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/19/2832311/",
-      "pubDate": "Mon, 19 Oct 2026 04:40:33 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_4199_7fdd7b.jpeg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1207,19 +1220,6 @@
       "title": "10月19日〜25日の運勢。星々が告げる運を味方にするヒント【ブルータス週間占い】",
       "description": "全体の空模様 今週の23日に、太陽が蠍座へ移動します。天秤座が示していた公平というテーマが、蠍座が司る深掘りのパワーによってじっくりと考えられていくときです。 19日の未明、山羊座で上弦の月が起こります。山羊座は、現実主 [&#8230;]",
       "link": "https://brutus.jp/post-532215/",
-      "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月19日〜25日 牡羊座の運勢【ブルータス週間占い】",
-      "description": "牡羊座の羅針盤 過去の自分との違いを肯定する 牡羊座にとって将来を意味する部屋にあたる水瓶座に月がいる週の始まり。どこに進めばいいのか、目標やそこに至る道筋がはっきりと見えてくるときです。 その後月は内省の部屋である魚座 [&#8230;]",
-      "link": "https://brutus.jp/post-532218/",
       "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T22:30:42.969277",
+  "updatedAt": "2026-10-20T23:00:50.200096",
   "sites": [
     {
       "id": "hachima",
