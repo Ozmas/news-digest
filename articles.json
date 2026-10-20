@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】『PS5 デジタル・エディション ミッドナイト ブラック』、PS5/switch2『トロピコ7』 　Amazonで予約スタート",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578678.html",
+      "pubDate": "2026-10-20T11:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bc0bcb4e.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "杉江あこ｜『The Book of MINO　美濃焼の解剖』（セラミックバレー協議会）",
+      "description": "企画：佐藤卓 監修：橋本麻里、立花昭 著者：橋本麻里、下川一哉、杉江あこ、外舘和子、阪口公子、立花昭 デザイン：鈴木文女・長谷川桃（TSDO） 写真：西部裕介、五十嵐拓也（amana） 発行：セラミックバレー協議会 発行 [&#8230;]",
+      "link": "https://artscape.jp/article/80555/",
+      "pubDate": "Tue, 20 Oct 2026 02:00:03 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "箱根駅伝の予選、とんでもないことになる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461063.html",
+      "pubDate": "2026-10-20T10:30:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1d0853a7.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】開発に9年かけた成人向ゲーム『ディザーターズ』、クラックされて勝手に改造＆翻訳の海賊版が配信へ　「ショックで立ち直れない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578666.html",
+      "pubDate": "2026-10-20T10:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/912be7cb.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -54,6 +106,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/ebb493ff.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【放送事故】神父が教会で神様へのお祈りを生配信　→　ガチで最悪の大惨事になり世界中が震える……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578657.html",
+      "pubDate": "2026-10-20T09:30:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/1/01145305.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -65,19 +130,6 @@
       "link": "https://jin115.com/archives/52461060.html",
       "pubDate": "2026-10-20T09:30:15+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/4/14c82c3e.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【放送事故】神父が教会で神様へのお祈りを生配信　→　ガチで最悪の大惨事になり世界中が震える……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578657.html",
-      "pubDate": "2026-10-20T09:30:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/1/01145305.jpg"
     },
     {
       "siteId": "hachima",
@@ -535,19 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/a/2a957c04.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジ注意】スクエニ「他社サービスで流出したと思われる情報を組み合わせた不正ログインを確認した」IDやパスワードを使いまわしている人はマジで今すぐ変えろ！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578560.html",
-      "pubDate": "2026-10-19T21:20:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/8/38b89f80.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -585,19 +624,6 @@
       "link": "https://brutus.jp/post-512341/",
       "pubDate": "Mon, 19 Oct 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "テイクツーの元AI責任者「他人がAIで勝手にゲームを移植する行為は、今後消費者に不利益をもたらすことになる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578557.html",
-      "pubDate": "2026-10-19T20:45:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/f/5f715233.jpg"
     },
     {
       "siteId": "jin",
@@ -702,19 +728,6 @@
       "link": "https://www.buzzfeed.com/jp/white_lily/swivel-peeler",
       "pubDate": "Mon, 19 Oct 2026 05:01:01 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/13/05/thumb/xrAfJnZJO.png?crop=1620:1080;150,0&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "お笑い芸人・永野さん、生放送で女子アナの肩を抱き寄せ大はしゃぎ→CM中、とんでもないことになっていたｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461024.html",
-      "pubDate": "2026-10-19T18:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/7/47f766eb.jpg"
     },
     {
       "siteId": "brutus",
@@ -1575,19 +1588,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【埼玉】「内間安瑆・俊子展　色を織り、記憶を紡ぐ」関連イベント",
-      "description": "埼玉県立近代美術館にて、10月10日から開催されている「内間安瑆・俊子展　色を織り、記憶を紡ぐ」展の関連イベントが行なわれます。 批評家・岡﨑乾二郎による講演会や、内間俊子と同時代の女性作家たちの活動にも目を向けるレクチ [&#8230;]",
-      "link": "https://artscape.jp/article/80457/",
-      "pubDate": "Wed, 14 Oct 2026 01:00:12 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T01:30:39.294475",
+  "updatedAt": "2026-10-20T02:00:47.394683",
   "sites": [
     {
       "id": "hachima",
