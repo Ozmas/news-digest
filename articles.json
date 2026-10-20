@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【新名神6人死亡事故】スマホ見ながらトラックを運転していた女性に拘禁刑7年の判決",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578711.html",
+      "pubDate": "2026-10-20T14:30:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fc5c0ff2.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -650,19 +663,6 @@
       "link": "https://jin115.com/archives/52461049.html",
       "pubDate": "2026-10-20T05:00:28+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/c/fcf2bd21.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アニメ『パンどろぼう』の主題歌がドパ曲すぎ！「子供向けじゃない」「最高すぎる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578574.html",
-      "pubDate": "2026-10-20T05:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/265e5301-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T05:30:42.569924",
+  "updatedAt": "2026-10-20T06:00:47.818535",
   "sites": [
     {
       "id": "hachima",
