@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "フランスX民「日本人ってめっちゃバカだよね。そりゃ中国人も嫌うよな」→フランス語圏から共感が殺到・・・そこに中国人も押し寄せて日本人がボコボコに叩かれる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461062.html",
+      "pubDate": "2026-10-20T10:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/ebb493ff.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【あっ】小泉進次郎さん、Xのポストにとある一文が残ってしまい、即削除するｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461060.html",
+      "pubDate": "2026-10-20T09:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/4/14c82c3e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【放送事故】神父が教会で神様へのお祈りを生配信　→　ガチで最悪の大惨事になり世界中が震える……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578657.html",
+      "pubDate": "2026-10-20T09:30:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/1/01145305.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -574,19 +613,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "自由奔放悪餓鬼アイドルグループさん、ライブ中路上に置いたベッドで寝ながら歌う → ファンが自由奔放に添い寝してきたことにブチギレ「次やったら出禁にする」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578538.html",
-      "pubDate": "2026-10-19T19:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/eb8cc1d1.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -691,19 +717,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/escaleter1.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『コミックシーモア』不正アクセスによりサービス再開の見通し立たず 電子書籍がヤバイ時代到来か",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461025.html",
-      "pubDate": "2026-10-19T17:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8cd244dc.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -715,19 +728,6 @@
       "link": "https://brutus.jp/post-530992/",
       "pubDate": "Mon, 19 Oct 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【速報】『麻枝 准』さん、咽頭がん公表 CLANNADやヘブバン制作など、ビジュアルアーツ／Key所属のクリエイター",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461027.html",
-      "pubDate": "2026-10-19T16:36:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/8/589e109c.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T00:30:40.344238",
+  "updatedAt": "2026-10-20T01:00:48.793921",
   "sites": [
     {
       "id": "hachima",
