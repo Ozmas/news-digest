@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "100円マヨビーム頂上決戦！ 100均の「3連ビーム」と「5連ビーム」を一平ちゃんで撃ち比べてみた【100均検証】",
+      "description": "普段は健康的な自炊ばかりしている私であるが、たまにはジャンクなものを食べたい時もある。私の中でのジャンクといえば、明星「一平ちゃん 夜店の焼そば」だ！ 一平ちゃんには「マヨビーム」というものがあるが、私が一平ちゃんを食べ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/20/2832551/",
+      "pubDate": "Tue, 20 Oct 2026 01:00:57 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_2939_1920.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【福井】土田ヒロミ写真展「記憶と記録 ─ヒロシマ・ベルリン・エルサレム・私─」関連イベント",
+      "description": "福井・金津創作の森美術館にて、10月24日から開催される 土田ヒロミ写真展「記憶と記録 ─ヒロシマ・ベルリン・エルサレム・私─」の関連イベントが行なわれます。 写真家・土田ヒロミと美術史家・伊藤俊治による対談やAI時代の [&#8230;]",
+      "link": "https://artscape.jp/article/81500/",
+      "pubDate": "Tue, 20 Oct 2026 01:00:53 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】「カイロソフトは例えるなら◯◯◯屋さん」　→　X民のたとえが秀逸すぎてカイロソフト公式が反応！　これはガチでうまいｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578661.html",
+      "pubDate": "2026-10-20T10:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/b/7bcd57ab.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -572,19 +611,6 @@
       "link": "https://jin115.com/archives/52461021.html",
       "pubDate": "2026-10-19T20:30:28+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/61a8921a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "匿名の人物から大阪市に寄付された金の延べ棒21キロ、4億9962万6538円で売却「水道事業で大切に活用させていただきます」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578545.html",
-      "pubDate": "2026-10-19T20:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/6/163db813.jpg"
     },
     {
       "siteId": "jin",
@@ -1172,19 +1198,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ライブ配信】ついに過去最高の配信環境、整いました！ 飛躍的に見やすくなったライブ配信をご覧ください!!【質問募集】",
-      "description": "毎週水曜19時半から、当サイトのYouTubeチャンネル「ロケットニュース24」で行っているライブ配信。あまりお気づき頂けないかもしれないけど、実は毎回配信環境を少しずつ変えている。 それほど上等な機材を使っているわけで [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/18/2813139/",
-      "pubDate": "Sun, 18 Oct 2026 06:00:56 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/repo101400.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1588,19 +1601,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2024/09/9F3A0856-9104-4BA6-8A76-BFB982405AEB-1024x767.jpeg"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "塚田優｜移動撮影が浮かび上らせる身体──特集上映「Fire in Water 永田康祐映像作品集」（前編）",
-      "description": "会期：2026/08/22〜 会場：横浜シネマリン、大阪シネ・ヌーヴォほか ［全国順次公開中］ 企画・配給：アギィ 協力：ポレポレ東中野、ANOMALY 公式サイト：https://aggie-films.jp/fiw/ [&#8230;]",
-      "link": "https://artscape.jp/article/79728/",
-      "pubDate": "Tue, 13 Oct 2026 02:00:58 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T01:00:48.793921",
+  "updatedAt": "2026-10-20T01:10:10.904417",
   "sites": [
     {
       "id": "hachima",
