@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】ユニクロ、値上げへ・・・ソックスまとめ買い販売も終了",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461101.html",
+      "pubDate": "2026-10-21T03:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/31cffaa3.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -793,19 +806,6 @@
       "link": "https://jin115.com/archives/52461062.html",
       "pubDate": "2026-10-20T10:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/ebb493ff.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【あっ】小泉進次郎さん、Xのポストにとある一文が残ってしまい、即削除するｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461060.html",
-      "pubDate": "2026-10-20T09:30:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/4/14c82c3e.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T18:00:48.718250",
+  "updatedAt": "2026-10-20T18:30:44.784079",
   "sites": [
     {
       "id": "hachima",
