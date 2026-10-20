@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【松屋】今度のごろチキは中華風！ 新作「ごろチキチリソース」が想像と1ミリも違わぬウマさだった",
+      "description": "どうやら「ごろチキ」の進化はまだまだ止まらないらしい。2026年10月20日、全国の松屋で『ごろチキチリソース』の発売が始まった。今度のごろチキはカレーではなく “中華” である。 食べ応えのあるごろチキと、ご飯が進みそ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/20/2832654/",
+      "pubDate": "Tue, 20 Oct 2026 03:00:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/chilli03.jpeg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】“バルセロナの台所”でも親しまれる。〈El Transwaal〉のエプロン",
+      "description": "仕事道具にこだわるあの人へプロが頼る老舗のエプロン 〈El Transwaal〉のエプロン 1888年創業、スペインの業務用ユニフォームショップ〈エル・トランスバル〉。バルセロナの台所と呼ばれるサン・ジュセップ市場のほど [&#8230;]",
+      "link": "https://brutus.jp/post-530374/",
+      "pubDate": "Tue, 20 Oct 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "サッカー選手の妻、フランスで続くデモへの批判に反論「高級店が略奪されたくらいでいちいち騒ぐな」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461076.html",
+      "pubDate": "2026-10-20T11:40:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/706955ff.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【つらい】159センチ男性「低身長で恋愛もスポーツも楽しめず酒も飲めない。高学歴で年収もあげたし筋トレもしたけど報われない。人生どう楽しめばいいんだ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578683.html",
+      "pubDate": "2026-10-20T11:40:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/b/cb8a30e5.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "電気ケトルの「注ぎ残り」ってどうにかならない？『象印』新商品を50代の先輩に使わせたら感動で泣いた",
+      "description": "初めて電気ケトルを使った時は、その便利さにいたく感動したものだが、お湯を注ぎ切ったつもりでも、底に少しだけお湯が残ってしまう「注ぎ残り」もまた、電気ケトルあるあるではないか。 最後まで注ごうとして、さらに深く傾けたり、振 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/20/2808222/",
+      "pubDate": "Tue, 20 Oct 2026 02:30:48 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_8937.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "瀧本幹也が写し撮った「宇宙」を見る。大規模個展が海辺の美術館で開催中！",
+      "description": "〈茅ヶ崎市美術館〉に月と海と大地と宇宙を出現させた瀧本幹也、公立美術館では初となる大規模個展が開催中。",
+      "link": "https://casabrutus.com/categories/art/494585",
+      "pubDate": "Tue, 20 Oct 2026 02:25:46 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -11,7 +89,7 @@
       "title": "元カプコンのライター兼翻訳者が『バイオハザード6』『バイオハザード7』の舞台裏を語る 「バイオ7は当初、レオンが主人公で相棒がハンクなどが候補だった」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10578669.html",
-      "pubDate": "2026-10-20T11:20:37+09:00",
+      "pubDate": "2026-10-20T11:20:28+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/b/9bbbd0bc.png"
     },
     {
@@ -574,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/a/ea7890b2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "警備員が落とした2200万円の入った袋を拾い全部使い込んだ男の初公判「がんの再発で余命2、3カ月と告げられた帰りだった。神様の贈り物だと思った」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578571.html",
-      "pubDate": "2026-10-19T22:40:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b07c9c81.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +741,6 @@
       "link": "https://jin115.com/archives/52461021.html",
       "pubDate": "2026-10-19T20:30:28+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/61a8921a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "電車に乗車中の男性「ｺﾞﾎｯｺﾞﾎｯ」→女性「イヤアアアアｱ！男が咳してるううううううううう！！」→駅員に通報された結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461020.html",
-      "pubDate": "2026-10-19T20:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/7/b7e755c5-s.png"
     },
     {
       "siteId": "brutus",
@@ -1120,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月19日〜25日 射手座の運勢【ブルータス週間占い】",
-      "description": "射手座の羅針盤 心の奥の大切なものを思い出す 射手座にとって内省の部屋にあたる蠍座に金星（喜び）が在住しています。20日には、そこに冥王星（極端さ）が90度でコンタクト。この配置は、心の奥に潜んでいる大切なものを思い出さ [&#8230;]",
-      "link": "https://brutus.jp/post-532240/",
-      "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1159,19 +1198,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2146話目「新設、トラップ部隊⑳」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/18/2813524/",
-      "pubDate": "Sun, 18 Oct 2026 12:00:41 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2146a.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1183,19 +1209,6 @@
       "link": "https://www.buzzfeed.com/jp/saorihakamada/sasakinozomi1014",
       "pubDate": "Sun, 18 Oct 2026 06:01:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/14/03/thumb/aC5w433Wo.jpg?crop=4860:3240;0,0&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「マサイ族は油たっぷりのポテトが好き？」2種類のポテトから僕が選んだのは…【カンバ通信：第532回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 さて、今回もポテトを食べるために、あるレストランへ行ってきたよ。 店の名前は「Menya Cafe」。 実は、この「Meny [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/18/2813464/",
-      "pubDate": "Sun, 18 Oct 2026 10:00:23 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/30分かかるケニアのポテト_1920-1.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1417,19 +1430,6 @@
       "link": "https://www.buzzfeed.com/jp/yusuketsuji/20centurykumamon1015",
       "pubDate": "Fri, 16 Oct 2026 18:01:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/15/02/subbuzz/5aEGvcIO9.jpg?crop=3390:2260;0,375&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "江戸の中で一番汚い「名所」とは？ ある動物の◯がポイントです。【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/491320",
-      "pubDate": "Fri, 16 Oct 2026 22:00:58 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T02:30:38.547508",
+  "updatedAt": "2026-10-20T03:00:49.695867",
   "sites": [
     {
       "id": "hachima",
