@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "秋田県の道の駅を全制覇したのでオススメ10選を紹介する / 900駅巡ったマニアのまとめ「空港自体が道の駅」など",
+      "description": "美しく雄大な日本海の絶景から、比内地鶏やきりたんぽ、横手やきそばといった絶品ご当地グルメまで、東北屈指の食と観光の宝庫である「秋田県」。 豊かな自然と独自の文化に恵まれた魅力的なエリアだが、広大な県内をドライブする際に「 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/20/2811702/",
+      "pubDate": "Tue, 20 Oct 2026 00:00:29 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_5857_81ad7f.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "漫画『1日外出録ハンチョウ』、今週の内容がガチでエグすぎて、ぶっ刺さる人が続出してしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461058.html",
+      "pubDate": "2026-10-20T08:40:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/6/86c977d6.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】女性「◯◯◯を感じない男とする性行為が一番えちちで興奮した」　→　ネット中の女性達から圧倒的共感が殺到ｗｗｗｗｗ　マジかｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578650.html",
+      "pubDate": "2026-10-20T08:30:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/372e58dd.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -37,7 +76,7 @@
       "title": "【地獄】女子2人連れがラーメン屋で「ごちそうさまでした」　→　男3人連れに見られて最悪の展開に……",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10578647.html",
-      "pubDate": "2026-10-20T08:00:58+09:00",
+      "pubDate": "2026-10-20T08:00:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/2087ed54.jpg"
     },
     {
@@ -587,19 +626,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ぬるっと交付金約17億円ゲット予定の中道改革連合「納得できない」が7割超　そこから党名ロンダリングした民主改革の会の支持率0.1％",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578524.html",
-      "pubDate": "2026-10-19T18:40:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/5/b5d47cfa-s.png"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -715,19 +741,6 @@
       "link": "https://casabrutus.com/categories/art/494823",
       "pubDate": "Mon, 19 Oct 2026 07:25:43 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ウマ娘、ガチでヤバいことになっていた・・・「冷静じゃないので一旦寝ます」「涙が止まらない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461018.html",
-      "pubDate": "2026-10-19T16:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56295af3.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1170,19 +1183,6 @@
       "link": "https://rocketnews24.com/2026/10/18/2813139/",
       "pubDate": "Sun, 18 Oct 2026 06:00:56 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/repo101400.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ピクルス11枚だと？ バーガーキングの新作「ピックルボールバーガー」が予想外にウマすぎてビビった",
-      "description": "2026年10月、バーガーキングでシレっととんでもないハンバーガーが発売されている。その名も『ピックルボールバーガー』──。なんと11枚ものピクルスを使用した、狂気のピクルスバーガーである。 おいおい、ピクルスが美味しい [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/18/2812988/",
-      "pubDate": "Sun, 18 Oct 2026 02:55:39 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/pikkuru01.jpeg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-19T23:30:40.557596",
+  "updatedAt": "2026-10-20T00:00:51.907460",
   "sites": [
     {
       "id": "hachima",
