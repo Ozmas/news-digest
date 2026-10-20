@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【女ひとり飲み】食べ飲み放題よりお得かも？ 「一休」の1杯99円ハッピーアワーで飲んだ結果",
+      "description": "「居酒屋 一休で1人食べ飲み放題をしてほしい。」 読者から、そんなリクエストをいただいた。なんでも「一休」の食べ飲み放題は99分2999円。3000円を切る値段で、料理もお酒も楽しめるのだそう。めっちゃいいやん！ ところ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/20/2832140/",
+      "pubDate": "Tue, 20 Oct 2026 10:00:15 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/一休サムネ.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜松江編〜",
+      "description": "宍道湖（しんじこ）に面し水路が縦横に走る水の都にして、伝統が息づく城下町には古き良き飲み屋街が健在。松江を二分する大橋川の北と南の飲み屋街で旨い酒と肴が待っています。 Bar 山小舎（やまごや） 激動の時代を生き抜いて約 [&#8230;]",
+      "link": "https://brutus.jp/post-512345/",
+      "pubDate": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "スイッチ2版『モンハンワイルズ』体験版の感想まとめ！「画面はガビガビ、ゲームプレイに支障はなし」「入力遅延が気になる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578762.html",
+      "pubDate": "2026-10-20T18:30:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/6/16ca6d70.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -600,19 +639,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】「カイロソフトは例えるなら◯◯◯屋さん」　→　X民のたとえが秀逸すぎてカイロソフト公式が反応！　これはガチでうまいｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578661.html",
-      "pubDate": "2026-10-20T10:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/b/7bcd57ab.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1068,19 +1094,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "キットを使って初めて豆大福を手作りしてみたら、和菓子職人さんに尊敬の念を抱いた",
-      "description": "和菓子って家で手作りするのは難しそうという印象があったのだけど、「富澤商店」の手作りキットシリーズの中に「豆大福」があるのを発見した。 電子レンジがあれば作れるらしく、思ったより手軽そう……ということで、さっそく挑戦！  [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/19/2812002/",
-      "pubDate": "Mon, 19 Oct 2026 02:00:55 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-17.jpeg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1194,19 +1207,6 @@
       "title": "10月19日〜25日 蟹座の運勢【ブルータス週間占い】",
       "description": "蟹座の羅針盤 昔の楽しさを思い出す 上弦の月が起こる山羊座は、蟹座にとっては対人関係の部屋にあたります。今週は、この先も深く関わりたいのはどんな相手かをゆっくり考えていくことになりそうです。 週前半には、「深さ」を表す部 [&#8230;]",
       "link": "https://brutus.jp/post-532224/",
-      "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月19日〜25日 獅子座の運勢【ブルータス週間占い】",
-      "description": "獅子座の羅針盤 新旧の人間関係両方を大事にする 19日の未明に、獅子座にとって日々の業務を示す部屋、山羊座で上弦の月が起こります。これによって、家の用事や職場のちょっとしたタスクが落ち着いてきそうです。毎日のルーティーン [&#8230;]",
-      "link": "https://brutus.jp/post-532231/",
       "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T09:30:45.051170",
+  "updatedAt": "2026-10-20T10:00:54.223815",
   "sites": [
     {
       "id": "hachima",
