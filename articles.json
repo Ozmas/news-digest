@@ -15,6 +15,19 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_1537-e1791467163155-1024x767.jpeg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】◯◯公式「せや！生成AIを使って画像ツイートしよ」　→　取り返しのつかない最悪の炎上に発展してしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578969.html",
+      "pubDate": "2026-10-21T08:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58b68bdf.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -507,19 +520,6 @@
       "link": "https://brutus.jp/post-532156/",
       "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女性の下半身を触り逮捕されたユーチューバー・ヴァンビさん、Xで謝罪「相手方及び店舗に一切非はありません」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578845.html",
-      "pubDate": "2026-10-20T19:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/3/836085fc.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T23:19:02.696510",
+  "updatedAt": "2026-10-20T23:30:37.289047",
   "sites": [
     {
       "id": "hachima",
