@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【迷走】『スター・ウォーズ』新作映画が企画停止！「もう終わったシリーズ」「ルーカスにEP7～9を作り直してもらえ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578841.html",
+      "pubDate": "2026-10-20T19:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fc357935.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "夫婦ユーチューバーさん、ヤバイ事態に遭いほぼ全財産を失う・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461084.html",
+      "pubDate": "2026-10-20T19:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/43b0bcd9.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1d0853a7.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】開発に9年かけた成人向ゲーム『ディザーターズ』、クラックされて勝手に改造＆翻訳の海賊版が配信へ　「ショックで立ち直れない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578666.html",
-      "pubDate": "2026-10-20T10:30:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/912be7cb.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -819,19 +832,6 @@
       "link": "https://jin115.com/archives/52461041.html",
       "pubDate": "2026-10-20T03:00:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/7/379e6235.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "医師から余命2ヶ月と宣告された男性さん、帰り道で2200万円を拾い「神様からの贈り物だ！使いまくるぞ！」 → ヤバイことになる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461040.html",
-      "pubDate": "2026-10-20T01:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/7/570a06e7.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T10:00:54.223815",
+  "updatedAt": "2026-10-20T10:30:43.021912",
   "sites": [
     {
       "id": "hachima",
