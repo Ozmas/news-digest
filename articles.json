@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2148話目「新設、トラップ部隊㉒」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/10/20/2832431/",
+      "pubDate": "Tue, 20 Oct 2026 12:00:58 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2148a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【噂】新型グラボ『GeForce RTX 6060』の発売時期がリーク！性能はPS6以下か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578863.html",
+      "pubDate": "2026-10-20T21:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/5/459f6dc9.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "流行写真通信 第45回：本も展覧会も避けてきたファッション写真の巨匠デヴィッド・シムズは初展覧会で自らの反抗的な完璧主義を振り返る",
+      "description": "意外な申し出からこのインタビューが実現した。「デヴィッド・シムズが初の展覧会をやるので、プロモーションでいくつか取材を受けるつもりがあり、日本のメディアではBRUTUS.jpの〈流行写真通信〉を希望している」というもの。 [&#8230;]",
+      "link": "https://brutus.jp/post-530815/",
+      "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -507,19 +546,6 @@
       "link": "http://blog.esuteru.com/archives/10578696.html",
       "pubDate": "2026-10-20T12:20:28+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/e/2e0b4ee1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【アカン】男性「パンどろぼうのふわふわの食パンにチ◯コつっこみてえ」　→　Xでつぶやいた結果、最悪の末路にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578690.html",
-      "pubDate": "2026-10-20T12:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/4/d477ef56.jpg"
     },
     {
       "siteId": "jin",
@@ -1081,19 +1107,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "編集部メンバーが忘れられない！ 今まで会った「人柄が素敵すぎる芸能人」11選",
-      "description": "職業柄、芸能人の起こす事件は何かと大きく報道される。テレビやネット・雑誌・SNSなどで繰り返し報じられ、格好のニュース材料にされてしまうのだが、当然ながら皆が不祥事を起こすわけではない。 むしろ人柄の良い人が多いように、 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/19/2813633/",
-      "pubDate": "Mon, 19 Oct 2026 02:30:33 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/geinousuteki.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1194,19 +1207,6 @@
       "title": "10月19日〜25日 牡牛座の運勢【ブルータス週間占い】",
       "description": "牡牛座の羅針盤 過去の感情を整理する 週の初めに月がいるのは、牡牛座にとって社会的立場を示す部屋、水瓶座です。これまでの地道な努力が結実する週となりそうです。昇進や配置換えを受けたり、自分の中で「こう名乗っていいだろう」 [&#8230;]",
       "link": "https://brutus.jp/post-532220/",
-      "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月19日〜25日 双子座の運勢【ブルータス週間占い】",
-      "description": "双子座の羅針盤 自分自身の仕事に注力する 上弦の月が起こる山羊座は、双子座にとっては深い感情を意味する部屋です。今週初めに、心の奥底で今後についての決意が固まる瞬間があるでしょう。誰に言わずとも、自分のなかで決めたことに [&#8230;]",
-      "link": "https://brutus.jp/post-532222/",
       "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T12:00:54.760558",
+  "updatedAt": "2026-10-20T12:30:41.777912",
   "sites": [
     {
       "id": "hachima",
