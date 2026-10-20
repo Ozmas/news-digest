@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予算カット発言】高市首相が全省庁調査拒否 → 首相の地元奈良の選挙区で交付金が爆増していることが判明ｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578742.html",
+      "pubDate": "2026-10-20T17:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0768031.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】ウマ娘ロサンゼルス公演、中止",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461089.html",
+      "pubDate": "2026-10-20T17:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/d/3d35aff9-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -626,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/6/86c977d6.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】女性「◯◯◯を感じない男とする性行為が一番えちちで興奮した」　→　ネット中の女性達から圧倒的共感が殺到ｗｗｗｗｗ　マジかｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578650.html",
-      "pubDate": "2026-10-20T08:30:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/372e58dd.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,19 +793,6 @@
       "link": "https://jin115.com/archives/52461037.html",
       "pubDate": "2026-10-20T00:00:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/8/18776802-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『Amazonプライム感謝祭セール』ついに本番開始！ガチで安すぎる本当にオススメな人気商品をまとめてみた！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460803.html",
-      "pubDate": "2026-10-19T23:59:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T08:00:48.865518",
+  "updatedAt": "2026-10-20T08:30:41.660470",
   "sites": [
     {
       "id": "hachima",
