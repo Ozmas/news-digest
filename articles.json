@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】『マビノギモバイル』はキャラが1週間ごとに加齢するシステム　→　13歳女子と14歳女子の体型や顔の変化があまりにドスケベでエグいとネット騒然ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578656.html",
+      "pubDate": "2026-10-20T09:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/503d182f.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,19 @@
       "link": "https://rocketnews24.com/2026/10/20/2811702/",
       "pubDate": "Tue, 20 Oct 2026 00:00:29 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_5857_81ad7f.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "12億円が当選した20代男性、手数料1万5000円を払ったのに一向に振り込まれず、警察に相談へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461061.html",
+      "pubDate": "2026-10-20T09:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e8969d28.jpg"
     },
     {
       "siteId": "jin",
@@ -587,19 +613,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_13ede9.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "山田邦子さん「年取ったら男は機能しない」「物体でしかない」熟年離婚増加で夫をボロクソに言う →批判殺到「これ男女逆なら・・・」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578529.html",
-      "pubDate": "2026-10-19T19:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bf7fe7bf.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://jin115.com/archives/52461027.html",
       "pubDate": "2026-10-19T16:36:25+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/8/589e109c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『みにあまる彼氏』全巻「100円」セール！全13巻「6,578円」→「1,300円」！恋愛初心者と愛が重すぎる彼氏のラブコメ！宝鐘マリンさんの「いま読んで欲しい作品」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52460987.html",
-      "pubDate": "2026-10-19T16:30:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/af2f2f43.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T00:00:51.907460",
+  "updatedAt": "2026-10-20T00:30:40.344238",
   "sites": [
     {
       "id": "hachima",
