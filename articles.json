@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2730回「九尾の九ちゃん⑥」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/10/20/2832560/",
+      "pubDate": "Tue, 20 Oct 2026 05:00:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2730-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "北海道のとあるコーヒー店のおかみさんがあまりにも強烈なのか、賛否両論に　「頼んでないのに料理が来る」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578706.html",
+      "pubDate": "2026-10-20T14:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6bea01ab.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "神嘗祭賢所の儀に参列後、京都駅に到着された佳子様の前を堂々と横切る赤スカートの女性が話題に　その場面が映った動画が拡散され、物議に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578692.html",
+      "pubDate": "2026-10-20T13:40:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/94febe65.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【訃報】俳優・土田大さんが死去　『カクレンジャー』ニンジャブルー役、『カーズ』マックイーンの声優など",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461081.html",
+      "pubDate": "2026-10-20T13:38:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/43402ef2.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -379,19 +431,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/4/14c82c3e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】『マビノギモバイル』はキャラが1週間ごとに加齢するシステム　→　13歳女子と14歳女子の体型や顔の変化があまりにドスケベでエグいとネット騒然ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578656.html",
-      "pubDate": "2026-10-20T09:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/503d182f.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -403,6 +442,19 @@
       "link": "https://rocketnews24.com/2026/10/20/2811702/",
       "pubDate": "Tue, 20 Oct 2026 00:00:29 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_5857_81ad7f.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】『マビノギモバイル』はキャラが1週間ごとに加齢　→　13歳女子と14歳女子の体型や顔の変化があまりにドスケベでエグいとネット騒然ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578656.html",
+      "pubDate": "2026-10-20T09:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/503d182f.jpg"
     },
     {
       "siteId": "jin",
@@ -613,32 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/265e5301-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "テニスの王子様のゲーム『学プリ』『ドキサバ』がまさかの返金対応へ！原因は……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578540.html",
-      "pubDate": "2026-10-20T04:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/9/39d1990e-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "フランスの騒動を象徴する「ゲームショップを守る男性」が世界的有名に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578535.html",
-      "pubDate": "2026-10-20T03:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/a/ba665c6f.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +728,6 @@
       "link": "https://jin115.com/archives/52461034.html",
       "pubDate": "2026-10-19T23:04:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/a/ea7890b2.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【ロマン】世界最古の沈没船発見！ 〇千年以上前の痕跡からはなんと・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461030.html",
-      "pubDate": "2026-10-19T22:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/a/4ac020ae.jpg"
     },
     {
       "siteId": "brutus",
@@ -1053,19 +1066,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/19/randysdonuts-soramachi/",
       "pubDate": "Sun, 18 Oct 2026 23:01:40 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7723-e1791876135491-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「最後にひとつだけアドバイスするね」AIが生み出したもう一人の自分と電話してみたら、想像以上に心に響く体験だった",
-      "description": "「もしもし……最後にひとつだけアドバイスするね」 電話の向こうから聞こえてきたのは、AIが生み出した「もう一人の私」の声だった。 銀座にあるKDDIの体験施設「GINZA 456 Created by KDDI」。 ここ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/19/2813565/",
-      "pubDate": "Sun, 18 Oct 2026 23:00:54 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/LINE_ALBUM_20261015-_1_261016_48.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T04:30:38.161245",
+  "updatedAt": "2026-10-20T05:00:51.808662",
   "sites": [
     {
       "id": "hachima",
