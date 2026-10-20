@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "オタク「まどマギは超かぐや超えて欲しかった。勝てた勝負やぞ。」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578905.html",
+      "pubDate": "2026-10-21T06:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74d65906.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "新人「前職は2回ともパワハラで辞めました。よろしくお願いします」→入社数カ月後、化けの皮が剥がれ始める・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461106.html",
+      "pubDate": "2026-10-21T06:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9e6db536.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -457,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/82f7d98f.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『RTA in Japan』で『クレイジータクシー』が選出されるも、BGMが版権関係でNG → RTA走者が異例の演奏者募集へ　なお、海外では似たようなケースで実際に演奏者を呼び、実走",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578752.html",
-      "pubDate": "2026-10-20T18:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6b303b07.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -767,19 +780,6 @@
       "link": "https://artscape.jp/article/80555/",
       "pubDate": "Tue, 20 Oct 2026 02:00:03 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "箱根駅伝の予選、とんでもないことになる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461063.html",
-      "pubDate": "2026-10-20T10:30:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1d0853a7.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T21:00:51.690117",
+  "updatedAt": "2026-10-20T21:30:41.637860",
   "sites": [
     {
       "id": "hachima",
