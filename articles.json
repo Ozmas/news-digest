@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ真理】33歳女性「小娘・小僧へ。私らおばさんが怯えてるのは『自分より若い同性』じゃなくて◯◯◯だから」　→　「わかる」とネット中の女性から共感殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578696.html",
+      "pubDate": "2026-10-20T12:20:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/e/2e0b4ee1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【アカン】男性「パンどろぼうのふわふわの食パンにチ◯コつっこみてえ」　→　Xでつぶやいた結果、最悪の末路にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578690.html",
+      "pubDate": "2026-10-20T12:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/4/d477ef56.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "グラビアアイドルさん、すれ違いざまにオッサンに足をかけられる→体幹が強すぎた結果がこちらｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461077.html",
+      "pubDate": "2026-10-20T12:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/34c7dd24.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -600,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/8/18776802-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】厚生労働省が検討している出産無償化+現金給付の新制度、外国人に悪用されるだけではないかと話題に…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578588.html",
-      "pubDate": "2026-10-20T00:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6d82a82a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -624,19 +650,6 @@
       "link": "https://jin115.com/archives/52460803.html",
       "pubDate": "2026-10-19T23:59:34+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/1611ad13.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女性自身、簗和生氏の父親の家に突撃取材「息子さんにどのようなことを説いてきたんですか！？」 → 父親、圧倒的正論をかましてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578582.html",
-      "pubDate": "2026-10-19T23:20:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a1ae6ece.jpg"
     },
     {
       "siteId": "jin",
@@ -728,19 +741,6 @@
       "link": "https://brutus.jp/post-512341/",
       "pubDate": "Mon, 19 Oct 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "フランスのデモ、日本のアニメキャラがシンボルとして使われてしまう・・・「海外のアニオタ嫌いな理由が全てここに詰まってる」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461021.html",
-      "pubDate": "2026-10-19T20:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/61a8921a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T03:00:49.695867",
+  "updatedAt": "2026-10-20T03:30:43.911027",
   "sites": [
     {
       "id": "hachima",
