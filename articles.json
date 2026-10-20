@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ご近所さんから『ローゼル』をたくさんいただいたので、自家製ジャムを作ってみた / 武骨な茎と可愛らしい実から生まれる、甘酸っぱい感動",
+      "description": "収穫の秋、ご近所さんからさまざまな食材をいただく今日この頃だ。先日はスダチ、最近では名古屋コーチンの卵。そしてついに、ローゼルまで頂戴してしまった。本当にありがたい限りである。 ローゼルについては以前も紹介したことがある [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/20/2832619/",
+      "pubDate": "Tue, 20 Oct 2026 08:00:34 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_9860_cddb1d.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "余りものに、個性を宿す。〈YUTASETOGAWA〉のバイカーズジャケット：Brutus Best Bets",
+      "description": "余りものに、個性を宿す 工業製品などにも使われるリサイクル生地が服になる。残糸をフェルト化したこの素材を、今季メンズブランドとして再始動した〈ユウタセトガワ〉がバイカーズジャケットに仕立てた。不均一に絡む繊維ならではの表 [&#8230;]",
+      "link": "https://brutus.jp/post-530997/",
+      "pubDate": "Tue, 20 Oct 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -13,6 +39,19 @@
       "link": "http://blog.esuteru.com/archives/10578723.html",
       "pubDate": "2026-10-20T16:30:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/2/e2953f8f.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【彬子女王のモダン建築めぐり】旧近衛師団司令部庁舎",
+      "description": "英国・オックスフォード大学大学院で博士号を取得され、美術やデザインへの造詣が深い彬子女王殿下が、明治、大正、昭和初期に建てられたモダン建築をめぐる本連載。その頃は西洋建築が輸入された時代であり、和風と洋風が折衷した独特な様式が魅力で、皇室ゆかりの施設も多く建てられています。そんなモダン建築について、彬子女王殿下ならではの視点で綴っていきます。\n\n第15回は〈旧近衛師団司令部庁舎〉。千鳥ヶ淵に佇む、",
+      "link": "https://casabrutus.com/categories/architecture/494763",
+      "pubDate": "Tue, 20 Oct 2026 07:25:59 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -1029,19 +1068,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "オリーブの丘はデザートも優秀すぎる！ 季節限定「焼きたてアップルパイ」がファミレスの域を超えた本格派だった",
-      "description": "つい最近も、サイゼリヤの上位互換としてSNSで話題になったイタリアンレストラン「オリーブの丘」。ピザやパスタがおいしいのはもちろん、デザートも想像以上の本格派なのをご存じだろうか。 2026年10月14日に発売された「焼 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/19/2832183/",
-      "pubDate": "Mon, 19 Oct 2026 01:00:31 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/o12.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1168,19 +1194,6 @@
       "title": "10月19日〜25日乙女座の運勢【ブルータス週間占い】",
       "description": "乙女座の羅針盤 発言や発信に注意する 上弦の月は、乙女座にとって自己表現の部屋である山羊座で起こります。自分を認めてあげようと思え、このままでもいいのだと焦りがなくなるところから週が始まります。 その後、月は日々の業務の [&#8230;]",
       "link": "https://brutus.jp/post-532233/",
-      "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月19日〜25日 天秤座の運勢【ブルータス週間占い】",
-      "description": "天秤座の羅針盤 心踊ることをする 19日の未明に、基盤や足元を示す部屋である山羊座で上弦の月が起こります。これは、キャリアや私生活の面で土台が固まってきたことを示す月。安心感や自信が出てくるタイミングです。 その後、月は [&#8230;]",
-      "link": "https://brutus.jp/post-532235/",
       "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1391,19 +1404,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/17/sanire-open/",
       "pubDate": "Fri, 16 Oct 2026 23:01:25 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7964-1024x767.jpeg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【10月17日〜18日】今週末必見の“アート＆デザイン”まとめ！",
-      "description": "カーサが注目する、今週末のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
-      "link": "https://casabrutus.com/categories/art/495204",
-      "pubDate": "Fri, 16 Oct 2026 22:55:40 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T07:30:40.837394",
+  "updatedAt": "2026-10-20T08:00:48.865518",
   "sites": [
     {
       "id": "hachima",
