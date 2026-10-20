@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】深夜まで楽しめる裏路地イタリアン「Trattoria Nero」東駒形w2丁目にOPEN！",
+      "description": "2026年10月2日に東駒形2丁目に「Trattoria Nero」がOPENしました。 View this post on Instagram 目を引くお店の扉にはアンティークのイギリス製の物を使用しているそうで、一際 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/21/rattoria-nero/",
+      "pubDate": "Tue, 20 Oct 2026 23:01:57 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_1537-e1791467163155-1024x767.jpeg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,19 @@
       "link": "https://rocketnews24.com/2026/10/21/2810267/",
       "pubDate": "Tue, 20 Oct 2026 23:00:35 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-3-1.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "サイバー攻撃被害、ついにここまで・・・不正アクセスを受けた証券会社で“勝手に売買が成立する”ケースが発生",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461107.html",
+      "pubDate": "2026-10-21T08:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
     },
     {
       "siteId": "brutus",
@@ -793,19 +819,6 @@
       "link": "https://casabrutus.com/categories/art/494585",
       "pubDate": "Tue, 20 Oct 2026 02:25:46 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "名作漫画『深夜食堂』が1～10巻まで「各99円」で買える激安セール開催！！ドラマ新シーズン放送記念！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461051.html",
-      "pubDate": "2026-10-20T11:20:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/afa70ae2.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1640,19 +1653,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8003-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】曳舟駅イトーヨーカドーの外側に洋食とカレーのお店 SEN +(センプラス)オープン。",
-      "description": "押上の間借りカレーSRY spiceが2026年9月7日に曳舟駅イトーヨーカドーの外側に洋食とカレーのお店SEN +(センプラス)としてオープンしました。 SEN＋では、ハンバーグやMIXフライなどの洋食メニューに加え、 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/11/senplus-hikifune/",
-      "pubDate": "Sat, 10 Oct 2026 23:01:25 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/830571758_1516155237035921_4944802906935715013_n-e1790953090957-1024x767.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T23:00:50.200096",
+  "updatedAt": "2026-10-20T23:19:02.696510",
   "sites": [
     {
       "id": "hachima",
