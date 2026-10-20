@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【画像】迷子の女の子を保護した女子高生、とんでもなく可愛いと話題に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461079.html",
+      "pubDate": "2026-10-20T23:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0cfe94ef.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "モンゴルの草原でとんでもない大火災発生！原因は日本人…絶滅危惧種を密猟しようとしていたとの情報も",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578889.html",
+      "pubDate": "2026-10-20T23:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/0/c05e557c.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -522,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/43402ef2.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】セクシー過ぎる女性声優・井口裕香さん、いくら何でもアレがデカすぎるｗｗｗｗｗｗ 「パンパンやな」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578705.html",
-      "pubDate": "2026-10-20T13:20:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/0/a080f167.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +819,6 @@
       "link": "https://jin115.com/archives/52461058.html",
       "pubDate": "2026-10-20T08:40:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/6/86c977d6.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ドージンワーク』全巻「88円」セール！全6巻「2,640円」→「528円」！アダルト同人誌を作る女の子の下ネタ漫画！『アホガール』『カノジョも彼女』などヒロユキ先生の原点",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461048.html",
-      "pubDate": "2026-10-20T08:20:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96306c5c.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T14:00:53.028641",
+  "updatedAt": "2026-10-20T14:30:49.499722",
   "sites": [
     {
       "id": "hachima",
