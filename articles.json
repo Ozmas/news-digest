@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "トランプ政権、ちょっとやばいかもしれない・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461109.html",
+      "pubDate": "2026-10-21T07:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fd9bc3c3.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】アニメ『ヤニねこ』、待望の公式ドスケベグッズ販売　→　お前らの想像の300倍えちちｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578953.html",
+      "pubDate": "2026-10-21T07:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/6/964c1582.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -483,19 +509,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スイッチ2版『モンハンワイルズ』体験版の感想まとめ！「画面はガビガビ、ゲームプレイに支障はなし」「入力遅延が気になる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578762.html",
-      "pubDate": "2026-10-20T18:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/6/16ca6d70.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/10/20/2812418/",
       "pubDate": "Tue, 20 Oct 2026 02:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/yasube01.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "高学歴・富裕層ほど左翼になり多様性を主張する理由、完璧に言語化され話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461065.html",
-      "pubDate": "2026-10-20T11:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/f/9fec8ec8.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-20T22:00:48.684748",
+  "updatedAt": "2026-10-20T22:30:42.969277",
   "sites": [
     {
       "id": "hachima",
