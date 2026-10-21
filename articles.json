@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】外国人「日本のものは何でも海賊版で手に入れるのが道徳的に正しい」「ゲームを海賊版で入手することに罪悪感を持つべきではない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461143.html",
+      "pubDate": "2026-10-21T19:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/1/91af2900.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "おでんツンツン男「タトゥー丸見えで娘の運動会行ったらDMがめちゃくちゃ来た。子供の運動会でも隠さなきゃいけないの？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579128.html",
+      "pubDate": "2026-10-21T19:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/c/8cee20c2.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -47,7 +73,7 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "快適すぎる車用ゴミ箱発見した…！走ってもカタカタしないしフタも自動で閉じるじゃん",
+      "title": "カタカタ鳴るし倒れて散らばる→車用ゴミ箱に困ってたら“やわらかダストBOX”がぜ〜んぶ解決してくれたよ！",
       "description": "走行中に倒れてゴミが散らばったり、振動でカタカタ音が鳴ったりと、意外に悩みが多い“車用のゴミ箱”。今回はそんなお悩みをまるっと解決する、機能的なアイテムをご紹介します。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/white_lily/carmate-soft-dustbox",
       "pubDate": "Wed, 21 Oct 2026 05:01:03 -0400",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/f/3fe31a93.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】日本人、フランス人からすごい勢いで失望され嫌われだす…　「漫画作品は反権力なのに国民性は真逆」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578990.html",
-      "pubDate": "2026-10-21T10:30:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6a75195-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -845,19 +858,6 @@
       "link": "https://jin115.com/archives/52461106.html",
       "pubDate": "2026-10-21T06:00:39+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9e6db536.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "Switch2版『モンハンワイルズ体験版』、様々な感想が飛び交う「個人的には十分なクオリティ」「50FPS出るならPCより良い」「Switch2版重い」「ガビガビカクカクすぎ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461102.html",
-      "pubDate": "2026-10-21T05:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/b/abb45470.jpg"
     },
     {
       "siteId": "brutus",
@@ -1562,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T10:00:49.888672",
+  "updatedAt": "2026-10-21T10:30:48.871727",
   "sites": [
     {
       "id": "hachima",
