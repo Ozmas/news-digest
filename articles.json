@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "冬こそ、地中海気分を。〈BIELO〉のキャップ：Brutus Best Bets",
+      "description": "冬こそ、地中海気分を 冬のニットが、どこか陽気。それが〈ビエロ〉らしさだ。スペイン・カタルーニャの自社工場は、40年以上にわたり名だたるラグジュアリーブランドの製品を手がけてきた。そのクラフツマンシップに、地中海らしい色 [&#8230;]",
+      "link": "https://brutus.jp/post-531000/",
+      "pubDate": "Wed, 21 Oct 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【噂】次世代Xbox『Helix』社内想定価格は最大1800ドル(約28万円)との報道！携帯機も発売か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579051.html",
+      "pubDate": "2026-10-21T16:30:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/ea697e77.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -613,19 +639,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_1537-e1791467163155-1024x767.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】◯◯公式「せや！生成AIを使って画像ツイートしよ」　→　取り返しのつかない最悪の炎上に発展してしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578969.html",
-      "pubDate": "2026-10-21T08:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58b68bdf.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1211,19 +1224,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "『第一回 前橋国際芸術祭2026』を深川麻衣が歩く。見て、聴いて、食べて感じ取ったこと",
-      "description": "アートの街・前橋を歩いて楽しむ都市型芸術祭へ 「目の前のテーマをどんな素材でどう表現するかという過程に、アーティストのパーソナルな部分が垣間見える気がするんです。それを想像したり考えを巡らせたりする時間が好き。日常を忘れ [&#8230;]",
-      "link": "https://brutus.jp/post-529700/",
-      "pubDate": "Mon, 19 Oct 2026 02:50:34 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T07:30:43.006835",
+  "updatedAt": "2026-10-21T08:00:50.471673",
   "sites": [
     {
       "id": "hachima",
