@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ラプラス・ダークネスさん、謝罪配信！セクハラ被害の真相については◯◯と語る",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461169.html",
+      "pubDate": "2026-10-22T00:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d8d17ca.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】微笑ましい子供の絵で分かる格差社会が悲しすぎると話題に・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579125.html",
+      "pubDate": "2026-10-22T00:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/48233418.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -337,7 +363,7 @@
       "description": "走行中に倒れてゴミが散らばったり、振動でカタカタ音が鳴ったりと、意外に悩みが多い“車用のゴミ箱”。今回はそんなお悩みをまるっと解決する、機能的なアイテムをご紹介します。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/white_lily/carmate-soft-dustbox",
       "pubDate": "Wed, 21 Oct 2026 05:01:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/02/thumb/bdBJ6l_TT.jpg?crop=3000%3A2000%3B0%2C0"
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/02/thumb/bdBJ6l_TT.jpg?crop=3000:2000;0,0&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -587,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/6/c6d875be.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "痴漢冤罪で話題になったYouTuber、当事者ら不起訴処分に納得せず、検察審査会に持ち込む → 検察審査会でも不起訴処分に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579015.html",
-      "pubDate": "2026-10-21T14:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d39914f0.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/10/21/2832717/",
       "pubDate": "Wed, 21 Oct 2026 01:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/domino.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "太鼓の達人をプレイ中に、子供に乱入されてパーフェクト失敗する動画が話題に・・・これを見ても「子供のすることだから・・・」で済ませられる？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461116.html",
-      "pubDate": "2026-10-21T10:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/785e9d1a.png"
     },
     {
       "siteId": "brutus",
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T14:30:44.957488",
+  "updatedAt": "2026-10-21T15:00:56.239414",
   "sites": [
     {
       "id": "hachima",
