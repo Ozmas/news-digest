@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【物議】刑務所の食事を実際に食べてみた人の感想、いろんな意味でツラすぎた・・・・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461117.html",
+      "pubDate": "2026-10-21T10:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/f/3fe31a93.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】日本人オタク、フランス人からすごい勢いで失望され嫌われだす…　「漫画作品は反権力なのに国民は真逆」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578990.html",
+      "pubDate": "2026-10-21T10:30:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6a75195-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -561,19 +587,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "YouTuberヒカルさん、恋人・加藤神楽さんの息子を年間1500万円超の保育園に入れる「かなりエリートが行くところ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578868.html",
-      "pubDate": "2026-10-20T21:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/e/fec1bb64.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -754,19 +767,6 @@
       "link": "https://casabrutus.com/categories/architecture/494763",
       "pubDate": "Tue, 20 Oct 2026 07:25:59 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性の下半身を触って逮捕されたYouTuberヴァンビさん、声明発表",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461082.html",
-      "pubDate": "2026-10-20T15:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/edeca8ef.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T01:30:41.854263",
+  "updatedAt": "2026-10-21T01:53:44.644751",
   "sites": [
     {
       "id": "hachima",
