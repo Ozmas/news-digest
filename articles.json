@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "家具職人から学ぶ、部屋づくりの新しい選択肢。「家づくりを家具作りから考えてみる」",
+      "description": "家具職人とともに家を造るということは、職人と一蓮托生になるということ。家具工房〈MOBLEY WORKS〉の代表である鰤岡力也さんは「動線や間取りのことはよくわからない」と話すが、それは謙遜ではなく、立ち位置の表明でもあ [&#8230;]",
+      "link": "https://brutus.jp/post-530951/",
+      "pubDate": "Wed, 21 Oct 2026 01:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ラプラス・ダークネスさんが「直接セクハラされていた」という事件、とある\"疑問\"が浮上してしまう・・・これって",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461111.html",
+      "pubDate": "2026-10-21T09:40:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/1/91f0b011.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -756,19 +782,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/43402ef2.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "映画『メイドインアビス 目覚める神秘』、映倫「G区分」と判明してネットがざわつく…",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461074.html",
-      "pubDate": "2026-10-20T13:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/d/5d21fade.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1222,19 +1235,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/19/randysdonuts-soramachi/",
       "pubDate": "Sun, 18 Oct 2026 23:01:40 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7723-e1791876135491-1024x767.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月19日〜25日の運勢。星々が告げる運を味方にするヒント【ブルータス週間占い】",
-      "description": "全体の空模様 今週の23日に、太陽が蠍座へ移動します。天秤座が示していた公平というテーマが、蠍座が司る深掘りのパワーによってじっくりと考えられていくときです。 19日の未明、山羊座で上弦の月が起こります。山羊座は、現実主 [&#8230;]",
-      "link": "https://brutus.jp/post-532215/",
-      "pubDate": "Sun, 18 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T00:30:39.921086",
+  "updatedAt": "2026-10-21T01:00:48.927701",
   "sites": [
     {
       "id": "hachima",
