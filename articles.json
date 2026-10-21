@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "モンゴル草原の大規模化境、出火元はKDDI子会社の車両！KDDIが謝罪、東京都の2.4倍焼失",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579167.html",
+      "pubDate": "2026-10-21T22:30:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/48414624.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -281,7 +294,7 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "快適すぎる車用ゴミ箱発見した…！走ってもカタカタしないしフタも自動で閉じるじゃん",
+      "title": "カタカタ鳴るし倒れて散らばる→車用ゴミ箱に困ってたら“やわらかダストBOX”がぜ〜んぶ解決してくれたよ！",
       "description": "走行中に倒れてゴミが散らばったり、振動でカタカタ音が鳴ったりと、意外に悩みが多い“車用のゴミ箱”。今回はそんなお悩みをまるっと解決する、機能的なアイテムをご紹介します。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/white_lily/carmate-soft-dustbox",
       "pubDate": "Wed, 21 Oct 2026 05:01:03 -0400",
@@ -598,19 +611,6 @@
       "link": "http://blog.esuteru.com/archives/10579021.html",
       "pubDate": "2026-10-21T13:20:18+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/ac3ac73f.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】前澤友作さん、17年前のZOZO時代にみんなに配った株が、現在とんでもない金額になったと公表！　持ってる人は大金持ちにｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579019.html",
-      "pubDate": "2026-10-21T13:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a1fff10.jpg"
     },
     {
       "siteId": "jin",
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T13:30:43.061776",
+  "updatedAt": "2026-10-21T14:00:52.670951",
   "sites": [
     {
       "id": "hachima",
