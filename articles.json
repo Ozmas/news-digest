@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2149話目「新設、トラップ部隊㉓」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/10/21/2833016/",
+      "pubDate": "Wed, 21 Oct 2026 12:00:06 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2149a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "美しく重い、映画の一言。日々言葉と対峙する5名が選ぶ",
+      "description": "九段理江・選 ウォーアイニー 『花とアリス』（'04）監督／岩井俊二 知ったばかりの言葉なら素直に愛を伝えられる 記録しないと吹き飛んでしまいそうな少女たちの些細な日常が描かれる本作。観ていると、むき出しの感情で傷つき、 [&#8230;]",
+      "link": "https://brutus.jp/post-474790/",
+      "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【緊急事態】インターネット、ガチでぶっ壊れるかも・・・ガチでやばすぎる脆弱性が見つかり、今夜23時にセキュリティが崩壊危機・・・ありとあらゆるサイトが緊急メンテ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461163.html",
+      "pubDate": "2026-10-21T20:30:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/e/6ed422a8.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】フランスの暴徒「ルイ・ヴィトンで強奪じゃあああ！」 → 最強の強化ガラスに敗北ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579147.html",
+      "pubDate": "2026-10-21T20:30:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/99818e50.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -574,19 +626,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/e7.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】妻「ハーゲンダッツのチョコミント買ってきてよ」、夫「りょ」　→　夫が買ってきてしまったモノがまさか過ぎる◯◯◯でネットが震えるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579003.html",
-      "pubDate": "2026-10-21T11:40:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/be30681c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -793,19 +832,6 @@
       "link": "https://rocketnews24.com/2026/10/21/2810267/",
       "pubDate": "Tue, 20 Oct 2026 23:00:35 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-3-1.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "サイバー攻撃被害、ついにここまで・・・不正アクセスを受けた証券会社で“勝手に売買が成立する”ケースが発生",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461107.html",
-      "pubDate": "2026-10-21T08:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
     },
     {
       "siteId": "brutus",
@@ -1081,19 +1107,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "電気ケトルの「注ぎ残り」ってどうにかならない？『象印』新商品を50代の先輩に使わせたら感動で泣いた",
-      "description": "初めて電気ケトルを使った時は、その便利さにいたく感動したものだが、お湯を注ぎ切ったつもりでも、底に少しだけお湯が残ってしまう「注ぎ残り」もまた、電気ケトルあるあるではないか。 最後まで注ごうとして、さらに深く傾けたり、振 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/20/2808222/",
-      "pubDate": "Tue, 20 Oct 2026 02:30:48 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_8937.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1196,19 +1209,6 @@
       "link": "https://www.buzzfeed.com/jp/yukiadachi/ninomiyakazunari-nomikai2shot1017",
       "pubDate": "Mon, 19 Oct 2026 06:46:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/19/05/subbuzz/hjemv96BW.jpg?crop=4078:2719;1038,474&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "グルマン温故知新：神保町〈立ち中華 異〉立ち飲みブームの火つけ役の新店",
-      "description": "立ち中華 異（神保町） 神保町立ち飲みブームの火つけ役の新店 2020年、専大前交差点の角に出現した立ち飲み居酒屋〈あつ盛〉。たちまち人気となり、徒歩約6分の場所に2022年にオープンした〈あの字〉。神保町で2軒の繁盛店 [&#8230;]",
-      "link": "https://brutus.jp/post-529143/",
-      "pubDate": "Mon, 19 Oct 2026 10:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1562,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T11:30:41.541191",
+  "updatedAt": "2026-10-21T12:00:52.654035",
   "sites": [
     {
       "id": "hachima",
