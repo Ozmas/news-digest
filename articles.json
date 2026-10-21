@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "料理中の女性がスプレー缶に穴をあけて自爆！マンションが火事に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579171.html",
+      "pubDate": "2026-10-22T04:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7eaab3ed-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +559,6 @@
       "link": "https://rocketnews24.com/2026/10/21/2833232/",
       "pubDate": "Wed, 21 Oct 2026 08:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/mochido-6.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "30周年記念作品『忍者戦隊カクレンジャー 第三部・中年奮闘編』無料公開！ニンジャブルー役・土田大さんの急逝を偲んで",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579061.html",
-      "pubDate": "2026-10-21T17:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/cc1fb114.jpg"
     },
     {
       "siteId": "jin",
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T19:00:54.849732",
+  "updatedAt": "2026-10-21T19:30:43.389897",
   "sites": [
     {
       "id": "hachima",
