@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「ウナギは愛知県から厳選して仕入れております」 → 98%が中国産でした…ウナギ料理店経営の男逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579193.html",
+      "pubDate": "2026-10-22T01:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/5/15b2810f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「麻生太郎先生にバースデーカード送ってみよう」⇒ 結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579129.html",
+      "pubDate": "2026-10-22T00:30:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f8c20990.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -11,7 +37,7 @@
       "title": "ラプラス・ダークネスさん、謝罪配信！セクハラ被害の真相については◯◯と語る",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52461169.html",
-      "pubDate": "2026-10-22T00:00:11+09:00",
+      "pubDate": "2026-10-22T00:00:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d8d17ca.jpg"
     },
     {
@@ -561,19 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79b15ab5.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】X民「この顔で性格悪い人見たことない選手権」⇒ なぜか容姿叩きになってしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579035.html",
-      "pubDate": "2026-10-21T15:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/be73c8ab.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -585,19 +598,6 @@
       "link": "https://rocketnews24.com/2026/10/21/2833070/",
       "pubDate": "Wed, 21 Oct 2026 05:50:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/zakuzaku02.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "記者らが実際に飲酒して車を運転するという体験動画が話題に　飲酒運転がどんだけヤバイのか、この動画を見て改めて知っとけ！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579032.html",
-      "pubDate": "2026-10-21T14:30:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/87b9d0f0.png"
     },
     {
       "siteId": "jin",
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T15:30:46.667603",
+  "updatedAt": "2026-10-21T16:00:53.001482",
   "sites": [
     {
       "id": "hachima",
