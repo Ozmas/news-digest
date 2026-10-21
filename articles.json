@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "東京大学に眠るお宝に出会う。総合研究博物館の大澤啓先生が解説する「SP盤」",
+      "description": "ジャズ黎明期の躍動を伝える名盤・レア盤、約1万枚 場所：インターメディアテク 古き良き時代の「音の文化」を、どう収蔵し、どう体験してもらうのか。それも博物館の課題だと、インターメディアテク（IMT）は考える。IMTは東京 [&#8230;]",
+      "link": "https://brutus.jp/post-495282/",
+      "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【別府ひき逃げ殺人事件】重要指名手配・八田與一容疑者、警察が海を捜索！もう死んでいるのではないかと話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579131.html",
+      "pubDate": "2026-10-21T19:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/42539b62.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "経済評論家「『日本の◯◯は最高』と思っているのはもう日本人だけ。グローバル社会から見ると相当低いレベルになっている」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461144.html",
+      "pubDate": "2026-10-21T19:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/34e701ad.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -73,7 +112,7 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "カタカタ鳴るし倒れて散らばる→車用ゴミ箱に困ってたら“やわらかダストBOX”がぜ〜んぶ解決してくれたよ！",
+      "title": "快適すぎる車用ゴミ箱発見した…！走ってもカタカタしないしフタも自動で閉じるじゃん",
       "description": "走行中に倒れてゴミが散らばったり、振動でカタカタ音が鳴ったりと、意外に悩みが多い“車用のゴミ箱”。今回はそんなお悩みをまるっと解決する、機能的なアイテムをご紹介します。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/white_lily/carmate-soft-dustbox",
       "pubDate": "Wed, 21 Oct 2026 05:01:03 -0400",
@@ -600,19 +639,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_409947.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【Kindleセール】『暁のヨナ』最終48巻発売記念！　1～10巻が各51円、11～20巻まで50％オフ！　読むなら今だぞ！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578996.html",
-      "pubDate": "2026-10-21T11:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/6264c74a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -845,19 +871,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/shibata-rie-teryori2026",
       "pubDate": "Tue, 20 Oct 2026 17:01:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/01/subbuzz/6Rf_daD-M.jpg?crop=2276:1517;0,266&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "新人「前職は2回ともパワハラで辞めました。よろしくお願いします」→入社数カ月後、化けの皮が剥がれ始める・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461106.html",
-      "pubDate": "2026-10-21T06:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9e6db536.jpg"
     },
     {
       "siteId": "brutus",
@@ -1211,19 +1224,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/13/05/thumb/xrAfJnZJO.png?crop=1620:1080;150,0&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "廃墟探検家が選ぶ、「非日常」が味わえる東京の廃墟3選",
-      "description": "過去が現在まで実体として残る都心の廃墟 「廃墟の魅力ってなんですか？」。感性の部分なので説明に窮するが、強いて言うなら「人間が建て、自然と時間が創り出したアトラクション」と答える。 人々は労力とお金を使いテーマパークへ「 [&#8230;]",
-      "link": "https://brutus.jp/post-428299/",
-      "pubDate": "Mon, 19 Oct 2026 09:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1562,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T10:30:48.871727",
+  "updatedAt": "2026-10-21T11:00:54.526229",
   "sites": [
     {
       "id": "hachima",
