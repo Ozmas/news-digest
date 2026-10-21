@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「全国発売して！」と熱望した推し商品がまさかの復活！ ローソンの「もちべぇ」改め「もちどー」を食べてみた",
+      "description": "今年2月、千葉県内のローソンで偶然出会った「もちべぇ」という商品。 171円とは思えないおいしさに感動し、記事の最後で思わず「ローソンさん！ 今すぐ全国展開しておくれ～！」 と訴えたほど、個人的に大ヒットだった。 そんな [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/21/2833232/",
+      "pubDate": "Wed, 21 Oct 2026 08:00:58 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/mochido-6.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "30周年記念作品『忍者戦隊カクレンジャー 第三部・中年奮闘編』無料公開！ニンジャブルー役・土田大さんの急逝を偲んで",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579061.html",
+      "pubDate": "2026-10-21T17:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/cc1fb114.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性記者、飲酒運転体験教室に参加→1時間でビール4缶、ワイン4杯を飲み干して運転した結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461137.html",
+      "pubDate": "2026-10-21T17:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/27cde78f.png"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -613,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cbff772c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【つよい】中国人ニキ、暴動中のフランスに対して歴史から学んだ最強のコメントを送ってしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578972.html",
-      "pubDate": "2026-10-21T08:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/259b7ead.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -754,19 +780,6 @@
       "link": "https://jin115.com/archives/52461101.html",
       "pubDate": "2026-10-21T03:00:13+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/31cffaa3.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ホロライブ・ラプラス・ダークネスさん、謝罪　ガチでとんでもないことになってた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461105.html",
-      "pubDate": "2026-10-21T01:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17a11eaa.jpg"
     },
     {
       "siteId": "brutus",
@@ -1027,19 +1040,6 @@
       "link": "https://artscape.jp/article/80555/",
       "pubDate": "Tue, 20 Oct 2026 02:00:03 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "100円マヨビーム頂上決戦！ 100均の「3連ビーム」と「5連ビーム」を一平ちゃんで撃ち比べてみた【100均検証】",
-      "description": "普段は健康的な自炊ばかりしている私であるが、たまにはジャンクなものを食べたい時もある。私の中でのジャンクといえば、明星「一平ちゃん 夜店の焼そば」だ！ 一平ちゃんには「マヨビーム」というものがあるが、私が一平ちゃんを食べ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/20/2832551/",
-      "pubDate": "Tue, 20 Oct 2026 01:00:57 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_2939_1920.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T08:00:50.471673",
+  "updatedAt": "2026-10-21T08:30:42.358727",
   "sites": [
     {
       "id": "hachima",
