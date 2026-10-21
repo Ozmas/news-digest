@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "東京都、税金で低所得者に○○を無償貸与へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461129.html",
+      "pubDate": "2026-10-21T15:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79b15ab5.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52461094.html",
       "pubDate": "2026-10-21T00:00:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/82b544e3.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【画像】迷子の女の子を保護した女子高生、とんでもなく可愛いと話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461079.html",
-      "pubDate": "2026-10-20T23:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0cfe94ef.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T06:00:51.732686",
+  "updatedAt": "2026-10-21T06:30:44.472810",
   "sites": [
     {
       "id": "hachima",
