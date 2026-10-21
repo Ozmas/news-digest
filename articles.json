@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "10月9日配信開始「FOD SHORT」の『田中・イン・ワンダーランド』で気づいた縦型ショートドラマの面白さ",
+      "description": "今さらながら、私（佐藤）は縦型ショートドラマを見たことがなかった。動画は大抵、自宅でパソコンで見ているので、スマホの狭い画面を注視するのが面倒だし、1話1分で話が区切られるのも面倒だと思っていたからだ。 だが、最近になっ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/22/2832934/",
+      "pubDate": "Wed, 21 Oct 2026 23:00:00 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tanakawonder1.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "あなたの国で作られた近年話題の社会派映画は？：BRUTUS CITY JOURNAL",
+      "description": "🇨🇳 人気俳優の演技もあって注目に。人身売買がテーマの映画『三滴血（サンディシュエ）』 中国／北京 2025年11月に公開された『三滴血』は、中国で今も発生が絶えない、家族・親類縁者による人身売買がテーマ。人気俳優の胡歌 [&#8230;]",
+      "link": "https://brutus.jp/post-511272/",
+      "pubDate": "Wed, 21 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】PS5/switch2/switch『薬屋のひとりごと 偽りの皇弟』、Amazonで予約スタート！　ピルケースやおくすり手帳ケースなど豪華特典同梱の限定版も",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579261.html",
+      "pubDate": "2026-10-22T07:30:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e06f8ef0.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -481,19 +520,6 @@
       "link": "https://brutus.jp/post-495282/",
       "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【別府ひき逃げ殺人事件】重要指名手配・八田與一容疑者、警察が海を捜索！もう死んでいるのではないかと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579131.html",
-      "pubDate": "2026-10-21T19:30:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/42539b62.jpg"
     },
     {
       "siteId": "jin",
@@ -1094,19 +1120,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2730-2.png"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1足369円】THE NORTH FACEの靴下3足セットが1870円 → 1108円（41%オフ） / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。家電・食品・ファッションなど、さまざまなカテゴリーのアイテムを特別価格でゲットできるチャンス。 本日は『THE NORTH FACE』の靴下3足セットが1870円 → 1 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/20/2832307/",
-      "pubDate": "Tue, 20 Oct 2026 03:46:25 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tnf.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1169,19 +1182,6 @@
       "description": "“世界で最もクールな街”ランキングの一つとして、『タイムアウト』でも注目されている学芸大学ですが、あまり実感はないんです。でも確かに、昭和っぽい雰囲気が残る街の中に、おしゃれな店構えが増えてきている。 中目黒に比べると家 [&#8230;]",
       "link": "https://brutus.jp/post-426399/",
       "pubDate": "Mon, 19 Oct 2026 13:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜米子編〜",
-      "description": "山陰中華 八仙閣 半世紀余り続く地元愛され町中華でナチュラルワインと純米酒 ・創業は1974年。いかにも旨い料理をこしらえそうな3代目の面構えも良し。・地元食材たっぷりの中華との相性上々。・仲間とワイワイ、ボトルのナチュ [&#8230;]",
-      "link": "https://brutus.jp/post-512341/",
-      "pubDate": "Mon, 19 Oct 2026 12:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T22:30:43.597623",
+  "updatedAt": "2026-10-21T23:00:49.887804",
   "sites": [
     {
       "id": "hachima",
