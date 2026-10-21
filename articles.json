@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "カタカタ鳴るし倒れて散らばる→車用ゴミ箱に困ってたら“やわらかダストBOX”がぜ〜んぶ解決してくれたよ！",
+      "description": "走行中に倒れてゴミが散らばったり、振動でカタカタ音が鳴ったりと、意外に悩みが多い“車用のゴミ箱”。今回はそんなお悩みをまるっと解決する、機能的なアイテムをご紹介します。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/white_lily/carmate-soft-dustbox",
+      "pubDate": "Wed, 21 Oct 2026 05:01:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/02/thumb/bdBJ6l_TT.jpg?crop=3000%3A2000%3B0%2C0"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【感想まとめ】アニメ『サイバーパンク エッジランナーズ2』、今作は賛否両論に 「サイパンらしくない終わり方」「ゲームのとあるエンドを知ってるか知らないかで相当変わる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579074.html",
+      "pubDate": "2026-10-21T18:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/26a67dcc-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -496,19 +522,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_409947.jpg"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "大澤夏美｜ミュージアムグッズ遊歩14──ミュージアムグッズから物語が始まる。ARGから考える「物」とミュージアム",
-      "description": "全国各地の美術館・博物館を渡り歩き、そこで出会うグッズたちへの感動を広く伝えるミュージアムグッズ愛好家・大澤夏美さん。博物館経営論の視点からもそれらを捉え直す彼女が、日々新たな商品や話題が生まれるミュージアムグッズの現場 [&#8230;]",
-      "link": "https://artscape.jp/article/81078/",
-      "pubDate": "Wed, 21 Oct 2026 02:00:23 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -587,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/785e9d1a.png"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【愛知】「長谷川 繁 ペイン天狗」展　関連イベント",
-      "description": "愛知・豊田市美術館 にて、10月24日から開催される「長谷川 繁　ペイン天狗」展の関連イベントが行なわれます。 出品作家・長谷川繁と美術評論家による対談や、作家本人が展示室で作品を見ながら語る長時間のトークイベント「死ゲ [&#8230;]",
-      "link": "https://artscape.jp/article/81548/",
-      "pubDate": "Wed, 21 Oct 2026 01:00:06 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -624,19 +624,6 @@
       "link": "https://jin115.com/archives/52461111.html",
       "pubDate": "2026-10-21T09:40:57+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/1/91f0b011.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「上白石萌音、そこまで可愛くないのに高頻度でイケメンのヒロイン役なの意味わからない」　→　納得しかないX民の答えがこちらｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578982.html",
-      "pubDate": "2026-10-21T09:30:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/0/a01d61b3.jpg"
     },
     {
       "siteId": "jin",
@@ -1055,32 +1042,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "杉江あこ｜『The Book of MINO　美濃焼の解剖』（セラミックバレー協議会）",
-      "description": "企画：佐藤卓 監修：橋本麻里、立花昭 著者：橋本麻里、下川一哉、杉江あこ、外舘和子、阪口公子、立花昭 デザイン：鈴木文女・長谷川桃（TSDO） 写真：西部裕介、五十嵐拓也（amana） 発行：セラミックバレー協議会 発行 [&#8230;]",
-      "link": "https://artscape.jp/article/80555/",
-      "pubDate": "Tue, 20 Oct 2026 02:00:03 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【福井】土田ヒロミ写真展「記憶と記録 ─ヒロシマ・ベルリン・エルサレム・私─」関連イベント",
-      "description": "福井・金津創作の森美術館にて、10月24日から開催される 土田ヒロミ写真展「記憶と記録 ─ヒロシマ・ベルリン・エルサレム・私─」の関連イベントが行なわれます。 写真家・土田ヒロミと美術史家・伊藤俊治による対談やAI時代の [&#8230;]",
-      "link": "https://artscape.jp/article/81500/",
-      "pubDate": "Tue, 20 Oct 2026 01:00:53 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1234,32 +1195,6 @@
       "description": "空間、プロダクトデザインを行う〈BEARER〉のオリジナルプロダクトから新作が登場。",
       "link": "https://casabrutus.com/categories/design/494715",
       "pubDate": "Mon, 19 Oct 2026 02:25:55 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "石川琢也｜「視差―いつもそこに在るもの」展から考えるレジデンス事業の媒介的役割",
-      "description": "2026年9月19日から10月5日まで、Artist Cafe Fukuoka Artist Cafe Fukuokaで福岡アジア美術館の第26回アーティスト・イン・レジデンス成果展「視差―いつもそこに在るもの」が開催さ [&#8230;]",
-      "link": "https://artscape.jp/article/80968/",
-      "pubDate": "Mon, 19 Oct 2026 02:00:12 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【京都】CP Lab.講座プログラム「Creative Track―メディア芸術／工芸／建築」",
-      "description": "京都芸術センターにて、CP Lab.による講座プログラム「Creative Track」が開催されます。 Creative Trackは、創造の現場で活動するために必要な知識や実践を学び、自らの専門性を深める講座プログラ [&#8230;]",
-      "link": "https://artscape.jp/article/81144/",
-      "pubDate": "Mon, 19 Oct 2026 01:00:01 +0000",
       "thumbnail": ""
     },
     {
@@ -1484,45 +1419,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/15/01/subbuzz/tmZRJ3Mfo.jpg?crop=2466:1644;0,704&resize=1250:830"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "鵜尾佳奈｜公営ギャラリーという場から企てる──名古屋市民ギャラリー栄が重ねる挑戦",
-      "description": "名古屋市民ギャラリー栄は、中区役所が入るビルの7階と8階にあり、大小11の展示室で構成されている。天井高は3メートルで、壁はライトグレーのクロス、床は掃除がしやすいリノリウム。ほかの公営ギャラリーよろしく、基本的に壁に釘 [&#8230;]",
-      "link": "https://artscape.jp/article/80388/",
-      "pubDate": "Fri, 16 Oct 2026 02:00:24 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "杉江あこ｜ようこそ！華麗なる宮中晩餐会の世界へ",
-      "description": "会期：2026/09/26～2026/11/21 会場：霞会館記念学習院ミュージアム　特別展示室［東京都］ 公式サイト：https://www.museum.univ.gakushuin.ac.jp/exhibition [&#8230;]",
-      "link": "https://artscape.jp/article/80559/",
-      "pubDate": "Fri, 16 Oct 2026 02:00:16 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【群馬】「テキスタイル・アートを楽しむ ―現代の糸、布、繊維の芸術―」関連イベント",
-      "description": "群馬県立館林美術館にて、10月10日から開催されている「テキスタイル・アートを楽しむ ―現代の糸、布、繊維の芸術―」展の関連イベントが行なわれます。 出品作家によるアーティスト・トークや、学芸員によるギャラリートーク、子 [&#8230;]",
-      "link": "https://artscape.jp/article/81135/",
-      "pubDate": "Fri, 16 Oct 2026 01:00:17 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1547,32 +1443,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/yoshine-kyoko-shinjuku-aruku",
       "pubDate": "Thu, 15 Oct 2026 06:46:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/15/02/subbuzz/ieUs_nr49.jpg?crop=3442:2295;0,789&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "【ガチリピ】えっ、ハーブティーなのに飲みやすい…！甘〜い香りの「カモミールハニーティー」が寝る前に◎過ぎました",
-      "description": "夜のくつろぎタイムに「カモミールティー」は定番ですが、割とクセが強めなので苦手な方も。しかし、このブレンドティーならまろやかな甘味でとても飲みやすいんです。甘〜い風味が好きな方は必見ですよ！View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/white_lily/pompadour-chamomile-honey-tea",
-      "pubDate": "Thu, 15 Oct 2026 05:01:04 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/05/05/thumb/EnyfaYkbt.png?crop=1620:1080;150,0&resize=1250:830"
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "編集雑記……63──『急に具合が悪くなる』を見て",
-      "description": "公開からずいぶん時間が経ってしまったのだけれど、ちょうど高嶋慈さんのレビューが出たので、『急に具合が悪くなる』について書いておこうと思います。 この作品についてやりとりした最初の著者は福井彩香さんでした。今年の7月、「共 [&#8230;]",
-      "link": "https://artscape.jp/article/80922/",
-      "pubDate": "Thu, 15 Oct 2026 01:00:09 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T09:00:52.510031",
+  "updatedAt": "2026-10-21T09:30:41.773847",
   "sites": [
     {
       "id": "hachima",
