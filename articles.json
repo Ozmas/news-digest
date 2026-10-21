@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「婚活でもするか…おーーい！誰か結婚しませんかーー！？」 → 凄いことになるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461165.html",
+      "pubDate": "2026-10-22T08:30:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca3c1365-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【日本終了】「子供1人しかいらない」過去最少の〇〇％に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461159.html",
+      "pubDate": "2026-10-22T08:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/77f19e1a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "入職早々「AさんがエロすぎるからBさん見て心拍数下げてる」と前代未聞のセクハラをした男性が異動　→　罰なのに性癖が満たされてしまうえちちな末路にｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579264.html",
+      "pubDate": "2026-10-22T08:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/2/e268b1da.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -496,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/cae9f9cf.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ひろゆき「パリは危険、とか住んでない人が書いてるけど、デモ区域の情報は流れてます。申請のない場所はただの日常です」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579133.html",
-      "pubDate": "2026-10-21T20:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bfb82466.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -715,32 +741,6 @@
       "link": "https://rocketnews24.com/2026/10/21/2833070/",
       "pubDate": "Wed, 21 Oct 2026 05:50:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/zakuzaku02.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】『間違った子を魔法少女にしてしまった』がほぼ全巻「10円」、『魔法使いの嫁』が最安「11円」の激安セールは今日まで！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461128.html",
-      "pubDate": "2026-10-21T14:30:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/6/c6d875be.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「『PS5は直ぐゲームが起動できる』とか言うけど、PC持ってない人ってPCを毎回シャットダウンしてると思ってる？殆んどのPCゲーマーはしねぇぞ？投票してみようぜ」→結果",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461131.html",
-      "pubDate": "2026-10-21T14:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8c3ee364.png"
     },
     {
       "siteId": "rocketnews",
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T23:00:49.887804",
+  "updatedAt": "2026-10-21T23:30:42.928776",
   "sites": [
     {
       "id": "hachima",
