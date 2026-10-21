@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "痴漢冤罪で話題になったYouTuber、当事者ら不起訴処分に納得せず、検察審査会に持ち込む → 検察審査会でも不起訴処分に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579015.html",
+      "pubDate": "2026-10-21T14:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d39914f0.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「『PS5は直ぐゲームが起動できる』とか言うけど、PC持ってない人ってPCを毎回シャットダウンしてると思ってる？殆んどのPCゲーマーはしねぇぞ？投票してみようぜ」→結果",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461131.html",
+      "pubDate": "2026-10-21T14:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8c3ee364.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -405,6 +431,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0f3324e.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】算数のセンスが抜群の小学生娘に、父親がいじわるで「31✕31は？」と聞く　→　娘が「◯◯すればいいんでしょ？」と即答で大正解！　すげえええ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578981.html",
+      "pubDate": "2026-10-21T09:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/f/1f3055b0.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -429,19 +468,6 @@
       "link": "https://jin115.com/archives/52461115.html",
       "pubDate": "2026-10-21T09:00:13+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/0/30c26def.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】算数のセンスが抜群の小学生娘に、父親がいじわるで「31✕31は？」と聞く　→　娘が「◯◯すればいいんでしょ？」と即答で大正解！　すげえええ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578981.html",
-      "pubDate": "2026-10-21T09:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/f/1f3055b0.jpg"
     },
     {
       "siteId": "jin",
@@ -665,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/31cffaa3.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ネット民「ドスパラが値付け間違ってる！急げうおおおおお！」→結果……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578896.html",
-      "pubDate": "2026-10-21T03:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/e/fe5c35b2-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +780,6 @@
       "link": "https://brutus.jp/post-530815/",
       "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "粗品さん、キレる　明日ヤバイ記事が公開か",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461099.html",
-      "pubDate": "2026-10-20T20:30:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/4/c4b08c91.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T05:00:50.494426",
+  "updatedAt": "2026-10-21T05:30:39.259610",
   "sites": [
     {
       "id": "hachima",
