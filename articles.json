@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【復活】ドミノ・ピザの「お持ち帰り半額」がわずか4カ月で戻ってきた理由を公式に聞いてみた",
+      "description": "「ドミノ・ピザ」並びに「デリバリーピザ」がお好きな方に朗報だ。2026年10月15日より全国のドミノ・ピザで「お持ち帰り半額」が復活している。 ドミノ・ピザの「お持ち帰り半額」は今年の6月に終了し「お持ち帰り30％オフ」 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/21/2832717/",
+      "pubDate": "Wed, 21 Oct 2026 01:00:58 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/domino.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【暑い】本日は東京・大阪・名古屋などで30℃以上！　過去最も遅い真夏日かｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10578985.html",
+      "pubDate": "2026-10-21T10:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/5/e5ac5ee8.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "太鼓の達人をプレイ中に、子供に乱入されてパーフェクト失敗する動画が話題に・・・これを見ても「子供のすることだから・・・」で済ませられる？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461116.html",
+      "pubDate": "2026-10-21T10:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/785e9d1a.png"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【愛知】「長谷川 繁 ペイン天狗」展　関連イベント",
+      "description": "愛知・豊田市美術館 にて、10月24日から開催される「長谷川 繁　ペイン天狗」展の関連イベントが行なわれます。 出品作家・長谷川繁と美術評論家による対談や、作家本人が展示室で作品を見ながら語る長時間のトークイベント「死ゲ [&#8230;]",
+      "link": "https://artscape.jp/article/81548/",
+      "pubDate": "Wed, 21 Oct 2026 01:00:06 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -535,19 +587,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2148a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【噂】新型グラボ『GeForce RTX 6060』の発売時期がリーク！性能はPS6以下か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578863.html",
-      "pubDate": "2026-10-20T21:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/5/459f6dc9.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -767,19 +806,6 @@
       "link": "https://rocketnews24.com/2026/10/20/2832560/",
       "pubDate": "Tue, 20 Oct 2026 05:00:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2730-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【訃報】俳優・土田大さんが死去　『カクレンジャー』ニンジャブルー役、『カーズ』マックイーンの声優など",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461081.html",
-      "pubDate": "2026-10-20T13:38:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/43402ef2.png"
     },
     {
       "siteId": "rocketnews",
@@ -1131,19 +1157,6 @@
       "link": "https://casabrutus.com/categories/art/494823",
       "pubDate": "Mon, 19 Oct 2026 07:25:43 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【なぜここに？】豪華クルーズ船『飛鳥Ⅲ』のおもてなし「バウムクーヘン」が買える自販機を発見！ おいしい出会いは突然に…",
-      "description": "世の中にはいろんな変わり種自販機があるが、先日横浜市を走るみなとみらい線の馬車道駅で、思わず二度見してしまう自販機に出会った。 販売されているのは、バウムクーヘン。しかも、これが只者ではない。なんと、豪華クルーズ船『飛鳥 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/19/2813061/",
-      "pubDate": "Mon, 19 Oct 2026 06:00:27 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3260.jpg"
     },
     {
       "siteId": "brutus",
@@ -1588,19 +1601,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/13/04/subbuzz/vjjKgFP1P.jpg?crop=4464:2976;0,0&resize=1250:830"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "高嶋慈｜濱口竜介『急に具合が悪くなる』",
-      "description": "会期：2026/06/19～公開中 公式サイト：https://www.bitters.co.jp/soudain/ これは、終末期医療における「人間の尊厳とケア」だけを描いた物語ではない。「資本主義という病理に侵された [&#8230;]",
-      "link": "https://artscape.jp/article/79473/",
-      "pubDate": "Wed, 14 Oct 2026 02:00:50 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T01:00:48.927701",
+  "updatedAt": "2026-10-21T01:30:41.854263",
   "sites": [
     {
       "id": "hachima",
