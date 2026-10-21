@@ -2,17 +2,69 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜出雲編〜",
+      "description": "近い距離の中に古くからの蔵元が3つもある街だけに、駅近くの飲み屋街も意気盛ん。角打ちに隠れ家なバー、おだし×純米酒、ローカル色バリバリの居酒屋をご案内！ ツバメヤ サンロードなかまち 島根県内28蔵の純米酒を網羅。飲み比 [&#8230;]",
+      "link": "https://brutus.jp/post-512351/",
+      "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『GTA6』予約だけで600万本突破との報道！推定売上は5億9400万ドル以上、74％がPS5版",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579123.html",
+      "pubDate": "2026-10-21T18:30:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/1/d18edd68.jpg"
+    },
+    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "カタカタ鳴るし倒れて散らばる→車用ゴミ箱に困ってたら“やわらかダストBOX”がぜ〜んぶ解決してくれたよ！",
+      "title": "「一瞬気づかなかった」M!LK塩﨑太智の母親役に驚きの声「え、待って」「お母さん役…！？」「声良すぎて飛んだ」",
+      "description": "ドラマ『もうパパ！』（ABCテレビ・テレビ朝日系）の公式アカウントが10月20日にInstagramを更新。「M!LK」の塩﨑太智さんが出演するシーンの切り抜き動画を公開しました。母親役を務めた声優・俳優の平野綾さんとのやりとりにも注目が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/milk-shiozaki-no-haha",
+      "pubDate": "Wed, 21 Oct 2026 05:16:01 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/21/04/subbuzz/3KGLQU8Za.jpg?crop=2144:1429;100,143&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "快適すぎる車用ゴミ箱発見した…！走ってもカタカタしないしフタも自動で閉じるじゃん",
       "description": "走行中に倒れてゴミが散らばったり、振動でカタカタ音が鳴ったりと、意外に悩みが多い“車用のゴミ箱”。今回はそんなお悩みをまるっと解決する、機能的なアイテムをご紹介します。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/white_lily/carmate-soft-dustbox",
       "pubDate": "Wed, 21 Oct 2026 05:01:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/02/thumb/bdBJ6l_TT.jpg?crop=3000%3A2000%3B0%2C0"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "りくりゅう、自宅で一緒に料理→「すごい量。大家族並み」「まさに海外のキッチン」と驚きの声",
+      "description": "ミラノ・コルティナ冬季オリンピックの「フィギュアスケート・ペア」日本代表で金メダルを獲得した三浦璃来さんと木原龍一さんが、10月10日にYouTubeチャンネルを更新。自宅で一緒に料理する姿を公開し、反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/ayahara/rikuryu1021",
+      "pubDate": "Wed, 21 Oct 2026 05:01:01 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/21/00/subbuzz/0GVRAQ3L_.jpg?crop=3244:2163;430,244&resize=1250:830"
     },
     {
       "siteId": "hachima",
@@ -574,19 +626,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/domino.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【暑い】本日は東京・大阪・名古屋などで30℃以上！　過去最も遅い真夏日かｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10578985.html",
-      "pubDate": "2026-10-21T10:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/5/e5ac5ee8.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,6 +819,19 @@
       "link": "https://casabrutus.com/categories/design/495028",
       "pubDate": "Tue, 20 Oct 2026 22:00:05 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「高級旅館かと」柴田理恵の手料理に絶賛の声「やばいいい」「小鉢や皿もセンス良く…」「すごいですね品数」",
+      "description": "タレントの久本雅美さんが10月19日にInstagramを更新。タレントの柴田理恵さんの自宅で振舞われた手料理の写真を公開しました。日本酒にも合いそうなメニューに「美味しそう」と反響が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/shibata-rie-teryori2026",
+      "pubDate": "Tue, 20 Oct 2026 17:01:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/01/subbuzz/6Rf_daD-M.jpg?crop=2276:1517;0,266&resize=1250:830"
     },
     {
       "siteId": "jin",
@@ -1120,6 +1172,19 @@
       "thumbnail": ""
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「すごいメンツ」二宮和也の“飲み会”ショットが話題に「歓迎会かな？」「テントの飲み会？」「仲良すぎ」",
+      "description": "俳優の二宮和也さんが10月17日にXを更新。「会社の飲み会」で撮影した写真を披露し、「すごいメンツ」「歓迎会かな？」と反響が寄せられました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yukiadachi/ninomiyakazunari-nomikai2shot1017",
+      "pubDate": "Mon, 19 Oct 2026 06:46:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/19/05/subbuzz/hjemv96BW.jpg?crop=4078:2719;1038,474&resize=1250:830"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1156,19 +1221,6 @@
       "description": "過去が現在まで実体として残る都心の廃墟 「廃墟の魅力ってなんですか？」。感性の部分なので説明に窮するが、強いて言うなら「人間が建て、自然と時間が創り出したアトラクション」と答える。 人々は労力とお金を使いテーマパークへ「 [&#8230;]",
       "link": "https://brutus.jp/post-428299/",
       "pubDate": "Mon, 19 Oct 2026 09:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "1年かけて、まだ手をかける。〈FRANK LEDER〉のジャケット：Brutus Best Bets",
-      "description": "1年かけて、まだ手をかける 黒く染めた革を、わざわざ手作業でこすって色を落とす。〈フランク リーダー〉の新作ジャケットは、途方もない手間から生まれる。採用したのは、昔ながらの自然な製法で1年かけて鞣（なめ）した野生の鹿革 [&#8230;]",
-      "link": "https://brutus.jp/post-530992/",
-      "pubDate": "Mon, 19 Oct 2026 08:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1222,19 +1274,6 @@
       "link": "https://casabrutus.com/categories/design/495016",
       "pubDate": "Sun, 18 Oct 2026 22:00:52 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "佐々木希の子どもの叱り方に「内なるヤンキーが…」「ドスが効いてくる」共感の声集まる",
-      "description": "俳優の佐々木希さんが、10月13日に放送されたバラエティー番組『夫が寝たあとに』（テレビ朝日系）に出演。育児中のエピソードを明かしました。 子どもの叱り方の再現に「内なるヤンキーが…」「ドスが効いてくる」などの声が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/saorihakamada/sasakinozomi1014",
-      "pubDate": "Sun, 18 Oct 2026 06:01:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/14/03/thumb/aC5w433Wo.jpg?crop=4860:3240;0,0&resize=1250:830"
     },
     {
       "siteId": "casabrutus",
@@ -1308,37 +1347,11 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "土井善晴、手作り味噌汁を披露→意外な具材に「目からウロコ」「完全メシですね」と反響",
-      "description": "料理研究家の土井善晴さんが10月9日にXを更新。具がたくさん入った手作りの味噌汁を公開しました。「目からウロコ」「完全メシですね」などの反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/doiyoshiharu1014",
-      "pubDate": "Sat, 17 Oct 2026 18:01:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/13/07/subbuzz/JJPVhQDmt.jpg?crop=3332:2221;0,409&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "この“茶色っぽい”虫、絶対触らないで！「家の周りに大量発生」「庭に…」SNSで目撃情報が相次ぐ",
       "description": "初夏と秋にSNSで目撃情報が相次ぐ、毒を持つ幼虫「タケノホソクロバ」。触れると激しい痛みや皮膚炎を引き起こすことがあるため、注意が必要です。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/yukiadachi/chairomushi-kiken1016",
       "pubDate": "Sat, 17 Oct 2026 17:46:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/00/subbuzz/60zy-DaYv.jpg?crop=1233:822;433,274&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "大泉洋が走る姿に「1番荒々しいんじゃないか？」「結構な距離…」「びっくり」と反響",
-      "description": "ドラマ『俺たちの箱根駅伝』（日本テレビ系）の公式アカウントが、10月15日にInstagramを更新。主演の大泉洋さんが走るシーンのメイキングを公開しました。炎天下で激走した後の呟きにも注目が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/ooizumi-yo-hashirikata-53",
-      "pubDate": "Sat, 17 Oct 2026 07:00:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/01/subbuzz/sBV0HNuoq.jpg?crop=3269:2179;1609,169&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1430,19 +1443,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/16/paypay-2/",
       "pubDate": "Thu, 15 Oct 2026 23:01:23 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/02102446c87143f0ca57302b8cdc8fd4-1024x767.jpg"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「気づかないもんだね！？」芳根京子、新宿を歩く姿に「えー！？」「デートなうすぎる…」とファン驚き",
-      "description": "俳優の芳根京子さんが10月14日にInstagramを更新。ドラマ『波うららかに、めおと日和』（フジテレビ系）の大型広告前を訪れた姿を公開しました。キャップを目深に被ったプライベート感あふれる装いにも注目が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/yoshine-kyoko-shinjuku-aruku",
-      "pubDate": "Thu, 15 Oct 2026 06:46:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/15/02/subbuzz/ieUs_nr49.jpg?crop=3442:2295;0,789&resize=1250:830"
     },
     {
       "siteId": "sumida",
@@ -1562,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-21T09:30:41.773847",
+  "updatedAt": "2026-10-21T10:00:49.888672",
   "sites": [
     {
       "id": "hachima",
