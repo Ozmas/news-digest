@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】switch2/switch『続ポートピア連続殺人事件:忘却の埋葬』、Amazonで予約スタート！　パッケージ版にはファミコン版も収録。 限定版特典はサントラCD、ブックレットなど",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579568.html",
+      "pubDate": "2026-10-23T07:30:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/70ec0a20.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【激安速報】鋼の錬金術師、薬屋のひとりごと、魔法陣グルグルなどが”実質半額”になるKindleセール開始！ヤニすう、着せ恋、わたモテなども対象のスクエニ作品特集！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461232.html",
+      "pubDate": "2026-10-23T07:20:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d298df2d.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "声かけといてくれよ！ 唐突な出番が来た本人！　四コマサボタージュFB第115回「スペシャルゲスト」",
+      "description": "指名手配犯のポスターって販売されていたりするのかな。……まぁ、欲しいわけではないのだけどね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/23/2810807/",
+      "pubDate": "Thu, 22 Oct 2026 22:00:49 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-115.png"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -13,6 +52,32 @@
       "link": "https://casabrutus.com/categories/design/495106",
       "pubDate": "Thu, 22 Oct 2026 22:00:45 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "移民政策、やはり日本人の雇用を奪っていた模様　「人手不足だから外国人が必要」は嘘だった・・・！？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461233.html",
+      "pubDate": "2026-10-23T07:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/2/e248e197.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】スマブラ最上位プロゲーマー、強すぎて普通にチーターに勝利してしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579564.html",
+      "pubDate": "2026-10-23T07:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/ddb314fc.jpg"
     },
     {
       "siteId": "hachima",
@@ -509,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/27e52031.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "声優・小野賢章さんとM・A・O（34）が「極秘誕生日会デート」と報道 →「30代独身なんだからそっとしときなよ」と批判殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579485.html",
-      "pubDate": "2026-10-22T19:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/c/0c760237.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +598,6 @@
       "link": "https://rocketnews24.com/2026/10/22/2832856/",
       "pubDate": "Thu, 22 Oct 2026 10:00:35 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_6eeeef.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "EA、名門スタジオBioWareを突然閉鎖！『ドラゴンエイジ』『マスエフェクト』『アンセム』を手掛ける　『Mass Effect』新作も開発中止に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579478.html",
-      "pubDate": "2026-10-22T19:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5b7d772d.jpg"
     },
     {
       "siteId": "brutus",
@@ -650,32 +689,6 @@
       "link": "https://casabrutus.com/categories/art/494550",
       "pubDate": "Thu, 22 Oct 2026 07:25:32 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "PHP脆弱性騒動、あるゲームをサービス終了にまで追い込んでしまう…",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461199.html",
-      "pubDate": "2026-10-22T16:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cb16f61f.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【これが”女”】息子が托卵だと発覚したパパ、不倫の証拠と検査書類を嫁に見せた結果、とんでもないことに・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461195.html",
-      "pubDate": "2026-10-22T15:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/e/7e9163fc.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1157,19 +1170,6 @@
       "link": "https://brutus.jp/post-533658/",
       "pubDate": "Wed, 21 Oct 2026 03:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "1000円握りしめて日本一周！ 全国のご当地銘菓をバラ売りしているお店で「何県制覇できるか」挑戦してみた",
-      "description": "2026年9月18日、東京・新宿にオープンした「EDITed JAPAN SHINJUKU（エディテッド ジャパン新宿）」はちょっとユニークなお店。 なんとここでは、日本全国のご当地銘菓が「バラ売り」されていて、気になっ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/21/2813079/",
-      "pubDate": "Wed, 21 Oct 2026 02:55:45 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/e7.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T22:00:52.817756",
+  "updatedAt": "2026-10-22T22:30:44.804025",
   "sites": [
     {
       "id": "hachima",
