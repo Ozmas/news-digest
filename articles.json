@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "セクハラ騒動で話題のラプラス・ダークネスさん、栃木県とのコラボ配信が延期に……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579482.html",
+      "pubDate": "2026-10-23T04:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/98db0fda.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -533,19 +546,6 @@
       "link": "https://jin115.com/archives/52461210.html",
       "pubDate": "2026-10-22T17:59:31+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/e/3e0f276c.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "須佐市「同市の釣り情報サイトで個人情報流出した可能性があります！件数は、問い合わせフォームを利用した3人分です！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579372.html",
-      "pubDate": "2026-10-22T17:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0fa6e9dd-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T19:00:54.181189",
+  "updatedAt": "2026-10-22T19:30:45.872019",
   "sites": [
     {
       "id": "hachima",
