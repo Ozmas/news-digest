@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "経産省が『ホワイトハッカー』チームを立ち上げへ！「遅すぎ」「なぜ警視庁やデジタル庁ではないのか」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579532.html",
+      "pubDate": "2026-10-23T01:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/4/64f4cf78.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +572,6 @@
       "link": "https://jin115.com/archives/52461199.html",
       "pubDate": "2026-10-22T16:00:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cb16f61f.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】人気セクシー女優・瀬戸環奈さんの写真会に来た男性、ボロクソに言われてしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579341.html",
-      "pubDate": "2026-10-22T16:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4d62f614.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T16:30:47.564498",
+  "updatedAt": "2026-10-22T17:00:54.750219",
   "sites": [
     {
       "id": "hachima",
