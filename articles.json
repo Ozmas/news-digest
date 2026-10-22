@@ -8,6 +8,19 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "カプコンに不正アクセス、約1,177万件の大規模漏えい「CAPCOM ID」の顧客情報が流出　勝手にパスワード変えられたケースも",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579475.html",
+      "pubDate": "2026-10-22T18:20:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/1772abf9.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "【悲報】INMU KING、YouTubeから削除される",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10579373.html",
@@ -611,19 +624,6 @@
       "link": "https://rocketnews24.com/2026/10/22/2813822/",
       "pubDate": "Thu, 22 Oct 2026 01:00:13 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-1-8.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超悲報】インターネットセキュリティ最後の砦『阿部寛のホームページ』、PHP脆弱性に勝てず緊急メンテナンスへ…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579280.html",
-      "pubDate": "2026-10-22T10:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c2e6003f.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T09:00:51.928567",
+  "updatedAt": "2026-10-22T09:30:46.323338",
   "sites": [
     {
       "id": "hachima",
