@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "未知数の辛辛レベル「7.5」！ 新作「辛めの辛め辛辛魚らーめん」を激辛ハンターが食べてみた",
+      "description": "激辛好きのみんな～～～!!!　寿がきやのカップ麺「辛辛魚らーめん」シリーズに新作が出たぞ～！ 2026年10月19日に発売されたのは「麺処井の庄監修 辛めの辛め辛辛魚らーめん」。 通常の辛辛魚らーめんよりさらに辛さを追求 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/22/2833504/",
+      "pubDate": "Thu, 22 Oct 2026 08:00:09 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/k1_bbcefd.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "漁師服ベースにして、品がある。〈Alexander Yetman〉のジャケット：Brutus Best Bets",
+      "description": "漁師服ベースにして、品がある ロンドンでオーダーメイドを手がける〈アレキサンダー・イェットマン〉。そのノウハウを注ぎ込んだ既製服も、デザイナー自身が手作業で仕上げる。新作は、伝統的な漁師服がベース。背中には腕の動きを助け [&#8230;]",
+      "link": "https://brutus.jp/post-531003/",
+      "pubDate": "Thu, 22 Oct 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -13,6 +39,19 @@
       "link": "http://blog.esuteru.com/archives/10579361.html",
       "pubDate": "2026-10-22T16:30:03+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4eeb8370.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "韓国を代表する現代アーティスト、ソ・ドホの大規模展がソウルで開催。",
+      "description": "直島新美術館にも収蔵される、色鮮やかで半透明な布の「家」。ソ・ドホの30年にわたる芸術活動のすべてを振り返る展覧会です。",
+      "link": "https://casabrutus.com/categories/art/494550",
+      "pubDate": "Thu, 22 Oct 2026 07:25:32 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -1068,19 +1107,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【復活】ドミノ・ピザの「お持ち帰り半額」がわずか4カ月で戻ってきた理由を公式に聞いてみた",
-      "description": "「ドミノ・ピザ」並びに「デリバリーピザ」がお好きな方に朗報だ。2026年10月15日より全国のドミノ・ピザで「お持ち帰り半額」が復活している。 ドミノ・ピザの「お持ち帰り半額」は今年の6月に終了し「お持ち帰り30％オフ」 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/21/2832717/",
-      "pubDate": "Wed, 21 Oct 2026 01:00:58 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/domino.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1247,19 +1273,6 @@
       "description": "昭和通りから東へ、銀座の観光ゾーンが拡大 昔は木挽町という地名だった東銀座。今では、趣のある老舗とともに、様々な新店が軒を連ねています。私も驚きですが、〈MATSUZAKI SHOTEN〉と〈中村活字〉以外の6軒はすべて [&#8230;]",
       "link": "https://brutus.jp/post-426449/",
       "pubDate": "Tue, 20 Oct 2026 09:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "余りものに、個性を宿す。〈YUTASETOGAWA〉のバイカーズジャケット：Brutus Best Bets",
-      "description": "余りものに、個性を宿す 工業製品などにも使われるリサイクル生地が服になる。残糸をフェルト化したこの素材を、今季メンズブランドとして再始動した〈ユウタセトガワ〉がバイカーズジャケットに仕立てた。不均一に絡む繊維ならではの表 [&#8230;]",
-      "link": "https://brutus.jp/post-530997/",
-      "pubDate": "Tue, 20 Oct 2026 08:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1443,19 +1456,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/19/randysdonuts-soramachi/",
       "pubDate": "Sun, 18 Oct 2026 23:01:40 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7723-e1791876135491-1024x767.jpeg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "折りたたみ式パイプ椅子の原型となった、歴史的な一脚。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495016",
-      "pubDate": "Sun, 18 Oct 2026 22:00:52 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T07:30:43.069595",
+  "updatedAt": "2026-10-22T08:00:52.047637",
   "sites": [
     {
       "id": "hachima",
