@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "お色気学園漫画の名作『ナナとカオル』シリーズなど、甘詰留太先生の作品が「全巻99円」で買える激安セール開催！！このチャンスを見逃すな！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461228.html",
+      "pubDate": "2026-10-23T01:30:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cb54d0c6.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "逮捕された62歳男「2億円以上横領して、女性配信者への投げ銭などに使った」勤務先は倒産",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579530.html",
+      "pubDate": "2026-10-23T01:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/a/dabd4019.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】経理のおじさん、会社の金を全額配信者の投げ銭に使いガチで全てを破滅させる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461212.html",
+      "pubDate": "2026-10-23T01:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -535,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4d62f614.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ゲーマー「え？PS5って使い終わったら大半の人は電源落としてるの？」⇒ みんなの返答がこちらｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579339.html",
-      "pubDate": "2026-10-22T15:30:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/9/a982270c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -730,19 +756,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db8a0d2c.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "月光仮面「交通事故で困っている人たちのために使ってください」→衝撃の金額が寄付される",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461187.html",
-      "pubDate": "2026-10-22T11:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/c/bc1ffb4f.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -767,19 +780,6 @@
       "link": "https://artscape.jp/article/80350/",
       "pubDate": "Thu, 22 Oct 2026 02:00:46 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本のブルーカラー、ガチでヤバい・・・仕事仲間に○○を飲ませ身体を焼いて監禁",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461182.html",
-      "pubDate": "2026-10-22T10:30:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/e/aebb04a1.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T16:00:53.242939",
+  "updatedAt": "2026-10-22T16:30:47.564498",
   "sites": [
     {
       "id": "hachima",
