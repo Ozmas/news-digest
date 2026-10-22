@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「タバコを買う時、番号を言わせる風習ってなんなの？銘柄伝えたほうがわかりやすくない？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579326.html",
+      "pubDate": "2026-10-22T14:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/7/67af073d-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +663,6 @@
       "link": "http://blog.esuteru.com/archives/10579161.html",
       "pubDate": "2026-10-22T06:00:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/817e1f6d-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "イオンが「カスミ」や「マルエツ」などを100店舗閉店の方針",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579179.html",
-      "pubDate": "2026-10-22T05:30:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/00ba2b47-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1562,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T05:30:40.041998",
+  "updatedAt": "2026-10-22T05:53:45.909335",
   "sites": [
     {
       "id": "hachima",
