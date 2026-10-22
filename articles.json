@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「プレスバターサンド」のミナモア広島店は全国唯一のカフェ併設店舗！ ここでしか食べられない限定メニューを食べてきた",
+      "description": "手土産の定番スイーツ「PRESS BUTTER SAND（プレスバターサンド）」のファンなら、ぜひ訪れて欲しい店舗がある。 それはミナモア広島店。だって、日本で唯一のカフェ併設店舗なのだから……！ ・ブランド史上初＆唯一 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/22/2813822/",
+      "pubDate": "Thu, 22 Oct 2026 01:00:13 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-1-8.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超悲報】インターネットセキュリティ最後の砦『阿部寛のホームページ』、PHP脆弱性に勝てず緊急メンテナンスへ…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579280.html",
+      "pubDate": "2026-10-22T10:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c2e6003f.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "憧れ続ける小さな舞台。お笑い芸人・じろうに聞く、東京の小劇場",
+      "description": "上京のきっかけは、短大時代に大阪で知った、シティボーイズの舞台だった。 「シティボーイズのようなことがしたいと思ってはいたものの、具体的に何をすればいいかわからず、とりあえず『演劇ぶっく』だけ買っていた。そこにはいつも小 [&#8230;]",
+      "link": "https://brutus.jp/post-425826/",
+      "pubDate": "Thu, 22 Oct 2026 01:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ピザ職人は、靴に何を求めるか。〈Maple Pizza〉高橋政智さんと〈SOREL〉",
+      "description": "ロサンゼルスで出会った一枚 東京メトロ銀座線の田原町駅から、徒歩約3分。ピンクの外壁に、「FINEST QUALITY（最高品質）」の文字が入った木枠の窓が並ぶ。 2022年に高橋政智さんが開いた〈Maple Pizza [&#8230;]",
+      "link": "https://brutus.jp/post-531494/",
+      "pubDate": "Thu, 22 Oct 2026 00:50:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】食通の寺門ジモンさんが絶賛したうなぎ屋が産地擬装していたことが判明→結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461177.html",
+      "pubDate": "2026-10-22T09:40:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/030ebfa5-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -470,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/0/e0220331.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "マイナンバー嫌いの河村たかし議員「マイナンバーは情報漏洩しないと断言しなさいよ！」「やっぱ間違っとったという時代が来る。その時はちゃんと謝罪しなさいよ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579157.html",
-      "pubDate": "2026-10-21T22:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a18cc4fd.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -715,19 +767,6 @@
       "link": "https://rocketnews24.com/2026/10/21/2833232/",
       "pubDate": "Wed, 21 Oct 2026 08:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/mochido-6.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性記者、飲酒運転体験教室に参加→1時間でビール4缶、ワイン4杯を飲み干して運転した結果ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461137.html",
-      "pubDate": "2026-10-21T17:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/27cde78f.png"
     },
     {
       "siteId": "brutus",
@@ -1094,19 +1133,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【穴場】中東発ジュースバー『Bfresh』が原宿に初上陸！ 混雑の竹下通りで「若者に気づかれていない」今のうちに行くべし",
-      "description": "日本のカフェ文化は、もはや海外勢に押し切られているといっても過言ではないだろう。「スタバ」を筆頭に、お茶分野では「ゴンチャ」が勢力を拡大しており、そのほか最近では韓国の格安大容量コーヒーブランドが続々と出店し、世界最大の [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/20/2832493/",
-      "pubDate": "Tue, 20 Oct 2026 06:00:41 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/bfresh.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1146,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "東京大学に眠るお宝に出会う。経済学研究科の小島浩之先生が解説する「古貨幣」",
-      "description": "日本最古の金貨も藩札も。貨幣と紙幣で3万点以上 場所：経済学部資料室 江戸時代の大判・小判や中国の銅銭など国内最大級の東洋古貨幣コレクションを有する経済学部資料室。企業資料や古文書といった歴史的経済資料を研究すべく、経済 [&#8230;]",
-      "link": "https://brutus.jp/post-495279/",
-      "pubDate": "Mon, 19 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1169,19 +1182,6 @@
       "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
       "link": "https://casabrutus.com/categories/design/495025",
       "pubDate": "Mon, 19 Oct 2026 22:00:46 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "変わり続ける東京の注目エリア。〈BOOK AND SONS〉店主・川田修が案内する、学芸大学",
-      "description": "“世界で最もクールな街”ランキングの一つとして、『タイムアウト』でも注目されている学芸大学ですが、あまり実感はないんです。でも確かに、昭和っぽい雰囲気が残る街の中に、おしゃれな店構えが増えてきている。 中目黒に比べると家 [&#8230;]",
-      "link": "https://brutus.jp/post-426399/",
-      "pubDate": "Mon, 19 Oct 2026 13:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T00:31:37.602056",
+  "updatedAt": "2026-10-22T01:00:50.100375",
   "sites": [
     {
       "id": "hachima",
