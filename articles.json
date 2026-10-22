@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "世界最恐の寺『懸空寺』に入ってみて知った「日本人に厳しすぎる事情」",
+      "description": "気づいたら世界最恐の寺に行くことになっていた。そんな『刃牙』みたいなことあるのか。自分ですら疑ってしまう出だしだが、マジで行ってきたんだから仕方ない。 寺にたどり着くのに3日かかった。そんな『鉄拳チンミ』みたいなことある [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/22/2811174/",
+      "pubDate": "Thu, 22 Oct 2026 02:30:17 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kenku18.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "無職男性（34）、10代女性のケツをキックしたとして逮捕される 「ケツをけったことは間違いない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579291.html",
+      "pubDate": "2026-10-22T11:20:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/4/b4e79d2b.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【本日終了】『ニセモノの錬金術師』 『令和のダラさん』 『ダンジョン飯』などの人気作品が最大50％オフの激安セールは今日まで！！ニコニコカドカワ祭り2026 第4弾！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461189.html",
+      "pubDate": "2026-10-22T11:20:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db8a0d2c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "月光仮面「交通事故で困っている人たちのために使ってください」→衝撃の金額が寄付される",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461187.html",
+      "pubDate": "2026-10-22T11:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/c/bc1ffb4f.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【全国で2店舗だけ】デニーズの激レアデザート「自家製パンプディング」を実際に食べに行ってみた！",
+      "description": "世の中にはさまざまな限定品というものが存在する。実はファミレスのデニーズにもあるのをご存じだろうか。 それがデニーズ新宿西口店と赤坂駅前店の2店舗のみで提供されている「自家製パンプディング ア・ラ・モード」だ。 “ここで [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/22/2813973/",
+      "pubDate": "Thu, 22 Oct 2026 02:00:46 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/d11.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】タイの学園七不思議を追う実写ビデオ恋愛ホラーミステリー、 PS5『ラブラブミステリークラブ』、Amazonで予約スタート",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579288.html",
+      "pubDate": "2026-10-22T11:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d07c6d0e.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -509,32 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/48233418.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "左翼さん、パレスチナ国旗と穴の空いた日本国旗を振り回す → パレスチナブチギレ「世論を操作し、両国の分断を図る行為を直ちにやめろ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579178.html",
-      "pubDate": "2026-10-21T23:30:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1c407c02.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "配信者・スルガモンキーさん、『ヴァロラント』対戦相手をチーターだと決めつけて罵倒 → 所属チームが謝罪するも、本人は謝罪相手をブロック中",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579174.html",
-      "pubDate": "2026-10-21T23:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/7/f7db0bc9.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -639,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/e/6ed422a8.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "宮城県町職員、勤務中の性的行為＋不正アクセス・不法侵入で複数人が処分へ ヤバすぎるだろこれ・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461147.html",
-      "pubDate": "2026-10-21T20:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/cae9f9cf.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -663,19 +702,6 @@
       "link": "https://brutus.jp/post-495282/",
       "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "経済評論家「『日本の◯◯は最高』と思っているのはもう日本人だけ。グローバル社会から見ると相当低いレベルになっている」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461144.html",
-      "pubDate": "2026-10-21T19:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/34e701ad.jpg"
     },
     {
       "siteId": "brutus",
@@ -1055,19 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【女ひとり飲み】食べ飲み放題よりお得かも？ 「一休」の1杯99円ハッピーアワーで飲んだ結果",
-      "description": "「居酒屋 一休で1人食べ飲み放題をしてほしい。」 読者から、そんなリクエストをいただいた。なんでも「一休」の食べ飲み放題は99分2999円。3000円を切る値段で、料理もお酒も楽しめるのだそう。めっちゃいいやん！ ところ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/20/2832140/",
-      "pubDate": "Tue, 20 Oct 2026 10:00:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/一休サムネ.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1092,19 +1105,6 @@
       "link": "https://brutus.jp/post-426449/",
       "pubDate": "Tue, 20 Oct 2026 09:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ご近所さんから『ローゼル』をたくさんいただいたので、自家製ジャムを作ってみた / 武骨な茎と可愛らしい実から生まれる、甘酸っぱい感動",
-      "description": "収穫の秋、ご近所さんからさまざまな食材をいただく今日この頃だ。先日はスダチ、最近では名古屋コーチンの卵。そしてついに、ローゼルまで頂戴してしまった。本当にありがたい限りである。 ローゼルについては以前も紹介したことがある [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/20/2832619/",
-      "pubDate": "Tue, 20 Oct 2026 08:00:34 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_9860_cddb1d.jpg"
     },
     {
       "siteId": "brutus",
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T02:00:57.287129",
+  "updatedAt": "2026-10-22T02:30:49.050358",
   "sites": [
     {
       "id": "hachima",
