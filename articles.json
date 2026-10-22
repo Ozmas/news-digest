@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】『バイオハザード アウトブレイク』シリーズ、海外の割れ厨によってブラウザで遊べるようになってしまう・・・無料でオンラインプレイにも対応",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461207.html",
+      "pubDate": "2026-10-22T20:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0a0eb42-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【噂】『スター・ウォーズ バトルフロント3』開発中との海外報道！BFシリーズのDICEとApexのRespawnが共同開発か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579487.html",
+      "pubDate": "2026-10-22T20:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c52e562e.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -535,19 +561,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_9791.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】進研ゼミに、ある家庭の心当たりのない個人情報が流出　→　結果、予想できないまさかの展開にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579298.html",
-      "pubDate": "2026-10-22T11:40:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bc3fa0eb.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -858,19 +871,6 @@
       "link": "https://rocketnews24.com/2026/10/22/2810806/",
       "pubDate": "Wed, 21 Oct 2026 22:00:43 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-114.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "パレスチナ、日本の反日左翼に言う「お前らを拒絶する。日の丸を損壊するな。我々をプロパガンダに利用するな」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461176.html",
-      "pubDate": "2026-10-22T07:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/439f1cfb.png"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T11:00:54.089055",
+  "updatedAt": "2026-10-22T11:30:09.573163",
   "sites": [
     {
       "id": "hachima",
