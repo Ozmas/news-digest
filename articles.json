@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】ラベリングでも活躍！〈docket store〉の定規",
+      "description": "丁寧に暮らすあの人へドット文字が綺麗に書ける定規 〈docket store〉の定規 大阪府箕面市を拠点にする〈ドケットストア〉。文具と収納用品の“ラベリング”をテーマに掲げ、ユニークなツールを展開している。 こちらはス [&#8230;]",
+      "link": "https://brutus.jp/post-533250/",
+      "pubDate": "Thu, 22 Oct 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "690円にしてはウマすぎる！ 日高屋『濃厚豚骨醤油ラーメン』に感じる「家系」を名乗らぬ奥ゆかしさ",
+      "description": "最近、SNSを中心に話題になっている「日高屋」の新商品をご存じだろうか？　2026年10月9日より期間限定で販売中の『濃厚豚骨醤油ラーメン』（税込690円）だ。 豚骨醤油と聞くと、いわゆる「家系ラーメン」を想像してしまう [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/22/2833026/",
+      "pubDate": "Thu, 22 Oct 2026 02:55:15 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_9791.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】進研ゼミに、ある家庭の心当たりのない個人情報が流出　→　結果、予想できないまさかの展開にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579298.html",
+      "pubDate": "2026-10-22T11:40:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bc3fa0eb.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】RPGの超大手スタジオ、閉鎖・・・シリーズ最新作も開発中止へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461186.html",
+      "pubDate": "2026-10-22T11:40:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/64a4b1de.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -15,17 +67,17 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kenku18.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "無職男性（34）、10代女性のケツをキックしたとして逮捕される 「ケツをけったことは間違いない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579291.html",
-      "pubDate": "2026-10-22T11:20:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/4/b4e79d2b.png"
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "伝統のダービーシューズにスタッズの刺激を。〈BALENCIAGA〉と〈J.M. WESTON〉が初コラボ。",
+      "description": "しなやかなナッパカーフを使用した〈BALENCIAGA〉と〈J.M. WESTON〉の初コラボ。",
+      "link": "https://casabrutus.com/categories/fashion/494674",
+      "pubDate": "Thu, 22 Oct 2026 02:25:59 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -39,6 +91,19 @@
       "link": "https://jin115.com/archives/52461189.html",
       "pubDate": "2026-10-22T11:20:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db8a0d2c.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "無職男性（34）、10代女性のケツをキックしたとして逮捕される 「ケツをけったことは間違いない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579291.html",
+      "pubDate": "2026-10-22T11:20:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/7/d7cef984-s.png"
     },
     {
       "siteId": "jin",
@@ -574,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d8d17ca.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】微笑ましい子供の絵で分かる格差社会が悲しすぎると話題に・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579125.html",
-      "pubDate": "2026-10-22T00:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/48233418.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +728,6 @@
       "link": "https://brutus.jp/post-474790/",
       "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【緊急事態】インターネット、ガチでぶっ壊れるかも・・・ガチでやばすぎる脆弱性が見つかり、今夜23時にセキュリティが崩壊危機・・・ありとあらゆるサイトが緊急メンテ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461163.html",
-      "pubDate": "2026-10-21T20:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/e/6ed422a8.jpg"
     },
     {
       "siteId": "brutus",
@@ -1042,19 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2148話目「新設、トラップ部隊㉒」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/20/2832431/",
-      "pubDate": "Tue, 20 Oct 2026 12:00:58 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2148a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1146,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】“バルセロナの台所”でも親しまれる。〈El Transwaal〉のエプロン",
-      "description": "仕事道具にこだわるあの人へプロが頼る老舗のエプロン 〈El Transwaal〉のエプロン 1888年創業、スペインの業務用ユニフォームショップ〈エル・トランスバル〉。バルセロナの台所と呼ばれるサン・ジュセップ市場のほど [&#8230;]",
-      "link": "https://brutus.jp/post-530374/",
-      "pubDate": "Tue, 20 Oct 2026 03:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1247,19 +1260,6 @@
       "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
       "link": "https://casabrutus.com/categories/design/495016",
       "pubDate": "Sun, 18 Oct 2026 22:00:52 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "長山智美 デザイン狩人｜〈サンリオハウス〉のコスメティックス♡",
-      "description": "デザインへの深い造詣と審美眼を持ち、刺激的なデザインを求めて、ハンターのように世界中を彷徨うインテリアスタイリスト、長山智美が、今もっとも気になるものをご紹介します。今回は〈サンリオハウス〉☆コスメティックス。",
-      "link": "https://casabrutus.com/categories/design/494422",
-      "pubDate": "Sun, 18 Oct 2026 07:25:38 +0000",
       "thumbnail": ""
     },
     {
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T02:30:49.050358",
+  "updatedAt": "2026-10-22T03:00:59.125525",
   "sites": [
     {
       "id": "hachima",
