@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "“ルーツなき街”で考える。ラッパー・荘子itと巡る『路上、お邪魔ですか？』展",
+      "description": "“ルーツなき街”で考える、「路上」にまつわるエトセトラ 「“たいていの者は、シャレた店とテニスコートへ向かい、それが出来ない不器用な連中はどうしたかというと、路上にさまよい出て、その辺にころがるヘンテコなものを観察し始め [&#8230;]",
+      "link": "https://brutus.jp/post-531740/",
+      "pubDate": "Thu, 22 Oct 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "GMO、FX口座ログイン情報流出の可能性を発表！マジで今すぐ対処しろ！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461211.html",
+      "pubDate": "2026-10-22T19:30:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/27e52031.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "声優・小野賢章さんとM・A・O（34）が「極秘誕生日会デート」と報道 →「30代独身なんだからそっとしときなよ」と批判殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579485.html",
+      "pubDate": "2026-10-22T19:30:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/c/0c760237.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -219,7 +258,7 @@
       "title": "PHP脆弱性騒動、あるゲームをサービス終了にまで追い込んでしまう…",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52461199.html",
-      "pubDate": "2026-10-22T16:00:32+09:00",
+      "pubDate": "2026-10-22T16:00:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cb16f61f.jpg"
     },
     {
@@ -561,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db8a0d2c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "無職男性（34）、10代女性のケツをキックしたとして逮捕される 「ケツをけったことは間違いない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579291.html",
-      "pubDate": "2026-10-22T11:20:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/7/d7cef984-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -858,19 +884,6 @@
       "link": "https://www.buzzfeed.com/jp/yuisasaki/yagimogumogu",
       "pubDate": "Wed, 21 Oct 2026 17:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/21/01/subbuzz/QLIxZ0ZUo.jpg?crop=3175:2117;467,294&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "世界中の軍隊が集いeスポーツ国際大会開催！その理由がこちら・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461156.html",
-      "pubDate": "2026-10-22T06:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d276ced3.jpg"
     },
     {
       "siteId": "brutus",
@@ -1247,19 +1260,6 @@
       "description": "意外な申し出からこのインタビューが実現した。「デヴィッド・シムズが初の展覧会をやるので、プロモーションでいくつか取材を受けるつもりがあり、日本のメディアではBRUTUS.jpの〈流行写真通信〉を希望している」というもの。 [&#8230;]",
       "link": "https://brutus.jp/post-530815/",
       "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "斉藤壮馬の「ただいま、ゼロ年代。」第53回 スキマスイッチ『夏雲ノイズ』",
-      "description": "スキマスイッチ『夏雲ノイズ』 ぼくは声優業と並行して音楽活動を行っていて、ありがたいことに来年で10周年になる。バンドスタイルで活動していて、拙いながらもギターヴォーカルとしてフロントに立ち、歌を歌う。 楽曲の方向性は、 [&#8230;]",
-      "link": "https://brutus.jp/post-532156/",
-      "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T10:30:43.338167",
+  "updatedAt": "2026-10-22T11:00:54.089055",
   "sites": [
     {
       "id": "hachima",
