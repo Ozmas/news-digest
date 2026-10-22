@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【てんや】ポテサラの天ぷら登場！ 112品の頂点に立った「鮮やか ベジポテ天丼」の満足感が意外と高い",
+      "description": "味とは直接関係ないかもしれないが、そのお店の人がそのお店を好きだとこちらもちょっと嬉しくなってしまう。きっとその “お店愛” は、何かしらの形でお客サイドにも伝わっているのだろう。 2026年10月22日、てんやが『鮮や [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/22/2833230/",
+      "pubDate": "Thu, 22 Oct 2026 06:00:15 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tenya02.jpeg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "有名建築家が手がけたソウルのミュージアム3選。〈東大門デザインプラザ〉、〈SONGEUN〉etc.",
+      "description": "東大門デザインプラザ（DDP）／東大門 ソウルを象徴するランドマーク 建築家：ザハ・ハディド 2014年開館。都市の躍動感をダイナミックに表現した外装は約45,000枚のアルミパネルで覆われており、光の角度によって表情が [&#8230;]",
+      "link": "https://brutus.jp/post-533992/",
+      "pubDate": "Thu, 22 Oct 2026 06:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1016,19 +1042,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "楽天で買った「家庭用サウナ」（1万7780円）に入ってみた → 生首みたいになったけど予想以上に熱くて汗だくに！",
-      "description": "独身時代は週に1～2回、近所のサウナに通っていたが、子どもが生まれてからは年に1～2回行ければ上々というくらいのペースになってしまった。 そんな時、楽天で発見したのが「家庭用スチームサウナ」という商品だ。価格は税込1万7 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/21/2832546/",
-      "pubDate": "Wed, 21 Oct 2026 00:00:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_9734.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1182,19 +1195,6 @@
       "description": "英国・オックスフォード大学大学院で博士号を取得され、美術やデザインへの造詣が深い彬子女王殿下が、明治、大正、昭和初期に建てられたモダン建築をめぐる本連載。その頃は西洋建築が輸入された時代であり、和風と洋風が折衷した独特な様式が魅力で、皇室ゆかりの施設も多く建てられています。そんなモダン建築について、彬子女王殿下ならではの視点で綴っていきます。\n\n第15回は〈旧近衛師団司令部庁舎〉。千鳥ヶ淵に佇む、",
       "link": "https://casabrutus.com/categories/architecture/494763",
       "pubDate": "Tue, 20 Oct 2026 07:25:59 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "実業家・岸谷蘭丸に聞く。一問即答！私のお金観",
-      "description": "あなたがお金の師と仰ぐ人は？ 各業界のトップランナー ヘアメイクやデザイナーなど、業界の最前線の人たちは経営者である場合も多く、中には上場企業の社長を兼任していたりもする。そんな人たちの責任の重さと自由な仕事ぶりがカッコ [&#8230;]",
-      "link": "https://brutus.jp/post-492319/",
-      "pubDate": "Tue, 20 Oct 2026 06:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1562,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T05:53:45.909335",
+  "updatedAt": "2026-10-22T06:00:50.649423",
   "sites": [
     {
       "id": "hachima",
