@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「ぶっちゃけVtuberって都合よくね？リスナーには◯◯を強要したり禁止するけど、状況が変われば話コロコロ変えるのは当たり前」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461197.html",
+      "pubDate": "2026-10-22T19:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/e/fe1256b3.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,19 @@
       "link": "https://rocketnews24.com/2026/10/22/2832856/",
       "pubDate": "Thu, 22 Oct 2026 10:00:35 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_6eeeef.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "EA、名門スタジオBioWareを突然閉鎖！『ドラゴンエイジ』『マスエフェクト』『アンセム』を手掛ける　『Mass Effect』新作も開発中止に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579478.html",
+      "pubDate": "2026-10-22T19:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5b7d772d.jpg"
     },
     {
       "siteId": "brutus",
@@ -587,19 +613,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【予約開始】タイの学園七不思議を追う実写ビデオ恋愛ホラーミステリー、 PS5『ラブラブミステリークラブ』、Amazonで予約スタート",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579288.html",
-      "pubDate": "2026-10-22T11:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d07c6d0e.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -858,19 +871,6 @@
       "link": "https://jin115.com/archives/52461156.html",
       "pubDate": "2026-10-22T06:00:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d276ced3.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "警察「チャッピー、ネットの違法取引を捜して」チャットGPT「おｋｗ」→めちゃくちゃ成果が出るｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461155.html",
-      "pubDate": "2026-10-22T05:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa5fbd07.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T10:00:53.780415",
+  "updatedAt": "2026-10-22T10:30:43.338167",
   "sites": [
     {
       "id": "hachima",
