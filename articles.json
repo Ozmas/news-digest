@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本共産党から出馬予定の女性「応援してくれるアイドルユニットを紹介します！」→「これ生成AIじゃね？」「性的搾取を批判してた共産党がやることか？」と批判殺到",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461225.html",
+      "pubDate": "2026-10-23T08:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/65fa20e6.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "妹島和世も参画！ルイス・バラガンの傑作を文化拠点へ再生。メキシコ〈LA CUADRA〉",
+      "description": "３つのポイント 1.名建築〈サン・クリストバルの厩舎〉を再定義。2.妹島和世や隈研吾ら日本人建築家も協働。3.建築物保護と文化体験の場を兼ね、市民に開放。 妹島和世も参画！ルイス・バラガンの傑作を文化拠点へ再生 ルイス・ [&#8230;]",
+      "link": "https://brutus.jp/post-529228/",
+      "pubDate": "Thu, 22 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】『KDDI』、ガチで取り返しのつかない大事件を海外で引き起こしていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461224.html",
+      "pubDate": "2026-10-23T07:40:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/b/6b7b1879.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -626,19 +665,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【速報】『INMU KING』、削除",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461210.html",
-      "pubDate": "2026-10-22T17:59:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/e/3e0f276c.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -650,19 +676,6 @@
       "link": "https://rocketnews24.com/2026/10/22/2833504/",
       "pubDate": "Thu, 22 Oct 2026 08:00:09 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/k1_bbcefd.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「スーパー銭湯のステージ営業で客引きのために結構際どめのビキニ着せられてメンバーが一列に並ばされてるアニメあったよな？」→結果ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461200.html",
-      "pubDate": "2026-10-22T17:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/08d4542c.jpg"
     },
     {
       "siteId": "brutus",
@@ -1211,19 +1224,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "家具職人から学ぶ、部屋づくりの新しい選択肢。「家づくりを家具作りから考えてみる」",
-      "description": "家づくりを家具作りから考えてみる 家具職人とともに家を造るということは、職人と一蓮托生になるということ。家具工房〈MOBLEY WORKS〉の代表である鰤岡力也さんは「動線や間取りのことはよくわからない」と話すが、それは [&#8230;]",
-      "link": "https://brutus.jp/post-530951/",
-      "pubDate": "Wed, 21 Oct 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T22:30:44.804025",
+  "updatedAt": "2026-10-22T23:00:52.842736",
   "sites": [
     {
       "id": "hachima",
