@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大食いタレント・もえあずによる「たまご麺すすりASMR」が轟音すぎて「銃撃戦みたい」と言われてしまうｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579502.html",
+      "pubDate": "2026-10-23T05:30:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5da89421-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +533,6 @@
       "link": "http://blog.esuteru.com/archives/10579476.html",
       "pubDate": "2026-10-22T18:40:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2fc5da07-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "カプコンに不正アクセス、約1,177万件の大規模漏えい「CAPCOM ID」の顧客情報が流出　勝手にパスワード変えられたケースも",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579475.html",
-      "pubDate": "2026-10-22T18:20:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/1772abf9.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T20:14:55.698689",
+  "updatedAt": "2026-10-22T20:30:45.147086",
   "sites": [
     {
       "id": "hachima",
