@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ゲーマー「え？PS5って使い終わったら大半の人は電源落としてるの？」⇒ みんなの返答がこちらｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579339.html",
+      "pubDate": "2026-10-22T15:30:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/9/a982270c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【これが”女”】息子が托卵だと発覚したパパ、不倫の証拠と検査書類を嫁に見せた結果、とんでもないことに・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461195.html",
+      "pubDate": "2026-10-22T15:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/e/7e9163fc.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「寄席を生で観たいから池袋演芸場を下調べしたら、『浴衣＆着物割引』らしい。与那国の着物を着て入ったら『正式な日本の着物ではないのでダメ』と言われたんだけど」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579334.html",
+      "pubDate": "2026-10-22T15:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/db84b8ac-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -327,6 +366,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/d11.jpg"
     },
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "松房子｜パフォーマンス・アート：身体と空間をめぐる映画祭｜キャロリー・シュニーマン『ブレインキング・ザ・フレーム』",
+      "description": "会期：2026/08/01～ 会場：ユーロスペース［東京都］ 公式サイト：http://www.eurospace.co.jp/works/detail.php?w_id=000997 渋谷・ユーロスペースで開催された「 [&#8230;]",
+      "link": "https://artscape.jp/article/80350/",
+      "pubDate": "Thu, 22 Oct 2026 02:00:46 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -377,6 +429,19 @@
       "link": "https://jin115.com/archives/52461178.html",
       "pubDate": "2026-10-22T10:00:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/2/b26b5784.png"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【神奈川】開館40周年記念展「横浜人形の家　建築と記憶」関連イベント",
+      "description": "横浜人形の家にて、9月5日から開催されている開館40周年記念展「横浜人形の家　建築と記憶」の関連イベントが行なわれます。 建築の専門家によるトークイベントや、建築を学ぶ学生とともに館内を巡る探検ツアー、横浜人形の家の周辺 [&#8230;]",
+      "link": "https://artscape.jp/article/81515/",
+      "pubDate": "Thu, 22 Oct 2026 01:00:14 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -613,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e06f8ef0.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】飲食店の客「トマトソースのパスタください」、店「かしこまり」　→　直後、予想できないまさかの超展開に…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579260.html",
-      "pubDate": "2026-10-22T07:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/171dbbd2.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -678,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d276ced3.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『創聖のアクエリオン』主題歌でお馴染みの歌手・AKINOがbless4を卒業へ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579161.html",
-      "pubDate": "2026-10-22T06:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/817e1f6d-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +780,6 @@
       "link": "https://jin115.com/archives/52461169.html",
       "pubDate": "2026-10-22T00:00:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d8d17ca.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "受け取りに出た小学生が好みで襲った配達のウズベキスタン人、「架空の日本人名義」でアカウント登録していた",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461135.html",
-      "pubDate": "2026-10-21T23:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/9/d9500cd9.jpg"
     },
     {
       "siteId": "brutus",
@@ -1016,6 +1042,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_409947.jpg"
     },
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "大澤夏美｜ミュージアムグッズ遊歩14──ミュージアムグッズから物語が始まる。ARGから考える「物」とミュージアム",
+      "description": "全国各地の美術館・博物館を渡り歩き、そこで出会うグッズたちへの感動を広く伝えるミュージアムグッズ愛好家・大澤夏美さん。博物館経営論の視点からもそれらを捉え直す彼女が、日々新たな商品や話題が生まれるミュージアムグッズの現場 [&#8230;]",
+      "link": "https://artscape.jp/article/81078/",
+      "pubDate": "Wed, 21 Oct 2026 02:00:23 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1027,6 +1066,19 @@
       "link": "https://rocketnews24.com/2026/10/21/2832717/",
       "pubDate": "Wed, 21 Oct 2026 01:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/domino.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【愛知】「長谷川 繁 ペイン天狗」展　関連イベント",
+      "description": "愛知・豊田市美術館 にて、10月24日から開催される「長谷川 繁　ペイン天狗」展の関連イベントが行なわれます。 出品作家・長谷川繁と美術評論家による対談や、作家本人が展示室で作品を見ながら語る長時間のトークイベント「死ゲ [&#8230;]",
+      "link": "https://artscape.jp/article/81548/",
+      "pubDate": "Wed, 21 Oct 2026 01:00:06 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "brutus",
@@ -1211,6 +1263,32 @@
       "thumbnail": ""
     },
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "杉江あこ｜『The Book of MINO　美濃焼の解剖』（セラミックバレー協議会）",
+      "description": "企画：佐藤卓 監修：橋本麻里、立花昭 著者：橋本麻里、下川一哉、杉江あこ、外舘和子、阪口公子、立花昭 デザイン：鈴木文女・長谷川桃（TSDO） 写真：西部裕介、五十嵐拓也（amana） 発行：セラミックバレー協議会 発行 [&#8230;]",
+      "link": "https://artscape.jp/article/80555/",
+      "pubDate": "Tue, 20 Oct 2026 02:00:03 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【福井】土田ヒロミ写真展「記憶と記録 ─ヒロシマ・ベルリン・エルサレム・私─」関連イベント",
+      "description": "福井・金津創作の森美術館にて、10月24日から開催される 土田ヒロミ写真展「記憶と記録 ─ヒロシマ・ベルリン・エルサレム・私─」の関連イベントが行なわれます。 写真家・土田ヒロミと美術史家・伊藤俊治による対談やAI時代の [&#8230;]",
+      "link": "https://artscape.jp/article/81500/",
+      "pubDate": "Tue, 20 Oct 2026 01:00:53 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1286,6 +1364,32 @@
       "description": "空間、プロダクトデザインを行う〈BEARER〉のオリジナルプロダクトから新作が登場。",
       "link": "https://casabrutus.com/categories/design/494715",
       "pubDate": "Mon, 19 Oct 2026 02:25:55 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "石川琢也｜「視差―いつもそこに在るもの」展から考えるレジデンス事業の媒介的役割",
+      "description": "2026年9月19日から10月5日まで、Artist Cafe Fukuoka Artist Cafe Fukuokaで福岡アジア美術館の第26回アーティスト・イン・レジデンス成果展「視差―いつもそこに在るもの」が開催さ [&#8230;]",
+      "link": "https://artscape.jp/article/80968/",
+      "pubDate": "Mon, 19 Oct 2026 02:00:12 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【京都】CP Lab.講座プログラム「Creative Track―メディア芸術／工芸／建築」",
+      "description": "京都芸術センターにて、CP Lab.による講座プログラム「Creative Track」が開催されます。 Creative Trackは、創造の現場で活動するために必要な知識や実践を学び、自らの専門性を深める講座プログラ [&#8230;]",
+      "link": "https://artscape.jp/article/81144/",
+      "pubDate": "Mon, 19 Oct 2026 01:00:01 +0000",
       "thumbnail": ""
     },
     {
@@ -1445,6 +1549,32 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/15/01/subbuzz/tmZRJ3Mfo.jpg?crop=2466:1644;0,704&resize=1250:830"
     },
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "鵜尾佳奈｜公営ギャラリーという場から企てる──名古屋市民ギャラリー栄が重ねる挑戦",
+      "description": "名古屋市民ギャラリー栄は、中区役所が入るビルの7階と8階にあり、大小11の展示室で構成されている。天井高は3メートルで、壁はライトグレーのクロス、床は掃除がしやすいリノリウム。ほかの公営ギャラリーよろしく、基本的に壁に釘 [&#8230;]",
+      "link": "https://artscape.jp/article/80388/",
+      "pubDate": "Fri, 16 Oct 2026 02:00:24 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "杉江あこ｜ようこそ！華麗なる宮中晩餐会の世界へ",
+      "description": "会期：2026/09/26～2026/11/21 会場：霞会館記念学習院ミュージアム　特別展示室［東京都］ 公式サイト：https://www.museum.univ.gakushuin.ac.jp/exhibition [&#8230;]",
+      "link": "https://artscape.jp/article/80559/",
+      "pubDate": "Fri, 16 Oct 2026 02:00:16 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1562,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T06:00:50.649423",
+  "updatedAt": "2026-10-22T06:30:42.398598",
   "sites": [
     {
       "id": "hachima",
