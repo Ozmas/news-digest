@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「怒りすぎて倒れそう！」ポテトが出てこないレストランで女性客が大激怒【カンバ通信：第534回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べようと思い、あるレストランへ行ってきた。 店の名前は「Judes Fast Food and Bakery [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/22/2832856/",
+      "pubDate": "Thu, 22 Oct 2026 10:00:35 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_6eeeef.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜岡山編〜",
+      "description": "解放区 生ビール、冷酒、燗酒。岡山の酒をシンプルな料理で ・その日に地元で獲れた魚や、地元農家から届いた新鮮な食材を調理。・だからメニューが毎日替わる。・岡山の醸造所〈koti brewery〉の樽生が味わえるのは珍しい [&#8230;]",
+      "link": "https://brutus.jp/post-512355/",
+      "pubDate": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "太田光の妻・太田光代社長、PHP対策で通信機器を全て切る「私は当面、Wi-Fiは使用しません。」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579476.html",
+      "pubDate": "2026-10-22T18:40:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2fc5da07-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -574,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/e/aebb04a1.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【Kindleセール】『怨み屋本舗』シリーズ各26円、『深夜食堂』1～10巻が各99円、『土竜の唄』が1巻なんと1円の史上最安値セール開始ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579281.html",
-      "pubDate": "2026-10-22T10:30:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/4/3465baa7.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1094,19 +1120,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "本場のチャイに近づく答えはインネパ屋にあった！ 紅茶と砂糖を変えたら自家製チャイが劇的に進化した",
-      "description": "チャイが好きだ。自分でも作る。昔からよく研究して、微妙にバージョンアップを重ねているが、この夏、大きなバージョンアップを果たした。 どんなバージョンアップかというと、紅茶の葉っぱと砂糖を “現地のもの” に変えたのだ。  [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/21/2832826/",
-      "pubDate": "Wed, 21 Oct 2026 02:00:58 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_409947.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1247,19 +1260,6 @@
       "description": "スキマスイッチ『夏雲ノイズ』 ぼくは声優業と並行して音楽活動を行っていて、ありがたいことに来年で10周年になる。バンドスタイルで活動していて、拙いながらもギターヴォーカルとしてフロントに立ち、歌を歌う。 楽曲の方向性は、 [&#8230;]",
       "link": "https://brutus.jp/post-532156/",
       "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜松江編〜",
-      "description": "宍道湖（しんじこ）に面し水路が縦横に走る水の都にして、伝統が息づく城下町には古き良き飲み屋街が健在。松江を二分する大橋川の北と南の飲み屋街で旨い酒と肴が待っています。 Bar 山小舎（やまごや） 激動の時代を生き抜いて約 [&#8230;]",
-      "link": "https://brutus.jp/post-512345/",
-      "pubDate": "Tue, 20 Oct 2026 10:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T09:30:46.323338",
+  "updatedAt": "2026-10-22T10:00:53.780415",
   "sites": [
     {
       "id": "hachima",
