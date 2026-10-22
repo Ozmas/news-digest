@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2732回「九尾の九ちゃん⑧」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/10/22/2833339/",
+      "pubDate": "Thu, 22 Oct 2026 05:00:17 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2732-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大阪のたこ焼き店に飾られたYouTuberのサインを剥がす動画が拡散される 「誰や？わからん。これゴミ」 → 当店、経営会社が謝罪する事態に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579319.html",
+      "pubDate": "2026-10-22T14:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/11f7da3d.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "神奈川県警、 失効免許証を警備捜査に流用していたことが判明　30年前から横行か？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579307.html",
+      "pubDate": "2026-10-22T13:40:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/8/c838a212.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -11,7 +50,7 @@
       "title": "【つよい】日本人さん「韓国人は犬を食う野蛮人」　→　レスバ最強韓国ニキがキレッキレの強い返しで論破してしまうｗｗｗｗｗ",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10579317.html",
-      "pubDate": "2026-10-22T13:20:16+09:00",
+      "pubDate": "2026-10-22T13:20:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/1/e143b462.jpg"
     },
     {
@@ -613,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/00ba2b47-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "なんだこの音質は！？新人VTuberの配信が「音響がエグすぎる」と話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579169.html",
-      "pubDate": "2026-10-22T05:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/ae9baa3a-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +663,6 @@
       "link": "https://jin115.com/archives/52461155.html",
       "pubDate": "2026-10-22T05:00:32+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa5fbd07.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "料理中の女性がスプレー缶に穴をあけて自爆！マンションが火事に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579171.html",
-      "pubDate": "2026-10-22T04:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7eaab3ed-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1027,19 +1040,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/21/rattoria-nero/",
       "pubDate": "Tue, 20 Oct 2026 23:01:57 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_1537-e1791467163155-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "カードゲーム「これから私たちは、」でこれから何するか決めてみた",
-      "description": "友人と過ごす時間がマンネリ化して、ついダラダラと時間だけが過ぎてしまう。集まったはいいけれど、何をするか決められない。 だったら、「これから何をするか」をカードゲームで決めてみるのはどうだろう？ ・これからやりたいことが [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/21/2810267/",
-      "pubDate": "Tue, 20 Oct 2026 23:00:35 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-3-1.jpeg"
     },
     {
       "siteId": "brutus",
@@ -1562,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T04:30:41.415904",
+  "updatedAt": "2026-10-22T05:00:49.254828",
   "sites": [
     {
       "id": "hachima",
