@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2150話目「新設、トラップ部隊㉔」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/10/22/2833516/",
+      "pubDate": "Thu, 22 Oct 2026 12:00:04 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2150a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "杉本博司はモーツァルトに似ている。庄司紗矢香と語る、音楽と写真に流れる時間",
+      "description": "——庄司さんは杉本さんの写真作品にどのような印象をお持ちですか？ 演奏ごとに生き返る音楽と時間が伸縮する杉本の写真",
+      "link": "https://brutus.jp/post-527540/",
+      "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】JR西日本が「量産型人型ロボット」を11月から導入 →あまりのかっこよさにネット民大興奮ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579492.html",
+      "pubDate": "2026-10-22T20:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/87e9ac40-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気大食いタレントのASMR、ガチでとんでもない音がすると話題にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461198.html",
+      "pubDate": "2026-10-22T20:30:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/175f5e0f.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -522,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/2/62ad3e3b.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "一般X民「PHP脆弱性で一大事だけどサイバーのこと何もわからないから◯◯◯するしかない！」　→　大正解の対応すぎてネット中がむせび泣くｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579303.html",
-      "pubDate": "2026-10-22T12:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/1/e12ada67.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -806,19 +845,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/22/gongcha-soramachi/",
       "pubDate": "Wed, 21 Oct 2026 23:01:20 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7720-1024x767.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【日本終了】「子供1人しかいらない」過去最少の〇〇％に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461159.html",
-      "pubDate": "2026-10-22T08:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/77f19e1a.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1107,19 +1133,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/e7.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ソフトクリームなのに1000円超え！ イタリアンの名店が手掛ける『ドルチェタクボ』の美しすぎるソフトクリーム / 虎ノ門ヒルズ",
-      "description": "SNSを見ていると、繰り返し同じお店の画像が流れてくることはないだろうか？　どういう理屈か知らないけど、アルゴリズムによって「こんなの好きでしょ？」ってな具合に、何度も何度も同じお店の商品画像が流れてくるのを見ていると、 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/21/2832802/",
-      "pubDate": "Wed, 21 Oct 2026 02:30:00 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/dolcetacubo.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1247,19 +1260,6 @@
       "description": "施主の言葉 自分たちらしい「色」のある家に住みたいんです 建築家の言葉 色や家具で場を創造していく応用力に驚きました 「色が好きで、つい色のある家具を選んでしまう」と話すグラフィックデザイナー夫妻の住居です。新たな家に赤 [&#8230;]",
       "link": "https://brutus.jp/post-531004/",
       "pubDate": "Tue, 20 Oct 2026 13:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "流行写真通信 第45回：本も展覧会も避けてきたファッション写真の巨匠デヴィッド・シムズは初展覧会で自らの反抗的な完璧主義を振り返る",
-      "description": "意外な申し出からこのインタビューが実現した。「デヴィッド・シムズが初の展覧会をやるので、プロモーションでいくつか取材を受けるつもりがあり、日本のメディアではBRUTUS.jpの〈流行写真通信〉を希望している」というもの。 [&#8230;]",
-      "link": "https://brutus.jp/post-530815/",
-      "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T11:30:43.925781",
+  "updatedAt": "2026-10-22T12:00:56.485082",
   "sites": [
     {
       "id": "hachima",
