@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジでそれ】「男だけのBBQ、実は1つ重大で致命的な欠点がある！それは…」　→　納得しかない答えで男性から圧倒的共感が殺到ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579275.html",
+      "pubDate": "2026-10-22T09:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/0/90af459b.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "https://jin115.com/archives/52461153.html",
       "pubDate": "2026-10-21T21:30:37+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/0/302b06fc.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【緊急事態】PHPに致命的な脆弱性が見つかる → 即修正しないと悪用される可能性が高く、各サイトやゲームなとが軒並み緊急メンテ突入へ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579163.html",
-      "pubDate": "2026-10-21T21:30:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/3/5312fb15.jpg"
     },
     {
       "siteId": "jin",
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T00:30:41.755079",
+  "updatedAt": "2026-10-22T00:31:37.602056",
   "sites": [
     {
       "id": "hachima",
