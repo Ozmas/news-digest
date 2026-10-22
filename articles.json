@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ファインミネラル図鑑【北米編】",
+      "description": "USA【アメリカ】 土地の代名詞的な石が、各地にある鉱物大国 広大な大陸が生む鉱物の多様性は随一。イリノイのフローライト、アリゾナのウルフェナイトなど、土地ごとに代表する石がすぐ浮かぶほどだ。 Mexico【メキシコ】  [&#8230;]",
+      "link": "https://brutus.jp/post-533383/",
+      "pubDate": "Thu, 22 Oct 2026 21:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1211,19 +1224,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_1537-e1791467163155-1024x767.jpeg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "「韓国文化通信」Vol.47 〈IAAC Crafts〉主宰、陶芸家・Jeon Hyunji",
-      "description": "ライフスタイルに寄り添う陶器を提案 ──ヒョンジさんが陶芸に興味を持ったきっかけを教えてください。 ──大学卒業後は、そのまま作家として活動されていたのでしょうか？ ──なるほど、ご自身が陶芸の作家として作品を販売するだ [&#8230;]",
-      "link": "https://brutus.jp/post-529264/",
-      "pubDate": "Tue, 20 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T20:30:45.147086",
+  "updatedAt": "2026-10-22T21:00:56.253157",
   "sites": [
     {
       "id": "hachima",
