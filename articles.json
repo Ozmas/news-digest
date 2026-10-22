@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本のブルーカラー、ガチでヤバい・・・仕事仲間に○○を飲ませ身体を焼いて監禁",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461182.html",
+      "pubDate": "2026-10-22T10:30:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/e/aebb04a1.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -663,19 +676,6 @@
       "link": "https://jin115.com/archives/52461144.html",
       "pubDate": "2026-10-21T19:30:22+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/34e701ad.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】外国人「日本のものは何でも海賊版で手に入れるのが道徳的に正しい」「ゲームを海賊版で入手することに罪悪感を持つべきではない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461143.html",
-      "pubDate": "2026-10-21T19:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/1/91af2900.jpg"
     },
     {
       "siteId": "brutus",
@@ -1432,7 +1432,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-22T01:30:41.831607",
+  "updatedAt": "2026-10-22T02:00:57.287129",
   "sites": [
     {
       "id": "hachima",
