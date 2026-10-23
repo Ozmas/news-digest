@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【しゃぶ葉】映画『ゴジラ-0.0』コラボに行ってきた！「絶望のブラックチゲ」にゴジラらしさを感じ、忖度なしなコースターの引きに震えた話",
+      "description": "映画『ゴジラ-0.0』の公開（11月3日）が迫ってきた。 それに伴い、各所でコラボ企画も続々とスタート。映画公開に向けて、いよいよ本格的に盛り上がって参りました！　 そんな中『しゃぶ葉』でも、2026年10月22日よりゴ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/23/2802175/",
+      "pubDate": "Fri, 23 Oct 2026 02:30:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_9916.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】松井秀喜氏、巨人の新監督に就任！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579598.html",
+      "pubDate": "2026-10-23T11:23:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ad02e501-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ヒナまつり』 『勇者刑に処す』 『嘆きの亡霊は引退したい』などの人気作品が最大50％オフの激安セール開催！！ニコニコカドカワ祭り2026 第6弾！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461229.html",
+      "pubDate": "2026-10-23T11:20:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/00d2ca7e.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【知ってた】○○政府系ハッカー集団、9月から世界中にサイバー攻撃していたことが発覚",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461245.html",
+      "pubDate": "2026-10-23T11:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90b2410d.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "星野太｜ジャック・ハルバスタム『クィアな時間と場所で──トランスジェンダーの身体とサブカルチャーの生』",
+      "description": "翻訳：菅野優香、羽生有希、井上絵美子 発行：花伝社 発行日：2025/12/25 発行元ウェブサイト：https://www.kadensha.net/book/b10153044.html 個人的な回想から始めることを [&#8230;]",
+      "link": "https://artscape.jp/article/80927/",
+      "pubDate": "Fri, 23 Oct 2026 02:00:38 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -639,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6fa10797.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】『モンハンワイルズ』体験版でスイッチ2本体が壊れたとの報告「フリーズして再起動しなくなった」「電源がすぐ落ちる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579517.html",
-      "pubDate": "2026-10-22T23:30:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4e18c84b.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,32 +715,6 @@
       "link": "https://jin115.com/archives/52461201.html",
       "pubDate": "2026-10-22T23:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/25b3b091.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「5万円のワンピース福袋購入した！17万相当のカードが入ってるらしい！」 → ヤバすぎる物が届いて終わるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461208.html",
-      "pubDate": "2026-10-22T22:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bd4761fc-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ラプラス・ダークネスさん、栃木県のPR動画が急遽配信延期に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461213.html",
-      "pubDate": "2026-10-22T21:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2d94c7a2.jpg"
     },
     {
       "siteId": "brutus",
@@ -1211,19 +1237,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/21/00/subbuzz/0GVRAQ3L_.jpg?crop=3244:2163;430,244&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "日本最古のそばチェーン、創業64年にして新名物 / 都そば『ぽて天そば』が大阪名物にしても良いレベルの湯加減",
-      "description": "現存する立ち食いそばチェーンの中で日本最古と言われているのが、今は関西で展開される『都そば』だ。確かに鶴橋店の軒には「創業昭和37年（since 1962～）」と記載されている。 日常に溶け込むように佇むチェーンではある [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/21/2833053/",
-      "pubDate": "Wed, 21 Oct 2026 09:00:16 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/miyako5.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1588,19 +1601,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/15/01/subbuzz/tmZRJ3Mfo.jpg?crop=2466:1644;0,704&resize=1250:830"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "鵜尾佳奈｜公営ギャラリーという場から企てる──名古屋市民ギャラリー栄が重ねる挑戦",
-      "description": "名古屋市民ギャラリー栄は、中区役所が入るビルの7階と8階にあり、大小11の展示室で構成されている。天井高は3メートルで、壁はライトグレーのクロス、床は掃除がしやすいリノリウム。ほかの公営ギャラリーよろしく、基本的に壁に釘 [&#8230;]",
-      "link": "https://artscape.jp/article/80388/",
-      "pubDate": "Fri, 16 Oct 2026 02:00:24 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T02:00:50.087793",
+  "updatedAt": "2026-10-23T02:30:40.775916",
   "sites": [
     {
       "id": "hachima",
