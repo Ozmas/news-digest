@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "KDDI関連企業が火元のモンゴル大規模火災、元朝青龍がまさかの反応「一方的な日本人が悪いじゃなくて…」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579908.html",
+      "pubDate": "2026-10-23T20:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/5/457a83d2.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ホームリネン、なに使ってますか？Vol.3",
+      "description": "グラフィックデザイナー・大坪メイ インド製の布 仙台の工芸品店〈光原社〉にて購入したインド製の布たち。大判のブルーのものは、プリンターに掛けて埃除けとして使っています。 小さいものはハンカチとして持ち歩いたり、首に巻いて [&#8230;]",
+      "link": "https://brutus.jp/post-524220/",
+      "pubDate": "Fri, 23 Oct 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気漫画家さん、「日本の漫画にあまり黒人が登場しない理由」を暴露してしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461251.html",
+      "pubDate": "2026-10-23T19:40:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/46a04840.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -37,7 +76,7 @@
       "title": "『黄泉のツガイ』最新13巻まで「50％ポイント還元」セール！3,835円分返ってくる！アニメ2期も決定した荒川弘先生の最新作！代表作『鋼の錬金術師』も全巻ポイント還元！",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52461281.html",
-      "pubDate": "2026-10-23T19:20:39+09:00",
+      "pubDate": "2026-10-23T19:20:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fb88ac5.jpg"
     },
     {
@@ -639,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fdb74d4f.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】小学生からキャバ嬢を目指して容姿磨きをしていた19歳キャバ嬢のビジュアル、ガチで可愛すぎる！　お前らの想像の300倍以上セクシーｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579600.html",
-      "pubDate": "2026-10-23T11:40:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/6/462b1a90.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -819,19 +845,6 @@
       "link": "https://brutus.jp/post-528460/",
       "pubDate": "Fri, 23 Oct 2026 00:50:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "生活保護を受けているなろう小説家「苦労して小説を書いてヒットしたのに収益が没収。もう小説書きません」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461234.html",
-      "pubDate": "2026-10-23T09:30:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50073187.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1182,19 +1195,6 @@
       "description": "上京のきっかけは、短大時代に大阪で知った、シティボーイズの舞台だった。 「シティボーイズのようなことがしたいと思ってはいたものの、具体的に何をすればいいかわからず、とりあえず『演劇ぶっく』だけ買っていた。そこにはいつも小 [&#8230;]",
       "link": "https://brutus.jp/post-425826/",
       "pubDate": "Thu, 22 Oct 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ピザ職人は、靴に何を求めるか。〈Maple Pizza〉高橋政智さんと〈SOREL〉",
-      "description": "ロサンゼルスで出会った一枚 東京メトロ銀座線の田原町駅から、徒歩約3分。ピンクの外壁に、「FINEST QUALITY（最高品質）」の文字が入った木枠の窓が並ぶ。 2022年に高橋政智さんが開いた〈Maple Pizza [&#8230;]",
-      "link": "https://brutus.jp/post-531494/",
-      "pubDate": "Thu, 22 Oct 2026 00:50:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T10:30:42.404048",
+  "updatedAt": "2026-10-23T11:00:54.359526",
   "sites": [
     {
       "id": "hachima",
