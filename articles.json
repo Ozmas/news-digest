@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "とあるセブンイレブンさん、この商品を堂々とおつまみコーナーに並べてしまう… それ、おつまみじゃねーぞ…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579612.html",
+      "pubDate": "2026-10-23T14:30:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/a/ba3a23ec.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "デジタル庁、ガチでやらかす",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461252.html",
+      "pubDate": "2026-10-23T14:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f380f116.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "X民、ヤバすぎる八百屋を見つけてしまう… 「異様な雰囲気だった。商品はかなりの割合で腐ってドロドロ、腐敗臭でハエもすごくて地獄絵図」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10579609.html",
@@ -717,19 +743,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大食いタレント・もえあずによる「たまご麺すすりASMR」が轟音すぎて「銃撃戦みたい」と言われてしまうｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579502.html",
-      "pubDate": "2026-10-23T05:30:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5da89421-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +780,6 @@
       "link": "https://jin115.com/archives/52461220.html",
       "pubDate": "2026-10-23T03:00:56+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/e/3e0d5805.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "匿名掲示板5chを見てる人「今ここでスレに男性器を貼ったらどうなるんやろ。投稿してみよ」 → 最悪なことになるｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461216.html",
-      "pubDate": "2026-10-23T02:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/6/c65723e0-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T05:00:50.498024",
+  "updatedAt": "2026-10-23T05:30:40.592866",
   "sites": [
     {
       "id": "hachima",
