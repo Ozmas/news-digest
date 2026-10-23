@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ニンテンドークラシックス、GB『モグラーニャ』『ファンタズム』『66匹のワニ大行進』が追加！　現在数万円のプレミアソフトもあるぞおおお",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579589.html",
+      "pubDate": "2026-10-23T11:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6db332db.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "車を降りたら即乗船!? 新潟の『道の駅 阿賀の里』が前代未聞の大自然テーマパークでした / 900駅制覇マニア突撃レポ",
+      "description": "全国に1200以上も存在する「道の駅」。地元の新鮮な野菜が買える直売所やご当地グルメが味わえるお食事処はもちろん、最近では温泉やキャンプ場、果ては遊園地まで併設されたエンタメ満載のスポットが増えている。道の駅マニアの私（ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/23/2812854/",
+      "pubDate": "Fri, 23 Oct 2026 02:00:04 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_8839.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "フランス人「騙されないで！日本人を煽ってるのはフランス語を話す移民や黒人・アラブ系です！生粋のフランス人と彼らを見分ける特徴が“コレ”です！日本万歳！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461238.html",
+      "pubDate": "2026-10-23T10:30:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/217ad993.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】FX自動売買用VPS「お名前.com デスクトップクラウド」が不正アクセス！　口座に侵入され勝手に取引・数百万円の損失が出たという客の報告も…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579587.html",
+      "pubDate": "2026-10-23T10:30:15+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
+    },
+    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -600,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4e18c84b.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女さん「男だけのBBQは『どんな女とヤりたいか』『上司の悪口』『妻の愚痴』しか叫ばない」 ← めちゃくちゃ嘘松扱いされてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579515.html",
-      "pubDate": "2026-10-22T23:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a42ba21.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -624,19 +663,6 @@
       "link": "https://jin115.com/archives/52461201.html",
       "pubDate": "2026-10-22T23:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/25b3b091.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【薄毛問題】玉川徹さん「ホームレスはあんだけ汚い生活をしていて、フサフサな人がいる」と生放送で発言 → 謝罪",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579504.html",
-      "pubDate": "2026-10-22T22:30:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/f/5f9ea968.jpg"
     },
     {
       "siteId": "jin",
@@ -676,19 +702,6 @@
       "link": "https://brutus.jp/post-533648/",
       "pubDate": "Thu, 22 Oct 2026 12:24:06 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "巡査部長、「家の敷地に弱った猫がいる」と通報を受け保護するも別の場所に捨てる→動物愛護法違反の疑いで書類送検→同情の声が殺到",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461205.html",
-      "pubDate": "2026-10-22T21:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/6/a6cfcf6a-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1211,19 +1224,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/miyako5.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「全国発売して！」と熱望した推し商品がまさかの復活！ ローソンの「もちべぇ」改め「もちどー」を食べてみた",
-      "description": "今年2月、千葉県内のローソンで偶然出会った「もちべぇ」という商品。 171円とは思えないおいしさに感動し、記事の最後で思わず「ローソンさん！ 今すぐ全国展開しておくれ～！」 と訴えたほど、個人的に大ヒットだった。 そんな [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/21/2833232/",
-      "pubDate": "Wed, 21 Oct 2026 08:00:58 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/mochido-6.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T01:30:40.168729",
+  "updatedAt": "2026-10-23T02:00:50.087793",
   "sites": [
     {
       "id": "hachima",
