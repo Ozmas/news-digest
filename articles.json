@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "勝手に方向性決めんな！ シレっと自分好みにする委員長！　隣りの席の子の様子がおかしい第71回「文化祭の出し物決め」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/24/2811266/",
+      "pubDate": "Fri, 23 Oct 2026 23:00:22 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari71-1koma.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "歌舞伎俳優・尾上右近と巡る〈江戸東京博物館〉。江戸から東京の変遷を3次元で体感",
+      "description": "歌舞伎俳優の尾上右近さんは、現代美術家との対談集を出すなどアート好きとして知られ、折に触れミュージアムを訪れている。〈江戸東京博物館〉がリニューアルオープンしたことを知り、多忙な中、4月に訪れたという。 「歌舞伎では江戸 [&#8230;]",
+      "link": "https://brutus.jp/post-533712/",
+      "pubDate": "Fri, 23 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【10月24日〜25日】今週末必見の“アート＆デザイン”まとめ！",
+      "description": "カーサが注目する、今週末のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
+      "link": "https://casabrutus.com/categories/art/495426",
+      "pubDate": "Fri, 23 Oct 2026 22:55:50 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【Kindleセール】『GAMBLE FISH』、『凍牌』が各99円セール！『鋼の錬金術師』が全巻50%ポイント還元！小説『機動戦士Ｖガンダム』が79％オフの110円！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580002.html",
+      "pubDate": "2026-10-24T07:30:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/b/cb08904a.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -520,19 +572,6 @@
       "link": "https://jin115.com/archives/52461281.html",
       "pubDate": "2026-10-23T19:20:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fb88ac5.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】佐川急便、不正アクセスで個人情報最大5323万件流出か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579904.html",
-      "pubDate": "2026-10-23T19:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b8e5145b-s.png"
     },
     {
       "siteId": "jin",
@@ -1198,32 +1237,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2732-2.png"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1本59円】ワンダのブラックコーヒー（500ml）24本セットが2498円 → 1412円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。飲料・食品・アパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、定番コーヒーブランド・ワンダのブラックコーヒー（500ml）24本 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/22/2833501/",
-      "pubDate": "Thu, 22 Oct 2026 04:09:24 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Amazon-×-RN24_1212-1.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】ラベリングでも活躍！〈docket store〉の定規",
-      "description": "丁寧に暮らすあの人へドット文字が綺麗に書ける定規 〈docket store〉の定規 大阪府箕面市を拠点にする〈ドケットストア〉。文具と収納用品の“ラベリング”をテーマに掲げ、ユニークなツールを展開している。 こちらはス [&#8230;]",
-      "link": "https://brutus.jp/post-533250/",
-      "pubDate": "Thu, 22 Oct 2026 03:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1404,19 +1417,6 @@
       "link": "https://www.buzzfeed.com/jp/munenoriumeki/chiikawa-monaou",
       "pubDate": "Tue, 20 Oct 2026 05:01:05 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/06/subbuzz/_LJxWitBD.jpg?crop=1057:705;0,393&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【彬子女王のモダン建築めぐり】旧近衛師団司令部庁舎",
-      "description": "英国・オックスフォード大学大学院で博士号を取得され、美術やデザインへの造詣が深い彬子女王殿下が、明治、大正、昭和初期に建てられたモダン建築をめぐる本連載。その頃は西洋建築が輸入された時代であり、和風と洋風が折衷した独特な様式が魅力で、皇室ゆかりの施設も多く建てられています。そんなモダン建築について、彬子女王殿下ならではの視点で綴っていきます。\n\n第15回は〈旧近衛師団司令部庁舎〉。千鳥ヶ淵に佇む、",
-      "link": "https://casabrutus.com/categories/architecture/494763",
-      "pubDate": "Tue, 20 Oct 2026 07:25:59 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T22:30:37.788501",
+  "updatedAt": "2026-10-23T23:00:52.207056",
   "sites": [
     {
       "id": "hachima",
