@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "“ルーツなき街”で考える。ラッパー・荘子itと巡る『路上、お邪魔ですか？』展",
+      "description": "“ルーツなき街”で考える、「路上」にまつわるエトセトラ 「“たいていの者は、シャレた店とテニスコートへ向かい、それが出来ない不器用な連中はどうしたかというと、路上にさまよい出て、その辺にころがるヘンテコなものを観察し始め [&#8230;]",
+      "link": "https://brutus.jp/post-531740/",
+      "pubDate": "Fri, 23 Oct 2026 07:30:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『カイジ』の声真似で人気のYouTuber（登録者73万人）、ガチでヤバいことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461261.html",
+      "pubDate": "2026-10-23T16:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/004145a3.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "東京ドーム、後楽園ホールの帰り道。水道橋で立ち寄りたい酒場5軒",
+      "description": "水道橋 スタンドヒーロー 豪快な厚切り刺身に驚く。板前が手がける10坪の立ち飲み店 わずか10坪ほどの空間に、多い日は1日100人を超える客が訪れる立ち飲み店。板前としてホテルや割烹で修業を重ねてきた店主の井上勝司さんが [&#8230;]",
+      "link": "https://brutus.jp/post-534063/",
+      "pubDate": "Fri, 23 Oct 2026 07:00:37 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「ぶっちゃけVtuberって都合よくね？リスナーには◯◯を強要するのに状況が変われば中の人がいるんですよ！って変わるのは当たり前だし」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579635.html",
+      "pubDate": "2026-10-23T16:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75fe670b.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -691,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/b/6b7b1879.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【予約開始】switch2/switch『続ポートピア連続殺人事件:忘却の埋葬』、Amazonで予約スタート！　パッケージ版にはファミコン版も収録。 限定版特典はサントラCD、ブックレットなど",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579568.html",
-      "pubDate": "2026-10-23T07:30:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/70ec0a20.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -795,19 +834,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db099408.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "巨人のドラフト1位で指名された高校生、表情がヤバいと話題に・・・「人生でほんまに◯◯な時にだけする顔で草」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461221.html",
-      "pubDate": "2026-10-23T04:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/7652326f.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -858,19 +884,6 @@
       "link": "https://www.buzzfeed.com/jp/kaitotakashima/natalie-harp-and-katie-zacharia-weird-photo",
       "pubDate": "Thu, 22 Oct 2026 07:41:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/08/subbuzz/aC_hZ2ohB.jpg?crop=4376:2917;0,0&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "“ルーツなき街”で考える。ラッパー・荘子itと巡る『路上、お邪魔ですか？』展",
-      "description": "“ルーツなき街”で考える、「路上」にまつわるエトセトラ 「“たいていの者は、シャレた店とテニスコートへ向かい、それが出来ない不器用な連中はどうしたかというと、路上にさまよい出て、その辺にころがるヘンテコなものを観察し始め [&#8230;]",
-      "link": "https://brutus.jp/post-531740/",
-      "pubDate": "Thu, 22 Oct 2026 11:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1195,19 +1208,6 @@
       "description": "施主の言葉 家族4人。個室も扉も要りません 建築家の言葉 プライベート空間の新たな可能性に気づかされた ワンルーム空間でオープンに過ごしたい。家族4人それぞれに最低限の収納と眠れる空間があればいい。そんなお施主さんの希望 [&#8230;]",
       "link": "https://brutus.jp/post-531010/",
       "pubDate": "Wed, 21 Oct 2026 13:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "美しく重い、映画の一言。日々言葉と対峙する5名が選ぶ",
-      "description": "九段理江・選 ウォーアイニー 『花とアリス』（'04）監督／岩井俊二 知ったばかりの言葉なら素直に愛を伝えられる 記録しないと吹き飛んでしまいそうな少女たちの些細な日常が描かれる本作。観ていると、むき出しの感情で傷つき、 [&#8230;]",
-      "link": "https://brutus.jp/post-474790/",
-      "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T07:00:51.112463",
+  "updatedAt": "2026-10-23T07:30:42.005136",
   "sites": [
     {
       "id": "hachima",
