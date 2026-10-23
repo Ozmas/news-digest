@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『凶乱令嬢ニア・リストン』8巻まで「50％ポイント還元」セール！最新9巻発売！2,735円分返ってくる！TVアニメ放送中！最強の英雄が病弱令嬢に転生するも無双しまくり",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461275.html",
+      "pubDate": "2026-10-23T18:20:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/a/ba8b0426.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "日本トレカ協会さん、2ヶ月ぶりにポストするも怪文書すぎてカードゲーマーたち困惑ｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579840.html",
+      "pubDate": "2026-10-23T18:20:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/6/46843486-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ジョジョ7部』EDを担当して大炎上したラッパーさん、ノーダメすぎてさらに燃料を投下してしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461268.html",
+      "pubDate": "2026-10-23T18:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/d/7d3262fb.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "谷本道哉先生に1分間エクササイズを教わったら、なぜか最後は写真の合成を提案された話",
+      "description": "普段、座って仕事をすることが多く、筋肉不足が気になっている私。 そんなときに知ったのが、たった1分でできるという「骨活＆筋活エクササイズ」だ。 1分なら私にもできそう！　ということで、専門家から直接教えてもらえるメディア [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/23/2832798/",
+      "pubDate": "Fri, 23 Oct 2026 09:00:43 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/honekatsu-52.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『青鬼』がまさかのVtuber化しゲーム実況！一切喋らない「無言スタイル」で配信、遊ぶタイトルは青鬼ではなくあの鬼狩ゲームｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579763.html",
+      "pubDate": "2026-10-23T18:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/00d64940-s.jpg"
+    },
+    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -639,19 +704,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3117_1920.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【終了】デジタル庁、問い合わせフォーム入力の個人情報まで1万件超が漏洩か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579583.html",
-      "pubDate": "2026-10-23T10:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/94b44ae3.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +754,6 @@
       "link": "https://brutus.jp/post-528460/",
       "pubDate": "Fri, 23 Oct 2026 00:50:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】女子「待ってやばい、いま私全裸なんだけど風呂入ろうとしたら◯◯◯になってた！これ人が潜入してる証拠？」パシャッ　→　警察に意見を聞いた結果…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579580.html",
-      "pubDate": "2026-10-23T09:30:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f149e60.jpg"
     },
     {
       "siteId": "jin",
@@ -819,32 +858,6 @@
       "link": "https://brutus.jp/post-529228/",
       "pubDate": "Thu, 22 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】『KDDI』、ガチで取り返しのつかない大事件を海外で引き起こしていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461224.html",
-      "pubDate": "2026-10-23T07:40:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/b/6b7b1879.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安速報】鋼の錬金術師、薬屋のひとりごと、魔法陣グルグルなどが”実質半額”になるKindleセール開始！ヤニすう、着せ恋、わたモテなども対象のスクエニ作品特集！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461232.html",
-      "pubDate": "2026-10-23T07:20:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d298df2d.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1118,19 +1131,6 @@
       "link": "https://casabrutus.com/categories/fashion/494674",
       "pubDate": "Thu, 22 Oct 2026 02:25:59 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【全国で2店舗だけ】デニーズの激レアデザート「自家製パンプディング」を実際に食べに行ってみた！",
-      "description": "世の中にはさまざまな限定品というものが存在する。実はファミレスのデニーズにもあるのをご存じだろうか。 それがデニーズ新宿西口店と赤坂駅前店の2店舗のみで提供されている「自家製パンプディング ア・ラ・モード」だ。 “ここで [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/22/2813973/",
-      "pubDate": "Thu, 22 Oct 2026 02:00:46 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/d11.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T09:00:51.553305",
+  "updatedAt": "2026-10-23T09:29:13.951561",
   "sites": [
     {
       "id": "hachima",
