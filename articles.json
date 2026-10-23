@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ロックの話をしよう。Vol.19「ウッドストックの夢の跡」",
+      "description": "ロックが流行らなくなった。そんな身も蓋もない話から、この対談は始まる。 かつてロックは、若者の音楽であり、バンドの音楽であり、衝動やロマンや思想を映し出す音楽だった。ギターを持つこと、バンドを組むこと、レコードを買うこと [&#8230;]",
+      "link": "https://brutus.jp/post-528899/",
+      "pubDate": "Fri, 23 Oct 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【終わり】佐川急便、個人情報5323万件流出",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461274.html",
+      "pubDate": "2026-10-23T18:40:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "タイムズカーのパーク24「情報漏えい対象者に3000円配るよ。許して」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579901.html",
+      "pubDate": "2026-10-23T18:40:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/7/a7fd693f-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -665,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/217ad993.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジ注意】FX自動売買用VPS「お名前.com デスクトップクラウド」が不正アクセス！　口座に侵入され勝手に取引・数百万円の損失が出たという客の報告も…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579587.html",
-      "pubDate": "2026-10-23T10:30:35+09:00",
-      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -832,19 +858,6 @@
       "link": "https://rocketnews24.com/2026/10/23/2833550/",
       "pubDate": "Thu, 22 Oct 2026 23:00:55 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/collage_5604a7.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本共産党から出馬予定の女性「応援してくれるアイドルユニットを紹介します！」→「これ生成AIじゃね？」「性的搾取を批判してた共産党がやることか？」と批判殺到",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461225.html",
-      "pubDate": "2026-10-23T08:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/65fa20e6.jpg"
     },
     {
       "siteId": "brutus",
@@ -1196,19 +1209,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/22/gongcha-soramachi/",
       "pubDate": "Wed, 21 Oct 2026 23:01:20 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7720-1024x767.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "あなたの国で作られた近年話題の社会派映画は？：BRUTUS CITY JOURNAL",
-      "description": "🇨🇳 人気俳優の演技もあって注目に。人身売買がテーマの映画『三滴血（サンディシュエ）』 中国／北京 2025年11月に公開された『三滴血』は、中国で今も発生が絶えない、家族・親類縁者による人身売買がテーマ。人気俳優の胡歌 [&#8230;]",
-      "link": "https://brutus.jp/post-511272/",
-      "pubDate": "Wed, 21 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T09:30:41.416212",
+  "updatedAt": "2026-10-23T10:00:51.965143",
   "sites": [
     {
       "id": "hachima",
