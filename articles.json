@@ -2,6 +2,97 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "何も考えずAmazonでポチり続けていたプロテイン、6年前の購入履歴と比較したら値上がりがエグくて引いた / しかも内容量まで減っていた",
+      "description": "週に数度の筋トレは欠かさない。筋肉が悲鳴をあげるまで追い込んでから飲むプロテインは、この世のものとは思えないほどうまくて神々しい存在だ。 そんなプロテイン。あなたは何を飲んでいる？ 私はグリコの「パワープロダクション マ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/23/2833602/",
+      "pubDate": "Fri, 23 Oct 2026 01:00:30 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3117_1920.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【朗報】スクエニさん、運営していたソシャゲがサ終しまくった結果、なぜか業績が急回復ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461235.html",
+      "pubDate": "2026-10-23T10:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c764d80d.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "京の余白を持ち帰る。わざわざ買いに行きたい、京都のお土産〜調味料編〜",
+      "description": "〈長文屋〉の七味唐辛子 調合する景色と香りもごちそう。自分好みの七味が作れる専門店 「大辛で山椒多めね」「シソは抜きで」。そんな自分好みの七味唐辛子が手にできるのも、足を運んでこそ。ここは、北野天満宮のお膝元で4代続く七 [&#8230;]",
+      "link": "https://brutus.jp/post-463779/",
+      "pubDate": "Fri, 23 Oct 2026 01:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "Vol.12 いつもの暮らしに、〈天童木工〉を。〈fennica〉の「Tendo in daily life」",
+      "description": "名作家具から工場の帽子まで 「デザインとクラフトの橋渡し」をテーマに掲げる〈BEAMS〉発のレーベル〈fennica（フェニカ）〉と、山形県の家具メーカー〈天童木工〉が、特別なコレクション「Tendo in daily  [&#8230;]",
+      "link": "https://brutus.jp/post-530155/",
+      "pubDate": "Fri, 23 Oct 2026 00:55:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「好奇心が見せてくれる、どこにもない風景」とは？GREGORY × BRUTUS スペシャルトーク・レポート",
+      "description": "——そもそも、世界各地の「奇界」を撮るようになったのは、いつ頃からでしょうか。 はじめから「奇界」の写真を撮ろうと思っていたわけではないんです。写真を撮り始めたのは、2000年頃。美術大学を経て、アメリカへ留学し、エリア [&#8230;]",
+      "link": "https://brutus.jp/post-528460/",
+      "pubDate": "Fri, 23 Oct 2026 00:50:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】女子「待ってやばい、いま私全裸なんだけど風呂入ろうとしたら◯◯◯になってた！これ人が潜入してる証拠？」パシャッ　→　警察に意見を聞いた結果…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579580.html",
+      "pubDate": "2026-10-23T09:30:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f149e60.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "生活保護を受けているなろう小説家「苦労して小説を書いてヒットしたのに収益が没収。もう小説書きません」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461234.html",
+      "pubDate": "2026-10-23T09:30:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50073187.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -561,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2d94c7a2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スイッチ2版『モンハンワイルズ』主人公が突然〇〇になるとんでもないバグが起こってしまうｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579503.html",
-      "pubDate": "2026-10-22T21:30:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0ba0dff1.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -637,32 +715,6 @@
       "link": "https://www.buzzfeed.com/jp/kaitotakashima/natalie-harp-and-katie-zacharia-weird-photo",
       "pubDate": "Thu, 22 Oct 2026 07:41:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/08/subbuzz/aC_hZ2ohB.jpg?crop=4376:2917;0,0&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気大食いタレントのASMR、ガチでとんでもない音がすると話題にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461198.html",
-      "pubDate": "2026-10-22T20:30:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/175f5e0f.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】『バイオハザード アウトブレイク』シリーズ、海外の割れ厨によってブラウザで遊べるようになってしまう・・・無料でオンラインプレイにも対応",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461207.html",
-      "pubDate": "2026-10-22T20:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0a0eb42-s.png"
     },
     {
       "siteId": "brutus",
@@ -1146,19 +1198,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/miyako5.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "清く澄んだスープに細麺がつるりと躍る。胃袋が浄化されそうな美しいラーメン3選",
-      "description": "清く澄んだスープに細麺がつるりと躍る ラーメン大好き小泉さん、もいいけど、ラーメン大好きPさんもいいよ（自画自賛）。でも、オタクではなく、ただの好き者だ。あ、意味が違うか。 小さい頃からラーメンが大好き。ラーメンならば、 [&#8230;]",
-      "link": "https://brutus.jp/post-427949/",
-      "pubDate": "Wed, 21 Oct 2026 09:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1170,45 +1209,6 @@
       "link": "https://rocketnews24.com/2026/10/21/2833232/",
       "pubDate": "Wed, 21 Oct 2026 08:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/mochido-6.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "冬こそ、地中海気分を。〈BIELO〉のキャップ：Brutus Best Bets",
-      "description": "冬こそ、地中海気分を 冬のニットが、どこか陽気。それが〈ビエロ〉らしさだ。スペイン・カタルーニャの自社工場は、40年以上にわたり名だたるラグジュアリーブランドの製品を手がけてきた。そのクラフツマンシップに、地中海らしい色 [&#8230;]",
-      "link": "https://brutus.jp/post-531000/",
-      "pubDate": "Wed, 21 Oct 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "マクドナルド『ザクザクジューシーマック』vs KFC「43年ぶりのもも肉バーガー」食べ比べて分かった決定的な違い",
-      "description": "2026年10月21日、マクドナルドで『ザクザクジューシーマック』の取り扱いが始まった。定番の「チキンフィレオ」に代わるマックの新チキンバーガーで、鶏もも肉を使用していることが最大の特徴だ。 鶏もも肉を使用したチキンバー [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/21/2833070/",
-      "pubDate": "Wed, 21 Oct 2026 05:50:40 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/zakuzaku02.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】沁み渡るノンカフェイン。〈TYNK〉の「ブレンドティー」シリーズ",
-      "description": "漢方を愛するあの人へ味わいに感動、カフェインレスのクラフトティー 〈TYNK〉の「ブレンドティー」シリーズ 2022年にデビューし、今年7月には東京・兜町に待望の実店舗をオープンしたクラフトティープランド〈TYNK（ティ [&#8230;]",
-      "link": "https://brutus.jp/post-533658/",
-      "pubDate": "Wed, 21 Oct 2026 03:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T00:30:43.497396",
+  "updatedAt": "2026-10-23T01:00:48.077536",
   "sites": [
     {
       "id": "hachima",
