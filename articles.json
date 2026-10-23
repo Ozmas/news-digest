@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】カイジのモノマネで人気の大物ユーチューバー（登録者数73万人）、著作権侵害の申し立てで全動画削除へ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579577.html",
+      "pubDate": "2026-10-23T09:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/0/a0af6a5c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「ブサイク金持ち」と「貧乏イケメン」、女性が選ぶのはどっち？→マッチングアプリで分析した結果、明らかになる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461230.html",
+      "pubDate": "2026-10-23T09:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/e/fe4bfc95.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -561,19 +587,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "KAITO問題ついに終戦！キンプリ髙橋海人さんが公式ハッシュタグ「KAITO_SALTBOY」を使用すると発表　ボカロファンとの混同受け明確化",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579494.html",
-      "pubDate": "2026-10-22T21:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fd5f2ed9.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -613,6 +626,19 @@
       "thumbnail": ""
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "トランプ氏、機内での側近との1枚が“どこか不気味”と話題に ⇨「どうして表情がそっくりなの」「ちょっと怖い」",
+      "description": "ドナルド・トランプ米大統領が10月13日（現地時間）、アラスカ州を訪問。11月の中間選挙に向けて、共和党のダン・サリバン上院議員らの応援演説を行うため、現地入りした。しかし、到着時の側近との1枚が“どこか不気味”だとして、SNSで波紋を呼んでいる。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/kaitotakashima/natalie-harp-and-katie-zacharia-weird-photo",
+      "pubDate": "Thu, 22 Oct 2026 07:41:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/08/subbuzz/aC_hZ2ohB.jpg?crop=4376:2917;0,0&resize=1250:830"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +676,6 @@
       "link": "https://brutus.jp/post-531740/",
       "pubDate": "Thu, 22 Oct 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "GMO、FX口座ログイン情報流出の可能性を発表！マジで今すぐ対処しろ！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461211.html",
-      "pubDate": "2026-10-22T19:30:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/27e52031.png"
     },
     {
       "siteId": "rocketnews",
@@ -1250,19 +1263,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_1537-e1791467163155-1024x767.jpeg"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "飛び跳ねるうさぎの動画に配置された“謎のマーク”⇒まさかの用途に「レディの嗜み」",
-      "description": "飼い主さんの足元でぴょんぴょん跳ねるうさぎの動画に配置された、意味深な“うさぎマーク”。見ているとマークが配置されていた理由とその重要性が伝わってくる動画が、SNSで話題になっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/kahorimachida/usagimark20261019",
-      "pubDate": "Tue, 20 Oct 2026 18:01:05 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/19/06/subbuzz/v9u9FClmW.jpg?crop=964:643;0,205&resize=1250:830"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T00:00:53.732712",
+  "updatedAt": "2026-10-23T00:30:43.497396",
   "sites": [
     {
       "id": "hachima",
