@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『無能なナナ』全15巻すべて「50％ポイント還元」セール！5,440円分返ってくる！先月ついに完結！無能力者の少女が「知略」を駆使して超能力者たちを暗殺していく衝撃作",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461278.html",
+      "pubDate": "2026-10-23T21:40:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26df30cd.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -741,19 +754,6 @@
       "link": "http://blog.esuteru.com/archives/10579610.html",
       "pubDate": "2026-10-23T13:00:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/d/0dcf3126.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "あまりにも強すぎるおばあちゃん(93)見つかるｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461246.html",
-      "pubDate": "2026-10-23T12:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96bc0ca3.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T12:30:46.104341",
+  "updatedAt": "2026-10-23T13:00:55.529013",
   "sites": [
     {
       "id": "hachima",
