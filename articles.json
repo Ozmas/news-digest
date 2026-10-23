@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "パナソニックHD、約33万人分の個人情報流出！流行りの不正アクセスかと思いきや、社員がとんでもないやらかしｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579923.html",
+      "pubDate": "2026-10-23T21:30:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/8533db12.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『私がモテないのはどう考えてもお前らが悪い！』最新28巻まで「50％ポイント還元」セール！8,147円分返ってくる！陰キャの日常からハーレム百合漫画になって人気に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461284.html",
+      "pubDate": "2026-10-23T21:20:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/3/c3326d8c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「このアイドル、秋なのにヘソ出し衣装・・・？妙だな」→ヘソ部分を拡大した結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461265.html",
+      "pubDate": "2026-10-23T21:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/f/2f156f52.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】セブンイレブンの客離れが止まらない…ローソンとファミマは過去最高益を記録、セブンは減益",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579916.html",
+      "pubDate": "2026-10-23T21:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/6/76bd73c0.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -691,32 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/d/0dcf3126.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ドラッグストアでパートの女性店員の態度にブチギレたブラジル国籍の男性（26）、自宅に戻ってハサミを取り、店員に滅多刺ししたとして逮捕される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579591.html",
-      "pubDate": "2026-10-23T12:40:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/6/968ed0bb-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】日ハム派アイドル、元モー娘。・牧野真莉愛さんがTVでヘソ丸出し！　→　ファンが拡大した結果、正体はもっとヤバい◯◯だったと判明ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579607.html",
-      "pubDate": "2026-10-23T12:20:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/1/5196c551.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -756,19 +782,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/gochispa.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "松井秀喜さん、巨人の新監督就任へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461249.html",
-      "pubDate": "2026-10-23T11:40:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fdb74d4f.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -793,19 +806,6 @@
       "link": "https://casabrutus.com/categories/fashion/494697",
       "pubDate": "Fri, 23 Oct 2026 02:25:29 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ヒナまつり』 『勇者刑に処す』 『嘆きの亡霊は引退したい』などの人気作品が最大50％オフの激安セール開催！！ニコニコカドカワ祭り2026 第6弾！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461229.html",
-      "pubDate": "2026-10-23T11:20:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/00d2ca7e.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T12:00:54.021543",
+  "updatedAt": "2026-10-23T12:30:46.104341",
   "sites": [
     {
       "id": "hachima",
