@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "【割引コード配布】iHerbで最大40%オフ！サプリや大容量ヘアマスクなど、セールでチェックしたいアイテム16選",
+      "description": "最大40％オフの「WELLフェス」が、iHerbで10月29日まで開催！お買い物に使えるプロモコードとともに、ラクトビフ30や大容量ヘアマスク、缶入り洗剤など、気になる16アイテムをご紹介します。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/buzzfeedjapanshopping/iherb-well-fes-october2026",
+      "pubDate": "Fri, 23 Oct 2026 04:51:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/04/thumb/dj3CxoXUO.jpg?crop=2999:1999;0,1&resize=1250:830"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "タイムズカー「すまん、情報漏洩した人にはお詫びで3000円渡すから許してｗ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461273.html",
+      "pubDate": "2026-10-23T17:40:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/677eaf80.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【世も末】令和の子どもたちの間で「少林寺レーシング」という謎の行為が流行中　「ショウリンジ！」叫んで交番に突撃",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579657.html",
+      "pubDate": "2026-10-23T17:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/f/cf0241f7-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -691,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50073187.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】カイジのモノマネで人気の大物ユーチューバー（登録者数73万人）、著作権侵害の申し立てで全動画削除へ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579577.html",
-      "pubDate": "2026-10-23T09:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/0/a0af6a5c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -845,19 +871,6 @@
       "link": "https://casabrutus.com/categories/design/495106",
       "pubDate": "Thu, 22 Oct 2026 22:00:45 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "移民政策、やはり日本人の雇用を奪っていた模様　「人手不足だから外国人が必要」は嘘だった・・・！？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461233.html",
-      "pubDate": "2026-10-23T07:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/2/e248e197.jpg"
     },
     {
       "siteId": "brutus",
@@ -1542,19 +1555,6 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "懐かしすぎて滅…「たまごっち」のキッチンタイマー冷蔵庫に貼ってみた《平成リバイバル》",
-      "description": "リバイバルブームが続く平成女児カルチャー。あの時代を象徴する人気ゲームがタイマーになって、SNSで注目されているのはご存じですか？ 台所で試してみたところ、あまりにも懐かしすぎて玉ねぎを切っていないのに目がうるみました……！View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/white_lily/tamagotchi-kitchentimer",
-      "pubDate": "Sat, 17 Oct 2026 05:01:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/09/05/thumb/XU6_6_AGu.png?crop=1620:1080;150,0&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "飼い主の指を甘噛みする猫。そのまま放置したら…まさかの事態に「顔埋もれて…」「はい主動けない～」",
       "description": "これもひとつの愛情表現？ 飼い主さんの指を甘噛みしていた猫ちゃんのまさかの姿に注目が集まっています。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/mimicat-amagami",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T08:30:41.780872",
+  "updatedAt": "2026-10-23T09:00:51.553305",
   "sites": [
     {
       "id": "hachima",
