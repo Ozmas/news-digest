@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「バイクにサイドミラーを壊された」ケニアのタクシー運転手が語る事故と保険の現実【カンバ通信：第535回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回は、いつものポテトの話ではなく、ケニアの自動車保険についてお話ししようと思う。 実は先日、カンバ通信のリクエストボックス [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/23/2833303/",
+      "pubDate": "Fri, 23 Oct 2026 10:30:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eyechaos_1920.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【祝】リメイク『ロマサガ2リベンジオブザセブン』100万本突破！！サガフロ以来29年ぶりのミリオンに河津神もニッコリ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579906.html",
+      "pubDate": "2026-10-23T19:30:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/7/276bc341-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『黄泉のツガイ』最新13巻まで「50％ポイント還元」セール！3,835円分返ってくる！アニメ2期も決定した荒川弘先生の最新作！代表作『鋼の錬金術師』も全巻ポイント還元！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461281.html",
+      "pubDate": "2026-10-23T19:20:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fb88ac5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】佐川急便、不正アクセスで個人情報最大5323万件流出か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579904.html",
+      "pubDate": "2026-10-23T19:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b8e5145b-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【動画】クルド人、大黒ふ頭で大騒ぎして警察沙汰+日本人と大喧嘩を始める・・・暴動みたいなもんだろコレ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461254.html",
+      "pubDate": "2026-10-23T19:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb4e12fb.png"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -613,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】松井秀喜氏、巨人の新監督に就任！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579598.html",
-      "pubDate": "2026-10-23T11:23:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ad02e501-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +715,6 @@
       "link": "https://artscape.jp/article/80927/",
       "pubDate": "Fri, 23 Oct 2026 02:00:38 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ニンテンドークラシックス、GB『モグラーニャ』『ファンタズム』『66匹のワニ大行進』が追加！　現在数万円のプレミアソフトもあるぞおおお",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579589.html",
-      "pubDate": "2026-10-23T11:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6db332db.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -795,19 +834,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50073187.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「ブサイク金持ち」と「貧乏イケメン」、女性が選ぶのはどっち？→マッチングアプリで分析した結果、明らかになる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461230.html",
-      "pubDate": "2026-10-23T09:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/e/fe4bfc95.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -819,19 +845,6 @@
       "link": "https://rocketnews24.com/2026/10/23/2833204/",
       "pubDate": "Fri, 23 Oct 2026 00:00:15 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_fd97f8.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "企業が求める人材、「専門スキル持ち」「AIを活用できる」よりも、「〇〇能力」の方が大事らしい",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461226.html",
-      "pubDate": "2026-10-23T08:30:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/3/831263ab.jpg"
     },
     {
       "siteId": "sumida",
@@ -1118,19 +1131,6 @@
       "link": "https://rocketnews24.com/2026/10/22/2833026/",
       "pubDate": "Thu, 22 Oct 2026 02:55:15 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_9791.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "世界最恐の寺『懸空寺』に入ってみて知った「日本人に厳しすぎる事情」",
-      "description": "気づいたら世界最恐の寺に行くことになっていた。そんな『刃牙』みたいなことあるのか。自分ですら疑ってしまう出だしだが、マジで行ってきたんだから仕方ない。 寺にたどり着くのに3日かかった。そんな『鉄拳チンミ』みたいなことある [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/22/2811174/",
-      "pubDate": "Thu, 22 Oct 2026 02:30:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kenku18.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T10:00:51.965143",
+  "updatedAt": "2026-10-23T10:30:42.404048",
   "sites": [
     {
       "id": "hachima",
