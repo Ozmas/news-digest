@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【非常に好評】『ファイナルファンタジー レゾナンス』Steam同接2万人を記録！ユーザーレビュー超高評価「こういうFF待ってた」「スクエニは終わったと言ってる方にオススメ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579933.html",
+      "pubDate": "2026-10-23T23:30:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/de65071c.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://jin115.com/archives/52461252.html",
       "pubDate": "2026-10-23T14:00:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f380f116.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民、ヤバすぎる八百屋を見つけてしまう… 「異様な雰囲気だった。商品はかなりの割合で腐ってドロドロ、腐敗臭でハエもすごくて地獄絵図」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579609.html",
-      "pubDate": "2026-10-23T14:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/8/38e4da45.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T14:30:45.916088",
+  "updatedAt": "2026-10-23T15:00:56.100659",
   "sites": [
     {
       "id": "hachima",
