@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】小さな気球が浮かんでいるような、〈migiwa行李〉のランタン",
+      "description": "部屋作りを楽しむあの人へ気球型のランタン 〈migiwa行李〉のランタン 籐で編み上げたランタンは、フックに吊るすと、まるで小さな気球が浮かんでいるような愛らしさ。約1300年の歴史を持つ兵庫県豊岡市の伝統工芸「豊岡杞柳 [&#8230;]",
+      "link": "https://brutus.jp/post-533288/",
+      "pubDate": "Fri, 23 Oct 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【パンチョの新業態】代々木『ごちそうスープパスタ』に行ったら客席が女性ばかりで衝撃！ 「パスタ界の二郎」を封印したオシャレ店だが課題も…",
+      "description": "「改めてナポリタンは、うまいと言わせたい」のキャッチコピーでお馴染みの「スパゲッティーのパンチョ」は、どちらかといえば男性向けのお店。いわゆるガッツリ系で、量もさることながら味が濃く、ボリューミーなトッピングも売りのひと [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/23/2833127/",
+      "pubDate": "Fri, 23 Oct 2026 02:55:37 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/gochispa.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "松井秀喜さん、巨人の新監督就任へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461249.html",
+      "pubDate": "2026-10-23T11:40:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fdb74d4f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】小学生からキャバ嬢を目指して容姿磨きをしていた19歳キャバ嬢のビジュアル、ガチで可愛すぎる！　お前らの想像の300倍以上セクシーｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579600.html",
+      "pubDate": "2026-10-23T11:40:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/6/462b1a90.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +65,19 @@
       "link": "https://rocketnews24.com/2026/10/23/2802175/",
       "pubDate": "Fri, 23 Oct 2026 02:30:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_9916.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "繊細な紙のような質感の〈MIU MIU〉のテクニカルファブリック。",
+      "description": "1990年代のミニマルなワードローブを想起させるような〈MIU MIU〉のテクニカルファブリックは繊細な紙のような質感で動きとさりげない輝きがある。",
+      "link": "https://casabrutus.com/categories/fashion/494697",
+      "pubDate": "Fri, 23 Oct 2026 02:25:29 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -691,32 +756,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/5/f5a69d2e-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】托卵を問い詰めた夫さん、嫁からとんでもない反応をされてしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579477.html",
-      "pubDate": "2026-10-23T00:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6fa10797.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "パリの中国系店主、自分の店に侵入しようとする暴徒たちに「臭いから」と香水を吹きかける→最悪の事態に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461201.html",
-      "pubDate": "2026-10-22T23:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/25b3b091.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1146,19 +1185,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2149話目「新設、トラップ部隊㉓」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/21/2833016/",
-      "pubDate": "Wed, 21 Oct 2026 12:00:06 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2149a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1182,19 +1208,6 @@
       "description": "ジャズ黎明期の躍動を伝える名盤・レア盤、約1万枚 場所：インターメディアテク 古き良き時代の「音の文化」を、どう収蔵し、どう体験してもらうのか。それも博物館の課題だと、インターメディアテク（IMT）は考える。IMTは東京 [&#8230;]",
       "link": "https://brutus.jp/post-495282/",
       "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜出雲編〜",
-      "description": "近い距離の中に古くからの蔵元が3つもある街だけに、駅近くの飲み屋街も意気盛ん。角打ちに隠れ家なバー、おだし×純米酒、ローカル色バリバリの居酒屋をご案内！ ツバメヤ サンロードなかまち 島根県内28蔵の純米酒を網羅。飲み比 [&#8230;]",
-      "link": "https://brutus.jp/post-512351/",
-      "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1445,19 +1458,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/13/05/thumb/xrAfJnZJO.png?crop=1620:1080;150,0&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "写真家・クレイグ・マクディーンが名車〈Ducati〉の写真集を刊行。エキシビションも開催します！",
-      "description": "世界的なファッション・フォトグラファー、クレイグ・マクディーンがモーターサイクルの名車〈Ducati 750 Super Sports〉を撮り下ろした写真集がリリース。2026年10月23日からはエキシビションも開催されます。",
-      "link": "https://casabrutus.com/categories/art/494823",
-      "pubDate": "Mon, 19 Oct 2026 07:25:43 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T02:30:40.775916",
+  "updatedAt": "2026-10-23T03:00:51.570896",
   "sites": [
     {
       "id": "hachima",
