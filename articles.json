@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ゴジラ松井の巨人監督就任を祝って「あのお方」がイラストを投稿！やっぱりゴジラ松井といえば……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579945.html",
+      "pubDate": "2026-10-24T06:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/748714fa.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +559,6 @@
       "link": "https://jin115.com/archives/52461275.html",
       "pubDate": "2026-10-23T18:20:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/a/ba8b0426.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "日本トレカ協会さん、2ヶ月ぶりにポストするも怪文書すぎてカードゲーマーたち困惑ｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579840.html",
-      "pubDate": "2026-10-23T18:20:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/6/46843486-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T20:30:43.740986",
+  "updatedAt": "2026-10-23T21:00:49.930627",
   "sites": [
     {
       "id": "hachima",
