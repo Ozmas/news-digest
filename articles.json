@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2151話目「新設、トラップ部隊㉕」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/10/23/2833525/",
+      "pubDate": "Fri, 23 Oct 2026 12:00:07 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2151a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜静岡編〜",
+      "description": "味の店 乃だや おでん、串、フライ、焼きそば。静岡の酒場の必須つまみが揃う ・創業70年以上を誇る、老舗居酒屋。・名物は味噌おでんに串焼き、フライ、ソース焼きそば。関東おでんもあり。・最初の一杯から、静岡の地酒歓迎！定番 [&#8230;]",
+      "link": "https://brutus.jp/post-512339/",
+      "pubDate": "Fri, 23 Oct 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「腐敗臭が漂う異様な場所見つけた。ハエもすごくて地獄絵図なんだけど」ﾊﾟｼｬｯ→ガチで雰囲気がヤバイと話題に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461262.html",
+      "pubDate": "2026-10-23T20:40:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2e58034-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【アホ】タクシー運転手(44)、性的暴行した女性の家のポストに緊急避妊薬と”とある一発で身バレするもの”を投函して逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10579911.html",
+      "pubDate": "2026-10-23T20:30:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d24a206.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -52,6 +104,19 @@
       "link": "https://brutus.jp/post-524220/",
       "pubDate": "Fri, 23 Oct 2026 11:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "伊藤かずえ、838万円新型ミニバンを絶賛「ファーストクラスみたい」「カッコいい。前乗ってたけど全然形が違う」",
+      "description": "俳優の伊藤かずえさんが10月19日にYouTubeチャンネルを更新。「新型エルグランド」をチェックする様子を公開し、反響が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yukiadachi/itokadue-kuruma1019",
+      "pubDate": "Fri, 23 Oct 2026 06:46:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/03/subbuzz/ExQet5CvO.jpg?crop=1401:934;0,223&resize=1250:830"
     },
     {
       "siteId": "jin",
@@ -260,6 +325,19 @@
       "link": "https://jin115.com/archives/52461273.html",
       "pubDate": "2026-10-23T17:40:07+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/677eaf80.png"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "93歳になった草笛光子、SNSで“卒業”を報告→「寂しい」「知りませんでした」と反響",
+      "description": "俳優の草笛光子さんとスタッフが運用する公式アカウントが、10月22日にInstagramを更新。草笛さんが93歳の誕生日を迎えたことを節目に、同アカウントを「卒業」することを報告しました。ファンから、「寂しい」との反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yukiadachi/kusabuemitsuko-sotsugyou1022",
+      "pubDate": "Fri, 23 Oct 2026 04:31:01 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/07/subbuzz/zNxuuVx09.jpg?crop=1801:1201;319,230&resize=1250:830"
     },
     {
       "siteId": "hachima",
@@ -652,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96bc0ca3.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】「ベジータがアルジェリア人」という謎の説が海外でバズる　→　1枚で完全論破する画像がこちらｗｗｗ　これは動かぬ証拠ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579602.html",
-      "pubDate": "2026-10-23T12:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/7/b7f0793a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -741,19 +806,6 @@
       "link": "https://jin115.com/archives/52461229.html",
       "pubDate": "2026-10-23T11:20:32+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/00d2ca7e.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【知ってた】○○政府系ハッカー集団、9月から世界中にサイバー攻撃していたことが発覚",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461245.html",
-      "pubDate": "2026-10-23T11:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90b2410d.jpg"
     },
     {
       "siteId": "artscape",
@@ -990,6 +1042,19 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/08/subbuzz/aC_hZ2ohB.jpg?crop=4376:2917;0,0&resize=1250:830"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「自認がちいかわ」ディーン・フジオカ、まさかの衣装に「もうフジオカがちいかわでいいよ」と反響",
+      "description": "「フジテレビ」の公式アカウントが10月22日にInstagramを更新。バラエティー番組『トークィーンズ』にゲスト出演した俳優のディーン・フジオカさんの姿を収めた動画を公開しました。「ちいかわ愛」を語る姿が話題です。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/dean-fujioka-chiikawa",
+      "pubDate": "Thu, 22 Oct 2026 06:16:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/02/subbuzz/sdlo7gEbx.jpg?crop=2997:1998;611,179&resize=1250:830"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1133,19 +1198,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "690円にしてはウマすぎる！ 日高屋『濃厚豚骨醤油ラーメン』に感じる「家系」を名乗らぬ奥ゆかしさ",
-      "description": "最近、SNSを中心に話題になっている「日高屋」の新商品をご存じだろうか？　2026年10月9日より期間限定で販売中の『濃厚豚骨醤油ラーメン』（税込690円）だ。 豚骨醤油と聞くと、いわゆる「家系ラーメン」を想像してしまう [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/22/2833026/",
-      "pubDate": "Thu, 22 Oct 2026 02:55:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_9791.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1182,19 +1234,6 @@
       "description": "横浜人形の家にて、9月5日から開催されている開館40周年記念展「横浜人形の家　建築と記憶」の関連イベントが行なわれます。 建築の専門家によるトークイベントや、建築を学ぶ学生とともに館内を巡る探検ツアー、横浜人形の家の周辺 [&#8230;]",
       "link": "https://artscape.jp/article/81515/",
       "pubDate": "Thu, 22 Oct 2026 01:00:14 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "憧れ続ける小さな舞台。お笑い芸人・じろうに聞く、東京の小劇場",
-      "description": "上京のきっかけは、短大時代に大阪で知った、シティボーイズの舞台だった。 「シティボーイズのようなことがしたいと思ってはいたものの、具体的に何をすればいいかわからず、とりあえず『演劇ぶっく』だけ買っていた。そこにはいつも小 [&#8230;]",
-      "link": "https://brutus.jp/post-425826/",
-      "pubDate": "Thu, 22 Oct 2026 01:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1243,37 +1282,11 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「一瞬気づかなかった」M!LK塩﨑太智の母親役に驚きの声「え、待って」「お母さん役…！？」「声良すぎて飛んだ」",
-      "description": "ドラマ『もうパパ！』（ABCテレビ・テレビ朝日系）の公式アカウントが10月20日にInstagramを更新。「M!LK」の塩﨑太智さんが出演するシーンの切り抜き動画を公開しました。母親役を務めた声優・俳優の平野綾さんとのやりとりにも注目が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/milk-shiozaki-no-haha",
-      "pubDate": "Wed, 21 Oct 2026 05:16:01 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/21/04/subbuzz/3KGLQU8Za.jpg?crop=2144:1429;100,143&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "カタカタ鳴るし倒れて散らばる→車用ゴミ箱に困ってたら“やわらかダストBOX”がぜ〜んぶ解決してくれたよ！",
       "description": "走行中に倒れてゴミが散らばったり、振動でカタカタ音が鳴ったりと、意外に悩みが多い“車用のゴミ箱”。今回はそんなお悩みをまるっと解決する、機能的なアイテムをご紹介します。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/white_lily/carmate-soft-dustbox",
       "pubDate": "Wed, 21 Oct 2026 05:01:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/02/thumb/bdBJ6l_TT.jpg?crop=3000:2000;0,0&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "りくりゅう、自宅で一緒に料理→「すごい量。大家族並み」「まさに海外のキッチン」と驚きの声",
-      "description": "ミラノ・コルティナ冬季オリンピックの「フィギュアスケート・ペア」日本代表で金メダルを獲得した三浦璃来さんと木原龍一さんが、10月10日にYouTubeチャンネルを更新。自宅で一緒に料理する姿を公開し、反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/rikuryu1021",
-      "pubDate": "Wed, 21 Oct 2026 05:01:01 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/21/00/subbuzz/0GVRAQ3L_.jpg?crop=3244:2163;430,244&resize=1250:830"
     },
     {
       "siteId": "casabrutus",
@@ -1347,11 +1360,11 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「高級旅館かと」柴田理恵の手料理に絶賛の声「やばいいい」「小鉢や皿もセンス良く…」「すごいですね品数」",
-      "description": "タレントの久本雅美さんが10月19日にInstagramを更新。タレントの柴田理恵さんの自宅で振舞われた手料理の写真を公開しました。日本酒にも合いそうなメニューに「美味しそう」と反響が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/shibata-rie-teryori2026",
-      "pubDate": "Tue, 20 Oct 2026 17:01:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/01/subbuzz/6Rf_daD-M.jpg?crop=2276:1517;0,266&resize=1250:830"
+      "title": "高橋文哉がカン・テオに“顔そっくり”と話題に「似てるなーって」『南田南弁護士は天才肌』出演姿に注目集まる",
+      "description": "俳優の高橋文哉さんが10月19日にInstagramを更新。同日に放送スタートしたドラマ『南田南弁護士は天才肌』（カンテレ・フジテレビ系）の場面カットを披露しました。SNSでは、韓国のオリジナル版で同じ役にあたる人物を演じた俳優のカン・テオさんと「似てる」との声が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yukiadachi/takahashifumiya-minamidaminami1019",
+      "pubDate": "Tue, 20 Oct 2026 06:26:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/07/subbuzz/zXroDKIp4.jpg?crop=1243:829;396,327&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1443,19 +1456,6 @@
       "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/chirucat-sukima",
       "pubDate": "Mon, 19 Oct 2026 18:01:05 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/06/thumb/WYXY2QlZ4.jpg?crop=1536:1024;0,552&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「すごいメンツ」二宮和也の“飲み会”ショットが話題に「歓迎会かな？」「テントの飲み会？」「仲良すぎ」",
-      "description": "俳優の二宮和也さんが10月17日にXを更新。「会社の飲み会」で撮影した写真を披露し、「すごいメンツ」「歓迎会かな？」と反響が寄せられました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yukiadachi/ninomiyakazunari-nomikai2shot1017",
-      "pubDate": "Mon, 19 Oct 2026 06:46:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/19/05/subbuzz/hjemv96BW.jpg?crop=4078:2719;1038,474&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T11:30:41.402171",
+  "updatedAt": "2026-10-23T12:00:54.021543",
   "sites": [
     {
       "id": "hachima",
