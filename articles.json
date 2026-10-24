@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "箱推し、ファンミ、女オタオタ……。勝手に令和の、アイドル界隈用語集",
+      "description": "【アクスタ】 あくすた アクリルスタンドの略。定番のアイドルグッズ。ハロプロ界隈ではかつての呼称で「FSK（フィギュアスタンドキーホルダー）」と呼ぶ。（でか美ちゃん） 【産んだ記憶ある】 うんだきおくある 推しがあまりに [&#8230;]",
+      "link": "https://brutus.jp/post-479040/",
+      "pubDate": "Sat, 24 Oct 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "予算3000円でどこまで楽しめる？ セリアの100円商品だけで自宅ハロウィンパーティーを開催してみた!!",
+      "description": "もうすぐハロウィン。皆さんはパーティやイベントなど、なにか楽しい予定はありますか？ ……え？　私ですか??　私は残念ながら、まっっっったく何もありませんよ。 そんなことを考えていたら少し寂しくなってしまったので、自宅でハ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/24/2833607/",
+      "pubDate": "Sat, 24 Oct 2026 02:55:40 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/seria-halloween001.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "Adoさん、ご報告",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461307.html",
+      "pubDate": "2026-10-24T11:40:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/0/d02cc1e3.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【胸糞】いつも全く同じものを買っていくおじさん客に女子店員が「裏からその品物出してきましょうか？」と接客　→　ガチでシャレにならない最悪の末路に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580044.html",
+      "pubDate": "2026-10-24T11:40:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/d/2d628257.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ベローチェが本気出してきた！ 15時以降プラス100円で「パスタ全品2倍盛り」フェアが最高すぎた",
+      "description": "ちょっとみんな聞いてくれーーーー！　ドトールと並ぶ親しみやすさNo.1カフェ「ベローチェ」がらしくないフェアを始めたよーーー!!　その名も『プラス100円でパスタ全品2倍盛り！』だ！ ベローチェが大盛りどころか2倍盛りっ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/24/2833284/",
+      "pubDate": "Sat, 24 Oct 2026 02:30:44 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/bero04.jpeg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "〈A-POC ABLE ISSEY MIYAKE〉の旗艦店が拡張オープン！ 吉岡徳仁が手がける東京・南青山の空間。",
+      "description": "〈A-POC ABLE ISSEY MIYAKE〉のフラッグシップストアが拡張オープン。",
+      "link": "https://casabrutus.com/categories/design/494364",
+      "pubDate": "Sat, 24 Oct 2026 02:25:34 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -13,19 +91,6 @@
       "link": "https://jin115.com/archives/52461286.html",
       "pubDate": "2026-10-24T11:20:39+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/4/94f52ef3.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】料理研究家リュウジさん、ローソンのきまぐれクックコラボメニューに対し「二度と買わない！ヴォエ！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580031.html",
-      "pubDate": "2026-10-24T11:20:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/f/8f33ed0a.jpg"
     },
     {
       "siteId": "jin",
@@ -665,19 +730,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「腐敗臭が漂う異様な場所見つけた。ハエもすごくて地獄絵図なんだけど」ﾊﾟｼｬｯ→ガチで雰囲気がヤバイと話題に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461262.html",
-      "pubDate": "2026-10-23T20:40:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2e58034-s.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1094,19 +1146,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "声かけといてくれよ！ 唐突な出番が来た本人！　四コマサボタージュFB第115回「スペシャルゲスト」",
-      "description": "指名手配犯のポスターって販売されていたりするのかな。……まぁ、欲しいわけではないのだけどね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/10/23/2810807/",
-      "pubDate": "Thu, 22 Oct 2026 22:00:49 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-115.png"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1144,19 +1183,6 @@
       "link": "https://brutus.jp/post-533648/",
       "pubDate": "Thu, 22 Oct 2026 12:24:06 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2150話目「新設、トラップ部隊㉔」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/22/2833516/",
-      "pubDate": "Thu, 22 Oct 2026 12:00:04 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2150a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1221,19 +1247,6 @@
       "description": "THE ROOTS neighborhood bakery 黒人音楽をインスピレーションに作る、グルーヴィ・ドーナツ 岡山生まれヒップホップ育ち、大阪〈ROUTE271〉（現・丹青）で修業した三浦寛史さんが、新天地・福岡 [&#8230;]",
       "link": "https://brutus.jp/post-521244/",
       "pubDate": "Thu, 22 Oct 2026 09:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "漁師服ベースにして、品がある。〈Alexander Yetman〉のジャケット：Brutus Best Bets",
-      "description": "漁師服ベースにして、品がある ロンドンでオーダーメイドを手がける〈アレキサンダー・イェットマン〉。そのノウハウを注ぎ込んだ既製服も、デザイナー自身が手作業で仕上げる。新作は、伝統的な漁師服がベース。背中には腕の動きを助け [&#8230;]",
-      "link": "https://brutus.jp/post-531003/",
-      "pubDate": "Thu, 22 Oct 2026 08:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1391,19 +1404,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/21/rattoria-nero/",
       "pubDate": "Tue, 20 Oct 2026 23:01:57 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_1537-e1791467163155-1024x767.jpeg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "快適な座り心地と彫刻的な美しいフォルムを追求した、モーテン・グッドラーによるフォールディングチェア。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495028",
-      "pubDate": "Tue, 20 Oct 2026 22:00:05 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T02:30:41.902275",
+  "updatedAt": "2026-10-24T03:00:52.087595",
   "sites": [
     {
       "id": "hachima",
