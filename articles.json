@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【比較】ドンキの「電子シーシャ界隈」が闇鍋状態だから、5種類吸って正直な感想を書く",
+      "description": "タバコをやめました。9月の中旬くらいに。1カ月以上吸ってないのでもはや禁煙の意識もないんだけど、一呼吸置く瞬間が無くなるのは嫌なので、ニコチン0、タール0の電子シーシャでタイミングを取ることにした。 ただ、いざドン・キホ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/24/2833751/",
+      "pubDate": "Sat, 24 Oct 2026 01:00:05 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/seesha2.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「屋上で風に当たりながら過ごしたい」。建築設計事務所〈ナノメートルアーキテクチャー〉を驚かせた住人力",
+      "description": "施主の言葉 屋上で風に当たりながら過ごしたい 建築家の言葉 非日常的な空間の楽しみ方を教わりました 当初は増改築を繰り返した既存住宅のリノベーションで計画を進めていました。しかし諸事情から同じ土地で新築を建てることになり [&#8230;]",
+      "link": "https://brutus.jp/post-531032/",
+      "pubDate": "Sat, 24 Oct 2026 01:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「スーパーで売ってる『海ぶどう』は水槽で飼育すると増えるのか？」　→　検証した結果、まさかの◯倍になり価格換算でエグい金額にｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580016.html",
+      "pubDate": "2026-10-24T09:30:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/af3a15b2.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気コスプレイヤー・伊織もえさん、ガチでえぐいエイム力を披露してしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461302.html",
+      "pubDate": "2026-10-24T09:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/c/4c5f9b37.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -509,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/f/2f156f52.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】セブンイレブンの客離れが止まらない…ローソンとファミマは過去最高益を記録、セブンは減益",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579916.html",
-      "pubDate": "2026-10-23T21:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/6/76bd73c0.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -650,19 +689,6 @@
       "link": "https://jin115.com/archives/52461281.html",
       "pubDate": "2026-10-23T19:20:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fb88ac5.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】クルド人、大黒ふ頭で大騒ぎして警察沙汰+日本人と大喧嘩を始める・・・暴動みたいなもんだろコレ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461254.html",
-      "pubDate": "2026-10-23T19:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb4e12fb.png"
     },
     {
       "siteId": "brutus",
@@ -1224,32 +1250,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【てんや】ポテサラの天ぷら登場！ 112品の頂点に立った「鮮やか ベジポテ天丼」の満足感が意外と高い",
-      "description": "味とは直接関係ないかもしれないが、そのお店の人がそのお店を好きだとこちらもちょっと嬉しくなってしまう。きっとその “お店愛” は、何かしらの形でお客サイドにも伝わっているのだろう。 2026年10月22日、てんやが『鮮や [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/22/2833230/",
-      "pubDate": "Thu, 22 Oct 2026 06:00:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tenya02.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "有名建築家が手がけたソウルのミュージアム3選。〈東大門デザインプラザ〉、〈SONGEUN〉etc.",
-      "description": "東大門デザインプラザ（DDP）／東大門 ソウルを象徴するランドマーク 建築家：ザハ・ハディド 2014年開館。都市の躍動感をダイナミックに表現した外装は約45,000枚のアルミパネルで覆われており、光の角度によって表情が [&#8230;]",
-      "link": "https://brutus.jp/post-533992/",
-      "pubDate": "Thu, 22 Oct 2026 06:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T00:30:40.749524",
+  "updatedAt": "2026-10-24T01:00:52.212873",
   "sites": [
     {
       "id": "hachima",
