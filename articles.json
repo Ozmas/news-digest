@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ファインミネラル図鑑【イングランド、スペイン、スウェーデン】",
+      "description": "England【イングランド】 多様性と歴史が物語る、フローライトの一大産地 代表的なウェアデール産のグリーンのものから、200年前に産出したデヴォン産まで、多様性と歴史でファンを魅了するフローライトの聖地。 Spain [&#8230;]",
+      "link": "https://brutus.jp/post-533607/",
+      "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "男の子、ムラムラしたのか下半身を露出して女子中学生に「触って」と声かける事案が発生",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580107.html",
+      "pubDate": "2026-10-24T17:30:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/3/63e49b60.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -598,19 +624,6 @@
       "link": "https://jin115.com/archives/52461290.html",
       "pubDate": "2026-10-24T08:40:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/7/f76d870c.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ド正論】村上龍さん、ワタミ会長の「『無理』は嘘つきの言葉」というエグい労働論を「◯◯◯」の火の玉ストレートでバッサリ！　「当時の風潮でここまで言える人はレア」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580009.html",
-      "pubDate": "2026-10-24T08:30:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/3/93f56170.jpg"
     },
     {
       "siteId": "jin",
@@ -1211,19 +1224,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "杉本博司はモーツァルトに似ている。庄司紗矢香と語る、音楽と写真に流れる時間",
-      "description": "——庄司さんは杉本さんの写真作品にどのような印象をお持ちですか？ 演奏ごとに生き返る音楽と時間が伸縮する杉本の写真",
-      "link": "https://brutus.jp/post-527540/",
-      "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T08:30:40.051963",
+  "updatedAt": "2026-10-24T09:00:52.316791",
   "sites": [
     {
       "id": "hachima",
