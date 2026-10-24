@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「ベストよりベターを目指す」。東大人気講義録：森畑明昌先生の「囲碁で養う考える力」",
+      "description": "講義の概要 日本棋院の全面的な協力の下、東大出身のプロ棋士、石倉昇九段を中心に2005年10月に開講。古い歴史を持つ伝統文化でもあり、頭脳のスポーツともされる「囲碁」。そのルールを学び、実戦を通じて、判断力や分析力、洞察 [&#8230;]",
+      "link": "https://brutus.jp/post-495166/",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "渡邊渚さん、サウジアラビアを絶賛「夜にひとりで街を歩いても不安を感じない。日本と違って舐め回すような視線やナンパもされない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580417.html",
+      "pubDate": "2026-10-24T19:30:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/9/3904f936.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -572,19 +598,6 @@
       "link": "https://rocketnews24.com/2026/10/24/2834345/",
       "pubDate": "Sat, 24 Oct 2026 01:50:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_2779-2.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【地獄】現役高校生の株トレーダーさん、1400万円負けてむせび泣く　「学歴なし友達なしで金まで消えた…18歳高3にして人生終了です」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580022.html",
-      "pubDate": "2026-10-24T10:30:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/f/1fb943ed.jpg"
     },
     {
       "siteId": "jin",
@@ -1211,19 +1224,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ファインミネラル図鑑【北米編】",
-      "description": "USA【アメリカ】 土地の代名詞的な石が、各地にある鉱物大国 広大な大陸が生む鉱物の多様性は随一。イリノイのフローライト、アリゾナのウルフェナイトなど、土地ごとに代表する石がすぐ浮かぶほどだ。 Mexico【メキシコ】  [&#8230;]",
-      "link": "https://brutus.jp/post-533383/",
-      "pubDate": "Thu, 22 Oct 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T10:30:40.907254",
+  "updatedAt": "2026-10-24T11:00:52.273136",
   "sites": [
     {
       "id": "hachima",
