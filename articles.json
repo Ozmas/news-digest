@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ネトゲで知り合った女性にひとめぼれした男、2年半にわたり女性宅へ侵入して下着を盗む→2年半も気付かせなかったカラクリがヤバい",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461303.html",
+      "pubDate": "2026-10-24T10:30:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/78a979c0.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【これって…】巨人に1位指名された高校生、メジャーに行けないかも",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461304.html",
+      "pubDate": "2026-10-24T10:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/ed103119.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】任天堂・宮本茂さんに「生成AIでゲーム作り出来る時代ですが、人間は才能を発揮できるか？」と質問　→　宮本さんの回答が素晴らしすぎて全ゲーマー感動",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580020.html",
+      "pubDate": "2026-10-24T10:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/9/796f4cdb.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -522,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26df30cd.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "パナソニックHD、約33万人分の個人情報流出！流行りの不正アクセスかと思いきや、社員がとんでもないやらかしｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579923.html",
-      "pubDate": "2026-10-23T21:30:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/8533db12.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -652,19 +678,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/03/subbuzz/ExQet5CvO.jpg?crop=1401:934;0,223&resize=1250:830"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気漫画家さん、「日本の漫画にあまり黒人が登場しない理由」を暴露してしまう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461251.html",
-      "pubDate": "2026-10-23T19:40:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/46a04840.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -676,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/10/23/2833303/",
       "pubDate": "Fri, 23 Oct 2026 10:30:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eyechaos_1920.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『黄泉のツガイ』最新13巻まで「50％ポイント還元」セール！3,835円分返ってくる！アニメ2期も決定した荒川弘先生の最新作！代表作『鋼の錬金術師』も全巻ポイント還元！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461281.html",
-      "pubDate": "2026-10-23T19:20:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fb88ac5.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T01:00:52.212873",
+  "updatedAt": "2026-10-24T01:30:40.724475",
   "sites": [
     {
       "id": "hachima",
