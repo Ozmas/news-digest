@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】検証民「iPhone Duo、反対側に強く折り曲げたら壊れた！！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580467.html",
+      "pubDate": "2026-10-25T01:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/8/8899e35a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中国人「アフリカ進出してやるぜ！」⇒ 大変なことになり絶望してしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580414.html",
+      "pubDate": "2026-10-25T00:30:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca0c17de.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,32 +533,6 @@
       "link": "https://brutus.jp/post-530953/",
       "pubDate": "Sat, 24 Oct 2026 06:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "GMO「『お名前.com デスクトップクラウド』が不正アクセスされて被害あった人に補償＆見舞金5000円渡すわ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580077.html",
-      "pubDate": "2026-10-24T14:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/cc5f4555.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【人柱】最低でも36万円以上もする『iPhone Duo』、早速折り目部分が破損したと報告が相次ぐ…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580073.html",
-      "pubDate": "2026-10-24T14:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8ef752d7.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T15:30:42.333537",
+  "updatedAt": "2026-10-24T16:00:50.565593",
   "sites": [
     {
       "id": "hachima",
