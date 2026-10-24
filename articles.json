@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【猿かよ】21歳男性、交番のドアが開けれずブチギレてドアを破壊 → 交番内にいた警察官「はい、現行犯逮捕」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580515.html",
+      "pubDate": "2026-10-25T08:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/e/ce6e34af.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,19 @@
       "link": "https://rocketnews24.com/2026/10/25/2811267/",
       "pubDate": "Sat, 24 Oct 2026 23:00:25 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari72-1koma.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "グルマン温故知新：神保町〈立呑み中華 猫猫〉小皿料理と日本酒で憩う“ウナギの寝床”",
+      "description": "立呑み中華 猫猫（神保町） 小皿料理と日本酒で憩う“ウナギの寝床” 神保町交差点から、白山通りを水道橋方面へ。1つ目の信号を越えてすぐの路地を右へ進むと、店名が書かれた袖看板が。 この店を営む金子将来さんと長田岳さんは、 [&#8230;]",
+      "link": "https://brutus.jp/post-529156/",
+      "pubDate": "Sat, 24 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -442,19 +468,6 @@
       "link": "https://rocketnews24.com/2026/10/24/2833316/",
       "pubDate": "Sat, 24 Oct 2026 10:00:42 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_a51f7c.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ミセスの新曲MV『シンデレラ』が炎上！主役をキャバ嬢にして叩かれまくる「想像以上にグロテスクな映像」「コロンブスの再来」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580416.html",
-      "pubDate": "2026-10-24T19:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/84df0879.jpg"
     },
     {
       "siteId": "brutus",
@@ -1198,19 +1211,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "「好奇心が見せてくれる、どこにもない風景」とは？GREGORY × BRUTUS スペシャルトーク・レポート",
-      "description": "——そもそも、世界各地の「奇界」を撮るようになったのは、いつ頃からでしょうか。 はじめから「奇界」の写真を撮ろうと思っていたわけではないんです。写真を撮り始めたのは、2000年頃。美術大学を経て、アメリカへ留学し、エリア [&#8230;]",
-      "link": "https://brutus.jp/post-528460/",
-      "pubDate": "Fri, 23 Oct 2026 00:50:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T23:00:49.410667",
+  "updatedAt": "2026-10-24T23:30:40.208690",
   "sites": [
     {
       "id": "hachima",
