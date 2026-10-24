@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "高級ルマンド「Un BOURBON」が東京初出店！ 1本640円の商品も食べてみたけど、正直に言わせてほしい",
+      "description": "ルマンドのサクサク生地が好きだという人は、多いのではないだろうか？ あの生地が主役のお菓子を販売する「Un BOURBON（アン・ブルボン）」が、11月3日まで大丸東京店に関東初出店している。 普段は新潟でしか買えず、3 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/24/2834152/",
+      "pubDate": "Sat, 24 Oct 2026 00:00:28 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/UnBourbon-11.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "致死率ほぼ100%「禁じられたソーセージ」を売った女を逮捕",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461290.html",
+      "pubDate": "2026-10-24T08:40:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/7/f76d870c.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ド正論】村上龍さん、ワタミ会長の「『無理』は嘘つきの言葉」というエグい労働論を「◯◯◯」の火の玉ストレートでバッサリ！　「当時の風潮でここまで言える人はレア」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580009.html",
+      "pubDate": "2026-10-24T08:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/3/93f56170.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -535,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50913ef1.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "KDDI関連企業が火元のモンゴル大規模火災、元朝青龍がまさかの反応「一方的な日本人が悪いじゃなくて…」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579908.html",
-      "pubDate": "2026-10-23T20:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/5/457a83d2.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -650,19 +676,6 @@
       "link": "https://jin115.com/archives/52461274.html",
       "pubDate": "2026-10-23T18:40:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『凶乱令嬢ニア・リストン』8巻まで「50％ポイント還元」セール！最新9巻発売！2,735円分返ってくる！TVアニメ放送中！最強の英雄が病弱令嬢に転生するも無双しまくり",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461275.html",
-      "pubDate": "2026-10-23T18:20:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/a/ba8b0426.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1237,19 +1250,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2732回「九尾の九ちゃん⑧」",
-      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/10/22/2833339/",
-      "pubDate": "Thu, 22 Oct 2026 05:00:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2732-2.png"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-23T23:30:42.806999",
+  "updatedAt": "2026-10-24T00:00:51.102916",
   "sites": [
     {
       "id": "hachima",
