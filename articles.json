@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】秦野市で放獣されたツキノワグマが再出没！駆除せず山に放した結果がこれ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580421.html",
+      "pubDate": "2026-10-24T20:10:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4ac51a94.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "今オタクに人気のラブコメ、女さんに見つかり「気持ち悪い」と批判されて炎上してしまう・・・「こういう漫画が厄介おじさんを誕生させてる」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461332.html",
+      "pubDate": "2026-10-24T20:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/39d75957.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -561,19 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/0/e0129306.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【予約開始】switch2『めっちゃカメレオン』パッケージ版、Amazonで予約スタート！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580024.html",
-      "pubDate": "2026-10-24T11:00:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74405637.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -793,19 +806,6 @@
       "link": "https://casabrutus.com/categories/art/491324",
       "pubDate": "Fri, 23 Oct 2026 22:00:45 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "歯医者「オイてめーら、本物の歯医者がガチで虫歯にならねえ歯の磨き方教えてやるよ。歯磨き粉は〇〇を買え」 → ガチで参考になると話題に！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461280.html",
-      "pubDate": "2026-10-24T07:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/808c333c-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T11:00:52.273136",
+  "updatedAt": "2026-10-24T11:30:41.232210",
   "sites": [
     {
       "id": "hachima",
