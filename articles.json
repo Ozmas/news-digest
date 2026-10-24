@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ポールダンスで遠征公演】ポールが立たなければ「iPhone行列漫談」をやる覚悟で臨んだ鳥取・米子イベントの舞台裏",
+      "description": "10月11日、今年のスポーツの日のその前日の日曜日、私（佐藤）は郷里の島根の隣、鳥取県の米子市にいた。日頃からポールダンスのイベント出演でお世話になっているお店「新宿御苑ROSSO198」の遠征イベントに参加していたから [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/24/2832541/",
+      "pubDate": "Sat, 24 Oct 2026 08:00:03 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/gaisentottori.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "カシミヤを、染めて遊ぶ。〈BRÚ NA BÓINNE〉のカシミヤセーター：Brutus Best Bets",
+      "description": "カシミヤを、染めて遊ぶ 服との出会いも一期一会。まして稀少なものなら、なおさらだ。〈ブルーナボイン〉のカシミヤセーターは、職人が一着ずつ手作業で注染を施したもの。上質な素材に鮮やかな色柄を重ね、昼と夜が入り混じるような幻 [&#8230;]",
+      "link": "https://brutus.jp/post-531016/",
+      "pubDate": "Sat, 24 Oct 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1120,19 +1146,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "無料映画から動物・酒・ワンピース批評まで！YouTubeを追わないロケニュー編集部が「なぜか見てしまう」チャンネル8選",
-      "description": "春も夏も冬も言わないのに「秋の夜長」と称される理由はなぜだろう？　Google・AI Gemini（ジェミニ）によると「1年の中で最も急速に昼が短くなり、夜が長くなる時期だから」とのことである。なるほど。 それはさておき [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/23/2833204/",
-      "pubDate": "Fri, 23 Oct 2026 00:00:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_fd97f8.png"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1235,19 +1248,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/dean-fujioka-chiikawa",
       "pubDate": "Thu, 22 Oct 2026 06:16:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/02/subbuzz/sdlo7gEbx.jpg?crop=2997:1998;611,179&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜岡山編〜",
-      "description": "解放区 生ビール、冷酒、燗酒。岡山の酒をシンプルな料理で ・その日に地元で獲れた魚や、地元農家から届いた新鮮な食材を調理。・だからメニューが毎日替わる。・岡山の醸造所〈koti brewery〉の樽生が味わえるのは珍しい [&#8230;]",
-      "link": "https://brutus.jp/post-512355/",
-      "pubDate": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T07:30:44.289552",
+  "updatedAt": "2026-10-24T08:00:49.087960",
   "sites": [
     {
       "id": "hachima",
