@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ローソンの新商品、大論争を巻き起こすｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461294.html",
+      "pubDate": "2026-10-24T09:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db56555c.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,19 @@
       "link": "https://rocketnews24.com/2026/10/24/2834152/",
       "pubDate": "Sat, 24 Oct 2026 00:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/UnBourbon-11.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "クソガキ、修学旅行先で観光客を気軽に煽ってガチギレされて涙目　→　引率の教頭から「◯◯◯」と最強の一言で追い打ちｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580011.html",
+      "pubDate": "2026-10-24T09:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/8/88f3aba1.jpg"
     },
     {
       "siteId": "jin",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2e58034-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【アホ】タクシー運転手(44)、性的暴行した女性の家のポストに緊急避妊薬と”とある一発で身バレするもの”を投函して逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579911.html",
-      "pubDate": "2026-10-23T20:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d24a206.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +676,6 @@
       "link": "https://brutus.jp/post-528899/",
       "pubDate": "Fri, 23 Oct 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【終わり】佐川急便、個人情報5323万件流出",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461274.html",
-      "pubDate": "2026-10-23T18:40:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T00:00:51.102916",
+  "updatedAt": "2026-10-24T00:27:10.760291",
   "sites": [
     {
       "id": "hachima",
