@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "で、誰がやんの!? 全然めげない委員長！　隣りの席の子の様子がおかしい第72回「続・文化祭の出し物決め」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/25/2811267/",
+      "pubDate": "Sat, 24 Oct 2026 23:00:25 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari72-1koma.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ダイエット系YouTuber「田舎で散歩が難しい？やってみるわ」 → 「うん、過酷だった。正直これ毎日1万歩歩くって無理」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580514.html",
+      "pubDate": "2026-10-25T07:30:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f05ae3cc-s.png"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -442,19 +468,6 @@
       "link": "https://brutus.jp/post-533766/",
       "pubDate": "Sat, 24 Oct 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ギター型コントローラーで『エースコンバット8』をプレイする猛者が登場！リアル熱気バサラだと話題にｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580239.html",
-      "pubDate": "2026-10-24T18:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8e00f14f.jpg"
     },
     {
       "siteId": "jin",
@@ -1107,19 +1120,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/gochispa.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【しゃぶ葉】映画『ゴジラ-0.0』コラボに行ってきた！「絶望のブラックチゲ」にゴジラらしさを感じ、忖度なしなコースターの引きに震えた話",
-      "description": "映画『ゴジラ-0.0』の公開（11月3日）が迫ってきた。 それに伴い、各所でコラボ企画も続々とスタート。映画公開に向けて、いよいよ本格的に盛り上がって参りました！　 そんな中『しゃぶ葉』でも、2026年10月22日よりゴ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/23/2802175/",
-      "pubDate": "Fri, 23 Oct 2026 02:30:20 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_9916.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T22:30:41.184829",
+  "updatedAt": "2026-10-24T23:00:49.410667",
   "sites": [
     {
       "id": "hachima",
