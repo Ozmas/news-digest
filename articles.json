@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【公開処刑】『退職代行モームリを利用された企業ランキング』公開へ！重い退職理由がマジでヤバすぎる件ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580101.html",
+      "pubDate": "2026-10-24T17:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/d/1d2f051d.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "男「なんで女性のブラって背面ホックが基本なの？前面の方が便利だと思う」→女神や聖母達が降臨！タメになるなァ～！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461322.html",
+      "pubDate": "2026-10-24T17:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d6de8e56.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -639,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17bc7fa9.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】日本のお風呂シーンイラストに対して海外から批判殺到　→　えちちな意味ではなく意外すぎる◯◯◯が理由だった…「日本の環境が特別」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580007.html",
-      "pubDate": "2026-10-24T08:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f149e60.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52461266.html",
       "pubDate": "2026-10-24T01:00:41+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aaf782e2-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "パナソニックが個人情報33万人分流出！→不正アクセスか？と思いきや、まさかすぎる理由だったｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461289.html",
-      "pubDate": "2026-10-24T00:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/c/ac938824.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T08:00:49.087960",
+  "updatedAt": "2026-10-24T08:30:40.051963",
   "sites": [
     {
       "id": "hachima",
