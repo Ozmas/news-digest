@@ -8,6 +8,19 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "今回の大規模ハッキング事件についてハッカーが声明を発表！どうやら「GMOインターネット」のガバガバセキュリティが悪かった模様",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580445.html",
+      "pubDate": "2026-10-25T03:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/9/b929075c-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "「わたしは北京大学法学部の学生よ！」飛行機内でエコノミークラスの中国人がビジネスクラスの座席を無断で占領、大暴れで警察につまみ出される",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10580473.html",
@@ -494,19 +507,6 @@
       "link": "https://jin115.com/archives/52461317.html",
       "pubDate": "2026-10-24T16:00:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/2/522889ac.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大阪にあるジビエ専門の焼肉屋さん、犬肉の販売をSNSで示唆し炎上！ さらにとんでも発言が…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580094.html",
-      "pubDate": "2026-10-24T16:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/ed3ac609-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T18:00:50.126966",
+  "updatedAt": "2026-10-24T18:30:41.006530",
   "sites": [
     {
       "id": "hachima",
