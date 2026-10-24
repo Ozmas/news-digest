@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "FX関連サービスに不正アクセスされたGMO、政府に緊急要請！「能動的サイバー防御を適用してください；；」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580108.html",
+      "pubDate": "2026-10-24T18:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a8adb5e.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『INMU KING』削除騒動、「ミセスのファンが集団で嫌がらせ通報した」という噂が広がる→ガチでやばすぎる事態に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461324.html",
+      "pubDate": "2026-10-24T18:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/0/207251fb.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -24,7 +50,7 @@
       "title": "男の子、ムラムラしたのか下半身を露出して女子中学生に「触って」と声かける事案が発生",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10580107.html",
-      "pubDate": "2026-10-24T17:30:57+09:00",
+      "pubDate": "2026-10-24T17:30:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/3/63e49b60.jpg"
     },
     {
@@ -600,19 +626,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/UnBourbon-11.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "クソガキ、修学旅行先で観光客を気軽に煽ってガチギレされて涙目　→　引率の教頭から「◯◯◯」と最強の一言で追い打ちｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580011.html",
-      "pubDate": "2026-10-24T09:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/8/88f3aba1.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +767,6 @@
       "link": "https://jin115.com/archives/52461299.html",
       "pubDate": "2026-10-24T03:00:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/7/4760f425.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "奈良・東大寺などで子鹿の死骸が複数見つかる…体の一部が欠損しており、人が犯人の疑い",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461266.html",
-      "pubDate": "2026-10-24T01:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aaf782e2-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T09:00:52.316791",
+  "updatedAt": "2026-10-24T09:24:42.531043",
   "sites": [
     {
       "id": "hachima",
