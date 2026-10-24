@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "元女子アナ、日本と比較してサウジアラビアを絶賛「日本の男から感じる舐め回すような視線がない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461342.html",
+      "pubDate": "2026-10-25T00:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/109a2828.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】『INMUKING』のYouTube削除はミセスファンのせいと噂が広がる⇒ 最悪な争いが始まってしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580377.html",
+      "pubDate": "2026-10-25T00:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/af467b4a.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -522,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/e/ae80bc5e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "南青山にあるコインパーキングがガチでヤバイと話題に　「一瞬でも敷地内に入ってしまったら最後」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580064.html",
-      "pubDate": "2026-10-24T13:40:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e278864.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52461302.html",
       "pubDate": "2026-10-24T09:30:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/c/4c5f9b37.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ローソンの新商品、大論争を巻き起こすｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461294.html",
-      "pubDate": "2026-10-24T09:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db56555c.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T15:00:50.543545",
+  "updatedAt": "2026-10-24T15:30:42.333537",
   "sites": [
     {
       "id": "hachima",
