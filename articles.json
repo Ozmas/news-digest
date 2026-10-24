@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "18歳の投資家X民「資産1400万いきました！」 → 5ヵ月後、とんでもないことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461347.html",
+      "pubDate": "2026-10-25T07:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/417d28d7-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -715,19 +728,6 @@
       "link": "https://rocketnews24.com/2026/10/24/2834345/",
       "pubDate": "Sat, 24 Oct 2026 01:50:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_2779-2.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ネトゲで知り合った女性にひとめぼれした男、2年半にわたり女性宅へ侵入して下着を盗む→2年半も気付かせなかったカラクリがヤバい",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461303.html",
-      "pubDate": "2026-10-24T10:30:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/78a979c0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T21:30:40.678253",
+  "updatedAt": "2026-10-24T22:00:49.667771",
   "sites": [
     {
       "id": "hachima",
