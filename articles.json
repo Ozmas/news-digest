@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ヤバすぎ】「俺に『ご主人様、お許しください』と言え！」フランチャイズ本部の職員と偽り美容室に電話、女性従業員にクレームに対しての謝罪を求めた39歳男が逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580471.html",
+      "pubDate": "2026-10-25T01:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e376023.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +533,6 @@
       "link": "https://rocketnews24.com/2026/10/24/2832785/",
       "pubDate": "Sat, 24 Oct 2026 06:00:17 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-4-9.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "神奈川県秦野市「出没したクマは駆除せず放獣しました」 ← SNSで称賛の声",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580087.html",
-      "pubDate": "2026-10-24T15:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8ed2b494.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T16:30:43.816915",
+  "updatedAt": "2026-10-24T17:00:50.505514",
   "sites": [
     {
       "id": "hachima",
