@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】彼氏にパパ活していたのがバレた女子大生さん、彼氏にとんでもないことを言われてむせび泣く・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461330.html",
+      "pubDate": "2026-10-24T19:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/1/e1ff8785-s.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「そのポテトは昨日のだよ」新しいポテトを待つことにしたら、さらに驚く話を聞いた【カンバ通信：第536回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べようと思い、あるレストランへ行ってきた。 ところが、このレストランには名前がなかった。 僕は不思議に思い、 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/24/2833316/",
+      "pubDate": "Sat, 24 Oct 2026 10:00:42 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_a51f7c.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ミセスの新曲MV『シンデレラ』が炎上！主役をキャバ嬢にして叩かれまくる「想像以上にグロテスクな映像」「コロンブスの再来」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580416.html",
+      "pubDate": "2026-10-24T19:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/84df0879.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -574,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/ed103119.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】任天堂・宮本茂さんに「生成AIでゲーム作り出来る時代ですが、人間は才能を発揮できるか？」と質問　→　宮本さんの回答が素晴らしすぎて全ゲーマー感動",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580020.html",
-      "pubDate": "2026-10-24T10:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/9/796f4cdb.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -767,19 +793,6 @@
       "link": "https://jin115.com/archives/52461280.html",
       "pubDate": "2026-10-24T07:00:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/808c333c-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「Amazonで10万のスマホが4万で売られてる！10台購入できたわ！！」 → お届け当日、ヤバイことになる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461271.html",
-      "pubDate": "2026-10-24T05:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/512d0d27.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1118,19 +1131,6 @@
       "link": "https://artscape.jp/article/81559/",
       "pubDate": "Fri, 23 Oct 2026 01:00:39 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "何も考えずAmazonでポチり続けていたプロテイン、6年前の購入履歴と比較したら値上がりがエグくて引いた / しかも内容量まで減っていた",
-      "description": "週に数度の筋トレは欠かさない。筋肉が悲鳴をあげるまで追い込んでから飲むプロテインは、この世のものとは思えないほどうまくて神々しい存在だ。 そんなプロテイン。あなたは何を飲んでいる？ 私はグリコの「パワープロダクション マ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/23/2833602/",
-      "pubDate": "Fri, 23 Oct 2026 01:00:30 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3117_1920.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T10:00:51.333117",
+  "updatedAt": "2026-10-24T10:30:40.907254",
   "sites": [
     {
       "id": "hachima",
