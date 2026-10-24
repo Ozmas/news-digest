@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】PHPの脆弱性をついて不正アクセスしたハッカーさん、頭おかしくなりすぎてまさかの◯◯活動をはじめる事態に発展ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580052.html",
+      "pubDate": "2026-10-24T12:20:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/178b7ddd.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【おしまい！】インターネット大崩壊へ！”PHP脆弱性以上に重大な欠陥”が公表される模様…",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461312.html",
+      "pubDate": "2026-10-24T12:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/2592c312.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "おっさん達で居酒屋入ったら隣の女子グループから「一緒に飲みましょ～」って誘われた　→　直後、女子から飛び出した「◯◯」のセリフで全員が青ざめて即帰宅した話",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580038.html",
+      "pubDate": "2026-10-24T12:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/5/650c0041.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -600,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/ae308003.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "妻「頭おかしーんじゃないん！検査しろ！」⇒ 夫が本当に検査した結果ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579905.html",
-      "pubDate": "2026-10-24T00:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/9/090357b8.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -624,19 +650,6 @@
       "link": "https://jin115.com/archives/52461289.html",
       "pubDate": "2026-10-24T00:00:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/c/ac938824.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【非常に好評】『ファイナルファンタジー レゾナンス』Steam同接2万人を記録！ユーザーレビュー超高評価「こういうFF待ってた」「スクエニは終わったと言ってる方にオススメ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579933.html",
-      "pubDate": "2026-10-23T23:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/de65071c.jpg"
     },
     {
       "siteId": "jin",
@@ -689,19 +702,6 @@
       "link": "https://jin115.com/archives/52461284.html",
       "pubDate": "2026-10-23T21:20:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/3/c3326d8c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「このアイドル、秋なのにヘソ出し衣装・・・？妙だな」→ヘソ部分を拡大した結果ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461265.html",
-      "pubDate": "2026-10-23T21:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/f/2f156f52.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T03:00:52.087595",
+  "updatedAt": "2026-10-24T03:30:41.270153",
   "sites": [
     {
       "id": "hachima",
