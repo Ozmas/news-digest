@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "広島土産に推す声が多い「メープルもみじフィナンシェ」、公式おすすめの食べ方を試したら最高だった",
+      "description": "先日、広島の祖母の家に帰省してきた。「広島土産に何を買おうかな」と最新情報をSNSで検索していたところ……タイミング良く、やす子さんがXでガチでおすすめの広島土産情報を集めているではないか！ 便乗させていただき、皆さまの [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/24/2832785/",
+      "pubDate": "Sat, 24 Oct 2026 06:00:17 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-4-9.jpeg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "木材メーカーから学ぶ、部屋づくりの新しい選択肢。「理想の暮らしから考える、床材の選び方と作り方」",
+      "description": "理想の暮らしから考える、床材の選び方と作り方 住宅や店舗・オフィスなどに、フローリングや壁・天井の木質資材を提供する〈ティンバークルー〉。主なクライアントは、デザイナーや建築家だ。彼らが描く空間に対して、どんな木材ならそ [&#8230;]",
+      "link": "https://brutus.jp/post-530953/",
+      "pubDate": "Sat, 24 Oct 2026 06:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "GMO「『お名前.com デスクトップクラウド』が不正アクセスされて被害あった人に補償＆見舞金5000円渡すわ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580077.html",
+      "pubDate": "2026-10-24T14:30:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/cc5f4555.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -626,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a43fd438-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "映画『ゴジラ-0.0』の入場特典があまりにも平成すぎるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10579939.html",
-      "pubDate": "2026-10-24T04:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c1c5dc4.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1120,19 +1146,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7291-1024x767.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "2年半かけて作る「週刊アシェットスヌーピー」第9号：テーブルクロスが長すぎて滅",
-      "description": "ピーナッツ！　来週でいよいよ第10号に突入！　毎週金曜日にお届けしている「週刊アシェットスヌーピー」のお時間だ。 今日も元気にアシェットのミニチュアシリーズ『ピーナッツミニチュアタウン』を組み立てていくぞ。前号では家の配 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/23/2833550/",
-      "pubDate": "Thu, 22 Oct 2026 23:00:55 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/collage_5604a7.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1234,19 +1247,6 @@
       "description": "解放区 生ビール、冷酒、燗酒。岡山の酒をシンプルな料理で ・その日に地元で獲れた魚や、地元農家から届いた新鮮な食材を調理。・だからメニューが毎日替わる。・岡山の醸造所〈koti brewery〉の樽生が味わえるのは珍しい [&#8230;]",
       "link": "https://brutus.jp/post-512355/",
       "pubDate": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "黒人音楽をインスピレーションに作る、グルーヴィ・ドーナツ。福岡〈THE ROOTS neighborhood bakery〉",
-      "description": "THE ROOTS neighborhood bakery 黒人音楽をインスピレーションに作る、グルーヴィ・ドーナツ 岡山生まれヒップホップ育ち、大阪〈ROUTE271〉（現・丹青）で修業した三浦寛史さんが、新天地・福岡 [&#8230;]",
-      "link": "https://brutus.jp/post-521244/",
-      "pubDate": "Thu, 22 Oct 2026 09:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T05:30:39.873264",
+  "updatedAt": "2026-10-24T06:00:48.628480",
   "sites": [
     {
       "id": "hachima",
