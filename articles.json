@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【炎上】クラファンで5000万円集めたYouTuberなるにぃ氏、ゲーム『誓いノ淵』開発継続＆返金対応発表 → 内容が酷すぎてまた燃える",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580430.html",
+      "pubDate": "2026-10-24T21:05:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e986af9d.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気お笑い芸人さん、最近の歌い手やボカロにブチギレ「歌い手増えすぎ！」「顔出せや！」「法律で歌い手禁止法出そうか？」→炎上してしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461340.html",
+      "pubDate": "2026-10-24T21:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/326950eb.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/2592c312.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "おっさん達で居酒屋入ったら隣の女子グループから「一緒に飲みましょ～」って誘われた　→　直後、女子から飛び出した「◯◯」のセリフで全員が青ざめて即帰宅した話",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580038.html",
-      "pubDate": "2026-10-24T12:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/5/650c0041.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -780,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/10/24/2811266/",
       "pubDate": "Fri, 23 Oct 2026 23:00:22 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari71-1koma.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【胸糞】個人情報を悪用された女性、詐欺罪として懲役6年の刑へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461283.html",
-      "pubDate": "2026-10-24T08:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17bc7fa9.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T12:00:51.837846",
+  "updatedAt": "2026-10-24T12:30:42.459121",
   "sites": [
     {
       "id": "hachima",
