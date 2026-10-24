@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【アカン】バンダイの新作プラモデル、絶対に転売されたらダメなやつがメルカリ出品されてしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580446.html",
+      "pubDate": "2026-10-24T22:05:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4d9a0f18.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +533,6 @@
       "link": "https://jin115.com/archives/52461314.html",
       "pubDate": "2026-10-24T13:00:31+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/025c01e6.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "えっ？最近の子供って「飛行機は犬でできている」という文章の意味が通るかどうかわからないの？？？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580060.html",
-      "pubDate": "2026-10-24T12:40:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/4183fe3f-s.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T13:00:50.595331",
+  "updatedAt": "2026-10-24T13:30:40.579193",
   "sites": [
     {
       "id": "hachima",
