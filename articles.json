@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ジバニャン、パチンコ講座公開「これで安心してパチンコできるニャンね！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461339.html",
+      "pubDate": "2026-10-24T22:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/4/042842d0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ウーマンラッシュアワーの村本大輔さん、LAで交通事故「人生で初めて『これ死ぬかも』と思いました」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580442.html",
+      "pubDate": "2026-10-24T21:45:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78d8404f.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/4183fe3f-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】PHPの脆弱性をついて不正アクセスしたハッカーさん、頭おかしくなりすぎてまさかの◯◯活動をはじめる事態に発展ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580052.html",
-      "pubDate": "2026-10-24T12:20:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/7/178b7ddd.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +767,6 @@
       "link": "https://jin115.com/archives/52461290.html",
       "pubDate": "2026-10-24T08:40:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/7/f76d870c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気お笑いコンビ・インパルスの板倉俊之さん原作『トリガー』が全巻100円、『BARレモン・ハート』が全巻99円など、人気漫画が激安で買えるセール開催中！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461263.html",
-      "pubDate": "2026-10-24T08:20:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/0856dc81.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-24T12:30:42.459121",
+  "updatedAt": "2026-10-24T13:00:50.595331",
   "sites": [
     {
       "id": "hachima",
