@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "古代ローマの折りたたみ椅子に着想を得た、経年変化を楽しむフォールディング・チェア。",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/design/495108",
+      "pubDate": "Sun, 25 Oct 2026 22:00:15 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1302,19 +1315,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/02/subbuzz/sdlo7gEbx.jpg?crop=2997:1998;611,179&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "韓国を代表する現代アーティスト、ソ・ドホの大規模展がソウルで開催。",
-      "description": "直島新美術館にも収蔵される、色鮮やかで半透明な布の「家」。ソ・ドホの30年にわたる芸術活動のすべてを振り返る展覧会です。",
-      "link": "https://casabrutus.com/categories/art/494550",
-      "pubDate": "Thu, 22 Oct 2026 07:25:32 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T22:00:48.111468",
+  "updatedAt": "2026-10-25T22:30:39.591897",
   "sites": [
     {
       "id": "hachima",
