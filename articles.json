@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "とある消防隊員「署内で財布の小銭が減ってる気がする。こっそりカメラを設置してみるか」 → ヤバイ映像が撮れる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461397.html",
+      "pubDate": "2026-10-26T04:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4253027-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「賭博黙示録カイジ」のボンボンドロップシールがあまりにも最高すぎるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580636.html",
+      "pubDate": "2026-10-26T04:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/0/90f2e7e9.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -470,19 +496,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】フランスのゲームショップ、あのソフトだけ略奪されない・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580576.html",
-      "pubDate": "2026-10-25T16:30:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/3/c3f6be34.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,19 +793,6 @@
       "link": "https://casabrutus.com/categories/art/491326",
       "pubDate": "Sat, 24 Oct 2026 22:00:49 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "18歳の投資家X民「資産1400万いきました！」 → 5ヵ月後、とんでもないことになっていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461347.html",
-      "pubDate": "2026-10-25T07:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/417d28d7-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T19:00:52.008760",
+  "updatedAt": "2026-10-25T19:30:42.203149",
   "sites": [
     {
       "id": "hachima",
