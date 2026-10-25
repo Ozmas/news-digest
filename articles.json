@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "外国人プロゲーマー、日本人に「日本は観光だけにして。移民は歓迎しません」と言われブチギレ「数え切れないほど日本企業をサポートしてきた」「お前みたいな奴が解決を邪魔してる」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461393.html",
+      "pubDate": "2026-10-25T19:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/51d76852.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】親が子どもの代わりにお相手探しする“代理婚活”が盛況ｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580627.html",
+      "pubDate": "2026-10-25T19:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dc877b50.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -548,19 +574,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sagi02.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "元日本一ソフトウェア社長「よく分からない新作にフルプライスのお金を払うのは、難易度が高いことだと理解している」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580534.html",
-      "pubDate": "2026-10-25T10:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/3/b366fa85-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +780,6 @@
       "link": "https://brutus.jp/post-532004/",
       "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
       "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/10/OG-37-750x500.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "今オタクに人気のラブコメ、女さんに見つかり「気持ち悪い」と批判されて炎上してしまう・・・「こういう漫画が厄介おじさんを誕生させてる」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461332.html",
-      "pubDate": "2026-10-24T20:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/39d75957.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T10:00:50.230019",
+  "updatedAt": "2026-10-25T10:03:04.773527",
   "sites": [
     {
       "id": "hachima",
