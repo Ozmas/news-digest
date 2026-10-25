@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【NTR】丸の内OLレイナ、交際宣言した堀大輔の目の前で堀江貴文とディープキス　「何を見せられてるんだ」とネット民たち困惑",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580648.html",
+      "pubDate": "2026-10-25T21:30:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6b64b162-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "店員さん、お客に知識マウントをとった結果、こうなる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461380.html",
+      "pubDate": "2026-10-25T21:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/a/8a4a4aac.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -26,6 +52,19 @@
       "link": "http://blog.esuteru.com/archives/10580640.html",
       "pubDate": "2026-10-25T21:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/33381607-s.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "きっと見たことがある小さな店員。癒しの店番ぬいぐるみ3選",
+      "description": "きっと見たことがある、小さな店員さん 店先や店内で、店員さながら店番をするぬいぐるみ。私は彼らを“店ぬい”と呼び、観察をしています。看板を持って開店時間やメニューを教えてくれる働き者もいれば、のんびり座ってマイペースに店 [&#8230;]",
+      "link": "https://brutus.jp/post-428278/",
+      "pubDate": "Sun, 25 Oct 2026 12:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -470,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca2acd6a-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ひえっ】ホロライブの新人VTuberさん、スパチャしてくれた人全員を手書きでお礼",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580562.html",
-      "pubDate": "2026-10-25T12:40:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/81c2fd97-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +793,6 @@
       "link": "https://jin115.com/archives/52461327.html",
       "pubDate": "2026-10-24T23:00:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/e/4eca2157-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ジバニャン、パチンコ講座公開「これで安心してパチンコできるニャンね！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461339.html",
-      "pubDate": "2026-10-24T22:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/4/042842d0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1182,19 +1195,6 @@
       "description": "京都府北部、間人（たいざ）を拠点とする〈あしたの畑〉が、11月8日まで秋期の一般公開を開催中。中でも、今年新たに誕生した2つのアートサイトが話題を呼んでいます。",
       "link": "https://casabrutus.com/categories/art/495445",
       "pubDate": "Fri, 23 Oct 2026 07:25:32 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "東京ドーム、後楽園ホールの帰り道。水道橋で立ち寄りたい酒場5軒",
-      "description": "水道橋 スタンドヒーロー 豪快な厚切り刺身に驚く。板前が手がける10坪の立ち飲み店 わずか10坪ほどの空間に、多い日は1日100人を超える客が訪れる立ち飲み店。板前としてホテルや割烹で修業を重ねてきた店主の井上勝司さんが [&#8230;]",
-      "link": "https://brutus.jp/post-534063/",
-      "pubDate": "Fri, 23 Oct 2026 07:00:37 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T12:00:49.670082",
+  "updatedAt": "2026-10-25T12:30:41.183827",
   "sites": [
     {
       "id": "hachima",
