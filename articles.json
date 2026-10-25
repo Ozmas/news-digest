@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "マクドナルド店舗で「ミスの隠蔽」が横行か？番号呼び出しが使い物にならない店舗が話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580659.html",
+      "pubDate": "2026-10-26T05:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9f6418af.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +455,6 @@
       "link": "https://casabrutus.com/categories/architecture/495488",
       "pubDate": "Sun, 25 Oct 2026 08:25:44 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】女性客「ハーブティーありますか」⇒ 店員が知識マウントして炎上ｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580578.html",
-      "pubDate": "2026-10-25T17:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/99143408.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T20:00:49.903793",
+  "updatedAt": "2026-10-25T20:30:43.108234",
   "sites": [
     {
       "id": "hachima",
