@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "フランス警察、暴徒鎮圧のため”衣服を貫通する○○ピストル”の導入を要請！なんだこれ！？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461365.html",
+      "pubDate": "2026-10-25T11:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/a/fa492e28.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "コテコテ関西弁で攻めすぎやろ！ クラシエ『たこやきかいな お好みやきかいな』を大人が本気で作ってみた感想【関西限定・知育菓子】",
+      "description": "知育菓子といえば子どもが遊んで食べるもの、なんていう価値観は過去の話。現在は大人も子どもも楽しめるのが当たり前で、もはや国民的エンタメ系菓子と言っても過言ではない。 ──という前提のもとに考えてみても、クラシエ『たこやき [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/25/2803857/",
+      "pubDate": "Sun, 25 Oct 2026 02:00:08 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/takoyakiokonomiyaki_kracie001.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【1本149円】モンスターエナジー（355ml・無糖）24本セットが3584円 / Amazonタイムセール",
+      "description": "毎日お得なタイムセールを開催しているAmazon。飲料・食品・アパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、エナジードリンクの代表格『モンスターエナジー（355ml・無糖）』 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/25/2834578/",
+      "pubDate": "Sun, 25 Oct 2026 01:45:13 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_0544.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "スクエニ漫画「鋼の錬金術師」「黄泉のツガイ」「薬屋のひとりごと」などが、Amazonで実質半額セール実質中！今日まで！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580535.html",
+      "pubDate": "2026-10-25T10:30:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7dae12c2-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -431,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/4/042842d0.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ウーマンラッシュアワーの村本大輔さん、LAで交通事故「人生で初めて『これ死ぬかも』と思いました」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580442.html",
-      "pubDate": "2026-10-24T21:45:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78d8404f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +780,6 @@
       "link": "https://rocketnews24.com/2026/10/24/2833607/",
       "pubDate": "Sat, 24 Oct 2026 02:55:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/seria-halloween001.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "Adoさん、ご報告",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461307.html",
-      "pubDate": "2026-10-24T11:40:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/0/d02cc1e3.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1094,19 +1120,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "料理が実質無料!? ガスト×Mrs.GREEN APPLEのコラボが破格すぎて話題に！ ファンでなくても行くべき神コラボ！",
-      "description": "昨日2026年10月22日より、全国のガストでMrs.GREEN APPLE（ミセス・グリーン・アップル）とのコラボレーションがスタートしているぞ！ 正確には、ミセスのキーボード担当である藤澤涼架さんとガストのコラボって [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/23/2834018/",
-      "pubDate": "Fri, 23 Oct 2026 06:00:49 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/20261022_131500.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1118,19 +1131,6 @@
       "link": "https://brutus.jp/post-533674/",
       "pubDate": "Fri, 23 Oct 2026 06:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2733回「九尾の九ちゃん⑨」",
-      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/10/23/2833916/",
-      "pubDate": "Fri, 23 Oct 2026 05:00:07 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2733-2.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T01:30:39.140052",
+  "updatedAt": "2026-10-25T02:00:51.562233",
   "sites": [
     {
       "id": "hachima",
