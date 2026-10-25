@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "何を見とるんや！ 部屋を探るガールフレンド！　四コマサボタージュFB第116回「こういう所に…」",
+      "description": "細かいことなのだけど、「ガールフレンド」という言葉のニュアンスがイマイチはっきりしないんだ。単純に言葉からすると「女性の友達」となるのだけど、でも明らかに彼女であったり、彼女とはならずともそれに近い女友達だったりする場合 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/26/2812808/",
+      "pubDate": "Sun, 25 Oct 2026 22:00:12 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-116.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "コメントを読みながら運転していた配信者さん、ヤバイことになる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461405.html",
+      "pubDate": "2026-10-26T07:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/80c3a955-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ミセスファンが『ガスト』コラボのメニューを持ち帰ってしまうため店舗が困惑",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580672.html",
+      "pubDate": "2026-10-26T06:30:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/6/f6ec3df9-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -418,19 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/8/a89b323c-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】X民「ヨドバシ秋葉原の『iPhone Duo(36万円)』もうヒンジダメになってて流石にありえない」 →お前らの想像以上にヤベえ画像が・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580622.html",
-      "pubDate": "2026-10-25T18:20:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c5a2fd17.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -717,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/af0f8b02.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【移民政策】高市首相への失望の声、殺到　もはや移民推進派と認識されてしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461357.html",
-      "pubDate": "2026-10-25T09:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17b3b8e8.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1001,19 +1014,6 @@
       "link": "https://rocketnews24.com/2026/10/24/2834345/",
       "pubDate": "Sat, 24 Oct 2026 01:50:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_2779-2.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【比較】ドンキの「電子シーシャ界隈」が闇鍋状態だから、5種類吸って正直な感想を書く",
-      "description": "タバコをやめました。9月の中旬くらいに。1カ月以上吸ってないのでもはや禁煙の意識もないんだけど、一呼吸置く瞬間が無くなるのは嫌なので、ニコチン0、タール0の電子シーシャでタイミングを取ることにした。 ただ、いざドン・キホ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/24/2833751/",
-      "pubDate": "Sat, 24 Oct 2026 01:00:05 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/seesha2.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T21:30:41.884443",
+  "updatedAt": "2026-10-25T22:00:48.111468",
   "sites": [
     {
       "id": "hachima",
