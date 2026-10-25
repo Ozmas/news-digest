@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】最近の若者、もはや自分で婚活できずに○○に頼る時代へ・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461372.html",
+      "pubDate": "2026-10-25T13:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/f/ffe452a4.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "17歳男子高校生、金属バットのようなもので散歩していた男性（70）をぶん殴って逃走したとして逮捕される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580563.html",
+      "pubDate": "2026-10-25T13:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca2acd6a-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fd2bb0d7.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】検証民「iPhone Duo、反対側に強く折り曲げたら壊れた！！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580467.html",
-      "pubDate": "2026-10-25T01:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/8/8899e35a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -793,19 +806,6 @@
       "link": "https://brutus.jp/post-530953/",
       "pubDate": "Sat, 24 Oct 2026 06:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "台風31号発生！＼(^o^)／ 2013年以来13年ぶり！／(^o^)＼",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461315.html",
-      "pubDate": "2026-10-24T14:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/e/ae80bc5e.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T04:00:50.627002",
+  "updatedAt": "2026-10-25T04:30:41.494654",
   "sites": [
     {
       "id": "hachima",
