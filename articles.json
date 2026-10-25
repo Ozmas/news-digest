@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜福岡編〜",
+      "description": "焼とり鳥いち 1本ずつ焼き上がる串をアテによりどりの酒を楽しむ ・2025年8月移転オープン。ゆったり座れるカウンター16席。・注文は1人7串から。・だんご（つくね）ファンが多い。・締めは醤油ラーメンかそぼろ丼。迷う。・ [&#8230;]",
+      "link": "https://brutus.jp/post-512467/",
+      "pubDate": "Sun, 25 Oct 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1185,19 +1198,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "もっと恐竜を知るためのミュージアムガイド。〈むかわ町穂別恐竜博物館〉〈大阪市立自然史博物館〉etc.",
-      "description": "唯一無二！カムイサウルスの全身実物化石 むかわ町穂別恐竜博物館（北海道／むかわ町） 首長竜・ホベツアラキリュウの化石の発見をきっかけに開館。穂別地域の地質・化石資料の収集保存、調査研究、教育普及活動を行う。今年4月に新設 [&#8230;]",
-      "link": "https://brutus.jp/post-533674/",
-      "pubDate": "Fri, 23 Oct 2026 06:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T10:30:42.261227",
+  "updatedAt": "2026-10-25T11:00:50.002113",
   "sites": [
     {
       "id": "hachima",
