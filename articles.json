@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ライブ配信】飯を食いながらのおしゃべり、それぞれ食べたいものを持ち寄ったら人柄が丸見えになった",
+      "description": "毎週水曜19時30分から、当サイトのYouTubeチャンネル「ロケットニュース24」で行っているライブ配信。ここのところ、レギュラー3人は忙しくしていて、毎回2人ずつでの出演が続いていたのだが、今回は9月9日以来、1カ月 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/25/2833618/",
+      "pubDate": "Sun, 25 Oct 2026 06:00:57 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/repo102100.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "フランスX民「日本人諸君、これ以上ふざけた投稿を続けるなら、日本旅行をキャンセルせざるを得ないよ？」→結果",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461362.html",
+      "pubDate": "2026-10-25T15:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/4/b48b42e7.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -769,19 +795,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【え？】ホラーゲーム『青鬼』、VTuberになる・・・記念すべき第1回配信はコレだｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461317.html",
-      "pubDate": "2026-10-24T16:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/2/522889ac.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1040,19 +1053,6 @@
       "link": "https://www.buzzfeed.com/jp/yukiadachi/itokadue-kuruma1019",
       "pubDate": "Fri, 23 Oct 2026 06:46:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/03/subbuzz/ExQet5CvO.jpg?crop=1401:934;0,223&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「バイクにサイドミラーを壊された」ケニアのタクシー運転手が語る事故と保険の現実【カンバ通信：第535回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回は、いつものポテトの話ではなく、ケニアの自動車保険についてお話ししようと思う。 実は先日、カンバ通信のリクエストボックス [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/23/2833303/",
-      "pubDate": "Fri, 23 Oct 2026 10:30:20 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eyechaos_1920.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T06:00:49.115870",
+  "updatedAt": "2026-10-25T06:30:45.441269",
   "sites": [
     {
       "id": "hachima",
