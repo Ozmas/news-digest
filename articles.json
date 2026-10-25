@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「電気代が高いから温め直さない」ポテト屋の切実な事情【カンバ通信：第537回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べようと思い、あるレストランへ行ってきた。 店の名前は「Ledama Fries and Food」。 店の [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/25/2833631/",
+      "pubDate": "Sun, 25 Oct 2026 10:00:10 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/ケニア屋台の熱々ポテト騒動_1920.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "綴る、わがままな部屋。ミュージシャン・曽我部恵一の居住空間学",
+      "description": "たまにはぼくの家に遊びに来ませんか？ 家というものはまずシェルターであるので、住まう者が心地よければそれでオッケーだと思っている。狭かろうが日当たりが悪かろうが、モノで溢れ返って散らかっていても、住人が良ければそれでいい [&#8230;]",
+      "link": "https://brutus.jp/post-531044/",
+      "pubDate": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】料理研究家リュウジさん、料理研究家リュウジのアンチになってしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580623.html",
+      "pubDate": "2026-10-25T18:40:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/8/a89b323c-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -535,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/af0f8b02.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "猫系YouTuber『もちまる日記』、2026年12月13日にYouTube引退を発表",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580527.html",
-      "pubDate": "2026-10-25T09:30:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/7/d704750d-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -990,19 +1016,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8335-1-1024x767.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "勝手に方向性決めんな！ シレっと自分好みにする委員長！　隣りの席の子の様子がおかしい第71回「文化祭の出し物決め」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/10/24/2811266/",
-      "pubDate": "Fri, 23 Oct 2026 23:00:22 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari71-1koma.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1182,19 +1195,6 @@
       "description": "唯一無二！カムイサウルスの全身実物化石 むかわ町穂別恐竜博物館（北海道／むかわ町） 首長竜・ホベツアラキリュウの化石の発見をきっかけに開館。穂別地域の地質・化石資料の収集保存、調査研究、教育普及活動を行う。今年4月に新設 [&#8230;]",
       "link": "https://brutus.jp/post-533674/",
       "pubDate": "Fri, 23 Oct 2026 06:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】小さな気球が浮かんでいるような、〈migiwa行李〉のランタン",
-      "description": "部屋作りを楽しむあの人へ気球型のランタン 〈migiwa行李〉のランタン 籐で編み上げたランタンは、フックに吊るすと、まるで小さな気球が浮かんでいるような愛らしさ。約1300年の歴史を持つ兵庫県豊岡市の伝統工芸「豊岡杞柳 [&#8230;]",
-      "link": "https://brutus.jp/post-533288/",
-      "pubDate": "Fri, 23 Oct 2026 03:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T09:30:43.758791",
+  "updatedAt": "2026-10-25T10:00:50.230019",
   "sites": [
     {
       "id": "hachima",
