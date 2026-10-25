@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ソウルでワークショップが人気のミュージアム。仁寺洞〈ミュージアムキムチ 間〉",
+      "description": "キムチと発酵文化について、作って食べて、体で学ぶ 1986年に開館した韓国初のキムチ専門ミュージアム。2015年に現在の場所に移転リニューアルし、展示内容も一新し、デジタル展示が行われるようになった。展示室では、キムチの [&#8230;]",
+      "link": "https://brutus.jp/post-534007/",
+      "pubDate": "Sun, 25 Oct 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "創業60年の阪神そばのDNAをこっそり継ぐ駅カレー屋「ミンガス」に行ってみた / 立ち食いそば放浪記403回：大阪梅田",
+      "description": "ダンジョンと呼ばれて久しい大阪梅田駅。JR、阪急、阪神、大阪メトロと、とにかく大阪駅や梅田駅だらけなので接続がカオスなのだ。例えるなら渋谷スクランブル交差点が街レベルで顕現してるようなものである。私（中澤）は大阪出身だけ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/25/2833509/",
+      "pubDate": "Sun, 25 Oct 2026 02:55:35 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/mingus.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "競走馬・ドヤコンガが遂にメイクデビューｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580546.html",
+      "pubDate": "2026-10-25T11:30:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/9/79fada20.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "すかいらーくのハワイアンレストラン『ラ・オハナ』に初めて行ったみた → まさかの「フォカッチャ」が食べ放題でイタリアの気分になった",
+      "description": "先日、すかいらーくが手掛けるハワイアンレストラン『ラ・オハナ』を発見。ちょうどお昼どきでお腹も空いていたので、初めて入店してみることにした。 かねてより、スゴイ！　との噂は耳にしていたのでワクワクしながらメニューを開いて [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/25/2833367/",
+      "pubDate": "Sun, 25 Oct 2026 02:30:35 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/42596_0.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -15,6 +67,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/935217d7.jpg"
     },
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "ヴィコ・マジストレッティが手がけたアウトドア用アームチェアが復刻。",
+      "description": "ヴィコ・マジストレッティが手がけたアームチェア《ノヴェトレンタ》。1966年から78年まで製造された名作を〈カッシーナ〉が屋外用として復刻。",
+      "link": "https://casabrutus.com/categories/design/494707",
+      "pubDate": "Sun, 25 Oct 2026 02:25:03 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -24,7 +89,7 @@
       "title": "「おでんに『ウインナー』を入れる」 ← そんなにダメ？お前ら、どうなの？",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10580539.html",
-      "pubDate": "2026-10-25T11:00:47+09:00",
+      "pubDate": "2026-10-25T11:00:40+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c7b11733-s.jpg"
     },
     {
@@ -468,19 +533,6 @@
       "link": "https://jin115.com/archives/52461327.html",
       "pubDate": "2026-10-24T23:00:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/e/4eca2157-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【草原火災】KDDI「社員に法令違反ない」 → モンゴル当局が賠償請求検討「謝罪だけでは済まない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580450.html",
-      "pubDate": "2026-10-24T22:40:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/9/19edf850.jpg"
     },
     {
       "siteId": "jin",
@@ -1016,19 +1068,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "谷本道哉先生に1分間エクササイズを教わったら、なぜか最後は写真の合成を提案された話",
-      "description": "普段、座って仕事をすることが多く、筋肉不足が気になっている私。 そんなときに知ったのが、たった1分でできるという「骨活＆筋活エクササイズ」だ。 1分なら私にもできそう！　ということで、専門家から直接教えてもらえるメディア [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/23/2832798/",
-      "pubDate": "Fri, 23 Oct 2026 09:00:43 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/honekatsu-52.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1066,19 +1105,6 @@
       "link": "https://brutus.jp/post-531009/",
       "pubDate": "Fri, 23 Oct 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【懐かしい】「iPhone DUO」に入れたい2つ折り端末に最適化された、カセットプレイヤー風音楽アプリ『Bionic Tape』",
-      "description": "2026年10月23日、Appleの初の2つ折り端末「iPhone Duo」が発売開始（予約は10月16日から）した。どうだろう、すでに手に入れた人もいるだろうか。もっとも容量の小さいモデルでも36万4800円、最大容量 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/23/2834001/",
-      "pubDate": "Fri, 23 Oct 2026 07:30:40 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/bionictape.jpg"
     },
     {
       "siteId": "brutus",
@@ -1211,19 +1237,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "Vol.12 いつもの暮らしに、〈天童木工〉を。〈fennica〉の「Tendo in daily life」",
-      "description": "名作家具から工場の帽子まで 「デザインとクラフトの橋渡し」をテーマに掲げる〈BEAMS〉発のレーベル〈fennica（フェニカ）〉と、山形県の家具メーカー〈天童木工〉が、特別なコレクション「Tendo in daily  [&#8230;]",
-      "link": "https://brutus.jp/post-530155/",
-      "pubDate": "Fri, 23 Oct 2026 00:55:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1339,19 +1352,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/22/gongcha-soramachi/",
       "pubDate": "Wed, 21 Oct 2026 23:01:20 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7720-1024x767.jpeg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "伝統的なX脚の椅子を現代風にアップデート。デンマーク発、折りたたんでも美しいスツール。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495031",
-      "pubDate": "Wed, 21 Oct 2026 22:00:44 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T02:30:40.426564",
+  "updatedAt": "2026-10-25T03:00:52.356268",
   "sites": [
     {
       "id": "hachima",
