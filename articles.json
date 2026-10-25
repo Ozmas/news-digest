@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「海外生活に強い人ってのは『英語がペラペラで国際感覚がある人』じゃなくてこういう人です」⇒ 共感の嵐に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580574.html",
+      "pubDate": "2026-10-25T15:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/9/69b55d24.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【激安終了速報】鋼の錬金術師、薬屋のひとりごと、凶乱令嬢ニア・リストンなどが”実質半額”になるKindle超セールは本日10月25日まで！ヤニすう、着せ恋、わたモテなども対象！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461376.html",
+      "pubDate": "2026-10-25T15:30:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d298df2d.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/5/1546d7bf.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【うｐろだ】「uploader.jp」が11月25日でサービス終了へ。マジでお世話になりました",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580449.html",
-      "pubDate": "2026-10-25T05:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dc0abdc7.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +767,6 @@
       "link": "https://brutus.jp/post-533607/",
       "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男「なんで女性のブラって背面ホックが基本なの？前面の方が便利だと思う」→女神や聖母達が降臨！タメになるなァ～！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461322.html",
-      "pubDate": "2026-10-24T17:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d6de8e56.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T06:30:45.441269",
+  "updatedAt": "2026-10-25T07:00:49.727079",
   "sites": [
     {
       "id": "hachima",
