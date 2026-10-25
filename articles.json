@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2153話目「新設、トラップ部隊㉗」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/10/25/2833540/",
+      "pubDate": "Sun, 25 Oct 2026 12:00:17 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2153a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】電子漫画『ピッコマ』不正アクセスで顧客のメールアドレス約100万件流出",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580640.html",
+      "pubDate": "2026-10-25T21:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/33381607-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "元ジャンポケ・斉藤慎二被告、YouTubeチャンネル立ち上げ　現在の収入源などを明かす",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580639.html",
+      "pubDate": "2026-10-25T20:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/e/2e7bf276-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,32 +481,6 @@
       "link": "http://blog.esuteru.com/archives/10580562.html",
       "pubDate": "2026-10-25T12:40:18+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/81c2fd97-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "快適なゲームプレイのために『iPhoneDuo』を買った外人さん『原神』を起動して即返品ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580561.html",
-      "pubDate": "2026-10-25T12:20:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7d222147.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『シャニマス』のユニット「ノクチル」の新ロゴがあまりにもアニメイトすぎるｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580554.html",
-      "pubDate": "2026-10-25T12:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/a/7ab993d5-s.png"
     },
     {
       "siteId": "jin",
@@ -1001,19 +1014,6 @@
       "link": "https://brutus.jp/post-531032/",
       "pubDate": "Sat, 24 Oct 2026 01:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "高級ルマンド「Un BOURBON」が東京初出店！ 1本640円の商品も食べてみたけど、正直に言わせてほしい",
-      "description": "ルマンドのサクサク生地が好きだという人は、多いのではないだろうか？ あの生地が主役のお菓子を販売する「Un BOURBON（アン・ブルボン）」が、11月3日まで大丸東京店に関東初出店している。 普段は新潟でしか買えず、3 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/24/2834152/",
-      "pubDate": "Sat, 24 Oct 2026 00:00:28 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/UnBourbon-11.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T11:30:39.731777",
+  "updatedAt": "2026-10-25T12:00:49.670082",
   "sites": [
     {
       "id": "hachima",
