@@ -2,6 +2,214 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】本所吾妻橋駅すぐ「和韓ブランチ 熾き火」が2026年10月23日（金）の営業をもって閉店となりました。",
+      "description": "本所吾妻橋駅すぐ「和韓ブランチ 熾き火」が2026年10月23日（金）の営業をもって閉店となりました。 2024年11月のOPEN以来、素敵な店内と目でも舌でも楽しめる素敵なお料理の数々で、あっという間に人気のお店となり [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/26/okibi-close/",
+      "pubDate": "Sun, 25 Oct 2026 23:01:02 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8316-1024x767.jpeg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【実録】初依頼は冷蔵庫の探し物。視覚サポートアプリ「Be My Eyes」を使ってみたら、こちらこそありがとうと言いたくなった",
+      "description": "先日、スマートグラスの試着をした際に、たまたま「be my eyes（ビー・マイ・アイズ）」というアプリの存在を知った。 視覚障がいのある人と、目の見えるボランティアをつなぐサービスで、スマホを通じて日常生活のちょっとし [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/26/2812546/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:43 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/bemyeyes-3-1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】Fate史上最もドスケベな「公式エ◯同人漫画」こと『Fate/stay night [Heaven’s Feel]』例の最新巻、ついに発売へｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580739.html",
+      "pubDate": "2026-10-26T08:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c758c603.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日の運勢。星々が告げる運を味方にするヒント【ブルータス週間占い】",
+      "description": "全体の空模様 牡牛座の満月によって、1週間の幕が開きます。地のエレメントに属す牡牛座は、日々の生活や、それらの安定を示すサイン（星座）。ここでの満月は、現状の暮らしに満足しているかを問いかけてきます。この満月に冥王星（破 [&#8230;]",
+      "link": "https://brutus.jp/post-534110/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 牡羊座の運勢【ブルータス週間占い】",
+      "description": "牡羊座の羅針盤 本当に満たされているか自問する 26日に満月が起こる牡牛座は、牡羊座から見て経済の部屋にあたります。これは、経済的成功や安定を意味する満月。貯金や収入、自宅、車など、欲しいと思っていたものが一通りそろった [&#8230;]",
+      "link": "https://brutus.jp/post-534118/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 牡牛座の運勢【ブルータス週間占い】",
+      "description": "牡牛座の羅針盤 今いる場所に感謝する 自エリア（牡牛座）での満月は、地道に積み重ねてきたことがとうとう形になると示しています。今年の誕生日の頃から取り組んできた仕事が、世間に認められるでしょう。もしくは、プライベートで続 [&#8230;]",
+      "link": "https://brutus.jp/post-534123/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 双子座の運勢【ブルータス週間占い】",
+      "description": "双子座の羅針盤 何事にも好奇心の目を向ける 双子座から見て内省の部屋にあたる牡牛座の満月は、停滞感のある日々に光を投げかけます。太陽と逆行中の水星（思考）とが調整の部屋である蠍座にいるので、進めようと思っていたことがなか [&#8230;]",
+      "link": "https://brutus.jp/post-534125/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 蟹座の運勢【ブルータス週間占い】",
+      "description": "蟹座の羅針盤 自分の価値観や感覚を信じる 週明け、蟹座にとって将来や理想を表す部屋、牡牛座で満月が起こります。かつて描いた理想のロードマップに沿って進めていると、充実した気持ちを得るでしょう。ただ、ここで満足して終わり、 [&#8230;]",
+      "link": "https://brutus.jp/post-534127/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 獅子座の運勢【ブルータス週間占い】",
+      "description": "獅子座の羅針盤 少しずつ自分を新しくする 6月末に自エリア（獅子座）に木星（成長）が入って以来、仕事の広がりや成長の時期が続いています。26日の満月は、獅子座にとって社会的立場を表す部屋、牡牛座で起こります。これによって [&#8230;]",
+      "link": "https://brutus.jp/post-534129/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 乙女座の運勢【ブルータス週間占い】",
+      "description": "乙女座の羅針盤 身近な範囲を俯瞰して動き回る 乙女座にとって将来を意味する部屋、牡牛座での満月から始まる今週は、進むべき道筋が地図から浮かび上がるようにくっきりと見えてくる週です。ただ、太陽に90度でコンタクトしてくる冥 [&#8230;]",
+      "link": "https://brutus.jp/post-534131/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 天秤座の運勢【ブルータス週間占い】",
+      "description": "天秤座の羅針盤 大切な人と過ごせる幸せを噛み締める 天秤座から見て、深い関係を表す部屋となる牡牛座。26日にここで起こる満月は、大切な人との関係が深まる兆しです。身近な相手に対して、「この人とずっと一緒にいたい」と実感す [&#8230;]",
+      "link": "https://brutus.jp/post-534133/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 蠍座の運勢【ブルータス週間占い】",
+      "description": "蠍座の羅針盤 古い自分の殻を破る 週の初め、蠍座にとって対人関係を表す部屋である牡牛座で満月が起こります。これは、自分が一緒に過ごしたい相手がはっきりと見えてくる星回り。今そばにいる人たちとの関係性が最高潮を迎えそうです [&#8230;]",
+      "link": "https://brutus.jp/post-534140/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 射手座の運勢【ブルータス週間占い】",
+      "description": "射手座の羅針盤 次なる目標を見つける 週の初め、射手座にとって日々の業務を表す部屋、牡牛座で満月が起こります。これは、地道に続けてきた習慣が成果につながる兆し。日々運動をするようにしていたなら、体の変化を感じるでしょう。 [&#8230;]",
+      "link": "https://brutus.jp/post-534143/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 山羊座の運勢【ブルータス週間占い】",
+      "description": "山羊座の羅針盤 客観視を意識する 週頭、山羊座にとって自己表現を意味する部屋、牡牛座で満月が起こります。自分の得意なことで周囲から評価を得る機会が増えそうです。また、喜びを司る金星が、キャリアを示す部屋、天秤座 で逆行中 [&#8230;]",
+      "link": "https://brutus.jp/post-534145/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 水瓶座の運勢【ブルータス週間占い】",
+      "description": "水瓶座の羅針盤 方向転換を焦らない 牡牛座は、水瓶座から見て居場所や基盤を示す部屋となります。週明けにここで満月が起こり、これまでの振り返りを促してきます。仕事やプライベートで積み重ねてきたことが身についていて、きちんと [&#8230;]",
+      "link": "https://brutus.jp/post-534147/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "10月26日〜11月1日 魚座の運勢【ブルータス週間占い】",
+      "description": "魚座の羅針盤 理想を追うための基礎力をつける 魚座から見て学びの部屋にあたる牡牛座での満月から始まる1週間です。過去の積み重ねが血肉となったと実感するタイミングがあるでしょう。日々の業務の部屋である獅子座に火星（意欲）が [&#8230;]",
+      "link": "https://brutus.jp/post-534149/",
+      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -416,19 +624,6 @@
       "link": "https://brutus.jp/post-512467/",
       "pubDate": "Sun, 25 Oct 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "TBS『サンデーモーニング』MC・膳場貴子さん「日本もフランスのように暴動が起きてもおかしくない」「ちょっとひとごととは思えない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580630.html",
-      "pubDate": "2026-10-25T19:30:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dcff62d9.jpg"
     },
     {
       "siteId": "jin",
@@ -847,19 +1042,6 @@
       "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/10/OG-37-750x500.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "「ベストよりベターを目指す」。東大人気講義録：森畑明昌先生の「囲碁で養う考える力」",
-      "description": "講義の概要 日本棋院の全面的な協力の下、東大出身のプロ棋士、石倉昇九段を中心に2005年10月に開講。古い歴史を持つ伝統文化でもあり、頭脳のスポーツともされる「囲碁」。そのルールを学び、実戦を通じて、判断力や分析力、洞察 [&#8230;]",
-      "link": "https://brutus.jp/post-495166/",
-      "pubDate": "Sat, 24 Oct 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -871,32 +1053,6 @@
       "link": "https://rocketnews24.com/2026/10/24/2833316/",
       "pubDate": "Sat, 24 Oct 2026 10:00:42 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_a51f7c.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "もっと文学を知るためのミュージアムガイド。〈函館市文学館〉〈松本清張記念館〉etc.",
-      "description": "歴史的建造物で北の文学と文学者を知る 函館市文学館（北海道／函館市） 函館、札幌、小樽、釧路に暮らし、「死ぬときは函館へ行って死ぬ」と書き残した石川啄木。詩に短歌、評論、小説も著した啄木を中心に、今東光、久生十蘭、長谷川 [&#8230;]",
-      "link": "https://brutus.jp/post-533766/",
-      "pubDate": "Sat, 24 Oct 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ファインミネラル図鑑【イングランド、スペイン、スウェーデン】",
-      "description": "England【イングランド】 多様性と歴史が物語る、フローライトの一大産地 代表的なウェアデール産のグリーンのものから、200年前に産出したデヴォン産まで、多様性と歴史でファンを魅了するフローライトの聖地。 Spain [&#8230;]",
-      "link": "https://brutus.jp/post-533607/",
-      "pubDate": "Sat, 24 Oct 2026 09:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -912,19 +1068,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/gaisentottori.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "カシミヤを、染めて遊ぶ。〈BRÚ NA BÓINNE〉のカシミヤセーター：Brutus Best Bets",
-      "description": "カシミヤを、染めて遊ぶ 服との出会いも一期一会。まして稀少なものなら、なおさらだ。〈ブルーナボイン〉のカシミヤセーターは、職人が一着ずつ手作業で注染を施したもの。上質な素材に鮮やかな色柄を重ね、昼と夜が入り混じるような幻 [&#8230;]",
-      "link": "https://brutus.jp/post-531016/",
-      "pubDate": "Sat, 24 Oct 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -936,32 +1079,6 @@
       "link": "https://rocketnews24.com/2026/10/24/2832785/",
       "pubDate": "Sat, 24 Oct 2026 06:00:17 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-4-9.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "木材メーカーから学ぶ、部屋づくりの新しい選択肢。「理想の暮らしから考える、床材の選び方と作り方」",
-      "description": "理想の暮らしから考える、床材の選び方と作り方 住宅や店舗・オフィスなどに、フローリングや壁・天井の木質資材を提供する〈ティンバークルー〉。主なクライアントは、デザイナーや建築家だ。彼らが描く空間に対して、どんな木材ならそ [&#8230;]",
-      "link": "https://brutus.jp/post-530953/",
-      "pubDate": "Sat, 24 Oct 2026 06:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "箱推し、ファンミ、女オタオタ……。勝手に令和の、アイドル界隈用語集",
-      "description": "【アクスタ】 あくすた アクリルスタンドの略。定番のアイドルグッズ。ハロプロ界隈ではかつての呼称で「FSK（フィギュアスタンドキーホルダー）」と呼ぶ。（でか美ちゃん） 【産んだ記憶ある】 うんだきおくある 推しがあまりに [&#8230;]",
-      "link": "https://brutus.jp/post-479040/",
-      "pubDate": "Sat, 24 Oct 2026 03:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1016,32 +1133,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_37391.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【57％オフ】MIZUNOの吸汗速乾ポロシャツが3850円 → 1667円（M・L）/ Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。アパレル・飲料・食品など、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、ミズノの吸汗速乾ポロシャツをピックアップ！ いまならM・Lサイズが [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/24/2834345/",
-      "pubDate": "Sat, 24 Oct 2026 01:50:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_2779-2.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "「屋上で風に当たりながら過ごしたい」。建築設計事務所〈ナノメートルアーキテクチャー〉を驚かせた住人力",
-      "description": "施主の言葉 屋上で風に当たりながら過ごしたい 建築家の言葉 非日常的な空間の楽しみ方を教わりました 当初は増改築を繰り返した既存住宅のリノベーションで計画を進めていました。しかし諸事情から同じ土地で新築を建てることになり [&#8230;]",
-      "link": "https://brutus.jp/post-531032/",
-      "pubDate": "Sat, 24 Oct 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1053,19 +1144,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/24/saintmarccha-open/",
       "pubDate": "Fri, 23 Oct 2026 23:01:16 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8335-1-1024x767.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "歌舞伎俳優・尾上右近と巡る〈江戸東京博物館〉。江戸から東京の変遷を3次元で体感",
-      "description": "歌舞伎俳優の尾上右近さんは、現代美術家との対談集を出すなどアート好きとして知られ、折に触れミュージアムを訪れている。〈江戸東京博物館〉がリニューアルオープンしたことを知り、多忙な中、4月に訪れたという。 「歌舞伎では江戸 [&#8230;]",
-      "link": "https://brutus.jp/post-533712/",
-      "pubDate": "Fri, 23 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1094,32 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜静岡編〜",
-      "description": "味の店 乃だや おでん、串、フライ、焼きそば。静岡の酒場の必須つまみが揃う ・創業70年以上を誇る、老舗居酒屋。・名物は味噌おでんに串焼き、フライ、ソース焼きそば。関東おでんもあり。・最初の一杯から、静岡の地酒歓迎！定番 [&#8230;]",
-      "link": "https://brutus.jp/post-512339/",
-      "pubDate": "Fri, 23 Oct 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ホームリネン、なに使ってますか？Vol.3",
-      "description": "グラフィックデザイナー・大坪メイ インド製の布 仙台の工芸品店〈光原社〉にて購入したインド製の布たち。大判のブルーのものは、プリンターに掛けて埃除けとして使っています。 小さいものはハンカチとして持ち歩いたり、首に巻いて [&#8230;]",
-      "link": "https://brutus.jp/post-524220/",
-      "pubDate": "Fri, 23 Oct 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1131,19 +1183,6 @@
       "link": "https://www.buzzfeed.com/jp/yukiadachi/itokadue-kuruma1019",
       "pubDate": "Fri, 23 Oct 2026 06:46:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/03/subbuzz/ExQet5CvO.jpg?crop=1401:934;0,223&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ロックの話をしよう。Vol.19「ウッドストックの夢の跡」",
-      "description": "ロックが流行らなくなった。そんな身も蓋もない話から、この対談は始まる。 かつてロックは、若者の音楽であり、バンドの音楽であり、衝動やロマンや思想を映し出す音楽だった。ギターを持つこと、バンドを組むこと、レコードを買うこと [&#8230;]",
-      "link": "https://brutus.jp/post-528899/",
-      "pubDate": "Fri, 23 Oct 2026 10:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1170,32 +1209,6 @@
       "link": "https://www.buzzfeed.com/jp/yukiadachi/kusabuemitsuko-sotsugyou1022",
       "pubDate": "Fri, 23 Oct 2026 04:31:01 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/07/subbuzz/zNxuuVx09.jpg?crop=1801:1201;319,230&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "誰もが夢中。〈MiuMiu〉のシューズ：Brutus Best Bets",
-      "description": "誰もが〈ミュウミュウ〉に夢中 今〈ミュウミュウ〉を選ぶのは、女性だけじゃない。ユニセックスで楽しめるアイテムも増え、メンズからの支持も拡大。勢いを象徴するのが、2000年代初頭のアーカイブを蘇らせた《バブルシューズ》だ。 [&#8230;]",
-      "link": "https://brutus.jp/post-531009/",
-      "pubDate": "Fri, 23 Oct 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "“ルーツなき街”で考える。ラッパー・荘子itと巡る『路上、お邪魔ですか？』展",
-      "description": "“ルーツなき街”で考える、「路上」にまつわるエトセトラ 「“たいていの者は、シャレた店とテニスコートへ向かい、それが出来ない不器用な連中はどうしたかというと、路上にさまよい出て、その辺にころがるヘンテコなものを観察し始め [&#8230;]",
-      "link": "https://brutus.jp/post-531740/",
-      "pubDate": "Fri, 23 Oct 2026 07:30:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1627,19 +1640,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/15/01/subbuzz/tmZRJ3Mfo.jpg?crop=2466:1644;0,704&resize=1250:830"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】今回は区外の方もOK！一次販売で買った方も！２０％お得な「すみだプレミアム付きデジタル商品券」発売開始。",
-      "description": "2026年10月2日からすみだプレミアム付きデジタル商品券の第二次販売が開始されました。 一次販売と何が違うの？という声が聞こえてきたのでまとめます。 二次販売は PayPayアプリ内で本人確認済み 12歳以上 「区内・ [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/16/paypay-2/",
-      "pubDate": "Thu, 15 Oct 2026 23:01:23 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/02102446c87143f0ca57302b8cdc8fd4-1024x767.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T23:00:48.388814",
+  "updatedAt": "2026-10-25T23:28:47.689392",
   "sites": [
     {
       "id": "hachima",
