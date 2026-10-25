@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】X民「ヨドバシ秋葉原の『iPhone Duo(36万円)』もうヒンジダメになってて流石にありえない」 →お前らの想像以上にヤベえ画像が・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580622.html",
+      "pubDate": "2026-10-25T18:20:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c5a2fd17.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【怖すぎ】堀大輔氏、ブレイキングダウンで高須幹弥医師の腕を破壊して「手術できないようにする」ことを狙っていた → 父・高須院長がブチギレ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580593.html",
+      "pubDate": "2026-10-25T18:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6fae62c5.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17b3b8e8.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "トランプ大統領「早ければ、明日イランに攻撃するかもね」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580521.html",
-      "pubDate": "2026-10-25T09:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b1e4aa64.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -559,19 +572,6 @@
       "link": "https://rocketnews24.com/2026/10/25/2813038/",
       "pubDate": "Sun, 25 Oct 2026 00:00:37 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/ec1878db-8f76-47e2-a114-59a578712b73.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【胸糞】飼い主が散歩中の犬に対し、怒鳴りながら蹴る動画が拡散され話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580520.html",
-      "pubDate": "2026-10-25T08:30:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/57846abc-s.png"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T09:00:50.467514",
+  "updatedAt": "2026-10-25T09:30:43.758791",
   "sites": [
     {
       "id": "hachima",
