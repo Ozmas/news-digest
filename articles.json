@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『iPhone Duo』、ガチでやばいかも・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461404.html",
+      "pubDate": "2026-10-25T22:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/349d4dc5.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -780,19 +793,6 @@
       "link": "https://jin115.com/archives/52461342.html",
       "pubDate": "2026-10-25T00:00:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/109a2828.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "夫婦喧嘩した夫さん、妻に「頭おかしいんじゃないの！？検査しろ！！」と言われガチで脳ドッグを申し込む → ヤバすぎる原因が判明・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461327.html",
-      "pubDate": "2026-10-24T23:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/e/4eca2157-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T12:30:41.183827",
+  "updatedAt": "2026-10-25T13:00:48.153816",
   "sites": [
     {
       "id": "hachima",
