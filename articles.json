@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "7児の母「今まで誹謗中傷ポストをたくさん開示請求したけど、◯◯◯な人しか出てこなかった」←これマジらしいぞ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461379.html",
+      "pubDate": "2026-10-25T20:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/4/7492bd37.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中国「我々に謝罪がないアル！」モンゴルだけに謝ったKDDIにブチギレｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580632.html",
+      "pubDate": "2026-10-25T20:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b111f2ce.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -483,19 +509,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/mingus.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "競走馬・ドヤコンガが遂にメイクデビューｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580546.html",
-      "pubDate": "2026-10-25T11:30:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/9/79fada20.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -754,19 +767,6 @@
       "link": "https://jin115.com/archives/52461339.html",
       "pubDate": "2026-10-24T22:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/4/042842d0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気お笑い芸人さん、最近の歌い手やボカロにブチギレ「歌い手増えすぎ！」「顔出せや！」「法律で歌い手禁止法出そうか？」→炎上してしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461340.html",
-      "pubDate": "2026-10-24T21:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/326950eb.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T11:00:50.002113",
+  "updatedAt": "2026-10-25T11:30:39.731777",
   "sites": [
     {
       "id": "hachima",
