@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第117話「煙」",
+      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/25/2813350/",
+      "pubDate": "Sun, 25 Oct 2026 08:00:18 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kikimimi22-1koma.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ダウンなのに、すっきり。〈YAECA〉のパンツ：Brutus Best Bets",
+      "description": "ダウンなのに、すっきり ダウンパンツは暖かい。でも、モコモコするのは困る。〈ヤエカ〉は、そんな悩みを大胆なテーパードシルエットで解決。冷気を防ぎ、ブーツにも収めやすい。表地はコットン×ナイロンのギャバジンで水はけもよく、 [&#8230;]",
+      "link": "https://brutus.jp/post-531020/",
+      "pubDate": "Sun, 25 Oct 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】フランスのゲームショップ、あのソフトだけ略奪されない・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580576.html",
+      "pubDate": "2026-10-25T16:30:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/3/c3f6be34.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -548,19 +587,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ショートスリーパー・堀大輔さんのモデレーターらしきX民がクビになったのか、暴露しまくってしまう 「社会悪の言論統計にこれ以上加担しないですみます」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580510.html",
-      "pubDate": "2026-10-25T07:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/dd168a08-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1003,19 +1029,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2151話目「新設、トラップ部隊㉕」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/23/2833525/",
-      "pubDate": "Fri, 23 Oct 2026 12:00:07 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2151a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1221,19 +1234,6 @@
       "description": "東京国際フォーラムにて、芸術文化を通じて共生社会のあり方を考える「だれもが文化でつながる国際会議2026」が開催されます。 本会議は、東京都とアーツカウンシル東京が取り組む「クリエイティブ・ウェルビーイング・トーキョー」 [&#8230;]",
       "link": "https://artscape.jp/article/81559/",
       "pubDate": "Fri, 23 Oct 2026 01:00:39 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "京の余白を持ち帰る。わざわざ買いに行きたい、京都のお土産〜調味料編〜",
-      "description": "〈長文屋〉の七味唐辛子 調合する景色と香りもごちそう。自分好みの七味が作れる専門店 「大辛で山椒多めね」「シソは抜きで」。そんな自分好みの七味唐辛子が手にできるのも、足を運んでこそ。ここは、北野天満宮のお膝元で4代続く七 [&#8230;]",
-      "link": "https://brutus.jp/post-463779/",
-      "pubDate": "Fri, 23 Oct 2026 01:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T07:30:39.612253",
+  "updatedAt": "2026-10-25T08:00:48.755180",
   "sites": [
     {
       "id": "hachima",
