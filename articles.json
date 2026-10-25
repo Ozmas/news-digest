@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【実録】怪しいSMSを無視したら続けて「不正利用」のメールが… 焦ってカード停止までした結果",
+      "description": "どうやら我々は「そういう時代」に生きているらしい。インターネットを中心に様々な技術が発展する中、それから身を守るスキルも求められるようだ。 これは数日前に私（サンジュン）の身に起きた実際の話。ある晩、私のショートメッセー [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/25/2832903/",
+      "pubDate": "Sun, 25 Oct 2026 01:00:27 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sagi02.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "猫系YouTuber『もちまる日記』、2026年12月13日にYouTube引退を発表",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580527.html",
+      "pubDate": "2026-10-25T09:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/7/d704750d-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +468,6 @@
       "link": "https://brutus.jp/post-532004/",
       "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
       "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/10/OG-37-750x500.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "今月14日から行方不明だった14歳の男子中学生、公園で佇んでいるところを発見される…事件に巻き込まれた形跡もなし",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580422.html",
-      "pubDate": "2026-10-24T20:30:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/1/61f24301.jpg"
     },
     {
       "siteId": "jin",
@@ -1120,19 +1133,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2733-2.png"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【55％オフ】New Balanceの機能美リュックが1万6940円 → 7633円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。アパレル・食品・飲料など、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、ニューバランスの機能美リュック「アーバンウォーカーバックパック」を [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/23/2833959/",
-      "pubDate": "Fri, 23 Oct 2026 04:19:21 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_0074.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T00:30:43.104371",
+  "updatedAt": "2026-10-25T01:00:50.681327",
   "sites": [
     {
       "id": "hachima",
