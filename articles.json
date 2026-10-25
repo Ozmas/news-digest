@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【移民政策】高市首相への失望の声、殺到　もはや移民推進派と認識されてしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461357.html",
+      "pubDate": "2026-10-25T09:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17b3b8e8.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "トランプ大統領「早ければ、明日イランに攻撃するかもね」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580521.html",
+      "pubDate": "2026-10-25T09:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b1e4aa64.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「純正で十分」と思って1年半、ジムニーのマフラーをプロに相談しつつ『5ZIGEN SP7004-N』に変えたら世界が変わった話",
+      "description": "新型ジムニー（JB64 4型）に乗りはじめて、約1年半。当初は「ゴリゴリにカスタムしてやるぜ！」と思っていたが、いざ乗りはじめてみると、純正の完成度とバランスが素晴らしすぎる。 「もうこのままでも良いのでは……」なんて思 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/25/2813038/",
+      "pubDate": "Sun, 25 Oct 2026 00:00:37 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/ec1878db-8f76-47e2-a114-59a578712b73.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -418,19 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/1/61f24301.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】秦野市で放獣されたツキノワグマが再出没！駆除せず山に放した結果がこれ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580421.html",
-      "pubDate": "2026-10-24T20:10:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4ac51a94.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +767,6 @@
       "link": "https://jin115.com/archives/52461286.html",
       "pubDate": "2026-10-24T11:20:39+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/4/94f52ef3.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "あまりにも衝撃映像過ぎるドラレコ、見つかる・・・お前らこれ避けれるか？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461305.html",
-      "pubDate": "2026-10-24T11:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/0/e0129306.png"
     },
     {
       "siteId": "rocketnews",
@@ -1131,19 +1144,6 @@
       "link": "https://brutus.jp/post-533288/",
       "pubDate": "Fri, 23 Oct 2026 03:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【パンチョの新業態】代々木『ごちそうスープパスタ』に行ったら客席が女性ばかりで衝撃！ 「パスタ界の二郎」を封印したオシャレ店だが課題も…",
-      "description": "「改めてナポリタンは、うまいと言わせたい」のキャッチコピーでお馴染みの「スパゲッティーのパンチョ」は、どちらかといえば男性向けのお店。いわゆるガッツリ系で、量もさることながら味が濃く、ボリューミーなトッピングも売りのひと [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/23/2833127/",
-      "pubDate": "Fri, 23 Oct 2026 02:55:37 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/gochispa.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T00:00:53.830275",
+  "updatedAt": "2026-10-25T00:28:29.703685",
   "sites": [
     {
       "id": "hachima",
