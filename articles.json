@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「戦争反対」派、バカにされて叩かれる時代が来てるらしい",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461434.html",
+      "pubDate": "2026-10-26T19:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d7c73e28.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "内閣府、男女デートの奢り奢られ論争に決着をつけるｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580905.html",
+      "pubDate": "2026-10-26T19:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/485b7b34.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -470,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/0/2011e13c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【つらい】4人で焼肉食べて会計16000円、一人が8000円の優待券を出して「残りをみんなで払ってね」　→　まさかの最悪の反論をされてしまい、むせび泣く…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580764.html",
-      "pubDate": "2026-10-26T11:40:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/751d08c3.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -936,19 +949,6 @@
       "link": "https://jin115.com/archives/52461404.html",
       "pubDate": "2026-10-25T22:00:07+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/349d4dc5.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "店員さん、お客に知識マウントをとった結果、こうなる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461380.html",
-      "pubDate": "2026-10-25T21:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/a/8a4a4aac.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T10:00:51.692296",
+  "updatedAt": "2026-10-26T10:30:41.169182",
   "sites": [
     {
       "id": "hachima",
