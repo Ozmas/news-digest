@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『漫画村』元運営者・星野ロミさん「殺人事件に巻き込まれて警察沙汰になってました」→数日後、衝撃の真相が判明・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461437.html",
+      "pubDate": "2026-10-26T18:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca5267c5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ヤバイ】PSNに新たな脆弱性が発覚か　二段階認証を回避して勝手に◯◯されてしまう被害続出　ソニーはダンマリ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580892.html",
+      "pubDate": "2026-10-26T18:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/2/d29a0c7f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "米FOXニュース「40代以上がゲームに夢中になるのはおかしい」「『GTA6』は暴力の引き金になる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580812.html",
+      "pubDate": "2026-10-26T17:30:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d834f156-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -483,19 +522,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】ユーチューバー・デカキンさん、菊花賞を当てて838万円ゲット！ 日本ダービー・有馬記念と立て続けに的中ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580759.html",
-      "pubDate": "2026-10-26T11:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f24d5b3.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +533,6 @@
       "link": "https://jin115.com/archives/52461417.html",
       "pubDate": "2026-10-26T11:00:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c8e238be-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】SKE48アイドル・荒野姫楓さん「海辺歩いてたら◯◯◯見つけた！見て！」パシャッ　→　見つけてはいけないモノを見つけてしまったとネット騒然…(((( ；ﾟДﾟ)))",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580756.html",
-      "pubDate": "2026-10-26T10:30:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/3/1312b699.jpg"
     },
     {
       "siteId": "artscape",
@@ -821,6 +834,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/80c3a955-s.png"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "路上にいた「働くには幼すぎる三角コーン」に5.7万いいね「まだ小さいのに…」「縮んだ？」",
+      "description": "小さな三角コーンを撮影した写真がXに投稿され、「まだ小さいのに…」「縮んだ？」など5.7万件を超える「いいね」が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yuisasaki/osanaisankakuko-n",
+      "pubDate": "Sun, 25 Oct 2026 17:01:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/01/subbuzz/zEJBebJpt.jpg?crop=2344:1563;1435,183&resize=1250:830"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -925,19 +951,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "7児の母「今まで誹謗中傷ポストをたくさん開示請求したけど、◯◯◯な人しか出てこなかった」←これマジらしいぞ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461379.html",
-      "pubDate": "2026-10-25T20:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/4/7492bd37.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -949,6 +962,19 @@
       "link": "https://brutus.jp/post-512467/",
       "pubDate": "Sun, 25 Oct 2026 11:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "親ガチャ失敗？ 縁を切りたい？ 令和の親に対する本音とは。14歳から20歳の若者に調査",
+      "description": "株式会社ワカモノリサーチは、若者たちを対象に「親に対する本音」を調査。令和の若者たちは、自分の親をどう感じているのでしょうか。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yusuketsuji/oyagacha1022",
+      "pubDate": "Sun, 25 Oct 2026 06:31:06 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/08/subbuzz/6zmk-zvCn.png?crop=1578:1052;0,67&resize=1250:830"
     },
     {
       "siteId": "rocketnews",
@@ -1159,6 +1185,19 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/01/thumb/dJxRTCouJ.jpg?crop=1170:780;0,253&resize=1250:830"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "ロケット打ち上げ直後の種子島宇宙センターで“光る雲”を観測「異次元に行ったみたい」「幻想的」と反響",
+      "description": "ロケットを打ち上げたあとの種子島宇宙センターに「光る雲」が出現。SNSで話題を集めています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yusuketsuji/marsrocketmmx1020",
+      "pubDate": "Sat, 24 Oct 2026 21:01:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/08/subbuzz/LZ8_b5FCn.jpg?crop=2923:1949;0,165&resize=1250:830"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1274,6 +1313,19 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/takahashi-fumiya-tappitsu",
       "pubDate": "Sat, 24 Oct 2026 06:16:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/02/subbuzz/cFbwknmNh.jpg?crop=2671:1781;271,13&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "家の紅葉を撮ったら…怖すぎる一枚に「血に染まったかのような…」「パックンフラワーの群生」",
+      "description": "秋と言えば紅葉のシーズン。でも意外な植物も赤くなるって知っていましたか？ 血に染まったかのようなまさかの植物に注目が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/haetorisou-kouyou",
+      "pubDate": "Sat, 24 Oct 2026 05:31:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/06/thumb/9zD8cNypU.jpg?crop=1233:822;444,296&resize=1250:830"
     },
     {
       "siteId": "casabrutus",
@@ -1464,19 +1516,6 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "四ツ谷駅にヤギ！？ もぐもぐ食べて除草する姿が話題に「いい食べっぷり」「すっごい可愛い」",
-      "description": "JR東日本が10月19日、四ツ谷駅でヤギが除草をする様子を紹介しました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yuisasaki/yagimogumogu",
-      "pubDate": "Wed, 21 Oct 2026 17:31:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/21/01/subbuzz/QLIxZ0ZUo.jpg?crop=3175:2117;467,294&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "カタカタ鳴るし倒れて散らばる→車用ゴミ箱に困ってたら“やわらかダストBOX”がぜ〜んぶ解決してくれたよ！",
       "description": "走行中に倒れてゴミが散らばったり、振動でカタカタ音が鳴ったりと、意外に悩みが多い“車用のゴミ箱”。今回はそんなお悩みをまるっと解決する、機能的なアイテムをご紹介します。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/white_lily/carmate-soft-dustbox",
@@ -1521,19 +1560,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/21/rattoria-nero/",
       "pubDate": "Tue, 20 Oct 2026 23:01:57 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_1537-e1791467163155-1024x767.jpeg"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "ちいかわ、「お店のレビュー」を開始！まさかのアカウント名に「コラボするフラグ」「食べたくなってきた」",
-      "description": "ちいかわの公式Xアカウントが、10月19日に新しいエピソードを投稿。ちいかわが「お店のレビュー」を始めた話と、意外な単語の登場に注目が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/munenoriumeki/chiikawa-monaou",
-      "pubDate": "Tue, 20 Oct 2026 05:01:05 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/06/subbuzz/_LJxWitBD.jpg?crop=1057:705;0,393&resize=1250:830"
     },
     {
       "siteId": "artscape",
@@ -1601,19 +1627,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7802-1024x767.jpeg"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "この“茶色っぽい”虫、絶対触らないで！「家の周りに大量発生」「庭に…」SNSで目撃情報が相次ぐ",
-      "description": "初夏と秋にSNSで目撃情報が相次ぐ、毒を持つ幼虫「タケノホソクロバ」。触れると激しい痛みや皮膚炎を引き起こすことがあるため、注意が必要です。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yukiadachi/chairomushi-kiken1016",
-      "pubDate": "Sat, 17 Oct 2026 17:46:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/00/subbuzz/60zy-DaYv.jpg?crop=1233:822;433,274&resize=1250:830"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1625,19 +1638,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/17/sanire-open/",
       "pubDate": "Fri, 16 Oct 2026 23:01:25 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7964-1024x767.jpeg"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「フリーレン」作者が『ホタルの嫁入り』を描いたら…「すごい絵」「めちゃくちゃ綺麗で好き」",
-      "description": "『葬送のフリーレン』のアベツカサさんがアニメ『ホタルの嫁入り』の応援イラストを描き、SNSで話題になっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yusuketsuji/hotaru1016",
-      "pubDate": "Fri, 16 Oct 2026 18:31:05 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/06/subbuzz/Mv_lShMFG.jpg?crop=1058:705;0,0&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T08:30:43.451372",
+  "updatedAt": "2026-10-26T09:02:04.699396",
   "sites": [
     {
       "id": "hachima",
