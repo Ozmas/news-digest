@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】「三代目JSB・岩ちゃんです。愛してる。妻よ」40代女性、2年間金銭を要求され続け総額225万円だまし取られる",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580935.html",
+      "pubDate": "2026-10-26T22:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/6/c6df93d0.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「4人で焼肉食べて会計16000円。1人が8000円の優待券を出して『残りはみんなで払って』と言われた。普通は残りを4人で割るべきだよね？」→物議になってしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461450.html",
+      "pubDate": "2026-10-26T22:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/6/b643985b.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4fa0003e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジでこれ】「AIが本来作るべきなのはこういう◯◯◯◯動画だよな」　→　圧倒的共感が殺到ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580781.html",
-      "pubDate": "2026-10-26T13:20:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/7/97d0283a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -975,19 +988,6 @@
       "link": "https://jin115.com/archives/52461397.html",
       "pubDate": "2026-10-26T04:00:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4253027-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "元ストーカー「果たしてGPS装着は加害者の心を救うのだろうか？ストーカーする人は自分がストーカーだと思ってないのに…」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461361.html",
-      "pubDate": "2026-10-26T01:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/0/a0e58261.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T13:00:59.131810",
+  "updatedAt": "2026-10-26T13:30:43.405315",
   "sites": [
     {
       "id": "hachima",
