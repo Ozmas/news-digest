@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】芸能界引退から15年の島田紳助さん70歳、ガチのマジでとんでもない姿で発見されネット騒然！　今こんな雰囲気なのかｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580747.html",
+      "pubDate": "2026-10-26T09:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6cbef7f.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "名探偵津田さん、知らないうちに『VIVANT』に出演してしまうｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461420.html",
+      "pubDate": "2026-10-26T09:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/f/0f4906f1-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -600,19 +626,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "元ジャンポケ・斉藤慎二被告、YouTubeチャンネル立ち上げ　現在の収入源などを明かす",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580639.html",
-      "pubDate": "2026-10-25T20:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/e/2e7bf276-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -951,17 +964,17 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sagi02.jpeg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "猫系YouTuber『もちまる日記』さん、引退",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461360.html",
-      "pubDate": "2026-10-25T10:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/af0f8b02.jpg"
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "ブルーインパルスが来た！カメラで撮ったら…正体に「これは間違う」「似すぎ」と9.9万いいね",
+      "description": "花火大会で撮影されたブルーインパルス。よく見ると……まさかの正体に「これは間違う」「似すぎ」と9.9万件を超える「いいね」が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/saorihakamada/blueimpulse1010",
+      "pubDate": "Sat, 24 Oct 2026 20:31:04 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/00/thumb/ZdTDvyEgw.jpg?crop=3936:2624;354,0&resize=1250:830"
     },
     {
       "siteId": "rocketnews",
@@ -1300,19 +1313,6 @@
       "link": "https://casabrutus.com/categories/design/495106",
       "pubDate": "Thu, 22 Oct 2026 22:00:45 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "トランプ氏、機内での側近との1枚が“どこか不気味”と話題に ⇨「どうして表情がそっくりなの」「ちょっと怖い」",
-      "description": "ドナルド・トランプ米大統領が10月13日（現地時間）、アラスカ州を訪問。11月の中間選挙に向けて、共和党のダン・サリバン上院議員らの応援演説を行うため、現地入りした。しかし、到着時の側近との1枚が“どこか不気味”だとして、SNSで波紋を呼んでいる。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/kaitotakashima/natalie-harp-and-katie-zacharia-weird-photo",
-      "pubDate": "Thu, 22 Oct 2026 07:41:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/08/subbuzz/aC_hZ2ohB.jpg?crop=4376:2917;0,0&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T00:00:50.003000",
+  "updatedAt": "2026-10-26T00:30:40.008765",
   "sites": [
     {
       "id": "hachima",
