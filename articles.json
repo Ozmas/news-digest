@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "若者のハロウィン離れ…今年楽しむ予定なしが過半数「特に思い入れがない」「仮装するのが面倒」「楽しみ方が分からない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580929.html",
+      "pubDate": "2026-10-26T21:20:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e7b6bb12.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "問題「60分の動画を1.5倍速で見たら、動画を見終わるのに何分かかる？」→ほとんどの人が間違えてしまう・・・お前らわかる？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461444.html",
+      "pubDate": "2026-10-26T21:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/e/5ed05419.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -496,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b68ac6a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超悲報】スーパーで買い物してたら突然の電話着信が　→　確認した結果、人生最大の取り返しつかない失敗と判明し、むせび泣く……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580780.html",
-      "pubDate": "2026-10-26T13:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fc88a8bb.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -975,19 +988,6 @@
       "link": "https://jin115.com/archives/52461399.html",
       "pubDate": "2026-10-26T00:00:22+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/b/3b5f70f4-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "超有名配信者・だるまいずごっどさん、2年ぶりに配信！休止していた理由と「今後の活動について」語る",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461407.html",
-      "pubDate": "2026-10-25T23:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/2/62cb94f7.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T12:00:52.524131",
+  "updatedAt": "2026-10-26T12:30:43.282732",
   "sites": [
     {
       "id": "hachima",
