@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "知る人ぞ知る静岡県富士宮の銘菓『ミマスヤのみそ玉』は素朴な見た目と侮れないウマさ！ 一度は途絶えかけた奇跡の味にハマった",
+      "description": "一度お土産としてもらって以来、どうしても忘れられない味がある。それが『ミマスヤのみそ玉』だ。とはいえ、はじめはこれが何なのかよくわかっていなかった。「みそ玉」と聞くと「即席みそ汁の素」を思い浮かべてしまうのだが、どうやら [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/26/2820025/",
+      "pubDate": "Mon, 26 Oct 2026 00:00:18 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3323.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「20代の頃は性欲に狂ってた男性医師たちが、30代で急に揃って登山に目覚めるのはなんで？」　→　最悪の現実的回答がこちら…　マジか",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580742.html",
+      "pubDate": "2026-10-26T08:30:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/30e30cfd.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/4/7492bd37.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "中国「我々に謝罪がないアル！」モンゴルだけに謝ったKDDIにブチギレｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580632.html",
-      "pubDate": "2026-10-25T20:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b111f2ce.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1118,19 +1131,6 @@
       "link": "https://casabrutus.com/categories/design/494364",
       "pubDate": "Sat, 24 Oct 2026 02:25:34 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "モバイルSuicaの新コード決済「teppay」を店舗で使ってみた正直な感想 / 11月4日から20％還元キャンペーン",
-      "description": "2026年10月20日にスタートした「teppay（テッペイ）」。JR東日本の新たなコード決済サービスだ。「モバイルSuica」のアプリから切り替えるだけで、店舗でコード決済ができるという。 11月4日から始まる上限50 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/24/2834101/",
-      "pubDate": "Sat, 24 Oct 2026 02:00:30 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_37391.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-25T23:30:38.563450",
+  "updatedAt": "2026-10-26T00:00:50.003000",
   "sites": [
     {
       "id": "hachima",
