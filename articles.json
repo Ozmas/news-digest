@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "漫画家「おじさんと若い女子がイチャイチャしてもいいじゃない。◯◯だもの」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580790.html",
+      "pubDate": "2026-10-26T15:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d9543fcb.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -533,19 +546,6 @@
       "link": "https://rocketnews24.com/2026/10/26/2812546/",
       "pubDate": "Sun, 25 Oct 2026 23:00:43 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/bemyeyes-3-1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】Fate史上最もドスケベな「公式エ◯同人漫画」こと『Fate/stay night [Heaven’s Feel]』例の最新巻、ついに発売へｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580739.html",
-      "pubDate": "2026-10-26T08:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c758c603.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T06:00:49.747173",
+  "updatedAt": "2026-10-26T06:30:41.274310",
   "sites": [
     {
       "id": "hachima",
