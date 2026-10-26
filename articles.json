@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "先週発売したばかりの「iPhone Duo」 の画面割れ問題が相次いで報告される / 購入後、家までもたなかった人も",
+      "description": "2026年10月16日より予約が始まったApple初の2つ折り端末「iPhone Duo」は、翌週の23日より販売が始まった。日本では最下位のモデル（256GB）ですら36万4800円もするので、購入を見送った人も少なく [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/26/2840276/",
+      "pubDate": "Mon, 26 Oct 2026 08:09:16 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/iPhoneduocrack.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "川口市議会議員「人種差別をやめろと訴えたら、日本人から殺害予告が来た。本当に恥ずかしい国に成り下がってしまった」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461433.html",
+      "pubDate": "2026-10-26T17:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/f/2f5591df.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "くら寿司さん、にじさんじコラボキャンペーン前にお気持ち表明「景品管理・運用体制強化」→ネット民から批判殺到「ちいかわの事なぁなぁにして」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580805.html",
+      "pubDate": "2026-10-26T17:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0fd21c50.png"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -483,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/3/1312b699.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ジョジョ7部スティール・ボール・ラン』EDで不評で大炎上した歌手・千葉雄喜さん、ノーダメだった！　無敵のアンサーソングの歌詞がこちらｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580755.html",
-      "pubDate": "2026-10-26T10:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/25f8dd17.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -925,19 +951,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "外国人プロゲーマー、日本人に「日本は観光だけにして。移民は歓迎しません」と言われブチギレ「数え切れないほど日本企業をサポートしてきた」「お前みたいな奴が解決を邪魔してる」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461393.html",
-      "pubDate": "2026-10-25T19:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/51d76852.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1183,19 +1196,6 @@
       "link": "https://www.buzzfeed.com/jp/saorihakamada/blueimpulse1010",
       "pubDate": "Sat, 24 Oct 2026 20:31:04 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/00/thumb/ZdTDvyEgw.jpg?crop=3936:2624;354,0&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「純正で十分」と思って1年半、ジムニーのマフラーをプロに相談しつつ『5ZIGEN SP7004-N』に変えたら世界が変わった話",
-      "description": "新型ジムニー（JB64 4型）に乗りはじめて、約1年半。当初は「ゴリゴリにカスタムしてやるぜ！」と思っていたが、いざ乗りはじめてみると、純正の完成度とバランスが素晴らしすぎる。 「もうこのままでも良いのでは……」なんて思 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/25/2813038/",
-      "pubDate": "Sun, 25 Oct 2026 00:00:37 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/ec1878db-8f76-47e2-a114-59a578712b73.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T08:00:50.344631",
+  "updatedAt": "2026-10-26T08:30:43.451372",
   "sites": [
     {
       "id": "hachima",
