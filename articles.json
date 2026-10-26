@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "声優M・A・Oさんの事務所、小野賢章さんとのデート報道に声明「男女交際の事実は100%ございません」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580894.html",
+      "pubDate": "2026-10-26T18:20:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d9018cf4-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,19 +494,6 @@
       "link": "https://jin115.com/archives/52461427.html",
       "pubDate": "2026-10-26T11:20:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/afa70ae2.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "あの大物声優、Key麻枝准さんの咽頭がん緩和ケア選択にお気持ち表明！　「あなたらしいけどダメだよ、ファンの人に背負わせちゃ。まだ早いよ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580761.html",
-      "pubDate": "2026-10-26T11:20:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/2/e2dd81e4.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T09:02:04.699396",
+  "updatedAt": "2026-10-26T09:30:46.317157",
   "sites": [
     {
       "id": "hachima",
