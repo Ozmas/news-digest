@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ヴィラン主人公のプリキュアスピンオフ『デュアルシャドウ』、2027年放送決定！　「だって、わたしたちプリキュアじゃないし」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580976.html",
+      "pubDate": "2026-10-27T07:30:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8e5749ae.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +520,6 @@
       "link": "http://blog.esuteru.com/archives/10580892.html",
       "pubDate": "2026-10-26T18:00:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/2/d29a0c7f.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "米FOXニュース「40代以上がゲームに夢中になるのはおかしい」「『GTA6』は暴力の引き金になる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580812.html",
-      "pubDate": "2026-10-26T17:30:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d834f156-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T22:30:43.515344",
+  "updatedAt": "2026-10-26T23:00:58.506507",
   "sites": [
     {
       "id": "hachima",
