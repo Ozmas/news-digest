@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【炎上】富山県知事「日本人ファースト、排外主義、排他主義を事前に防ぎながら外国人を受け入れていきたい」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461455.html",
+      "pubDate": "2026-10-27T03:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/e/de76d218.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "絶対に無理だと思われたドラマ続編『サンクチュアリ シーズン2』が制作決定！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580922.html",
+      "pubDate": "2026-10-27T03:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2f806b07.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/c/0c3c05ac.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "漫画家「おじさんと若い女子がイチャイチャしてもいいじゃない。◯◯だもの」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580790.html",
-      "pubDate": "2026-10-26T15:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d9543fcb.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -715,19 +728,6 @@
       "link": "https://artscape.jp/article/81567/",
       "pubDate": "Mon, 26 Oct 2026 01:00:41 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気女優・今田美桜さん、いきなり公式サイト＆ファンクラブを閉鎖すると発表　原因はこれか",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461424.html",
-      "pubDate": "2026-10-26T10:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/9/59d52858-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T18:00:52.428723",
+  "updatedAt": "2026-10-26T18:30:46.897877",
   "sites": [
     {
       "id": "hachima",
