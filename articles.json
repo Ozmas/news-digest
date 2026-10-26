@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃写真】宿泊施設運営者「韓国人の団体客と日本人の団体客が宿泊した後の比較写真です。どちらが韓国人客かは言いません」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580942.html",
+      "pubDate": "2026-10-26T23:25:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/81b5f0e4.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ジャンク漁りYouTuber「通電しない1320円の初代DS購入した！…ん？」 → とんでもない付属品がついてきて話題にｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461448.html",
+      "pubDate": "2026-10-26T23:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/d/6d3aec8a-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "【悲報】「三代目JSB・岩ちゃんです。愛してる。妻よ」40代女性、2年間金銭を要求され続け総額225万円だまし取られる",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10580935.html",
@@ -522,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bd62de9f-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【Kindleセール】えちち漫画『ナナとカオル』全巻各99円！『ガンニバル』全巻各99円、『エンジェル伝説』全巻100円！　期間限定で激安で買えるぞ！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580737.html",
-      "pubDate": "2026-10-26T13:24:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4fa0003e.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -975,19 +988,6 @@
       "link": "https://www.buzzfeed.com/jp/yuisasaki/osanaisankakuko-n",
       "pubDate": "Sun, 25 Oct 2026 17:01:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/01/subbuzz/zEJBebJpt.jpg?crop=2344:1563;1435,183&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "とある消防隊員「署内で財布の小銭が減ってる気がする。こっそりカメラを設置してみるか」 → ヤバイ映像が撮れる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461397.html",
-      "pubDate": "2026-10-26T04:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4253027-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T14:00:54.819335",
+  "updatedAt": "2026-10-26T14:30:44.154160",
   "sites": [
     {
       "id": "hachima",
