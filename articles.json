@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ジョジョ7部スティール・ボール・ラン』EDで不評で大炎上した歌手・千葉雄喜さん、ノーダメだった！　無敵のアンサーソングの歌詞がこちらｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580755.html",
+      "pubDate": "2026-10-26T10:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/25f8dd17.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【神奈川】走水水源地2026",
+      "description": "横須賀市の旧走水小学校にて、アートプロジェクト「走水水源地2026」が開催されます。 本プロジェクトは、かつて「海に一番近い小学校」として親しまれてきた旧走水小学校を舞台に、地域を中心としたイベント「Through th [&#8230;]",
+      "link": "https://artscape.jp/article/81567/",
+      "pubDate": "Mon, 26 Oct 2026 01:00:41 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -598,19 +624,6 @@
       "link": "https://jin115.com/archives/52461404.html",
       "pubDate": "2026-10-25T22:00:07+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/349d4dc5.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【NTR】丸の内OLレイナ、交際宣言した堀大輔の目の前で堀江貴文とディープキス　「何を見せられてるんだ」とネット民たち困惑",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580648.html",
-      "pubDate": "2026-10-25T21:30:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6b64b162-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1523,19 +1536,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/13/05/thumb/xrAfJnZJO.png?crop=1620:1080;150,0&resize=1250:830"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "石川琢也｜「視差―いつもそこに在るもの」展から考えるレジデンス事業の媒介的役割",
-      "description": "2026年9月19日から10月5日まで、Artist Cafe Fukuoka Artist Cafe Fukuokaで福岡アジア美術館の第26回アーティスト・イン・レジデンス成果展「視差―いつもそこに在るもの」が開催さ [&#8230;]",
-      "link": "https://artscape.jp/article/80968/",
-      "pubDate": "Mon, 19 Oct 2026 02:00:12 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T01:00:49.632520",
+  "updatedAt": "2026-10-26T01:30:39.395876",
   "sites": [
     {
       "id": "hachima",
