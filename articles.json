@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ケニアにはなぜポテト屋がこんなに多いのか？ 日本の読者からの質問に答えます【カンバ通信：第538回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回は、いつものポテト食べ歩きとは少し違うお話をしようと思う。 実は先日、カンバ通信のリクエストボックスに、日本の読者の方か [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/26/2834112/",
+      "pubDate": "Mon, 26 Oct 2026 10:00:01 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_5fc9af.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "みやげもんコレクション：吉田赤天神人形（愛知県／豊橋市）",
+      "description": "歌舞伎役者がもたらした、豊橋の赤い天神様 愛知県豊橋市の繁華街の一角に鎮座する吉田天満宮は、学問の神・菅原道真公を祀（まつ）る天満宮です。こちらで授与されているのが「赤天神」の土人形です。 江戸時代、当時の城主、小笠原長 [&#8230;]",
+      "link": "https://brutus.jp/post-529189/",
+      "pubDate": "Mon, 26 Oct 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "GMO熊谷社長「セキュリティの課題、社内ホワイトハッカーに前から指摘されていたけど改善間に合わなかった」 →「他責酷すぎる」と批判",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580896.html",
+      "pubDate": "2026-10-26T18:40:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/3/03ff74a3-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -468,19 +507,6 @@
       "link": "https://casabrutus.com/categories/design/494695",
       "pubDate": "Mon, 26 Oct 2026 02:25:49 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】ついに「女性初のプロ棋士」が誕生！西山朋佳女流四冠がプロ入り",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580765.html",
-      "pubDate": "2026-10-26T11:23:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/5/15c571d5.jpg"
     },
     {
       "siteId": "jin",
@@ -1198,19 +1224,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/08/subbuzz/LZ8_b5FCn.jpg?crop=2923:1949;0,165&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【実録】怪しいSMSを無視したら続けて「不正利用」のメールが… 焦ってカード停止までした結果",
-      "description": "どうやら我々は「そういう時代」に生きているらしい。インターネットを中心に様々な技術が発展する中、それから身を守るスキルも求められるようだ。 これは数日前に私（サンジュン）の身に起きた実際の話。ある晩、私のショートメッセー [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/25/2832903/",
-      "pubDate": "Sun, 25 Oct 2026 01:00:27 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sagi02.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1261,19 +1274,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/25/ufjhonjyo-hikkoshi/",
       "pubDate": "Sat, 24 Oct 2026 23:01:12 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8326-1024x767.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "グルマン温故知新：神保町〈立呑み中華 猫猫〉小皿料理と日本酒で憩う“ウナギの寝床”",
-      "description": "立呑み中華 猫猫（神保町） 小皿料理と日本酒で憩う“ウナギの寝床” 神保町交差点から、白山通りを水道橋方面へ。1つ目の信号を越えてすぐの路地を右へ進むと、店名が書かれた袖看板が。 この店を営む金子将来さんと長田岳さんは、 [&#8230;]",
-      "link": "https://brutus.jp/post-529156/",
-      "pubDate": "Sat, 24 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T09:30:46.317157",
+  "updatedAt": "2026-10-26T10:00:51.692296",
   "sites": [
     {
       "id": "hachima",
