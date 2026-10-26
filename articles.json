@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2734回「九尾の九ちゃん⑩」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/10/26/2834298/",
+      "pubDate": "Mon, 26 Oct 2026 05:00:50 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2734-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画あり】AKB48のオタク、インドネシアのイベントで大暴れ「ルールを守らない行動」　AKB公式が謝罪する事態に「運営としてもとても残念」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580788.html",
+      "pubDate": "2026-10-26T14:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/eb7eeb11.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "島田紳助さん、最新の様子が話題に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461431.html",
+      "pubDate": "2026-10-26T14:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/69138944.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -678,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/6/f6ec3df9-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "AI民「なんでレインコートはこういう風に作らないんだろう？」→それは……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580670.html",
-      "pubDate": "2026-10-26T06:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/41a6cb40-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -938,19 +964,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安終了速報】鋼の錬金術師、薬屋のひとりごと、凶乱令嬢ニア・リストンなどが”実質半額”になるKindle超セールは本日10月25日まで！ヤニすう、着せ恋、わたモテなども対象！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461376.html",
-      "pubDate": "2026-10-25T15:30:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d298df2d.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1157,19 +1170,6 @@
       "link": "https://brutus.jp/post-532004/",
       "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
       "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/10/OG-37-750x500.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「そのポテトは昨日のだよ」新しいポテトを待つことにしたら、さらに驚く話を聞いた【カンバ通信：第536回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べようと思い、あるレストランへ行ってきた。 ところが、このレストランには名前がなかった。 僕は不思議に思い、 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/24/2833316/",
-      "pubDate": "Sat, 24 Oct 2026 10:00:42 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_a51f7c.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T05:00:48.803456",
+  "updatedAt": "2026-10-26T05:30:39.468223",
   "sites": [
     {
       "id": "hachima",
