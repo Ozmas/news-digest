@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】錦糸町の街中華「百花亭」夜の部は「こぞうの台所」が営業中です。",
+      "description": "先日お伝えしました昼営業で復活した錦糸町の町中華「百花亭」 【墨田区】錦糸町北口、人気の町中華「百花亭」が復活しています。 いつも号外NET墨田区をご覧いただきましてありがとうございます。今回は読者さまからの情報提供をも [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/27/kozounodaidokoro/",
+      "pubDate": "Mon, 26 Oct 2026 23:01:07 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/att.kNAWKEGsBWwRN8AmxpQR3ceD1YdoRXb-dhdyAHFjC5A-1024x767.jpeg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "荷物を開けて発泡スチロールが見えた瞬間の絶望感。飛び散る、くっつく、かさばる！ あの梱包、そろそろどうにかならないものか",
+      "description": "荷物を開けて、発泡スチロールで梱包されていると「まじかよ……」となる。 主に海外からの商品に多いのだが、荷物を開けて、さあ商品を取り出そうとした時に発泡スチロールが見えると「まじかよ……」となる。この「まじかよ」は、絶望 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/27/2834139/",
+      "pubDate": "Mon, 26 Oct 2026 23:00:58 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3118_1920.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "男性「やべ、VIO脱毛中に勃ちそう！嫌いな同僚の顔を思い浮かべて鎮めなきゃ」　→　翌日職場に行った結果、最悪の末路にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580977.html",
+      "pubDate": "2026-10-27T08:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/6/361d03df.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -507,19 +546,6 @@
       "link": "https://jin115.com/archives/52461437.html",
       "pubDate": "2026-10-26T18:00:43+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca5267c5.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバイ】PSNに新たな脆弱性が発覚か　二段階認証を回避して勝手に◯◯されてしまう被害続出　ソニーはダンマリ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580892.html",
-      "pubDate": "2026-10-26T18:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/2/d29a0c7f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1172,19 +1198,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/mingus.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "すかいらーくのハワイアンレストラン『ラ・オハナ』に初めて行ったみた → まさかの「フォカッチャ」が食べ放題でイタリアの気分になった",
-      "description": "先日、すかいらーくが手掛けるハワイアンレストラン『ラ・オハナ』を発見。ちょうどお昼どきでお腹も空いていたので、初めて入店してみることにした。 かねてより、スゴイ！　との噂は耳にしていたのでワクワクしながらメニューを開いて [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/25/2833367/",
-      "pubDate": "Sun, 25 Oct 2026 02:30:35 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/42596_0.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1627,19 +1640,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7802-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】錦糸町駅北口エリアにイタリアンバル「Sanire」（サニーレ）OPEN！",
-      "description": "錦糸町駅北口エリア、錦糸3丁目にイタリアンバル「Sanire」が2026年10月8日にグランドオープンしました。 View this post on Instagram こちらには以前「太田ビル」があり、歴史ある居酒屋「 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/17/sanire-open/",
-      "pubDate": "Fri, 16 Oct 2026 23:01:25 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7964-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T23:00:58.506507",
+  "updatedAt": "2026-10-26T23:30:39.878891",
   "sites": [
     {
       "id": "hachima",
