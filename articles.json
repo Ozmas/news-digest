@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "雑に暮らしとけ！ イメージと違う容疑者！　四コマサボタージュFB第117回「張り込み」",
+      "description": "ミニマリストの人の部屋ってゴキブリをすぐに見つけやすそうだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/27/2812809/",
+      "pubDate": "Mon, 26 Oct 2026 22:00:14 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-117.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -678,19 +691,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/a1.jpg"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "アーティスト、インカ・イロリによる掛け時計が〈MoMA〉から発売。",
-      "description": "ナイジェリア系イギリス人アーティスト、インカ・イロリによる掛け時計が〈MoMA〉から発売。",
-      "link": "https://casabrutus.com/categories/design/494695",
-      "pubDate": "Mon, 26 Oct 2026 02:25:49 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -951,19 +951,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "古代ローマの折りたたみ椅子に着想を得た、経年変化を楽しむフォールディング・チェア。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495108",
-      "pubDate": "Sun, 25 Oct 2026 22:00:15 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1094,19 +1081,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/05/thumb/kXC3Z3WKR.jpg?crop=1943:1295;0,323&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "石上純也、国際建築賞「バラガン賞」の初代受賞者に！",
-      "description": "ボッテガ・ヴェネタと〈ラ・クアドラ〉が協働し新たに創設された国際建築賞「バラガン賞」の初代受賞者に、石上純也が選ばれた。10月9日にメキシコシティにあるルイス・バラガンの名建築〈ラ・クアドラ〉で開催された記念すべき授賞式および祝賀ランチでの、石上の受賞スピーチを中心にお届けする。",
-      "link": "https://casabrutus.com/categories/architecture/495488",
-      "pubDate": "Sun, 25 Oct 2026 08:25:44 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1157,32 +1131,6 @@
       "link": "https://rocketnews24.com/2026/10/25/2833367/",
       "pubDate": "Sun, 25 Oct 2026 02:30:35 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/42596_0.jpg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "ヴィコ・マジストレッティが手がけたアウトドア用アームチェアが復刻。",
-      "description": "ヴィコ・マジストレッティが手がけたアームチェア《ノヴェトレンタ》。1966年から78年まで製造された名作を〈カッシーナ〉が屋外用として復刻。",
-      "link": "https://casabrutus.com/categories/design/494707",
-      "pubDate": "Sun, 25 Oct 2026 02:25:03 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "コテコテ関西弁で攻めすぎやろ！ クラシエ『たこやきかいな お好みやきかいな』を大人が本気で作ってみた感想【関西限定・知育菓子】",
-      "description": "知育菓子といえば子どもが遊んで食べるもの、なんていう価値観は過去の話。現在は大人も子どもも楽しめるのが当たり前で、もはや国民的エンタメ系菓子と言っても過言ではない。 ──という前提のもとに考えてみても、クラシエ『たこやき [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/25/2803857/",
-      "pubDate": "Sun, 25 Oct 2026 02:00:08 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/takoyakiokonomiyaki_kracie001.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1289,19 +1237,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/19/02/subbuzz/b91kaIKbm.jpg?crop=3332:2221;0,357&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "松の枝で作った、満月のようなのぞき窓。【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/491326",
-      "pubDate": "Sat, 24 Oct 2026 22:00:49 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1328,19 +1263,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/06/thumb/9zD8cNypU.jpg?crop=1233:822;444,296&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "〈A-POC ABLE ISSEY MIYAKE〉の旗艦店が拡張オープン！ 吉岡徳仁が手がける東京・南青山の空間。",
-      "description": "〈A-POC ABLE ISSEY MIYAKE〉のフラッグシップストアが拡張オープン。",
-      "link": "https://casabrutus.com/categories/design/494364",
-      "pubDate": "Sat, 24 Oct 2026 02:25:34 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1354,32 +1276,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8335-1-1024x767.jpeg"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【10月24日〜25日】今週末必見の“アート＆デザイン”まとめ！",
-      "description": "カーサが注目する、今週末のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
-      "link": "https://casabrutus.com/categories/art/495426",
-      "pubDate": "Fri, 23 Oct 2026 22:55:50 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "渓谷に映える紅葉の名所へ。【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/491324",
-      "pubDate": "Fri, 23 Oct 2026 22:00:45 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1391,32 +1287,6 @@
       "link": "https://www.buzzfeed.com/jp/buzzfeedjapanshopping/iherb-well-fes-october2026",
       "pubDate": "Fri, 23 Oct 2026 04:51:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/02/thumb/VOaKAZ0JY.png?crop=1458:972;0,317&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "集落構想プロジェクト〈あしたの畑〉の新たな展開。シャネルと育む創造の場とは？",
-      "description": "京都府北部、間人（たいざ）を拠点とする〈あしたの畑〉が、11月8日まで秋期の一般公開を開催中。中でも、今年新たに誕生した2つのアートサイトが話題を呼んでいます。",
-      "link": "https://casabrutus.com/categories/art/495445",
-      "pubDate": "Fri, 23 Oct 2026 07:25:32 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "繊細な紙のような質感の〈MIU MIU〉のテクニカルファブリック。",
-      "description": "1990年代のミニマルなワードローブを想起させるような〈MIU MIU〉のテクニカルファブリックは繊細な紙のような質感で動きとさりげない輝きがある。",
-      "link": "https://casabrutus.com/categories/fashion/494697",
-      "pubDate": "Fri, 23 Oct 2026 02:25:29 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T21:30:44.565539",
+  "updatedAt": "2026-10-26T22:00:52.398070",
   "sites": [
     {
       "id": "hachima",
