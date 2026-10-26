@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "日用品図鑑：グラフィックデザイナー・葉田いづみの愛用する〈FLOS〉のMAYDAY etc.",
+      "description": "〈FLOS〉のMAYDAY コンスタンチン・グルチッチによるデザインのライト。今の家に引っ越したタイミングで購入しました。4.8mのコードとフックにより場所を選ばず使うことができます。 コードが美しいということが、このラ [&#8230;]",
+      "link": "https://brutus.jp/post-532369/",
+      "pubDate": "Mon, 26 Oct 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中国、ドラマ『VIVANT』にブチギレ「中国人を残忍な加害者として描いている！！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580908.html",
+      "pubDate": "2026-10-26T19:30:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/3/e303aa7a.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -455,19 +481,6 @@
       "link": "https://jin115.com/archives/52461413.html",
       "pubDate": "2026-10-26T12:00:42+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/1/815bdeaf.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジ真理】韓国人さん、「日本人がもう一度食べたい韓国料理ランキング」を公開したら日本人殺到で困惑　→　その理由が一発でわかる画像がこちらｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580768.html",
-      "pubDate": "2026-10-26T12:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a3691bd.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1107,19 +1120,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/repo102100.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ソウルでワークショップが人気のミュージアム。仁寺洞〈ミュージアムキムチ 間〉",
-      "description": "キムチと発酵文化について、作って食べて、体で学ぶ 1986年に開館した韓国初のキムチ専門ミュージアム。2015年に現在の場所に移転リニューアルし、展示内容も一新し、デジタル展示が行われるようになった。展示室では、キムチの [&#8230;]",
-      "link": "https://brutus.jp/post-534007/",
-      "pubDate": "Sun, 25 Oct 2026 03:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T10:30:41.169182",
+  "updatedAt": "2026-10-26T11:00:52.495536",
   "sites": [
     {
       "id": "hachima",
