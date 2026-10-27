@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "外国人の出生数、過去最多を更新",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461490.html",
+      "pubDate": "2026-10-27T17:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/7965ebee.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【情報商材】堀大輔氏が代表の「ショートスリーパー育成協会」解散！受講料は2カ月で16万5000円ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581057.html",
+      "pubDate": "2026-10-27T17:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/4290a5d5.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -548,19 +574,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【地獄】天然パーマで縮毛の女子の人生、想像以上の地獄だった…　お前らの想像の80倍以上ハードモード",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580989.html",
-      "pubDate": "2026-10-27T09:30:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/1/71e20549.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +767,6 @@
       "link": "https://jin115.com/archives/52461450.html",
       "pubDate": "2026-10-26T22:00:01+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/6/b643985b.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "不正アクセスを受けた『GMO』、犯人からガチで法外な額の支払いを要求されていたことが発覚・・・なんだよこれ・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461446.html",
-      "pubDate": "2026-10-26T21:30:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/7/57675627.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T08:00:50.659242",
+  "updatedAt": "2026-10-27T08:30:44.047132",
   "sites": [
     {
       "id": "hachima",
