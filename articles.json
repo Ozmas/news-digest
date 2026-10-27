@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】人気男性アイドル「オフで旅行に来たけど顔バレしたくないなぁ…せや！」　→　◯◯◯を使ったおかげで無事バレずに休暇を満喫ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581013.html",
+      "pubDate": "2026-10-27T12:40:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a950960.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -65,6 +78,19 @@
       "link": "http://blog.esuteru.com/archives/10581011.html",
       "pubDate": "2026-10-27T12:00:13+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/b/3b05019d.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】京中華の品格。〈京都鳳焼売〉の「シュウマイ」",
+      "description": "点心を愛するあの人へ京中華の歴史を受け継ぐ名作シュウマイ 〈京都鳳焼売〉の「シュウマイ」 東京・戸越銀座に2019年にオープンした〈京都鳳焼売〉。手作りを信条とし、日々厨房で丹念に餡を仕込む京中華の点心専門店だ。 ちなみ [&#8230;]",
+      "link": "https://brutus.jp/post-534871/",
+      "pubDate": "Tue, 27 Oct 2026 03:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -546,19 +572,6 @@
       "link": "http://blog.esuteru.com/archives/10580953.html",
       "pubDate": "2026-10-27T02:05:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/e/cecce953.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "岩屋前外相、高市首相の台湾有事発言について「事実上の訂正」を提案「中国との対話の努力をしてもらいたい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580951.html",
-      "pubDate": "2026-10-27T01:35:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa838e86.jpg"
     },
     {
       "siteId": "jin",
@@ -1172,19 +1185,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜福岡編〜",
-      "description": "焼とり鳥いち 1本ずつ焼き上がる串をアテによりどりの酒を楽しむ ・2025年8月移転オープン。ゆったり座れるカウンター16席。・注文は1人7串から。・だんご（つくね）ファンが多い。・締めは醤油ラーメンかそぼろ丼。迷う。・ [&#8230;]",
-      "link": "https://brutus.jp/post-512467/",
-      "pubDate": "Sun, 25 Oct 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T03:30:40.551559",
+  "updatedAt": "2026-10-27T04:00:50.111054",
   "sites": [
     {
       "id": "hachima",
