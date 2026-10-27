@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【コラム】最近の『魚べい』がマジで回転寿司を超えちゃってる話",
+      "description": "物価高騰でエンゲル係数が上がり続けている今日この頃。渋谷で一人暮らししている私（中澤）は、編集部で最も外食チェーンの値上げに敏感な1人かもしれない。食べ終わった後満足するどころか、ヘコむようなチェーンがグッと増えてきたの [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/27/2834189/",
+      "pubDate": "Tue, 27 Oct 2026 01:00:40 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/uo.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "堀大輔さんが代表を務める『日本ショートスリーパー育成協会』、ガチで終わる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461463.html",
+      "pubDate": "2026-10-27T10:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/ef3202a3.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -717,19 +743,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2734-2.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "島田紳助さん、最新の様子が話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461431.html",
-      "pubDate": "2026-10-26T14:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/69138944.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1196,19 +1209,6 @@
       "link": "https://rocketnews24.com/2026/10/25/2813350/",
       "pubDate": "Sun, 25 Oct 2026 08:00:18 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kikimimi22-1koma.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ライブ配信】飯を食いながらのおしゃべり、それぞれ食べたいものを持ち寄ったら人柄が丸見えになった",
-      "description": "毎週水曜19時30分から、当サイトのYouTubeチャンネル「ロケットニュース24」で行っているライブ配信。ここのところ、レギュラー3人は忙しくしていて、毎回2人ずつでの出演が続いていたのだが、今回は9月9日以来、1カ月 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/25/2833618/",
-      "pubDate": "Sun, 25 Oct 2026 06:00:57 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/repo102100.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T01:00:50.383961",
+  "updatedAt": "2026-10-27T01:30:41.081964",
   "sites": [
     {
       "id": "hachima",
