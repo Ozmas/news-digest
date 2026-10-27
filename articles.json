@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2155話目「新設、トラップ部隊㉙」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/10/27/2856959/",
+      "pubDate": "Tue, 27 Oct 2026 12:00:50 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2155a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ユニクロ「全品値上げします… ソックスのまとめ買いも終了します」 → 嘆きの声が殺到 → ユニクロ「やっぱ靴下だけ値上げやめます！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581128.html",
+      "pubDate": "2026-10-27T21:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bb2ab55c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "政治学者「日本は◯◯というナショナルプライドを中国に折られて反中になった」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461486.html",
+      "pubDate": "2026-10-27T21:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/a/6aa7b889.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "杉本博司さん、この20年間をどう振り返りますか？",
+      "description": "杉本年譜を振り返ってみると、初めての写真以外の活動は2001年、オーストリアの〈ブレゲンツ美術館〉での個展開催に合わせて上演された能のプロデュースだった。 「その少し前に皇居外苑の松を撮影した《松林図》 という作品を作り [&#8230;]",
+      "link": "https://brutus.jp/post-527546/",
+      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -483,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68053dc0.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【痛快】外国のコーヒー屋に居た日本人が黒い肌の男性に「ハローチャイニーズ！ｗ」とクソデカ声で煽られる　→　日本人が「◯◯◯」と返したら海外男性が顔真っ赤でブチギレｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581015.html",
-      "pubDate": "2026-10-27T12:20:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ada06ab5.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -782,19 +821,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/5/a5e6bb60.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【炎上】富山県知事「日本人ファースト、排外主義、排他主義を事前に防ぎながら外国人を受け入れていきたい」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461455.html",
-      "pubDate": "2026-10-27T03:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/e/de76d218.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -949,19 +975,6 @@
       "link": "https://rocketnews24.com/2026/10/26/2814002/",
       "pubDate": "Mon, 26 Oct 2026 02:55:03 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/断念.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「カレー百名店なのに客が来ない…」お店のインスタを見て行ってみたら、立地を逆手に取ったまさかのメニューがあった！",
-      "description": "先日、インスタグラムを見ていたら、こんな動画が流れてきた。 お店の方が「カレー百名店に選ばれたスパイスカレー専門店なのに、なかなかお客さんが来ないです」と残念そうに話している。なんでも1階にカレーチェーン店があるため、2 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/26/2833290/",
-      "pubDate": "Mon, 26 Oct 2026 02:30:46 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/a1.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1155,19 +1168,6 @@
       "title": "10月26日〜11月1日 山羊座の運勢【ブルータス週間占い】",
       "description": "山羊座の羅針盤 客観視を意識する 週頭、山羊座にとって自己表現を意味する部屋、牡牛座で満月が起こります。自分の得意なことで周囲から評価を得る機会が増えそうです。また、喜びを司る金星が、キャリアを示す部屋、天秤座 で逆行中 [&#8230;]",
       "link": "https://brutus.jp/post-534145/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 水瓶座の運勢【ブルータス週間占い】",
-      "description": "水瓶座の羅針盤 方向転換を焦らない 牡牛座は、水瓶座から見て居場所や基盤を示す部屋となります。週明けにここで満月が起こり、これまでの振り返りを促してきます。仕事やプライベートで積み重ねてきたことが身についていて、きちんと [&#8230;]",
-      "link": "https://brutus.jp/post-534147/",
       "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T12:00:51.784853",
+  "updatedAt": "2026-10-27T12:30:44.797036",
   "sites": [
     {
       "id": "hachima",
