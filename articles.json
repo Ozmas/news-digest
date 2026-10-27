@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "GMO、ハッカーの有力情報提供者に懸賞金を支払うと発表！その額なんと・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461509.html",
+      "pubDate": "2026-10-28T00:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/c/bc84ef9b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【辺野古転覆事故】武石知華さんの遺族、抗議団体幹部と初めての面会 → 何を質問しても「わからない」しか答えず「そもそも原因を究明する気がない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581169.html",
+      "pubDate": "2026-10-27T23:35:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/c/9c09a386.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -362,7 +388,7 @@
       "title": "【暴言・虚偽通報騒動】スプラの王たいじさん、炎上中のにじさんじVTuber・アルスさんに正論パンチｗｗｗｗ「エンタメにもなってねえわ」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10581044.html",
-      "pubDate": "2026-10-27T16:30:42+09:00",
+      "pubDate": "2026-10-27T16:30:13+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fd5b6690.jpg"
     },
     {
@@ -507,19 +533,6 @@
       "link": "https://rocketnews24.com/2026/10/27/2856842/",
       "pubDate": "Tue, 27 Oct 2026 05:00:55 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2735-2.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ハッカー集団「GMO、身代金出さなかったな？じゃあ早速個人情報晒しちゃいまーす」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581025.html",
-      "pubDate": "2026-10-27T14:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/1/c1fa6f64.jpg"
     },
     {
       "siteId": "jin",
@@ -780,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/10/27/2834139/",
       "pubDate": "Mon, 26 Oct 2026 23:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3118_1920.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "完全に移民推進派と見なされた高市首相、Xに「移民反対」の声が殺到し続ける→コメント数1万件を超えて今でも炎上中",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461459.html",
-      "pubDate": "2026-10-27T07:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/2/b2a7f5e2.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T14:30:48.109091",
+  "updatedAt": "2026-10-27T15:00:58.201995",
   "sites": [
     {
       "id": "hachima",
