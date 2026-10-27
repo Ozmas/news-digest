@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "裁判所「今まで男性職員だけだった夜勤、女性にもやらせます」→女性職員ブチギレ「すべての女性を夜中に働かせるなんて！」「均等に仕事を分配することが平等なのではない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461510.html",
+      "pubDate": "2026-10-28T05:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/6507a354.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -728,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/10/27/2834189/",
       "pubDate": "Tue, 27 Oct 2026 01:00:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/uo.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "堀大輔さんが代表を務める『日本ショートスリーパー育成協会』、ガチで終わる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461463.html",
-      "pubDate": "2026-10-27T10:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/ef3202a3.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T20:00:52.545864",
+  "updatedAt": "2026-10-27T20:30:42.018393",
   "sites": [
     {
       "id": "hachima",
