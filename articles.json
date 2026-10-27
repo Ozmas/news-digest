@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ココイチ】VIVANTコラボ『トムヤムクンスープカレー』が密かに革命的だった！",
+      "description": "TBS系ドラマ「VIVANT」がシーズン2も絶好調のようだ。ネットではVIVANT関連の記事を多く見かけるし、TBSのバラエティー番組でもちょいちょいVIVANTネタを差し込んでくる。近年稀に見る話題作であろう。 202 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/27/2834852/",
+      "pubDate": "Tue, 27 Oct 2026 08:00:17 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tomu02.jpeg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "いいカシミヤは、いい環境から。〈PICEA〉のニット：Brutus Best Bets",
+      "description": "いいカシミヤは、いい環境から カシミヤヤギが健やかに暮らせなければ、上質な素材も生まれない。だから〈ピセア〉は、砂漠化が進む内モンゴルで自ら植樹し、生息環境から整える。そんな思想から生まれたニットは、稀少なベビーカシミヤ [&#8230;]",
+      "link": "https://brutus.jp/post-531064/",
+      "pubDate": "Tue, 27 Oct 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【暴言・虚偽通報騒動】スプラの王たいじさん、炎上中のにじさんじVTuber・アルスさんに正論パンチｗｗｗｗ「エンタメにもなってねえわ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581044.html",
+      "pubDate": "2026-10-27T16:30:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fd5b6690.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -561,19 +600,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/clawwolf.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジでそれ】アメリカ人、日本の『ある食べ物』を絶賛！「日本産はパーフェクト。アメリカではとても食べられたものじゃない」　→　納得しかないアレだったｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580983.html",
-      "pubDate": "2026-10-27T09:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/e/ce7664ba.png"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -964,19 +990,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【検証】カンロ公式の超簡単なはずの「悪魔のカンロ飴トースト」に大苦戦！ 飴を溶かす際の工夫と気をつけたいポイント",
-      "description": "食品メーカーの公式サイトには、レシピが載っている場合がある。それらを見ると、とてもカンタンに美味しく調理できる方法が紹介されているのだが、実際にやると難しい場合も少なくない。 最近私（佐藤）はカンロのサイトを見ていたとこ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/26/2833677/",
-      "pubDate": "Mon, 26 Oct 2026 01:00:05 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kanrotoast.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1185,19 +1198,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/01/subbuzz/zEJBebJpt.jpg?crop=2344:1563;1435,183&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "きっと見たことがある小さな店員。癒しの店番ぬいぐるみ3選",
-      "description": "きっと見たことがある、小さな店員さん 店先や店内で、店員さながら店番をするぬいぐるみ。私は彼らを“店ぬい”と呼び、観察をしています。看板を持って開店時間やメニューを教えてくれる働き者もいれば、のんびり座ってマイペースに店 [&#8230;]",
-      "link": "https://brutus.jp/post-428278/",
-      "pubDate": "Sun, 25 Oct 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1403,7 +1403,7 @@
       "description": "秋と言えば紅葉のシーズン。でも意外な植物も赤くなるって知っていましたか？ 血に染まったかのようなまさかの植物に注目が集まっています。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/haetorisou-kouyou",
       "pubDate": "Sat, 24 Oct 2026 05:31:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/06/thumb/9zD8cNypU.jpg?crop=1233:822;444,296&resize=1250:830"
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/06/subbuzz/zVBop5Y6B.jpg?crop=2120:1413;0,1&resize=1250:830"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T07:30:42.577157",
+  "updatedAt": "2026-10-27T08:00:50.659242",
   "sites": [
     {
       "id": "hachima",
