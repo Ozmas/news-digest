@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「女性の方、おじさんからアタックされて困った体験談教えて」→マジでヤバい職場体験談がこちら・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461498.html",
+      "pubDate": "2026-10-28T01:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/761ff069.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大学でBeReal撮影する男、キモすぎると話題にｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581115.html",
+      "pubDate": "2026-10-28T00:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4fa06e22-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -405,19 +431,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fd5b6690.jpg"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "地形と一体化した建築〈やしまーる〉を読み解く。建築家・周防貴之と写真家・石川直樹の共著がリリース。",
-      "description": "「屋島プロジェクト」で2026年の日本建築学会賞を受賞した周防貴之と写真家・石川直樹の共著がリリースされました。",
-      "link": "https://casabrutus.com/categories/culture/494597",
-      "pubDate": "Tue, 27 Oct 2026 07:25:15 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -494,19 +507,6 @@
       "link": "https://rocketnews24.com/2026/10/27/2834749/",
       "pubDate": "Tue, 27 Oct 2026 06:00:15 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eyepoteto.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【辺野古沖転覆】同志社国際高の八田理事長、発生から半年以上経ってようやく初の記者会見へ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581032.html",
-      "pubDate": "2026-10-27T14:35:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/50a2b3d0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -626,19 +626,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_379ad1.png"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "照明ファクトリーブランド〈bowks〉がデザインした、静寂を灯すオイルランプ。",
-      "description": "照明ファクトリーブランド〈bowks〉のパラフィンオイルランプシリーズ《TOUG》。",
-      "link": "https://casabrutus.com/categories/design/494693",
-      "pubDate": "Tue, 27 Oct 2026 02:25:49 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -743,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/4467cafc.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "海外のニュース番組「40代以上がゲームに夢中になるのはおかしい。もっとあるだろ…その時間で副業とか、遊ぶとしても魚釣りとか」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461460.html",
-      "pubDate": "2026-10-27T09:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/ce21ac91.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -793,19 +767,6 @@
       "link": "https://rocketnews24.com/2026/10/27/2834139/",
       "pubDate": "Mon, 26 Oct 2026 23:00:58 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3118_1920.jpg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "パリの街角を彩ってきた、ガーデンチェアのスタンダード。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495153",
-      "pubDate": "Mon, 26 Oct 2026 22:00:21 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -975,19 +936,6 @@
       "link": "https://rocketnews24.com/2026/10/26/2814002/",
       "pubDate": "Mon, 26 Oct 2026 02:55:03 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/断念.jpg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "アーティスト、インカ・イロリによる掛け時計が〈MoMA〉から発売。",
-      "description": "ナイジェリア系イギリス人アーティスト、インカ・イロリによる掛け時計が〈MoMA〉から発売。",
-      "link": "https://casabrutus.com/categories/design/494695",
-      "pubDate": "Mon, 26 Oct 2026 02:25:49 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "artscape",
@@ -1172,19 +1120,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "古代ローマの折りたたみ椅子に着想を得た、経年変化を楽しむフォールディング・チェア。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495108",
-      "pubDate": "Sun, 25 Oct 2026 22:00:15 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1235,32 +1170,6 @@
       "link": "https://www.buzzfeed.com/jp/saorihakamada/yasudanarumi1021",
       "pubDate": "Sun, 25 Oct 2026 04:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/05/thumb/kXC3Z3WKR.jpg?crop=1943:1295;0,323&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "石上純也、国際建築賞「バラガン賞」の初代受賞者に！",
-      "description": "ボッテガ・ヴェネタと〈ラ・クアドラ〉が協働し新たに創設された国際建築賞「バラガン賞」の初代受賞者に、石上純也が選ばれた。10月9日にメキシコシティにあるルイス・バラガンの名建築〈ラ・クアドラ〉で開催された記念すべき授賞式および祝賀ランチでの、石上の受賞スピーチを中心にお届けする。",
-      "link": "https://casabrutus.com/categories/architecture/495488",
-      "pubDate": "Sun, 25 Oct 2026 08:25:44 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "ヴィコ・マジストレッティが手がけたアウトドア用アームチェアが復刻。",
-      "description": "ヴィコ・マジストレッティが手がけたアームチェア《ノヴェトレンタ》。1966年から78年まで製造された名作を〈カッシーナ〉が屋外用として復刻。",
-      "link": "https://casabrutus.com/categories/design/494707",
-      "pubDate": "Sun, 25 Oct 2026 02:25:03 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1367,19 +1276,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/19/02/subbuzz/b91kaIKbm.jpg?crop=3332:2221;0,357&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "松の枝で作った、満月のようなのぞき窓。【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/491326",
-      "pubDate": "Sat, 24 Oct 2026 22:00:49 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1406,19 +1302,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/06/subbuzz/zVBop5Y6B.jpg?crop=2120:1413;0,1&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "〈A-POC ABLE ISSEY MIYAKE〉の旗艦店が拡張オープン！ 吉岡徳仁が手がける東京・南青山の空間。",
-      "description": "〈A-POC ABLE ISSEY MIYAKE〉のフラッグシップストアが拡張オープン。",
-      "link": "https://casabrutus.com/categories/design/494364",
-      "pubDate": "Sat, 24 Oct 2026 02:25:34 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1430,19 +1313,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/24/saintmarccha-open/",
       "pubDate": "Fri, 23 Oct 2026 23:01:16 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8335-1-1024x767.jpeg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【10月24日〜25日】今週末必見の“アート＆デザイン”まとめ！",
-      "description": "カーサが注目する、今週末のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
-      "link": "https://casabrutus.com/categories/art/495426",
-      "pubDate": "Fri, 23 Oct 2026 22:55:50 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T15:30:46.611458",
+  "updatedAt": "2026-10-27T16:00:54.471270",
   "sites": [
     {
       "id": "hachima",
