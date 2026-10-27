@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "GMO、サイバー攻撃の犯人特定に総額100万ドル(1.5億円)の懸賞金！ハッカー仲間割れ作戦始動ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581135.html",
+      "pubDate": "2026-10-27T21:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/98ebe4c3.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -507,19 +520,6 @@
       "link": "http://blog.esuteru.com/archives/10581004.html",
       "pubDate": "2026-10-27T13:00:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a251a171.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】人気男性アイドル「オフで旅行に来たけど顔バレしたくないなぁ…せや！」　→　◯◯◯を使ったおかげで無事バレずに休暇を満喫ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581013.html",
-      "pubDate": "2026-10-27T12:40:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a950960.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T12:30:44.797036",
+  "updatedAt": "2026-10-27T13:00:51.819953",
   "sites": [
     {
       "id": "hachima",
