@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【訃報】漫画家・ちばてつやさん死去 「あしたのジョー」など",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461479.html",
+      "pubDate": "2026-10-27T12:25:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68053dc0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【痛快】外国のコーヒー屋に居た日本人が黒い肌の男性に「ハローチャイニーズ！ｗ」とクソデカ声で煽られる　→　日本人が「◯◯◯」と返したら海外男性が顔真っ赤でブチギレｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581015.html",
+      "pubDate": "2026-10-27T12:20:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ada06ab5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【訃報】漫画家・ちばてつやさんが87歳で死去 『あしたのジョー』など",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581018.html",
+      "pubDate": "2026-10-27T12:05:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/3/638b713b-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "アニメ「プリキュア」、ヴィラン側が主役の「デュアルシャドウ ～Precure Villain Heroines～」放送決定！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461476.html",
+      "pubDate": "2026-10-27T12:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/75b6735d.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -522,32 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/3/23825504.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ファントムブレード ゼロ』レビュー解禁！メタスコアは88点「歴代最高峰のアクションRPGに匹敵」「エルデンリングやスト6と全く同じ感覚を与えてくれる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580949.html",
-      "pubDate": "2026-10-27T00:50:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa0a47d7.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ホリエモンとディープキスした丸の内OLレイナ、堀大輔と仲直りのラブラブ生配信「試しちゃってごめんなさい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580946.html",
-      "pubDate": "2026-10-27T00:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/ae986e1c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -730,19 +756,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/iPhoneduocrack.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "川口市議会議員「人種差別をやめろと訴えたら、日本人から殺害予告が来た。本当に恥ずかしい国に成り下がってしまった」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461433.html",
-      "pubDate": "2026-10-26T17:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/f/2f5591df.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -754,19 +767,6 @@
       "link": "https://brutus.jp/post-531025/",
       "pubDate": "Mon, 26 Oct 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『エンジェル伝説』全巻「100円」セール！全10巻「6,460円」→「1,000円」！15巻分収録の文庫版！『CLAYMORE』八木先生が描く、顔が怖すぎるだけの男の勘違いギャグ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461412.html",
-      "pubDate": "2026-10-26T16:30:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fdb342cf.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T03:00:51.276985",
+  "updatedAt": "2026-10-27T03:30:40.551559",
   "sites": [
     {
       "id": "hachima",
