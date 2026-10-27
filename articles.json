@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "エムバペ選手「中国の独裁者と自分の顔を合成した画像おもしろｗ」 → 中国ブチギレで企業が相次いで契約打ち切り表明、エムバペはSNSで謝罪",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581159.html",
+      "pubDate": "2026-10-27T23:05:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d845960a.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +533,6 @@
       "link": "https://jin115.com/archives/52461478.html",
       "pubDate": "2026-10-27T14:00:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/177ee435.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "脳科学者・茂木健一郎氏「INMU KINGはよくできている。才能あるね。これが紅白に行く世界線はあるのか」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581023.html",
-      "pubDate": "2026-10-27T13:40:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/3/b3229ffb-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T14:00:54.492238",
+  "updatedAt": "2026-10-27T14:30:48.109091",
   "sites": [
     {
       "id": "hachima",
