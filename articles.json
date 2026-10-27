@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「外国人が『よう日本人、エボリューションしたこの魔改造寿司はどう？』と言ってくる寿司、全部美味そうだし食いたい」　→　ガチだったｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581011.html",
+      "pubDate": "2026-10-27T12:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/b/3b05019d.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "超高級ステーキハウス『ピーター・ルーガー』のハンバーガー（税込3520円）が凄いらしい / 食べるのならば絶対にランチタイムを狙え！",
+      "description": "世界最高峰との呼び声高い超高級ステーキハウス『ピーター・ルーガー』。実は、テイクアウトで販売しているハンバーガーも物凄く美味しい。 公式サイトを見てみると、ランチタイム（11:00ｰ15:00）には店内でも提供している様 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/27/2834399/",
+      "pubDate": "Tue, 27 Oct 2026 02:55:24 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/42684_0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】安田大サーカス・クロちゃん、信じられない額の「月収」を公開してネット騒然！　そんなに儲かってるのかｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581006.html",
+      "pubDate": "2026-10-27T11:40:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/2595221b.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【賛否両論】ローソン×きまぐれクック『蟹味噌香る! あんかけ炒飯』が生臭いと話題 → 想像以上だった",
+      "description": "現在、ローソンで発売中のチャーハンが話題だ。商品名は『蟹味噌香る! あんかけ炒飯』で、人気YouTuber・きまぐれクックさんが監修したコラボ商品となっている。 話題となっているのは決してポジティブな内容ではなく、むしろ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/27/2856931/",
+      "pubDate": "Tue, 27 Oct 2026 02:30:39 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_379ad1.png"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -509,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/b/0b9d9630.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃写真】宿泊施設運営者「韓国人の団体客と日本人の団体客が宿泊した後の比較写真です。どちらが韓国人客かは言いません」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580942.html",
-      "pubDate": "2026-10-26T23:25:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/81b5f0e4.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -533,19 +572,6 @@
       "link": "https://jin115.com/archives/52461448.html",
       "pubDate": "2026-10-26T23:00:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/d/6d3aec8a-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】「三代目JSB・岩ちゃんです。愛してる。妻よ」40代女性、2年間金銭を要求され続け総額225万円だまし取られる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580935.html",
-      "pubDate": "2026-10-26T22:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/6/c6df93d0.jpg"
     },
     {
       "siteId": "jin",
@@ -1133,19 +1159,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/01/subbuzz/zEJBebJpt.jpg?crop=2344:1563;1435,183&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2153話目「新設、トラップ部隊㉗」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/25/2833540/",
-      "pubDate": "Sun, 25 Oct 2026 12:00:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2153a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1183,19 +1196,6 @@
       "link": "https://www.buzzfeed.com/jp/yusuketsuji/oyagacha1022",
       "pubDate": "Sun, 25 Oct 2026 06:31:06 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/08/subbuzz/6zmk-zvCn.png?crop=1578:1052;0,67&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「電気代が高いから温め直さない」ポテト屋の切実な事情【カンバ通信：第537回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べようと思い、あるレストランへ行ってきた。 店の名前は「Ledama Fries and Food」。 店の [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/25/2833631/",
-      "pubDate": "Sun, 25 Oct 2026 10:00:10 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/ケニア屋台の熱々ポテト騒動_1920.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T02:30:41.961810",
+  "updatedAt": "2026-10-27T03:00:51.276985",
   "sites": [
     {
       "id": "hachima",
