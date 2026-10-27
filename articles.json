@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【AI失業】マイクロソフト、6万人規模の希望退職を募集！Xbox部門も対象",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581109.html",
+      "pubDate": "2026-10-27T19:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/8/a860544b.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -26,6 +39,19 @@
       "link": "https://jin115.com/archives/52461488.html",
       "pubDate": "2026-10-27T19:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/00de253b.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【最新号からプレゼント】カレーを愛し、研究し続けるプロが厳選！お店の味が自宅でも楽しめる、お取り寄せ冷凍カレーセットを2名様に",
+      "description": "誌面を超えて特別な体験をお届けする「WITHBRUTUS」 「WITHBRUTUS」は、『BRUTUS』が取り上げるさまざまなテーマから、誌面を超えて特別な体験を共有する新しいコミュニティ。登録・年会費は無料。 2026 [&#8230;]",
+      "link": "https://brutus.jp/post-533321/",
+      "pubDate": "Tue, 27 Oct 2026 10:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -507,19 +533,6 @@
       "link": "https://casabrutus.com/categories/design/494693",
       "pubDate": "Tue, 27 Oct 2026 02:25:49 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】GMO「みんな！12時にパソコンの電源オフにして！12時に攻撃するって脅迫受けてる！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581012.html",
-      "pubDate": "2026-10-27T11:20:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f8d0c5e8-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1159,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 魚座の運勢【ブルータス週間占い】",
-      "description": "魚座の羅針盤 理想を追うための基礎力をつける 魚座から見て学びの部屋にあたる牡牛座での満月から始まる1週間です。過去の積み重ねが血肉となったと実感するタイミングがあるでしょう。日々の業務の部屋である獅子座に火星（意欲）が [&#8230;]",
-      "link": "https://brutus.jp/post-534149/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T10:00:49.922204",
+  "updatedAt": "2026-10-27T10:30:43.361051",
   "sites": [
     {
       "id": "hachima",
