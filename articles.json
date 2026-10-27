@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】いわくつきの競走馬・ドヤコンガがついに出走！レースの実況でもしっかりと……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581149.html",
+      "pubDate": "2026-10-28T06:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c528bf11.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -455,19 +468,6 @@
       "link": "https://jin115.com/archives/52461496.html",
       "pubDate": "2026-10-27T18:00:56+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/4/f49840b0.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "にじさんじVTuberのアルス・アルマルさん、スプラ暴言・虚偽通報騒動を謝罪「多くの方を不快な気持ちにさせてしまい、大変申し訳ございません」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581092.html",
-      "pubDate": "2026-10-27T18:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/742199f1.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T21:00:51.666649",
+  "updatedAt": "2026-10-27T21:30:41.868665",
   "sites": [
     {
       "id": "hachima",
