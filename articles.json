@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "照明ファクトリーブランド〈bowks〉がデザインした、静寂を灯すオイルランプ。",
+      "description": "照明ファクトリーブランド〈bowks〉のパラフィンオイルランプシリーズ《TOUG》。",
+      "link": "https://casabrutus.com/categories/design/494693",
+      "pubDate": "Tue, 27 Oct 2026 02:25:49 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】GMO「みんな！12時にパソコンの電源オフにして！12時に攻撃するって脅迫受けてる！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581012.html",
+      "pubDate": "2026-10-27T11:20:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f8d0c5e8-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【速報】GMO、顧客にパソコンの電源オフを緊急要請　ハッカーから本日正午に攻撃予告",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461475.html",
+      "pubDate": "2026-10-27T11:11:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/51d7da95.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "シビ辛の名店「鬼金棒」がファミマの冷凍ラーメンに！ 「カラシビ味噌らー麺」の実力をチェックしてみた",
+      "description": "東京・神田に本店を構えるラーメン店「鬼金棒（きかんぼう）」といえば、辛さと痺れのレベルを選んで注文できることでおなじみ。私も池袋店で食べたことがあるが、あの刺激はなかなか忘れられない。 そんな同店の看板メニュー「カラシビ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/27/2834357/",
+      "pubDate": "Tue, 27 Oct 2026 02:00:53 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/o1_c2fc81.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】新幹線予約の個人情報、17万件流出と発表…　JR東海・JR西日本・JR九州の3社で",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581002.html",
+      "pubDate": "2026-10-27T11:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/982d6cd8.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "杉江あこ｜DOCOMOMO Japan 300選 選定記念「モダン・ムーブメントと建築の現在」",
+      "description": "会期：第1部「価値と魅力」2026/08/29～2026/11/23、第2部「継承と活用」2026/12/03～2027/02/23 会場：国立近現代建築資料館［東京都］ 公式サイト：https://www.bunk [&#8230;]",
+      "link": "https://artscape.jp/article/80557/",
+      "pubDate": "Tue, 27 Oct 2026 02:00:20 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/7/57675627.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "若者のハロウィン離れ…今年楽しむ予定なしが過半数「特に思い入れがない」「仮装するのが面倒」「楽しみ方が分からない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580929.html",
-      "pubDate": "2026-10-26T21:20:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e7b6bb12.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +611,6 @@
       "link": "https://brutus.jp/post-426408/",
       "pubDate": "Mon, 26 Oct 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超絶悲報】ゲーマー御用達のJoshin、不正アクセスで最大約600万件の会員情報が漏洩した可能性・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580917.html",
-      "pubDate": "2026-10-26T20:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/e/0e541432.jpg"
     },
     {
       "siteId": "jin",
@@ -691,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fdb342cf.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "移民を追い出そうとモスクに放火した日本人、裁判で後悔・・・「変な動画に影響された」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461416.html",
-      "pubDate": "2026-10-26T16:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa2485db.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -741,6 +780,19 @@
       "link": "https://rocketnews24.com/2026/10/26/2834298/",
       "pubDate": "Mon, 26 Oct 2026 05:00:50 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2734-2.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】ポップなパッケージで気分も盛り上がる。〈LIVRER〉の古着専用洗濯洗剤",
+      "description": "ヴィンテージコレクターのあの人へ繊細な生地をやさしく洗える洗剤 〈LIVRER〉の古着専用洗濯洗剤 三宿の人気クリーニング店〈リブレ〉が開発した古着専用の洗濯洗剤。経年劣化した繊細な生地への負担を抑えつつ、皮脂汚れをしっ [&#8230;]",
+      "link": "https://brutus.jp/post-533292/",
+      "pubDate": "Mon, 26 Oct 2026 03:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1146,19 +1198,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/ケニア屋台の熱々ポテト騒動_1920.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "綴る、わがままな部屋。ミュージシャン・曽我部恵一の居住空間学",
-      "description": "たまにはぼくの家に遊びに来ませんか？ 家というものはまずシェルターであるので、住まう者が心地よければそれでオッケーだと思っている。狭かろうが日当たりが悪かろうが、モノで溢れ返って散らかっていても、住人が良ければそれでいい [&#8230;]",
-      "link": "https://brutus.jp/post-531044/",
-      "pubDate": "Sun, 25 Oct 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1196,19 +1235,6 @@
       "link": "https://casabrutus.com/categories/architecture/495488",
       "pubDate": "Sun, 25 Oct 2026 08:25:44 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第117話「煙」",
-      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/10/25/2813350/",
-      "pubDate": "Sun, 25 Oct 2026 08:00:18 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kikimimi22-1koma.png"
     },
     {
       "siteId": "casabrutus",
@@ -1432,19 +1458,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/02/thumb/VOaKAZ0JY.png?crop=1458:972;0,317&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "集落構想プロジェクト〈あしたの畑〉の新たな展開。シャネルと育む創造の場とは？",
-      "description": "京都府北部、間人（たいざ）を拠点とする〈あしたの畑〉が、11月8日まで秋期の一般公開を開催中。中でも、今年新たに誕生した2つのアートサイトが話題を呼んでいます。",
-      "link": "https://casabrutus.com/categories/art/495445",
-      "pubDate": "Fri, 23 Oct 2026 07:25:32 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1559,19 +1572,6 @@
       "description": "全国各地の美術館・博物館を渡り歩き、そこで出会うグッズたちへの感動を広く伝えるミュージアムグッズ愛好家・大澤夏美さん。博物館経営論の視点からもそれらを捉え直す彼女が、日々新たな商品や話題が生まれるミュージアムグッズの現場 [&#8230;]",
       "link": "https://artscape.jp/article/81078/",
       "pubDate": "Wed, 21 Oct 2026 02:00:23 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【愛知】「長谷川 繁 ペイン天狗」展　関連イベント",
-      "description": "愛知・豊田市美術館 にて、10月24日から開催される「長谷川 繁　ペイン天狗」展の関連イベントが行なわれます。 出品作家・長谷川繁と美術評論家による対談や、作家本人が展示室で作品を見ながら語る長時間のトークイベント「死ゲ [&#8230;]",
-      "link": "https://artscape.jp/article/81548/",
-      "pubDate": "Wed, 21 Oct 2026 01:00:06 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T02:00:49.039396",
+  "updatedAt": "2026-10-27T02:30:41.961810",
   "sites": [
     {
       "id": "hachima",
