@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "海外のニュース番組「40代以上がゲームに夢中になるのはおかしい。もっとあるだろ…その時間で副業とか、遊ぶとしても魚釣りとか」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461460.html",
+      "pubDate": "2026-10-27T09:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/ce21ac91.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,19 @@
       "link": "https://rocketnews24.com/2026/10/27/2847271/",
       "pubDate": "Tue, 27 Oct 2026 00:00:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/clawwolf.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジでそれ】アメリカ人、日本の『ある食べ物』を絶賛！「日本産はパーフェクト。アメリカではとても食べられたものじゃない」　→　納得しかないアレだったｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580983.html",
+      "pubDate": "2026-10-27T09:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/e/ce7664ba.png"
     },
     {
       "siteId": "hachima",
@@ -535,19 +561,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "GMO熊谷社長「セキュリティの課題、社内ホワイトハッカーに前から指摘されていたけど改善間に合わなかった」 →「他責酷すぎる」と批判",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580896.html",
-      "pubDate": "2026-10-26T18:40:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/3/03ff74a3-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "https://jin115.com/archives/52461428.html",
       "pubDate": "2026-10-26T13:00:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b68ac6a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人手不足を訴える建設業界、ついに外国人を評価して幹部に据える動きが始まる→ネットの反応、真っ二つに割れて大論争に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461413.html",
-      "pubDate": "2026-10-26T12:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/1/815bdeaf.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T00:00:52.225974",
+  "updatedAt": "2026-10-27T00:17:49.860069",
   "sites": [
     {
       "id": "hachima",
