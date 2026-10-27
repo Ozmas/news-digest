@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【秘密にしたい】高輪ゲートウェイで見つけた無料の足湯が最高だった / 都会のど真ん中でぼーっとする贅沢",
+      "description": "先日、品川で働く友人と高輪ゲートウェイ周辺を散歩していたときのこと。 「近くに無料で楽しめて、景色もいい足湯があるんだよね」と友人。 実際に行ってみると、これが想像以上に気持ちよく、思わず長居してしまった。しかも、都会の [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/28/2813711/",
+      "pubDate": "Tue, 27 Oct 2026 23:00:33 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/LINE_ALBUM_20261007_261023_3.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "消費減税、東大名誉教授に批判される「極めて〇〇な政策」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461517.html",
+      "pubDate": "2026-10-28T08:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/1049c674.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "Brutus Best Beauty：〈Panasonic〉〈SALONIA〉etc. 最新美容家電で全身アップデート",
+      "description": "Panasonic 進化モデルは6枚刃を搭載 手のひらサイズの丸い形状が話題の〈パナソニック〉のシェーバーが進化。「METAL EDITION」は、アルミニウムの塊から削り出された金属製ボディ。従来の5枚刃から6枚刃にな [&#8230;]",
+      "link": "https://brutus.jp/post-532266/",
+      "pubDate": "Tue, 27 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "GMO熊谷社長、犯人への懸賞金つきAI画像などを投稿　→　「ノリが軽すぎる」と批判殺到…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581212.html",
+      "pubDate": "2026-10-28T07:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/3553d7a1.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -444,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/c/8c5b4748.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【AI失業】マイクロソフト、6万人規模の希望退職を募集！Xbox部門も対象",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581109.html",
-      "pubDate": "2026-10-27T19:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/8/a860544b.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -663,19 +702,6 @@
       "link": "https://jin115.com/archives/52461479.html",
       "pubDate": "2026-10-27T12:25:41+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68053dc0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "アニメ「プリキュア」、ヴィラン側が主役の「デュアルシャドウ ～Precure Villain Heroines～」放送決定！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461476.html",
-      "pubDate": "2026-10-27T12:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/75b6735d.jpg"
     },
     {
       "siteId": "brutus",
@@ -964,19 +990,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_5952_b6da97_5158f2.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2734回「九尾の九ちゃん⑩」",
-      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/10/26/2834298/",
-      "pubDate": "Mon, 26 Oct 2026 05:00:50 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2734-2.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1168,19 +1181,6 @@
       "title": "10月26日〜11月1日 射手座の運勢【ブルータス週間占い】",
       "description": "射手座の羅針盤 次なる目標を見つける 週の初め、射手座にとって日々の業務を表す部屋、牡牛座で満月が起こります。これは、地道に続けてきた習慣が成果につながる兆し。日々運動をするようにしていたなら、体の変化を感じるでしょう。 [&#8230;]",
       "link": "https://brutus.jp/post-534143/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 山羊座の運勢【ブルータス週間占い】",
-      "description": "山羊座の羅針盤 客観視を意識する 週頭、山羊座にとって自己表現を意味する部屋、牡牛座で満月が起こります。自分の得意なことで周囲から評価を得る機会が増えそうです。また、喜びを司る金星が、キャリアを示す部屋、天秤座 で逆行中 [&#8230;]",
-      "link": "https://brutus.jp/post-534145/",
       "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T22:30:45.580016",
+  "updatedAt": "2026-10-27T23:00:53.060427",
   "sites": [
     {
       "id": "hachima",
