@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "地形と一体化した建築〈やしまーる〉を読み解く。建築家・周防貴之と写真家・石川直樹の共著がリリース。",
+      "description": "「屋島プロジェクト」で2026年の日本建築学会賞を受賞した周防貴之と写真家・石川直樹の共著がリリースされました。",
+      "link": "https://casabrutus.com/categories/culture/494597",
+      "pubDate": "Tue, 27 Oct 2026 07:25:15 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アップル、iPhone Duoの画面不具合を認めて端末の交換対応へ！原因についてはノーコメント",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581035.html",
+      "pubDate": "2026-10-27T16:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/4/b4332ad1.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "グラビアアイドルさん、とんでもない画像を投稿してバズるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461487.html",
+      "pubDate": "2026-10-27T16:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/4425d396.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -535,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/e/ce7664ba.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】ガストで食事してたらミセスファンから「友達になりませんか？」と話しかけられる　→　「ファンじゃないので…」と断ったら信じられない一言を返された話",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580979.html",
-      "pubDate": "2026-10-27T08:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/6/f6ec3df9-s.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -715,19 +741,6 @@
       "link": "https://jin115.com/archives/52461446.html",
       "pubDate": "2026-10-26T21:30:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/7/57675627.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "問題「60分の動画を1.5倍速で見たら、動画を見終わるのに何分かかる？」→ほとんどの人が間違えてしまう・・・お前らわかる？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461444.html",
-      "pubDate": "2026-10-26T21:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/e/5ed05419.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1432,19 +1445,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "渓谷に映える紅葉の名所へ。【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/491324",
-      "pubDate": "Fri, 23 Oct 2026 22:00:45 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T07:00:50.824594",
+  "updatedAt": "2026-10-27T07:30:42.577157",
   "sites": [
     {
       "id": "hachima",
