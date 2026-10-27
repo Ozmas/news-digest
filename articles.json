@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】悲報…。唯一無二のボリュームと味わい。向島の人気店「角萬」が閉店しました。",
+      "description": "向島3丁目、水戸街道沿いの手打ちそば「角萬」。 蔦に覆われた外観が印象的な蕎麦店です。 唯一無二ともいえる極太の蕎麦を味わえる店として有名でした。 2026年10月中旬、筆者のもとにも「角萬が閉店するらしい」という情報が [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/28/kadoman-close/",
+      "pubDate": "Tue, 27 Oct 2026 23:01:07 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8419-1024x767.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ドラゴンボール』孫悟空役声優・野沢雅子さん、自分の戸籍謄本を見てガチ号泣…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581216.html",
+      "pubDate": "2026-10-28T08:00:46+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/2/1/2126b281.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -481,19 +507,6 @@
       "link": "https://jin115.com/archives/52461500.html",
       "pubDate": "2026-10-27T20:00:24+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/2/b262c3eb.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【GMO不正アクセス】ハッカー集団が公開した個人情報、ガチのマジでヤバすぎる「子どもの情報、SNS活動、普段行ってるパチンコ店まで晒されてる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581116.html",
-      "pubDate": "2026-10-27T19:30:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/c/8c5b4748.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1627,19 +1640,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7723-e1791876135491-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】錦糸町マルイの今日和錦糸町店が10月25日で閉店…（涙）",
-      "description": "丸井錦糸町7階フロアにあるパスタレストラン「今日和丸井錦糸町店」が，2026年10月25日をもって閉店してしまう事が分かりました。 View this post on Instagram モチモチとした生パスタ、ボリュー [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/18/konnichiwakinshicyo-close/",
-      "pubDate": "Sat, 17 Oct 2026 23:01:08 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7802-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T23:00:53.060427",
+  "updatedAt": "2026-10-27T23:30:40.545319",
   "sites": [
     {
       "id": "hachima",
