@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "キム・ヨンハ統括P「ブルアカの新作アニメや別ジャンルの新作ゲームを展開したい」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581065.html",
+      "pubDate": "2026-10-27T17:30:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/9/896aeca6.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +559,6 @@
       "link": "https://jin115.com/archives/52461463.html",
       "pubDate": "2026-10-27T10:00:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/ef3202a3.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジかよ】死去した大物作家・東野圭吾さんの遺産と、それに対する相続税が巨額すぎて詰んでると話題に…　「推定◯◯億円。これを死亡後10ヶ月以内に納税って無理」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580994.html",
-      "pubDate": "2026-10-27T10:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/abbe4498.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T08:30:44.047132",
+  "updatedAt": "2026-10-27T09:00:52.398936",
   "sites": [
     {
       "id": "hachima",
