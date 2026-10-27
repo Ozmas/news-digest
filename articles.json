@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "Adoさん、炎上　ファンクラブを退会する人も現れる事態に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461501.html",
+      "pubDate": "2026-10-27T20:30:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79ce573b.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -780,19 +793,6 @@
       "link": "https://jin115.com/archives/52461455.html",
       "pubDate": "2026-10-27T03:00:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/e/de76d218.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "20歳の妻「結婚したし試しに避妊やめて性行為するか！」 → 凄いことになるｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461451.html",
-      "pubDate": "2026-10-27T01:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/3/23825504.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T11:30:46.238990",
+  "updatedAt": "2026-10-27T12:00:51.784853",
   "sites": [
     {
       "id": "hachima",
