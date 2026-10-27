@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ダイソーの「伸縮式ウルフ爪」（330円）のモーションがムダにカッコイイ！ ハロウィン仮装に使えるかも！",
+      "description": "ダイソーには時々、妙に凝ったオモチャが売っている。たとえば、以前紹介した弾の出ない「ミニハンドガン」は、なんとブローバックするのである。 ブローバックとは、銃を撃ったときに、上の部分（スライド）がガシャッ！　と勢いよく後 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/27/2847271/",
+      "pubDate": "Tue, 27 Oct 2026 00:00:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/clawwolf.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】ガストで食事してたらミセスファンから「友達になりませんか？」と話しかけられる　→　「ファンじゃないので…」と断ったら信じられない一言を返された話",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580979.html",
+      "pubDate": "2026-10-27T08:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/6/f6ec3df9-s.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -520,19 +546,6 @@
       "link": "http://blog.esuteru.com/archives/10580896.html",
       "pubDate": "2026-10-26T18:40:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/3/03ff74a3-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "声優M・A・Oさんの事務所、小野賢章さんとのデート報道に声明「男女交際の事実は100%ございません」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580894.html",
-      "pubDate": "2026-10-26T18:20:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d9018cf4-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1185,19 +1198,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/repo102100.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "創業60年の阪神そばのDNAをこっそり継ぐ駅カレー屋「ミンガス」に行ってみた / 立ち食いそば放浪記403回：大阪梅田",
-      "description": "ダンジョンと呼ばれて久しい大阪梅田駅。JR、阪急、阪神、大阪メトロと、とにかく大阪駅や梅田駅だらけなので接続がカオスなのだ。例えるなら渋谷スクランブル交差点が街レベルで顕現してるようなものである。私（中澤）は大阪出身だけ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/25/2833509/",
-      "pubDate": "Sun, 25 Oct 2026 02:55:35 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/mingus.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-26T23:30:39.878891",
+  "updatedAt": "2026-10-27T00:00:52.225974",
   "sites": [
     {
       "id": "hachima",
