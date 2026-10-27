@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【地獄】息子が大学で友達一人もいないと察したお母さん、「全てゲームが悪い」と怒って信じられない行為をしてしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580999.html",
+      "pubDate": "2026-10-27T10:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/a/6a4efdad.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "アニメ『BLEACH』ついに完結、放送22年の歴史に幕",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461464.html",
+      "pubDate": "2026-10-27T10:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/9/99695399-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -548,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/4/1444cbad.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【大絶賛】『ファイナルファンタジーレゾナンス』Steam版の同接が一人用FFで過去最高記録を更新！好評率は脅威の97%",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580913.html",
-      "pubDate": "2026-10-26T20:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d0aa710b.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -702,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/10/26/2834693/",
       "pubDate": "Mon, 26 Oct 2026 06:00:05 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/R0013758.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気にじさんじVTuberさん、スプラトゥーン配信で◯◯疑惑が浮上　ガチで大炎上中",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461430.html",
-      "pubDate": "2026-10-26T15:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/b/abc065d2.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T01:30:41.081964",
+  "updatedAt": "2026-10-27T02:00:49.039396",
   "sites": [
     {
       "id": "hachima",
