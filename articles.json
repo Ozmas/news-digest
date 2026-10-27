@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジかよ】死去した大物作家・東野圭吾さんの遺産と、それに対する相続税が巨額すぎて詰んでると話題に…　「推定◯◯億円。これを死亡後10ヶ月以内に納税って無理」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580994.html",
+      "pubDate": "2026-10-27T10:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/abbe4498.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【大阪】Open Storage 2026―ダミアン・ジャレ×名和晃平《Prism》",
+      "description": "大阪・MASKにて、「Open Storage 2026」が開催されます。 約1,000㎡の工場・倉庫跡に、国際的に活躍する現代美術作家の大型作品を保管・展示するMASK（MEGA ART STORAGE KITAKAG [&#8230;]",
+      "link": "https://artscape.jp/article/81911/",
+      "pubDate": "Tue, 27 Oct 2026 01:00:02 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【地獄】天然パーマで縮毛の女子の人生、想像以上の地獄だった…　お前らの想像の80倍以上ハードモード",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10580989.html",
+      "pubDate": "2026-10-27T09:30:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/1/71e20549.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "細野防災大臣が食料・水・トイレの備えを「緊急要請」！→ネットがざわつくも、こういうことだった…",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461469.html",
+      "pubDate": "2026-10-27T09:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/4467cafc.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -496,19 +548,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "中国、ドラマ『VIVANT』にブチギレ「中国人を残忍な加害者として描いている！！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580908.html",
-      "pubDate": "2026-10-26T19:30:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/3/e303aa7a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +559,6 @@
       "link": "https://jin115.com/archives/52461434.html",
       "pubDate": "2026-10-26T19:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d7c73e28.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "内閣府、男女デートの奢り奢られ論争に決着をつけるｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10580905.html",
-      "pubDate": "2026-10-26T19:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/485b7b34.png"
     },
     {
       "siteId": "rocketnews",
@@ -702,19 +728,6 @@
       "link": "https://jin115.com/archives/52461431.html",
       "pubDate": "2026-10-26T14:00:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/69138944.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "有吉さん、アイドルに面と向かってぶっちゃけてしまう「ちょっと失礼な話なんだけどさ・・・」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461428.html",
-      "pubDate": "2026-10-26T13:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b68ac6a.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1575,19 +1588,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_1537-e1791467163155-1024x767.jpeg"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "杉江あこ｜『The Book of MINO　美濃焼の解剖』（セラミックバレー協議会）",
-      "description": "企画：佐藤卓 監修：橋本麻里、立花昭 著者：橋本麻里、下川一哉、杉江あこ、外舘和子、阪口公子、立花昭 デザイン：鈴木文女・長谷川桃（TSDO） 写真：西部裕介、五十嵐拓也（amana） 発行：セラミックバレー協議会 発行 [&#8230;]",
-      "link": "https://artscape.jp/article/80555/",
-      "pubDate": "Tue, 20 Oct 2026 02:00:03 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T00:30:40.351819",
+  "updatedAt": "2026-10-27T01:00:50.383961",
   "sites": [
     {
       "id": "hachima",
