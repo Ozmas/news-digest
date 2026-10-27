@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】女性さん、サーフィン中にビキニがなくなる→結果ｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461494.html",
+      "pubDate": "2026-10-27T23:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/c/6cea9278.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【急展開】炎上した元戦隊ヒロインの今森茉耶さん、YouTuberヒカルさんに拾われて復帰！加藤神楽さんの顔がすごいことにｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581142.html",
+      "pubDate": "2026-10-27T22:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/9229f366.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/3/b3229ffb-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】セクシー男優さん、『ちいかわ』を男性器にしたようなとんでもないゆるキャラグッズを販売してしまう　→　想像の100倍以上アウトで批判殺到ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581017.html",
-      "pubDate": "2026-10-27T13:20:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7d3040c6.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +819,6 @@
       "link": "https://rocketnews24.com/2026/10/27/2812809/",
       "pubDate": "Mon, 26 Oct 2026 22:00:14 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-117.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "国分太一さん、現在の様子が判明する",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461457.html",
-      "pubDate": "2026-10-27T06:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/00e125cc.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T13:30:47.668961",
+  "updatedAt": "2026-10-27T14:00:54.492238",
   "sites": [
     {
       "id": "hachima",
