@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "競馬で2300万円当てた人「資産形成をするために株を始めます！半導体の株を買えばいいんだろ？」 → 1年半後、とんでもないことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461555.html",
+      "pubDate": "2026-10-28T22:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7a31e465-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "TBS、中国のVIVANT批判を受けコメント「完全なフィクションによるエンターテイメント作品です」「意見は真摯に受け止めている」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581382.html",
+      "pubDate": "2026-10-28T22:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/44657aa0.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/112db4c4.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ロック男性「タトゥーを手首まで入れたけど後悔などしたことない」　→　◯◯◯と判明した後、「ごめん、めっちゃ消したい…」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581261.html",
-      "pubDate": "2026-10-28T12:20:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1c82adb4.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -819,19 +832,6 @@
       "link": "https://rocketnews24.com/2026/10/28/2812810/",
       "pubDate": "Tue, 27 Oct 2026 22:00:17 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-118.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "母親「息子は友達がいないらしい！これは○○のせいだああああ！！！！」→金切り声を上げ“一番やってはいけないこと”をしてしまうのだが・・・さらなる複雑な事情が判明する・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461512.html",
-      "pubDate": "2026-10-28T06:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/3/d3b49c91.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T13:00:55.007012",
+  "updatedAt": "2026-10-28T13:24:52.177011",
   "sites": [
     {
       "id": "hachima",
