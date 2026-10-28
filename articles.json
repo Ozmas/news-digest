@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "ラッキーシンボルが詰まった〈DIOR〉の新作ジュエリー。",
+      "description": "「D」モチーフでデザイン新たに登場した〈DIOR〉のアクセサリー。",
+      "link": "https://casabrutus.com/categories/fashion/494668",
+      "pubDate": "Wed, 28 Oct 2026 02:25:33 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民、ヤマト運輸にブチギレ！「当選して届いたプレゼント色紙、真っ二つになってたんだけど！？酷すぎ！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581239.html",
+      "pubDate": "2026-10-28T11:20:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0af11c0-s.png"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "松房子｜路上、お邪魔ですか？",
+      "description": "会期：2026/04/25～2026/09/06 会場：金沢21世紀美術館［石川県］ 公式サイト：https://www.kanazawa21.jp/data_list.php?g=65&#38;d=1852 金沢21世 [&#8230;]",
+      "link": "https://artscape.jp/article/80355/",
+      "pubDate": "Wed, 28 Oct 2026 02:00:56 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "堀井雄二さん、『続ポートピア連続殺人事件:忘却の埋葬』に意味深な匂わせコメント！　「犯人はヤス？果たしてそうかな」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581244.html",
+      "pubDate": "2026-10-28T11:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/924a08f0.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "星野太｜レイ・ブラシエ『解き放たれた無──啓蒙と絶滅』",
+      "description": "監訳：仲山ひふみ 翻訳：小林卓也・島田貴史 発行：河出書房新社 発行日：2026/03/20 発行元ウェブサイト：https://www.kawade.co.jp/np/isbn/9784309231754/ 本書の著書 [&#8230;]",
+      "link": "https://artscape.jp/article/80929/",
+      "pubDate": "Wed, 28 Oct 2026 02:00:23 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +78,19 @@
       "link": "https://rocketnews24.com/2026/10/28/2856958/",
       "pubDate": "Wed, 28 Oct 2026 02:00:09 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/namayasai02.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【朗報】「マックフライポテト」M・L両サイズが250円に！期間限定だから急げええええ！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461528.html",
+      "pubDate": "2026-10-28T11:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/414415e7-s.jpg"
     },
     {
       "siteId": "hachima",
@@ -522,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/c/9c09a386.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "エムバペ選手「中国の独裁者と自分の顔を合成した画像おもしろｗ」 → 中国ブチギレで企業が相次いで契約打ち切り表明、エムバペはSNSで謝罪",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581159.html",
-      "pubDate": "2026-10-27T23:05:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d845960a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +611,6 @@
       "link": "https://jin115.com/archives/52461494.html",
       "pubDate": "2026-10-27T23:00:02+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/c/6cea9278.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【急展開】炎上した元戦隊ヒロインの今森茉耶さん、YouTuberヒカルさんに拾われて復帰！加藤神楽さんの顔がすごいことにｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581142.html",
-      "pubDate": "2026-10-27T22:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/9229f366.jpg"
     },
     {
       "siteId": "jin",
@@ -689,19 +741,6 @@
       "link": "https://jin115.com/archives/52461496.html",
       "pubDate": "2026-10-27T18:00:56+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/4/f49840b0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "外国人の出生数、過去最多を更新",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461490.html",
-      "pubDate": "2026-10-27T17:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/7965ebee.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1445,19 +1484,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/06/subbuzz/zVBop5Y6B.jpg?crop=2120:1413;0,1&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "〈A-POC ABLE ISSEY MIYAKE〉の旗艦店が拡張オープン！ 吉岡徳仁が手がける東京・南青山の空間。",
-      "description": "〈A-POC ABLE ISSEY MIYAKE〉のフラッグシップストアが拡張オープン。",
-      "link": "https://casabrutus.com/categories/design/494364",
-      "pubDate": "Sat, 24 Oct 2026 02:25:34 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1534,32 +1560,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/23/paypay-bakeryhanabi/",
       "pubDate": "Thu, 22 Oct 2026 23:01:09 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7291-1024x767.jpeg"
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "松房子｜パフォーマンス・アート：身体と空間をめぐる映画祭｜キャロリー・シュニーマン『ブレインキング・ザ・フレーム』",
-      "description": "会期：2026/08/01～ 会場：ユーロスペース［東京都］ 公式サイト：http://www.eurospace.co.jp/works/detail.php?w_id=000997 渋谷・ユーロスペースで開催された「 [&#8230;]",
-      "link": "https://artscape.jp/article/80350/",
-      "pubDate": "Thu, 22 Oct 2026 02:00:46 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【神奈川】開館40周年記念展「横浜人形の家　建築と記憶」関連イベント",
-      "description": "横浜人形の家にて、9月5日から開催されている開館40周年記念展「横浜人形の家　建築と記憶」の関連イベントが行なわれます。 建築の専門家によるトークイベントや、建築を学ぶ学生とともに館内を巡る探検ツアー、横浜人形の家の周辺 [&#8230;]",
-      "link": "https://artscape.jp/article/81515/",
-      "pubDate": "Thu, 22 Oct 2026 01:00:14 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T02:00:51.939106",
+  "updatedAt": "2026-10-28T02:30:40.084713",
   "sites": [
     {
       "id": "hachima",
