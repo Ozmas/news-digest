@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本保守党・北村議員、移民政策について綺麗事なしで政府に何もかも言う→「正論」の声、殺到",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461569.html",
+      "pubDate": "2026-10-29T07:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/2115fe5d.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】アメリカニキ「日本の兄弟があまりに肉とライスの組み合わせを話すから試してみたよ」パシャッ　→　アメリカ版牛丼、ついに爆誕ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581450.html",
+      "pubDate": "2026-10-29T07:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b1c1362a.gif"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -509,19 +535,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "文春砲で報じられたMattさんから性被害を受けたと告発した人物は男性？本人は男性ですと説明した上で虚偽だと反論　なお、過去には恋愛対象について◯◯と回答",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581303.html",
-      "pubDate": "2026-10-28T18:30:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4a31376c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +676,6 @@
       "link": "https://jin115.com/archives/52461530.html",
       "pubDate": "2026-10-28T13:00:05+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/01c5064c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "社民党支持者「ネトウヨはアメリカ様が鯨肉食うなと言ったら従うくせにイスラム教徒が豚肉食べるなと言ったら激怒する。この矛盾、ネトウヨは説明しろよ！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461532.html",
-      "pubDate": "2026-10-28T12:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/a/fa3ae372.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T22:00:49.087439",
+  "updatedAt": "2026-10-28T22:30:40.602222",
   "sites": [
     {
       "id": "hachima",
