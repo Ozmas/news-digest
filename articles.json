@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【つらい】『ポケモンユナイト』サービス終了で、◯◯◯してた小学生達がむせび泣く…　かわいそうすぎるだろこれ…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581268.html",
+      "pubDate": "2026-10-28T13:20:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4f13a48b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "IT有識者「これはえっちな話なんですけど、来週◯◯◯◯」　→　えちちどころではないとんでもない情報だった！マジかｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581264.html",
+      "pubDate": "2026-10-28T13:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/0516791a.gif"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -598,32 +624,6 @@
       "link": "https://jin115.com/archives/52461507.html",
       "pubDate": "2026-10-28T03:00:31+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/b/7b6c0e4c.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "高須克弥氏、堀大輔さんを刑事告発へ「かっちゃんの仕事は電光石火」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581178.html",
-      "pubDate": "2026-10-28T02:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2be63548.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "GMO熊谷社長、Xで突然笑顔の自撮り写真を投稿しネット民ドン引き「被害者の人ほんとうに可哀想」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581177.html",
-      "pubDate": "2026-10-28T01:30:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/44e1570d.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T04:00:49.870182",
+  "updatedAt": "2026-10-28T04:30:41.386395",
   "sites": [
     {
       "id": "hachima",
