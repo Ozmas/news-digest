@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【2027年福袋まとめ①】松屋、久世福、Zoff、酒ガチャ…もう販売始まってるのもあるからチェックして！",
+      "description": "早いもので、今年ももう10月の終わり。すでにちらほらと福袋の情報が出始める季節となった。 そこで今回から何回かにわけて、ロケットニュース24編集部で厳選した2027年の福袋情報をお届けしたい。第1弾は牛丼チェーンの「松屋 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/28/2857283/",
+      "pubDate": "Wed, 28 Oct 2026 10:00:05 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/45143650-7e22-41f0-99b4-be2576a3dffa.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】バンナム系、顧客メールアドレス34万件流出！ガンダムベースの会員情報が漏えい",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581309.html",
+      "pubDate": "2026-10-28T19:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/4/e498a727.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「WELL-MADE」Vol.12 〈STONE ISLAND〉のクリンクルレップスジャケット",
+      "description": "〈STONE ISLAND〉のクリンクルレップスジャケット 一点ずつ異なる陰影を宿し、静かに季節を纏（まと）う“大人のカモ” カモ柄と一口に言っても、“大人のカモ柄”はある。目を引くことより、じわりと効くこと。だから青々 [&#8230;]",
+      "link": "https://brutus.jp/post-532510/",
+      "pubDate": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "文春砲で報じられたMattさんから性被害を受けたと告発した人物は男性？本人は男性ですと説明した上で虚偽だと反論　なお、過去には恋愛対象について◯◯と回答",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581303.html",
+      "pubDate": "2026-10-28T18:30:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4a31376c.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/414415e7-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超悲報】ドコモ、不正アクセスで顧客情報44万人分流出",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581238.html",
-      "pubDate": "2026-10-28T10:30:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/c/9cfc5860.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +546,6 @@
       "link": "https://jin115.com/archives/52461523.html",
       "pubDate": "2026-10-28T10:30:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/1/b12f146c.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "高市早苗首相がG7オンライン首脳会合を欠席した理由、ついに判明か　「設備の問題ではなく◯◯◯だから」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581234.html",
-      "pubDate": "2026-10-28T10:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ad1b09ce.jpg"
     },
     {
       "siteId": "jin",
@@ -990,19 +1016,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【コラム】最近の『魚べい』がマジで回転寿司を超えちゃってる話",
-      "description": "物価高騰でエンゲル係数が上がり続けている今日この頃。渋谷で一人暮らししている私（中澤）は、編集部で最も外食チェーンの値上げに敏感な1人かもしれない。食べ終わった後満足するどころか、ヘコむようなチェーンがグッと増えてきたの [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/27/2834189/",
-      "pubDate": "Tue, 27 Oct 2026 01:00:40 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/uo.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1246,19 +1259,6 @@
       "title": "10月26日〜11月1日 乙女座の運勢【ブルータス週間占い】",
       "description": "乙女座の羅針盤 身近な範囲を俯瞰して動き回る 乙女座にとって将来を意味する部屋、牡牛座での満月から始まる今週は、進むべき道筋が地図から浮かび上がるようにくっきりと見えてくる週です。ただ、太陽に90度でコンタクトしてくる冥 [&#8230;]",
       "link": "https://brutus.jp/post-534131/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 天秤座の運勢【ブルータス週間占い】",
-      "description": "天秤座の羅針盤 大切な人と過ごせる幸せを噛み締める 天秤座から見て、深い関係を表す部屋となる牡牛座。26日にここで起こる満月は、大切な人との関係が深まる兆しです。身近な相手に対して、「この人とずっと一緒にいたい」と実感す [&#8230;]",
-      "link": "https://brutus.jp/post-534133/",
       "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T09:30:43.246725",
+  "updatedAt": "2026-10-28T10:00:51.157598",
   "sites": [
     {
       "id": "hachima",
