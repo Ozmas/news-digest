@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "愛用する住まい、どこが変わりましたか？写真家・高橋ヨーコが満を持して塗り替えた玄関の扉",
+      "description": "満を持して玄関の扉を好みの色に塗り替えました オーダーしたのは、「柿っぽい色で」。宮脇檀（まゆみ）が設計した〈森ボックス〉という名の住宅に引っ越したのが2020年。写真家の高橋ヨーコさんは、築50年近いこの家を、オリジナ [&#8230;]",
+      "link": "https://brutus.jp/post-530916/",
+      "pubDate": "Wed, 28 Oct 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気配信者さん、配信しながら小学生の横を通り過ぎたらガチでヤバいことになってしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461544.html",
+      "pubDate": "2026-10-28T19:30:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7d43957.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -795,19 +821,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/b/7b6c0e4c.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「女性の方、おじさんからアタックされて困った体験談教えて」→マジでヤバい職場体験談がこちら・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461498.html",
-      "pubDate": "2026-10-28T01:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/761ff069.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1250,19 +1263,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 乙女座の運勢【ブルータス週間占い】",
-      "description": "乙女座の羅針盤 身近な範囲を俯瞰して動き回る 乙女座にとって将来を意味する部屋、牡牛座での満月から始まる今週は、進むべき道筋が地図から浮かび上がるようにくっきりと見えてくる週です。ただ、太陽に90度でコンタクトしてくる冥 [&#8230;]",
-      "link": "https://brutus.jp/post-534131/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T10:30:44.257069",
+  "updatedAt": "2026-10-28T11:00:55.066726",
   "sites": [
     {
       "id": "hachima",
