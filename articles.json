@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【え…？】日本の「○○○○」、差別用語だった・・・発言した野球実況者がクビに",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461534.html",
+      "pubDate": "2026-10-28T14:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/2730f947.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2736回「九尾の九ちゃん⑫」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/10/28/2857363/",
+      "pubDate": "Wed, 28 Oct 2026 05:00:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2736-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "GMOサイバー攻撃で個人情報をさらされた人「いや、自分GMOのサービス一度も使ってないし、殆どデタラメなんだけど？？？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581267.html",
+      "pubDate": "2026-10-28T14:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/c/8c5b4748.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -600,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/a/1a7bb7be.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバイ！】羽田空港第1・第2ターミナル駅のトイレが全滅！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581141.html",
-      "pubDate": "2026-10-28T04:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/3/6322fd30.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +754,6 @@
       "link": "https://jin115.com/archives/52461501.html",
       "pubDate": "2026-10-27T20:30:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79ce573b.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "スプラで炎上したにじさんじ『アルス・アルマル』さん謝罪 更に過去にも〇〇を行っていたことを認める",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461500.html",
-      "pubDate": "2026-10-27T20:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/2/b262c3eb.png"
     },
     {
       "siteId": "rocketnews",
@@ -1001,19 +1014,6 @@
       "link": "https://casabrutus.com/categories/design/495153",
       "pubDate": "Mon, 26 Oct 2026 22:00:21 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "雑に暮らしとけ！ イメージと違う容疑者！　四コマサボタージュFB第117回「張り込み」",
-      "description": "ミニマリストの人の部屋ってゴキブリをすぐに見つけやすそうだよね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/10/27/2812809/",
-      "pubDate": "Mon, 26 Oct 2026 22:00:14 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-117.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T05:00:50.319032",
+  "updatedAt": "2026-10-28T05:30:42.156226",
   "sites": [
     {
       "id": "hachima",
