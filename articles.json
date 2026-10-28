@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "お笑いコンビ・ニューヨーク、『歌い手』に苦言「増えすぎ！顔出せや！ツラ見せろマジで」「素顔やプロフィールは一切明かしていない？じゃかしいわ！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461566.html",
+      "pubDate": "2026-10-29T06:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/efdf78c7.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "星街すいせい＆イノタクのユニットライブが突然無料公演に変更へ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581392.html",
+      "pubDate": "2026-10-29T06:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/9/69a7d308-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -457,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4a31376c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "トランプ大統領、AIの呼称の使用禁止を表明！「AIという用語を使う者はすべて敵」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581301.html",
-      "pubDate": "2026-10-28T18:10:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/c/0c644c14.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://jin115.com/archives/52461528.html",
       "pubDate": "2026-10-28T11:00:00+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/414415e7-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "神戸モスク「炎上したウチの指導者の発言、誤解なんだよすまん。でも正しく理解してないくせに差別するのはおかしいよね？差別には断固反対する！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461523.html",
-      "pubDate": "2026-10-28T10:30:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/1/b12f146c.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T21:00:49.449882",
+  "updatedAt": "2026-10-28T21:30:40.693460",
   "sites": [
     {
       "id": "hachima",
