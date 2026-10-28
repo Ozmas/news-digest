@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ド正論】理系父「娘よ、日本史や世界史の勉強はムダだぞ」、母親「あのさぁ…」　→　母親の返しが頭良くて深いとネット大絶賛ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581260.html",
+      "pubDate": "2026-10-28T12:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/4/c4fa4ad6.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "社民党支持者「ネトウヨはアメリカ様が鯨肉食うなと言ったら従うくせにイスラム教徒が豚肉食べるなと言ったら激怒する。この矛盾、ネトウヨは説明しろよ！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461532.html",
+      "pubDate": "2026-10-28T12:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/a/fa3ae372.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -24,7 +50,7 @@
       "title": "「女性の皆さん、おじアタック被害体験を教えて下さい。『レジスタ！』を擁護する男性は被害と無縁で解像度低いのです」　→　想像以上の地獄だった…",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10581252.html",
-      "pubDate": "2026-10-28T11:40:33+09:00",
+      "pubDate": "2026-10-28T11:40:05+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6eea5c9a-s.jpg"
     },
     {
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4fa06e22-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "妻「私が托卵してたらどうする？」⇒ 夫「お前の目の前で子供◯してから君を◯す」と返答した結果・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581114.html",
-      "pubDate": "2026-10-28T00:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6fa10797.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +767,6 @@
       "link": "https://brutus.jp/post-533321/",
       "pubDate": "Tue, 27 Oct 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "GMO、被害にあった顧客に「新しいPC」を提供へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461496.html",
-      "pubDate": "2026-10-27T18:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/4/f49840b0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T03:00:58.573159",
+  "updatedAt": "2026-10-28T03:30:42.868291",
   "sites": [
     {
       "id": "hachima",
