@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "人気コスプレイヤー・カモミールさんが「15万円オフパコ」「性病」暴露を完全否定！相手を刑事告訴",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581400.html",
+      "pubDate": "2026-10-29T05:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/dbfdc57d.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -468,19 +481,6 @@
       "link": "http://blog.esuteru.com/archives/10581298.html",
       "pubDate": "2026-10-28T17:45:21+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/3/83175346.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【決算】カプコン、営業益54％増の大幅増益！『プラグマタ』270万本、『鬼武者WS』170万本突破！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581297.html",
-      "pubDate": "2026-10-28T17:15:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f8cef672.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T20:00:50.115715",
+  "updatedAt": "2026-10-28T20:30:42.418433",
   "sites": [
     {
       "id": "hachima",
