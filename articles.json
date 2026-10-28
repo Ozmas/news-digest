@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "やたらと高価な「大仁田厚のファイヤーカレー（861円）〜電流爆破メシ!!〜」を食べたら、ととのった",
+      "description": "同僚の佐藤が近所のスーパーに行った際、「これ、羽鳥さんに」と、ひとつのカレーを買ってきてくれた。売っていた場所はヨークフーズ。その名も『大仁田厚のファイヤーカレー』。激辛カレーらしい。 大仁田のカレーというだけでちょっと [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/28/2857027/",
+      "pubDate": "Wed, 28 Oct 2026 02:55:23 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3583_1920.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「女性の皆さん、おじアタック被害体験を教えて下さい。『レジスタ！』を擁護する男性は被害と無縁で解像度低いのです」　→　想像以上の地獄だった…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581252.html",
+      "pubDate": "2026-10-28T11:40:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6eea5c9a-s.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ズボラの心読みすぎ】レトルトカレーやお茶漬けを直接ぶち込める！ テーブルマークの『深皿ごはん』の懐が深すぎる",
+      "description": "「ご飯炊くの面倒くさい、でも米食いてえ～」ってときに、パックのご飯は便利だ。レンジでチンするだけで、ホカホカのご飯を手軽に食べることができる。そのまま食べる分には良いんだけど、カレーを食べたいと思ったら、器に盛りかえなけ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/28/2833960/",
+      "pubDate": "Wed, 28 Oct 2026 02:30:35 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/fukazaragohan.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -587,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/c/bc84ef9b.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【辺野古転覆事故】武石知華さんの遺族、抗議団体幹部と初めての面会 → 何を質問しても「わからない」しか答えず「そもそも原因を究明する気がない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581169.html",
-      "pubDate": "2026-10-27T23:35:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/c/9c09a386.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -990,19 +1016,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-117.png"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2154話目「新設、トラップ部隊㉘」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/26/2834813/",
-      "pubDate": "Mon, 26 Oct 2026 12:00:03 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2154a_ed6bbc.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1027,19 +1040,6 @@
       "link": "https://brutus.jp/post-532369/",
       "pubDate": "Mon, 26 Oct 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ケニアにはなぜポテト屋がこんなに多いのか？ 日本の読者からの質問に答えます【カンバ通信：第538回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回は、いつものポテト食べ歩きとは少し違うお話をしようと思う。 実は先日、カンバ通信のリクエストボックスに、日本の読者の方か [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/26/2834112/",
-      "pubDate": "Mon, 26 Oct 2026 10:00:01 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_5fc9af.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T02:30:40.084713",
+  "updatedAt": "2026-10-28T03:00:58.573159",
   "sites": [
     {
       "id": "hachima",
