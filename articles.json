@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ゆうぎり高校VTuber・天羅洲テラスが稼働休止に。原因は運営批判か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581399.html",
+      "pubDate": "2026-10-29T04:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/6/f692198e.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "https://brutus.jp/post-531067/",
       "pubDate": "Wed, 28 Oct 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "PS5/Xbox『GTA6』ダウンロードサイズは210GBとの報道！ゲーム本体の容量としては過去最大級の作品の一つに",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581294.html",
-      "pubDate": "2026-10-28T16:45:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/0/905d21ca.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T19:01:08.348734",
+  "updatedAt": "2026-10-28T19:30:41.894207",
   "sites": [
     {
       "id": "hachima",
