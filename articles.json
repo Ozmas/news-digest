@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "松屋に通って30年、ついに「生野菜の正解」に辿り着いたかもしれない / カレーに全部ぶち込むと化ける",
+      "description": "今から30年前というと1996年。「ポケットモンスター 赤・緑」が発売され「ロングバケーション」が社会現象となり、TKこと「小室ファミリー」が日本を席捲していた年である。 あれから30年の時を経て、ついに私、P.K.サン [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/28/2856958/",
+      "pubDate": "Wed, 28 Oct 2026 02:00:09 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/namayasai02.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超悲報】ドコモ、不正アクセスで顧客情報44万人分流出",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581238.html",
+      "pubDate": "2026-10-28T10:30:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/c/9cfc5860.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "神戸モスク「炎上したウチの指導者の発言、誤解なんだよすまん。でも正しく理解してないくせに差別するのはおかしいよね？差別には断固反対する！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461523.html",
+      "pubDate": "2026-10-28T10:30:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/1/b12f146c.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -522,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/9229f366.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "PC/PS4『ストリートファイター5』が一時販売停止！PHPのセキュリティ強化のためオンライン機能が利用不可に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581137.html",
-      "pubDate": "2026-10-27T22:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/4/0434b409.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +741,6 @@
       "link": "https://casabrutus.com/categories/culture/494597",
       "pubDate": "Tue, 27 Oct 2026 07:25:15 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "グラビアアイドルさん、とんでもない画像を投稿してバズるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461487.html",
-      "pubDate": "2026-10-27T16:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/4425d396.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1001,19 +1014,6 @@
       "link": "https://brutus.jp/post-529189/",
       "pubDate": "Mon, 26 Oct 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "先週発売したばかりの「iPhone Duo」 の画面割れ問題が相次いで報告される / 購入後、家までもたなかった人も",
-      "description": "2026年10月16日より予約が始まったApple初の2つ折り端末「iPhone Duo」は、翌週の23日より販売が始まった。日本では最下位のモデル（256GB）ですら36万4800円もするので、購入を見送った人も少なく [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/26/2840276/",
-      "pubDate": "Mon, 26 Oct 2026 08:09:16 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/iPhoneduocrack.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T01:30:40.896952",
+  "updatedAt": "2026-10-28T02:00:51.939106",
   "sites": [
     {
       "id": "hachima",
