@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "シャツ以上、アウター級。〈is-ness〉のネルシャツ：Brutus Best Bets",
+      "description": "シャツ以上、アウター級 バッファローチェックのネルシャツといえば、秋冬の不朽のスタンダード。ただ、そのまま作らないのが〈イズネス〉。ウールのシャギー感を生かしながら、シルエットは思いきりゆったり。軽さと保温性を備え、シャ [&#8230;]",
+      "link": "https://brutus.jp/post-531067/",
+      "pubDate": "Wed, 28 Oct 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "PS5/Xbox『GTA6』ダウンロードサイズは210GBとの報道！ゲーム本体の容量としては過去最大級の作品の一つに",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581294.html",
+      "pubDate": "2026-10-28T16:45:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/0/905d21ca.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -572,19 +598,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/28/kadoman-close/",
       "pubDate": "Tue, 27 Oct 2026 23:01:07 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8419-1024x767.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ドラゴンボール』孫悟空役声優・野沢雅子さん、自分の戸籍謄本を見てガチ号泣…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581216.html",
-      "pubDate": "2026-10-28T08:00:46+09:00",
-      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/2/1/2126b281.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1250,19 +1263,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 蠍座の運勢【ブルータス週間占い】",
-      "description": "蠍座の羅針盤 古い自分の殻を破る 週の初め、蠍座にとって対人関係を表す部屋である牡牛座で満月が起こります。これは、自分が一緒に過ごしたい相手がはっきりと見えてくる星回り。今そばにいる人たちとの関係性が最高潮を迎えそうです [&#8230;]",
-      "link": "https://brutus.jp/post-534140/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T07:30:42.844816",
+  "updatedAt": "2026-10-28T08:00:51.333914",
   "sites": [
     {
       "id": "hachima",
