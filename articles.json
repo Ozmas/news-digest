@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "恥を知らない韓国農家、日本から盗んだシャインマスカットを過剰生産して価格急落…経営難で自殺者も",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581314.html",
+      "pubDate": "2026-10-28T19:30:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a0083ba.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "アンチ動画をまとめていた投稿者を訴えたホロライブ、アメリカでの訴訟が却下されてしまう・・・「◯◯というカバーの主張は極めて大ざっぱな一般化」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461550.html",
+      "pubDate": "2026-10-28T19:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/10ebe56e.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -483,19 +509,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "堀井雄二さん、『続ポートピア連続殺人事件:忘却の埋葬』に意味深な匂わせコメント！　「犯人はヤス？果たしてそうかな」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581244.html",
-      "pubDate": "2026-10-28T11:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/924a08f0.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -793,19 +806,6 @@
       "link": "https://jin115.com/archives/52461498.html",
       "pubDate": "2026-10-28T01:00:00+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/761ff069.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "GMO、ハッカーの有力情報提供者に懸賞金を支払うと発表！その額なんと・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461509.html",
-      "pubDate": "2026-10-28T00:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/c/bc84ef9b.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T10:00:51.157598",
+  "updatedAt": "2026-10-28T10:30:44.257069",
   "sites": [
     {
       "id": "hachima",
