@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】PC/PS5『機動戦士ガンダム バトルオペレーション3』正式発表！！最大9vs9で遊べるチームバトルアクション",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581362.html",
+      "pubDate": "2026-10-28T20:20:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/243e33eb.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人種差別外国人「なぜ日本のアニメのキャラクターは目がめっちゃ大きいのに、日本人は目が小さいんだ？」→たった1枚の画像で撃退されてしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461546.html",
+      "pubDate": "2026-10-28T20:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b040b532.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -509,19 +535,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民、ヤマト運輸にブチギレ！「当選して届いたプレゼント色紙、真っ二つになってたんだけど！？酷すぎ！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581239.html",
-      "pubDate": "2026-10-28T11:20:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0af11c0-s.png"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -806,19 +819,6 @@
       "link": "https://jin115.com/archives/52461510.html",
       "pubDate": "2026-10-28T05:00:22+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/6507a354.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "高市首相、バングラデシュに1兆円の投資へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461507.html",
-      "pubDate": "2026-10-28T03:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/b/7b6c0e4c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T11:00:55.066726",
+  "updatedAt": "2026-10-28T11:30:44.821585",
   "sites": [
     {
       "id": "hachima",
