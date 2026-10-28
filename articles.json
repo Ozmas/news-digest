@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【決算】カプコン、営業益54％増の大幅増益！『プラグマタ』270万本、『鬼武者WS』170万本突破！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581297.html",
+      "pubDate": "2026-10-28T17:15:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f8cef672.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「サンマルクカフェ＆茶」って何？ 全国に7店舗しかないレアな店に行ってみたら、想像と違った",
+      "description": "先日、両国を歩いていたとき、ちょっと気になる店を見つけた。 その名も「サンマルクカフェ＆茶」。 サンマルクカフェまでは知っている。しかし、その後ろの「＆茶」は初耳だ。ずいぶん控えめに付け足しているが、そこには何があるんだ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/28/2834248/",
+      "pubDate": "Wed, 28 Oct 2026 08:01:10 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/saintmarccafe-2-e1792924812100.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "表舞台から姿を消していた人気俳優、9年ぶりのバラエティ出演にネット騒然",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461539.html",
+      "pubDate": "2026-10-28T17:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/167dcc9a.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -574,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c837d075.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】「電子マネーしかないのに有料の駐輪場は現金払い、出られん…せや！」　→　頭良すぎるアイデアで◯◯◯をして見事脱出！これは賢いｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581220.html",
-      "pubDate": "2026-10-28T08:30:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/2929adc3.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -754,19 +780,6 @@
       "link": "https://jin115.com/archives/52461494.html",
       "pubDate": "2026-10-27T23:00:02+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/c/6cea9278.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "全ゲーマーノーマークだった『ファイナルファンタジー レゾナンス』、高評価連発で神ゲー確定！Steam同接も「FF」シリーズ過去最高を記録！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461503.html",
-      "pubDate": "2026-10-27T22:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/0328444d.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1001,19 +1014,6 @@
       "link": "https://artscape.jp/article/81911/",
       "pubDate": "Tue, 27 Oct 2026 01:00:02 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ダイソーの「伸縮式ウルフ爪」（330円）のモーションがムダにカッコイイ！ ハロウィン仮装に使えるかも！",
-      "description": "ダイソーには時々、妙に凝ったオモチャが売っている。たとえば、以前紹介した弾の出ない「ミニハンドガン」は、なんとブローバックするのである。 ブローバックとは、銃を撃ったときに、上の部分（スライド）がガシャッ！　と勢いよく後 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/27/2847271/",
-      "pubDate": "Tue, 27 Oct 2026 00:00:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/clawwolf.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T08:00:51.333914",
+  "updatedAt": "2026-10-28T08:30:45.745968",
   "sites": [
     {
       "id": "hachima",
