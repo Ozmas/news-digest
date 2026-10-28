@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ホロライブ運営、VTuberのデマ情報を発信した未成年者と示談！親権者が「損害賠償金の支払い」決定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581383.html",
+      "pubDate": "2026-10-28T22:30:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a3ccc09f.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -26,6 +39,19 @@
       "link": "http://blog.esuteru.com/archives/10581382.html",
       "pubDate": "2026-10-28T22:00:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/44657aa0.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "On omnipresent photography：The Master of Fashion Photography Who Avoided Books and Exhibitions, David Sims Reflects on His Rebellious Perfectionism in His First Exhibition",
+      "description": "In the early 1990s, British photographer David Sims made his debut in i-D and The Face, going on to shoot nume [&#8230;]",
+      "link": "https://brutus.jp/post-533648/",
+      "pubDate": "Wed, 28 Oct 2026 13:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -507,19 +533,6 @@
       "link": "https://jin115.com/archives/52461530.html",
       "pubDate": "2026-10-28T13:00:05+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/01c5064c.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "運転手「よし！冬タイヤに交換したぞ！後は業者に増し締めしてもらおっと（ﾌﾞｵﾝｯ」 → タイヤが外れ、小屋に直撃してしまう…　ネットからツッコミが殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581247.html",
-      "pubDate": "2026-10-28T12:40:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/112db4c4.jpg"
     },
     {
       "siteId": "jin",
@@ -1250,19 +1263,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 獅子座の運勢【ブルータス週間占い】",
-      "description": "獅子座の羅針盤 少しずつ自分を新しくする 6月末に自エリア（獅子座）に木星（成長）が入って以来、仕事の広がりや成長の時期が続いています。26日の満月は、獅子座にとって社会的立場を表す部屋、牡牛座で起こります。これによって [&#8230;]",
-      "link": "https://brutus.jp/post-534129/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T13:30:40.435157",
+  "updatedAt": "2026-10-28T14:00:54.935790",
   "sites": [
     {
       "id": "hachima",
