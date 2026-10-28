@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「コンビニで飲み物は買いたくない！」節約主婦のカバンを開けたら、20〜30円の水とお菓子が出てきた",
+      "description": "私のカバンには、必ずといっていいほど入っているものがあります。 それは、小分けのお菓子と、1本20〜30円ほどの水。 ……地味！（笑） でも、これがあるだけで、コンビニや自動販売機での予定外の出費を減らせるんです。ほかに [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/28/2834121/",
+      "pubDate": "Wed, 28 Oct 2026 00:00:19 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/DCFCC97F-3499-4239-9381-E63793BEDBBF_1920.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高市早苗「バングラデシュ首相と会談しました」→Xのリプ欄がとんでもないことになっていた",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461518.html",
+      "pubDate": "2026-10-28T08:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c837d075.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -704,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7a6899b8.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【訃報】漫画家・ちばてつやさん死去 「あしたのジョー」など",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461479.html",
-      "pubDate": "2026-10-27T12:25:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68053dc0.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -988,19 +1001,6 @@
       "link": "https://rocketnews24.com/2026/10/26/2834693/",
       "pubDate": "Mon, 26 Oct 2026 06:00:05 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/R0013758.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【Amazon】最大71％オフ！ 価格が一気に下がった注目アイテム26選（10月26日）",
-      "description": "毎日お得なタイムセールを開催しているAmazon。家電・食品・ファッションなど、さまざまなカテゴリーのアイテムを特別価格でゲットできるチャンス。 本日は、価格が一気に下がった注目のアイテムを厳選ピックアップしてみたぞ。  [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/26/2834684/",
-      "pubDate": "Mon, 26 Oct 2026 05:30:43 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_5952_b6da97_5158f2.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-27T23:30:40.545319",
+  "updatedAt": "2026-10-28T00:00:51.223882",
   "sites": [
     {
       "id": "hachima",
