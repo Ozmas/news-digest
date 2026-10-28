@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "全客室から嚴島神社が望める、瀬戸内海・宮島口温泉の新しい〈界〉。",
+      "description": "広島・宮島口温泉に、小大建築設計事務所が設計を手がけた星野リゾートの温泉旅館〈界 宮島〉が誕生。",
+      "link": "https://casabrutus.com/categories/architecture/494372",
+      "pubDate": "Wed, 28 Oct 2026 07:25:49 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "バイオハザードシリーズ、あと10年で”決着”へ！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461549.html",
+      "pubDate": "2026-10-28T16:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/65d44a2d.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -743,19 +769,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2155a.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "政治学者「日本は◯◯というナショナルプライドを中国に折られて反中になった」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461486.html",
-      "pubDate": "2026-10-27T21:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/a/6aa7b889.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1445,19 +1458,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/19/02/subbuzz/b91kaIKbm.jpg?crop=3332:2221;0,357&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "松の枝で作った、満月のようなのぞき窓。【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/491326",
-      "pubDate": "Sat, 24 Oct 2026 22:00:49 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T07:00:53.748838",
+  "updatedAt": "2026-10-28T07:30:42.844816",
   "sites": [
     {
       "id": "hachima",
