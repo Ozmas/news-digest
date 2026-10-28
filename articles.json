@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ハッピーハロウィン！ 舞台女優がプロ用コスメを使って血みどろゾンビに変身してみた",
+      "description": "舞台では基本的に役者が自分でメイクをする。メイクも役作りの一環なのだ。そんなわけで、舞台女優の私はずっと「役柄を表現するためのメイク方法」を学んできた。 舞台のメイクは普段のメイクと違うので、日常生活でその技を披露するチ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/29/2834618/",
+      "pubDate": "Wed, 28 Oct 2026 23:00:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-3-11.jpeg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "70名を超えるクリエイターが参加するデザインイベント『alter.』って？",
+      "description": "デザインの未来は、この4日間から始まる イタリア・ミラノの『ミラノ・デザインウィーク』やデンマーク・コペンハーゲンの『3daysofdesign』など、インテリアやプロダクトデザインを扱うイベントが世界中で盛り上がる中、 [&#8230;]",
+      "link": "https://brutus.jp/post-531758/",
+      "pubDate": "Wed, 28 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1016,19 +1042,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "超高級ステーキハウス『ピーター・ルーガー』のハンバーガー（税込3520円）が凄いらしい / 食べるのならば絶対にランチタイムを狙え！",
-      "description": "世界最高峰との呼び声高い超高級ステーキハウス『ピーター・ルーガー』。実は、テイクアウトで販売しているハンバーガーも物凄く美味しい。 公式サイトを見てみると、ランチタイム（11:00ｰ15:00）には店内でも提供している様 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/27/2834399/",
-      "pubDate": "Tue, 27 Oct 2026 02:55:24 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/42684_0.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1259,19 +1272,6 @@
       "title": "10月26日〜11月1日 双子座の運勢【ブルータス週間占い】",
       "description": "双子座の羅針盤 何事にも好奇心の目を向ける 双子座から見て内省の部屋にあたる牡牛座の満月は、停滞感のある日々に光を投げかけます。太陽と逆行中の水星（思考）とが調整の部屋である蠍座にいるので、進めようと思っていたことがなか [&#8230;]",
       "link": "https://brutus.jp/post-534125/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 蟹座の運勢【ブルータス週間占い】",
-      "description": "蟹座の羅針盤 自分の価値観や感覚を信じる 週明け、蟹座にとって将来や理想を表す部屋、牡牛座で満月が起こります。かつて描いた理想のロードマップに沿って進めていると、充実した気持ちを得るでしょう。ただ、ここで満足して終わり、 [&#8230;]",
-      "link": "https://brutus.jp/post-534127/",
       "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T22:30:40.602222",
+  "updatedAt": "2026-10-28T23:00:50.774364",
   "sites": [
     {
       "id": "hachima",
