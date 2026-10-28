@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】山形県米沢市×TERMINA『米沢んまいもん祭』を開催！",
+      "description": "山形県米沢市×TERMINA『米沢んまいもん祭』 はこビュンで産地直送！　旬のとれたて「舘山りんご」など山形県米沢市の“んまいもん”が大集合 2026年10月31日（土）・11月1日（日）の2日間、JR錦糸町駅南口改札前 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/29/yonezawanmaimonmatsuri/",
+      "pubDate": "Wed, 28 Oct 2026 23:01:51 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/yonezawa4.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,32 @@
       "link": "https://rocketnews24.com/2026/10/29/2834618/",
       "pubDate": "Wed, 28 Oct 2026 23:00:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-3-11.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【画像あり】19歳アイドルさん、とんでもない格好で親戚の集まりに参加してしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461570.html",
+      "pubDate": "2026-10-29T08:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c9b21f01-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】お台場にある「ポムポムプリンの壁尻」、心無い客にほじくられ過ぎてとんでもない姿になってしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581456.html",
+      "pubDate": "2026-10-29T08:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/244808b6.jpg"
     },
     {
       "siteId": "brutus",
@@ -28,17 +67,17 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本保守党・北村議員、移民政策について綺麗事なしで政府に何もかも言う→「正論」の声、殺到",
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「京都大学院生がTOEIC替え玉受験で放学処分になったけど、『放学』って何？」　→　退学より遥かに重いガチな厳罰だった…「◯◯◯にされる」",
       "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461569.html",
-      "pubDate": "2026-10-29T07:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/2115fe5d.jpg"
+      "link": "http://blog.esuteru.com/archives/10581455.html",
+      "pubDate": "2026-10-29T07:30:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/849960b1.jpg"
     },
     {
       "siteId": "hachima",
@@ -50,8 +89,21 @@
       "title": "【画像】アメリカニキ「日本の兄弟があまりに肉とライスの組み合わせを話すから試してみたよ」パシャッ　→　アメリカ版牛丼、ついに爆誕ｗｗｗｗｗ",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10581450.html",
-      "pubDate": "2026-10-29T07:00:19+09:00",
+      "pubDate": "2026-10-29T07:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b1c1362a.gif"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本保守党・北村議員、移民政策について綺麗事なしで政府に何もかも言う→「正論」の声、殺到",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461569.html",
+      "pubDate": "2026-10-29T07:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/2115fe5d.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -496,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7d43957.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "恥を知らない韓国農家、日本から盗んだシャインマスカットを過剰生産して価格急落…経営難で自殺者も",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581314.html",
-      "pubDate": "2026-10-28T19:30:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a0083ba.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -533,19 +572,6 @@
       "link": "https://rocketnews24.com/2026/10/28/2857283/",
       "pubDate": "Wed, 28 Oct 2026 10:00:05 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/45143650-7e22-41f0-99b4-be2576a3dffa.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】バンナム系、顧客メールアドレス34万件流出！ガンダムベースの会員情報が漏えい",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581309.html",
-      "pubDate": "2026-10-28T19:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/4/e498a727.jpg"
     },
     {
       "siteId": "brutus",
@@ -689,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/10/28/2857363/",
       "pubDate": "Wed, 28 Oct 2026 05:00:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2736-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中田敦彦さん、「なぜシンガポールから帰ってきたの？」と質問されて9文字で即答",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461530.html",
-      "pubDate": "2026-10-28T13:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/01c5064c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1627,19 +1640,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/13/05/thumb/xrAfJnZJO.png?crop=1620:1080;150,0&resize=1250:830"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】毎日手作りする40種類以上のドーナツが大人気。「ランディーズドーナツ」がソラマチにやってくる！",
-      "description": "この秋、東京スカイツリータウン・ソラマチに魅力的なお店がいくつかOPENします！ 今日お伝えするのは「ランディーズドーナツ」です。 ／🎉東東京エリア初上陸！ ソラマチ店OPEN🍩＼ 2026年10月29日(木) 東京スカ [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/19/randysdonuts-soramachi/",
-      "pubDate": "Sun, 18 Oct 2026 23:01:40 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7723-e1791876135491-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T23:00:50.774364",
+  "updatedAt": "2026-10-28T23:26:10.541812",
   "sites": [
     {
       "id": "hachima",
