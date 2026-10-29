@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2157話目「新設、トラップ部隊㉛」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/10/29/2857844/",
+      "pubDate": "Thu, 29 Oct 2026 12:00:13 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2157a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "〈Hermès〉のおもちゃを知っていますか？",
+      "description": "100年以上受け継がれる揺り木馬の残像 引き木馬《スピリット》 1902年以降、何世代ものエルメス家の子供たちが遊び道具として親しんだ「揺り木馬」。歴代当主のポートレートにもたびたび登場するシンボルのような存在でもある。 [&#8230;]",
+      "link": "https://brutus.jp/post-506265/",
+      "pubDate": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「ポケモンユナイト、サービス終了に反対！署名活動します！みんな協力して！」→めちゃくちゃバカにされまくってしまう・・・どうして",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461617.html",
+      "pubDate": "2026-10-29T20:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/3/13ed20b1.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -821,19 +860,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本保守党・北村議員、移民政策について綺麗事なしで政府に何もかも言う→「正論」の声、殺到",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461569.html",
-      "pubDate": "2026-10-29T07:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/2115fe5d.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1081,19 +1107,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "松屋に通って30年、ついに「生野菜の正解」に辿り着いたかもしれない / カレーに全部ぶち込むと化ける",
-      "description": "今から30年前というと1996年。「ポケットモンスター 赤・緑」が発売され「ロングバケーション」が社会現象となり、TKこと「小室ファミリー」が日本を席捲していた年である。 あれから30年の時を経て、ついに私、P.K.サン [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/28/2856958/",
-      "pubDate": "Wed, 28 Oct 2026 02:00:09 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/namayasai02.jpeg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1338,19 +1351,6 @@
       "description": "〈FLOS〉のMAYDAY コンスタンチン・グルチッチによるデザインのライト。今の家に引っ越したタイミングで購入しました。4.8mのコードとフックにより場所を選ばず使うことができます。 コードが美しいということが、このラ [&#8230;]",
       "link": "https://brutus.jp/post-532369/",
       "pubDate": "Mon, 26 Oct 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "みやげもんコレクション：吉田赤天神人形（愛知県／豊橋市）",
-      "description": "歌舞伎役者がもたらした、豊橋の赤い天神様 愛知県豊橋市の繁華街の一角に鎮座する吉田天満宮は、学問の神・菅原道真公を祀（まつ）る天満宮です。こちらで授与されているのが「赤天神」の土人形です。 江戸時代、当時の城主、小笠原長 [&#8230;]",
-      "link": "https://brutus.jp/post-529189/",
-      "pubDate": "Mon, 26 Oct 2026 10:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T11:30:44.048070",
+  "updatedAt": "2026-10-29T12:00:51.509702",
   "sites": [
     {
       "id": "hachima",
