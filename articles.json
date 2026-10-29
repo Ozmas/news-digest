@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "驚きのトランスフォーム！ 「宿泊客」の名を持つ折りたたみ式のデイベッド。",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/design/495159",
+      "pubDate": "Thu, 29 Oct 2026 22:00:46 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,19 @@
       "link": "https://rocketnews24.com/2026/10/30/2812812/",
       "pubDate": "Thu, 29 Oct 2026 22:00:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-120.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃事実】「35歳で、医者から初めて正しい『大便の出し方』を教わった」 →　尻へのダメージが少ないう◯この射出法が一発でわかる画像がこちらｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581677.html",
+      "pubDate": "2026-10-30T07:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/9/490d2c88.png"
     },
     {
       "siteId": "jin",
@@ -546,19 +572,6 @@
       "link": "https://rocketnews24.com/2026/10/29/2858095/",
       "pubDate": "Thu, 29 Oct 2026 09:57:21 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sukiyaki6.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "韓国で20代の日本人女性が30代の韓国人の男に殺害される　女性は短期滞在中で男とは交際関係はなく“数回会った程度”だった",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581596.html",
-      "pubDate": "2026-10-29T18:40:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/66aa01b4.png"
     },
     {
       "siteId": "jin",
@@ -1367,19 +1380,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/04/subbuzz/-T3U9OnHQ.jpg?crop=3159:2106;190,344&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "アーティスト、インカ・イロリによる掛け時計が〈MoMA〉から発売。",
-      "description": "ナイジェリア系イギリス人アーティスト、インカ・イロリによる掛け時計が〈MoMA〉から発売。",
-      "link": "https://casabrutus.com/categories/design/494695",
-      "pubDate": "Mon, 26 Oct 2026 02:25:49 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T22:00:47.160291",
+  "updatedAt": "2026-10-29T22:30:41.092635",
   "sites": [
     {
       "id": "hachima",
