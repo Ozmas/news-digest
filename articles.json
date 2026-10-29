@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "性犯罪者、ミニスカ女子のパンツを覗こうとした瞬間をこっそり撮られ終わるｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461606.html",
+      "pubDate": "2026-10-29T22:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/5/55797ea9.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -793,19 +806,6 @@
       "link": "https://jin115.com/archives/52461575.html",
       "pubDate": "2026-10-29T09:30:49+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/6/b64d636d.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「タトゥー入れてるヤツ全員バカ」でお馴染みの彫り師さん、まさかの廃業へ　現在ガチでとんでもないことになっていた",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461574.html",
-      "pubDate": "2026-10-29T09:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b946599d.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T13:00:49.794831",
+  "updatedAt": "2026-10-29T13:30:43.934580",
   "sites": [
     {
       "id": "hachima",
