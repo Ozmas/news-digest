@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「資さんうどん、迷走してる？」と賛否両論の『ナポリタンうどん』を実食 / 想像通りといえば想像通りだが…",
+      "description": "九州発祥のやわやわうどん『資さんうどん』がすかいらーく系列になってから2年が経つ。当時は九州に店舗が集中していたが、現在では関東や関西に進出するなど、着々と規模を拡大中だ。 さて、現在その『資さんうどん』の一部店舗で販売 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/29/2857831/",
+      "pubDate": "Thu, 29 Oct 2026 08:00:15 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sukesan03.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ゲームメディア「『GTA6』は210GB。回線が遅いと2日もかかる恐れがある」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581523.html",
+      "pubDate": "2026-10-29T17:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/d/cd707517.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "歩きながら、整える。〈Hyperice〉 × 〈NIKE〉のサンダル：Brutus Best Bets",
+      "description": "歩きながら、整える セルフケアは、立ち止まってするもの。そんな常識を変える一足が誕生。数々のアスリートに支持される〈ハイパーアイス〉と〈ナイキ〉がタッグを組んだ。ストラップ内側のポッドが足の甲に温熱と心地よい振動を与え、 [&#8230;]",
+      "link": "https://brutus.jp/post-531070/",
+      "pubDate": "Thu, 29 Oct 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "レゴ®ブロックとゲームが原体験にある建築家・クマタイチが組み立て、飾る「レゴ® PlayStation™」",
+      "description": "大人こそ、レゴⓇブロックの時代 「気がついたら、家にあった。レゴⓇブロックとの出合いって、きっとみんなそんな感じですよね」 そうクマさんが言うように、多くの人が物心つく前からごく自然に触れてきたのではないだろうか。 「僕 [&#8230;]",
+      "link": "https://brutus.jp/post-533769/",
+      "pubDate": "Thu, 29 Oct 2026 07:50:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ドラマ『VIVANT』終了か　立憲民主党・小西ひろゆき議員に放送法違反だと指摘される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581520.html",
+      "pubDate": "2026-10-29T16:30:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6e3e41b-s.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "長坂常と長嶋りかこによる新ホテルが小豆島に誕生！ コンセプトは「囲い込まない」こと。",
+      "description": "〈島泊／島飯／島湯〉という名が体を表すホテルのコンセプトを、〈スキーマ建築計画〉の長坂常とグラフィックデザイナーの長嶋りかこに聞きました。",
+      "link": "https://casabrutus.com/categories/design/494522",
+      "pubDate": "Thu, 29 Oct 2026 07:25:59 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -574,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【つらい】ポケパークのために調布に行った地方民さん、事前に東京人から「◯◯◯」と言われて絶望でむせび泣く…　これが格差か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581458.html",
-      "pubDate": "2026-10-29T08:30:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5a04d4ca.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -624,19 +689,6 @@
       "link": "https://jin115.com/archives/52461570.html",
       "pubDate": "2026-10-29T08:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c9b21f01-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】お台場にある「ポムポムプリンの壁尻」、心無い客にほじくられ過ぎてとんでもない姿になってしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581456.html",
-      "pubDate": "2026-10-29T08:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/244808b6.jpg"
     },
     {
       "siteId": "brutus",
@@ -1003,19 +1055,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「コンビニで飲み物は買いたくない！」節約主婦のカバンを開けたら、20〜30円の水とお菓子が出てきた",
-      "description": "私のカバンには、必ずといっていいほど入っているものがあります。 それは、小分けのお菓子と、1本20〜30円ほどの水。 ……地味！（笑） でも、これがあるだけで、コンビニや自動販売機での予定外の出費を減らせるんです。ほかに [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/28/2834121/",
-      "pubDate": "Wed, 28 Oct 2026 00:00:19 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/DCFCC97F-3499-4239-9381-E63793BEDBBF_1920.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1066,6 +1105,19 @@
       "link": "https://brutus.jp/post-527546/",
       "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "ハリネズミ、感染症により異変→“地肌むき出し”の姿に「一体何が！？」「見たことない」 英",
+      "description": "英イングランド南西部にある動物病院が、感染症にかかったハリネズミの「オリーくん」の治療を続けています。オリーくんは全身の針がほとんど抜けてしまい、地肌がむき出しになっているところを保護されました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/annakajikawa/hedgehog-lost-spines-devon-the-uk",
+      "pubDate": "Tue, 27 Oct 2026 06:41:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/27/04/subbuzz/EzQ5aMTMl.jpg?crop=2120:1413;0,0&resize=1250:830"
     },
     {
       "siteId": "brutus",
@@ -1315,45 +1367,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 牡羊座の運勢【ブルータス週間占い】",
-      "description": "牡羊座の羅針盤 本当に満たされているか自問する 26日に満月が起こる牡牛座は、牡羊座から見て経済の部屋にあたります。これは、経済的成功や安定を意味する満月。貯金や収入、自宅、車など、欲しいと思っていたものが一通りそろった [&#8230;]",
-      "link": "https://brutus.jp/post-534118/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 牡牛座の運勢【ブルータス週間占い】",
-      "description": "牡牛座の羅針盤 今いる場所に感謝する 自エリア（牡牛座）での満月は、地道に積み重ねてきたことがとうとう形になると示しています。今年の誕生日の頃から取り組んできた仕事が、世間に認められるでしょう。もしくは、プライベートで続 [&#8230;]",
-      "link": "https://brutus.jp/post-534123/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "古代ローマの折りたたみ椅子に着想を得た、経年変化を楽しむフォールディング・チェア。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495108",
-      "pubDate": "Sun, 25 Oct 2026 22:00:15 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1523,19 +1536,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/02/subbuzz/cFbwknmNh.jpg?crop=2671:1781;271,13&resize=1250:830"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "家の紅葉を撮ったら…怖すぎる一枚に「血に染まったかのような…」「パックンフラワーの群生」",
-      "description": "秋と言えば紅葉のシーズン。でも意外な植物も赤くなるって知っていましたか？ 血に染まったかのようなまさかの植物に注目が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/haetorisou-kouyou",
-      "pubDate": "Sat, 24 Oct 2026 05:31:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/06/subbuzz/zVBop5Y6B.jpg?crop=2120:1413;0,1&resize=1250:830"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T07:30:43.546770",
+  "updatedAt": "2026-10-29T08:00:48.832960",
   "sites": [
     {
       "id": "hachima",
