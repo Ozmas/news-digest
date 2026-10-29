@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【1リットル200円超え】高市首相、ガソリン補助金縮小の方針表明！12月から毎月5円ずつ引き上げへ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581626.html",
+      "pubDate": "2026-10-30T01:30:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9742ac5.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +572,6 @@
       "link": "https://jin115.com/archives/52461596.html",
       "pubDate": "2026-10-29T16:00:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/3/c35489c9.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「ドコモショップでiPhone（256GB）を契約したんだけど、1ヶ月使ってこのiPhoneが512GBだということに気づいた。この事をドコモショップニ連絡した結果…」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581512.html",
-      "pubDate": "2026-10-29T16:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/4/34eedaff.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T16:30:44.150669",
+  "updatedAt": "2026-10-29T16:47:11.935429",
   "sites": [
     {
       "id": "hachima",
