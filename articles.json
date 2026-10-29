@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃事実】45歳美人アイドルさん、銀行口座の残高を公開　→　あまりにまさかの金額すぎてネット中が震える…　「すげえ」「マジ！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581482.html",
+      "pubDate": "2026-10-29T11:40:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/debfa05f.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【本日終了】人気お笑いコンビ・インパルスの板倉俊之さん原作『トリガー』などが全巻100円、『新世紀エヴァンゲリオン』などが最大50％オフの激安セールは今日まで！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461588.html",
+      "pubDate": "2026-10-29T11:40:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f38a7e04.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ヤオコーで買える『ミゲールさんのアボカド』はハズレなし!? ギャンブル要素が強いアボカド界隈の救世主となるか、食べ比べた結果…",
+      "description": "アボカドを買ってきて、がっかりしたことはないだろうか。固いままで全然食べ頃にならないとか、逆に熟しすぎていて果肉が黒ずんでいるとか、私はそういった経験が何度かある。 それゆえ、アボカドって状態の良し悪しを見極めるのが難儀 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/29/2834157/",
+      "pubDate": "Thu, 29 Oct 2026 02:30:48 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3373.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -587,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/7/a716eb65.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "デスクの私物ティッシュをみんなが使っていくので黙認⇒ 部署異動でティッシュも持っていった結果・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581308.html",
-      "pubDate": "2026-10-29T00:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a4f1f18a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/10/28/2856963/",
       "pubDate": "Wed, 28 Oct 2026 12:00:10 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2156a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人種差別外国人「なぜ日本のアニメのキャラクターは目がめっちゃ大きいのに、日本人は目が小さいんだ？」→たった1枚の画像で撃退されてしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461546.html",
-      "pubDate": "2026-10-28T20:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b040b532.jpg"
     },
     {
       "siteId": "brutus",
@@ -1040,19 +1053,6 @@
       "link": "https://brutus.jp/post-533321/",
       "pubDate": "Tue, 27 Oct 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ココイチ】VIVANTコラボ『トムヤムクンスープカレー』が密かに革命的だった！",
-      "description": "TBS系ドラマ「VIVANT」がシーズン2も絶好調のようだ。ネットではVIVANT関連の記事を多く見かけるし、TBSのバラエティー番組でもちょいちょいVIVANTネタを差し込んでくる。近年稀に見る話題作であろう。 202 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/27/2834852/",
-      "pubDate": "Tue, 27 Oct 2026 08:00:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tomu02.jpeg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T02:30:41.794862",
+  "updatedAt": "2026-10-29T02:43:36.062328",
   "sites": [
     {
       "id": "hachima",
