@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "そういうつもりでやってない！ 父と見る田舎の風景！　四コマサボタージュFB第120回「都会では見れない」",
+      "description": "私の住んでる所も結構な田舎だけど、マンガで描いたような川でスイカを冷やすような光景を見たことがないんだ……と書こう思ったのだけど、そもそも川沿いを歩くこと自体滅多になかったわ……。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/30/2812812/",
+      "pubDate": "Thu, 29 Oct 2026 22:00:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-120.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "新入社員「入社したばっかで有給ないんだけど、金曜に外せない予定があるって言ったら上司に怒られた。社会人の先輩たち、これってダメなの？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461628.html",
+      "pubDate": "2026-10-30T07:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/25252ef3-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -652,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/51e7dd87.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "幾田りらさん、ライブ中の画像が「ぽっこりお腹」に見えるんだけどどう思う？→これはｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461589.html",
-      "pubDate": "2026-10-29T14:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/c/bc6cb37b.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1053,19 +1066,6 @@
       "link": "https://rocketnews24.com/2026/10/28/2857027/",
       "pubDate": "Wed, 28 Oct 2026 02:55:23 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3583_1920.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ズボラの心読みすぎ】レトルトカレーやお茶漬けを直接ぶち込める！ テーブルマークの『深皿ごはん』の懐が深すぎる",
-      "description": "「ご飯炊くの面倒くさい、でも米食いてえ～」ってときに、パックのご飯は便利だ。レンジでチンするだけで、ホカホカのご飯を手軽に食べることができる。そのまま食べる分には良いんだけど、カレーを食べたいと思ったら、器に盛りかえなけ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/28/2833960/",
-      "pubDate": "Wed, 28 Oct 2026 02:30:35 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/fukazaragohan.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T21:41:01.966651",
+  "updatedAt": "2026-10-29T22:00:47.160291",
   "sites": [
     {
       "id": "hachima",
