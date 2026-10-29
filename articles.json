@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "Z世代自衛官、12歳の子供にカツアゲ失敗して逮捕",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461583.html",
+      "pubDate": "2026-10-29T13:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9d7872d9.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中国がドラマ『VIVANT』にブチギレてる件で、サンリオがコラボを中止を発表か　サンリオ上海法人「企業理念にそぐわない表現が含まれている」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581475.html",
+      "pubDate": "2026-10-29T12:40:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/850c30dd.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -151,7 +177,7 @@
       "siteColor": "#c084fc",
       "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
       "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "塚田優｜令和のイラスト展示論：①「チーム戦」化する展示と、その牽引者・Mika Pikazo",
+      "title": "塚田優｜令和のイラスト展示論①「チーム戦」化する展示と、その牽引者・Mika Pikazo",
       "description": "目まぐるしく変化していくメディア環境にともなって、日本における「イラストレーション」はその語が示す職能や活動領域だけでなく、大衆の間で想起されるイメージもまた、時代ごとに変化してきた。近年、マンガ、アニメ、ゲームやVTu [&#8230;]",
       "link": "https://artscape.jp/article/81419/",
       "pubDate": "Thu, 29 Oct 2026 02:00:55 +0000",
@@ -639,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0b4d012e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "映画『ストリートファイター』はまさかの3部作！？ザンギエフ役「出演者全員が3作品分の契約を結んでいる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581415.html",
-      "pubDate": "2026-10-29T01:30:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/2/22e6bf07.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "https://jin115.com/archives/52461552.html",
       "pubDate": "2026-10-28T23:00:32+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fa20c91-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "競馬で2300万円当てた人「資産形成をするために株を始めます！半導体の株を買えばいいんだろ？」 → 1年半後、とんでもないことになっていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461555.html",
-      "pubDate": "2026-10-28T22:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7a31e465-s.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T03:30:41.830226",
+  "updatedAt": "2026-10-29T04:00:49.941789",
   "sites": [
     {
       "id": "hachima",
