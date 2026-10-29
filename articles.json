@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "リマスター版『エンド オブ エタニティ』突然8年越しのDLCが登場！ネイティブ4K出力・120fps対応、倍速モード実装！発売は明日ｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581536.html",
+      "pubDate": "2026-10-29T18:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/d/8d0f7a64-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ガチャ】「中身わからないワクワク感があった」近所の置き配の荷物を盗みまくった51歳男逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581534.html",
+      "pubDate": "2026-10-29T17:30:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/18dbcc78-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/6/b64d636d.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】初めてティッシュ配りのバイトをした素人だけど、ベテランの1.5倍以上の成果を出して気まずい…◯◯しただけなのに　→　納得の攻略法だとネット絶賛ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581466.html",
-      "pubDate": "2026-10-29T09:30:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d1786ef.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +650,6 @@
       "link": "https://rocketnews24.com/2026/10/29/2834696/",
       "pubDate": "Thu, 29 Oct 2026 00:00:15 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/hiza.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】大物アーティスト・RADWIMPSさん、火の玉ストレートで日本政府批判するキレッキレの曲を発表ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581463.html",
-      "pubDate": "2026-10-29T09:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9f3384d9.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T08:30:42.347261",
+  "updatedAt": "2026-10-29T09:00:50.915612",
   "sites": [
     {
       "id": "hachima",
