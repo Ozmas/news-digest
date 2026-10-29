@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ラーメン屋『一蘭』の一番まずい注文方法ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581612.html",
+      "pubDate": "2026-10-30T03:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/3/43bb0490-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "秋葉原、終わっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461629.html",
+      "pubDate": "2026-10-30T03:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/9086240a.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -522,19 +548,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sukesan03.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ゲームメディア「『GTA6』は210GB。回線が遅いと2日もかかる恐れがある」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581523.html",
-      "pubDate": "2026-10-29T17:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/d/cd707517.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -702,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/10/29/2857145/",
       "pubDate": "Thu, 29 Oct 2026 02:55:38 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/aycetakasaka.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】人気お笑いコンビ・インパルスの板倉俊之さん原作『トリガー』などが全巻100円、『新世紀エヴァンゲリオン』などが最大50％オフの激安セールは今日まで！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461588.html",
-      "pubDate": "2026-10-29T11:40:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f38a7e04.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T18:00:57.665511",
+  "updatedAt": "2026-10-29T18:30:41.638916",
   "sites": [
     {
       "id": "hachima",
