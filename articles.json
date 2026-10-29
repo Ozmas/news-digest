@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "学校の先生、もうダメっぽい・・・精神疾患での離職・休職者の数がとんでもない事に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461582.html",
+      "pubDate": "2026-10-29T12:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/510984da.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】ジュエリーのような佇まい。〈ALESSI〉のパスタメジャー",
+      "description": "パスタが主食のあの人へ洗練されたパスタメジャー 〈ALESSI〉のパスタメジャー 優美な曲線を組み合わせた、まるでジュエリーのような佇まい。実はこれ、イタリアの老舗ホームプロダクトブランドが手掛けたパスタメジャー。3つの [&#8230;]",
+      "link": "https://brutus.jp/post-533302/",
+      "pubDate": "Thu, 29 Oct 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【超穴場】歩いても行ける関越道『高坂SA』のカレー食べ放題は満足度がめちゃくちゃ高い！＜徒歩で来た＞",
+      "description": "私（佐藤）と編集部の中澤は2年前に「徒歩で来た！」というシリーズで、歩いて行けるサービスエリア・パーキングエリアを訪ね歩いていた。当然ながらSA・PAは高速道路にある施設なので、車がなければ行くことができないのだが、歩い [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/29/2857145/",
+      "pubDate": "Thu, 29 Oct 2026 02:55:38 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/aycetakasaka.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -39,6 +78,19 @@
       "link": "https://rocketnews24.com/2026/10/29/2834157/",
       "pubDate": "Thu, 29 Oct 2026 02:30:48 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3373.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "フィリップ・マロインがスクラップ工場で見つけた端材から着想したエスプレッソコーヒーメーカー。",
+      "description": "フィリップ・マロインが初めて〈ALESSI〉とタッグ。エスプレッソコーヒーメーカー《ヴィーテ》。",
+      "link": "https://casabrutus.com/categories/design/494691",
+      "pubDate": "Thu, 29 Oct 2026 02:25:45 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -596,7 +648,7 @@
       "title": "日本へ移住した身長180cmのウクライナ美女さん、ピタピタニットを披露 → 胸がデカすぎて話題にｗｗｗｗｗｗ",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52461557.html",
-      "pubDate": "2026-10-29T01:00:20+09:00",
+      "pubDate": "2026-10-29T01:00:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/d/add76a0a-s.png"
     },
     {
@@ -648,7 +700,7 @@
       "title": "「人生で一度も迷惑メール届いたことなくて、どうなるか気になるから自分のメアド公開します！何してもOKです！」 → とんでもないことになるｗｗｗｗｗ",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52461552.html",
-      "pubDate": "2026-10-28T23:00:52+09:00",
+      "pubDate": "2026-10-28T23:00:32+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fa20c91-s.png"
     },
     {
@@ -661,7 +713,7 @@
       "title": "競馬で2300万円当てた人「資産形成をするために株を始めます！半導体の株を買えばいいんだろ？」 → 1年半後、とんでもないことになっていた・・・",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52461555.html",
-      "pubDate": "2026-10-28T22:00:45+09:00",
+      "pubDate": "2026-10-28T22:00:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7a31e465-s.png"
     },
     {
@@ -676,19 +728,6 @@
       "link": "https://brutus.jp/post-533648/",
       "pubDate": "Wed, 28 Oct 2026 13:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】人気グラビアアイドルさん、胸元丸見えの際どい服でライブ配信→コメント欄「ネックレス見せてください」→神回にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461542.html",
-      "pubDate": "2026-10-28T21:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/f/6ff0ab8f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1029,19 +1068,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "防災庁が11月2日に全国民へ「緊急要請」を出すというので、自宅の備蓄水60リットルを確認してみたら…",
-      "description": "2026年11月2日、「防災庁」が発足する。 つい先日、私事ではあるが、東京大学の災害対策トレーニングセンター、通称「DMTC」にて、約1時間の防犯・防災講演をさせていただいた。なので「防災」という言葉には少し敏感になっ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/27/2857151/",
-      "pubDate": "Tue, 27 Oct 2026 10:00:29 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3647_1920.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1315,19 +1341,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日 双子座の運勢【ブルータス週間占い】",
-      "description": "双子座の羅針盤 何事にも好奇心の目を向ける 双子座から見て内省の部屋にあたる牡牛座の満月は、停滞感のある日々に光を投げかけます。太陽と逆行中の水星（思考）とが調整の部屋である蠍座にいるので、進めようと思っていたことがなか [&#8230;]",
-      "link": "https://brutus.jp/post-534125/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1391,19 +1404,6 @@
       "link": "https://www.buzzfeed.com/jp/saorihakamada/yasudanarumi1021",
       "pubDate": "Sun, 25 Oct 2026 04:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/05/thumb/kXC3Z3WKR.jpg?crop=1943:1295;0,323&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "石上純也、国際建築賞「バラガン賞」の初代受賞者に！",
-      "description": "ボッテガ・ヴェネタと〈ラ・クアドラ〉が協働し新たに創設された国際建築賞「バラガン賞」の初代受賞者に、石上純也が選ばれた。10月9日にメキシコシティにあるルイス・バラガンの名建築〈ラ・クアドラ〉で開催された記念すべき授賞式および祝賀ランチでの、石上の受賞スピーチを中心にお届けする。",
-      "link": "https://casabrutus.com/categories/architecture/495488",
-      "pubDate": "Sun, 25 Oct 2026 08:25:44 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T02:43:36.062328",
+  "updatedAt": "2026-10-29T03:00:52.491457",
   "sites": [
     {
       "id": "hachima",
