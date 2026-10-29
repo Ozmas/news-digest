@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "もうすぐ49歳、老眼の次は「何もしてないのに膝」だった / 自分の体に起きる前例のない異変について",
+      "description": "ここ数年、自分の年齢がわからなくなってきた。これはボケてるという意味ではなく、単純に年齢を気にしなくなったためだ。いきなり年齢を問われたりすると、念のためググったりしている。 ……が、年が明けると49歳になる私、P.K. [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/29/2834696/",
+      "pubDate": "Thu, 29 Oct 2026 00:00:15 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/hiza.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「当選したプレゼント色紙が今日届くのか！世界に一点物だし、めちゃくちゃ楽しみ！」→開封してみると・・・最悪すぎる光景が広がる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461573.html",
+      "pubDate": "2026-10-29T08:30:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【つらい】ポケパークのために調布に行った地方民さん、事前に東京人から「◯◯◯」と言われて絶望でむせび泣く…　これが格差か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581458.html",
+      "pubDate": "2026-10-29T08:30:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5a04d4ca.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -496,19 +535,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2156a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】PC/PS5『機動戦士ガンダム バトルオペレーション3』正式発表！！最大9vs9で遊べるチームバトルアクション",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581362.html",
-      "pubDate": "2026-10-28T20:20:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/243e33eb.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +715,6 @@
       "link": "https://jin115.com/archives/52461537.html",
       "pubDate": "2026-10-28T15:00:05+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/b/6b925190.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【え…？】日本の「○○○○」、差別用語だった・・・発言した野球実況者がクビに",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461534.html",
-      "pubDate": "2026-10-28T14:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/2730f947.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1027,19 +1040,6 @@
       "link": "https://rocketnews24.com/2026/10/27/2856933/",
       "pubDate": "Tue, 27 Oct 2026 05:30:37 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/asics.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2735回「九尾の九ちゃん⑪」",
-      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/10/27/2856842/",
-      "pubDate": "Tue, 27 Oct 2026 05:00:55 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2735-2.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-28T23:30:41.773986",
+  "updatedAt": "2026-10-29T00:00:50.163562",
   "sites": [
     {
       "id": "hachima",
