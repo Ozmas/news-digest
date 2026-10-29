@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "USJのハロウィンイベントでゾンビ役の女性キャストに抱きついた男、終わる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461631.html",
+      "pubDate": "2026-10-30T06:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/a/9a2a578f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ミセスファンが遂に「大森元貴はギフテッド」とか言い出してしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581619.html",
+      "pubDate": "2026-10-30T06:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7fefe636-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/66aa01b4.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "GMOサイバー攻撃の犯人、ついに終了か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581555.html",
-      "pubDate": "2026-10-29T18:20:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a47cafeb-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/10/29/2857805/",
       "pubDate": "Thu, 29 Oct 2026 04:30:52 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Amazon-×-RN24_5555.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "Z世代自衛官、12歳の子供にカツアゲ失敗して逮捕",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461583.html",
-      "pubDate": "2026-10-29T13:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9d7872d9.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T21:00:49.874740",
+  "updatedAt": "2026-10-29T21:30:41.183603",
   "sites": [
     {
       "id": "hachima",
