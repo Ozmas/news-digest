@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2737回「九尾の九ちゃん⑬」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/10/29/2857724/",
+      "pubDate": "Thu, 29 Oct 2026 05:00:18 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2737-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【最悪】グッドスマイルカンパニー「すまん、個人情報流出しちゃったかも。特に一部ユーザーはクレカは有効期限、セキュリティコードまで全部流れたかも」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581485.html",
+      "pubDate": "2026-10-29T13:40:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a688f7c-s.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【1袋106円】カルビーのポテトチップス『コンソメパンチ（55g）』16袋セットが1690円 / Amazonタイムセール",
+      "description": "毎日お得なタイムセールを開催しているAmazon。食品やアパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、カルビーの定番ポテトチップス『コンソメパンチ（55g）』16袋セットをピ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/29/2857805/",
+      "pubDate": "Thu, 29 Oct 2026 04:30:52 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Amazon-×-RN24_5555.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -639,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/707a8e2a-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ゆうぎり高校VTuber・天羅洲テラスが稼働休止に。原因は運営批判か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581399.html",
-      "pubDate": "2026-10-29T04:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/6/f692198e.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1027,32 +1053,6 @@
       "link": "https://casabrutus.com/categories/design/495155",
       "pubDate": "Tue, 27 Oct 2026 22:00:27 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "マジ待って！ 全然止まらない彼女！　四コマサボタージュFB第118回「私を捕まえて」",
-      "description": "子どもの頃に川で遊んだりしてたんだけど、裸足だったんだ。今思うと結構危ないよね……。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/10/28/2812810/",
-      "pubDate": "Tue, 27 Oct 2026 22:00:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-118.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2155話目「新設、トラップ部隊㉙」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/27/2856959/",
-      "pubDate": "Tue, 27 Oct 2026 12:00:50 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2155a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T04:30:40.670225",
+  "updatedAt": "2026-10-29T05:00:49.023866",
   "sites": [
     {
       "id": "hachima",
