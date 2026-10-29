@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「”レジスタ”は批判されてるけど”薬屋のひとりごと”は批判されないのは興味深いよね」⇒ ツッコミの嵐に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581502.html",
+      "pubDate": "2026-10-29T15:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/be2fb626.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「マイクロソフトが6万人規模の希望退職を募集している件だけどさ、この動画を見たら『当然』って思わない？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581501.html",
+      "pubDate": "2026-10-29T14:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/1/d14ac0db.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,32 +676,6 @@
       "link": "https://jin115.com/archives/52461566.html",
       "pubDate": "2026-10-29T06:00:48+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/efdf78c7.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "星街すいせい＆イノタクのユニットライブが突然無料公演に変更へ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581392.html",
-      "pubDate": "2026-10-29T06:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/9/69a7d308-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "話題の「儚い女」が2年前に投稿していたAdoのモノマネを本人に補足されてしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581402.html",
-      "pubDate": "2026-10-29T05:30:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/5/d5e5ce54-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T05:30:39.794654",
+  "updatedAt": "2026-10-29T06:00:51.396850",
   "sites": [
     {
       "id": "hachima",
