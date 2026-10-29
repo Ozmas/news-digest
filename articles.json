@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "親「息子に昼ご飯買って来てと2000円渡した結果がこれ」ﾊﾟｼｬｯ → とんでもない画像が投稿されるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461626.html",
+      "pubDate": "2026-10-30T02:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/73c7ebb5-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【決算】コナミ、売上高37％増＆営業益73％増！中間期過去最高業績を達成、『eFootball』『遊戯王』などが好調",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581636.html",
+      "pubDate": "2026-10-30T02:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/7/478060c1.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -535,19 +561,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ドラマ『VIVANT』終了か　立憲民主党・小西ひろゆき議員に放送法違反だと指摘される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581520.html",
-      "pubDate": "2026-10-29T16:30:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6e3e41b-s.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -728,19 +741,6 @@
       "link": "https://casabrutus.com/categories/design/494691",
       "pubDate": "Thu, 29 Oct 2026 02:25:45 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ホロライブの案件料金、自治体の公式資料でバレてしまう・・・「すげぇなぁ」「激安でしょ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461586.html",
-      "pubDate": "2026-10-29T11:20:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b9239689.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T17:00:51.551860",
+  "updatedAt": "2026-10-29T17:30:42.624345",
   "sites": [
     {
       "id": "hachima",
