@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "幾田りらさん、ライブ中の画像が「ぽっこりお腹」に見えるんだけどどう思う？→これはｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461589.html",
+      "pubDate": "2026-10-29T14:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/c/bc6cb37b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ディズニーランドで野良猫に引っかかれ噛まれた利用客、運営に補償などを求める言動をして炎上してしまう…　お前ら、どう思う？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581491.html",
+      "pubDate": "2026-10-29T14:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68da33b9-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -652,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/5/d5e5ce54-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "人気コスプレイヤー・カモミールさんが「15万円オフパコ」「性病」暴露を完全否定！相手を刑事告訴",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581400.html",
-      "pubDate": "2026-10-29T05:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/dbfdc57d.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52461562.html",
       "pubDate": "2026-10-29T00:00:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/65942205.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「人生で一度も迷惑メール届いたことなくて、どうなるか気になるから自分のメアド公開します！何してもOKです！」 → とんでもないことになるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461552.html",
-      "pubDate": "2026-10-28T23:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fa20c91-s.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T05:00:49.023866",
+  "updatedAt": "2026-10-29T05:30:39.794654",
   "sites": [
     {
       "id": "hachima",
