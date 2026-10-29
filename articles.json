@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ホロライブアンチVTuberを著作権侵害で提訴したカバー社、連邦地裁に却下されてしまう…日本で再び裁判か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581600.html",
+      "pubDate": "2026-10-29T20:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/07f4750a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "渋谷の未来はどうなる？『Shibuya Thinking』が考える「遊び場」としての渋谷と、そのあわいが生むカルチャー【後編】",
+      "description": "前編では、藤原ヒロシら4名が、渋谷のカルチャーの過去・現在・未来についてトークセッションを展開。レコード店や裏原宿のショップなど、かつて文化の発信地となった渋谷という街の記憶を振り返りながら、若い世代の価値観の変化や、人 [&#8230;]",
+      "link": "https://brutus.jp/post-532455/",
+      "pubDate": "Thu, 29 Oct 2026 10:55:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "渋谷の未来はどうなる？『Shibuya Thinking』が考える「遊び場」としての渋谷と、そのあわいが生むカルチャー【前編】",
+      "description": "今回の有識者会議「Thinking Session」では「渋谷のカルチャー」そのものを考えるため、実際にその時代の移り変わりを知る藤原ヒロシ、〈東急不動産〉社員で渋谷の街とエンターテインメントやメディアをかけ合わせた企画 [&#8230;]",
+      "link": "https://brutus.jp/post-532384/",
+      "pubDate": "Thu, 29 Oct 2026 10:50:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "モテモテになりたくて京大卒医師と偽り患者169人に無免許でがん治療した令和のブラックジャック、懲役5年の実刑判決",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581599.html",
+      "pubDate": "2026-10-29T19:30:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a2200072.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民、気付いてしまう・・・「あんまり言いたくないが、ドラクエは◯◯コンテンツになりつつある」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461600.html",
+      "pubDate": "2026-10-29T19:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/67d23c0d.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -483,19 +548,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/aycetakasaka.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃事実】45歳美人アイドルさん、銀行口座の残高を公開　→　あまりにまさかの金額すぎてネット中が震える…　「すげえ」「マジ！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581482.html",
-      "pubDate": "2026-10-29T11:40:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/debfa05f.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +598,6 @@
       "link": "https://jin115.com/archives/52461586.html",
       "pubDate": "2026-10-29T11:20:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b9239689.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】エアコン、2027年春から大幅値上げへ… 6畳用は最大5万円アップ！？ 20万円越えのエアコンとかバカじゃねーの！？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581472.html",
-      "pubDate": "2026-10-29T11:20:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/30a9464d.jpg"
     },
     {
       "siteId": "artscape",
@@ -819,19 +858,6 @@
       "link": "https://jin115.com/archives/52461567.html",
       "pubDate": "2026-10-29T06:30:40+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/36747b14.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "お笑いコンビ・ニューヨーク、『歌い手』に苦言「増えすぎ！顔出せや！ツラ見せろマジで」「素顔やプロフィールは一切明かしていない？じゃかしいわ！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461566.html",
-      "pubDate": "2026-10-29T06:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/efdf78c7.jpg"
     },
     {
       "siteId": "brutus",
@@ -1341,32 +1367,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/04/subbuzz/-T3U9OnHQ.jpg?crop=3159:2106;190,344&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "スポーツと工芸の、いい関係。〈LOEWE〉のバックパック：Brutus Best Bets",
-      "description": "スポーツと工芸の、いい関係 新生〈ロエベ〉は、クラフトとスポーツの融合が鍵だ。目の覚めるようなレモンイエローが冬に映える《スクワッド バックパック》は、トートにもなる2WAY仕様。巾着風のディテールやアウトドアライクなテ [&#8230;]",
-      "link": "https://brutus.jp/post-531025/",
-      "pubDate": "Mon, 26 Oct 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】ポップなパッケージで気分も盛り上がる。〈LIVRER〉の古着専用洗濯洗剤",
-      "description": "ヴィンテージコレクターのあの人へ繊細な生地をやさしく洗える洗剤 〈LIVRER〉の古着専用洗濯洗剤 三宿の人気クリーニング店〈リブレ〉が開発した古着専用の洗濯洗剤。経年劣化した繊細な生地への負担を抑えつつ、皮脂汚れをしっ [&#8230;]",
-      "link": "https://brutus.jp/post-533292/",
-      "pubDate": "Mon, 26 Oct 2026 03:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T10:30:42.304609",
+  "updatedAt": "2026-10-29T11:00:51.263892",
   "sites": [
     {
       "id": "hachima",
