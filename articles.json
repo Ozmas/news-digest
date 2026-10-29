@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "この一杯にはこのサウンド！掟ポルシェのラーメン音楽道",
+      "description": "文・掟ポルシェ 2000年代末、都内某所。昼下がりの遅い時間、何気なく目についたラーメン屋に適当に入店。暖簾をくぐるや、「い・らっしゃいませえええええええいいいいィッッ!!!!!」と、威勢良すぎでほぼ怒号な店員総出のウェ [&#8230;]",
+      "link": "https://brutus.jp/post-532898/",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "やよい軒のすき焼き定食が2026年冬もキタァァァアアア！ 販売開始は11月5日から!!",
+      "description": "やよい軒ですき焼き定食の販売が開始されると冬を感じる。そんな一人暮らし者は多いのではないだろうか。体を芯から温めてくれる味は冬の主役。定食チェーンの鍋を牽引する存在と言っても過言ではない。 今年はまだ告知を見かけてなかっ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/29/2858095/",
+      "pubDate": "Thu, 29 Oct 2026 09:57:21 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sukiyaki6.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1042,19 +1068,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/namayasai02.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "サイゼリヤ、明日10月29日ついに値上げ / 300円の「ミラノ風ドリア」を最後に食べて改めて思ったこと",
-      "description": "明日、2026年10月29日。サイゼリヤがメニュー全般で平均6％の価格改定に踏み切る。 長らく税込300円を死守してきた『ミラノ風ドリア』だが、多くの店舗で、この価格で食べられるのは本日10月28日が最後だ。 居ても立っ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/28/2834734/",
-      "pubDate": "Wed, 28 Oct 2026 01:00:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_0243.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1406,19 +1419,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8316-1024x767.jpeg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "10月26日〜11月1日の運勢。星々が告げる運を味方にするヒント【ブルータス週間占い】",
-      "description": "全体の空模様 牡牛座の満月によって、1週間の幕が開きます。地のエレメントに属す牡牛座は、日々の生活や、それらの安定を示すサイン（星座）。ここでの満月は、現状の暮らしに満足しているかを問いかけてきます。この満月に冥王星（破 [&#8230;]",
-      "link": "https://brutus.jp/post-534110/",
-      "pubDate": "Sun, 25 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T09:41:27.455463",
+  "updatedAt": "2026-10-29T10:00:53.364574",
   "sites": [
     {
       "id": "hachima",
