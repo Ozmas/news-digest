@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "USJハロウィンのゾンビ役女性キャストに男性客が突然抱きつく迷惑行為が発生 →USJ側「一切容認いたしません」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581607.html",
+      "pubDate": "2026-10-29T21:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/85266717.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "45歳女性アイドルさん、口座残高を公開→衝撃の金額にネットがざわつく",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461603.html",
+      "pubDate": "2026-10-29T21:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fa3033b.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -548,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/850c30dd.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】女子「私が『キン肉マン』にハマるきっかけは、この1枚の画像」パシャッ　→　納得しかない超カッコイイ写真すぎて男女から共感が殺到ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581486.html",
-      "pubDate": "2026-10-29T12:20:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/0/a02d758a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -832,19 +845,6 @@
       "link": "https://rocketnews24.com/2026/10/29/2834618/",
       "pubDate": "Wed, 28 Oct 2026 23:00:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-3-11.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【画像あり】19歳アイドルさん、とんでもない格好で親戚の集まりに参加してしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461570.html",
-      "pubDate": "2026-10-29T08:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c9b21f01-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T12:00:51.509702",
+  "updatedAt": "2026-10-29T12:30:49.086350",
   "sites": [
     {
       "id": "hachima",
