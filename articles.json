@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「窃盗ツーリズム」で入国か　電車内でバッグから財布盗んだ疑いで中国籍の男を逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581617.html",
+      "pubDate": "2026-10-29T22:45:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/a/baacad01.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【初週売り上げ】『FFレゾナンス』計13.3万本、『ニンテンドースイッチスポーツリゾート』6.4万本、PS5版『CoD:MW4』1.2万本！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581609.html",
+      "pubDate": "2026-10-29T22:30:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/4866a582.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,32 +585,6 @@
       "link": "https://rocketnews24.com/2026/10/29/2857805/",
       "pubDate": "Thu, 29 Oct 2026 04:30:52 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Amazon-×-RN24_5555.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "体重115kgのデブさん、風邪をひく　→　体調不良に気づいた原因が、普通の人には想像もできない◯◯◯だったｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581493.html",
-      "pubDate": "2026-10-29T13:20:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c37f113.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "お笑い芸人・品川庄司の品川祐さん(54歳)、現在かかっている深刻な病名を告白…　「病院で点滴打って明日から絶食3日間」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581490.html",
-      "pubDate": "2026-10-29T13:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/4/04ff7f79.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T13:30:43.934580",
+  "updatedAt": "2026-10-29T14:00:51.780599",
   "sites": [
     {
       "id": "hachima",
