@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "若者のラノベ離れが深刻！たった4年でこんなに読まれなくなるのか……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581616.html",
+      "pubDate": "2026-10-30T05:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/4/d4c615ae.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "最新のポケポケ、ガチでヤバいことになってると話題に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461630.html",
+      "pubDate": "2026-10-30T05:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/2/425c8f24.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "最近話題の「おじアタック」マジでやってる男性が多いと有名作家が嘆く",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10581614.html",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/3/6350ac13-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "リマスター版『エンド オブ エタニティ』突然8年越しのDLCが登場！ネイティブ4K出力・120fps対応、倍速モード実装！発売は明日ｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581536.html",
-      "pubDate": "2026-10-29T18:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/d/8d0f7a64-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://jin115.com/archives/52461583.html",
       "pubDate": "2026-10-29T13:00:00+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9d7872d9.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "学校の先生、もうダメっぽい・・・精神疾患での離職・休職者の数がとんでもない事に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461582.html",
-      "pubDate": "2026-10-29T12:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/510984da.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-29T20:00:50.148316",
+  "updatedAt": "2026-10-29T20:30:42.119343",
   "sites": [
     {
       "id": "hachima",
