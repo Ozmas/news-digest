@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ここぞの日の一着。〈CARUSO〉のベルベットジャケット：Brutus Best Bets",
+      "description": "ここぞの日の一着 毎日着る服なら、気負わないものがいい。でも、きらびやかな会場に向かう晴れの日は、いつもより着飾りたい。〈ユナイテッドアローズ〉のみで展開する〈カルーゾ〉のベルベットジャケットは、大人の遊びをよくわかって [&#8230;]",
+      "link": "https://brutus.jp/post-531073/",
+      "pubDate": "Fri, 30 Oct 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "渋谷で出合う、言葉の通じない異国の街。アオイヤマダと巡る「烏龍紀行」",
+      "description": "スマホを機内モードにして、いざ出発 渋谷のセンター街から、細い路地へと足を踏み入れる。2026年10月9日から12日までの4日間、この一角で開催されたのが、サントリー烏龍茶による体験型イベント「烏龍紀行」だ。渋谷にいなが [&#8230;]",
+      "link": "https://brutus.jp/post-533711/",
+      "pubDate": "Fri, 30 Oct 2026 07:50:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】アイドルソシャゲ『アイドリープライド』来年3月でサービス終了　約6年の歴史に幕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581749.html",
+      "pubDate": "2026-10-30T16:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b096c5f7-s.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "MHAAの干田正浩設計、パーソナル入浴剤専門店が東京・富ヶ谷にオープン。",
+      "description": "東京・富ヶ谷にオープンしたのは、老舗入浴剤メーカーが手がけるパーソナル入浴剤の専門店〈湯治laboratory〉。",
+      "link": "https://casabrutus.com/categories/design/494393",
+      "pubDate": "Fri, 30 Oct 2026 07:25:45 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -611,19 +663,6 @@
       "link": "https://jin115.com/archives/52461637.html",
       "pubDate": "2026-10-30T08:00:57+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c9b84518.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】「深夜の草津温泉、ライブカメラを見てたら突然謎のメイドが映り込んで謎ポーズをしてた」パシャッ　→　ガチだったｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581682.html",
-      "pubDate": "2026-10-30T08:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3d85222f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1328,19 +1367,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "いいカシミヤは、いい環境から。〈PICEA〉のニット：Brutus Best Bets",
-      "description": "いいカシミヤは、いい環境から カシミヤヤギが健やかに暮らせなければ、上質な素材も生まれない。だから〈ピセア〉は、砂漠化が進む内モンゴルで自ら植樹し、生息環境から整える。そんな思想から生まれたニットは、稀少なベビーカシミヤ [&#8230;]",
-      "link": "https://brutus.jp/post-531064/",
-      "pubDate": "Tue, 27 Oct 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1351,32 +1377,6 @@
       "description": "「屋島プロジェクト」で2026年の日本建築学会賞を受賞した周防貴之と写真家・石川直樹の共著がリリースされました。",
       "link": "https://casabrutus.com/categories/culture/494597",
       "pubDate": "Tue, 27 Oct 2026 07:25:15 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】京中華の品格。〈京都鳳焼売〉の「シュウマイ」",
-      "description": "点心を愛するあの人へ京中華の歴史を受け継ぐ名作シュウマイ 〈京都鳳焼売〉の「シュウマイ」 東京・戸越銀座に2019年にオープンした〈京都鳳焼売〉。手作りを信条とし、日々厨房で丹念に餡を仕込む京中華の点心専門店だ。 ちなみ [&#8230;]",
-      "link": "https://brutus.jp/post-534871/",
-      "pubDate": "Tue, 27 Oct 2026 03:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "照明ファクトリーブランド〈bowks〉がデザインした、静寂を灯すオイルランプ。",
-      "description": "照明ファクトリーブランド〈bowks〉のパラフィンオイルランプシリーズ《TOUG》。",
-      "link": "https://casabrutus.com/categories/design/494693",
-      "pubDate": "Tue, 27 Oct 2026 02:25:49 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T07:30:43.971354",
+  "updatedAt": "2026-10-30T08:00:48.592087",
   "sites": [
     {
       "id": "hachima",
