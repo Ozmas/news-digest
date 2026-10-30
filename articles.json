@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "Amazonで配送詐欺が横行！『FGOウエハース』を1BOX買ったのに「届いたのはたったの単品1個」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582036.html",
+      "pubDate": "2026-10-31T05:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/0/903c4b42.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +455,6 @@
       "link": "http://blog.esuteru.com/archives/10581971.html",
       "pubDate": "2026-10-30T18:40:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/661827db.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】『アーマード・コア6』の「パイルバンカーボールペン」が登場！変形するし光るし書けるぞｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581877.html",
-      "pubDate": "2026-10-30T18:20:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/2/e2618b87-s.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T20:30:43.367524",
+  "updatedAt": "2026-10-30T21:00:48.426894",
   "sites": [
     {
       "id": "hachima",
