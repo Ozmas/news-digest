@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「タトゥー入れてるヤツ全員バカ」でバズった彫り師さん、廃業へ　現在ヤバすぎることになっていた・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581811.html",
+      "pubDate": "2026-10-30T18:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a10c5650.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "“The Most Brilliant Failure.” 歴史に名を刻む名作の、成功前夜を知っていますか？",
+      "description": "それは、エンジニアのために生まれた時計 コレクション名は、ドイツ語で“エンジニア”の意──〈IWCシャフハウゼン〉の「インヂュニア」は、強磁場環境で働く技術者のための超高耐磁時計として1955年に誕生した。これに先駆け同 [&#8230;]",
+      "link": "https://brutus.jp/post-535001/",
+      "pubDate": "Fri, 30 Oct 2026 08:50:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "渡邊渚さん「『イスラム教は女性を安心させてくれる。一方で日本は女性を感じる』とは一切言っていない。開示請求含めしかるべき対応を取る」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581770.html",
+      "pubDate": "2026-10-30T17:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/9/89f92da8-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -585,32 +624,6 @@
       "link": "https://jin115.com/archives/52461640.html",
       "pubDate": "2026-10-30T09:30:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/3/b3122889-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女子パワースラップ（ビンタ大会）日本チャンピオン、めちゃくちゃ強い！　お前らの想像の300倍以上最強ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581695.html",
-      "pubDate": "2026-10-30T09:30:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b198d99e.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【クソ】SUUMOで良い物件を見つけたので不動産屋に行くも希望と違う高い物件ばかり紹介される　→　「釣り広告か」と席を立った瞬間、営業が信じられない行為に出る…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581689.html",
-      "pubDate": "2026-10-30T09:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/a/2a365ca9.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1354,19 +1367,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/04/subbuzz/FUW9viq7s.jpg?crop=3955:2637;602,237&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【最新号からプレゼント】カレーを愛し、研究し続けるプロが厳選！お店の味が自宅でも楽しめる、お取り寄せ冷凍カレーセットを2名様に",
-      "description": "誌面を超えて特別な体験をお届けする「WITHBRUTUS」 「WITHBRUTUS」は、『BRUTUS』が取り上げるさまざまなテーマから、誌面を超えて特別な体験を共有する新しいコミュニティ。登録・年会費は無料。 2026 [&#8230;]",
-      "link": "https://brutus.jp/post-533321/",
-      "pubDate": "Tue, 27 Oct 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T08:30:40.679047",
+  "updatedAt": "2026-10-30T09:00:50.778929",
   "sites": [
     {
       "id": "hachima",
