@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "銀だこの一部店舗で売っている「たこたまチーズ（税抜380円）」を食べてみた / たこ焼き3個入りなのに主役は別にいた",
+      "description": "先日、銀だこに立ち寄ったところ、見慣れない商品を発見した。 その名も「たこたまチーズ」。どうやら一部店舗で販売されている限定メニューらしい。 税抜380円というまぁまぁお手頃なお値段だし、軽くつまめる薄いおやつサイズだろ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/30/2813562/",
+      "pubDate": "Fri, 30 Oct 2026 02:00:31 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/gindako-takotama-3.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1094,19 +1107,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「サンマルクカフェ＆茶」って何？ 全国に7店舗しかないレアな店に行ってみたら、想像と違った",
-      "description": "先日、両国を歩いていたとき、ちょっと気になる店を見つけた。 その名も「サンマルクカフェ＆茶」。 サンマルクカフェまでは知っている。しかし、その後ろの「＆茶」は初耳だ。ずいぶん控えめに付け足しているが、そこには何があるんだ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/28/2834248/",
-      "pubDate": "Wed, 28 Oct 2026 08:01:10 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/saintmarccafe-2-e1792924812100.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T01:45:54.169090",
+  "updatedAt": "2026-10-30T02:00:50.362658",
   "sites": [
     {
       "id": "hachima",
