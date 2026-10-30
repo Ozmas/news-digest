@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【またかよ】東日本唯一のコールドストーンが明日（10/31）閉店！ 急すぎる決定に、お店の人も困惑…",
+      "description": "昨日（2026年10月29日）の夜、私（佐藤）はSNSを見ていて、仰天してしまった。東日本で唯一のコールドストーンクリーマリーの店舗が、明日（31日）に閉店するというのだ。せっかく復活したのに、またなくなるの!? 202 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/30/2858531/",
+      "pubDate": "Fri, 30 Oct 2026 08:20:36 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/cscmheiten1.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "歩行者3人を刃物で切り付けた容疑で”自称・日雇い”の自称・○○人が逮捕",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461654.html",
+      "pubDate": "2026-10-30T17:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/1/11a6bf06.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "とあるインフルエンサーが冷凍ピザを販売している店員に悪質なドッキリを仕掛ける → その様子を見たSNS民がキレ、募金活動 → 男性に7000万近くの募金が集まる",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581753.html",
+      "pubDate": "2026-10-30T17:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4ffee043.png"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -613,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/4/b47ab369-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】「国会議事堂で売ってた朱肉があまりに高貴すぎて買っちゃった」パシャッ　→　お前らの想像の200倍以上カッコイイｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581685.html",
-      "pubDate": "2026-10-30T08:30:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/1/b10acacc.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,19 +806,6 @@
       "link": "https://jin115.com/archives/52461626.html",
       "pubDate": "2026-10-30T02:00:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/73c7ebb5-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "なもり先生の人気漫画『ゆるゆり』＆『大室家』が「最安99円」で買える激安セール開催！！新刊同時発売フェア！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461633.html",
-      "pubDate": "2026-10-30T01:30:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1ccdff99.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1053,19 +1066,6 @@
       "link": "https://artscape.jp/article/81017/",
       "pubDate": "Thu, 29 Oct 2026 02:00:14 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「いつかはお遍路」をいま体験！ 人生観が変わる入門編ガイドウォークに初参加",
-      "description": "全長約1400km、真言宗の宗祖である弘法大師・空海の足跡を巡る「お遍路」こと四国八十八ヶ所霊場巡礼。 定年退職後の夢として考えている人や、すでに短期周遊の「一国参り」に挑戦中の人もいるかもしれない。かくいう筆者も旅好き [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/29/2837265/",
-      "pubDate": "Thu, 29 Oct 2026 01:00:41 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Ohenro01.jpeg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T08:00:48.592087",
+  "updatedAt": "2026-10-30T08:23:01.605560",
   "sites": [
     {
       "id": "hachima",
