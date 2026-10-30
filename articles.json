@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ロックの話をしよう。Vol.20「ロックは何を歌っているか」",
+      "description": "ロックが流行らなくなった。そんな身も蓋もない話から、この対談は始まる。 かつてロックは、若者の音楽であり、バンドの音楽であり、衝動やロマンや思想を映し出す音楽だった。ギターを持つこと、バンドを組むこと、レコードを買うこと [&#8230;]",
+      "link": "https://brutus.jp/post-528908/",
+      "pubDate": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【辺野古沖転覆】学校法人同志社の理事長、約7か月ぶりに記者会見「教育の中立性に問題があった」と謝罪　理事長は辞任へ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581971.html",
+      "pubDate": "2026-10-30T18:40:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/661827db.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -559,19 +585,6 @@
       "link": "https://jin115.com/archives/52461644.html",
       "pubDate": "2026-10-30T10:30:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/968068c8.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【訃報】俳優のパトリック・スチュワートさん、86歳で死去　『X-MEN』プロフェッサーX役など",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581702.html",
-      "pubDate": "2026-10-30T10:30:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/42fd388b.jpg"
     },
     {
       "siteId": "artscape",
@@ -1328,19 +1341,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "杉本博司さん、この20年間をどう振り返りますか？",
-      "description": "杉本年譜を振り返ってみると、初めての写真以外の活動は2001年、オーストリアの〈ブレゲンツ美術館〉での個展開催に合わせて上演された能のプロデュースだった。 「その少し前に皇居外苑の松を撮影した《松林図》 という作品を作り [&#8230;]",
-      "link": "https://brutus.jp/post-527546/",
-      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T09:30:40.251490",
+  "updatedAt": "2026-10-30T10:00:49.223051",
   "sites": [
     {
       "id": "hachima",
