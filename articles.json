@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【半額】adidasの軽くてあたたかい中綿ジャケットが1万1550円 → 5296円 / Amazonで見つけた特価アウター14選",
+      "description": "毎日お得なタイムセールを開催しているAmazon。さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、アディダスの軽くてあたたかい中綿ジャケットをピックアップ！ いまなら49％オフに加えて10％ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/30/2858362/",
+      "pubDate": "Fri, 30 Oct 2026 05:30:34 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_4334.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "スマブラプレイヤー「非公式サイトの『スマメイト』が急遽サービス終了した。寂しい。任天堂は充実したランクマッチ機能を用意すべき。快適な対戦環境の整備をしてくれ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581723.html",
+      "pubDate": "2026-10-30T14:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/ddb314fc.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2738回「九尾の九ちゃん⑭」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/10/30/2858258/",
+      "pubDate": "Fri, 30 Oct 2026 05:00:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2738-2.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "盗撮に使用されている最新カメラ、ガチで巧妙化　絶対わからないと話題に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461652.html",
+      "pubDate": "2026-10-30T14:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7aaa91fd.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -626,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/2/425c8f24.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "最近話題の「おじアタック」マジでやってる男性が多いと有名作家が嘆く",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581614.html",
-      "pubDate": "2026-10-30T04:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/be507e4d.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +741,6 @@
       "link": "https://jin115.com/archives/52461607.html",
       "pubDate": "2026-10-30T00:00:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/3/e3752155-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "自身の性行為動画を投稿した女性ユーチューバーさん、投稿するに至った真相を語る　さすがにヤバすぎだろ・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461604.html",
-      "pubDate": "2026-10-29T23:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/2/624fe90e.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1029,19 +1055,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/yonezawa4.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ハッピーハロウィン！ 舞台女優がプロ用コスメを使って血みどろゾンビに変身してみた",
-      "description": "舞台では基本的に役者が自分でメイクをする。メイクも役作りの一環なのだ。そんなわけで、舞台女優の私はずっと「役柄を表現するためのメイク方法」を学んできた。 舞台のメイクは普段のメイクと違うので、日常生活でその技を披露するチ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/29/2834618/",
-      "pubDate": "Wed, 28 Oct 2026 23:00:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-3-11.jpeg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1053,19 +1066,6 @@
       "link": "https://brutus.jp/post-531758/",
       "pubDate": "Wed, 28 Oct 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "まずお義父さんと呼ぶな！ 怒声を飛ばす彼女の父！　四コマサボタージュFB第119回「一人二役」",
-      "description": "義実家への結婚の挨拶って具体的に何してるんだろうね。義弟が妹と結婚する時の挨拶に居合わせたことがあるのだけど、何を話したかとかの内容をあまり覚えていないんだよね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/10/29/2812811/",
-      "pubDate": "Wed, 28 Oct 2026 22:00:18 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-119.png"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T05:00:47.786150",
+  "updatedAt": "2026-10-30T05:30:39.725726",
   "sites": [
     {
       "id": "hachima",
