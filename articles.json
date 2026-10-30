@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『ご注文はうさぎですか？』のソシャゲがリリース決定！何ゲーになるんだ・・・？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581736.html",
+      "pubDate": "2026-10-30T15:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/37467595.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -650,19 +663,6 @@
       "link": "https://rocketnews24.com/2026/10/30/2812812/",
       "pubDate": "Thu, 29 Oct 2026 22:00:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-120.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃事実】「35歳で、医者から初めて正しい『大便の出し方』を教わった」 →　尻へのダメージが少ないう◯この射出法が一発でわかる画像がこちらｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581677.html",
-      "pubDate": "2026-10-30T07:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/9/490d2c88.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T06:30:43.615115",
+  "updatedAt": "2026-10-30T07:00:49.565646",
   "sites": [
     {
       "id": "hachima",
