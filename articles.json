@@ -2,17 +2,30 @@
   "ok": true,
   "articles": [
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "韓国出身で徴兵経験者の配信者が『COD』最新作をプレイ→ガチでやばすぎる放送事故にｗｗｗｗｗｗｗｗ",
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】KDDIの顧客情報が最大2万2541件漏洩か　連携するライフネット生命のシステムへの不正アクセスで",
       "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461682.html",
-      "pubDate": "2026-10-30T22:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/c/4c518952.jpg"
+      "link": "http://blog.esuteru.com/archives/10582015.html",
+      "pubDate": "2026-10-30T23:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/afa32649-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "JR北海道「あれ？走行中の列車で自動放送が流れなくなったぞ？」→車両からとんでもないモノが盗まれまくっていた・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582014.html",
+      "pubDate": "2026-10-30T22:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/98a7f65b-s.jpg"
     },
     {
       "siteId": "hachima",
@@ -26,6 +39,19 @@
       "link": "http://blog.esuteru.com/archives/10582012.html",
       "pubDate": "2026-10-30T22:00:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c5278029-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "韓国出身で徴兵経験者の配信者が『COD』最新作をプレイ→ガチでやばすぎる放送事故にｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461682.html",
+      "pubDate": "2026-10-30T22:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/c/4c518952.jpg"
     },
     {
       "siteId": "hachima",
@@ -520,32 +546,6 @@
       "link": "https://jin115.com/archives/52461652.html",
       "pubDate": "2026-10-30T14:00:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7aaa91fd.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ゲーム配信者さん、『エルデンリング』のマレニア戦で遺灰を使った結果、批判的なコメントが来てしまう → お気持ち表明 「遺灰、ダメなんですか？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581715.html",
-      "pubDate": "2026-10-30T13:40:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7e5af039.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】「ミセスの歌詞は解決策も示さない薄い内容って言うけど、『労基署に相談しろ』なんて歌詞があんのかよ」　→　B'zの歌詞がマジでソレだったｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581725.html",
-      "pubDate": "2026-10-30T13:20:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fcb3b0a4.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T13:30:41.905009",
+  "updatedAt": "2026-10-30T14:00:49.909404",
   "sites": [
     {
       "id": "hachima",
