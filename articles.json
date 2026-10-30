@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【御徒町】『吉池食堂』が大行列ならココ！ 知る人ぞ知る直営店『池田屋』の平日限定海鮮ランチが超穴場",
+      "description": "JR上野駅とJR秋葉原駅の間に位置するJR御徒町駅。一般的なネームバリューこそ上野や秋葉原に劣るものの、毎日多くの人が利用する繁華街と申し上げていいだろう。 その御徒町は宝飾の街であり、元祖ドンキこと「多慶屋」も有名であ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/30/2832821/",
+      "pubDate": "Fri, 30 Oct 2026 02:55:16 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/ikedaya05.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】歌手・玉置浩二さん68歳、現在の頭髪がとんでもない事に！　お前らの想像の180倍激変ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581711.html",
+      "pubDate": "2026-10-30T11:40:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/7/a7bf710e.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "広島・宮島で人気の食べ歩きグルメ「揚げもみじ」にはお土産キットがある / 8種類の味が楽しめて最高！",
+      "description": "広島の宮島で人気の食べ歩きグルメのひとつに「揚げもみじ」がある。独自ブレンドした衣を付けて揚げたもみじ饅頭は大人気！ でも、揚げたてを楽しむスイーツだから持ち帰りは難しく、お土産にはできない……と思っていたのだけど、なん [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/30/2834365/",
+      "pubDate": "Fri, 30 Oct 2026 02:30:23 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-4-11.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "氷河期世代、正規雇用や役員が増加した代わりに無職もとんでもない数に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461647.html",
+      "pubDate": "2026-10-30T11:30:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/ef1a3933.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "高度な技術で、儚い光を描く。ロナン・ブルレックが手掛けた新作ライト。",
+      "description": "ロナン・ブルレックが〈FLOS〉のために手がけたペンダントライト《Lu ce Sferica》。",
+      "link": "https://casabrutus.com/categories/design/494713",
+      "pubDate": "Fri, 30 Oct 2026 02:25:31 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -613,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/3/e3752155-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】フロム新作のスイッチ2『ダスクブラッド』2027年に発売延期！ネットワークテストが不評だったため",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581639.html",
-      "pubDate": "2026-10-29T23:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/7/27945e7e.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +715,6 @@
       "link": "https://jin115.com/archives/52461620.html",
       "pubDate": "2026-10-29T21:30:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9b91e5f0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "45歳女性アイドルさん、口座残高を公開→衝撃の金額にネットがざわつく",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461603.html",
-      "pubDate": "2026-10-29T21:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8fa3033b.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1055,19 +1094,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2156話目「新設、トラップ部隊㉚」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/28/2856963/",
-      "pubDate": "Wed, 28 Oct 2026 12:00:10 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2156a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1105,19 +1131,6 @@
       "link": "https://www.buzzfeed.com/jp/yukiadachi/ashidamana-minamidahanayome1027",
       "pubDate": "Wed, 28 Oct 2026 06:16:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/29/08/subbuzz/AbM6FTte4.jpg?crop=1497:998;627,99&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【2027年福袋まとめ①】松屋、久世福、Zoff、酒ガチャ…もう販売始まってるのもあるからチェックして！",
-      "description": "早いもので、今年ももう10月の終わり。すでにちらほらと福袋の情報が出始める季節となった。 そこで今回から何回かにわけて、ロケットニュース24編集部で厳選した2027年の福袋情報をお届けしたい。第1弾は牛丼チェーンの「松屋 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/28/2857283/",
-      "pubDate": "Wed, 28 Oct 2026 10:00:05 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/45143650-7e22-41f0-99b4-be2576a3dffa.jpg"
     },
     {
       "siteId": "brutus",
@@ -1391,19 +1404,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/27/kozounodaidokoro/",
       "pubDate": "Mon, 26 Oct 2026 23:01:07 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/att.kNAWKEGsBWwRN8AmxpQR3ceD1YdoRXb-dhdyAHFjC5A-1024x767.jpeg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "パリの街角を彩ってきた、ガーデンチェアのスタンダード。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495153",
-      "pubDate": "Mon, 26 Oct 2026 22:00:21 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T02:30:38.775390",
+  "updatedAt": "2026-10-30T03:00:49.366252",
   "sites": [
     {
       "id": "hachima",
