@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "芝居のあとの賑やかな通りへ。【今日の名所江戸百景 by 村上隆】",
+      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
+      "link": "https://casabrutus.com/categories/art/491328",
+      "pubDate": "Fri, 30 Oct 2026 22:00:57 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【画像】渋谷ハロウィンの看板、ガチでありえない変わり方をしてしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461686.html",
+      "pubDate": "2026-10-31T07:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/8/58509036.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -13,6 +39,19 @@
       "link": "http://blog.esuteru.com/archives/10582049.html",
       "pubDate": "2026-10-31T07:00:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6d659b6.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】「ハエが開けっ放しの電子レンジに飛び込んでいった。そのまま扉を締めて600Wで1分」　→　あまりに予想外すぎる結果に……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582083.html",
+      "pubDate": "2026-10-31T07:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35e82d33.jpg"
     },
     {
       "siteId": "hachima",
@@ -379,19 +418,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca145219.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】万引きGメンさん、万引きで逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582000.html",
-      "pubDate": "2026-10-30T20:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/923a21a6.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +728,6 @@
       "link": "https://casabrutus.com/categories/design/494713",
       "pubDate": "Fri, 30 Oct 2026 02:25:31 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "指名手配犯・八田與一容疑者の新写真公開！こ、これは…",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461646.html",
-      "pubDate": "2026-10-30T11:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/273c35ed.jpg"
     },
     {
       "siteId": "artscape",
@@ -1367,19 +1380,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/04/subbuzz/FUW9viq7s.jpg?crop=3955:2637;602,237&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "地形と一体化した建築〈やしまーる〉を読み解く。建築家・周防貴之と写真家・石川直樹の共著がリリース。",
-      "description": "「屋島プロジェクト」で2026年の日本建築学会賞を受賞した周防貴之と写真家・石川直樹の共著がリリースされました。",
-      "link": "https://casabrutus.com/categories/culture/494597",
-      "pubDate": "Tue, 27 Oct 2026 07:25:15 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T22:00:45.561987",
+  "updatedAt": "2026-10-30T22:30:39.305021",
   "sites": [
     {
       "id": "hachima",
