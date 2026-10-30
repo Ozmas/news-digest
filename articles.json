@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ガラスの器、なに使ってますか？Vol.4",
+      "description": "フローリスト・Kenji Kumaki 小牧広平さんのグラス 山梨・甲府にある〈AKITO COFFEE TANE〉さんのPOPUPのときにゲットしました。小牧さんらしい美しい曲がりのグラスで飲むアイスコーヒーは至福の時 [&#8230;]",
+      "link": "https://brutus.jp/post-529384/",
+      "pubDate": "Fri, 30 Oct 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】NVIDIAのCEO、中国の女性工作員のハニトラに引っかかった可能性　内部情報や米国の政策情報流出か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581996.html",
+      "pubDate": "2026-10-30T19:30:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d3e2ee7b-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -533,19 +559,6 @@
       "link": "https://casabrutus.com/categories/design/494713",
       "pubDate": "Fri, 30 Oct 2026 02:25:31 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ケツゲー『NIKKE』、4周年で第一部最終章的な内容を実装 → 内容に感動して号泣する指揮官らが続出中　今からプレイしても遅くないぞ！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581704.html",
-      "pubDate": "2026-10-30T11:20:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c28f297-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1315,19 +1328,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8419-1024x767.jpeg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "Brutus Best Beauty：〈Panasonic〉〈SALONIA〉etc. 最新美容家電で全身アップデート",
-      "description": "Panasonic 進化モデルは6枚刃を搭載 手のひらサイズの丸い形状が話題の〈パナソニック〉のシェーバーが進化。「METAL EDITION」は、アルミニウムの塊から削り出された金属製ボディ。従来の5枚刃から6枚刃にな [&#8230;]",
-      "link": "https://brutus.jp/post-532266/",
-      "pubDate": "Tue, 27 Oct 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T10:30:43.332573",
+  "updatedAt": "2026-10-30T11:00:52.307744",
   "sites": [
     {
       "id": "hachima",
