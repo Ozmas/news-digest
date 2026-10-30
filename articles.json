@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "米国市場のPS5、発売7年目でPS4の累計販売台数を突破！Xbox Seriesは前世代機を超えられず",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582026.html",
+      "pubDate": "2026-10-31T01:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/acd0a11b.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "SNSで「打倒警察！かかってこい！」とバイクで暴走予告をしていた17歳のクソガキ、人生終了するｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461681.html",
+      "pubDate": "2026-10-31T01:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/8/18af5aea-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/7/67bbe091.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アニメ『ご注文はうさぎですか？』のソシャゲがリリース決定！何ゲーになるんだ・・・？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581736.html",
-      "pubDate": "2026-10-30T15:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/37467595.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -780,19 +793,6 @@
       "link": "https://brutus.jp/post-531505/",
       "pubDate": "Fri, 30 Oct 2026 00:50:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「電動爪削り」使ってる人、ヤバいかもしれない・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461640.html",
-      "pubDate": "2026-10-30T09:30:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/3/b3122889-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T16:00:53.164751",
+  "updatedAt": "2026-10-30T16:30:42.258288",
   "sites": [
     {
       "id": "hachima",
