@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【画像】視認性がカスすぎる自動販売機がこちら",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461692.html",
+      "pubDate": "2026-10-31T08:30:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/015656fa-s.png"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】向島郵便局近くにドーナツ店「桐松屋」がOPEN間近？",
+      "description": "向島郵便局から水戸街道方面へ。東武線のガードを越えた先に新木場のカフェ『soko station 146』が手掛けるオリジナルドーナツ専門店『桐松屋』がOPEN予定です。 2025年秋にはインスタグラムのアカウントが始動 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/31/kirimatsuyadonuts/",
+      "pubDate": "Fri, 30 Oct 2026 23:01:59 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8466-1024x767.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【朗報】『ご注文はうさぎですか？』初のスマホゲームがリリース、覇権待ったなし",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461691.html",
+      "pubDate": "2026-10-31T08:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/6914400d-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "道でおっさんが男性に「お兄さん、おっ◯いどう？1万で本番できるよ」と声掛け　→　男性が「◯◯◯」と返したらおっさんが顔真っ赤になった話",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582090.html",
+      "pubDate": "2026-10-31T08:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/1/5182c5cf.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -25,6 +77,19 @@
       "description": "Day 272023.09.12 tueHomer - Anchor Point アラスカに来て初めて「Japan」という文字を目にしたのは、〈Alaska Maritime National Wildlife Refu [&#8230;]",
       "link": "https://brutus.jp/post-535722/",
       "pubDate": "Fri, 30 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【10月31日〜11月1日】今週末必見の“アート＆デザイン”まとめ！",
+      "description": "カーサが注目する、今週末のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
+      "link": "https://casabrutus.com/categories/art/495627",
+      "pubDate": "Fri, 30 Oct 2026 22:55:05 +0000",
       "thumbnail": ""
     },
     {
@@ -54,6 +119,19 @@
       "thumbnail": ""
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】「ハエが開けっ放しの電子レンジに飛び込んでいった。そのまま扉を締めて600Wで1分」　→　あまりに予想外すぎる結果に……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582083.html",
+      "pubDate": "2026-10-31T07:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35e82d33.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -78,19 +156,6 @@
       "link": "http://blog.esuteru.com/archives/10582049.html",
       "pubDate": "2026-10-31T07:00:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6d659b6.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】「ハエが開けっ放しの電子レンジに飛び込んでいった。そのまま扉を締めて600Wで1分」　→　あまりに予想外すぎる結果に……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582083.html",
-      "pubDate": "2026-10-31T07:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35e82d33.jpg"
     },
     {
       "siteId": "hachima",
@@ -392,19 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/ea495aa2-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スイッチ2『ダスクブラッド』発売延期 → フロムファンたち「代わりにナイトレインのDLC出してくれ！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582007.html",
-      "pubDate": "2026-10-30T21:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d30dbea.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -691,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1c6dfcdd.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】女性向け風俗、会員・従業員の個人情報や利用履歴が流出か",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461649.html",
-      "pubDate": "2026-10-30T12:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/e/aef3c4d5.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -728,19 +767,6 @@
       "link": "https://rocketnews24.com/2026/10/30/2834365/",
       "pubDate": "Fri, 30 Oct 2026 02:30:23 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-4-11.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "氷河期世代、正規雇用や役員が増加した代わりに無職もとんでもない数に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461647.html",
-      "pubDate": "2026-10-30T11:30:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/ef1a3933.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1341,19 +1367,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8419-1024x767.jpeg"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "わずか1.1kg。アウトドアやレジャーなど、どこへでも連れていける椅子。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495155",
-      "pubDate": "Tue, 27 Oct 2026 22:00:27 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1614,19 +1627,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/02/thumb/bdBJ6l_TT.jpg?crop=3000:2000;0,0&resize=1250:830"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】深夜まで楽しめる裏路地イタリアン「Trattoria Nero」東駒形2丁目にOPEN！",
-      "description": "2026年10月2日に東駒形2丁目に「Trattoria Nero」がOPENしました。 View this post on Instagram 目を引くお店の扉にはアンティークのイギリス製の物を使用しているそうで、一際 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/21/rattoria-nero/",
-      "pubDate": "Tue, 20 Oct 2026 23:01:57 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_1537-e1791467163155-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T23:00:48.163621",
+  "updatedAt": "2026-10-30T23:30:40.254503",
   "sites": [
     {
       "id": "hachima",
