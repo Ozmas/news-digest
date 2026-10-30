@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "韓国出身で徴兵経験者の配信者が『COD』最新作をプレイ→ガチでやばすぎる放送事故にｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461682.html",
+      "pubDate": "2026-10-30T22:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/c/4c518952.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "社民・福島瑞穂氏、比例代表の議席削減に「男ばかりで決めるな！」とブチギレ→ツッコミ殺到「有権者の半分は女性」「首相は？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582012.html",
+      "pubDate": "2026-10-30T22:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c5278029-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1c6dfcdd.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "小島秀夫監督のまさかのデススト新作アニメ『DEATH STRANDING ISOLATIONS』、ディズニープラスで配信へ！　脚本・冲方丁",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581721.html",
-      "pubDate": "2026-10-30T13:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/4/04e8b1a6.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +819,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/30/sumidacoffeefestival2026autumn/",
       "pubDate": "Thu, 29 Oct 2026 23:01:18 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/Sumida-Coffee-Festival-2026-Autum3.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【知ってた？】医者が教える『正しい排便の仕方』、めちゃくちゃ有益だと万バズ拡散「義務教育で教えるべき内容」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461637.html",
-      "pubDate": "2026-10-30T08:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c9b84518.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T13:00:50.558768",
+  "updatedAt": "2026-10-30T13:30:41.905009",
   "sites": [
     {
       "id": "hachima",
