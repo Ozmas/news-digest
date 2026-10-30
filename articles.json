@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「メルカリを使っててよかったこと、この1つしかない」　→　納得しかない画像で8万いいね突破ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10581716.html",
+      "pubDate": "2026-10-30T12:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/6/c62c2d8f.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】女性向け風俗、会員・従業員の個人情報や利用履歴が流出か",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461649.html",
+      "pubDate": "2026-10-30T12:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/e/aef3c4d5.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -652,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/a/0a9485c6.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ホロライブの案件料金が自治体の公式資料で判明！最小経費で最大効果を出していると称賛の嵐に！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581594.html",
-      "pubDate": "2026-10-30T00:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a3ccc09f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "https://jin115.com/archives/52461606.html",
       "pubDate": "2026-10-29T22:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/5/55797ea9.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "Steam、「AIによるパクリ問題」についてお気持ち表明「パクリゲーは昔からあったろ？本家が最強なら問題ない」「簡単に真似できるアイディア1つに頼るなよ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461620.html",
-      "pubDate": "2026-10-29T21:30:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9b91e5f0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T03:00:49.366252",
+  "updatedAt": "2026-10-30T03:30:41.394739",
   "sites": [
     {
       "id": "hachima",
