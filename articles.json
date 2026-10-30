@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "エスコート！ 好きな子に気を遣う隣りの男子！　隣りの席の子の様子がおかしい第73回「薄暮れ」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/10/31/2813333/",
+      "pubDate": "Fri, 30 Oct 2026 23:00:01 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari73-1koma.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "BIKEPACKING DIARY in Alaska Vol.14：アラスカで出会った、日本の面影",
+      "description": "Day 272023.09.12 tueHomer - Anchor Point アラスカに来て初めて「Japan」という文字を目にしたのは、〈Alaska Maritime National Wildlife Refu [&#8230;]",
+      "link": "https://brutus.jp/post-535722/",
+      "pubDate": "Fri, 30 Oct 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【Kindleセール】松平健さんと小林幸子さんが異世界召喚される漫画『マツケンクエスト』『異世界小林幸子』が87％オフの全巻99円！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582087.html",
+      "pubDate": "2026-10-31T07:30:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/70e291b7.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -390,19 +429,6 @@
       "link": "https://rocketnews24.com/2026/10/30/2858396/",
       "pubDate": "Fri, 30 Oct 2026 12:00:53 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2158a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アレン様がMattさんの不同意性交報道に言及「自分がしてきた事を反省して改めるべき」 → Mattさん「今はアンタが出る幕ではない笑」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582003.html",
-      "pubDate": "2026-10-30T20:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/acb15045.jpg"
     },
     {
       "siteId": "jin",
@@ -1068,19 +1094,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【超穴場】歩いても行ける関越道『高坂SA』のカレー食べ放題は満足度がめちゃくちゃ高い！＜徒歩で来た＞",
-      "description": "私（佐藤）と編集部の中澤は2年前に「徒歩で来た！」というシリーズで、歩いて行けるサービスエリア・パーキングエリアを訪ね歩いていた。当然ながらSA・PAは高速道路にある施設なので、車がなければ行くことができないのだが、歩い [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/29/2857145/",
-      "pubDate": "Thu, 29 Oct 2026 02:55:38 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/aycetakasaka.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1312,19 +1325,6 @@
       "description": "東京・六本木の街を舞台に、アートの祭典「六本木アートナイト2026」が開催されます。 「六本木アートナイト」は、美術館や文化施設、大型複合施設、商店街などが集まる六本木の街で行なわれる大規模な文化イベントです。 現代アー [&#8230;]",
       "link": "https://artscape.jp/article/81944/",
       "pubDate": "Wed, 28 Oct 2026 01:00:05 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "BRIEFINGをもっとよく知る12のこと。vol.5 「URBAN GYM」とデザイナー",
-      "description": "バッグ一つあれば、いつでも、どこへでも 常に50弱のプロジェクトを抱え、国内外を飛び回る〈DAIKEI MILLS〉代表・中村圭佑さん。バッグはもっぱらバックパック派。その中には、いつでも世界へひとっ飛びできるツールが揃 [&#8230;]",
-      "link": "https://brutus.jp/post-530309/",
-      "pubDate": "Wed, 28 Oct 2026 00:50:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-30T22:30:39.305021",
+  "updatedAt": "2026-10-30T23:00:48.163621",
   "sites": [
     {
       "id": "hachima",
