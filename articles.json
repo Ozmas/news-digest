@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超悲報】世界最大の仮想通貨（暗号資産）取引所バイナンス、不正アクセスで仮想通貨約63億ドルが盗難！　北朝鮮政府関与のハッカー集団と指摘",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582130.html",
+      "pubDate": "2026-10-31T11:20:01+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国人「この写真、どっちが中国でどっちが日本の風景か、99%の人は分からないだろう！」→これ、ガチで分かる人いる？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461701.html",
+      "pubDate": "2026-10-31T11:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/7/07b84b78.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「博多豚骨×札幌味噌」ってどっちの味が勝つの!? セブンの異色の合体ラーメンを食べてみた！",
+      "description": "2026年10月28日からセブンイレブンでスタートした「ラーメンフェア」。 「中華蕎麦とみ田」「飯田商店」などの人気店監修や「ラーメンWalker」監修の4商品がラインナップする中、個人的に気になったのが「博多豚骨×札幌 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/31/2858399/",
+      "pubDate": "Sat, 31 Oct 2026 02:00:53 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/g1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【朗報】劇場版『空の境界』全シリーズ、『Fate/stay night [Heaven’s Feel]』がネトフリなどで配信開始きたああああ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582121.html",
+      "pubDate": "2026-10-31T11:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bc064a2f.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -470,32 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2b2c116.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【朗報】ぼざろ作者・はまじあき先生の妹がジャンプラで連載開始！なんか面白そうｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581977.html",
-      "pubDate": "2026-10-31T00:30:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/dd01205b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【朗報】アメリカの入国審査、大谷翔平の名前を出せば簡単になる模様ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10581944.html",
-      "pubDate": "2026-10-31T00:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/98089528.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +754,6 @@
       "link": "https://casabrutus.com/categories/design/494393",
       "pubDate": "Fri, 30 Oct 2026 07:25:45 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "故・鳥山明先生の自宅、解体が始まってしまう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461658.html",
-      "pubDate": "2026-10-30T16:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/b/8bb93ad7.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1053,19 +1066,6 @@
       "link": "https://rocketnews24.com/2026/10/29/2858095/",
       "pubDate": "Thu, 29 Oct 2026 09:57:21 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sukiyaki6.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「資さんうどん、迷走してる？」と賛否両論の『ナポリタンうどん』を実食 / 想像通りといえば想像通りだが…",
-      "description": "九州発祥のやわやわうどん『資さんうどん』がすかいらーく系列になってから2年が経つ。当時は九州に店舗が集中していたが、現在では関東や関西に進出するなど、着々と規模を拡大中だ。 さて、現在その『資さんうどん』の一部店舗で販売 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/29/2857831/",
-      "pubDate": "Thu, 29 Oct 2026 08:00:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sukesan03.jpeg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T02:00:45.584896",
+  "updatedAt": "2026-10-31T02:30:37.866545",
   "sites": [
     {
       "id": "hachima",
