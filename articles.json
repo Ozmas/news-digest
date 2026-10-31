@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【AIクローンゲーム問題】Anthropicの『Claude Code』開発者「AIに特定のゲームを再現しないよう指示した。知的財産の侵害に使われるのはポリシーに反する」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582486.html",
+      "pubDate": "2026-11-01T01:30:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bca8c43a.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +455,6 @@
       "link": "https://brutus.jp/post-535543/",
       "pubDate": "Sat, 31 Oct 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『FF14』でレナスとバトル！？『ヴァルキリープロファイル』とコラボか「白銀のワンダラー」の新ジョブ・ゼファーやエヴァコラボ新PVなど公開！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582198.html",
-      "pubDate": "2026-10-31T16:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d8edd568-s.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T16:30:36.843343",
+  "updatedAt": "2026-10-31T17:00:46.277721",
   "sites": [
     {
       "id": "hachima",
