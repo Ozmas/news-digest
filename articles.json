@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "時計とスタイル：スタイリスト・清水奈緒美のケーススタディ",
+      "description": "小さなケースに詰め込んだ、仕事の相棒と、オフのときめき 「これ見よがしな時計はやめなさい」 スタイリスト・清水奈緒美さんが、今も思い出す祖母の言葉だ。 「時計だけが目立ちすぎるのは、私にはちょっと違う。その感覚は、10代 [&#8230;]",
+      "link": "https://brutus.jp/post-535472/",
+      "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "みんなから感謝される『光の転売ヤー』が見つかるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582440.html",
+      "pubDate": "2026-10-31T19:30:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/059c9646.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -429,19 +455,6 @@
       "link": "https://rocketnews24.com/2026/10/31/2858069/",
       "pubDate": "Sat, 31 Oct 2026 02:55:00 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_4653-1.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "男性「俺の隣のJKが生理アプリ見ててドン引き。電車の中で見るものか？」　→　ネット中からツッコミの嵐にｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582144.html",
-      "pubDate": "2026-10-31T11:40:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0f3d935c.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1276,19 +1289,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "愛用する住まい、どこが変わりましたか？写真家・高橋ヨーコが満を持して塗り替えた玄関の扉",
-      "description": "満を持して玄関の扉を好みの色に塗り替えました オーダーしたのは、「柿っぽい色で」。宮脇檀（まゆみ）が設計した〈森ボックス〉という名の住宅に引っ越したのが2020年。写真家の高橋ヨーコさんは、築50年近いこの家を、オリジナ [&#8230;]",
-      "link": "https://brutus.jp/post-530916/",
-      "pubDate": "Wed, 28 Oct 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T10:30:38.461447",
+  "updatedAt": "2026-10-31T11:00:46.276343",
   "sites": [
     {
       "id": "hachima",
