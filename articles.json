@@ -8,6 +8,32 @@
       "siteColor": "#60a5fa",
       "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
       "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "不正アクセスによる個人情報漏洩数、余裕で日本の人口を超える",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461709.html",
+      "pubDate": "2026-10-31T15:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "173億円の赤字のジャングリア「新しい出資者探してます！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582187.html",
+      "pubDate": "2026-10-31T14:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/0/c0012cbf-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
       "title": "中国産の野菜、終わる・・・白菜とタケノコに続き○○でも問題発生",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52461708.html",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6d659b6.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「東京リベンジャーズ」のコラボカフェ、あまりにも主人公をバカにしすぎてるコラボフードを発売ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582030.html",
-      "pubDate": "2026-10-31T06:30:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/06db2344-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://jin115.com/archives/52461655.html",
       "pubDate": "2026-10-30T20:30:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca145219.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本で居酒屋に入った外国人配信者さん、うっかりスマホ注文用QRコードを晒してしまう → とんでもないことになるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461673.html",
-      "pubDate": "2026-10-30T20:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/f/4fe9195f-s.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T05:30:43.660140",
+  "updatedAt": "2026-10-31T06:00:47.549553",
   "sites": [
     {
       "id": "hachima",
