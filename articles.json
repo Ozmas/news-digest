@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【は？】OpenAIのCEO「供給が限られるDRAMを個人PCに搭載するのはひどい。データセンターで使う方が効率的」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582202.html",
+      "pubDate": "2026-10-31T17:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/1/51e8777c.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "遊びを品良く。〈CELINE〉のハーフジップニット：Brutus Best Bets",
+      "description": "端正なニットにレザーの遊び心 首元のお洒落は、この一着にお任せを。〈セリーヌ〉のハーフジップニットは、ファスナーにレザータブを添え、まるでネックレスを重ねたような佇まいに。ウールにカシミヤを混紡した柔らかなリブ編みと端正 [&#8230;]",
+      "link": "https://brutus.jp/post-535543/",
+      "pubDate": "Sat, 31 Oct 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『FF14』でレナスとバトル！？『ヴァルキリープロファイル』とコラボか「白銀のワンダラー」の新ジョブ・ゼファーやエヴァコラボ新PVなど公開！！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582198.html",
+      "pubDate": "2026-10-31T16:30:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d8edd568-s.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "京都・三条の安藤忠雄の名建築〈TIME’S〉に、建築文化を発信する新拠点が誕生！",
+      "description": "建築を知り、学び、楽しむための新たな場所が京都に誕生した。安藤忠雄設計の〈TIME'S〉にオープンした〈京都建築センター〉は、建築ツアーや展示、ライブラリーなどを備えた国内初の建築ツーリズム拠点。2026年10月31日〜11月8日開催「京都モダン建築祭」の拠点にもなる。運営を担う〈まいまい〉代表の以倉敬之、空間デザインを手がけた〈MIDW〉の服部大祐＋服部さおり、〈studio arche〉甲斐貴",
+      "link": "https://casabrutus.com/categories/architecture/495696",
+      "pubDate": "Sat, 31 Oct 2026 07:25:26 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -444,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/16bc1120-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジか】ダルい上司に「一発ギャグやれよw」と言われた時、X民が教える究極の対処法がこちら！　「『じゃ◯◯◯します』と言えば大体止める」ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582093.html",
-      "pubDate": "2026-10-31T08:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/4/c46787f4.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +533,6 @@
       "link": "https://jin115.com/archives/52461691.html",
       "pubDate": "2026-10-31T08:00:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/6914400d-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "道でおっさんが男性に「お兄さん、おっ◯いどう？1万で本番できるよ」と声掛け　→　男性が「◯◯◯」と返したらおっさんが顔真っ赤になった話",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582090.html",
-      "pubDate": "2026-10-31T08:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/1/5182c5cf.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1289,32 +1315,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/29/08/subbuzz/AbM6FTte4.jpg?crop=1497:998;627,99&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "「WELL-MADE」Vol.12 〈STONE ISLAND〉のクリンクルレップスジャケット",
-      "description": "〈STONE ISLAND〉のクリンクルレップスジャケット 一点ずつ異なる陰影を宿し、静かに季節を纏（まと）う“大人のカモ” カモ柄と一口に言っても、“大人のカモ柄”はある。目を引くことより、じわりと効くこと。だから青々 [&#8230;]",
-      "link": "https://brutus.jp/post-532510/",
-      "pubDate": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "全客室から嚴島神社が望める、瀬戸内海・宮島口温泉の新しい〈界〉。",
-      "description": "広島・宮島口温泉に、小大建築設計事務所が設計を手がけた星野リゾートの温泉旅館〈界 宮島〉が誕生。",
-      "link": "https://casabrutus.com/categories/architecture/494372",
-      "pubDate": "Wed, 28 Oct 2026 07:25:49 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T07:30:40.864091",
+  "updatedAt": "2026-10-31T08:00:46.913296",
   "sites": [
     {
       "id": "hachima",
