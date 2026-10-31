@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "東京美容外科・麻生泰氏「タトゥーが入っていたらお風呂に入れないとか、おかしなルール」「人格否定、人権否定だと思いますね」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582466.html",
+      "pubDate": "2026-10-31T23:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/a/2a8216b7.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -468,19 +481,6 @@
       "link": "https://jin115.com/archives/52461708.html",
       "pubDate": "2026-10-31T14:00:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/70b82d3e.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "パチンコ店が直接“特殊景品“を買い上げた疑い パチンコ店の法人と元社長書類送検 →茶番すぎると話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582172.html",
-      "pubDate": "2026-10-31T14:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74a3a5db.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T14:00:45.904278",
+  "updatedAt": "2026-10-31T14:30:39.734233",
   "sites": [
     {
       "id": "hachima",
