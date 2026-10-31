@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】夜職嬢さん、結婚式や葬式への参加を親族から断られてしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582191.html",
+      "pubDate": "2026-10-31T15:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/e/1ecbd138.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +559,6 @@
       "link": "https://jin115.com/archives/52461686.html",
       "pubDate": "2026-10-31T07:00:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/8/58509036.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【Kindle実質半額】『北斗の拳』『鉄鍋のジャン！R』『リコリコ』『オバロ』『タワーダンジョン』など　50％ポイント還元セール実施中！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582049.html",
-      "pubDate": "2026-10-31T07:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6d659b6.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T06:00:47.549553",
+  "updatedAt": "2026-10-31T06:30:40.959211",
   "sites": [
     {
       "id": "hachima",
