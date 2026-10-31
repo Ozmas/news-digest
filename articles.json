@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】醤油ポスターコンクールで入賞した小学生のイラスト、AIくさいと批判が相次ぎ市が公開取りやめ… これAIだと思う？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582443.html",
+      "pubDate": "2026-10-31T20:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/7/97bc80a6.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「東南アジアに行って特殊詐欺で一攫千金してくるわ！」 → 数年後、とんでもないことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461720.html",
+      "pubDate": "2026-10-31T20:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/3/53219e86.png"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -418,19 +444,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/4/149e5bb3.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超便利】体臭のきつい男性がジムで筋トレしてたらマッチョマンが「君は臭いキツイから◯◯◯を飲むといい」と教えてくれた！　臭い奴はアレを飲め！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582151.html",
-      "pubDate": "2026-10-31T12:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/5/15d85570.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52461687.html",
       "pubDate": "2026-10-31T00:30:48+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2b2c116.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "学校の部活、終了へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461680.html",
-      "pubDate": "2026-10-31T00:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/9/a9e847d0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T11:00:46.276343",
+  "updatedAt": "2026-10-31T11:05:55.676939",
   "sites": [
     {
       "id": "hachima",
