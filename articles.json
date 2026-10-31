@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "エロゲー制作者「スタッフ達の心血注いだ作品がネット上に置かれたデータやCG抽出で破壊される姿を見てきた。だから自分は◯◯◯なゲームを作った」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582111.html",
+      "pubDate": "2026-10-31T10:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/372e58dd.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【画像】「このどこかにヤモリがいます。見つけられますか？」→「想像の5倍デカくてビビった」「言われても分からない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461697.html",
+      "pubDate": "2026-10-31T10:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bd20c9e3.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -483,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb322826.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】KDDIの顧客情報が最大2万2541件漏洩か　連携するライフネット生命のシステムへの不正アクセスで",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582015.html",
-      "pubDate": "2026-10-30T23:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/afa32649-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/10/30/2834768/",
       "pubDate": "Fri, 30 Oct 2026 06:00:54 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eyehutopara_1920.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【超悲報】『GTA6』、PS5Proで「パフォーマンスモード」にしても○○fpsしか出ない・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461653.html",
-      "pubDate": "2026-10-30T15:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0e61ce8.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T01:00:47.858114",
+  "updatedAt": "2026-10-31T01:30:38.023622",
   "sites": [
     {
       "id": "hachima",
