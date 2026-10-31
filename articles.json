@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ナゾ】渋谷のある場所に “動く壁” 出現！ 決済して触れると「ゴゴゴ……」と動いて中から出てくるのは…",
+      "description": "「誰が何のためにこんなところに……」、そんな不可解な場所が全国各地に存在する。それらはきっと明確な目的があって設けられたものと思うが、場合によっては真意を汲みかねることもある。 最近、SNSで一部の人からにわかに注目を集 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/10/31/2858599/",
+      "pubDate": "Sat, 31 Oct 2026 00:00:45 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kabeuranai.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ナイナイ岡村隆史さん、『あの有名女性芸人』を「天才なのに世間が過小評価してる」と大絶賛！　→　誰もが納得するあの人だったｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582099.html",
+      "pubDate": "2026-10-31T09:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0b6a084e.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +468,6 @@
       "link": "http://blog.esuteru.com/archives/10582014.html",
       "pubDate": "2026-10-30T22:30:24+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/98a7f65b-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "社民・福島瑞穂氏、比例代表の議席削減に「男ばかりで決めるな！」とブチギレ→ツッコミ殺到「有権者の半分は女性」「首相は？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582012.html",
-      "pubDate": "2026-10-30T22:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c5278029-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1094,19 +1107,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2737-2.png"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1袋106円】カルビーのポテトチップス『コンソメパンチ（55g）』16袋セットが1690円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。食品やアパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、カルビーの定番ポテトチップス『コンソメパンチ（55g）』16袋セットをピ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/29/2857805/",
-      "pubDate": "Thu, 29 Oct 2026 04:30:52 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Amazon-×-RN24_5555.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T00:00:47.089280",
+  "updatedAt": "2026-10-31T00:30:39.705563",
   "sites": [
     {
       "id": "hachima",
