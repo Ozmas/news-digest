@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/296c1155.jpg"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2159話目「新設、トラップ部隊㉝」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/10/31/2858402/",
+      "pubDate": "Sat, 31 Oct 2026 12:00:45 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2159a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "男性ゲーマーさん「VALORANTの野良で知り合った女からこれ来て朝から鬱」ﾊﾟｼｬｯ → 投稿された画像がヤバすぎるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461725.html",
+      "pubDate": "2026-10-31T21:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d9ef4f5-s.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -743,19 +769,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/8/18af5aea-s.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "漫画『天体戦士サンレッド』が「全巻30円」の激安セール開催！！全20巻を購入しても「600円」と破格に！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461687.html",
-      "pubDate": "2026-10-31T00:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2b2c116.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1053,19 +1066,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/30/sumidacoffeefestival2026autumn/",
       "pubDate": "Thu, 29 Oct 2026 23:01:18 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/Sumida-Coffee-Festival-2026-Autum3.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「週刊アシェットスヌーピー」記念すべき第10号を組み立てた結果 → 学校机メーカーになったかと思った",
-      "description": "ピーナッツ！　2026年8月19日に創刊された『ピーナッツ ミニチュアタウン』も、いよいよ今週で第10号に突入だ。 販売元のアシェットによれば、全120号で完成する予定とのこと。まだまだ先は長いが、2桁台に乗った記念すべ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/30/2858027/",
-      "pubDate": "Thu, 29 Oct 2026 23:00:38 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/collage_76c46d.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T12:00:45.903961",
+  "updatedAt": "2026-10-31T12:30:39.358167",
   "sites": [
     {
       "id": "hachima",
