@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "政府「せっかく税金を投入しているのにガソリン補助が当たり前になっている。補助を減らせば国民も『ありがたみ』に気づくだろう」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461758.html",
+      "pubDate": "2026-11-01T15:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/3/a32c3049.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ゆで卵をアルミホイルで包んでデカいカップに入れると電子レンジでゆで卵できるらしい！⇒やってみた結果ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582574.html",
+      "pubDate": "2026-11-01T15:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/9/b9ce4a35.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/a/1a06c2d8.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "フィギュアの表情パーツってどうやって保存してる？→とあるX民のアイデアが怖すぎる",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582482.html",
-      "pubDate": "2026-11-01T04:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/727ef628.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52461710.html",
       "pubDate": "2026-10-31T16:00:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/8/0820bde3.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "不正アクセスによる個人情報漏洩数、余裕で日本の人口を超える",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461709.html",
-      "pubDate": "2026-10-31T15:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T06:00:46.308776",
+  "updatedAt": "2026-11-01T06:30:38.556900",
   "sites": [
     {
       "id": "hachima",
