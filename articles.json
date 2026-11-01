@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "スーパーのカートで「100円玉がない！」を解決！ ロピアの「ロピタくん」キーホルダーが地味に便利だぞ",
+      "description": "皆さんはスーパーで100円玉を入れるタイプのカートに遭遇して、「げっ」と思った経験はないだろうか。いちいち財布から硬貨を出すのも手間だし、運悪く100円玉がないと両替する手間まで発生してしまう。 そこで今回ご紹介したいの [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/01/2833755/",
+      "pubDate": "Sun, 01 Nov 2026 00:00:29 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/l3.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【首都圏闇バイト強盗事件】検察官「闇バイト知ってた？3年前のルフィ闇バイト強盗事件知ってるやろ」　被告「え？知らんかった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582522.html",
+      "pubDate": "2026-11-01T09:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/e/1e6abd80.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "海外X民「日本に行って○○する手助けをしたい！左派の皆さん、どう思いますか？」→一線を超えた投稿が本気の物議を醸す",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461745.html",
+      "pubDate": "2026-11-01T09:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/93d0bccd.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -405,19 +444,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "EA、『スター・ウォーズ バトルフロント3』を優先するためにBioWareを閉鎖したとの報道！『マスエフェクト』新作よりも成功すると判断か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582444.html",
-      "pubDate": "2026-10-31T20:30:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dca7b498.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -743,19 +769,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kabeuranai.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "生徒「やべっ！理科の実験中に薬品こぼしちゃった！」→皮膚に付いた途端、みるみる変化が現れ始め・・・うわあああああ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461694.html",
-      "pubDate": "2026-10-31T09:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/16bc1120-s.png"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1079,19 +1092,6 @@
       "link": "https://artscape.jp/article/82156/",
       "pubDate": "Fri, 30 Oct 2026 01:00:59 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ハロウィン】全員で『ストリートファイター』のガイルになってみた",
-      "description": "今年も来ました、ハロウィン。当編集部では毎年、全員で何かの仮装を行っているのだが、今年はナニがいいんだろうか？　振り返れば、我々は全員ダンプ松本や全員タピオカ、全員で渋谷になったりもした。 正常に機能している組織でないこ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/30/2857543/",
-      "pubDate": "Fri, 30 Oct 2026 01:00:53 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/guilezenin.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-10-31T23:35:05.912501",
+  "updatedAt": "2026-11-01T00:00:45.967202",
   "sites": [
     {
       "id": "hachima",
