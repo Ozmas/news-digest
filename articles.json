@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2160話目「新設、トラップ部隊㉞」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/01/2858407/",
+      "pubDate": "Sun, 01 Nov 2026 12:00:03 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2160a.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1029,19 +1042,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【またかよ】東日本唯一のコールドストーンが明日（10/31）閉店！ 急すぎる決定に、お店の人も困惑…",
-      "description": "昨日（2026年10月29日）の夜、私（佐藤）はSNSを見ていて、仰天してしまった。東日本で唯一のコールド・ストーン・クリーマリーの店舗が、明日（31日）に閉店するというのだ。せっかく復活したのに、またなくなるの!? 2 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/30/2858531/",
-      "pubDate": "Fri, 30 Oct 2026 08:20:36 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/cscmheiten1.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1104,6 +1104,45 @@
       "description": "ロナン・ブルレックが〈FLOS〉のために手がけたペンダントライト《Lu ce Sferica》。",
       "link": "https://casabrutus.com/categories/design/494713",
       "pubDate": "Fri, 30 Oct 2026 02:25:31 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "松房子｜中島崇個展 水跡 – traces of energy –",
+      "description": "会期：2026/06/27～2026/09/06 会場：下山芸術の森発電所美術館［富山県］ 公式サイト：https://nakajimatakashi.net/artworks/2026-06-下山芸術の森-発電所美術館 [&#8230;]",
+      "link": "https://artscape.jp/article/80347/",
+      "pubDate": "Fri, 30 Oct 2026 02:00:54 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "杉江あこ｜路上、お邪魔ですか？",
+      "description": "会期：2026/09/19～2026/11/23 会場：渋谷区立松濤美術館［東京都］ 公式サイト：https://shoto-museum.jp/exhibitions/213rojo/ 法治国家では、道路や公園、広場な [&#8230;]",
+      "link": "https://artscape.jp/article/80561/",
+      "pubDate": "Fri, 30 Oct 2026 02:00:48 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【東京】「今はいつのことか─小村雪岱と玉山拓郎」展",
+      "description": "東京・銀座の資生堂ギャラリーにて、「今はいつのことか─小村雪岱と玉山拓郎」展が開催されます。 大正から昭和初期にかけて活躍した美術家・小村雪岱と、光や映像、音などを組み合わせたインスタレーションを手がける現代美術家・玉山 [&#8230;]",
+      "link": "https://artscape.jp/article/82156/",
+      "pubDate": "Fri, 30 Oct 2026 01:00:59 +0000",
       "thumbnail": ""
     },
     {
@@ -1224,6 +1263,45 @@
       "thumbnail": ""
     },
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "塚田優｜令和のイラスト展示論①「チーム戦」化する展示と、その牽引者・Mika Pikazo",
+      "description": "目まぐるしく変化していくメディア環境にともなって、日本における「イラストレーション」はその語が示す職能や活動領域だけでなく、大衆の間で想起されるイメージもまた、時代ごとに変化してきた。近年、マンガ、アニメ、ゲームやVTu [&#8230;]",
+      "link": "https://artscape.jp/article/81419/",
+      "pubDate": "Thu, 29 Oct 2026 02:00:55 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "清水チナツ｜隣人同士が助け合う手つきで──「PIKO HOUSE」と「絵本の広場」",
+      "description": "宮城県南部、蔵王山脈のふもとの町に移住して一年が経とうとしている。2011年に仙台に引っ越し、震災後の時間の多くをおもに都市部で過ごしたが、2020年に一年半、メキシコのオアハカという町で暮らした。そして帰国後、子どもを [&#8230;]",
+      "link": "https://artscape.jp/article/81017/",
+      "pubDate": "Thu, 29 Oct 2026 02:00:14 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【滋賀】「BIWAKO BETWEEN　琵琶湖とわたしの物語．湖と人との“営み”を感じる琵琶湖のアート展」関連イベント",
+      "description": "本展では、アーティストが琵琶湖の漁業や周辺の暮らしの営みを通じて、感じた琵琶湖への想いや気づきをもとに制作した作品を展示しています。 出展アーティストによる作品案内や陶芸ワークショップ、琵琶湖での表現活動をテーマにしたレ [&#8230;]",
+      "link": "https://artscape.jp/article/82146/",
+      "pubDate": "Thu, 29 Oct 2026 01:00:11 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1263,6 +1341,45 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/29/08/subbuzz/AbM6FTte4.jpg?crop=1497:998;627,99&resize=1250:830"
     },
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "松房子｜路上、お邪魔ですか？",
+      "description": "会期：2026/04/25～2026/09/06 会場：金沢21世紀美術館［石川県］ 公式サイト：https://www.kanazawa21.jp/data_list.php?g=65&#38;d=1852 金沢21世 [&#8230;]",
+      "link": "https://artscape.jp/article/80355/",
+      "pubDate": "Wed, 28 Oct 2026 02:00:56 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "星野太｜レイ・ブラシエ『解き放たれた無──啓蒙と絶滅』",
+      "description": "監訳：仲山ひふみ 翻訳：小林卓也・島田貴史 発行：河出書房新社 発行日：2026/03/20 発行元ウェブサイト：https://www.kawade.co.jp/np/isbn/9784309231754/ 本書の著書 [&#8230;]",
+      "link": "https://artscape.jp/article/80929/",
+      "pubDate": "Wed, 28 Oct 2026 02:00:23 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【東京】六本木アートナイト2026",
+      "description": "東京・六本木の街を舞台に、アートの祭典「六本木アートナイト2026」が開催されます。 「六本木アートナイト」は、美術館や文化施設、大型複合施設、商店街などが集まる六本木の街で行なわれる大規模な文化イベントです。 現代アー [&#8230;]",
+      "link": "https://artscape.jp/article/81944/",
+      "pubDate": "Wed, 28 Oct 2026 01:00:05 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1287,6 +1404,19 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/milk-yamanaka-kakitani",
       "pubDate": "Tue, 27 Oct 2026 06:16:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/04/subbuzz/FUW9viq7s.jpg?crop=3955:2637;602,237&resize=1250:830"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "杉江あこ｜DOCOMOMO Japan 300選 選定記念「モダン・ムーブメントと建築の現在」",
+      "description": "会期：第1部「価値と魅力」2026/08/29～2026/11/23、第2部「継承と活用」2026/12/03～2027/02/23 会場：国立近現代建築資料館［東京都］ 公式サイト：https://www.bunk [&#8230;]",
+      "link": "https://artscape.jp/article/80557/",
+      "pubDate": "Tue, 27 Oct 2026 02:00:20 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "sumida",
@@ -1562,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T11:59:00.198917",
+  "updatedAt": "2026-11-01T12:00:49.763832",
   "sites": [
     {
       "id": "hachima",
