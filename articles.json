@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ライブ配信】ファミコンで遊んだら『スペランカー』でジェネレーションギャップを感じた",
+      "description": "毎週水曜19時半から、当サイトのYouTubeチャンネル「ロケットニュース24」で行っているライブ配信。配信開始当初から、いずれはやりたいと思っていたことのひとつにゲーム配信がある。ようやく環境が整って、ついに実現できま [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/01/2858694/",
+      "pubDate": "Sun, 01 Nov 2026 10:00:43 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/repo10280.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1068,19 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ポテトを1つ買うと、もう1つ無料！ ケニアの太っ腹すぎるポテト屋【カンバ通信：第540回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べようと思い、あるレストランへ行ってきた。 店の名前は「Jainos Food Court / Chips  [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/30/2834768/",
-      "pubDate": "Fri, 30 Oct 2026 06:00:54 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eyehutopara_1920.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T10:00:45.869656",
+  "updatedAt": "2026-11-01T10:30:38.868309",
   "sites": [
     {
       "id": "hachima",
