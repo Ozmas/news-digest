@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【女ひとり飲み】読者リクエストで「信濃路 蒲田店」へ！ カレーをつまみに飲んでいたら、なぜか競馬の予想を求められた",
+      "description": "朝にしか行ったことのない店は、夜になるとどんな顔を見せるのだろうか。 今回、読者からリクエストをいただいたのは、立ち食いそば屋と居酒屋の顔を持つ「信濃路 蒲田店」。 朝から営業しているお店で、リクエストしてきたご本人は朝 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/01/2857294/",
+      "pubDate": "Sun, 01 Nov 2026 08:00:19 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/信濃路.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "繊細にして強靭な、一本の螺旋。〈ISSEY MIYAKE EYES〉の眼鏡：Brutus Best Bets",
+      "description": "繊細にして強靭な、一本の螺旋 〈イッセイ ミヤケ アイズ〉が長年の開発を経て生み出した「COIL」は、螺旋の構造美を眼鏡へと落とし込んだ意欲作。ブリッジやヨロイには直径約1㎜のβチタン線材をくるりと成形。触れればわずかに [&#8230;]",
+      "link": "https://brutus.jp/post-535548/",
+      "pubDate": "Sun, 01 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画あり】大阪ハロウィンでナンパから大乱闘スマッシュブラザーズ　ベトナム人が犯人との情報も",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582582.html",
+      "pubDate": "2026-11-01T16:30:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/5/d5d8a0a4.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -522,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c8aa1d01.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "kick配信者、ラーメン屋で調味料の殆どを取り出して蓋を開け、さらにはゴマをテーブルに振りまくという迷惑行為をして炎上",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582516.html",
-      "pubDate": "2026-11-01T07:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7dca53ed.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1042,19 +1068,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eyehutopara_1920.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【半額】adidasの軽くてあたたかい中綿ジャケットが1万1550円 → 5296円 / Amazonで見つけた特価アウター14選",
-      "description": "毎日お得なタイムセールを開催しているAmazon。さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、アディダスの軽くてあたたかい中綿ジャケットをピックアップ！ いまなら49％オフに加えて10％ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/30/2858362/",
-      "pubDate": "Fri, 30 Oct 2026 05:30:34 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_4334.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1234,19 +1247,6 @@
       "description": "歩きながら、整える セルフケアは、立ち止まってするもの。そんな常識を変える一足が誕生。数々のアスリートに支持される〈ハイパーアイス〉と〈ナイキ〉がタッグを組んだ。ストラップ内側のポッドが足の甲に温熱と心地よい振動を与え、 [&#8230;]",
       "link": "https://brutus.jp/post-531070/",
       "pubDate": "Thu, 29 Oct 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "レゴ®ブロックとゲームが原体験にある建築家・クマタイチが組み立て、飾る「レゴ® PlayStation™」",
-      "description": "大人こそ、レゴⓇブロックの時代 「気がついたら、家にあった。レゴⓇブロックとの出合いって、きっとみんなそんな感じですよね」 そうクマさんが言うように、多くの人が物心つく前からごく自然に触れてきたのではないだろうか。 「僕 [&#8230;]",
-      "link": "https://brutus.jp/post-533769/",
-      "pubDate": "Thu, 29 Oct 2026 07:50:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T07:30:39.315588",
+  "updatedAt": "2026-11-01T08:00:45.073697",
   "sites": [
     {
       "id": "hachima",
