@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "BRUTUS特別編集号「ヘラルボニーを、着てみたら。」音声ガイド",
+      "description": "イントロダクション HERALBONY MEETS...あの人が、ヘラルボニーを着てみたら。 工場で知る服作りへのこだわり HERALBONY IN IWATE 木下龍也、ヘラルボニーのルーツと出会う旅。 「喜ばしい偏り [&#8230;]",
+      "link": "https://brutus.jp/post-532498/",
+      "pubDate": "Sun, 01 Nov 2026 23:12:24 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】東京スカイツリータウン西駐輪場1階が封鎖予定です。",
+      "description": "現在、東京スカイツリータウン東駐輪場（ライフ寄り）が機器入れ替え工事中ですが、こちらの工事が10月31日（土）に終了すると、西駐輪場（東京ミズマチ寄り）の工事が2026年11月3日（火・祝）から始まります。 西駐輪場の入 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/02/skytreenishi-cyurinjyo/",
+      "pubDate": "Sun, 01 Nov 2026 23:01:02 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8289-1024x767.jpeg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "Apple純正「写真」アプリ、見るだけで終わってない？ 知っておくと便利な編集機能5選",
+      "description": "初の折りたたみiPhone「iPhone Duo」が発売され、何かと話題のApple。 新製品の情報が目に入るたびに、ついつい気になってしまう。 かくいう私もAppleユーザーだ。一度はAndroidに浮気したものの、タ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/02/2814021/",
+      "pubDate": "Sun, 01 Nov 2026 23:00:35 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/写真アプリ.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】外国人「日本人はグロを嫌うのに、日常でしてる◯◯◯はグロくてハードで怖すぎ」　→　世界中からビビられてた習慣はまさかのアレだったｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582761.html",
+      "pubDate": "2026-11-02T08:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/faa03970.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -455,19 +507,6 @@
       "link": "https://brutus.jp/post-531048/",
       "pubDate": "Sun, 01 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "元TOKIO･山口達也さん「酒を飲んだら風邪が治ると思っていました」「もうそこでバグってるんですよ」アルコール依存症の闘病体験を語る",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582664.html",
-      "pubDate": "2026-11-01T18:40:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/c/4c86171b.png"
     },
     {
       "siteId": "jin",
@@ -1016,19 +1055,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2158話目「新設、トラップ部隊㉜」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/30/2858396/",
-      "pubDate": "Fri, 30 Oct 2026 12:00:53 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2158a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1247,19 +1273,6 @@
       "description": "前編では、藤原ヒロシら4名が、渋谷のカルチャーの過去・現在・未来についてトークセッションを展開。レコード店や裏原宿のショップなど、かつて文化の発信地となった渋谷という街の記憶を振り返りながら、若い世代の価値観の変化や、人 [&#8230;]",
       "link": "https://brutus.jp/post-532455/",
       "pubDate": "Thu, 29 Oct 2026 10:55:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "渋谷の未来はどうなる？『Shibuya Thinking』が考える「遊び場」としての渋谷と、そのあわいが生むカルチャー【前編】",
-      "description": "今回の有識者会議「Thinking Session」では「渋谷のカルチャー」そのものを考えるため、実際にその時代の移り変わりを知る藤原ヒロシ、〈東急不動産〉社員で渋谷の街とエンターテインメントやメディアをかけ合わせた企画 [&#8230;]",
-      "link": "https://brutus.jp/post-532384/",
-      "pubDate": "Thu, 29 Oct 2026 10:50:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1601,19 +1614,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/02/thumb/VOaKAZ0JY.png?crop=1458:972;0,317&resize=1250:830"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】すみだプレミアム付きデジタル商品券の「A券」どこで使う？～お勧め店のご紹介その3",
-      "description": "2026年10月2日からは区外の方でも購入できるようになった墨田区プレミアム付きPayPay商品券。 【墨田区】今回は区外の方もOK！一次販売で買った方も！２０％お得な「すみだプレミアム付きデジタル商品券」発売開始。 2 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/23/paypay-bakeryhanabi/",
-      "pubDate": "Thu, 22 Oct 2026 23:01:09 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7291-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T23:00:46.121873",
+  "updatedAt": "2026-11-01T23:30:40.651884",
   "sites": [
     {
       "id": "hachima",
