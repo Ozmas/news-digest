@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】『青鬼』がVTuberになって『鬼武者』を初見プレイ →無言なのにすべてが面白いと話題にｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582663.html",
+      "pubDate": "2026-11-01T18:20:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e9a33388.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ヤバすぎ】フランス、データ送信1GBにつき10円の課税案を可決　Netflix、YouTubeなどの企業が対象",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582658.html",
+      "pubDate": "2026-11-01T18:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/a/7a7768e1-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "11月発売の注目ゲームまとめ！『グランド・セフト・オート6』『ゼルダの伝説 時のオカリナ』がついにくるぞおおお！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461771.html",
+      "pubDate": "2026-11-01T18:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/678ff6da.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -509,19 +548,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/l3.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【首都圏闇バイト強盗事件】検察官「闇バイト知ってた？3年前のルフィ闇バイト強盗事件知ってるやろ」　被告「え？知らんかった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582522.html",
-      "pubDate": "2026-11-01T09:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/e/1e6abd80.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -533,19 +559,6 @@
       "link": "https://jin115.com/archives/52461745.html",
       "pubDate": "2026-11-01T09:00:02+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/93d0bccd.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「あれ？注文したiPhone Duo、1月に届くはずだったのに明日届く形になってる…」 ← ◯◯が大量発生したからじゃね？？？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582520.html",
-      "pubDate": "2026-11-01T08:30:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c5a2fd17.jpg"
     },
     {
       "siteId": "sumida",
@@ -676,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/10/31/2858402/",
       "pubDate": "Sat, 31 Oct 2026 12:00:45 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2159a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男性ゲーマーさん「VALORANTの野良で知り合った女からこれ来て朝から鬱」ﾊﾟｼｬｯ → 投稿された画像がヤバすぎるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461725.html",
-      "pubDate": "2026-10-31T21:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d9ef4f5-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T09:00:46.484508",
+  "updatedAt": "2026-11-01T09:30:36.580079",
   "sites": [
     {
       "id": "hachima",
