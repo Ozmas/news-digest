@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ヨーグルトに「うまい棒」を漬けたら美味しくなるだと…AIのとんでもない提案を試してみた",
+      "description": "少し前に「ヨーグルトにココナッツサブレを漬けるとチーズケーキ風になる」という簡単レシピが流行っていた。 SNSでは作ってみたレポが多く投稿され、過去にはTBS「Nスタ」等でも取り上げられている。ロケットニュース24でも佐 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/01/2857682/",
+      "pubDate": "Sun, 01 Nov 2026 01:00:33 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-9-11.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【！？】フランスでギガバイト税を導入！？ 210GBもある『GTA6』を落とした場合、約2000円の税を支払わなアカン模様…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582530.html",
+      "pubDate": "2026-11-01T10:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/6/a6f5a719-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【問】大学生は子供なのか？男が女子大生に興奮するのは異常なのか？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461741.html",
+      "pubDate": "2026-11-01T10:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/e/8ed35bd7.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -392,19 +431,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74b7d96e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "山田涼介さん「ゲーム内で知り合った人とオフラインで会ったら、僕が来てびっくりしていました(笑)」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582452.html",
-      "pubDate": "2026-10-31T21:30:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/0702752b.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -743,19 +769,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Shimanami01.jpeg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "大炎上した『Forza Horizon 6』、公式からヤバすぎる声明が出てガチで終わる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461695.html",
-      "pubDate": "2026-10-31T09:30:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bda958b3.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1066,19 +1079,6 @@
       "link": "https://artscape.jp/article/80561/",
       "pubDate": "Fri, 30 Oct 2026 02:00:48 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "銀だこの一部店舗で売っている「たこたまチーズ（税抜380円）」を食べてみた / たこ焼き3個入りなのに主役は別にいた",
-      "description": "先日、銀だこに立ち寄ったところ、見慣れない商品を発見した。 その名も「たこたまチーズ」。どうやら一部店舗で販売されている限定メニューらしい。 税抜380円というまぁまぁお手頃なお値段だし、軽くつまめる薄いおやつサイズだろ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/30/2813562/",
-      "pubDate": "Fri, 30 Oct 2026 02:00:31 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/gindako-takotama-3.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T01:00:45.211782",
+  "updatedAt": "2026-11-01T01:30:38.340119",
   "sites": [
     {
       "id": "hachima",
