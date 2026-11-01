@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ACE COOLのサードアルバム『Haigamine』がリリース。制作の背景と込められた思いを紐解く",
+      "description": "「『Haigamine』で、ラップシーンの真ん中へ行きたい」 近年、ラップシーンでの存在感を強め、唯一無二のポジションを築いてきたACE COOL。客演やライブのたびに目立つのは、派手な振る舞いよりも、マイクを握った瞬間 [&#8230;]",
+      "link": "https://brutus.jp/post-531849/",
+      "pubDate": "Sun, 01 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【裏技】串カツ田中の『レバニラ炒め』におかわり自由の「お通しキャベツ」を投入！ 余ったタレで炒めたら最高だった",
+      "description": "「串カツ田中」の魅力といえば、当然ながら串カツである。しかし、サイドメニューの充実ぶりも見逃せないポイントだ。 先日、何気なくメニューを眺めていて気になったのが『レバニラ炒め』だった。なんとこのメニュー、ただ完成品が出て [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/01/2858461/",
+      "pubDate": "Sun, 01 Nov 2026 02:55:27 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/collage_2914c8.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【1本62円】タリーズコーヒーのカフェオレ「プラチナホワイト（500ml）」24本セットが1498円 / Amazonタイムセール",
+      "description": "毎日お得なタイムセールを開催しているAmazon。飲料・アパレル・生活用品など、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、タリーズコーヒーのPLATINUM（プラチナ）シリーズから登場 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/01/2858860/",
+      "pubDate": "Sun, 01 Nov 2026 02:34:11 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Amazon-×-RN24_8888.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "松井秀喜新監督が巨人軍に挨拶→一部選手の態度が物議に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461752.html",
+      "pubDate": "2026-11-01T11:30:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/00339ce6.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "佐伯俊先生が集英社との専属契約を満了！さっそく『食戟のソーマ』えりなお嬢様のえっちなイラストを投稿、最高だなおい！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582541.html",
+      "pubDate": "2026-11-01T11:30:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/570ba046.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "7年を経てアップデート。〈eatrip〉野村友里が食から考えた、育てる家具。",
+      "description": "野村友里と〈WRIGHT〉の河野俊介が手がけた〈eatrip〉の《eatrippe》。7年間の店舗での使用を経てアップデート。",
+      "link": "https://casabrutus.com/categories/design/494709",
+      "pubDate": "Sun, 01 Nov 2026 02:25:36 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -418,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/780436a0.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "東京美容外科・麻生泰氏「タトゥーが入っていたらお風呂に入れないとか、おかしなルール」「人格否定、人権否定だと思いますね」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582466.html",
-      "pubDate": "2026-10-31T23:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/a/2a8216b7.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -717,19 +782,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国人「この写真、どっちが中国でどっちが日本の風景か、99%の人は分からないだろう！」→これ、ガチで分かる人いる？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461701.html",
-      "pubDate": "2026-10-31T11:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/7/07b84b78.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1003,19 +1055,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_4334.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2738回「九尾の九ちゃん⑭」",
-      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/10/30/2858258/",
-      "pubDate": "Fri, 30 Oct 2026 05:00:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2738-2.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1027,19 +1066,6 @@
       "link": "https://brutus.jp/post-535379/",
       "pubDate": "Fri, 30 Oct 2026 03:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【御徒町】『吉池食堂』が大行列ならココ！ 知る人ぞ知る直営店『池田屋』の平日限定海鮮ランチが超穴場",
-      "description": "JR上野駅とJR秋葉原駅の間に位置するJR御徒町駅。一般的なネームバリューこそ上野や秋葉原に劣るものの、毎日多くの人が利用する繁華街と申し上げていいだろう。 その御徒町は宝飾の街であり、元祖ドンキこと「多慶屋」も有名であ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/30/2832821/",
-      "pubDate": "Fri, 30 Oct 2026 02:55:16 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/ikedaya05.jpeg"
     },
     {
       "siteId": "casabrutus",
@@ -1234,32 +1260,6 @@
       "description": "〈島泊／島飯／島湯〉という名が体を表すホテルのコンセプトを、〈スキーマ建築計画〉の長坂常とグラフィックデザイナーの長嶋りかこに聞きました。",
       "link": "https://casabrutus.com/categories/design/494522",
       "pubDate": "Thu, 29 Oct 2026 07:25:59 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】ジュエリーのような佇まい。〈ALESSI〉のパスタメジャー",
-      "description": "パスタが主食のあの人へ洗練されたパスタメジャー 〈ALESSI〉のパスタメジャー 優美な曲線を組み合わせた、まるでジュエリーのような佇まい。実はこれ、イタリアの老舗ホームプロダクトブランドが手掛けたパスタメジャー。3つの [&#8230;]",
-      "link": "https://brutus.jp/post-533302/",
-      "pubDate": "Thu, 29 Oct 2026 03:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "フィリップ・マロインがスクラップ工場で見つけた端材から着想したエスプレッソコーヒーメーカー。",
-      "description": "フィリップ・マロインが初めて〈ALESSI〉とタッグ。エスプレッソコーヒーメーカー《ヴィーテ》。",
-      "link": "https://casabrutus.com/categories/design/494691",
-      "pubDate": "Thu, 29 Oct 2026 02:25:45 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T02:30:41.038682",
+  "updatedAt": "2026-11-01T03:00:48.064931",
   "sites": [
     {
       "id": "hachima",
