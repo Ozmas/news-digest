@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "東京生まれ東京育ちの人「四国に行ったことない。行く予定もない。行く価値ある？」 → 四国民ブチギレ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582523.html",
+      "pubDate": "2026-11-01T09:30:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/254aac0d-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -119,19 +132,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "kick配信者、ラーメン屋で調味料の殆どを取り出して蓋を開け、さらにはゴマをテーブルに振りまくという迷惑行為をして炎上",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582516.html",
-      "pubDate": "2026-11-01T07:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7dca53ed.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -143,6 +143,19 @@
       "link": "https://jin115.com/archives/52461737.html",
       "pubDate": "2026-11-01T07:00:15+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c8aa1d01.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "kick配信者、ラーメン屋で調味料の殆どを取り出して蓋を開け、さらにはゴマをテーブルに振りまくという迷惑行為をして炎上",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582516.html",
+      "pubDate": "2026-11-01T07:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/d/7dca53ed.jpg"
     },
     {
       "siteId": "hachima",
@@ -390,19 +403,6 @@
       "link": "http://blog.esuteru.com/archives/10582452.html",
       "pubDate": "2026-10-31T21:30:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/0702752b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "神谷英樹氏「『大神 完全新作』はあまり期待しすぎないほうがいい」「新規層に楽しんでもらえるものにしたい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582450.html",
-      "pubDate": "2026-10-31T21:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/296c1155.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T00:00:45.967202",
+  "updatedAt": "2026-11-01T00:30:39.222013",
   "sites": [
     {
       "id": "hachima",
