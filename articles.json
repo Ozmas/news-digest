@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ハロウィン渋谷でゴミ拾いをしていた女性配信者さん、ゴミと間違ってスカートを引っ張ってしまい衝撃の展開にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461773.html",
+      "pubDate": "2026-11-01T22:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5c70fded-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -715,19 +728,6 @@
       "link": "https://jin115.com/archives/52461740.html",
       "pubDate": "2026-11-01T04:00:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/b/5b8f5a2e.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「自分の本名をAIに聞いたらなんて返ってくるかなｗ」→マジでヤバすぎることに・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461736.html",
-      "pubDate": "2026-11-01T01:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/b/6b3aa55c.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T12:30:42.321176",
+  "updatedAt": "2026-11-01T13:00:49.636356",
   "sites": [
     {
       "id": "hachima",
