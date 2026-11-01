@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】いらすとや、生成AIのせいでオワコン化……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582759.html",
+      "pubDate": "2026-11-02T07:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/6849f7bd.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -455,19 +468,6 @@
       "link": "http://blog.esuteru.com/archives/10582664.html",
       "pubDate": "2026-11-01T18:40:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/c/4c86171b.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】『青鬼』がVTuberになって『鬼武者』を初見プレイ →無言なのにすべてが面白いと話題にｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582663.html",
-      "pubDate": "2026-11-01T18:20:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e9a33388.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T22:30:38.399394",
+  "updatedAt": "2026-11-01T23:00:46.121873",
   "sites": [
     {
       "id": "hachima",
