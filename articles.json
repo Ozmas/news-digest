@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジかよ】古参VTuberさん、2025年末に引退していたことが判明… 外見そのままに中の人交代で活動継続へ「SNSは事務所が運営していた」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582720.html",
+      "pubDate": "2026-11-02T00:40:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dc0cbe2b.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ONE OUTS』全巻「100円」セール！全20巻「10,568円」→「2,000円」！『ライアーゲーム』甲斐谷忍先生が描く、野球を題材にした騙し合い頭脳戦！野球版「アカギ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461787.html",
+      "pubDate": "2026-11-02T00:30:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5c0fb9b1.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -496,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/9/b9ce4a35.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】天丼チェーン店『てんや』、値上げの影響で客離れが深刻化してしまう…　お前らも行かなくなったの？？？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582573.html",
-      "pubDate": "2026-11-01T14:30:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6fc969f7.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/11/01/2833755/",
       "pubDate": "Sun, 01 Nov 2026 00:00:29 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/l3.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "海外X民「日本に行って○○する手助けをしたい！左派の皆さん、どう思いますか？」→一線を超えた投稿が本気の物議を醸す",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461745.html",
-      "pubDate": "2026-11-01T09:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/93d0bccd.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T15:30:37.999547",
+  "updatedAt": "2026-11-01T16:00:45.984098",
   "sites": [
     {
       "id": "hachima",
