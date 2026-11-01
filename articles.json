@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「居酒屋でアジ姿造り頼んだらコレが来た」ﾊﾟｼｬｯ → 出てきたものがエグすぎて話題にｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461770.html",
+      "pubDate": "2026-11-02T04:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/198060e7-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "時代に負けたシャウエッセンがクソコラ人気アイテムにｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582692.html",
+      "pubDate": "2026-11-02T04:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6d090da.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +509,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画あり】大阪ハロウィンでナンパから大乱闘スマッシュブラザーズ　ベトナム人が犯人との情報も",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582582.html",
-      "pubDate": "2026-11-01T16:30:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/5/d5d8a0a4.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +663,6 @@
       "link": "https://rocketnews24.com/2026/11/01/2857535/",
       "pubDate": "Sun, 01 Nov 2026 02:00:44 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sirunasi07.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【司法ｵﾜﾀ】埼玉の自宅で妻を殺したネパール人、不起訴",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461751.html",
-      "pubDate": "2026-11-01T11:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/6/66c178db.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T19:00:43.940679",
+  "updatedAt": "2026-11-01T19:30:40.141058",
   "sites": [
     {
       "id": "hachima",
