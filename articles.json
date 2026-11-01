@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "農家X民「もうナス泥棒自分で捕まえる！夜中見張るわ！」 → ガチで犯人が現れて逃走防止のために車のキーを抜いて通報した結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461767.html",
+      "pubDate": "2026-11-02T00:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/4/54e6df24-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【今週発売ゲーム】『ゼルダの伝説 時のオカリナ』『クライムライト』ほか、11月2～8日発売タイトルまとめ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582495.html",
+      "pubDate": "2026-11-02T00:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c0f143e.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6fc969f7.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "にじさんじの人気VTuberグループ「ろふまお」が活動再開をアナウンス",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582572.html",
-      "pubDate": "2026-11-01T14:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c66bbe4-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://casabrutus.com/categories/art/491330",
       "pubDate": "Sat, 31 Oct 2026 22:00:52 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "講談社「みい山はアニメ化そのものについて〇〇中です」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461737.html",
-      "pubDate": "2026-11-01T07:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c8aa1d01.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T15:00:47.243956",
+  "updatedAt": "2026-11-01T15:30:37.999547",
   "sites": [
     {
       "id": "hachima",
