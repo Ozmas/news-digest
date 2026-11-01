@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "雰囲気だけはある！ 何やら示し合わせた店主と客！　四コマサボタージュFB第121回「合言葉」",
+      "description": "裏カジノや賭場って具体的にどんな種類の賭け事が催されてるんだろうね。テレビゲームとかでしか知らないからいまいち実態がよく分からないんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/02/2833468/",
+      "pubDate": "Sun, 01 Nov 2026 22:00:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-121.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1016,19 +1029,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【2027年福袋まとめ②】シナモロールやすみっコとのコラボに毎年大人気のジェラピケ…福袋最新情報をチェック！",
-      "description": "先日、2027年の福袋情報第1弾をお伝えしたが、続々と新たな情報が出てきている。そこで今回は、ロケットニュース24編集部で厳選した福袋情報第2弾をご紹介したい。 毎年大人気のジェラピケに、「ドトール×シナモロール」や「す [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/30/2858454/",
-      "pubDate": "Fri, 30 Oct 2026 10:00:54 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/top.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T21:53:36.785317",
+  "updatedAt": "2026-11-01T22:00:48.172441",
   "sites": [
     {
       "id": "hachima",
