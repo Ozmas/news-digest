@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『FF14』がゲーム設計を大幅変更！毎日ログインして長時間プレイできなくても楽しめるように",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582570.html",
+      "pubDate": "2026-11-01T13:30:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/abcd8fbf-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -321,7 +334,7 @@
       "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
       "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
       "title": "【墨田区】11月3日は千歳の江島杉山神社で弁天まつりが開催されます。",
-      "description": "鍼灸あんまの神様が祀られている千歳1丁目の江島杉山神社では2026年11月3日に「弁天まつり」が行われます。 一の橋のすぐそば。江戸時代の鍼術家として知られる杉山和一（杉山検校）の信仰とゆかりが色濃い神社です。 杉山検校 [&#8230;]",
+      "description": "鍼灸あんまの神様が祀られている千歳1丁目の江島杉山神社では2026年11月3日(火・祝)に「弁天まつり」が行われます。 一の橋のすぐそば。江戸時代の鍼術家として知られる杉山和一（杉山検校）の信仰とゆかりが色濃い神社です。 [&#8230;]",
       "link": "https://sumida.goguynet.jp/2026/11/01/bentenmatsuri2026/",
       "pubDate": "Sat, 31 Oct 2026 23:01:33 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/635054271134171154-1-1024x767.jpg"
@@ -481,19 +494,6 @@
       "link": "http://blog.esuteru.com/archives/10582489.html",
       "pubDate": "2026-11-01T02:00:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fbf8ce4a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【AIクローンゲーム問題】Anthropicの『Claude Code』開発者「AIに特定のゲームを再現しないよう指示した。知的財産の侵害に使われるのはポリシーに反する」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582486.html",
-      "pubDate": "2026-11-01T01:30:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bca8c43a.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T04:30:39.393025",
+  "updatedAt": "2026-11-01T05:00:48.381260",
   "sites": [
     {
       "id": "hachima",
