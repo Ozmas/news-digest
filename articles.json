@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「汁なし麻辣湯」ってあるんだ…！ 中国1200店舗超の超大手『小谷姐姐麻辣湯 御徒町店』で食べてみた",
+      "description": "街中などで見かける限り、麻辣湯（まーらーたん）の勢いはさほど落ちていないように思える。麻辣湯が新語・流行語大賞にノミネートされたのは昨年のことだから、少なくとも1年近くは人気が続いているようだ。 つい先日のこと。上野から [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/01/2857535/",
+      "pubDate": "Sun, 01 Nov 2026 02:00:44 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sirunasi07.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ホロライブ・宝鐘マリンさん、初めてのNIKKEで衝撃を受けてしまい、再度NIKKE配信したいとつぶやく",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582534.html",
+      "pubDate": "2026-11-01T11:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/20459b6b-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -416,19 +442,6 @@
       "link": "https://jin115.com/archives/52461730.html",
       "pubDate": "2026-10-31T23:00:05+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/5/d5390936-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【これは酷い】GMO、2年前に子会社のセキュリティー企業から脆弱性を指摘されるもずっと放置していた",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582457.html",
-      "pubDate": "2026-10-31T22:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/2/02bb0525.jpg"
     },
     {
       "siteId": "jin",
@@ -1027,19 +1040,6 @@
       "link": "https://rocketnews24.com/2026/10/30/2832821/",
       "pubDate": "Fri, 30 Oct 2026 02:55:16 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/ikedaya05.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "広島・宮島で人気の食べ歩きグルメ「揚げもみじ」にはお土産キットがある / 8種類の味が楽しめて最高！",
-      "description": "広島の宮島で人気の食べ歩きグルメのひとつに「揚げもみじ」がある。独自ブレンドした衣を付けて揚げたもみじ饅頭は大人気！ でも、揚げたてを楽しむスイーツだから持ち帰りは難しく、お土産にはできない……と思っていたのだけど、なん [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/30/2834365/",
-      "pubDate": "Fri, 30 Oct 2026 02:30:23 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-4-11.jpeg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T02:00:46.311781",
+  "updatedAt": "2026-11-01T02:30:41.038682",
   "sites": [
     {
       "id": "hachima",
