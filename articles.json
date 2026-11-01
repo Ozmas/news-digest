@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中田譲治さん、『NOMORE無断生成AI』を掲げながら、画像生成AIを使った炎上問題について、反論を投稿「あの画像は◯◯です」「匿名の方と議論する気はない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461777.html",
+      "pubDate": "2026-11-01T20:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb7f5217.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ペルソナ1』リメイク映像が流出か？本物かどうかファンの間でも意見分かれる「ただのAI生成」「社内向けのコンセプト映像では」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582673.html",
+      "pubDate": "2026-11-01T20:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/5/b547da8e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大人気ゲーム『ゴッドフィールド』作者含めて“19年間誰も気づかなかった”誤字が見つかるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582671.html",
+      "pubDate": "2026-11-01T19:30:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78031ea1.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -509,19 +548,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sirunasi07.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ホロライブ・宝鐘マリンさん、初めてのNIKKEで衝撃を受けてしまい、再度NIKKE配信したいとつぶやく",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582534.html",
-      "pubDate": "2026-11-01T11:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/20459b6b-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -533,19 +559,6 @@
       "link": "https://jin115.com/archives/52461751.html",
       "pubDate": "2026-11-01T11:00:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/6/66c178db.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "反対派「『みいちゃんと山田さん』アニメ化について、講談社から回答が来た。◯◯中だって」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582531.html",
-      "pubDate": "2026-11-01T10:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/d/cdae88a5.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -689,19 +702,6 @@
       "link": "https://jin115.com/archives/52461732.html",
       "pubDate": "2026-11-01T00:00:04+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/19732492.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ホラゲー『青鬼』、VTuberとして初の無言ゲーム実況を開始 → 無言なのにヤバイことになってて笑い死ぬ人続出ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461730.html",
-      "pubDate": "2026-10-31T23:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/5/d5390936-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T10:30:38.868309",
+  "updatedAt": "2026-11-01T11:00:49.416465",
   "sites": [
     {
       "id": "hachima",
