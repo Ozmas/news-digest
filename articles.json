@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "映画『ぼっち・ざ・ろっく！星のあしあと』が2027年公開決定！さらにライブワールドツアーも開催",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582694.html",
+      "pubDate": "2026-11-01T21:30:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/1/31dd349f.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "障害者「僕たちは結局、健常者の養分なんだよな」→健常者から怒りの声が殺到・大炎上",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461749.html",
+      "pubDate": "2026-11-01T21:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90c1d5fc.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『FF14』で13年も頑張った「アラガントームストーン：詩学」がついに廃止へ！今までありがとう！！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582681.html",
+      "pubDate": "2026-11-01T21:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/d/1d516fdf.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +52,19 @@
       "link": "https://rocketnews24.com/2026/11/01/2858407/",
       "pubDate": "Sun, 01 Nov 2026 12:00:03 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2160a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "時計とスタイル、〈BARBER BOYS〉理容師・島田裕生のケーススタディ",
+      "description": "憧れのアメリカから昭和の日本へ。時計が映し出す美意識の変化 20代の頃は、洋服も時計もアメリカのヴィンテージ一辺倒だった〈バーバーボーイズ〉の理容師・島田裕生さん。腕元にも1950年代の〈エルジン〉など、古いアメリカ製の [&#8230;]",
+      "link": "https://brutus.jp/post-535497/",
+      "pubDate": "Sun, 01 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -444,32 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/edc1f0c3-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "カードゲーム『ヴァンガード』7名参加の大会で「なぜか試合してない人が優勝」という珍事件が発生",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582559.html",
-      "pubDate": "2026-11-01T12:20:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/a/7adf6e43.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "OKストアの「正直カード」あまりにも正直すぎるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582555.html",
-      "pubDate": "2026-11-01T12:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/3/034b4eb4-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +728,6 @@
       "link": "https://jin115.com/archives/52461736.html",
       "pubDate": "2026-11-01T01:00:49+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/b/6b3aa55c.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "兎田ぺこらさん、ガチでやばい「ハロウィンネタ」のイラストを投稿してしまい、批判が殺到して炎上・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461732.html",
-      "pubDate": "2026-11-01T00:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/19732492.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1237,19 +1250,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "この一杯にはこのサウンド！掟ポルシェのラーメン音楽道",
-      "description": "文・掟ポルシェ 2000年代末、都内某所。昼下がりの遅い時間、何気なく目についたラーメン屋に適当に入店。暖簾をくぐるや、「い・らっしゃいませえええええええいいいいィッッ!!!!!」と、威勢良すぎでほぼ怒号な店員総出のウェ [&#8230;]",
-      "link": "https://brutus.jp/post-532898/",
-      "pubDate": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T12:00:49.763832",
+  "updatedAt": "2026-11-01T12:30:42.321176",
   "sites": [
     {
       "id": "hachima",
