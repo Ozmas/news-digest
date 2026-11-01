@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気コスプレイヤー伊織もえさんの投稿で始まった大海賊時代に新展開！マジかよこれ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461750.html",
+      "pubDate": "2026-11-01T13:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/02790306-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "有名配信者3人による『スト6』コスプレが超絶セクシーすぎる",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582563.html",
+      "pubDate": "2026-11-01T13:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e0863be9.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/b/6b3aa55c.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃画像】元アイドルのインフルエンサーさん、現役時代と現在の比較写真を投稿・・・これ本当に同一人物なの？？？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582477.html",
-      "pubDate": "2026-11-01T01:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/1/71c0e630.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52461708.html",
       "pubDate": "2026-10-31T14:00:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/70b82d3e.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「うっとうしいハエが電子レンジに飛び込んだ！600Wでチンしてやるぜ！」→1分後、まさかの事態に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461707.html",
-      "pubDate": "2026-10-31T13:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/369e151d-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T04:00:45.545542",
+  "updatedAt": "2026-11-01T04:30:39.393025",
   "sites": [
     {
       "id": "hachima",
