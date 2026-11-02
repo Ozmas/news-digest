@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「芸能人を誹謗中傷してるアカウント、2016年頃までは子供の写真ばかりアップしてるのに、急に◯◯画像投稿してから誹謗中傷し始めてて怖い」→特定された結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461818.html",
+      "pubDate": "2026-11-02T21:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/1/91094005.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2161話目「新設、トラップ部隊㉟」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/02/2859146/",
+      "pubDate": "Mon, 02 Nov 2026 12:00:39 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2161a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【爆売れ】武侠アクション『ファントムブレード ゼロ』発売72時間で売上本数400万本突破！！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582904.html",
+      "pubDate": "2026-11-02T21:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/443aeb4a.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -494,19 +533,6 @@
       "link": "http://blog.esuteru.com/archives/10582797.html",
       "pubDate": "2026-11-02T12:40:25+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c98d3264.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】名越スタジオ、正式に解散 マ・ドンソク主演『ギャングオブドラゴン』発表から1年足らず",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582798.html",
-      "pubDate": "2026-11-02T12:15:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e0fcf62a-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1003,19 +1029,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/4/54e6df24-s.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気VTuber・赤見かるびさん、うっかり年齢が透ける → まさかの〇歳で好感度が爆上がるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461781.html",
-      "pubDate": "2026-11-01T23:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1c3233a2-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1183,19 +1196,6 @@
       "link": "https://rocketnews24.com/2026/11/01/2857682/",
       "pubDate": "Sun, 01 Nov 2026 01:00:33 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-9-11.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "スーパーのカートで「100円玉がない！」を解決！ ロピアの「ロピタくん」キーホルダーが地味に便利だぞ",
-      "description": "皆さんはスーパーで100円玉を入れるタイプのカートに遭遇して、「げっ」と思った経験はないだろうか。いちいち財布から硬貨を出すのも手間だし、運悪く100円玉がないと両替する手間まで発生してしまう。 そこで今回ご紹介したいの [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/01/2833755/",
-      "pubDate": "Sun, 01 Nov 2026 00:00:29 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/l3.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T12:00:50.821039",
+  "updatedAt": "2026-11-02T12:30:42.133840",
   "sites": [
     {
       "id": "hachima",
