@@ -15,6 +15,32 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/beanieworkman.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】女優・平愛梨さん、アンチコメントに反応してしまう→【朗報】メンタル最強すぎた結果ｗｗｗｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461789.html",
+      "pubDate": "2026-11-02T09:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/4/940f2b02.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】元TOKIO･山口達也さん、アルコール依存症の恐怖を語る　→　有名ユーチューバーから「◯◯◯」の一言で一刀両断されてしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582765.html",
+      "pubDate": "2026-11-02T08:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/66cd09dd.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -483,19 +509,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/repo10280.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "巨人・松井秀喜新監督、チームの選手一人ひとりと挨拶　→とある選手の態度がネットで炎上・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582668.html",
-      "pubDate": "2026-11-01T19:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/eadeeffb.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +676,6 @@
       "link": "https://jin115.com/archives/52461750.html",
       "pubDate": "2026-11-01T13:00:23+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/02790306-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "大炎上したムスリムの『子供見守り活動』リーダー「誹謗中傷、外国人差別の電話やメールがすごくてツライ…」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461746.html",
-      "pubDate": "2026-11-01T12:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/2/225f5106.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T00:00:46.933955",
+  "updatedAt": "2026-11-02T00:30:38.296522",
   "sites": [
     {
       "id": "hachima",
