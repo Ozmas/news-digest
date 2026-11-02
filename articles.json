@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "政治的話題で口論になった仲良し女子高生たち、とんでもないことになる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461827.html",
+      "pubDate": "2026-11-02T22:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/5/3555cefb.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1016,19 +1029,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5c0fb9b1.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "農家X民「もうナス泥棒自分で捕まえる！夜中見張るわ！」 → ガチで犯人が現れて逃走防止のために車のキーを抜いて通報した結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461767.html",
-      "pubDate": "2026-11-02T00:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/4/54e6df24-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T13:00:54.732036",
+  "updatedAt": "2026-11-02T13:30:44.927869",
   "sites": [
     {
       "id": "hachima",
