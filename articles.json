@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【2027年福袋まとめ③】スタバにゴンチャ、成城石井、JINS…大本命の福袋が続々登場してるぞ！",
+      "description": "これまで第1弾・第2弾とお届けしてきた、2027年の福袋情報。まだまだ新たな情報が続々と登場しているので、今回は第3弾をお伝えしたい。 スターバックスにゴンチャ、丸山珈琲といった人気のカフェチェーンに、成城石井にサンクゼ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/02/2859077/",
+      "pubDate": "Mon, 02 Nov 2026 09:00:12 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/6a6c28a2-088b-49ed-b3fa-7d2076745e6b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】今度はドイツが火の海に　平和的デモが暴力と略奪に変容",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582864.html",
+      "pubDate": "2026-11-02T18:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/84618dde-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画あり】GMO熊谷社長、記者会見で泣きながら謝罪　野々村議員みたいと話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582842.html",
+      "pubDate": "2026-11-02T17:30:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/3/5339e9e7-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -769,19 +808,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/4/940f2b02.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】元TOKIO･山口達也さん、アルコール依存症の恐怖を語る　→　有名ユーチューバーから「◯◯◯」の一言で一刀両断されてしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582765.html",
-      "pubDate": "2026-11-02T08:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/6/66cd09dd.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -821,19 +847,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/写真アプリ.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃】外国人「日本人はグロを嫌うのに、日常でしてる◯◯◯はグロくてハードで怖すぎ」　→　世界中からビビられてた習慣はまさかのアレだったｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582761.html",
-      "pubDate": "2026-11-02T08:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/faa03970.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -871,6 +884,19 @@
       "link": "https://casabrutus.com/categories/culture/492786",
       "pubDate": "Sun, 01 Nov 2026 22:00:07 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "伊藤英明、パンの食べ方に「怒られるやつ」「何してんの？」「子どもより酷くない？」と反響",
+      "description": "俳優の伊藤英明さんが、10月28日にInstagramを更新。クロワッサンを食べる動画を披露し、「怒られるやつ」「何してんの？」「子どもより酷くない？」などと話題になっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/itohideaki-croissant1028",
+      "pubDate": "Sun, 01 Nov 2026 16:30:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/30/07/thumb/MleWH4znY.jpg?crop=2700:1800;0,364&resize=1250:830"
     },
     {
       "siteId": "jin",
@@ -1003,6 +1029,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb7f5217.jpg"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「何でもアリすぎるｗ」『VIVANT』ケーキ発売→ビジュアルに「スゲェのぶっこんできた」と注目集まる",
+      "description": "日曜劇場『VIVANT』（TBS系）の公式サブアカウント「ヴィヴァンちゃん」が10月29日にXを更新。『VIVANT』をイメージしたクリスマスケーキが発売されることを明かしました。まさかのビジュアルに「スゲェのぶっこんできた」と反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yukiadachi/vivant-cake1029",
+      "pubDate": "Sun, 01 Nov 2026 05:16:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/30/04/subbuzz/IfDjlVqX6.jpg?crop=641:427;2,15&resize=1250:830"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1027,6 +1066,19 @@
       "link": "https://brutus.jp/post-531048/",
       "pubDate": "Sun, 01 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "高橋克典「そういうことだったのか」福原遥との2ショットが話題に「お嫁に行く前に…」「泣けてしまいました」",
+      "description": "俳優の高橋克典さんが10月28日にInstagramを更新。俳優の福原遥さんとの2ショットを公開しました。高橋さんの企画アルバム『with』でデュエットする福原さんの姿や収録後のやり取りに注目が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/takahashi-fukuhara-2shot",
+      "pubDate": "Sun, 01 Nov 2026 04:46:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/30/00/subbuzz/XwbEHM2wv.jpg?crop=3203:2135;0,166&resize=1250:830"
     },
     {
       "siteId": "rocketnews",
@@ -1157,19 +1209,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/01/bentenmatsuri2026/",
       "pubDate": "Sat, 31 Oct 2026 23:01:33 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/635054271134171154-1-1024x767.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "一歩前へ！ 友人の助言を活かした隣の男子！　隣りの席の子の様子がおかしい第74回「続・薄暮れ」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/01/2813334/",
-      "pubDate": "Sat, 31 Oct 2026 23:00:10 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari74r-1koma.png"
     },
     {
       "siteId": "casabrutus",
@@ -1315,6 +1354,19 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/Sumida-Coffee-Festival-2026-Autum3.jpg"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "しなこ、ウィッグを外した姿にファン驚き「こうなるの！？」「堂々と公開…」「ビックリした」",
+      "description": "原宿系インフルエンサーでYouTuberのしなこさんが10月27日にInstagramを更新。ウィッグを外す様子を公開し、ファンからは「こうなるの！？」「堂々と公開…」などの反響が寄せられました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yuisasaki/shinako1028",
+      "pubDate": "Thu, 29 Oct 2026 06:31:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/28/06/subbuzz/LJPiXzHbk.jpg?crop=2660:1773;233,556&resize=1250:830"
+    },
+    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1367,32 +1419,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/yonezawa4.jpg"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "伊藤沙莉、HANAとのダンスを披露→「なじみすぎてて…」「うますぎるうう！！」「めっちゃ動く」と絶賛の声",
-      "description": "日本マクドナルドの公式アカウントが10月28日にInstagramを更新。俳優の伊藤沙莉さんが出演するCMを公開し、「なじみすぎてて…」「うますぎるうう！！」などの反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/itousairi1028hana",
-      "pubDate": "Wed, 28 Oct 2026 06:31:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/28/04/subbuzz/mmDvEbyFT.jpg?crop=1881:1254;195,209&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "『南田南弁護士は天才肌』芦田愛菜の花嫁姿に視聴者くぎづけ「お姫様みたい」「清純カップル誕生」",
-      "description": "動画配信サービス「Netflix Philippines（ネットフリックス フィリピン）」公式アカウントが、10月27日にInstagramを更新。ドラマ『南田南弁護士は天才肌』（カンテレ・フジテレビ系）で主演を務める俳優・芦田愛菜さんの花嫁姿のシーンを公開し、「お姫様みたい」と反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yukiadachi/ashidamana-minamidahanayome1027",
-      "pubDate": "Wed, 28 Oct 2026 06:16:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/29/08/subbuzz/AbM6FTte4.jpg?crop=1497:998;627,99&resize=1250:830"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1419,19 +1445,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8419-1024x767.jpeg"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "M!LK山中柔太朗、“憧れの人”と並んだ姿に「兄弟みたい」「親戚とかじゃなくって！？」とファン騒然",
-      "description": "「M!LK」の山中柔太朗さんが10月25日にYouTubeチャンネルを更新。元サッカー日本代表の柿谷曜一朗さんとコラボしスポーツを楽しむ姿を公開しました。二人の姿に「びっくり」「兄弟みたい」などの反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/milk-yamanaka-kakitani",
-      "pubDate": "Tue, 27 Oct 2026 06:16:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/04/subbuzz/FUW9viq7s.jpg?crop=3955:2637;602,237&resize=1250:830"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1443,19 +1456,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/27/kozounodaidokoro/",
       "pubDate": "Mon, 26 Oct 2026 23:01:07 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/att.kNAWKEGsBWwRN8AmxpQR3ceD1YdoRXb-dhdyAHFjC5A-1024x767.jpeg"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "小室哲哉「慣れてない」バス移動姿に「ハラハラ」「大変でしたね」「はじめてのおつかいっぽくて…」と反響",
-      "description": "音楽家の小室哲哉さんが10月24日にInstagramを更新。海外でバスに乗車して移動する姿を公開し、「ハラハラ」「大変でしたね」などの反響が寄せられました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/komurotetsuya1026bus",
-      "pubDate": "Mon, 26 Oct 2026 05:15:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/04/subbuzz/-T3U9OnHQ.jpg?crop=3159:2106;190,344&resize=1250:830"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T08:30:43.543553",
+  "updatedAt": "2026-11-02T09:01:04.636698",
   "sites": [
     {
       "id": "hachima",
