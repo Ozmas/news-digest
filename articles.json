@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【JNN世論調査】高市内閣の支持率、無敵モードに突入ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582881.html",
+      "pubDate": "2026-11-02T18:20:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6ff165f5-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「AIに1万円渡してFXやって貰ってたんだけど、今149万円に増えてた　早速下ろしてくるわ」→ガチでとんでもないことになってしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461815.html",
+      "pubDate": "2026-11-02T18:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/0/d05ac72a.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -769,19 +795,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】『キャプテン翼』高橋陽一さんの最新のキャプ翼イラスト、なんかヤバいｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582767.html",
-      "pubDate": "2026-11-02T09:30:21+09:00",
-      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/0/b/0bb9527a.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -884,19 +897,6 @@
       "link": "https://casabrutus.com/categories/culture/492786",
       "pubDate": "Sun, 01 Nov 2026 22:00:07 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "伊藤英明、パンの食べ方に「怒られるやつ」「何してんの？」「子どもより酷くない？」と反響",
-      "description": "俳優の伊藤英明さんが、10月28日にInstagramを更新。クロワッサンを食べる動画を披露し、「怒られるやつ」「何してんの？」「子どもより酷くない？」などと話題になっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/itohideaki-croissant1028",
-      "pubDate": "Sun, 01 Nov 2026 16:30:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/30/07/thumb/MleWH4znY.jpg?crop=2700:1800;0,364&resize=1250:830"
     },
     {
       "siteId": "jin",
@@ -1016,19 +1016,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中田譲治さん、『NOMORE無断生成AI』を掲げながら、画像生成AIを使った炎上問題について、反論を投稿「あの画像は◯◯です」「匿名の方と議論する気はない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461777.html",
-      "pubDate": "2026-11-01T20:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb7f5217.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1105,6 +1092,19 @@
       "link": "https://brutus.jp/post-535548/",
       "pubDate": "Sun, 01 Nov 2026 08:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "【銀だこ×日清】カップヌードルとの“異世界コラボ”「とてもジャンキー」「なんて罪深い 」",
+      "description": "「築地銀だこ」は、「カップヌードル異世界合体」シリーズとのコラボ商品として「一度は食べたい‼謎肉たこ焼」を期間・数量限定で発売します。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yusuketsuji/gindakonissin1027",
+      "pubDate": "Sat, 31 Oct 2026 23:01:01 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/27/00/subbuzz/748Xh8FKr.jpg?crop=5235:3490;354,0&resize=1250:830"
     },
     {
       "siteId": "rocketnews",
@@ -1222,6 +1222,19 @@
       "link": "https://casabrutus.com/categories/art/491330",
       "pubDate": "Sat, 31 Oct 2026 22:00:52 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "二宮和也「初めて」作った料理にファン驚き「いやプロレベル」「お店で出てくるやつ」",
+      "description": "俳優の二宮和也さんが10月29日にXを更新。手料理を公開し、ファンからは「いやプロレベル」「お店で出てくるやつ」などの反響が寄せられました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yuisasaki/ninomiyakazuya1030",
+      "pubDate": "Sat, 31 Oct 2026 06:01:04 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/30/05/subbuzz/zpaQGxKZK.jpg?crop=5203:3469;514,100&resize=1250:830"
     },
     {
       "siteId": "casabrutus",
@@ -1352,6 +1365,19 @@
       "link": "https://sumida.goguynet.jp/2026/10/30/sumidacoffeefestival2026autumn/",
       "pubDate": "Thu, 29 Oct 2026 23:01:18 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/Sumida-Coffee-Festival-2026-Autum3.jpg"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「本物のハウルやん」道枝駿佑の“そっくり”な姿に驚きの声「実写！？」「びっくり」「やばすぎこれは」",
+      "description": "「なにわ男子」の公式アカウントが10月28日にInstagramを更新。メンバーの道枝駿佑さんがスタジオジブリのアニメ映画『ハウルの動く城』に登場する「ハウル」に扮装した姿を公開し、驚きや絶賛の声が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/michieda-shunsuke-howl-sokkuri",
+      "pubDate": "Thu, 29 Oct 2026 07:01:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/29/03/subbuzz/QKGqu7W12.jpg?crop=1557:1038;182,0&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1529,37 +1555,11 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "ロケット打ち上げ直後の種子島宇宙センターで“光る雲”を観測「異次元に行ったみたい」「幻想的」と反響",
-      "description": "ロケットを打ち上げたあとの種子島宇宙センターに「光る雲」が出現。SNSで話題を集めています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yusuketsuji/marsrocketmmx1020",
-      "pubDate": "Sat, 24 Oct 2026 21:01:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/08/subbuzz/LZ8_b5FCn.jpg?crop=2923:1949;0,165&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "ワンコに「お手」をさせたら…まさかのオチに「なんでやねん」「間接お手だ！！」SNSツッコミ",
       "description": "柴犬に「お手」をさせた動画がXに投稿され、「なんでやねん」「間接お手だ！！」など、3.8万件を超える「いいね」が集まっています。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/yuisasaki/otegatigauinu",
       "pubDate": "Sat, 24 Oct 2026 20:46:03 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/22/01/subbuzz/4kMRR58zq.png?crop=1947:1298;0,0&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "ブルーインパルスが来た！カメラで撮ったら…正体に「これは間違う」「似すぎ」と9.9万いいね",
-      "description": "花火大会で撮影されたブルーインパルス。よく見ると……まさかの正体に「これは間違う」「似すぎ」と9.9万件を超える「いいね」が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/saorihakamada/blueimpulse1010",
-      "pubDate": "Sat, 24 Oct 2026 20:31:04 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/20/00/thumb/ZdTDvyEgw.jpg?crop=3936:2624;354,0&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T09:01:04.636698",
+  "updatedAt": "2026-11-02T09:30:42.945101",
   "sites": [
     {
       "id": "hachima",
