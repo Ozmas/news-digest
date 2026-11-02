@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大物作曲家・田中公平さん「日本の既存のオーケストラはアニメやゲームを下に見る人がたくさんいる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582803.html",
+      "pubDate": "2026-11-02T13:20:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c7165eb3.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】名越スタジオ、解散",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461807.html",
+      "pubDate": "2026-11-02T13:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/c/cc9a01d9.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -182,6 +208,19 @@
       "link": "https://jin115.com/archives/52461792.html",
       "pubDate": "2026-11-02T11:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/73340aeb.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "編集雑記……64──熊本市現代美術館の地震後のレポートから",
+      "description": "2026年7月28日、16時27分に発生した令和8年熊本地震から、3カ月が経ちました。今号のキュレーターズノートでは、熊本市現代美術館（以下、CAMK）の副館長、坂本顕子さんに、地震発生からの美術館の動きを丁寧につづって [&#8230;]",
+      "link": "https://artscape.jp/article/81274/",
+      "pubDate": "Mon, 02 Nov 2026 02:00:28 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -730,19 +769,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/657f8567.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジかよ】古参VTuberさん、2025年末に引退していたことが判明… 外見そのままに中の人交代で活動継続へ「SNSは事務所が運営していた」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582720.html",
-      "pubDate": "2026-11-02T00:40:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dc0cbe2b.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -962,19 +988,6 @@
       "link": "https://brutus.jp/post-535548/",
       "pubDate": "Sun, 01 Nov 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男性さん、「女遊びを経験して落ち着いた人がタイプ」とかふざけたことを言う女性を完全論破",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461760.html",
-      "pubDate": "2026-11-01T16:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90ce4f80.jpg"
     },
     {
       "siteId": "brutus",
@@ -1393,19 +1406,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "星野太｜レイ・ブラシエ『解き放たれた無──啓蒙と絶滅』",
-      "description": "監訳：仲山ひふみ 翻訳：小林卓也・島田貴史 発行：河出書房新社 発行日：2026/03/20 発行元ウェブサイト：https://www.kawade.co.jp/np/isbn/9784309231754/ 本書の著書 [&#8230;]",
-      "link": "https://artscape.jp/article/80929/",
-      "pubDate": "Wed, 28 Oct 2026 02:00:23 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T04:00:45.768717",
+  "updatedAt": "2026-11-02T04:30:38.900299",
   "sites": [
     {
       "id": "hachima",
