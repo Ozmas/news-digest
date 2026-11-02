@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "映画や音楽…自分の“好きなもの”を深掘りする。カルチャー溢れる、幡ヶ谷のブックストア。",
+      "description": "本と出会う時間をじっくり味わえる喫茶スペース併設の書店から、アート本を探すこと自体がアート体験になる書店、複数の店主が共同で運営する話題のシェア型書店まで。わざわざ足を延ばしてでも訪れたい、全国の個性豊かなブックストアを紹介します！",
+      "link": "https://casabrutus.com/categories/culture/492788",
+      "pubDate": "Mon, 02 Nov 2026 22:00:43 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -977,6 +990,19 @@
       "thumbnail": ""
     },
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】東京スカイツリータウン西駐輪場1階が封鎖予定です。",
+      "description": "現在、東京スカイツリータウン東駐輪場（ライフ寄り）が機器入れ替え工事中ですが、こちらの工事が10月31日（土）に終了すると、西駐輪場（東京ミズマチ寄り）の工事が2026年11月3日（火・祝）から始まります。 西駐輪場の入 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/02/skytreenishi-cyurinjyo/",
+      "pubDate": "Sun, 01 Nov 2026 23:01:02 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8289-1024x767.jpeg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1185,6 +1211,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-9-11.jpeg"
     },
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】11月3日は千歳の江島杉山神社で弁天まつりが開催されます。",
+      "description": "鍼灸あんまの神様が祀られている千歳1丁目の江島杉山神社では2026年11月3日(火・祝)に「弁天まつり」が行われます。 一の橋のすぐそば。江戸時代の鍼術家として知られる杉山和一（杉山検校）の信仰とゆかりが色濃い神社です。 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/01/bentenmatsuri2026/",
+      "pubDate": "Sat, 31 Oct 2026 23:01:33 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/635054271134171154-1-1024x767.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1237,6 +1276,19 @@
       "thumbnail": ""
     },
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】向島郵便局近くにドーナツ店「桐松屋」がOPEN間近？",
+      "description": "向島郵便局から水戸街道方面へ。東武線のガードを越えた先に新木場のカフェ『soko station 146』が手掛けるオリジナルドーナツ専門店『桐松屋』がOPEN予定です。 2025年秋にはインスタグラムのアカウントが始動 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/31/kirimatsuyadonuts/",
+      "pubDate": "Fri, 30 Oct 2026 23:01:59 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8466-1024x767.jpeg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1260,19 +1312,6 @@
       "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
       "link": "https://casabrutus.com/categories/art/491328",
       "pubDate": "Fri, 30 Oct 2026 22:00:57 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "MHAAの干田正浩設計、パーソナル入浴剤専門店が東京・富ヶ谷にオープン。",
-      "description": "東京・富ヶ谷にオープンしたのは、老舗入浴剤メーカーが手がけるパーソナル入浴剤の専門店〈湯治laboratory〉。",
-      "link": "https://casabrutus.com/categories/design/494393",
-      "pubDate": "Fri, 30 Oct 2026 07:25:45 +0000",
       "thumbnail": ""
     },
     {
@@ -1313,6 +1352,19 @@
       "link": "https://artscape.jp/article/82156/",
       "pubDate": "Fri, 30 Oct 2026 01:00:59 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】イーストトーキョー最大規模のコーヒーフェス『Sumida Coffee Festival 2026 Autumn』11月7日(土)・8日(日)開催",
+      "description": "2026年11月7日(土)・8日(日)　『Sumida Coffee Festival 2026 Autumn』が開催されます。 老舗ロースタリーから新しくできた店舗までコーヒー店、スイーツ・パン店などが集結。有名ロース [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/30/sumidacoffeefestival2026autumn/",
+      "pubDate": "Thu, 29 Oct 2026 23:01:18 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/Sumida-Coffee-Festival-2026-Autum3.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1380,6 +1432,19 @@
       "thumbnail": ""
     },
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】山形県米沢市×TERMINA『米沢んまいもん祭』を開催！",
+      "description": "山形県米沢市×TERMINA『米沢んまいもん祭』。 はこビュンで産地直送！　旬のとれたて「舘山りんご」など山形県米沢市の“んまいもん”が大集合。 2026年10月31日（土）・11月1日（日）の2日間、JR錦糸町駅南口改 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/29/yonezawanmaimonmatsuri/",
+      "pubDate": "Wed, 28 Oct 2026 23:01:51 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/yonezawa4.jpg"
+    },
+    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1391,6 +1456,45 @@
       "link": "https://artscape.jp/article/80355/",
       "pubDate": "Wed, 28 Oct 2026 02:00:56 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】悲報…。唯一無二のボリュームと味わい。向島の人気店「角萬」が閉店しました。",
+      "description": "向島3丁目、水戸街道沿いの手打ちそば「角萬」。 蔦に覆われた外観が印象的な蕎麦店です。 唯一無二ともいえる極太の蕎麦を味わえる店として有名でした。 2026年10月中旬、筆者のもとにも「角萬が閉店するらしい」という情報が [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/28/kadoman-close/",
+      "pubDate": "Tue, 27 Oct 2026 23:01:07 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8419-1024x767.jpeg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】錦糸町の街中華「百花亭」夜の部は「こぞうの台所」が営業中です。",
+      "description": "先日お伝えしました昼営業で復活した錦糸町の町中華「百花亭」 【墨田区】錦糸町北口、人気の町中華「百花亭」が復活しています。 いつも号外NET墨田区をご覧いただきましてありがとうございます。今回は読者さまからの情報提供をも [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/27/kozounodaidokoro/",
+      "pubDate": "Mon, 26 Oct 2026 23:01:07 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/att.kNAWKEGsBWwRN8AmxpQR3ceD1YdoRXb-dhdyAHFjC5A-1024x767.jpeg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】本所吾妻橋駅すぐ「和韓ブランチ 熾き火」が2026年10月23日（金）の営業をもって閉店となりました。",
+      "description": "本所吾妻橋駅すぐ「和韓ブランチ 熾き火」が2026年10月23日（金）の営業をもって閉店となりました。 2024年11月のOPEN以来、素敵な店内と目でも舌でも楽しめる素敵なお料理の数々で、あっという間に人気のお店となり [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/26/okibi-close/",
+      "pubDate": "Sun, 25 Oct 2026 23:01:02 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8316-1024x767.jpeg"
     },
     {
       "siteId": "buzzfeed",
@@ -1469,6 +1573,32 @@
       "link": "https://www.buzzfeed.com/jp/kahorimachida/mofu20261023",
       "pubDate": "Sat, 24 Oct 2026 19:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/08/subbuzz/lxyUS05HP.png?crop=846:564;416,142&resize=1250:830"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】両国4丁目の三菱UFJ銀行本所支店・本所中央支店がお向かいにお引越ししています。",
+      "description": "緑一丁目交差点そばの三菱UFJ銀行「本所支店」「本所中央支店」の移転について2026年8月にもお伝えしました。 【墨田区】緑１丁目交差点そば、旧みずほ銀行跡地のビルに三菱UFJ銀行のATMコーナーが出来ました。 ２０２５ [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/25/ufjhonjyo-hikkoshi/",
+      "pubDate": "Sat, 24 Oct 2026 23:01:12 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8326-1024x767.jpeg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】サンマルクカフェ＆茶　両国駅東口にOPENしました。",
+      "description": "先日もお伝えしました通り、両国駅東口ガード向いに「サンマルクカフェ＆茶　両国駅東口店」が2026年10月21日にOPENしました 【墨田区】両国駅ガード沿いにド迫力の力士画像が！～続、新築ビルテナント速報です。 先日もお [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/10/24/saintmarccha-open/",
+      "pubDate": "Fri, 23 Oct 2026 23:01:16 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8335-1-1024x767.jpeg"
     },
     {
       "siteId": "buzzfeed",
@@ -1562,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T22:00:55.697189",
+  "updatedAt": "2026-11-02T22:30:41.392665",
   "sites": [
     {
       "id": "hachima",
