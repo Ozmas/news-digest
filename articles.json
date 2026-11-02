@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【Amazon】最大75％オフ！ 価格が一気に下がった注目アイテム30選（11月2日）",
+      "description": "毎日お得なタイムセールを開催しているAmazon。家電・食品・ファッションなど、さまざまなカテゴリーのアイテムを特別価格でゲットできるチャンス。 本日は、価格が一気に下がった注目のアイテムを厳選ピックアップしてみたぞ。  [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/02/2859099/",
+      "pubDate": "Mon, 02 Nov 2026 04:00:06 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5952_b6da97.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【東京・オンライン】第21回難民映画祭2026",
+      "description": "国連UNHCR協会による「第21回難民映画祭2026」がオンラインと劇場にて上映されます。 2006年に始まった「難民映画祭」は、日本初の難民に焦点をあてた映画祭です。日本社会で難民への共感と支援の輪を広げることを目的に [&#8230;]",
+      "link": "https://artscape.jp/article/82552/",
+      "pubDate": "Mon, 02 Nov 2026 04:00:02 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【つよい】日本人「若者へ、出勤前に自慰行為はするな」　→　中国人変態紳士に日本人がリプで完敗してしまう！　レベルが違いすぎるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582801.html",
+      "pubDate": "2026-11-02T13:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/6/361d03df.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】スーパーで特売品だった刺身をGoogleのAIで画像検索してみた　→　まさかの信じられない恐ろしい結果に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582797.html",
+      "pubDate": "2026-11-02T12:40:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c98d3264.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -717,32 +769,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/4/54e6df24-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【今週発売ゲーム】『ゼルダの伝説 時のオカリナ』『クライムライト』ほか、11月2～8日発売タイトルまとめ！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582495.html",
-      "pubDate": "2026-11-02T00:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c0f143e.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "東京新聞の望月衣塑子氏、対談本で『日本中学生新聞』の川中だいじさんを取り上げるもデタラメばかり書いてしまい本人ブチギレ → 書店の在庫8000部を回収へ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582707.html",
-      "pubDate": "2026-11-01T23:20:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/4/14579a57.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1133,19 +1159,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "福島県の道の駅37駅を全制覇したので10選まとめ / 900駅巡ったマニアのオススメ「ポケモンが公園になっている道の駅」など",
-      "description": "全国に1200以上存在する「道の駅」。その土地ならではの絶品グルメや新鮮な地場野菜、極上温泉からアクティビティまで、今や単なる休憩スポットを超えて旅のメイン目的地となっている。 今回スポットを当てるのは、広大な面積と豊か [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/31/2858069/",
-      "pubDate": "Sat, 31 Oct 2026 02:55:00 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_4653-1.jpeg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1390,19 +1403,6 @@
       "description": "監訳：仲山ひふみ 翻訳：小林卓也・島田貴史 発行：河出書房新社 発行日：2026/03/20 発行元ウェブサイト：https://www.kawade.co.jp/np/isbn/9784309231754/ 本書の著書 [&#8230;]",
       "link": "https://artscape.jp/article/80929/",
       "pubDate": "Wed, 28 Oct 2026 02:00:23 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【東京】六本木アートナイト2026",
-      "description": "東京・六本木の街を舞台に、アートの祭典「六本木アートナイト2026」が開催されます。 「六本木アートナイト」は、美術館や文化施設、大型複合施設、商店街などが集まる六本木の街で行なわれる大規模な文化イベントです。 現代アー [&#8230;]",
-      "link": "https://artscape.jp/article/81944/",
-      "pubDate": "Wed, 28 Oct 2026 01:00:05 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T03:30:39.809050",
+  "updatedAt": "2026-11-02T04:00:45.768717",
   "sites": [
     {
       "id": "hachima",
