@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "スペイン国営放送「日本の新幹線は開業から62年間、脱線事故や乗客の死亡事故を一度も起こしていない。鉄道に対する哲学がスペインと違う」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582938.html",
+      "pubDate": "2026-11-03T00:05:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ad0716a3.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "とある地下アイドル「彼氏、いないよ？」ﾊﾟｼｬｯ → 可愛い自撮りを公開するも、ヤバイものが映ってるのがバレてファンを恐怖に陥れるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461826.html",
+      "pubDate": "2026-11-03T00:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/1/c11be08c-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "香港で飲み物に薬物混入され緊急搬送された浜崎真緒さん、Xで経緯を説明「人生で初めて薬物というものに直面しました」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10582930.html",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/e/2e3184b8-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "中野ブロードウェイで盗まれた高級時計、◯◯つきで”宅配”で返却されるｗｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582807.html",
-      "pubDate": "2026-11-02T13:40:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/91534d3c-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1014,19 +1027,6 @@
       "link": "https://jin115.com/archives/52461770.html",
       "pubDate": "2026-11-02T04:00:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/198060e7-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "カードゲームの大会で「1戦も試合せずに優勝」というとんでもない事件発生！7人が参加した大会だったがまさかの◯◯で・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461785.html",
-      "pubDate": "2026-11-02T01:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/657f8567.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T15:00:49.768233",
+  "updatedAt": "2026-11-02T15:30:44.665711",
   "sites": [
     {
       "id": "hachima",
