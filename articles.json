@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「PS5のディスクドライブ、ゲットだぜ！最初からヨドバシで買えばよかったんや……ん？」　→　とんでもないモノを発見してしまい震える…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582773.html",
+      "pubDate": "2026-11-02T10:30:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dc605722.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -676,19 +689,6 @@
       "link": "https://brutus.jp/post-535497/",
       "pubDate": "Sun, 01 Nov 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "訪日アメリカ人さん、ビックカメラの行列に並んだのに日本人しかワンピースカードを買えなくてブチギレ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582676.html",
-      "pubDate": "2026-11-01T20:30:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/e/3ec8eb3f.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T01:23:43.723947",
+  "updatedAt": "2026-11-02T01:30:39.439432",
   "sites": [
     {
       "id": "hachima",
