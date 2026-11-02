@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「唐揚げ弁当298円」のニハマル弁当に2年ぶりに行ってみたら看板がない！ さすがに無理かと思いきや、やっぱり踏ん張ってた",
+      "description": "マクドナルドのビッグマックが単品で500円の時代。とどまることを知らない物価高騰の中でいくつもの移りゆく価格を眺めている今日この頃は、まさしく値上げのTomorrow never knowsだ。優しさだけじゃ生きられない [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/02/2857830/",
+      "pubDate": "Mon, 02 Nov 2026 01:00:37 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/niha2.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【怖すぎ】ダークウェブの闇市場、今は「IDとパスワードのリスト」ではなく「◯◯◯◯」が取引されている模様　→　企業への不正アクセスも容易に可能になる恐ろしい情報だった…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582768.html",
+      "pubDate": "2026-11-02T10:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6e8389f5.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "元人気セクシー女優さん、香港でヤバイことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461802.html",
+      "pubDate": "2026-11-02T10:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/899929f4-s.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -652,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/e/3ec8eb3f.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ペルソナ1』リメイク映像が流出か？本物かどうかファンの間でも意見分かれる「ただのAI生成」「社内向けのコンセプト映像では」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582673.html",
-      "pubDate": "2026-11-01T20:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/5/b547da8e.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -845,19 +871,6 @@
       "link": "https://jin115.com/archives/52461755.html",
       "pubDate": "2026-11-01T14:00:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/c/ac214a87.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気コスプレイヤー伊織もえさんの投稿で始まった大海賊時代に新展開！マジかよこれ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461750.html",
-      "pubDate": "2026-11-01T13:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/02790306-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1131,19 +1144,6 @@
       "link": "https://rocketnews24.com/2026/10/31/2857532/",
       "pubDate": "Sat, 31 Oct 2026 01:00:16 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Shimanami01.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ナゾ】渋谷のある場所に “動く壁” 出現！ 決済して触れると「ゴゴゴ……」と動いて中から出てくるのは…",
-      "description": "「誰が何のためにこんなところに……」、そんな不可解な場所が全国各地に存在する。それらはきっと明確な目的があって設けられたものと思うが、場合によっては真意を汲みかねることもある。 最近、SNSで一部の人からにわかに注目を集 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/31/2858599/",
-      "pubDate": "Sat, 31 Oct 2026 00:00:45 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/kabeuranai.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T01:00:46.422448",
+  "updatedAt": "2026-11-02T01:23:43.723947",
   "sites": [
     {
       "id": "hachima",
