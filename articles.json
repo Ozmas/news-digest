@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "古きを残して、形は今へ。〈HOSOO MEN〉のバルカラーコート：Brutus Best Bets",
+      "description": "古きを残して、形は今へ 1688年創業の西陣織の老舗〈HOSOO〉が手がける〈ホソオ メン〉。ブランドが着目したのは、かつて日本の暮らしに根づいていた大麻布。難しいとされてきたヘンプの機械紡績を実現した古布研究家・吉田真 [&#8230;]",
+      "link": "https://brutus.jp/post-535553/",
+      "pubDate": "Mon, 02 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "韓国人「旅行で彼女が俺を財布扱いしてきて冷めた」⇒ 日本人男性から同情の声が殺到ｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582825.html",
+      "pubDate": "2026-11-02T16:30:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a188a6f.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【99円】『だぶるぷれい』 『天牌』 『モンキーピーク』など、日本文芸社の人気漫画が「ほぼ全巻99円」の激安セール開催！！いいおっさんのマンガの日フェア！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461814.html",
+      "pubDate": "2026-11-02T16:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/16ce60aa.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "カプセルホテルがアート空間に!? 東京・神保町にて「Tokyo Jazz Club」が初開催。",
+      "description": "東京・神保町の旧カプセルホテルを舞台に、アート、音楽、建築が交差する実験的なアート・パフォーマンスイベント「Tokyo Jazz Club」が開催。2026年11月1日から8日までの8日間、国内外のアーティストやミュージシャンが集い、建物全体をひとつの作品へと変貌させます。",
+      "link": "https://casabrutus.com/categories/art/495521",
+      "pubDate": "Mon, 02 Nov 2026 07:25:27 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -782,19 +834,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-121.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【地獄】10年以上前の『2ちゃんねる』で「結婚と恋愛はオワコン！男の独身生活サイコー！俺らに捨てられた女さんざまぁｗ」　→　イキリ住人達の現在の悲惨すぎる末路がこちら…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582758.html",
-      "pubDate": "2026-11-02T07:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3d3fc549.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -990,19 +1029,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "11月発売の注目ゲームまとめ！『グランド・セフト・オート6』『ゼルダの伝説 時のオカリナ』がついにくるぞおおお！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461771.html",
-      "pubDate": "2026-11-01T18:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/678ff6da.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1026,19 +1052,6 @@
       "description": "繊細にして強靭な、一本の螺旋 〈イッセイ ミヤケ アイズ〉が長年の開発を経て生み出した「COIL」は、螺旋の構造美を眼鏡へと落とし込んだ意欲作。ブリッジやヨロイには直径約1㎜のβチタン線材をくるりと成形。触れればわずかに [&#8230;]",
       "link": "https://brutus.jp/post-535548/",
       "pubDate": "Sun, 01 Nov 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ACE COOLのサードアルバム『Haigamine』がリリース。制作の背景と込められた思いを紐解く",
-      "description": "「『Haigamine』で、ラップシーンの真ん中へ行きたい」 近年、ラップシーンでの存在感を強め、唯一無二のポジションを築いてきたACE COOL。客演やライブのたびに目立つのは、派手な振る舞いよりも、マイクを握った瞬間 [&#8230;]",
-      "link": "https://brutus.jp/post-531849/",
-      "pubDate": "Sun, 01 Nov 2026 03:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1247,19 +1260,6 @@
       "description": "東京・富ヶ谷にオープンしたのは、老舗入浴剤メーカーが手がけるパーソナル入浴剤の専門店〈湯治laboratory〉。",
       "link": "https://casabrutus.com/categories/design/494393",
       "pubDate": "Fri, 30 Oct 2026 07:25:45 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "高度な技術で、儚い光を描く。ロナン・ブルレックが手掛けた新作ライト。",
-      "description": "ロナン・ブルレックが〈FLOS〉のために手がけたペンダントライト《Lu ce Sferica》。",
-      "link": "https://casabrutus.com/categories/design/494713",
-      "pubDate": "Fri, 30 Oct 2026 02:25:31 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T07:30:45.350820",
+  "updatedAt": "2026-11-02T08:00:50.506758",
   "sites": [
     {
       "id": "hachima",
