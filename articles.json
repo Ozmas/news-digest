@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "香港で飲み物に薬物混入され緊急搬送された浜崎真緒さん、Xで経緯を説明「人生で初めて薬物というものに直面しました」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582930.html",
+      "pubDate": "2026-11-02T23:20:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/85dd15c6.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +520,6 @@
       "link": "http://blog.esuteru.com/archives/10582807.html",
       "pubDate": "2026-11-02T13:40:56+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/91534d3c-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大物作曲家・田中公平さん「日本の既存のオーケストラはアニメやゲームを下に見る人がたくさんいる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582803.html",
-      "pubDate": "2026-11-02T13:20:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c7165eb3.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T14:00:52.525863",
+  "updatedAt": "2026-11-02T14:30:54.376752",
   "sites": [
     {
       "id": "hachima",
