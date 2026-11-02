@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "スタバの新作は「ティー尽くし」いつもと違う『ジョイフルメドレー』に感動し、やっぱり美味しい『アールグレイフラペ』に圧倒される",
+      "description": "あっという間に11月だ。ハロウィンが終わり、世間は早くも年末年始モードに舵を切りつつある。スターバックスも2026年11月2日より、ホリデーシーズンに突入。新作ドリンクが3種登場だ。 『ジョイフルメドレー ストロベリー  [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/02/2859022/",
+      "pubDate": "Mon, 02 Nov 2026 02:00:06 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/6a71009c-e068-4d4e-b190-400bf23cce3a.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "artscape編集部｜カタログ＆ブックス｜2026年10月［近刊編］",
+      "description": "展覧会カタログ、アートやデザインにまつわる近刊書籍をアートスケープ編集部が紹介します。 ミケランジェロのドームを救え──建築に革命を起こした教皇と三人の数学者 著者：ウェイン・カレイジャン 訳者：飛ヶ谷潤一郎 発行：鹿島 [&#8230;]",
+      "link": "https://artscape.jp/article/80726/",
+      "pubDate": "Mon, 02 Nov 2026 02:00:03 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1133,19 +1159,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/27/05/subbuzz/kt5ruPJtr.jpg?crop=280:187;297,190&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "にわかでも問題なし！ レンタサイクルで走るサイクリングの聖地「しまなみ海道」が最高だった",
-      "description": "走ると気持ちのいい道は日本中にあるけれど、やはりサイクリングの聖地といえば「しまなみ海道」ではないだろうか。 世界中から歴戦のサイクリストが集まるだけでなく、「レンタサイクル制度の充実」「わかりやすいルート」「サイクリス [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/31/2857532/",
-      "pubDate": "Sat, 31 Oct 2026 01:00:16 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Shimanami01.jpeg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1419,19 +1432,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/04/subbuzz/FUW9viq7s.jpg?crop=3955:2637;602,237&resize=1250:830"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "杉江あこ｜DOCOMOMO Japan 300選 選定記念「モダン・ムーブメントと建築の現在」",
-      "description": "会期：第1部「価値と魅力」2026/08/29～2026/11/23、第2部「継承と活用」2026/12/03～2027/02/23 会場：国立近現代建築資料館［東京都］ 公式サイト：https://www.bunk [&#8230;]",
-      "link": "https://artscape.jp/article/80557/",
-      "pubDate": "Tue, 27 Oct 2026 02:00:20 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T01:30:39.439432",
+  "updatedAt": "2026-11-02T02:00:47.830999",
   "sites": [
     {
       "id": "hachima",
