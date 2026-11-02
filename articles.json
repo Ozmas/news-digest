@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "大手女性Vtuber、1年前から〇〇だったことを発表しガチで炎上「詐欺だろこれ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461808.html",
+      "pubDate": "2026-11-02T16:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/15cf0586.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -990,19 +1003,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/678ff6da.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "外国人「なんで日常アニメの舞台って必ず日本なの？アメリカじゃダメなの？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461764.html",
-      "pubDate": "2026-11-01T17:40:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/af47fe1f-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1094,6 +1094,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sirunasi07.jpeg"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「抱っこしてほしくて…」 豆柴の子犬が見せた、何度でも見たくなる独特な踊りに「かわいい」「坂田師匠みたい」の声続々",
+      "description": "飼い主さんに抱っこしてほしすぎる柴犬の子犬が見せた、独特でかわいい踊りがSNSで話題になっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/kahorimachida/nagi20261028",
+      "pubDate": "Sat, 31 Oct 2026 21:01:02 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/28/05/subbuzz/ilXJ9_78t.jpg?crop=1736:1157;232,381&resize=1250:830"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1183,19 +1196,6 @@
       "link": "https://casabrutus.com/categories/design/494689",
       "pubDate": "Sat, 31 Oct 2026 02:25:25 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "一瞬、目を離した隙に…？ 買い物中にハスキーがまさかの犯行→「うちの子も経験ある」と共感の声",
-      "description": "おもちゃをくわえてルンルン……！ ペットショップ帰りのハスキーの姿に「うちの子も経験ある……！」など、3.3万件を超える「いいね」が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yukiadachi/otobikun-kawaiiyarakashi",
-      "pubDate": "Fri, 30 Oct 2026 21:31:04 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/27/05/subbuzz/kt5ruPJtr.jpg?crop=280:187;297,190&resize=1250:830"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T07:00:47.759316",
+  "updatedAt": "2026-11-02T07:30:45.350820",
   "sites": [
     {
       "id": "hachima",
