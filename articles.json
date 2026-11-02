@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】ラブライブ声優さん、プロフィールからラブライブを削除した事がオタクにバレて長文謝罪・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582817.html",
+      "pubDate": "2026-11-02T15:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bb1f16a8.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "約2時間の大行列！ 関東に再上陸した『スガキヤ』に行ってみた / レアな「モーニングセット」を狙うのが超オススメ",
+      "description": "関東への再上陸で大盛り上がりを見せている名古屋のラーメンチェーン「スガキヤ」。10月15日に神奈川県長津田にオープンした店舗は連日大行列ができるほどの大盛況っぷりだ。 勢いそのまま、29日には関東2店舗目となる本厚木ミロ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/02/2858861/",
+      "pubDate": "Mon, 02 Nov 2026 06:00:07 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/42994_0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中国国防省、ドラマ『VIVANT』にブチギレ「侵略の歴史の美化をもくろんでいる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582815.html",
+      "pubDate": "2026-11-02T14:30:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/2666b0ea-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -607,7 +646,7 @@
       "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
       "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
       "title": "BRUTUS特別編集号「ヘラルボニーを、着てみたら。」音声ガイド",
-      "description": "イントロダクション HERALBONY MEETS...あの人が、ヘラルボニーを着てみたら。 工場で知る服作りへのこだわり HERALBONY IN IWATE 木下龍也、ヘラルボニーのルーツと出会う旅。 「喜ばしい偏り [&#8230;]",
+      "description": "11月2日発売のBRUTUS特別編集号「ヘラルボニーを、着てみたら。」では、目が見えない方にも特集のコンテンツの一部をお楽しみいただけるように、音声ガイドを制作中。11月6日（金）頃までの公開を予定しています。もう少々お [&#8230;]",
       "link": "https://brutus.jp/post-532498/",
       "pubDate": "Sun, 01 Nov 2026 23:12:24 +0000",
       "thumbnail": ""
@@ -754,32 +793,6 @@
       "link": "https://jin115.com/archives/52461770.html",
       "pubDate": "2026-11-02T04:00:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/198060e7-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "時代に負けたシャウエッセンがクソコラ人気アイテムにｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582692.html",
-      "pubDate": "2026-11-02T04:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6d090da.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "競馬・天皇賞秋で1番人気に1000万単位でツッコむ人が続出→結果が……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582659.html",
-      "pubDate": "2026-11-02T03:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/445dcfdf-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1144,19 +1157,6 @@
       "link": "https://rocketnews24.com/2026/10/31/2858402/",
       "pubDate": "Sat, 31 Oct 2026 12:00:45 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2159a.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ニフティ温泉ランキング2025で大健闘！ スーパー銭湯『泉州の湯』に行ってみたら意外と最高だった理由 / 関西空港",
-      "description": "大阪から上京して身に染みて思ったことがある。それは外の人の言う大阪は市内のイメージということだ。「大阪ってこうなんでしょ？」トークにあまりピンと来ない私（中澤）の生まれは泉州の泉南郡。大阪出身者からすら何があるか知らない [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/31/2856974/",
-      "pubDate": "Sat, 31 Oct 2026 10:00:38 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sensyu13.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T05:30:41.161554",
+  "updatedAt": "2026-11-02T06:00:48.734614",
   "sites": [
     {
       "id": "hachima",
