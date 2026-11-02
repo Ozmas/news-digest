@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【画像】配信の王・加藤純一さん、遂にタトゥー（のようなもの）を入れるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461844.html",
+      "pubDate": "2026-11-03T04:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/f/ff3929eb-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "個人勢VTuberの「同接が奇数だとサキュバスになるが、偶数だとバスになる配信」がクレイジーすぎるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582908.html",
+      "pubDate": "2026-11-03T04:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/c/5ce2c82f-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +522,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_4253_1920.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】グラボの値段が意味分からん事になり嘆きの声が殺到！「もうPCゲーム市場終わるぞ」「買う気失せる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582822.html",
-      "pubDate": "2026-11-02T16:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/6/56f020a9-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -949,19 +962,6 @@
       "link": "https://rocketnews24.com/2026/11/02/2858145/",
       "pubDate": "Mon, 02 Nov 2026 00:00:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/beanieworkman.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】女優・平愛梨さん、アンチコメントに反応してしまう→【朗報】メンタル最強すぎた結果ｗｗｗｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461789.html",
-      "pubDate": "2026-11-02T09:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/4/940f2b02.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T19:00:55.212551",
+  "updatedAt": "2026-11-02T19:30:48.800372",
   "sites": [
     {
       "id": "hachima",
