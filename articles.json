@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "飲む勃〇薬！？「午後の紅茶　おいしい無糖ミルクティー」が話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582913.html",
+      "pubDate": "2026-11-03T06:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/d/1df591e9-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -468,19 +481,6 @@
       "link": "https://jin115.com/archives/52461817.html",
       "pubDate": "2026-11-02T17:00:37+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/c/4c581b28.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ひろゆき、家族系YouTuberの相次ぐ収益化停止をぶった切る「子供の稼いだ金で親が◯◯するのを恥と感じないくらい劣化した日本社会」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582831.html",
-      "pubDate": "2026-11-02T17:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/3/63fb8fa6.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T21:00:49.166970",
+  "updatedAt": "2026-11-02T21:30:40.468707",
   "sites": [
     {
       "id": "hachima",
