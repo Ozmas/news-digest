@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "エストニア出身の新人力士さん、身体検査で握力を測定→“撮影禁止”になってしまうレベルのとんでもない記録が出るｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461833.html",
+      "pubDate": "2026-11-03T03:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/5172397e.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1003,19 +1016,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-121.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ラブライブ声優さん、自身のプロフィールから「ラブライブのキャラ役」を削除→ファンがブチギレ→とんでもない長文で謝罪「本当に本当にごめんなさい！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461788.html",
-      "pubDate": "2026-11-02T07:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/b/2b8aafd9.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T17:30:43.460419",
+  "updatedAt": "2026-11-02T18:01:00.329428",
   "sites": [
     {
       "id": "hachima",
