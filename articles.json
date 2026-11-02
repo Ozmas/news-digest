@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2739回「九尾の九ちゃん⑮」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/11/02/2858700/",
+      "pubDate": "Mon, 02 Nov 2026 05:00:36 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2739-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中野ブロードウェイで盗まれた高級時計、◯◯つきで”宅配”で返却されるｗｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582807.html",
+      "pubDate": "2026-11-02T13:40:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/91534d3c-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -743,19 +769,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7efbc81c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【！？】PS版『テイルズオブデスティニー』、裏技(バグ)でしか仲間にできなかった主人公の妹・リリスを正式に仲間にする方法が29年越しに発見されるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582723.html",
-      "pubDate": "2026-11-02T01:30:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/ab43b6a8.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1144,19 +1157,6 @@
       "link": "https://rocketnews24.com/2026/10/31/2856974/",
       "pubDate": "Sat, 31 Oct 2026 10:00:38 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/sensyu13.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ランチが終わると料理が消える店。しかしポテトだけは絶対にある【カンバ通信：第541回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしている、ケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べようと思い、あるレストランへ行ってきた。 店の名前は「Let&#8217;s Fry Away」。 このレ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/10/31/2857192/",
-      "pubDate": "Sat, 31 Oct 2026 08:00:54 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/eye_1920_635ca3.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T04:30:38.900299",
+  "updatedAt": "2026-11-02T05:00:47.377327",
   "sites": [
     {
       "id": "hachima",
