@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "体操界のレジェンド・内村航平がやっぱりヤバすぎ！完全にAIだろコレ……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582906.html",
+      "pubDate": "2026-11-03T03:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/2/f2b1aa16.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "http://blog.esuteru.com/archives/10582822.html",
       "pubDate": "2026-11-02T16:00:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/6/56f020a9-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "整形女子「整形にはセンスが必要です。この写真を見比べて適当にやればいいってもんじゃないのが一発で分かりますね」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582819.html",
-      "pubDate": "2026-11-02T15:30:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d0a405ff.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T18:01:00.329428",
+  "updatedAt": "2026-11-02T18:30:47.813451",
   "sites": [
     {
       "id": "hachima",
