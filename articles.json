@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "都立高校の1年女子、同級生に「もう好きになれない」と返答され背後から包丁で刺して逮捕「政治的な話題で口論し、仲直りできなければ心中しようと思った」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582893.html",
+      "pubDate": "2026-11-02T20:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/b/9b957d1a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ウーバーイーツで〇〇を大量に注文すると超絶安くなる裏技が話題に！一生食うのに困らない量が届いてマジで激熱だからお前ら急げ！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461828.html",
+      "pubDate": "2026-11-02T20:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/4/045c8d81-s.png"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -522,19 +548,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-6-13.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】FF14高齢プレイヤー「イベントのゲスト配信者達、誰も知らない。そろそろ引退かな」　→　配信者オタクから叩かれて炎上してしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582788.html",
-      "pubDate": "2026-11-02T11:30:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/d/fd005dd1.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1001,19 +1014,6 @@
       "link": "https://jin115.com/archives/52461781.html",
       "pubDate": "2026-11-01T23:00:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1c3233a2-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ハロウィン渋谷でゴミ拾いをしていた女性配信者さん、ゴミと間違ってスカートを引っ張ってしまい衝撃の展開にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461773.html",
-      "pubDate": "2026-11-01T22:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5c70fded-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T11:00:51.428221",
+  "updatedAt": "2026-11-02T11:30:43.359352",
   "sites": [
     {
       "id": "hachima",
