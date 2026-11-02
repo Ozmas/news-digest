@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "FF14プレイヤー「公式配信のゲスト、誰一人知らない。そろそろ引退かな」→Twitch界隈がブチギレ→これネトゲやってたら知ってて当然のメンツなの？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461816.html",
+      "pubDate": "2026-11-02T19:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17a70edf-s.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "相方未満 特別編：ロングコートダディ・兎 × マユリカ・阪本",
+      "description": "頑張るのは苦手。だから素のまま、演じるように 譬えが常に１００点満点。同世代で一目置く存在 2人が選ぶ互いの名作ネタ 選者：阪本（マユリカ） 『旅人』 2020年のライブ『ロングコートダディのとんぷう〜ザ・ギース編〜』で [&#8230;]",
+      "link": "https://brutus.jp/post-535696/",
+      "pubDate": "Mon, 02 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "サントリーHD、個人情報約10万人分が漏えい　マイクロソフトのクラウドサービスが不正アクセスを受け",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582885.html",
+      "pubDate": "2026-11-02T18:40:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6d4eaf4c.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -587,19 +626,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/niha2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【怖すぎ】ダークウェブの闇市場、今は「IDとパスワードのリスト」ではなく「◯◯◯◯」が取引されている模様　→　企業への不正アクセスも容易に可能になる恐ろしい情報だった…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582768.html",
-      "pubDate": "2026-11-02T10:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6e8389f5.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -977,19 +1003,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5c70fded-s.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "障害者「僕たちは結局、健常者の養分なんだよな」→健常者から怒りの声が殺到・大炎上",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461749.html",
-      "pubDate": "2026-11-01T21:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/90c1d5fc.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1079,19 +1092,6 @@
       "link": "https://rocketnews24.com/2026/11/01/2857294/",
       "pubDate": "Sun, 01 Nov 2026 08:00:19 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/信濃路.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "繊細にして強靭な、一本の螺旋。〈ISSEY MIYAKE EYES〉の眼鏡：Brutus Best Bets",
-      "description": "繊細にして強靭な、一本の螺旋 〈イッセイ ミヤケ アイズ〉が長年の開発を経て生み出した「COIL」は、螺旋の構造美を眼鏡へと落とし込んだ意欲作。ブリッジやヨロイには直径約1㎜のβチタン線材をくるりと成形。触れればわずかに [&#8230;]",
-      "link": "https://brutus.jp/post-535548/",
-      "pubDate": "Sun, 01 Nov 2026 08:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T09:30:42.945101",
+  "updatedAt": "2026-11-02T10:00:48.208960",
   "sites": [
     {
       "id": "hachima",
