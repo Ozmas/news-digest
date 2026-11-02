@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "お前が冷笑すな！ 繰り広げられるサンタさんいるいない論争！　四コマサボタージュFB第122回「実在」",
+      "description": "UMAとか妖精とかのジャンルにサンタさんを当てはめるとしたら、一体どれに分類されるんだろうね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/03/2833469/",
+      "pubDate": "Mon, 02 Nov 2026 23:00:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-122.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中学の校内放送で「バニ〜ラバニラバニ〜ラ」を持ちこんだガキがいて教師が速攻却下　→　「なんでダメなんすか」とガキがゴネるも「◯◯◯」の一言で完璧に黙らせた話",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582982.html",
+      "pubDate": "2026-11-03T08:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bff89234.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】日本人、物価上昇で「もういくら働いても無駄かな」と思い始める",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461838.html",
+      "pubDate": "2026-11-03T08:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/821de84f.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「the TRUE DIARY show」第21回：古本同人誌『BORO』同人・林 大地",
+      "description": "８月31日（月） 過去に触れる日々。 荻窪と阿佐ヶ谷の古本屋を巡る。岩森書店で大正中期の手彩色絵葉書を購入。大阪千日前の〈楽天地〉。「ミナミの大火」で灰燼（かいじん）と化した街を盛り上げるために建設された複合娯楽施設。1 [&#8230;]",
+      "link": "https://brutus.jp/post-529206/",
+      "pubDate": "Mon, 02 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】PS5/Switch2『覗怪（シカイ）』、Amazonで予約スタート！　科学ADVスタッフが手掛ける非科学オカルトサスペンスADV",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582980.html",
+      "pubDate": "2026-11-03T07:30:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dc39c3ff.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -13,6 +78,19 @@
       "link": "https://casabrutus.com/categories/culture/492788",
       "pubDate": "Mon, 02 Nov 2026 22:00:43 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジか】「ブラックコーヒー飲む人ってどんなやつだよと思ってたけど、おじさんになってから◯◯◯だと判明した」　→　わかると共感が殺到ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582979.html",
+      "pubDate": "2026-11-03T07:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/f/1f966af4.jpg"
     },
     {
       "siteId": "jin",
@@ -431,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6d4eaf4c.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【JNN世論調査】高市内閣の支持率、無敵モードに突入ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582881.html",
-      "pubDate": "2026-11-02T18:20:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6ff165f5-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -468,32 +533,6 @@
       "link": "https://rocketnews24.com/2026/11/02/2859077/",
       "pubDate": "Mon, 02 Nov 2026 09:00:12 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/6a6c28a2-088b-49ed-b3fa-7d2076745e6b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】今度はドイツが火の海に　平和的デモが暴力と略奪に変容",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582864.html",
-      "pubDate": "2026-11-02T18:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/84618dde-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画あり】GMO熊谷社長、記者会見で泣きながら謝罪　野々村議員みたいと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582842.html",
-      "pubDate": "2026-11-02T17:30:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/3/5339e9e7-s.jpg"
     },
     {
       "siteId": "jin",
@@ -663,19 +702,6 @@
       "link": "https://artscape.jp/article/82552/",
       "pubDate": "Mon, 02 Nov 2026 04:00:02 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "アラブX民「そのうちヨーロッパはイスラム教の国になる」→日本X民の“最悪の指摘”が世界中に拡散ｗｗｗｗｗｗｗｗｗ21万いいね突破ｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461796.html",
-      "pubDate": "2026-11-02T12:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb69fe9d.jpg"
     },
     {
       "siteId": "brutus",
@@ -990,19 +1016,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】東京スカイツリータウン西駐輪場1階が封鎖予定です。",
-      "description": "現在、東京スカイツリータウン東駐輪場（ライフ寄り）が機器入れ替え工事中ですが、こちらの工事が10月31日（土）に終了すると、西駐輪場（東京ミズマチ寄り）の工事が2026年11月3日（火・祝）から始まります。 西駐輪場の入 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/11/02/skytreenishi-cyurinjyo/",
-      "pubDate": "Sun, 01 Nov 2026 23:01:02 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8289-1024x767.jpeg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1053,19 +1066,6 @@
       "link": "https://rocketnews24.com/2026/11/01/2858407/",
       "pubDate": "Sun, 01 Nov 2026 12:00:03 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2160a.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "時計とスタイル：〈BARBER BOYS〉理容師・島田裕生のケーススタディ",
-      "description": "憧れのアメリカから昭和の日本へ。時計が映し出す美意識の変化 20代の頃は、洋服も時計もアメリカのヴィンテージ一辺倒だった〈バーバーボーイズ〉の理容師・島田裕生さん。腕元にも1950年代の〈エルジン〉など、古いアメリカ製の [&#8230;]",
-      "link": "https://brutus.jp/post-535497/",
-      "pubDate": "Sun, 01 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1198,32 +1198,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/28/05/subbuzz/ilXJ9_78t.jpg?crop=1736:1157;232,381&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ヨーグルトに「うまい棒」を漬けたら美味しくなるだと…AIのとんでもない提案を試してみた",
-      "description": "少し前に「ヨーグルトにココナッツサブレを漬けるとチーズケーキ風になる」という簡単レシピが流行っていた。 SNSでは作ってみたレポが多く投稿され、過去にはTBS「Nスタ」等でも取り上げられている。ロケットニュース24でも佐 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/01/2857682/",
-      "pubDate": "Sun, 01 Nov 2026 01:00:33 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-9-11.jpeg"
-    },
-    {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】11月3日は千歳の江島杉山神社で弁天まつりが開催されます。",
-      "description": "鍼灸あんまの神様が祀られている千歳1丁目の江島杉山神社では2026年11月3日(火・祝)に「弁天まつり」が行われます。 一の橋のすぐそば。江戸時代の鍼術家として知られる杉山和一（杉山検校）の信仰とゆかりが色濃い神社です。 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/11/01/bentenmatsuri2026/",
-      "pubDate": "Sat, 31 Oct 2026 23:01:33 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/635054271134171154-1-1024x767.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1274,19 +1248,6 @@
       "link": "https://casabrutus.com/categories/design/494689",
       "pubDate": "Sat, 31 Oct 2026 02:25:25 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】向島郵便局近くにドーナツ店「桐松屋」がOPEN間近？",
-      "description": "向島郵便局から水戸街道方面へ。東武線のガードを越えた先に新木場のカフェ『soko station 146』が手掛けるオリジナルドーナツ専門店『桐松屋』がOPEN予定です。 2025年秋にはインスタグラムのアカウントが始動 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/31/kirimatsuyadonuts/",
-      "pubDate": "Fri, 30 Oct 2026 23:01:59 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8466-1024x767.jpeg"
     },
     {
       "siteId": "casabrutus",
@@ -1354,19 +1315,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】イーストトーキョー最大規模のコーヒーフェス『Sumida Coffee Festival 2026 Autumn』11月7日(土)・8日(日)開催",
-      "description": "2026年11月7日(土)・8日(日)　『Sumida Coffee Festival 2026 Autumn』が開催されます。 老舗ロースタリーから新しくできた店舗までコーヒー店、スイーツ・パン店などが集結。有名ロース [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/30/sumidacoffeefestival2026autumn/",
-      "pubDate": "Thu, 29 Oct 2026 23:01:18 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/Sumida-Coffee-Festival-2026-Autum3.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1432,19 +1380,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】山形県米沢市×TERMINA『米沢んまいもん祭』を開催！",
-      "description": "山形県米沢市×TERMINA『米沢んまいもん祭』。 はこビュンで産地直送！　旬のとれたて「舘山りんご」など山形県米沢市の“んまいもん”が大集合。 2026年10月31日（土）・11月1日（日）の2日間、JR錦糸町駅南口改 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/29/yonezawanmaimonmatsuri/",
-      "pubDate": "Wed, 28 Oct 2026 23:01:51 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/yonezawa4.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1456,45 +1391,6 @@
       "link": "https://artscape.jp/article/80355/",
       "pubDate": "Wed, 28 Oct 2026 02:00:56 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】悲報…。唯一無二のボリュームと味わい。向島の人気店「角萬」が閉店しました。",
-      "description": "向島3丁目、水戸街道沿いの手打ちそば「角萬」。 蔦に覆われた外観が印象的な蕎麦店です。 唯一無二ともいえる極太の蕎麦を味わえる店として有名でした。 2026年10月中旬、筆者のもとにも「角萬が閉店するらしい」という情報が [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/28/kadoman-close/",
-      "pubDate": "Tue, 27 Oct 2026 23:01:07 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8419-1024x767.jpeg"
-    },
-    {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】錦糸町の街中華「百花亭」夜の部は「こぞうの台所」が営業中です。",
-      "description": "先日お伝えしました昼営業で復活した錦糸町の町中華「百花亭」 【墨田区】錦糸町北口、人気の町中華「百花亭」が復活しています。 いつも号外NET墨田区をご覧いただきましてありがとうございます。今回は読者さまからの情報提供をも [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/27/kozounodaidokoro/",
-      "pubDate": "Mon, 26 Oct 2026 23:01:07 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/09/att.kNAWKEGsBWwRN8AmxpQR3ceD1YdoRXb-dhdyAHFjC5A-1024x767.jpeg"
-    },
-    {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】本所吾妻橋駅すぐ「和韓ブランチ 熾き火」が2026年10月23日（金）の営業をもって閉店となりました。",
-      "description": "本所吾妻橋駅すぐ「和韓ブランチ 熾き火」が2026年10月23日（金）の営業をもって閉店となりました。 2024年11月のOPEN以来、素敵な店内と目でも舌でも楽しめる素敵なお料理の数々で、あっという間に人気のお店となり [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/26/okibi-close/",
-      "pubDate": "Sun, 25 Oct 2026 23:01:02 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8316-1024x767.jpeg"
     },
     {
       "siteId": "buzzfeed",
@@ -1573,32 +1469,6 @@
       "link": "https://www.buzzfeed.com/jp/kahorimachida/mofu20261023",
       "pubDate": "Sat, 24 Oct 2026 19:31:02 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/08/subbuzz/lxyUS05HP.png?crop=846:564;416,142&resize=1250:830"
-    },
-    {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】両国4丁目の三菱UFJ銀行本所支店・本所中央支店がお向かいにお引越ししています。",
-      "description": "緑一丁目交差点そばの三菱UFJ銀行「本所支店」「本所中央支店」の移転について2026年8月にもお伝えしました。 【墨田区】緑１丁目交差点そば、旧みずほ銀行跡地のビルに三菱UFJ銀行のATMコーナーが出来ました。 ２０２５ [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/25/ufjhonjyo-hikkoshi/",
-      "pubDate": "Sat, 24 Oct 2026 23:01:12 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8326-1024x767.jpeg"
-    },
-    {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】サンマルクカフェ＆茶　両国駅東口にOPENしました。",
-      "description": "先日もお伝えしました通り、両国駅東口ガード向いに「サンマルクカフェ＆茶　両国駅東口店」が2026年10月21日にOPENしました 【墨田区】両国駅ガード沿いにド迫力の力士画像が！～続、新築ビルテナント速報です。 先日もお [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/24/saintmarccha-open/",
-      "pubDate": "Fri, 23 Oct 2026 23:01:16 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8335-1-1024x767.jpeg"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T22:30:41.392665",
+  "updatedAt": "2026-11-02T23:31:03.579585",
   "sites": [
     {
       "id": "hachima",
