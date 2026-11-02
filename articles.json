@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "日用品図鑑：〈TAS WORKS〉デザイナー・古屋智英の愛用する〈レデッカー〉のミルクボトルブラシetc.",
+      "description": "〈＋C：タスク〉のブラケット照明 HAMON お店〈NODE〉でさまざまな作り手と出会い、〈TAS WORKS〉として空間設計を手がける中で、自然と生まれたオリジナルブランド〈＋C：タスク〉のブラケット照明「HAMON」 [&#8230;]",
+      "link": "https://brutus.jp/post-533659/",
+      "pubDate": "Mon, 02 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "楽しんご(47)「女ってマジで嫌いになる時がある。ご飯を奢ってもらったら当たり前。車で送ってもらったら当たり前。何その感覚？てめえも金出せよ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582892.html",
+      "pubDate": "2026-11-02T19:35:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/a/6a437441.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -574,19 +600,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "米津玄師さん、ヒットソング「さよーならまたいつか！」の対になる新曲「こんにちはごきげんよう！」を発表ｗｗｗｗ　「自分の葬式でこれを流してください」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582784.html",
-      "pubDate": "2026-11-02T11:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75fef34c.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1053,19 +1066,6 @@
       "link": "https://rocketnews24.com/2026/11/01/2858694/",
       "pubDate": "Sun, 01 Nov 2026 10:00:43 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/repo10280.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "綴る、わがままな部屋。登山家・服部文祥の居住空間学",
-      "description": "化石燃料に依存せずに循環する生活の場を求めて 横浜の住宅街にある築六〇年の中古住宅を「自宅」と呼び、関東近郊の廃山村にある築一二〇年以上の小さな民家を「百之助」と屋号で呼んでいる。最近はひと月の半分を百之助で過ごし、残り [&#8230;]",
-      "link": "https://brutus.jp/post-531048/",
-      "pubDate": "Sun, 01 Nov 2026 10:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T10:30:47.796202",
+  "updatedAt": "2026-11-02T11:00:51.428221",
   "sites": [
     {
       "id": "hachima",
