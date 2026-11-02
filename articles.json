@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "防災庁の緊急要請にも、備蓄好きの私は余裕 → 念のため防災グッズを確認したら「やべ、気づいてよかった…！」",
+      "description": "本日2026年11月2日、国の災害対応の司令塔の役割を担う防災庁が発足した。 発足に合わせて、防災庁は緊急要請を発表。内容は、食料などの備蓄や住宅の耐震化など、国民一人ひとりが主体的に取り組むよう求めたもの。 つまり、備 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/02/2859175/",
+      "pubDate": "Mon, 02 Nov 2026 07:00:45 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_4253_1920.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】グラボの値段が意味分からん事になり嘆きの声が殺到！「もうPCゲーム市場終わるぞ」「買う気失せる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582822.html",
+      "pubDate": "2026-11-02T16:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/6/56f020a9-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -782,19 +808,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アメリカ人「なんで日常系作品は日本が舞台なの？アメリカじゃダメ？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582697.html",
-      "pubDate": "2026-11-02T06:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0bb70ac8.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1144,19 +1157,6 @@
       "link": "https://casabrutus.com/categories/art/491330",
       "pubDate": "Sat, 31 Oct 2026 22:00:52 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2159話目「新設、トラップ部隊㉝」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/10/31/2858402/",
-      "pubDate": "Sat, 31 Oct 2026 12:00:45 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2159a.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-02T06:30:41.072056",
+  "updatedAt": "2026-11-02T07:00:47.759316",
   "sites": [
     {
       "id": "hachima",
