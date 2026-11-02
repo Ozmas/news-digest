@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ワークマン】ワンコインでお釣りが来る「税込350円ビーニー」がSNSでじわじわ話題！ オンライン未掲載の店舗限定アイテム",
+      "description": "少し前に、SNSでワークマンのシューズが話題になった。2026年9月中旬に発売した「アスレシューズタービュランス」が、トレイルランニングの老舗ブランド「SALOMON（サロモン）」のモデルに似ていると注目を集め、オンライ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/02/2858145/",
+      "pubDate": "Mon, 02 Nov 2026 00:00:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/beanieworkman.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1003,19 +1016,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8466-1024x767.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "エスコート！ 好きな子に気を遣う隣りの男子！　隣りの席の子の様子がおかしい第73回「薄暮れ」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/10/31/2813333/",
-      "pubDate": "Fri, 30 Oct 2026 23:00:01 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari73-1koma.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-01T23:30:40.651884",
+  "updatedAt": "2026-11-02T00:00:46.933955",
   "sites": [
     {
       "id": "hachima",
