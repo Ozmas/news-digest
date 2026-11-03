@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【Kindleセール】心理野球漫画『ONE OUTS』が各巻100円セール実施中！ 他、『ガンニバル』『ギフト』など日本文芸社作品が各巻99円セール実施中！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583058.html",
+      "pubDate": "2026-11-03T17:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/9/891806ed-s.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ヤオコー】レベチな惣菜がそろう売り場でミゲールさんを探せ！ 海鮮丼に歓喜して代打サラダにノックアウトされた話",
+      "description": "外見からでは中身の良し悪しを見極めるのが難しい食材、アボカド。そのアボカド界隈において「ハズレが少ない！」と噂の『ミゲールさんのアボカド』を求めて、先日ヤオコーへ行ってきた。 ヤオコーといえば、お惣菜のおいしさにも定評が [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/03/2856889/",
+      "pubDate": "Tue, 03 Nov 2026 08:00:42 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3367.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ネット民『FF13を有機ELモニターでやってるんだけど、超綺麗でぶったまげた』→綺麗すぎて本当にPS3のゲームか疑われるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461873.html",
+      "pubDate": "2026-11-03T17:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/b/8b55dca0.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -535,19 +574,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-122.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "中学の校内放送で「バニ〜ラバニラバニ〜ラ」を持ちこんだガキがいて教師が速攻却下　→　「なんでダメなんすか」とガキがゴネるも「◯◯◯」の一言で完璧に黙らせた話",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582982.html",
-      "pubDate": "2026-11-03T08:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bff89234.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +702,6 @@
       "link": "https://jin115.com/archives/52461826.html",
       "pubDate": "2026-11-03T00:00:40+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/1/c11be08c-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "有名な絵画『真珠の耳飾りの少女』をリスペクトしたアートコンテスト、まさかすぎる優秀賞がこちらｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461820.html",
-      "pubDate": "2026-11-02T23:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/d/4d11f3a7.png"
     },
     {
       "siteId": "rocketnews",
@@ -1198,19 +1211,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/30/04/subbuzz/IfDjlVqX6.jpg?crop=641:427;2,15&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ライブ配信】ファミコンで遊んだら『スペランカー』でジェネレーションギャップを感じた",
-      "description": "毎週水曜19時半から、当サイトのYouTubeチャンネル「ロケットニュース24」で行っているライブ配信。配信開始当初から、いずれはやりたいと思っていたことのひとつにゲーム配信がある。ようやく環境が整って、ついに実現できま [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/01/2858694/",
-      "pubDate": "Sun, 01 Nov 2026 10:00:43 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/repo10280.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T08:00:48.662684",
+  "updatedAt": "2026-11-03T08:30:41.326284",
   "sites": [
     {
       "id": "hachima",
