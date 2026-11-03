@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "完全新作映画『ガールズバンドクライ THE MOVIE』が2027年5月21日放映決定！ティザームービーも公開",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583119.html",
+      "pubDate": "2026-11-03T21:50:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/8/885cebae.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "トランプ大統領、米中間選挙で早くも不正を主張してしまう「不正告発者には約1億6000万円を支払う」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583111.html",
+      "pubDate": "2026-11-03T21:30:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/62845979.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -444,19 +470,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/44071ac0.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "人気VTuber・赤見かるびさん、FF14イベントでうっかりおおよその年齢セルフ開示　→　逆に好感が上がってしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583012.html",
-      "pubDate": "2026-11-03T12:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca011450.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -494,19 +507,6 @@
       "link": "https://jin115.com/archives/52461861.html",
       "pubDate": "2026-11-03T11:42:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/4622818d.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【朗報】『ゼルダの伝説』40周年記念モデルのSwitch2、普通に誰でも買える模様！　買い占めようとした転売ヤーがただの太客にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583006.html",
-      "pubDate": "2026-11-03T11:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/875f8c31.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T12:30:40.311835",
+  "updatedAt": "2026-11-03T13:00:49.885743",
   "sites": [
     {
       "id": "hachima",
