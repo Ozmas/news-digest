@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【動画】コメント「お腹の前でヒジつきますか？」→グラビアアイドル「お腹の前？どれどれ」→結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461901.html",
+      "pubDate": "2026-11-04T03:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/b/3bbccfe1.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -702,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/11/03/2859302/",
       "pubDate": "Tue, 03 Nov 2026 00:00:46 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_4283_1920.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "脳梗塞で入院中だったサンドウィッチマン・伊達みきおさん、病院の「お粥」を見て看護師に衝撃のひとことを言い放つ→次の日から通常の白飯に戻される",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461841.html",
-      "pubDate": "2026-11-03T09:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/4/c420be6d.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T18:01:02.674448",
+  "updatedAt": "2026-11-03T18:30:52.079809",
   "sites": [
     {
       "id": "hachima",
