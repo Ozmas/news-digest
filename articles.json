@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "最近、俺のポケモンGOが「老眼GO」になっててツラい",
+      "description": "それまで私の人生に1ミリも関係のない要素だったが、いざ自分が「老眼」になってみると思いのほか鬱陶しい。瞬間的にストレスを感じるというよりは、常にチクチクと不自由を強いられているような感覚だ。 2年ほど前から本格的に始まっ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/03/2857144/",
+      "pubDate": "Tue, 03 Nov 2026 10:00:04 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/rogan05.jpeg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「時計のスタンダード。」編集後記：好きな時計で時間を知れば、人生は少しだけ楽しくなる",
+      "description": "好きな時計で時間を知れば、人生は少しだけ楽しくなる 「スマートフォンがあれば時刻はわかるけど……」 腕時計の魅力を語る時、これはもはやクリシェみたいな前置きですが、実際その通り。時刻を知るにも、自分が気に入った時計で見る [&#8230;]",
+      "link": "https://brutus.jp/post-536149/",
+      "pubDate": "Tue, 03 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -28,19 +54,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/1800f3cc.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【Kindleセール】心理野球漫画『ONE OUTS』が各巻100円セール実施中！ 他、『ガンニバル』『ギフト』など日本文芸社作品が各巻99円セール実施中！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583058.html",
-      "pubDate": "2026-11-03T17:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/9/891806ed-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -52,6 +65,19 @@
       "link": "https://rocketnews24.com/2026/11/03/2856889/",
       "pubDate": "Tue, 03 Nov 2026 08:00:42 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3367.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【Kindleセール】心理野球漫画『ONE OUTS』が各巻100円セール実施中！ 他、『ガンニバル』『ギフト』など日本文芸社作品が各巻99円セール実施中！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583058.html",
+      "pubDate": "2026-11-03T17:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/9/891806ed-s.png"
     },
     {
       "siteId": "jin",
@@ -1107,19 +1133,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月2日〜11月8日 魚座の運勢【ブルータス週間占い】",
-      "description": "魚座の羅針盤 初志を取り戻す 2日、魚座から見て奉仕の部屋にあたる獅子座で、下弦の月が起こります。誰かのために頑張り続けることに、そろそろ区切りをつけてもよさそうです。 相手をサポートすることは大切ですが、すべてを自分で [&#8230;]",
-      "link": "https://brutus.jp/post-536333/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1183,19 +1196,6 @@
       "link": "https://casabrutus.com/categories/culture/492786",
       "pubDate": "Sun, 01 Nov 2026 22:00:07 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2160話目「新設、トラップ部隊㉞」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/11/01/2858407/",
-      "pubDate": "Sun, 01 Nov 2026 12:00:03 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2160a.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T09:30:43.153886",
+  "updatedAt": "2026-11-03T10:00:50.055635",
   "sites": [
     {
       "id": "hachima",
