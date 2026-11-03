@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "埼玉の男子高校生「ゲームをやっていたら母親に怒られた」と110番通報、駆けつけた警官に刃物付きつける…警官が拳銃で警告し現行犯逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583102.html",
+      "pubDate": "2026-11-03T19:30:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8b3427ca.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "自民党本部を襲撃した左翼さん、裁判中にズボンから”チョコのような茶色い物体”を取り出し食べてしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461879.html",
+      "pubDate": "2026-11-03T19:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/194fd95d-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/10e068bc.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバい】最近の小学2年男子、トイレでパンツを脱ぎ友達に「◯◯◯」を実演してしまう……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582990.html",
-      "pubDate": "2026-11-03T09:30:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/8/28d4464f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://jin115.com/archives/52461832.html",
       "pubDate": "2026-11-03T01:00:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c9e5fc39.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "とある地下アイドル「彼氏、いないよ？」ﾊﾟｼｬｯ → 可愛い自撮りを公開するも、ヤバイものが映ってるのがバレてファンを恐怖に陥れるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461826.html",
-      "pubDate": "2026-11-03T00:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/1/c11be08c-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T10:00:50.055635",
+  "updatedAt": "2026-11-03T10:30:41.793345",
   "sites": [
     {
       "id": "hachima",
