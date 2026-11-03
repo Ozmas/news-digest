@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "秋冬の個人的流儀。ファッションの現場で見つけた気になるスタイル",
+      "description": "〈fernweh〉オーナー・溝口 翼のスタイル テーラードジャケットはジャストでなく少しサイズアップしてカバーオール感覚で羽織る。クラシックスタイルをモダンに昇華させていくのが溝口翼さんのスタイル。Vゾーンの重ね着を楽し [&#8230;]",
+      "link": "https://brutus.jp/post-535325/",
+      "pubDate": "Tue, 03 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【噂】『デイズゴーン』のSIEベンドスタジオ、2027年に新作を発表・発売するとの報道！非ライブサービスのPS5独占タイトル",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583107.html",
+      "pubDate": "2026-11-03T20:30:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/c/ec1f9bc3.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -520,19 +546,6 @@
       "link": "https://rocketnews24.com/2026/11/03/2858462/",
       "pubDate": "Tue, 03 Nov 2026 02:00:20 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-5-15.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画】泉ピン子さん、映画の舞台挨拶で暴走しすぎて制作会社から提訴されてしまう…　「元々こんなキャラだけど、もうそんな時代じゃない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583000.html",
-      "pubDate": "2026-11-03T10:30:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/4/04d28cd7.jpg"
     },
     {
       "siteId": "jin",
@@ -1120,19 +1133,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月2日〜11月8日 山羊座の運勢【ブルータス週間占い】",
-      "description": "山羊座の羅針盤 仲間を集めて次の計画を練る 山羊座にとって継承を示す部屋となる獅子座で2日下弦の月が起こります。先週は同じく獅子座にいる火星（争い）の影響で、イライラしやすくなっていましたが、2日を境に精神が落ち着いてい [&#8230;]",
-      "link": "https://brutus.jp/post-536329/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T11:30:43.924727",
+  "updatedAt": "2026-11-03T12:00:52.480032",
   "sites": [
     {
       "id": "hachima",
