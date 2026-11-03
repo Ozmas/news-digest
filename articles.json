@@ -2,17 +2,43 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "気張らず、気取らずに。「大人の白い服」秋冬編",
+      "description": "矢口のシロ 〜秋冬編〜 「夏の色という印象が強いけど、重く、渋くなりがちな季節には最高の差し色だよ」と話す、スタイリストの喜多尾祥之さん。 つまり白は、秋冬にこそ絶好の色。主役はやはり白シャツ。味わいのシワが入ったペーパ [&#8230;]",
+      "link": "https://brutus.jp/post-535316/",
+      "pubDate": "Tue, 03 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【凄すぎ】神ゲー『Bloodborne』、発売から10年以上経つのに未だジワ売れしまくっていると話題に！マジでなんで続編作らないの！？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461885.html",
+      "pubDate": "2026-11-03T19:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/764b9813.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "埼玉の男子高校生「ゲームをやっていたら母親に怒られた」と110番通報、駆けつけた警官に刃物付きつける…警官が拳銃で警告し現行犯逮捕",
+      "title": "エンジニア「GMOの会見は嘘。〇〇であることを何としても隠したいんじゃないかなと」",
       "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583102.html",
-      "pubDate": "2026-11-03T19:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8b3427ca.jpg"
+      "link": "http://blog.esuteru.com/archives/10583101.html",
+      "pubDate": "2026-11-03T19:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d651b5ca.jpg"
     },
     {
       "siteId": "jin",
@@ -717,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/5172397e.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "へずまりゅう氏、“超有名人”から訴えられてしまい絶望",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461832.html",
-      "pubDate": "2026-11-03T01:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c9e5fc39.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1116,19 +1129,6 @@
       "title": "11月2日〜11月8日 山羊座の運勢【ブルータス週間占い】",
       "description": "山羊座の羅針盤 仲間を集めて次の計画を練る 山羊座にとって継承を示す部屋となる獅子座で2日下弦の月が起こります。先週は同じく獅子座にいる火星（争い）の影響で、イライラしやすくなっていましたが、2日を境に精神が落ち着いてい [&#8230;]",
       "link": "https://brutus.jp/post-536329/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月2日〜11月8日 水瓶座の運勢【ブルータス週間占い】",
-      "description": "水瓶座の羅針盤 自分の信じるかっこよさを貫く 2日に下弦の月が起こるのは、水瓶座にとって対人関係の部屋にあたる獅子座です。下弦の月は「手放し」を促す存在なので、今週は、人と比較してしまう気持ちや誰かへの執着から解放されそ [&#8230;]",
-      "link": "https://brutus.jp/post-536331/",
       "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T10:30:41.793345",
+  "updatedAt": "2026-11-03T11:00:51.191824",
   "sites": [
     {
       "id": "hachima",
