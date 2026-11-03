@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『アベンジャーズ／ドゥームズデイ』、ドゥーム役日本版声優は森川智之さんに決定！　ロバート・ダウニー・Jr.「藤原啓治さんの遺志は受け継がれます」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10582992.html",
+      "pubDate": "2026-11-03T10:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/810e7311.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -533,19 +546,6 @@
       "link": "http://blog.esuteru.com/archives/10582900.html",
       "pubDate": "2026-11-02T20:30:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b626703a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "都立高校の1年女子、同級生に「もう好きになれない」と返答され背後から包丁で刺して逮捕「政治的な話題で口論し、仲直りできなければ心中しようと思った」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582893.html",
-      "pubDate": "2026-11-02T20:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/b/9b957d1a.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T01:00:47.952697",
+  "updatedAt": "2026-11-03T01:29:02.157441",
   "sites": [
     {
       "id": "hachima",
