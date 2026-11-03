@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "11月発売の注目漫画・ラノベ新刊まとめ！キングダム、ヤニねこ、宇崎ちゃんは遊びたい、僕の心のヤバイやつ、SAKAMOTO DAYSなど！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461848.html",
+      "pubDate": "2026-11-03T12:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/44071ac0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "人気VTuber・赤見かるびさん、FF14イベントでうっかりおおよその年齢セルフ開示　→　逆に好感が上がってしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583012.html",
+      "pubDate": "2026-11-03T12:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/ca011450.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/d/4d11f3a7.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【アカン】ECサイト『ノジマオンライン』で約700万人分の情報漏洩… 氏名・住所などはもちろん、ログインIDとパスワードもダダ漏れ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10582919.html",
-      "pubDate": "2026-11-02T22:30:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/5/955678fc.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://brutus.jp/post-533659/",
       "pubDate": "Mon, 02 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "FF14プレイヤー「公式配信のゲスト、誰一人知らない。そろそろ引退かな」→Twitch界隈がブチギレ→これネトゲやってたら知ってて当然のメンツなの？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461816.html",
-      "pubDate": "2026-11-02T19:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17a70edf-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T03:00:53.870686",
+  "updatedAt": "2026-11-03T03:30:42.872344",
   "sites": [
     {
       "id": "hachima",
