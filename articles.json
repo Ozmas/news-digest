@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "もやし業界がマジで限界！5年間で13社が消える",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583113.html",
+      "pubDate": "2026-11-04T04:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/f/df859c85-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,19 +494,6 @@
       "link": "https://brutus.jp/post-535557/",
       "pubDate": "Tue, 03 Nov 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【闇】小学校の校長ら、給食費など未納分の計4600万円を自腹で払っていたことが発覚「大ごとにしたくなかった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583057.html",
-      "pubDate": "2026-11-03T16:30:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6bb812a4.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T19:00:50.380680",
+  "updatedAt": "2026-11-03T19:30:55.040782",
   "sites": [
     {
       "id": "hachima",
