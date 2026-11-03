@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "気をつけろ！ 彼女の体調を労わる彼氏！　四コマサボタージュFB第123回「逆のパターン」",
+      "description": "今年の7月は最初だけちょっと涼しかったよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/04/2833470/",
+      "pubDate": "Tue, 03 Nov 2026 22:00:42 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-123.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気女性VTuber「同接が奇数だとサキュバスになるが、偶数だと◯◯になる配信します」脅威の16万いいねｗｗｗｗｗ→「人類には早すぎたVTuber」「これが天才です」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461905.html",
+      "pubDate": "2026-11-04T07:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/f/df27a747.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -678,19 +704,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-5-15.jpeg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "泉ピン子さん、訴えられる…とんでもない裏側も告発されてしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461852.html",
-      "pubDate": "2026-11-03T10:30:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03d6fbaf.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1170,19 +1183,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/02/skytreenishi-cyurinjyo/",
       "pubDate": "Sun, 01 Nov 2026 23:01:02 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8289-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "Apple純正「写真」アプリ、見るだけで終わってない？ 知っておくと便利な編集機能5選",
-      "description": "初の折りたたみiPhone「iPhone Duo」が発売され、何かと話題のApple。 新製品の情報が目に入るたびに、ついつい気になってしまう。 かくいう私もAppleユーザーだ。一度はAndroidに浮気したものの、タ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/02/2814021/",
-      "pubDate": "Sun, 01 Nov 2026 23:00:35 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/写真アプリ.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T22:00:46.380379",
+  "updatedAt": "2026-11-03T22:14:32.586350",
   "sites": [
     {
       "id": "hachima",
