@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アメリカのBBQニキが作った「豚の角煮」が斬新すぎる！もう新しい料理の誕生だろコレ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583115.html",
+      "pubDate": "2026-11-04T05:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58f7b3fa.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -468,19 +481,6 @@
       "link": "https://rocketnews24.com/2026/11/03/2856889/",
       "pubDate": "Tue, 03 Nov 2026 08:00:42 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3367.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【Kindleセール】心理野球漫画『ONE OUTS』が各巻100円セール実施中！ 他、『ガンニバル』『ギフト』など日本文芸社作品が各巻99円セール実施中！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583058.html",
-      "pubDate": "2026-11-03T17:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/9/891806ed-s.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T20:00:50.540404",
+  "updatedAt": "2026-11-03T20:30:40.664696",
   "sites": [
     {
       "id": "hachima",
