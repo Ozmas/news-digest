@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2162話目「新設、トラップ部隊㊱」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/03/2859296/",
+      "pubDate": "Tue, 03 Nov 2026 12:00:42 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2162a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【全面戦争突入】『レジスタ！』炎上騒動、ゾーニングされない商業BLに延焼！BLを有害指定図書にするため通報運動が開始",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583109.html",
+      "pubDate": "2026-11-03T21:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a42d3080.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -520,19 +546,6 @@
       "link": "https://artscape.jp/article/82558/",
       "pubDate": "Tue, 03 Nov 2026 02:00:32 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "OpenAIのサム・アルトマンCEO「個人のPCに大量のメモリを搭載することは良くない。クラウド側に集約して稼働率を最大化するべき」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583004.html",
-      "pubDate": "2026-11-03T11:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e10883d-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1172,19 +1185,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/写真アプリ.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "雰囲気だけはある！ 何やら示し合わせた店主と客！　四コマサボタージュFB第121回「合言葉」",
-      "description": "裏カジノや賭場って具体的にどんな種類の賭け事が催されてるんだろうね。テレビゲームとかでしか知らないからいまいち実態がよく分からないんだよね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/02/2833468/",
-      "pubDate": "Sun, 01 Nov 2026 22:00:20 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-121.png"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T12:00:52.480032",
+  "updatedAt": "2026-11-03T12:30:40.311835",
   "sites": [
     {
       "id": "hachima",
