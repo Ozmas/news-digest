@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "あなたの国で最近注目のセレクトショップは？：BRUTUS CITY JOURNAL",
+      "description": "🇬🇧 グローカルなビジネスを謳う、〈GOODHOOD〉が拡大移転 イギリス／ロンドン グローバルでローカルな「グローカル」を方針に掲げ、イマドキの若者の心をつかむ〈GOODHOOD〉。ブリック・レーンそばに移転し、環境と [&#8230;]",
+      "link": "https://brutus.jp/post-521006/",
+      "pubDate": "Tue, 03 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】政府、国策広報として吉本興業に夫婦漫才を作らせてしまう…　官邸筋「国民はこれで政策に好意的になるやろｗ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583176.html",
+      "pubDate": "2026-11-04T07:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/856baca0.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -468,19 +494,6 @@
       "link": "https://jin115.com/archives/52461885.html",
       "pubDate": "2026-11-03T19:30:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/764b9813.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "エンジニア「GMOの会見は嘘。〇〇であることを何としても隠したいんじゃないかなと」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583101.html",
-      "pubDate": "2026-11-03T19:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d651b5ca.jpg"
     },
     {
       "siteId": "jin",
@@ -1159,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月2日〜11月8日 射手座の運勢【ブルータス週間占い】",
-      "description": "射手座の羅針盤 航路に身を任せる 射手座にとって、哲学や将来を意味する獅子座。ここで2日に起こる下弦の月は、頑張って掲げていた理想を一旦下げてもいいと優しく告げます。まだはっきりと見えない約束の地に焦って進まなくてもいい [&#8230;]",
-      "link": "https://brutus.jp/post-536327/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T22:30:41.559408",
+  "updatedAt": "2026-11-03T23:00:47.524637",
   "sites": [
     {
       "id": "hachima",
