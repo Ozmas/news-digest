@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気アニソン歌手「待って。私たちの居場所なくなってきてない？もう需要ないの？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461892.html",
+      "pubDate": "2026-11-03T23:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/6019d2cb-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "巨人・松井秀喜監督の熱血指導「パッ、パッ、パーン！」「グワっとガン！」「パッて回れる、バーン！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583118.html",
+      "pubDate": "2026-11-03T23:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/7269ba46.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -457,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/504fc336.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【つよい】日本人さん、アメリカで現地民から「ファッ●ユー」と言われる　→　聞き取れなかったため、うっかり「◯◯◯」とエグい煽り返しをしてしまう事態にｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583025.html",
-      "pubDate": "2026-11-03T13:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/a/1a42dd85.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +767,6 @@
       "link": "https://jin115.com/archives/52461836.html",
       "pubDate": "2026-11-03T06:00:03+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/ed704d57.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女子がいう“清潔感”を的確に表した言葉がこちら・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461834.html",
-      "pubDate": "2026-11-03T05:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/f/ff52a28b.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T14:00:50.409289",
+  "updatedAt": "2026-11-03T14:30:42.142151",
   "sites": [
     {
       "id": "hachima",
