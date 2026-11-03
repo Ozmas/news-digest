@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "韓国人「日本のスーパーの◯◯◯は次元が違う美味さ。こんな食べ物があってどうして日本人の平均寿命が長いのか不思議」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583097.html",
+      "pubDate": "2026-11-04T00:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/00ea2b5d-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -457,19 +470,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b0077aea-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "警察「どうした！？」 通報した男子高校生「ゲームをやっていたら母親に怒られた！（刃物を突き付ける」 警察「スッ（拳銃を構える」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583027.html",
-      "pubDate": "2026-11-03T14:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/3/936adc5c-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -505,7 +505,7 @@
       "title": "11月発売の注目漫画・ラノベ新刊まとめ！キングダム、ヤニねこ、宇崎ちゃんは遊びたい、僕の心のヤバイやつ、SAKAMOTO DAYSなど！",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52461848.html",
-      "pubDate": "2026-11-03T12:00:26+09:00",
+      "pubDate": "2026-11-03T12:00:00+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/44071ac0.jpg"
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T15:01:05.534798",
+  "updatedAt": "2026-11-03T15:30:42.908784",
   "sites": [
     {
       "id": "hachima",
