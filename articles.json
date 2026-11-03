@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "インドネシア人が女性宅に侵入し注意されて帰る→1か月後ヤバい事に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461918.html",
+      "pubDate": "2026-11-04T08:30:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/70429628.jpg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】旨辛は止まらない！辛・鬼ノ下（シン・キノシタ）がOPEN。",
+      "description": "吾妻橋から押上駅方面に浅草通りを歩いていると、見慣れぬ赤い看板を発見。 ん？辛鬼ノ下？ 後日改めてお店の前を通ってみました。こちらは「大衆食堂ゆきこ」だった場所です。 【墨田区】閉店した業平１丁目「MEN do KIZA [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/04/shinkinoshita-open/",
+      "pubDate": "Tue, 03 Nov 2026 23:01:27 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7936-1-1024x767.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【超朗報】日本政府、ついに外国人犯罪に本気の対策へ（※なお・・・・・・）",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461913.html",
+      "pubDate": "2026-11-04T08:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89c8b14a.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "安いリカバリーウェアを着まくってきた私が思う「買ってよかった1位」はワークマンの冬用タイプ",
+      "description": "2025年の流行語大賞にノミネートされたように、ここ数年で広く浸透したリカバリーウェア（疲労回復ウェア）。人気すぎて一時は入手困難な時期もあったが、最近は落ち着いてきた印象を受ける。 そのリカバリーウェア、値段はピンキリ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/04/2835791/",
+      "pubDate": "Tue, 03 Nov 2026 23:00:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3616.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -665,19 +717,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/bikkuritei.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "メディア「玉城デニー氏を叩くとバズる。選挙や政治の動画は儲けやすい。」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461861.html",
-      "pubDate": "2026-11-03T11:42:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/4622818d.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -689,19 +728,6 @@
       "link": "https://casabrutus.com/categories/design/494612",
       "pubDate": "Tue, 03 Nov 2026 02:25:37 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】大人気グルメ漫画『味いちもんめ』が全巻99円の激安セールは今日まで！！このチャンスを見逃すな！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461851.html",
-      "pubDate": "2026-11-03T11:20:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0f3324e.jpg"
     },
     {
       "siteId": "artscape",
@@ -1172,19 +1198,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ワークマン】ワンコインでお釣りが来る「税込350円ビーニー」がSNSでじわじわ話題！ オンライン未掲載の店舗限定アイテム",
-      "description": "少し前に、SNSでワークマンのシューズが話題になった。2026年9月中旬に発売した「アスレシューズタービュランス」が、トレイルランニングの老舗ブランド「SALOMON（サロモン）」のモデルに似ていると注目を集め、オンライ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/02/2858145/",
-      "pubDate": "Mon, 02 Nov 2026 00:00:20 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/beanieworkman.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1588,19 +1601,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/08/subbuzz/lxyUS05HP.png?crop=846:564;416,142&resize=1250:830"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】両国4丁目の三菱UFJ銀行本所支店・本所中央支店がお向かいにお引越ししています。",
-      "description": "緑一丁目交差点そばの三菱UFJ銀行「本所支店」「本所中央支店」の移転について2026年8月にもお伝えしました。 【墨田区】緑１丁目交差点そば、旧みずほ銀行跡地のビルに三菱UFJ銀行のATMコーナーが出来ました。 ２０２５ [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/25/ufjhonjyo-hikkoshi/",
-      "pubDate": "Sat, 24 Oct 2026 23:01:12 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8326-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T23:00:47.524637",
+  "updatedAt": "2026-11-03T23:30:40.518834",
   "sites": [
     {
       "id": "hachima",
