@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "外にも似合う、スリープウェア。〈AURALEE〉 × 〈TEKLA〉のセットアップ：Brutus Best Bets",
+      "description": "外にも似合う、スリープウェア 〈オーラリー〉とデンマーク発〈テクラ〉によるコラボレーション第2弾は、北欧の冬と家で過ごす時間の温もりがインスピレーション源。前者が得意とする素材への探究、後者が培ってきたホームウェアの心地 [&#8230;]",
+      "link": "https://brutus.jp/post-535557/",
+      "pubDate": "Tue, 03 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -13,6 +26,19 @@
       "link": "http://blog.esuteru.com/archives/10583057.html",
       "pubDate": "2026-11-03T16:30:01+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6bb812a4.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "パリ西部・セガン島にRCRアーキテクツ＋カルクによる新アート拠点〈ル・ラルジュ〉が誕生。",
+      "description": "パリ西部、セーヌ川の支流に囲まれたセガン島に、新たな現代アートの拠点〈ル・ラルジュ〉が今秋開館。",
+      "link": "https://casabrutus.com/categories/architecture/494348",
+      "pubDate": "Tue, 03 Nov 2026 07:25:54 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -1081,19 +1107,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "蘇った〈ハミルトン〉の名作「クッション」。100年前の美意識を、今の装いに",
-      "description": "狂騒の20年代に生まれた、小さな名作時計 アメリカが空前の好景気に沸いていた1920年代。街には自動車が行き交い、ラジオからはジャズが流れ、人々は映画館へと足を運ぶ。大量生産と大量消費の時代が到来し、ファッションや建築、 [&#8230;]",
-      "link": "https://brutus.jp/post-533848/",
-      "pubDate": "Mon, 02 Nov 2026 00:50:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1326,19 +1339,6 @@
       "link": "https://sumida.goguynet.jp/2026/10/31/kirimatsuyadonuts/",
       "pubDate": "Fri, 30 Oct 2026 23:01:59 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8466-1024x767.jpeg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【10月31日〜11月1日】今週末必見の“アート＆デザイン”まとめ！",
-      "description": "カーサが注目する、今週末のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
-      "link": "https://casabrutus.com/categories/art/495627",
-      "pubDate": "Fri, 30 Oct 2026 22:55:05 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T07:30:40.609210",
+  "updatedAt": "2026-11-03T08:00:48.662684",
   "sites": [
     {
       "id": "hachima",
