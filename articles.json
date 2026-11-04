@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "『ゴジラ-0.0』は一切の事前情報なしで見に行って大正解だったかもしれない / 人間の罪について考え、怪獣の起こす災厄に圧倒される",
+      "description": "映画『ゴジラ-1.0（マイナスワン）』から3年、敷島が、典子が、そして怪獣王が、再びスクリーンに帰って来た。『ゴジラ-0.0（マイナスゼロ）』として2026年11月3日、ゴジラの日に公開。 マイナスワンから2年後の世界を [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/04/2859729/",
+      "pubDate": "Wed, 04 Nov 2026 08:00:29 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/79fcda5a-e4b4-4ae8-ba2a-48bd3f0abf45.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "和な色合いをポケットの中に。〈LOUIS VUITTON〉の財布：Brutus Best Bets",
+      "description": "和な色合いをポケットの中に ショッピングを終えても、つい取っておきたくなるメゾンのショッパー。ならば、その姿を財布でも楽しんでみるのはどうだろう。〈ルイ・ヴィトン〉から登場した2種の財布は、ロゴを配したレザーに、桜を思わ [&#8230;]",
+      "link": "https://brutus.jp/post-535561/",
+      "pubDate": "Wed, 04 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -13,6 +39,19 @@
       "link": "http://blog.esuteru.com/archives/10583226.html",
       "pubDate": "2026-11-04T16:30:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/b/1befa26c.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "長場雄の代表作《The Last Supper》が刺繍作品に。仏刺繍スタジオ〈VANGART〉とのコラボレーション。",
+      "description": "アーティスト・長場雄と、フランスの刺繍アートスタジオ〈VANGART〉がコラボレーション。長場の代表作《The Last Supper》を刺繍で再構築した、世界限定50点のアートワークが登場します。",
+      "link": "https://casabrutus.com/categories/design/495401",
+      "pubDate": "Wed, 04 Nov 2026 07:25:12 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -1042,19 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "防災庁の緊急要請にも、備蓄好きの私は余裕 → 念のため防災グッズを確認したら「やべ、気づいてよかった…！」",
-      "description": "本日2026年11月2日、国の災害対応の司令塔の役割を担う防災庁が発足した。 発足に合わせて、防災庁は緊急要請を発表。内容は、食料などの備蓄や住宅の耐震化など、国民一人ひとりが主体的に取り組むよう求めたもの。 つまり、備 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/02/2859175/",
-      "pubDate": "Mon, 02 Nov 2026 07:00:45 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_4253_1920.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1159,19 +1185,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月2日〜11月8日 乙女座の運勢【ブルータス週間占い】",
-      "description": "乙女座の羅針盤 人間関係を整理する 2日に下弦の月が起こる獅子座は、乙女座から見て内省の部屋にあたります。下弦の月は、物事を手放す後押しをする存在。今週は、過去の苦い思い出や後悔、無意識に抱えていたネガティブな感情を整理 [&#8230;]",
-      "link": "https://brutus.jp/post-536321/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1261,19 +1274,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/01/bentenmatsuri2026/",
       "pubDate": "Sat, 31 Oct 2026 23:01:33 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/635054271134171154-1-1024x767.jpg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "広重の自画像も描かれている!? 水面に映る紅葉も鮮やかな風景。【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/491330",
-      "pubDate": "Sat, 31 Oct 2026 22:00:52 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1562,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T07:30:40.889510",
+  "updatedAt": "2026-11-04T08:00:48.964007",
   "sites": [
     {
       "id": "hachima",
