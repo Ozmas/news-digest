@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "高市早苗首相、今度は温暖化会議のCOP31欠席…　G7オンライン首脳会合に引き続き",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583379.html",
+      "pubDate": "2026-11-05T07:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ad1b09ce.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -455,19 +468,6 @@
       "link": "https://rocketnews24.com/2026/11/04/2859177/",
       "pubDate": "Wed, 04 Nov 2026 10:00:46 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/m1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "Kis-My-Ft2の藤ヶ谷太輔メンバー、一時停止せず国道246号に進入し衝突事故…けが人はなし",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583297.html",
-      "pubDate": "2026-11-04T19:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8b3bc7b4.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T22:30:38.620995",
+  "updatedAt": "2026-11-04T23:00:45.957831",
   "sites": [
     {
       "id": "hachima",
