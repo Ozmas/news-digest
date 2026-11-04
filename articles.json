@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【GOTY確定】リメイク版『ゼルダの伝説 時のオカリナ』レビュー解禁！メタスコアは96点「ビデオゲーム史上最高」「まるで芸術作品」「ロード画面は不要」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583314.html",
+      "pubDate": "2026-11-04T21:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a489cd42.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -507,19 +520,6 @@
       "link": "http://blog.esuteru.com/archives/10583201.html",
       "pubDate": "2026-11-04T12:40:28+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/a/6a70565f.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】紳士「貧乳に“貧しい”という漢字をあててる時点でダメ！　◯◯乳と呼ぶのが良い」　→　あまりに高貴で素敵すぎて約6万いいねｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583205.html",
-      "pubDate": "2026-11-04T12:20:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6ec797fc.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T12:30:42.475794",
+  "updatedAt": "2026-11-04T13:00:49.624821",
   "sites": [
     {
       "id": "hachima",
