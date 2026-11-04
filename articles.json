@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】暴落止まらないキオクシア株、本日ついに1万円割れ（マイナス12％以上）　　おにやさん達、信用フルレバ購入民が追証地獄で終了…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583200.html",
+      "pubDate": "2026-11-04T11:30:30+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -13,19 +26,6 @@
       "link": "https://jin115.com/archives/52461930.html",
       "pubDate": "2026-11-04T11:30:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/503f0721.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】暴落止まらないキオクシア株、本日ついに1万円割れ（マイナス12％以上）…　おにやさん他、信用フルレバ購入民が追証地獄に突入",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583200.html",
-      "pubDate": "2026-11-04T11:30:09+09:00",
-      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T02:30:39.556901",
+  "updatedAt": "2026-11-04T02:36:10.706461",
   "sites": [
     {
       "id": "hachima",
