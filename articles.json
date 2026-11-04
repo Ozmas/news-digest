@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "60代男性「20代女性に1000万貢いで大後悔。なぜこんなにお金を渡してしまったんだ…別れたんだし返してほしい」※なお不倫",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461937.html",
+      "pubDate": "2026-11-04T20:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/46d542ae.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "腐女子「BLはゾーニングされてる！」 → 実際に書店で確認した結果がヤバすぎた「ち◯ぽめんたるジャーニー」「男性向けでやったら一瞬で性加害扱い」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583301.html",
+      "pubDate": "2026-11-04T20:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/a/6a704a4b.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "学術論文のような図録から自伝まで。自装本から知る杉本博司",
+      "description": "杉本自装本",
+      "link": "https://brutus.jp/post-527530/",
+      "pubDate": "Wed, 04 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -548,19 +587,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "とあるX民のバイク、とんでもないババアによって破壊されてしまう… 「◯◯◯だから、警察呼ばないで！と言ってきやがった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583196.html",
-      "pubDate": "2026-11-04T11:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/8/0826a22d-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -793,19 +819,6 @@
       "link": "https://jin115.com/archives/52461903.html",
       "pubDate": "2026-11-04T06:00:00+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/0/d0efedb9.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】ChatGPT、無料で〇〇できる時代が終了へ・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461902.html",
-      "pubDate": "2026-11-04T05:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/c/ec2f0df1.png"
     },
     {
       "siteId": "rocketnews",
@@ -1205,7 +1218,7 @@
       "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
       "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
       "title": "11月2日〜11月8日の運勢。星々が告げる運を味方にするヒント【ブルータス週間占い】",
-      "description": "全体の空模様 大きな変動はなく、落ち着いた運気の1週間です。週明けの2日に、自己主張のサイン（星座）である獅子座で下弦の月を迎えます。これは、社会情勢に対して意見したりアクションを起こしたりする流れが、終息していくと示す [&#8230;]",
+      "description": "全体の空模様 大きな変動はなく、落ち着いた運気の1週間です。週明けの2日に、自己主張のサイン（星座）である獅子座で下弦の月を迎えます。これは、社会情勢に対して意見したりアクションを起こしたりする流れが、収束していくと示す [&#8230;]",
       "link": "https://brutus.jp/post-536303/",
       "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
       "thumbnail": ""
@@ -1231,7 +1244,7 @@
       "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
       "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
       "title": "11月2日〜11月8日 牡牛座の運勢【ブルータス週間占い】",
-      "description": "牡牛座の羅針盤 頑張ってきた自分を労わる 今週はゆっくりとしたペースで過ごせそうです。牡牛座から見て居場所や基盤を示す部屋、獅子座での下弦の月は、これまで積み上げてきたものの振り返りを促します。立ち止まって、自分が成し遂 [&#8230;]",
+      "description": "牡牛座の羅針盤 頑張ってきた自分を労る 今週はゆっくりとしたペースで過ごせそうです。牡牛座から見て居場所や基盤を示す部屋、獅子座での下弦の月は、これまで積み上げてきたものの振り返りを促します。立ち止まって、自分が成し遂げ [&#8230;]",
       "link": "https://brutus.jp/post-536310/",
       "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
       "thumbnail": ""
@@ -1244,21 +1257,8 @@
       "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
       "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
       "title": "11月2日〜11月8日 双子座の運勢【ブルータス週間占い】",
-      "description": "双子座の羅針盤 童心に帰る 双子座にとって学びの部屋にあたる部屋、獅子座。ここでの下弦の月は、好奇心の赴くままに動き、気になることを調べる「探索」活動がひと区切りを迎えると示唆しています。 太陽が日々の業務の部屋である蠍 [&#8230;]",
+      "description": "双子座の羅針盤 童心に返る 双子座にとって学びの部屋にあたる部屋、獅子座。ここでの下弦の月は、好奇心の赴くままに動き、気になることを調べる「探索」活動がひと区切りを迎えると示唆しています。 太陽が日々の業務の部屋である蠍 [&#8230;]",
       "link": "https://brutus.jp/post-536312/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月2日〜11月8日 蟹座の運勢【ブルータス週間占い】",
-      "description": "蟹座の羅針盤 役に立たないものを愛でる 今週は自己価値を意味する部屋にあたる獅子座に火星（意欲）があり、物事の価値や合理性を重視しがちですが、太陽と逆行中の水星（思考）は娯楽の部屋である蠍座にます。そのため、「何かをする [&#8230;]",
-      "link": "https://brutus.jp/post-536317/",
       "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T10:41:28.403594",
+  "updatedAt": "2026-11-04T11:30:41.099801",
   "sites": [
     {
       "id": "hachima",
