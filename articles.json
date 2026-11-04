@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】紳士「貧乳に“貧しい”という漢字をあててる時点でダメ！　◯◯乳と呼ぶのが良い」　→　あまりに高貴で素敵すぎて約6万いいねｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583205.html",
+      "pubDate": "2026-11-04T12:20:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6ec797fc.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "今若者の間で「○○」の問い合わせ・相談が爆増してるらしい・・・マジ？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461929.html",
+      "pubDate": "2026-11-04T12:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/150e5613.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】渋谷センター街でドルオタがいきなり男性に腕を掴まれて絡まれる　→　なら警察に行きましょうと交番に行ったら◯◯◯だったと判明…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583202.html",
+      "pubDate": "2026-11-04T12:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/3/f3428c14.png"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -639,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/1/e153119a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "人気YouTuberフィッシャーズのシルクロードさん、家族への誹謗中傷で開示請求 → 特定した相手がヤバすぎた…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583122.html",
-      "pubDate": "2026-11-03T23:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/4/64618619.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +689,6 @@
       "link": "https://jin115.com/archives/52461892.html",
       "pubDate": "2026-11-03T23:00:55+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/6019d2cb-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "巨人・松井秀喜監督の熱血指導「パッ、パッ、パーン！」「グワっとガン！」「パッて回れる、バーン！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583118.html",
-      "pubDate": "2026-11-03T23:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/7269ba46.jpg"
     },
     {
       "siteId": "jin",
@@ -715,19 +728,6 @@
       "link": "https://brutus.jp/post-535325/",
       "pubDate": "Tue, 03 Nov 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「好きだったイラストレーターがものすごく反戦系＆政治批判系のツイートが増えてて辛い・・・その人の絵だけを見たい」→大論争に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461872.html",
-      "pubDate": "2026-11-03T20:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/67487162.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T03:00:49.399966",
+  "updatedAt": "2026-11-04T03:30:40.863334",
   "sites": [
     {
       "id": "hachima",
