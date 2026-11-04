@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ギャンブルフィッシュ』全巻「99円」セールが終了間際！全19巻「10,032円」→「1,881円」！常軌を逸したお色気ギャンブル漫画！『凍牌』も全巻99円！本日23時59分まで",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461912.html",
+      "pubDate": "2026-11-04T09:20:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/5/45a7d7be.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジでそれ】『鬼滅の刃』煉獄さんの「あのセリフ」、今の社会で再評価されて5万いいね突破ｗｗｗｗｗ  「これ、めちゃ健全な考え方」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583189.html",
+      "pubDate": "2026-11-04T09:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/2/3225fa5b.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -522,19 +548,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【噂】『デイズゴーン』のSIEベンドスタジオ、2027年に新作を発表・発売するとの報道！非ライブサービスのPS5独占タイトル",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583107.html",
-      "pubDate": "2026-11-03T20:30:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/c/ec1f9bc3.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +702,6 @@
       "link": "https://jin115.com/archives/52461869.html",
       "pubDate": "2026-11-03T14:00:40+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5cce16ab.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "あおぎり高校・栗駒こまるさん、なんかヤバそうだと話題に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461863.html",
-      "pubDate": "2026-11-03T13:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/504fc336.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T00:00:53.523947",
+  "updatedAt": "2026-11-04T00:30:41.187572",
   "sites": [
     {
       "id": "hachima",
