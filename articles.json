@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "トランプ大統領、完全敗北",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461942.html",
+      "pubDate": "2026-11-04T15:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/5/85661a97.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【本日開幕】AmazonスマイルSaleはコレさえ見ておけばOK！ 目玉商品を73点厳選してみた",
+      "description": "いまAmazonで開催されている大バーゲン「スマイルSale」。さまざまな人気商品を特別価格で手に入れるチャンスがやってきたぞ。 セール初日の本日は、数ある割引アイテムの中から「コレは！」と思う目玉商品を73点厳選。お買 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/04/2859686/",
+      "pubDate": "Wed, 04 Nov 2026 05:43:03 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/MDE6_CCM_15_LUDO_X_Feed_dtmb_1200x1200.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ニュースなどでよく見かける「道路上で寝ている人をひいてしまった死亡事故」、運転手側はどうなるのか？ 実際に担当した法律事務所が説明",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583204.html",
+      "pubDate": "2026-11-04T14:30:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f9012ecc.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -626,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/a/dada1c37.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『グランド・セフト・オート6』事前ダウンロードは11月10日からスタート！212GB必要だから空き容量確保しとけ！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583145.html",
-      "pubDate": "2026-11-04T02:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a10f8c78.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +702,6 @@
       "link": "https://jin115.com/archives/52461894.html",
       "pubDate": "2026-11-04T01:00:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/efd4570a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "スーパーの冷蔵設備、サイバー攻撃で次々と破壊される これもうテロだろ・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461893.html",
-      "pubDate": "2026-11-04T00:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/1/e153119a.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1040,19 +1053,6 @@
       "link": "https://rocketnews24.com/2026/11/02/2858861/",
       "pubDate": "Mon, 02 Nov 2026 06:00:07 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/42994_0.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2739回「九尾の九ちゃん⑮」",
-      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/11/02/2858700/",
-      "pubDate": "Mon, 02 Nov 2026 05:00:36 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/2739-2.png"
     },
     {
       "siteId": "brutus",
@@ -1562,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T05:30:39.961283",
+  "updatedAt": "2026-11-04T06:00:46.884515",
   "sites": [
     {
       "id": "hachima",
