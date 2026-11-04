@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "英国グルメはおいしくない？ イギリス滞在1か月で5kg増量した私が、渋谷の英国食材専門店に行ってみた",
+      "description": "私は学生のころ、イギリスに1か月間滞在していたことがあるのだが、帰国したときには体重が5kgも増えていて心底震えた。これはマクビティのクッキーとウォーカーズのポテトチップスを毎日欠かさず食べていたからに他ならないと思う。 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/04/2858264/",
+      "pubDate": "Wed, 04 Nov 2026 01:00:43 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/b1_e80dcf.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【知ってた】中国のメーカー、「Android TV」の端末にバックドアを仕込んでアクセス権を犯罪者に販売していた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461919.html",
+      "pubDate": "2026-11-04T10:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/9/99fe8270.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "アートから溢れ出る創造力と遊び心を表現。ヘラルボニー×アシックスの共創で生まれたスニーカー",
+      "description": "石田香凜〈やまなみ工房〉を初めて訪れて、まずエネルギーに圧倒されました。アーティストの方々は周囲を気にせず、自分の興味や作りたいものにピュアに向き合っている。その姿勢に衝撃を受けました。商品を通してこのワクワク感、クリエイティブの本当の楽しさをお客様に伝えたいと思ったことからプロジェクトが始まりました。\n\n嵯峨山恵美10人くらいの方が来てくださって。3回は行きましたよね。\n\n石田はい。毎回本当に違",
+      "link": "https://brutus.jp/post-535413/",
+      "pubDate": "Wed, 04 Nov 2026 00:50:24 +0000",
+      "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/10/c12d6f750b59af3cc52e163b564bde5d.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『NARUTO -ナルト-』ハリウッドで実写映画化が始まる・・・これ大丈夫か？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461915.html",
+      "pubDate": "2026-11-04T09:40:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/9/d9330cef.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【つらい】人を好きになったことがなかったINTP（論理学者的）男性さん、ガチのマジで最悪の失恋をしてしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583193.html",
+      "pubDate": "2026-11-04T09:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/e/5e7f203a.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -522,19 +587,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2162a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【全面戦争突入】『レジスタ！』炎上騒動、ゾーニングされない商業BLに延焼！BLを有害指定図書にするため通報運動が開始",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583109.html",
-      "pubDate": "2026-11-03T21:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a42d3080.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -676,32 +728,6 @@
       "link": "https://casabrutus.com/categories/architecture/494348",
       "pubDate": "Tue, 03 Nov 2026 07:25:54 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "大物YouTuber「悪質な誹謗中傷してくる奴を開示請求しました」→ガチでとんでもない人物だった・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461870.html",
-      "pubDate": "2026-11-03T15:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/84ba3ca6.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ショートスリーパー堀大輔さん、睡眠事業からの撤退を発表",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461869.html",
-      "pubDate": "2026-11-03T14:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5cce16ab.jpg"
     },
     {
       "siteId": "brutus",
@@ -1055,19 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "スタバの新作は「ティー尽くし」いつもと違う『ジョイフルメドレー』に感動し、やっぱり美味しい『アールグレイフラペ』に圧倒される",
-      "description": "あっという間に11月だ。ハロウィンが終わり、世間は早くも年末年始モードに舵を切りつつある。スターバックスも2026年11月2日より、ホリデーシーズンに突入。新作ドリンクが3種登場だ。 『ジョイフルメドレー ストロベリー  [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/02/2859022/",
-      "pubDate": "Mon, 02 Nov 2026 02:00:06 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/6a71009c-e068-4d4e-b190-400bf23cce3a.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1181,19 +1194,6 @@
       "title": "11月2日〜11月8日 天秤座の運勢【ブルータス週間占い】",
       "description": "天秤座の羅針盤 好きなものを、好きなように楽しむ のんびりマイペースに過ごすのが向いている週です。未来のことをあれこれ考えたり、無理に行動を起こしたりするよりも、今この瞬間を楽しむことに意識を向けてみましょう。 4日に、 [&#8230;]",
       "link": "https://brutus.jp/post-536323/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月2日〜11月8日 蠍座の運勢【ブルータス週間占い】",
-      "description": "蠍座の羅針盤 過去の自分の言葉を思い出す これまで自分が発した言葉やつくってきたものが、今になって自分を助けてくれると感じる週。自エリア（蠍座）で、太陽と逆行中の水星（思考）が重なるため、過去の発言や作品に再び光が当たり [&#8230;]",
-      "link": "https://brutus.jp/post-536325/",
       "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T00:30:41.187572",
+  "updatedAt": "2026-11-04T01:00:48.456929",
   "sites": [
     {
       "id": "hachima",
