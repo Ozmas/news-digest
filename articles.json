@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "命と向き合うきっかけに。小池栄子の愛犬・ボニーとエイドリアン",
+      "description": "生命の誕生、育児。奇跡の時間をくれた愛犬たち。視野が、世界が広がった 猫を2匹相次いで見送ったあと、シュナウザーのボニーがやってきました。 犬と暮らすのは初めてのことでしたが、しばらくして、その子が自宅で出産することに。 [&#8230;]",
+      "link": "https://brutus.jp/post-535662/",
+      "pubDate": "Wed, 04 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【アカン】無印良品の公式アプリからクレカ番号の全桁、109万件が漏えいした可能性！急いで不正利用の確認を",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583289.html",
+      "pubDate": "2026-11-04T18:30:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d3a77984.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -585,19 +611,6 @@
       "link": "https://jin115.com/archives/52461915.html",
       "pubDate": "2026-11-04T09:40:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/9/d9330cef.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【つらい】人を好きになったことがなかったINTP（論理学者的）男性さん、ガチのマジで最悪の失恋をしてしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583193.html",
-      "pubDate": "2026-11-04T09:30:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/e/5e7f203a.jpg"
     },
     {
       "siteId": "jin",
@@ -1250,19 +1263,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月2日〜11月8日 獅子座の運勢【ブルータス週間占い】",
-      "description": "獅子座の羅針盤 素直な気持ちを伝える 獅子座は、人前で張り切って、輝くために努力を惜しまない傾向があります。ただ、今週は、特別なことをしなくても、普段どおりの自分で十分うまくいきそうです。 2日に自エリア（獅子座）で迎え [&#8230;]",
-      "link": "https://brutus.jp/post-536319/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T09:30:44.082959",
+  "updatedAt": "2026-11-04T10:00:51.669151",
   "sites": [
     {
       "id": "hachima",
