@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "GMO熊谷代表に文春砲！不正アクセス被害発表当日に美女2人とパーティ、自民党議員への投票司令との報道",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583250.html",
+      "pubDate": "2026-11-04T17:30:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e23fcc9.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "スイッチ2版『FF7リメイク』『FF7リバース』ニンテンドーストアで986円セール！発売から半年足らずで85%オフの投げ売り状態ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583234.html",
+      "pubDate": "2026-11-04T17:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2f9fc7c4.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +39,19 @@
       "link": "https://rocketnews24.com/2026/11/04/2859729/",
       "pubDate": "Wed, 04 Nov 2026 08:00:29 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/79fcda5a-e4b4-4ae8-ba2a-48bd3f0abf45.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【厳選まとめ】Amazonスマイルセール開催中！狙うべき商品を迷わずお届け！物価高で倍以上に値上がりした“アレ”を超絶節約できるライフハックも紹介するぞ！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461941.html",
+      "pubDate": "2026-11-04T17:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
       "siteId": "brutus",
@@ -600,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89c8b14a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】中国から日本に飛散する「黄砂」、韓国はもっと想像以上にエグかった……　ヤバさが一発で理解できる画像がこちら！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583186.html",
-      "pubDate": "2026-11-04T08:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/3/4396b000.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -637,19 +663,6 @@
       "link": "https://brutus.jp/post-521006/",
       "pubDate": "Tue, 03 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】政府、国策広報として吉本興業に夫婦漫才を作らせてしまう…　官邸筋「国民はこれで政策に好意的になるやろｗ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583176.html",
-      "pubDate": "2026-11-04T07:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/856baca0.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52461899.html",
       "pubDate": "2026-11-04T02:00:05+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/c/9ca67729.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】『だぶるぷれい』 『天牌』 『モンキーピーク』など、日本文芸社の人気漫画が「ほぼ全巻99円」の激安セールは今日まで！！いいおっさんのマンガの日フェア！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461907.html",
-      "pubDate": "2026-11-04T01:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/16ce60aa.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1562,7 +1562,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T08:00:48.964007",
+  "updatedAt": "2026-11-04T08:30:39.578642",
   "sites": [
     {
       "id": "hachima",
