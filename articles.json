@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2163話目「新設、トラップ部隊㊲」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/04/2859631/",
+      "pubDate": "Wed, 04 Nov 2026 12:00:54 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2163a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ドラゴンズドグマ2DA』と『ダンジョン飯』がコラボ！ライオスとマルシルのポーン＆衣装が配信 → どうしても「あの人」を思い出してしまうと話題にｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583306.html",
+      "pubDate": "2026-11-04T21:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/5812cb3e.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +533,6 @@
       "link": "https://jin115.com/archives/52461929.html",
       "pubDate": "2026-11-04T12:00:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/150e5613.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジ注意】渋谷センター街でドルオタがいきなり男性に腕を掴まれて絡まれる　→　なら警察に行きましょうと交番に行ったら◯◯◯だったと判明…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583202.html",
-      "pubDate": "2026-11-04T12:00:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/3/f3428c14.png"
     },
     {
       "siteId": "brutus",
@@ -1092,19 +1105,6 @@
       "link": "https://casabrutus.com/categories/culture/492788",
       "pubDate": "Mon, 02 Nov 2026 22:00:43 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2161話目「新設、トラップ部隊㉟」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/11/02/2859146/",
-      "pubDate": "Mon, 02 Nov 2026 12:00:39 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2161a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T12:00:48.669141",
+  "updatedAt": "2026-11-04T12:30:42.475794",
   "sites": [
     {
       "id": "hachima",
