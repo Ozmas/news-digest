@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ってことはつまり…！ チャンスを逃す青年！　四コマサボタージュFB第124回「解釈」",
+      "description": "四コマでは「女版のぶつかりおじさん」って言い回しをしてるけど、結構前にネットニュースで「ぶつかりおばさんが出た」ってやってたよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/05/2833471/",
+      "pubDate": "Wed, 04 Nov 2026 22:00:22 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-124.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "クルド人、不法移民対策で自主帰国が続出　クルド系解体業者も続々と廃業へ→クルド人「我々がいなくなったら関東の解体業は回らなくなる。国はわかってない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461962.html",
+      "pubDate": "2026-11-05T07:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/f/cf8e665d.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -743,19 +769,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/b1_e80dcf.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【知ってた】中国のメーカー、「Android TV」の端末にバックドアを仕込んでアクセス権を犯罪者に販売していた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461919.html",
-      "pubDate": "2026-11-04T10:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/9/99fe8270.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1066,19 +1079,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/03/standsun/",
       "pubDate": "Mon, 02 Nov 2026 23:01:24 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8324-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "お前が冷笑すな！ 繰り広げられるサンタさんいるいない論争！　四コマサボタージュFB第122回「実在」",
-      "description": "UMAとか妖精とかのジャンルにサンタさんを当てはめるとしたら、一体どれに分類されるんだろうね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/03/2833469/",
-      "pubDate": "Mon, 02 Nov 2026 23:00:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-122.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T21:30:39.226444",
+  "updatedAt": "2026-11-04T22:00:45.313243",
   "sites": [
     {
       "id": "hachima",
