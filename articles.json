@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "倉庫の朝礼「三日連続で脱走してパチンコに行った者がいました。カメラですぐバレます」→ 派遣「一日目でクビにならないの？」と談笑してたら、社員の一言で現場が凍りつく",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461946.html",
+      "pubDate": "2026-11-04T23:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/7/978b9d80.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -782,19 +795,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7936-1-1024x767.jpeg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【超朗報】日本政府、ついに外国人犯罪に本気の対策へ（※なお・・・・・・）",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461913.html",
-      "pubDate": "2026-11-04T08:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89c8b14a.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1113,6 +1113,19 @@
       "siteColor": "#fbbf24",
       "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
       "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "内田鋼一の“やきもの”好き。ファッションキュレーター・小木基史（POGGY）",
+      "description": "ストリートの精神を持ちながら、もの作りの真髄を表す小壺 一目惚れしちゃいましたね。 内田さんは、どこかの窯元に弟子入りしたわけでも、誰に習ったわけでもない。世界中を旅し、自分の手を動かしながら体で学んでいく。韓国に行けば [&#8230;]",
+      "link": "https://brutus.jp/post-535300/",
+      "pubDate": "Mon, 02 Nov 2026 13:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
       "title": "日用品図鑑：〈TAS WORKS〉デザイナー・古屋智英の愛用する〈レデッカー〉のミルクボトルブラシetc.",
       "description": "〈＋C：タスク〉のブラケット照明 HAMON お店〈NODE〉でさまざまな作り手と出会い、〈TAS WORKS〉として空間設計を手がける中で、自然と生まれたオリジナルブランド〈＋C：タスク〉のブラケット照明「HAMON」 [&#8230;]",
       "link": "https://brutus.jp/post-533659/",
@@ -1246,19 +1259,6 @@
       "title": "11月2日〜11月8日 牡羊座の運勢【ブルータス週間占い】",
       "description": "牡羊座の羅針盤 過去のわだかまりをほどく 牡羊座から見て娯楽の部屋である獅子座で、下弦の月が起こります。獅子座には火星（意欲）も在住しているため、遊びや自己表現へのエネルギーが高まっています。 ただ、下弦の月によって、楽 [&#8230;]",
       "link": "https://brutus.jp/post-536306/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月2日〜11月8日 牡牛座の運勢【ブルータス週間占い】",
-      "description": "牡牛座の羅針盤 頑張ってきた自分を労る 今週はゆっくりとしたペースで過ごせそうです。牡牛座から見て居場所や基盤を示す部屋、獅子座での下弦の月は、これまで積み上げてきたものの振り返りを促します。立ち止まって、自分が成し遂げ [&#8230;]",
-      "link": "https://brutus.jp/post-536310/",
       "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T14:00:49.157505",
+  "updatedAt": "2026-11-04T14:30:42.175297",
   "sites": [
     {
       "id": "hachima",
