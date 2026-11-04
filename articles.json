@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】東京駅で最高のおやつを。〈neu by sarkara〉の「ミルクスコーンとコンフィチュール」",
+      "description": "焼き菓子を愛するあの人へ駅ナカに誕生した注目の焼き菓子専門店 〈neu by sarkara〉の「ミルクスコーンとコンフィチュール」 今年9月、JR東京駅構内の〈グランスタ東京〉にオープンした〈neu by sarkar [&#8230;]",
+      "link": "https://brutus.jp/post-536595/",
+      "pubDate": "Wed, 04 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "唐揚げ食べ放題850円！ 新宿駅前と思えないコスパの「酔ってき屋」ランチビュッフェ2周目で知った攻略情報",
+      "description": "サラリーマンの外食ランチ1000円時代。私（中澤）の職場は新宿であるため、満足できるものを食べたい時のランチ感覚はもはや1200円くらいまでなら普通になっている。そんな中、駅前を歩いていたところ、ランチビュッフェ850円 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/04/2858509/",
+      "pubDate": "Wed, 04 Nov 2026 02:55:10 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/yotteki3.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -11,7 +37,7 @@
       "title": "【悲報】暴落止まらないキオクシア株、本日ついに1万円割れ（マイナス12％以上）　　おにやさん達、信用フルレバ購入民が追証地獄で終了…",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10583200.html",
-      "pubDate": "2026-11-04T11:30:30+09:00",
+      "pubDate": "2026-11-04T11:30:23+09:00",
       "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
     },
     {
@@ -26,6 +52,19 @@
       "link": "https://jin115.com/archives/52461930.html",
       "pubDate": "2026-11-04T11:30:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/503f0721.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "ジャスパー・モリソンが〈HAY〉のために初めて手がけた一脚。",
+      "description": "ジャスパー・モリソンが〈HAY〉のために初めて手がけた椅子《Pack Chair》。",
+      "link": "https://casabrutus.com/categories/design/494670",
+      "pubDate": "Wed, 04 Nov 2026 02:25:12 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1068,19 +1107,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「美味しんぼ」で海原雄山が餃子を蒸していたので水餃子より美味しいのか食べ比べてみた",
-      "description": "2027年にTVアニメ「新 美味しんぼ」がスタートすることでも話題の「美味しんぼ」。私は配信でたまたま以前のアニメを見たらすっかりハマってしまった。 キャラクターも魅力的だし、毎回いろいろな食べ物に深く切り込んでいるのが [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/02/2857700/",
-      "pubDate": "Mon, 02 Nov 2026 02:55:45 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/Photo-6-13.jpeg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1207,19 +1233,6 @@
       "title": "11月2日〜11月8日 乙女座の運勢【ブルータス週間占い】",
       "description": "乙女座の羅針盤 人間関係を整理する 2日に下弦の月が起こる獅子座は、乙女座から見て内省の部屋にあたります。下弦の月は、物事を手放す後押しをする存在。今週は、過去の苦い思い出や後悔、無意識に抱えていたネガティブな感情を整理 [&#8230;]",
       "link": "https://brutus.jp/post-536321/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月2日〜11月8日 天秤座の運勢【ブルータス週間占い】",
-      "description": "天秤座の羅針盤 好きなものを、好きなように楽しむ のんびりマイペースに過ごすのが向いている週です。未来のことをあれこれ考えたり、無理に行動を起こしたりするよりも、今この瞬間を楽しむことに意識を向けてみましょう。 4日に、 [&#8230;]",
-      "link": "https://brutus.jp/post-536323/",
       "pubDate": "Mon, 02 Nov 2026 01:00:00 +0000",
       "thumbnail": ""
     },
@@ -1352,19 +1365,6 @@
       "link": "https://www.buzzfeed.com/jp/yuisasaki/ninomiyakazuya1030",
       "pubDate": "Sat, 31 Oct 2026 06:01:04 -0400",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/30/05/subbuzz/zpaQGxKZK.jpg?crop=5203:3469;514,100&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "京都・三条の安藤忠雄の名建築〈TIME’S〉に、建築文化を発信する新拠点が誕生！",
-      "description": "建築を知り、学び、楽しむための新たな場所が京都に誕生した。安藤忠雄設計の〈TIME'S〉にオープンした〈京都建築センター〉は、建築ツアーや展示、ライブラリーなどを備えた国内初の建築ツーリズム拠点。2026年10月31日〜11月8日開催「京都モダン建築祭」の拠点にもなる。運営を担う〈まいまい〉代表の以倉敬之、空間デザインを手がけた〈MIDW〉の服部大祐＋服部さおり、〈studio arche〉甲斐貴",
-      "link": "https://casabrutus.com/categories/architecture/495696",
-      "pubDate": "Sat, 31 Oct 2026 07:25:26 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-04T02:36:10.706461",
+  "updatedAt": "2026-11-04T03:00:49.399966",
   "sites": [
     {
       "id": "hachima",
