@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【関越道・高坂SA】十万石まんじゅうの餡子を使った「十万石あんぱん」が罪深いウマさ！ クリーム入りはマジでギルティー",
+      "description": "高速道路のサービスエリア・パーキングエリアは、車で行くものだが、徒歩で行ける場所も少なくない。たとえば、NEXCO中日本の「ぷらっとパーク」やNEXCO西日本の「ウェルカムゲート」、そしてNEXCO東日本の「ウォークイン [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/04/2857485/",
+      "pubDate": "Wed, 04 Nov 2026 00:00:15 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/10mananpan.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "イーロン・マスク「宇宙にデータセンター作れば冷やすのも簡単だろｗ」 有識者「逆。宇宙の方が冷えない」→イーロンがとんでもない捨て台詞を吐いてブチギレｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461914.html",
+      "pubDate": "2026-11-04T09:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/7/a7e7b7f2.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -41,6 +67,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89c8b14a.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】中国から日本に飛散する「黄砂」、韓国はもっと想像以上にエグかった……　ヤバさが一発で理解できる画像がこちら！！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583186.html",
+      "pubDate": "2026-11-04T08:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/3/4396b000.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -76,7 +115,7 @@
       "title": "【悲報】政府、国策広報として吉本興業に夫婦漫才を作らせてしまう…　官邸筋「国民はこれで政策に好意的になるやろｗ」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10583176.html",
-      "pubDate": "2026-11-04T07:30:27+09:00",
+      "pubDate": "2026-11-04T07:30:28+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/856baca0.jpg"
     },
     {
@@ -496,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/c/ec1f9bc3.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "楽しんご、防災庁の緊急要請に苦言「全部国が用意してくれよ。災害に備えるためのお金まで全部国民の自己負担っておかしくない？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583106.html",
-      "pubDate": "2026-11-03T20:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d3656582.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +702,6 @@
       "link": "https://jin115.com/archives/52461863.html",
       "pubDate": "2026-11-03T13:00:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/504fc336.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "11月発売の注目漫画・ラノベ新刊まとめ！キングダム、ヤニねこ、宇崎ちゃんは遊びたい、僕の心のヤバイやつ、SAKAMOTO DAYSなど！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461848.html",
-      "pubDate": "2026-11-03T12:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/44071ac0.jpg"
     },
     {
       "siteId": "brutus",
@@ -1066,19 +1079,6 @@
       "link": "https://artscape.jp/article/80726/",
       "pubDate": "Mon, 02 Nov 2026 02:00:03 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「唐揚げ弁当298円」のニハマル弁当に2年ぶりに行ってみたら看板がない！ さすがに無理かと思いきや、やっぱり踏ん張ってた",
-      "description": "マクドナルドのビッグマックが単品で500円の時代。とどまることを知らない物価高騰の中でいくつもの移りゆく価格を眺めている今日この頃は、まさしく値上げのTomorrow never knowsだ。優しさだけじゃ生きられない [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/02/2857830/",
-      "pubDate": "Mon, 02 Nov 2026 01:00:37 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/niha2.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-03T23:30:40.518834",
+  "updatedAt": "2026-11-04T00:00:53.523947",
   "sites": [
     {
       "id": "hachima",
