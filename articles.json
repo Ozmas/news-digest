@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『2026年流行語大賞』ノミネートされた言葉はコレ！お前ら、聞いたことあるか・・・？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462024.html",
+      "pubDate": "2026-11-06T04:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60c832b6.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【2年ぶり】ミスドのポケモンコラボで「やべぇアローラディグダ博覧会」が開催",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583626.html",
+      "pubDate": "2026-11-06T04:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/07b57dee-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -522,19 +548,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "VTuberユニット「MonsterZ MATE」からアンジョーが脱退。歌い手・un:c（あんく)としても活動",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583574.html",
-      "pubDate": "2026-11-05T17:50:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/c/8c0024d6-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -663,19 +676,6 @@
       "link": "https://rocketnews24.com/2026/11/05/2860096/",
       "pubDate": "Thu, 05 Nov 2026 04:12:45 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/AmazonGift02.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ミスタードーナツ×ポケモン』コラボ、ガチでとんでもないことになってしまうｗｗｗｗｗ「子供が泣く」「やってることがロケット団」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461984.html",
-      "pubDate": "2026-11-05T13:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/27216db4.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-05T19:00:49.434316",
+  "updatedAt": "2026-11-05T19:30:38.686825",
   "sites": [
     {
       "id": "hachima",
