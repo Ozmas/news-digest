@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【背徳メシ】秋葉原の「ケンタッキーフライドチキン」で食べられる限定メニューがあるってマジ！？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583631.html",
+      "pubDate": "2026-11-06T05:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/e/ee7dbcd6.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本、ついに核を持つかもしれない",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462025.html",
+      "pubDate": "2026-11-06T05:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9d1e320e.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -522,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/d/6d3315cd-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【決算】任天堂、2027年3月期決算は営業利益49.1％増の2165億円！『トモダチコレクション わくわく生活』が881万本を記録！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583458.html",
-      "pubDate": "2026-11-05T18:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f6fd9b9.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -650,19 +663,6 @@
       "link": "https://rocketnews24.com/2026/11/05/2859712/",
       "pubDate": "Thu, 05 Nov 2026 05:00:27 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2741-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【物議】アニメ『ぼっち・ざ・ろっく！』、新作映画の公開決定→漫画家「勿論観たいのだが、◯◯だから金を払って観に行くわけには行かなくなった」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461985.html",
-      "pubDate": "2026-11-05T14:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/7/a7d4779a.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-05T20:00:48.327631",
+  "updatedAt": "2026-11-05T20:30:39.825267",
   "sites": [
     {
       "id": "hachima",
