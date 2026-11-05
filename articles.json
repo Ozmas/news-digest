@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "荒川でシーバス釣りをしていたYouTuber「ん？足みたいなものが見えるぞ？」→本当にヤバいものだった・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461965.html",
+      "pubDate": "2026-11-05T10:30:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/c/ec98c39d-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】VTuber本阿弥あずさ主演＆監修！　Switchの初恋ADV『あじゅ～るメモリア』がAmazonで予約スタート",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583401.html",
+      "pubDate": "2026-11-05T10:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/1/c119244b.jpg"
+    },
+    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -522,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/be72b02d.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【朗報】有名ホロライブアンチ「太母神ナギ」が逮捕！みけねこさん(元・潤羽るしあ)の刑事告発が実を結ぶ！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583315.html",
-      "pubDate": "2026-11-04T22:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/351fa570.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/11/04/2859711/",
       "pubDate": "Wed, 04 Nov 2026 06:30:06 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/henai06.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "トランプ大統領、完全敗北",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461942.html",
-      "pubDate": "2026-11-04T15:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/5/85661a97.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-05T01:30:36.992070",
+  "updatedAt": "2026-11-05T02:00:48.254661",
   "sites": [
     {
       "id": "hachima",
