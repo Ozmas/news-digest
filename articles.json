@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【物議】アニメ『ぼっち・ざ・ろっく！』、新作映画の公開決定→漫画家「勿論観たいのだが、◯◯だから金を払って観に行くわけには行かなくなった」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52461985.html",
+      "pubDate": "2026-11-05T14:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/7/a7d4779a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民、Amazonで当選したポケカが届くも、箱の中が無惨な状態になり咽び泣く…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583420.html",
+      "pubDate": "2026-11-05T13:30:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5b2a58c0-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -652,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/6/96f0a95f.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【朗報】日本人、ついに増える！上半期の出生数が11年ぶりプラス",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583342.html",
-      "pubDate": "2026-11-05T01:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a26b5bf3.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/11/04/2859631/",
       "pubDate": "Wed, 04 Nov 2026 12:00:54 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2163a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男性(24)「友達も少なく、彼女もいない。仕事をして、我慢して、節約して貯めた3,000万円で株を買うわ」 → 半年後、とんでもないことになっていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52461949.html",
-      "pubDate": "2026-11-04T21:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/5/3598edbd-s.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-05T04:30:37.458423",
+  "updatedAt": "2026-11-05T05:00:46.313220",
   "sites": [
     {
       "id": "hachima",
