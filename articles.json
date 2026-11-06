@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "30～69歳の男性1万人を対象に「身体の悩みは？」と聞いた結果、1位は案の定アレだった…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583735.html",
+      "pubDate": "2026-11-06T15:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8b6c906e-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "http://blog.esuteru.com/archives/10583626.html",
       "pubDate": "2026-11-06T04:00:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/07b57dee-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "笑い声が「ガノンドロフ」と完全に一致する女性VTuberが見つかってしまうｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583613.html",
-      "pubDate": "2026-11-06T03:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/42ab9540-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-06T06:00:46.593049",
+  "updatedAt": "2026-11-06T06:30:41.004813",
   "sites": [
     {
       "id": "hachima",
