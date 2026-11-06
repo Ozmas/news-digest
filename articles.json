@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "上司「お前なんか辞めちまえ！」 → 待ってましたと退職届を出すも破られる → 予備の退職届を持ってダッシュで人事部に行った結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462075.html",
+      "pubDate": "2026-11-07T01:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/d/0df5b04c.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -728,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/11/06/2859849/",
       "pubDate": "Fri, 06 Nov 2026 03:30:53 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hjirou.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【物議】フジテレビ、全てのドラマに生成AIを本格導入へ・・・一部工程では最大○○%の工数削減",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462043.html",
-      "pubDate": "2026-11-06T12:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/e/ee3a1746.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-06T16:00:48.113477",
+  "updatedAt": "2026-11-06T16:30:40.876959",
   "sites": [
     {
       "id": "hachima",
