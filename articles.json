@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "｢結婚できない趣味ランキング｣女性部門ワースト5発表！男性に最も敬遠される趣味はアレ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584072.html",
+      "pubDate": "2026-11-06T23:30:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b33f953.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +663,6 @@
       "link": "http://blog.esuteru.com/archives/10583720.html",
       "pubDate": "2026-11-06T14:30:55+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bd092d11.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "政府「サイバー攻撃ヤバイね。もうね、また仕掛けられたら強制遮断をしようかなと思ってるの」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583710.html",
-      "pubDate": "2026-11-06T14:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/07b7b7e4-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-06T14:30:41.149401",
+  "updatedAt": "2026-11-06T15:00:50.104186",
   "sites": [
     {
       "id": "hachima",
