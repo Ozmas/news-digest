@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ドコモ、契約者の個人情報を無断でAmazonに流しまくっていた！ガチで終わってるだろこれ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462088.html",
+      "pubDate": "2026-11-07T07:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/e/ee7c67da.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【神対応】バ先店長「今日は君の人生初バイトの初給料か…はい◯◯」　→　店長の粋すぎる行動にバイト学生の親御さんが感動でむせび泣く…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584106.html",
+      "pubDate": "2026-11-07T07:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/cc183b90.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +522,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "立憲民主党、「遺伝子操作された軍用犬を導入する可能性！ソースはX！」とか騒ぎ出す",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584031.html",
-      "pubDate": "2026-11-06T18:40:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/57446a97-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "https://jin115.com/archives/52462065.html",
       "pubDate": "2026-11-06T16:00:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/804031ed-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "トランプ大統領、焦ったのかヤバい事を言い出す・・・「○○せざるを得ない。すぐにわかるさ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462052.html",
-      "pubDate": "2026-11-06T15:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/a/6a8443f5.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-06T22:00:49.859653",
+  "updatedAt": "2026-11-06T22:16:15.758559",
   "sites": [
     {
       "id": "hachima",
