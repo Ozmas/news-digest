@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【物議】フジテレビ、全てのドラマに生成AIを本格導入へ・・・一部工程では最大○○%の工数削減",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462043.html",
+      "pubDate": "2026-11-06T12:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/e/ee3a1746.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃事実】韓国人さん、あまりに小泉進次郎に詳しすぎる！　→　日本人より完璧な韓国人の「進次郎構文」がこちらｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583709.html",
+      "pubDate": "2026-11-06T12:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/a/1a4920d8.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -691,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/b/cb3eb570.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "親「不登校の中3の娘がネットで知り合った男子に飛行機に乗って会いに行くらしいから、こっそりついてくわ」 → まさかの〇〇が現れるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462003.html",
-      "pubDate": "2026-11-06T00:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/9/d9216cb7.jpg"
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -715,19 +728,6 @@
       "link": "http://blog.esuteru.com/archives/10583610.html",
       "pubDate": "2026-11-05T23:30:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/b/4b3ebc5b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】フランス銀行大手、サイバー攻撃を受け\"約210億円\"盗まれてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583609.html",
-      "pubDate": "2026-11-05T23:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/a/2abbbad2.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-06T03:00:47.675082",
+  "updatedAt": "2026-11-06T03:30:37.962727",
   "sites": [
     {
       "id": "hachima",
