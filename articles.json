@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【池袋】600円で約10組の芸人が見られるって本当!? 気軽に楽しめるお笑いライブ「ラスタ池袋」に行ってみた！",
+      "description": "池袋で、たった600円で楽しめるお笑いライブがあるらしい。 約10組の芸人が次々と登場し、40〜50分間にわたってネタを披露してくれるという。600円って、今どきカフェでドリンクを1杯注文するのと変わらない金額ではないか [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/06/2859518/",
+      "pubDate": "Fri, 06 Nov 2026 10:00:24 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/lastikebukuro-13.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ロックの話をしよう。Vol.21「うわさの男、ハリー・ニルソン」",
+      "description": "ロックが流行らなくなった。そんな身も蓋もない話から、この対談は始まる。 かつてロックは、若者の音楽であり、バンドの音楽であり、衝動やロマンや思想を映し出す音楽だった。ギターを持つこと、バンドを組むこと、レコードを買うこと [&#8230;]",
+      "link": "https://brutus.jp/post-528931/",
+      "pubDate": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1198,19 +1224,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "高松駅前「めりけんや」で知った “うどん県” の底力！ 人生初の香川、駅前チェーンでこのレベルなのか…",
-      "description": "つい先日、生まれて初めて香川県……というか、四国に立ち寄った。これまで四国とは縁が無かったものの「岡山から電車で行ける」と知って、岡山駅からマリンライナーに飛び乗った次第だ。 香川にはわずか2時間程度の滞在であったが、や [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/05/2859081/",
-      "pubDate": "Thu, 05 Nov 2026 01:00:27 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kagawa02.jpeg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1286,19 +1299,6 @@
       "description": "生命の誕生、育児。奇跡の時間をくれた愛犬たち。視野が、世界が広がった 猫を2匹相次いで見送ったあと、シュナウザーのボニーがやってきました。 犬と暮らすのは初めてのことでしたが、しばらくして、その子が自宅で出産することに。 [&#8230;]",
       "link": "https://brutus.jp/post-535662/",
       "pubDate": "Wed, 04 Nov 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "和な色合いをポケットの中に。〈LOUIS VUITTON〉の財布：Brutus Best Bets",
-      "description": "和な色合いをポケットの中に ショッピングを終えても、つい取っておきたくなるメゾンのショッパー。ならば、その姿を財布でも楽しんでみるのはどうだろう。〈ルイ・ヴィトン〉から登場した2種の財布は、ロゴを配したレザーに、桜を思わ [&#8230;]",
-      "link": "https://brutus.jp/post-535561/",
-      "pubDate": "Wed, 04 Nov 2026 08:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-06T09:43:39.453664",
+  "updatedAt": "2026-11-06T10:00:48.217685",
   "sites": [
     {
       "id": "hachima",
