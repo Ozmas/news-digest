@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【動画】ひろゆきさん「日本と中国は仲良くするべきなのに、それを言うと何故か叩かれるｗ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462037.html",
+      "pubDate": "2026-11-06T08:30:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/f/ff5c8daa.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】「冷水しか出ない蛇口と熱湯しか出ない蛇口、別々だから不便すぎ……せや！」　→　ある人が◯◯◯で一発で適温のお湯を出す事に成功！　これは頭いいｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10583681.html",
+      "pubDate": "2026-11-06T08:30:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/8/e8a2ca01.png"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "フジテレビ、全ドラマに生成AIを本格導入へ！『救命病棟24時』などで導入済み「作業工数を最大70～80％削減できた」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583590.html",
-      "pubDate": "2026-11-05T19:30:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/6/a6356516.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -624,19 +637,6 @@
       "link": "https://rocketnews24.com/2026/11/05/2859293/",
       "pubDate": "Thu, 05 Nov 2026 10:00:10 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/sayounara.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "任天堂とソニーの決算、ガチでやばいことになる・・・どうしてここまで差がついてしまったのか",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462009.html",
-      "pubDate": "2026-11-05T19:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/1/a11ca4bb.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-05T23:30:37.690594",
+  "updatedAt": "2026-11-06T00:00:48.043037",
   "sites": [
     {
       "id": "hachima",
