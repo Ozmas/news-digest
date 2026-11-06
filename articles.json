@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】唐揚げの「やまだ商店」が大変身！リニューアルオープンの日も間近です。",
+      "description": "&#160; いつも号外NET墨田区をご覧いただきましてありがとうございます。今回も読者さまからの情報提供を元にOPEN情報をお伝えします。 先日、緑2丁目の唐揚げ専門店「やまだ商店」の改装休業についてお伝えしましたが… [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/07/asomiso/",
+      "pubDate": "Fri, 06 Nov 2026 23:01:05 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8385-1024x767.jpeg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "似合うかしら！ 文化祭の特別衣装を披露する隣りの女子！　隣りの席の子の様子がおかしい第75回「文化祭の準備」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/07/2833945/",
+      "pubDate": "Fri, 06 Nov 2026 23:00:41 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari75-1koma.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -13,6 +39,19 @@
       "link": "https://jin115.com/archives/52462089.html",
       "pubDate": "2026-11-07T08:00:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/5/c525adbc.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【放送事故】有名配信者・ゆゆうたさんが屋外配信中に不審者に襲われる動画、あまりに怖すぎる……((((( ；ﾟДﾟ)))",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584116.html",
+      "pubDate": "2026-11-07T08:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/7005b177.jpg"
     },
     {
       "siteId": "brutus",
@@ -494,19 +533,6 @@
       "link": "https://brutus.jp/post-529389/",
       "pubDate": "Fri, 06 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【外道】「亡くなった娘で金稼ごうとしてる」などと池袋暴走事故の遺族を中傷した男、書類送検",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584038.html",
-      "pubDate": "2026-11-06T19:50:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/2/b224536d-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1224,19 +1250,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/ikerouki.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【立ち食いそば放浪記405】昭和レトロな商店街に高コスパ鴨そば屋が隠れてた！ B級鴨グルメ専門店『鴨いち』が人情の味",
-      "description": "ひんやりとした空気に冬の足音が聞こえるようだ。この時期の旬の食材の1つと言えば鴨。芯から体が温まる味わいは、どこか伝統的なオーラがある。発祥は大衆だとしても、時代の流れで箔がついたのかもしれない。ゆえに、個人的にはちょい [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/05/2859089/",
-      "pubDate": "Thu, 05 Nov 2026 02:30:23 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamoichi2.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1523,19 +1536,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/yonezawa4.jpg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】悲報…。唯一無二のボリュームと味わい。向島の人気店「角萬」が閉店しました。",
-      "description": "向島3丁目、水戸街道沿いの手打ちそば「角萬」。 蔦に覆われた外観が印象的な蕎麦店です。 唯一無二ともいえる極太の蕎麦を味わえる店として有名でした。 2026年10月中旬、筆者のもとにも「角萬が閉店するらしい」という情報が [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/10/28/kadoman-close/",
-      "pubDate": "Tue, 27 Oct 2026 23:01:07 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8419-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-06T23:00:48.189537",
+  "updatedAt": "2026-11-06T23:30:40.417635",
   "sites": [
     {
       "id": "hachima",
