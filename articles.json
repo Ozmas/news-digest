@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】田舎の高校生3人組、渋谷で「俺たちは静岡から来たトクリュウカイの者だ」と会社員の30代男性を取り囲み顔面を殴り現金を脅し取る",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584043.html",
+      "pubDate": "2026-11-06T20:20:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/50a06db0.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://rocketnews24.com/2026/11/06/2860098/",
       "pubDate": "Fri, 06 Nov 2026 02:00:22 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/f18a84db-9539-4e42-aa57-e04d17543bfb.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【！？】Steam版『ニーアオートマタ』、アップデート後に突然必要容量が366GBになるバグが発生してしまうｗｗｗｗｗ 『GTA6』よりも多いデータ容量にｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583695.html",
-      "pubDate": "2026-11-06T11:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7ea8e136.png"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-06T11:00:48.276880",
+  "updatedAt": "2026-11-06T11:30:42.397672",
   "sites": [
     {
       "id": "hachima",
