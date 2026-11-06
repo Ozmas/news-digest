@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【スゲエ】にじさんじVTuber・家長むぎさんが令和8年度第1回 日本語検定1級の時事通信社賞 優秀賞を受賞",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584059.html",
+      "pubDate": "2026-11-07T06:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/9/b96a7ece-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +520,6 @@
       "link": "https://jin115.com/archives/52462072.html",
       "pubDate": "2026-11-06T18:30:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/3/635fc668.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "路上ですれ違いざまに女子大学生の頬を平手打ちした39歳男逮捕　他に7人の女子高生や女子大生に連続して背後から跳び蹴りをしたり腹部を殴ったり",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583956.html",
-      "pubDate": "2026-11-06T18:20:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/4/44ea4a26.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-06T20:30:43.686752",
+  "updatedAt": "2026-11-06T21:00:47.892889",
   "sites": [
     {
       "id": "hachima",
