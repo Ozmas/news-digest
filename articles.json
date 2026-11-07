@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "結婚できない女性の趣味ランキング、3位「推し活」・2位「海外旅行」・1位はまさかの・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462097.html",
+      "pubDate": "2026-11-07T11:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/a/2abb3440.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【現地レポ】君はスリランカのケンタッキーで一番人気のメニューを知っているか？ （ヒント：チキン以外）",
+      "description": "我が国で近年急速に市民権を得た感のある『ビリヤニ』だが、聞くところ「世界三大炊き込みご飯」の1つとされているのだそうな。そのジャンルが成立するなら「世界三大揚げパン」もあっていい気がする。ので調べたところ、それは無いらし [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/07/2807372/",
+      "pubDate": "Sat, 07 Nov 2026 02:00:35 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_4859.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【地獄】連日大暴落中のキオクシア掲示板、いよいよ本当にマジでヤバい書き込みが出てきてしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584130.html",
+      "pubDate": "2026-11-07T11:00:15+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -522,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bd015116-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "NTTドコモ、個人情報流出で見舞金を検討！さらに別件で総務省から行政指導されてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584055.html",
-      "pubDate": "2026-11-06T22:05:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/913eaec6.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +676,6 @@
       "link": "https://jin115.com/archives/52462058.html",
       "pubDate": "2026-11-06T19:40:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/2/12c32d65.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "民主党に投票したアメリカ人、周りを見て”現実”に気が付いてしまった時の顔がコチラ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462045.html",
-      "pubDate": "2026-11-06T19:20:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/5154ab20.png"
     },
     {
       "siteId": "rocketnews",
@@ -1237,19 +1250,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3546.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2741回「九尾の九ちゃん⑰」",
-      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/11/05/2859712/",
-      "pubDate": "Thu, 05 Nov 2026 05:00:27 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2741-2.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T02:00:48.637909",
+  "updatedAt": "2026-11-07T02:15:32.172233",
   "sites": [
     {
       "id": "hachima",
