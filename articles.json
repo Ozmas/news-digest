@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "綴る、わがままな部屋。〈BOOKNERD〉店主・早坂大輔の居住空間学",
+      "description": "溜め込む家族の家 インテリアに興味を持ちはじめた頃、ミッドセンチュリー家具が巷を席巻していた。それからすぐに北欧ブームがやってきて、そうした波に煽られるだけ煽られ散財した自分がたどり着いたのは〈天童木工〉の家具だった。  [&#8230;]",
+      "link": "https://brutus.jp/post-531041/",
+      "pubDate": "Sat, 07 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "寿司食べ放題3980円！ 千葉最強の寿司チェーン「やまと寿司」の幻の食べ放題に行ってみたら、行列の理由を三度実感した",
+      "description": "千葉最強のグルメ回転寿司である『やまと』。以前お伝えした木更津店は、なんなら首都圏最強なんじゃないかと思うくらい私（中澤）の心に刻まれている。 板前さんが握ってくれるのはもちろん、房総半島の水産会社・ヤマトサカナ株式会社 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/07/2860442/",
+      "pubDate": "Sat, 07 Nov 2026 02:55:16 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/yamato8.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【40％オフ】UNDER ARMOURの定番ロングTシャツ「UAテック2.0」が3850円 → 2295円 / Amazonベストセラー1位",
+      "description": "いまAmazonで開催されている大バーゲン「スマイルSale」。さまざまな人気商品を特別価格で手に入れるチャンスがやってきたぞ。 さて本日は、Amazonメンズアクティブシャツ・Tシャツ部門でベストセラー1位（2026年 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/07/2860694/",
+      "pubDate": "Sat, 07 Nov 2026 02:40:22 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_7784.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「外国人増加が社会にとっていい事が多いとは思わない」と考える中学生、○割超えに",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462111.html",
+      "pubDate": "2026-11-07T11:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/36c9fc68.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】ピサの斜塔、最新の◯◯◯のせいで変わり果てた姿になってしまう……　これもうダメだろｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584131.html",
+      "pubDate": "2026-11-07T11:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/8/c8d65209.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -548,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/edf27d9f.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ダブスタ】消費税減税法案に反対した民改・階猛幹事長「現在の法案への対応と、公約のときに言ったことの扱いとは切り分けていく」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584056.html",
-      "pubDate": "2026-11-06T22:30:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/d/bd015116-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +715,6 @@
       "link": "https://brutus.jp/post-529389/",
       "pubDate": "Fri, 06 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "無職のおっさん、女子高生や女子大生とすれ違うたびに平手打ちや飛び蹴りをかまし逮捕　わずか15分の間に○○人を暴行",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462058.html",
-      "pubDate": "2026-11-06T19:40:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/2/12c32d65.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1198,19 +1237,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "神保町にオープンした「博多うどんウエスト」に行ったら、初心者にドンピシャなメニューを見つけてしまった",
-      "description": "2026年11月2日、「博多うどんウエスト 神保町店」が東京・神保町にオープンした。 「福岡三大うどん」の一角ともいわれる人気チェーンの味を、東京都心で楽しめるだなんて嬉しすぎる！　さっそくお店を訪ねてみたところ、ウエス [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/05/2860191/",
-      "pubDate": "Thu, 05 Nov 2026 08:00:50 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/u5.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1234,32 +1260,6 @@
       "description": "韓国現代美術の巨匠の息遣いが残るソウル・延禧洞に、新たなアートの拠点が誕生した。",
       "link": "https://casabrutus.com/categories/art/494386",
       "pubDate": "Thu, 05 Nov 2026 07:25:53 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "あの「チェルシー」がコラボスイーツになって登場！ モンテール新作3種を食べ比べてみた結果…ダントツ1位はこれだ！",
-      "description": "人間とは勝手な生き物だ。いつでも買えると思っているうちは大して気にも留めないのに、いざ店頭から消えるとなると猛烈に恋しくなるのだから。明治のキャンディー「チェルシー」も、まさにそんな商品のひとつである。 今も「北海道生食 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/05/2859516/",
-      "pubDate": "Thu, 05 Nov 2026 06:00:30 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3546.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】ニットの温もりとリズミカルな配色。〈OCTOBER ＆ MARCH〉のフレーム",
-      "description": "ポストカードを集めるあの人へニット製のフレーム 〈OCTOBER ＆ MARCH〉のフレーム せっかくお気に入りのカードを飾るなら、額縁にもひとひねりほしい。そんな気分に応えてくれるのが、ニットを軸に多彩なアイテムを生み [&#8230;]",
-      "link": "https://brutus.jp/post-535387/",
-      "pubDate": "Thu, 05 Nov 2026 03:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T02:30:40.516249",
+  "updatedAt": "2026-11-07T03:00:47.499792",
   "sites": [
     {
       "id": "hachima",
