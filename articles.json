@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】自転車の『青切符』、導入から半年経った結果ｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584282.html",
+      "pubDate": "2026-11-07T18:20:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/5/d508632b.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +572,6 @@
       "link": "https://jin115.com/archives/52462090.html",
       "pubDate": "2026-11-07T08:30:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2da7ca81.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【つよい】外国人観光客「ハロー、イエ◯ーモンキーｗ」　→　チャリに乗った大阪人が最強にクソおもろい返しをして皆を笑顔にしてしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584119.html",
-      "pubDate": "2026-11-07T08:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/dd32d7d5.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T09:06:09.943499",
+  "updatedAt": "2026-11-07T09:30:41.517999",
   "sites": [
     {
       "id": "hachima",
