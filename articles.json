@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "定番を自由な色で。〈LACOSTE〉のポロシャツ：Brutus Best Bets",
+      "description": "定番ポロを自由な色で 1933年からポロシャツを作り続ける〈ラコステ〉が、定番を大胆なマルチボーダーで一新した。90年代のクージーニットを思わせるレトロな配色に、ドロップショルダーのゆったりしたフォルム。胸元は深めに開き [&#8230;]",
+      "link": "https://brutus.jp/post-536186/",
+      "pubDate": "Sat, 07 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -13,6 +26,19 @@
       "link": "http://blog.esuteru.com/archives/10584183.html",
       "pubDate": "2026-11-07T16:30:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/0670cbe3.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "京都にある築100年の長屋を青いスチールで貫いたショップ〈INTA-NET〉。",
+      "description": "京都は三条京阪の路地裏に潜む、築100年を超える長屋。その歴史ある木造建築に、ブルーの鉄骨が大胆に介入するショップがリニューアルオープンした。",
+      "link": "https://casabrutus.com/categories/architecture/494379",
+      "pubDate": "Sat, 07 Nov 2026 07:25:39 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -1237,19 +1263,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "両者の持ち味を一つに。〈A.P.C. Barbour ...〉のショルダーバッグ：Brutus Best Bets",
-      "description": "両者の持ち味を一つに 〈アー・ペー・セー〉と製作した、〈バブアー〉の代名詞であるオイルドコットンを全面に使ったショルダーバッグが登場。革のトリミングやキャンバス製ストラップ、チェック柄の裏地を合わせ、〈バブアー〉らしい重 [&#8230;]",
-      "link": "https://brutus.jp/post-536174/",
-      "pubDate": "Thu, 05 Nov 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1391,19 +1404,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/04/shinkinoshita-open/",
       "pubDate": "Tue, 03 Nov 2026 23:01:27 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7936-1-1024x767.jpeg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "大学の寄宿舎だった築50年超の木造建築を書店に。カフェやギャラリーも併設する、軽井沢の文化拠点。",
-      "description": "本と出会う時間をじっくり味わえる喫茶スペース併設の書店から、アート本を探すこと自体がアート体験になる書店、複数の店主が共同で運営する話題のシェア型書店まで。わざわざ足を延ばしてでも訪れたい、全国の個性豊かなブックストアを紹介します！",
-      "link": "https://casabrutus.com/categories/culture/492868",
-      "pubDate": "Tue, 03 Nov 2026 22:00:20 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T07:30:40.914143",
+  "updatedAt": "2026-11-07T08:00:47.119763",
   "sites": [
     {
       "id": "hachima",
