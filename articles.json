@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ホロライブの人気Vtuber・大空スバルさん「『ドラクエ2』のリメイクを配信します！」→ドラクエ大好きおじさん、◯◯を理由にブチギレ→大荒れして最悪な結果に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462144.html",
+      "pubDate": "2026-11-07T23:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89aca60e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "今、ナウなヤングに『有線イヤホン』がバカ売れ！！「充電やペアリングしなくていい」「無くさない」「遅延がない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584372.html",
+      "pubDate": "2026-11-07T22:30:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/9/09be197a.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/0/d0cbcf2c.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "イタリア人シェフ「ピザにパイナップルのせる！？文化に対する侮辱！やらない！」→レストラン解雇される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584135.html",
-      "pubDate": "2026-11-07T12:40:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/d/1d8dbccf.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/11/07/2833945/",
       "pubDate": "Fri, 06 Nov 2026 23:00:41 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari75-1koma.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "一世を風靡した高級食パン屋さん、ヤバいことになっていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462089.html",
-      "pubDate": "2026-11-07T08:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/5/c525adbc.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T13:30:40.988572",
+  "updatedAt": "2026-11-07T14:00:47.768678",
   "sites": [
     {
       "id": "hachima",
