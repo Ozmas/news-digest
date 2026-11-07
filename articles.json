@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】大阪で1円玉落としたおばあちゃんに声をかけて教えてあげる　→　ばあちゃんの反応が、非関西人には予想外すぎて4万いいね突破ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584134.html",
+      "pubDate": "2026-11-07T12:20:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/6/7682b60a.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】漫画『中華一番』、今が一番面白い！　清国末期の中国なのに、二郎系ラーメンの料理勝負！　まさかの◯◯が由来になってしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584132.html",
+      "pubDate": "2026-11-07T12:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9096bd4.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "韓国人、ついに言ってしまう「反日とは◯◯病だ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462118.html",
+      "pubDate": "2026-11-07T12:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/10fa927e.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -574,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/0/40ae3efb.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "｢結婚できない趣味ランキング｣女性部門ワースト5発表！男性に最も敬遠される趣味はアレ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584072.html",
-      "pubDate": "2026-11-06T23:30:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b33f953.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -598,19 +624,6 @@
       "link": "https://jin115.com/archives/52462083.html",
       "pubDate": "2026-11-06T23:00:40+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/eb48067c-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ソニーがランクマの初心者狩りを根絶！？「ボタンを押す癖」からサブアカウントを特定し、BANする特許を出願！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584064.html",
-      "pubDate": "2026-11-06T23:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/edf27d9f.jpg"
     },
     {
       "siteId": "jin",
@@ -689,19 +702,6 @@
       "link": "https://jin115.com/archives/52462061.html",
       "pubDate": "2026-11-06T20:30:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/1751eb68.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「今朝ゴミ出しに行った時、道中にあった物がこちら」→とんでもない物が落ちていたｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462059.html",
-      "pubDate": "2026-11-06T20:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/0/908209f3.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T03:00:47.499792",
+  "updatedAt": "2026-11-07T03:30:41.384624",
   "sites": [
     {
       "id": "hachima",
