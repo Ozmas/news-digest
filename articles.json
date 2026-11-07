@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ニンテンドースイッチ2、さらに値上げするかも・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462131.html",
+      "pubDate": "2026-11-07T18:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1d147816.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "草原火災が日本とモンゴルの「友好」の象徴に → 中国メディア「火災の原因は日系企業、消火に協力したのは中国なんだが？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584277.html",
+      "pubDate": "2026-11-07T18:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/a/aa893877.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -587,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/5/c525adbc.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【放送事故】有名配信者・ゆゆうたさんが屋外配信中に不審者に襲われる動画、あまりに怖すぎる……((((( ；ﾟДﾟ)))",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584116.html",
-      "pubDate": "2026-11-07T08:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/7005b177.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -702,19 +715,6 @@
       "link": "https://jin115.com/archives/52462075.html",
       "pubDate": "2026-11-07T01:00:23+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/d/0df5b04c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女子生徒の上履きの「中敷き」だけを盗んで逮捕された男（35）、驚愕の正体が判明ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462064.html",
-      "pubDate": "2026-11-07T00:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c96aa11c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T08:30:39.995431",
+  "updatedAt": "2026-11-07T09:00:48.783339",
   "sites": [
     {
       "id": "hachima",
