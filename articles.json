@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "参政党、共産党と共同歩調へ・・・「共産党には尊敬の念を持ってる。右だ左だと言っている時代ではない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462093.html",
+      "pubDate": "2026-11-07T10:30:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/2/a2dc4f55.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "TikTokさん、生成AIを使ったあまりにも邪悪な機能が発見される・・・これマジヤバくね？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462092.html",
+      "pubDate": "2026-11-07T10:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/b/abf7e000.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】有識者「これから富裕層ほど紙や自然のアナログ体験を楽しみ、貧困層ほどスマホやデジタルの疑似体験に二極化されていく」　→　アメリカでは既に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584124.html",
+      "pubDate": "2026-11-07T10:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d8a2a68-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -522,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/69f3f0f6.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "リメイク版『ムジュラ』くるか！？任天堂「新作とリメイクは同じくらい重要」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584049.html",
-      "pubDate": "2026-11-06T21:15:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/009a95b5.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -639,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/1/5154ab20.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ONE OUTS（ワンナウツ）』面白すぎてXで話題に！「全巻100円セール」をきっかけにバズる！『ライアーゲーム』作者による、野球でやるイカサマ頭脳戦！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462077.html",
-      "pubDate": "2026-11-06T19:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/1/a1b0206c.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -676,19 +689,6 @@
       "link": "https://brutus.jp/post-528931/",
       "pubDate": "Fri, 06 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "LOL配信、ガチで嫌われまくっていた・・・「LTKとかいう多数の配信者を月単位で拘束するイベントやめて欲しい」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462072.html",
-      "pubDate": "2026-11-06T18:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/3/635fc668.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T01:00:48.750399",
+  "updatedAt": "2026-11-07T01:30:40.090469",
   "sites": [
     {
       "id": "hachima",
