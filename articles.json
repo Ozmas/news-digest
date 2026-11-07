@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】若者「これを見て今後もゼルダに触れることはないと確信」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584170.html",
+      "pubDate": "2026-11-07T15:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/4869cfe2.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【嫌な予感】PS5版『グランド・セフト・オート6』日本版、全世界版、オーストラリア版と別れているとの報道…これって",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462124.html",
+      "pubDate": "2026-11-07T15:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8cc23753.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "【悲報】日本ネットワークセキュリティ協会、不正アクセスで個人情報最大1.5万件漏えいの可能性",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10584169.html",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/02810660.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "レンタルなんもしない人、遂に鹿乃つのと何かしてしまう。",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10583815.html",
-      "pubDate": "2026-11-07T03:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4e032f25.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +676,6 @@
       "link": "https://jin115.com/archives/52462070.html",
       "pubDate": "2026-11-06T22:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/b/5b62d42e-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ゴールド(金)の価格、ヤバイことになってた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462074.html",
-      "pubDate": "2026-11-06T21:30:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/69f3f0f6.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T06:00:48.109439",
+  "updatedAt": "2026-11-07T06:30:43.101122",
   "sites": [
     {
       "id": "hachima",
