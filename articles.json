@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】『GTA6』日本版だけ容量が1GB小さいことが判明　CERO規制の影響か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584335.html",
+      "pubDate": "2026-11-07T19:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/4/34224a17.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「撮り鉄の集団とそれを見て笑うギャルたち」というあまりにも芸術的すぎる写真が話題にｗｗｗｗｗｗネット史に残る名画だろこれ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462133.html",
+      "pubDate": "2026-11-07T19:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50d15681.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -548,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/82da36db.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】いらすとやさん、連日の株価大暴落（主にキオクシア）で本気を出してしまうｗｗｗｗ　「この絵が描けるならAI時代でも大丈夫だな」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584122.html",
-      "pubDate": "2026-11-07T09:30:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74762c18.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52462076.html",
       "pubDate": "2026-11-07T03:00:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/02810660.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "上司「お前なんか辞めちまえ！」 → 待ってましたと退職届を出すも破られる → 予備の退職届を持ってダッシュで人事部に行った結果ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462075.html",
-      "pubDate": "2026-11-07T01:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/d/0df5b04c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T10:00:47.804935",
+  "updatedAt": "2026-11-07T10:30:43.317344",
   "sites": [
     {
       "id": "hachima",
