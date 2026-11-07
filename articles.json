@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「キャベピィ MAX」の感動再び。「ののじ ネギピィ」で長ネギが細くふわふわに切れるネギ革命が起きるぞ〜！",
+      "description": "以前、ロケットニュース24で紹介されていた「キャベピィ MAX」。当時、私も記事を読んで購入した読者のひとり。使ってみたら本当にキャベツ革命が起きて感動したし、「キャベピィ MAX」は今でも愛用している。 さて、そんな「 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/07/2859330/",
+      "pubDate": "Sat, 07 Nov 2026 01:00:06 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-12.jpeg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "サルがヒトに進化したのは誤り。東大人気講義録：香田啓貴先生の「適応行動論」",
+      "description": "講義の概要 ヒトの「心」も、進化の中で適応しながら生まれたものとして捉え、文系・理系の両方の立場からヒトの行動を議論し、理解していく講義。動物行動学者の長谷川眞理子と行動生態学者の長谷川寿一が2000年に出版した『進化と [&#8230;]",
+      "link": "https://brutus.jp/post-495163/",
+      "pubDate": "Sat, 07 Nov 2026 01:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【朗報】高市政権、サイバー攻撃対策費用に100億円投入！セキュリティ最強国家へ！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462091.html",
+      "pubDate": "2026-11-07T09:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/82da36db.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】いらすとやさん、連日の株価大暴落（主にキオクシア）で本気を出してしまうｗｗｗｗ　「この絵が描けるならAI時代でも大丈夫だな」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584122.html",
+      "pubDate": "2026-11-07T09:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/74762c18.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -522,19 +574,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "サウジ政府系ファンドら、EAに続いてゲームエンジン『Unity』に「約3.8兆円」の買収協議と報道！嫌な予感しかしないと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584045.html",
-      "pubDate": "2026-11-06T20:50:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/9/69125cc8.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -650,19 +689,6 @@
       "link": "https://jin115.com/archives/52462072.html",
       "pubDate": "2026-11-06T18:30:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/3/635fc668.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "自転車青切符、導入半年で摘発数がとんでもないことになるｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462054.html",
-      "pubDate": "2026-11-06T18:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/4/7419e9bd-s.png"
     },
     {
       "siteId": "artscape",
@@ -1224,19 +1250,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2741-2.png"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【最大81％オフ】半額以下で買える注目アイテム43選 / AmazonスマイルSale開催中",
-      "description": "いまAmazonで開催されている大バーゲン「スマイルSale」。さまざまな人気商品を特別価格で手に入れるチャンスがやってきたぞ。 さて本日は、半額以下で買える注目アイテムを43点ピックアップ。大幅に値下がりした商品を厳選 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/05/2860096/",
-      "pubDate": "Thu, 05 Nov 2026 04:12:45 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/AmazonGift02.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1313,19 +1326,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/05/jonathan202611/",
       "pubDate": "Wed, 04 Nov 2026 23:01:37 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8066-1024x767.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "愛用する住まい、どこが変わりましたか？イラストレーター・三宅瑠人がオーダーした、幅150cmの大きな鏡",
-      "description": "空間にさらなる緑と光を取り込む、大きな鏡 デスクが面する壁に掛けられた、幅150cmの大きな鏡。植栽豊かな中庭を映し、ダークトーンの室内に柔らかな緑と光をもたらしている。ここは、三宅瑠人さん夫妻が設計した3階建ての一軒家 [&#8230;]",
-      "link": "https://brutus.jp/post-530918/",
-      "pubDate": "Wed, 04 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T00:30:40.198621",
+  "updatedAt": "2026-11-07T01:00:48.750399",
   "sites": [
     {
       "id": "hachima",
