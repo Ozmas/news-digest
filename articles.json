@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/9/79560550.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「買って1年のシーリングライトが調子悪いから中開けてみよ」→マジでヤバいことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462147.html",
+      "pubDate": "2026-11-08T04:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bd7fe5ec.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】推しキャラとドライブデートできる「助手席に置くビッグアクスタ」が登場",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584391.html",
+      "pubDate": "2026-11-08T04:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/54e82880.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -444,19 +470,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba542.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "米民主党、AI規制法案を多数提出へ「高度なAI開発の一時停止、人工超知能の禁止」 → 時価総額で約395兆円が消失",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584192.html",
-      "pubDate": "2026-11-07T17:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/246007ae.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +702,6 @@
       "link": "https://brutus.jp/post-495163/",
       "pubDate": "Sat, 07 Nov 2026 01:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【朗報】高市政権、サイバー攻撃対策費用に100億円投入！セキュリティ最強国家へ！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462091.html",
-      "pubDate": "2026-11-07T09:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/82da36db.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T18:30:42.250228",
+  "updatedAt": "2026-11-07T19:00:49.710658",
   "sites": [
     {
       "id": "hachima",
