@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "石破前首相、消費税減税に納得できず”造反”・・・「賛成できないのでやむなく退席しました」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462123.html",
+      "pubDate": "2026-11-07T14:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/680bd225.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "サカイ引越センター元従業員、引っ越し業務で訪れた家で現金を盗んで逮捕 →◯◯がなかったら発覚しなかった・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584156.html",
+      "pubDate": "2026-11-07T13:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e7b57a0f-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【無敵】日本人の個人情報、流出しすぎて値段が付かなくなっている模様",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462122.html",
+      "pubDate": "2026-11-07T13:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0c871422.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -587,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/d/0df5b04c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "マイクロソフト、教育機関が無料で使ってきたOffice 365 A1を2028年1月1日に廃止！全国の大学が阿鼻叫喚へ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584081.html",
-      "pubDate": "2026-11-07T01:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/e/0e361f09.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -652,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/9/69f3f0f6.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "クロちゃん、元カノのために163万円で買った結婚指輪を質屋に持っていく→衝撃の査定結果にｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462069.html",
-      "pubDate": "2026-11-06T21:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/d/cde1fc55.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -689,19 +702,6 @@
       "link": "https://brutus.jp/post-536418/",
       "pubDate": "Fri, 06 Nov 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男性1万人に「身体的な悩みの有無」を調査→最も気になる悩みはやっぱりアレだったｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462061.html",
-      "pubDate": "2026-11-06T20:30:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/1751eb68.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T04:30:42.404927",
+  "updatedAt": "2026-11-07T05:00:47.805520",
   "sites": [
     {
       "id": "hachima",
