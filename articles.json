@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ゼルダの伝説 時のオカリナ』リメイク、作り込みがヤバすぎると話題に・・・これは確かにすげえええええええ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462090.html",
+      "pubDate": "2026-11-07T08:30:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2da7ca81.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【つよい】外国人観光客「ハロー、イエ◯ーモンキーｗ」　→　チャリに乗った大阪人が最強にクソおもろい返しをして皆を笑顔にしてしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584119.html",
+      "pubDate": "2026-11-07T08:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/dd32d7d5.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -496,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/1751eb68.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】田舎の高校生3人組、渋谷で「俺たちは静岡から来たトクリュウカイの者だ」と会社員の30代男性を取り囲み顔面を殴り現金を脅し取る",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584043.html",
-      "pubDate": "2026-11-06T20:20:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/50a06db0.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "https://artscape.jp/article/82880/",
       "pubDate": "Fri, 06 Nov 2026 08:00:56 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "あの有名女性コスプレイヤーさん、1万円でレンタル可能に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462063.html",
-      "pubDate": "2026-11-06T17:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/3/63d9f801.png"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-06T23:30:40.417635",
+  "updatedAt": "2026-11-07T00:00:53.138211",
   "sites": [
     {
       "id": "hachima",
