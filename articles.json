@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【G7欠席】政府関係者「高市首相に『25時から出席してください』と誰も言い出せなかった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584197.html",
+      "pubDate": "2026-11-07T17:30:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/6/c6c911f1.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「バーガー・ポテト・1Lコーラ」のセットを食べた僕が思ったこと「次はポテトだけにするよ」【カンバ通信：第542回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べようと思い、あるレストランへ行ってきた。 店の名前は「Chicken Inn」。 ガソリンスタンドの中にある [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/07/2860202/",
+      "pubDate": "Sat, 07 Nov 2026 08:00:56 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba542.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "米民主党、AI規制法案を多数提出へ「高度なAI開発の一時停止、人工超知能の禁止」 → 時価総額で約395兆円が消失",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584192.html",
+      "pubDate": "2026-11-07T17:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/246007ae.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「置き配を盗まれたのでエアタグ入りのダミー荷物を置いてみた」 → 翌日、見事にまた盗まれた結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462128.html",
+      "pubDate": "2026-11-07T17:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1c2151e5.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -574,19 +626,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "脱衣麻雀『スーパーリアル麻雀AC』、2026年冬にアーケード版稼働へ！　約28年ぶりにゲーセンに帰還ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584113.html",
-      "pubDate": "2026-11-07T07:30:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f9fbce5e.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -624,19 +663,6 @@
       "link": "https://jin115.com/archives/52462088.html",
       "pubDate": "2026-11-07T07:00:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/e/ee7c67da.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【神対応】バ先店長「今日は君の人生初バイトの初給料か…はい◯◯」　→　店長の粋すぎる行動にバイト学生の親御さんが感動でむせび泣く…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584106.html",
-      "pubDate": "2026-11-07T07:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/cc183b90.jpg"
     },
     {
       "siteId": "jin",
@@ -689,19 +715,6 @@
       "link": "https://jin115.com/archives/52462064.html",
       "pubDate": "2026-11-07T00:00:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c96aa11c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "暴落しまくりのキオクシア株、ヤフー掲示板にヤバすぎる書き込みがあると話題に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462083.html",
-      "pubDate": "2026-11-06T23:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/eb48067c-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1224,19 +1237,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/05/01/subbuzz/EmkbyQgzu.jpg?crop=4118:2745;790,120&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【エッセイ】鎌倉の小さな喫茶店で耳にした、久しぶりに聞く別れの挨拶「さようなら」 / それは日常の境界線",
-      "description": "神奈川・鎌倉の「コールドストーンクリーマリー」が閉店すると聞き、私（佐藤）は慌ててお店を訪ねた。関東、いや東日本唯一の店舗が開店からわずか3カ月でなくなってしまう。まさかこんなに急に閉店することになるとは。閉店前日に利用 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/05/2859293/",
-      "pubDate": "Thu, 05 Nov 2026 10:00:10 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/sayounara.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T08:00:47.119763",
+  "updatedAt": "2026-11-07T08:30:39.995431",
   "sites": [
     {
       "id": "hachima",
