@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "納豆なのに賞味期限が1年!? イオンの「冷凍納豆」を普通の納豆と食べ比べてみたら意外な違いがあった！",
+      "description": "気づいたら「賞味期限が切れてた……」なんてことも多い「納豆」。そんな悩みを解決してくれる商品がイオンから登場した。それが2026年9月より販売中の「冷凍納豆」2種だ。 なんと賞味期限は製造日から12か月。手軽に解凍して食 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/07/2858002/",
+      "pubDate": "Sat, 07 Nov 2026 10:00:14 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/r1.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "笑顔が増えて、仕事の集中力がアップ。水川かたまりの愛犬・そら豆",
+      "description": "犬と暮らし始めてから、笑顔が増え、仕事への集中力もアップ ずっと犬が好きで公園でよそのおうちの犬をじっと眺める生活をしていました。 幼い頃、犬に噛まれた経験があり、少し怖くて自ら飼うことを選択できずにいたのですが、妻と同 [&#8230;]",
+      "link": "https://brutus.jp/post-535668/",
+      "pubDate": "Sat, 07 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1159,19 +1185,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/05/02/subbuzz/OYaY7zt9n.jpg?crop=2063:1375;0,155&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2164話目「新設、トラップ部隊㊳」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/11/05/2860145/",
-      "pubDate": "Thu, 05 Nov 2026 12:00:28 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2164a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1247,19 +1260,6 @@
       "description": "アグ（4歳） 総フォロワー数：26.62万人 Q1.犬種は？ Q2.どんなアカウントですか？ Q3.いつからSNSアカウントを開設しましたか？ Q4.愛犬のチャームポイント、性格は？ Q5.愛犬と暮らし始めてどのような変 [&#8230;]",
       "link": "https://brutus.jp/post-536400/",
       "pubDate": "Thu, 05 Nov 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【最新号からプレゼント】〈CLASKA Gallery & Shop \"DO\"〉のポーチを3名様に",
-      "description": "誌面を超えて特別な体験をお届けする「WITHBRUTUS」 「WITHBRUTUS」は、『BRUTUS』が取り上げるさまざまなテーマから、誌面を超えて特別な体験を共有する新しいコミュニティ。登録・年会費は無料。 2026 [&#8230;]",
-      "link": "https://brutus.jp/post-536641/",
-      "pubDate": "Thu, 05 Nov 2026 09:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T09:30:41.517999",
+  "updatedAt": "2026-11-07T10:00:47.804935",
   "sites": [
     {
       "id": "hachima",
