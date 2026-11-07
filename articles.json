@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『GTA6』日本版、ガチでやばいかも・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462136.html",
+      "pubDate": "2026-11-07T20:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/0/80994534.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "自民党、消費税減税関連法案の採決で退席した石破前首相ら4人に理由と説明を求める文書を配布",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584339.html",
+      "pubDate": "2026-11-07T20:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/8/283941f0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "桜井政博氏「生成AIは今のところ使っていないが、使わない姿勢だけに固執すると業界の変化に遅れるしまうかもしれない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584338.html",
+      "pubDate": "2026-11-07T19:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6fc53614.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +522,6 @@
       "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "舞台『千と千尋の神隠し』、湯婆婆役は安達祐実さんに決定ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584128.html",
-      "pubDate": "2026-11-07T10:30:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/3/f38fb275.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +546,6 @@
       "link": "https://jin115.com/archives/52462092.html",
       "pubDate": "2026-11-07T10:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/b/abf7e000.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】有識者「これから富裕層ほど紙や自然のアナログ体験を楽しみ、貧困層ほどスマホやデジタルの疑似体験に二極化されていく」　→　アメリカでは既に…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584124.html",
-      "pubDate": "2026-11-07T10:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/d/5d8a2a68-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52462079.html",
       "pubDate": "2026-11-07T05:00:57+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/c/4ce408c8.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本の『過労死』、まさかのハリウッド映画化ｗｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462076.html",
-      "pubDate": "2026-11-07T03:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/02810660.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-07T10:30:43.317344",
+  "updatedAt": "2026-11-07T11:00:49.496904",
   "sites": [
     {
       "id": "hachima",
