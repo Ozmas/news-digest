@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【地獄】葬儀中、突然お坊さんが「桶！」と絶叫　→　結果、ガチで史上最悪の大惨事に発展してしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584637.html",
+      "pubDate": "2026-11-09T07:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/4/64adc857.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "新宿区議会議員さん、「〇〇万円の寿司を食べた」とXに投稿し炎上・・・自分のお金で何しようが勝手じゃね？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462203.html",
+      "pubDate": "2026-11-09T07:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/d/cda04ff8.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -39,19 +65,6 @@
       "link": "https://casabrutus.com/categories/design/495254",
       "pubDate": "Sun, 08 Nov 2026 22:00:27 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【地獄】葬儀中、突然お坊さんが「桶！」と絶叫　→　結果、ガチで史上最悪の大惨事に発展してしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584637.html",
-      "pubDate": "2026-11-09T07:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/4/64adc857.jpg"
     },
     {
       "siteId": "hachima",
@@ -676,19 +689,6 @@
       "link": "https://casabrutus.com/categories/design/495962",
       "pubDate": "Sun, 08 Nov 2026 02:25:16 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "アメリカ・ジョージア州、選挙管理局が紛失した「未集計票の入ったメモリーカード」を発見→共和党大逆転へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462157.html",
-      "pubDate": "2026-11-08T11:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/a/5abf85cb.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-08T22:00:47.062172",
+  "updatedAt": "2026-11-08T22:22:32.470668",
   "sites": [
     {
       "id": "hachima",
