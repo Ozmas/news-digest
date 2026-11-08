@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ゲーセン】サービス停止していた「ALL.Net」が「機動戦士ガンダムEXVS2」など一部再開でセガ作品は未定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584449.html",
+      "pubDate": "2026-11-08T10:30:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/2/12ea61ef.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -429,19 +442,6 @@
       "link": "http://blog.esuteru.com/archives/10584372.html",
       "pubDate": "2026-11-07T22:30:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/9/09be197a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "日本漫画家協会会員の漫画家、『レジスタ！』騒動の火付け役だったと炎上！「協会に規制推進派が紛れ込んでる」「森川ジョージが黙ってた理由はこれ？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584358.html",
-      "pubDate": "2026-11-07T22:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/efeaa562.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-08T01:00:48.385769",
+  "updatedAt": "2026-11-08T01:30:41.819110",
   "sites": [
     {
       "id": "hachima",
