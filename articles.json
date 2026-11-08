@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【世も末】全国で相次ぐ迷惑行為「少林寺レーシング」、大阪では7歳が補導されていたことが判明… 小学3年生「『少林寺行くから来る？』と誘われ、ちょっと怖かった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584436.html",
+      "pubDate": "2026-11-08T09:30:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/f/cf0241f7-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【移民】メディア「日本で生まれた黒人の赤ちゃんにヘイトが殺到…多様性・共生について考えてください！」→考えた結果の“衝撃のデータ”が話題に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462149.html",
+      "pubDate": "2026-11-08T09:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/6434f892.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -418,19 +444,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2166a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ガンダムEXVS2IB』ネットワーク停止でオンラインプレイが不可能に → 『エウティタ』『連ザ』『ガンガンNEXT』を緊急稼働させるゲーセン登場ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584346.html",
-      "pubDate": "2026-11-07T21:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0f1af01d.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/11/07/2807372/",
       "pubDate": "Sat, 07 Nov 2026 02:00:35 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/09/IMG_4859.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "参政党、共産党と共同歩調へ・・・「共産党には尊敬の念を持ってる。右だ左だと言っている時代ではない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462093.html",
-      "pubDate": "2026-11-07T10:30:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/2/a2dc4f55.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-08T00:00:50.284175",
+  "updatedAt": "2026-11-08T00:30:41.216788",
   "sites": [
     {
       "id": "hachima",
