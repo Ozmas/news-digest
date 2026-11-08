@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "本場・香川で感動した『めりけんや』の肉うどん、池袋店でも同じ味はするのか？ 翌日に即確かめてみた",
+      "description": "つい先日、人生初の香川県でうどんを食べた私はちょっとした衝撃を受けた。というのも、駅前で発見したチェーン店っぽいお店のうどんがビビるほど激ウマだったからである。 そのお店の名は『めりけんや』といい、調べてみると東京や大阪 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/08/2859698/",
+      "pubDate": "Sun, 08 Nov 2026 02:00:13 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ike05.jpeg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1159,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【2027年福袋まとめ④】モス、コメダ、ポムポム×カフェ・ド・クリエ…最新福袋情報をお届け！",
-      "description": "これまで第1弾・第2弾・第3弾とお届けしてきた、2027年の福袋情報。今回は第4弾として、またまたロケットニュース24編集部がピックアップした10選をご紹介したい。 Afternoon Teaにモスバーガー、カフェ・ド・ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/06/2860098/",
-      "pubDate": "Fri, 06 Nov 2026 02:00:22 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/f18a84db-9539-4e42-aa57-e04d17543bfb.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-08T01:30:41.819110",
+  "updatedAt": "2026-11-08T02:00:46.142486",
   "sites": [
     {
       "id": "hachima",
