@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "専門ライター「任天堂の決算が悪い？いやいや、任天堂はまだ『マリオ』や『どう森』など新作は未発表。強力なカードを伏せた状態でこの業績なんだよ？やばくね？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462186.html",
+      "pubDate": "2026-11-08T20:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/f/7f8d099a.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -715,19 +728,6 @@
       "link": "https://jin115.com/archives/52462144.html",
       "pubDate": "2026-11-07T23:00:57+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89aca60e.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "トイレ中の男性「なんかおしっこの勢いが無いな…」 → 次の瞬間、先っぽからとんでもない物が出てくるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462135.html",
-      "pubDate": "2026-11-07T22:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/939a9a72-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-08T11:00:48.287298",
+  "updatedAt": "2026-11-08T11:30:41.318359",
   "sites": [
     {
       "id": "hachima",
