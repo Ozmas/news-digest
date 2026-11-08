@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "松本人志さん「アレ（元ジャンポケ斉藤被告）と一緒にされたくないよなって中居くんとよう話してる」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462169.html",
+      "pubDate": "2026-11-08T16:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/4/b4c96a1e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【朗報】TVアニメ第五期『みなみけ これから』2027年4月放送決定！約14年ぶりの新作、過去シリーズのキャストは全員続投！！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584512.html",
+      "pubDate": "2026-11-08T16:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/351b6be5.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -522,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96b918c9.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "流行語大賞にノミネートされた「ドパガキ」受賞した場合の受賞者がだれか話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584393.html",
-      "pubDate": "2026-11-08T06:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/efd0fcf4.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/11/07/2860202/",
       "pubDate": "Sat, 07 Nov 2026 08:00:56 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba542.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「置き配を盗まれたのでエアタグ入りのダミー荷物を置いてみた」 → 翌日、見事にまた盗まれた結果ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462128.html",
-      "pubDate": "2026-11-07T17:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/c/1c2151e5.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-08T07:00:46.558304",
+  "updatedAt": "2026-11-08T07:30:40.006147",
   "sites": [
     {
       "id": "hachima",
