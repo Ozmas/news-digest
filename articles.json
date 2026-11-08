@@ -28,6 +28,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/mpretone.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "任天堂ファンボーイ「時オカのリメイクはPCで動作するGTA6より優れたグラフィックを持っている」→強烈なカウンターが炸裂し取り巻きが発狂へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462174.html",
+      "pubDate": "2026-11-08T19:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/c/8c9f289c.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -715,19 +728,6 @@
       "link": "https://rocketnews24.com/2026/11/07/2860494/",
       "pubDate": "Sat, 07 Nov 2026 12:00:43 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2166a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "北海道、“過去最大の危機”、到来",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462137.html",
-      "pubDate": "2026-11-07T21:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/e/8e3b98f5.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-08T10:00:47.122447",
+  "updatedAt": "2026-11-08T10:30:42.980775",
   "sites": [
     {
       "id": "hachima",
