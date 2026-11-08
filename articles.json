@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ジュビロ磐田の監督、ブーイングに苦言「応援する気ないなら来てもらわなくて結構。文句あるならクラブハウスにいるから言いにこい」 →マジで凸るサポ出現",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584562.html",
+      "pubDate": "2026-11-08T21:10:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/f/1f830ee3.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "http://blog.esuteru.com/archives/10584474.html",
       "pubDate": "2026-11-08T12:20:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8e42e43a.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「音楽業界で大物と呼ばれている人で、ゴーストライター使ってない人はいない！」→とんでもねぇ人からリプライが来てお祭りに",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584460.html",
-      "pubDate": "2026-11-08T12:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/d/cdfab090.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-08T12:08:15.824042",
+  "updatedAt": "2026-11-08T12:30:40.734209",
   "sites": [
     {
       "id": "hachima",
