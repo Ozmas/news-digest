@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】「外国人を追い出せ！って叫んでるネトウヨって将来は誰に介護してもらうつもりなの？？」→外国人本人にド正論で完全論破されてしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462204.html",
+      "pubDate": "2026-11-09T10:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/6/160ff6bc.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "自宅で無限ケンタッキーが爆誕するってマジ？ 噂の調味料「スパイス21」でフライドチキンを作ってみた",
+      "description": "先日、Threadsを見ていたら、こんな投稿が目に留まった。マコーミックの「スパイス21」という調味料を使うと、自宅でケンタッキーフライドチキンそのまんまの味を楽しめるというのだ。 え、そんなけしからんことが合法でいいの [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/09/2859556/",
+      "pubDate": "Mon, 09 Nov 2026 01:00:38 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -860,19 +886,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/f/3f518777-s.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】テレビ東京出禁だった「ReHacQ」高橋弘樹P、出禁解除一発目で池上彰さんに“みんな思ってたアレ”を指摘してスタジオ凍結ｗｗｗｗｗｗ再び出禁かｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462153.html",
-      "pubDate": "2026-11-08T12:30:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/9/2917d72c.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1118,19 +1131,6 @@
       "link": "https://rocketnews24.com/2026/11/07/2859330/",
       "pubDate": "Sat, 07 Nov 2026 01:00:06 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-12.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ライブ配信】メガドラオタクの羽鳥とメガドライブをプレイしたら、メガドラ愛が爆発した！",
-      "description": "毎週水曜19時半から、当サイトのYouTubeチャンネル「ロケットニュース24」で行っているライブ配信。前回の配信でメガドライブで遊ぶつもりが、私（佐藤）と中澤は本体をスムーズにテレビにつなぐことができず、仕方なくファミ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/07/2860196/",
-      "pubDate": "Sat, 07 Nov 2026 00:00:56 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1107report1.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-09T01:00:49.400755",
+  "updatedAt": "2026-11-09T01:30:40.148713",
   "sites": [
     {
       "id": "hachima",
