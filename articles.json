@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "彼氏「インフルエンサーの彼女が浮気してる証拠見つけた。交際3周年サプライズと騙して目の前で浮気暴露してやるわ」 → 衝撃の展開に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462249.html",
+      "pubDate": "2026-11-10T03:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/b/8ba63c73-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "声優・田村ゆかりさんと30年追い続けてるファンの話があまりにも尊い",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584795.html",
+      "pubDate": "2026-11-10T03:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/4/e4a1adb2.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/0/a04487a0.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "森川ジョージ先生「宇崎ちゃん作者が炎上したら売れて良かったと言ってた」→ 宇崎ちゃん作者「そんなこと言ってない・・・」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584691.html",
-      "pubDate": "2026-11-09T15:30:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fabb770f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -858,19 +871,6 @@
       "link": "https://rocketnews24.com/2026/11/09/2859603/",
       "pubDate": "Mon, 09 Nov 2026 00:00:40 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_8561.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "自民党、石破前首相らを『処分』へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462207.html",
-      "pubDate": "2026-11-09T09:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/5/d553710e.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-09T18:00:56.525359",
+  "updatedAt": "2026-11-09T18:31:14.197429",
   "sites": [
     {
       "id": "hachima",
