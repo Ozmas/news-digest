@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「中学生4割が外国人増に否定的」の報道にひろゆき「中学生がちゃんとニュースを追って判断できるようになってる。良いことだと思う」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584809.html",
+      "pubDate": "2026-11-09T23:30:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/8/28e6758f.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +520,6 @@
       "link": "http://blog.esuteru.com/archives/10584683.html",
       "pubDate": "2026-11-09T13:30:24+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/cc96b044.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "東京都心の繁華街で携帯電話の基地局を無免許運用していた中国籍31歳男が現行犯逮捕！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584680.html",
-      "pubDate": "2026-11-09T13:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/6/d6f201c5.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-09T14:30:44.810087",
+  "updatedAt": "2026-11-09T15:00:51.435856",
   "sites": [
     {
       "id": "hachima",
