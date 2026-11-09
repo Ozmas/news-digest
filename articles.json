@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2168話目「新設、トラップ部隊（余談）」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/09/2861114/",
+      "pubDate": "Mon, 09 Nov 2026 12:00:22 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2168a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "作家・小川糸さんが犬との日々をしたためる桃源郷の暮らし",
+      "description": "以前は、夏の間だけベルリンのアパートにも滞在し、東京との2拠点生活をしていた。17年からの3年間はかの地に移住。帰国後は、文化や気候、緑あふれる森の雰囲気がベルリンに似ていると魅了され、この地に生活の拠点を移した。ベルリ [&#8230;]",
+      "link": "https://brutus.jp/post-536128/",
+      "pubDate": "Mon, 09 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -925,19 +951,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月9日〜11月15日 射手座の運勢【ブルータス週間占い】",
-      "description": "射手座の羅針盤 過去にまつわる感情を整理する 来週から太陽が自エリア（射手座）に移動するため、いよいよ次のステージが近づいてきているのを感じるでしょう。14日まで水星（思考）と金星（感情）が逆行していて、昔の自分の言動を [&#8230;]",
-      "link": "https://brutus.jp/post-537917/",
-      "pubDate": "Sun, 08 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1170,19 +1183,6 @@
       "link": "https://www.buzzfeed.com/jp/yuisasaki/feijerimo",
       "pubDate": "Sat, 07 Nov 2026 19:01:04 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/02/01/subbuzz/udlP2ANsh.jpg?crop=499:333;0,299&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "業務スーパーのガチャを全5種コンプリート！ 節約主婦が1700円でセット買いして気づいた「物足りなさ」",
-      "description": "私は業務スーパーが大好きだ。普段の買い物はもちろん、新商品やお買い得品をチェックするのも楽しみのひとつ。 そんな私がSNSで見つけて食いついたのが、業務スーパーの商品をミニチュアにしたカプセルトイだ。これは全種類欲しい！ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/08/2860266/",
-      "pubDate": "Sun, 08 Nov 2026 00:00:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3192_1920.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-09T11:30:41.491826",
+  "updatedAt": "2026-11-09T12:00:50.373852",
   "sites": [
     {
       "id": "hachima",
