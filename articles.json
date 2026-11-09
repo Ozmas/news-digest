@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『みなみけ5期』キャスト全員続投の裏側がスゲエ！「実は声優引退してる人がいたんだけど……」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584810.html",
+      "pubDate": "2026-11-10T06:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/af230ffc-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "https://rocketnews24.com/2026/11/09/2861202/",
       "pubDate": "Mon, 09 Nov 2026 08:00:18 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/sendai01.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】セガ、不正アクセスで219万件の個人情報流出を発表　ALL․Netとは別事案",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584706.html",
-      "pubDate": "2026-11-09T17:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ff26cf86-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-09T21:00:48.680746",
+  "updatedAt": "2026-11-09T21:30:40.710338",
   "sites": [
     {
       "id": "hachima",
