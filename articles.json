@@ -15,16 +15,29 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "2026年・赤ちゃんの名前、男の子で一番多いのがこちら・・・読めねーよ！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462240.html",
+      "pubDate": "2026-11-09T22:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/5/d5c86d78.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【テロ】携帯電話の基地局を無免許運用していた中国籍の男、車から強力な妨害電波を発し銀座周辺の携帯電話を強制圏外にしていた",
+      "title": "【テロ】携帯電話の基地局を無免許運用していた中国籍の男、車から強力な妨害電波を発し銀座周辺を強制圏外にしていた",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10584789.html",
-      "pubDate": "2026-11-09T21:50:39+09:00",
+      "pubDate": "2026-11-09T21:50:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/5/95c648db.jpg"
     },
     {
@@ -1029,19 +1042,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/f/8f5389b2.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ONE OUTS（ワンナウツ）』全巻「100円」セールが終了間際！全20巻「10,568円」→「2,000円」！『ライアーゲーム』作者が描く、野球版「アカギ」！本日23時59分まで",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462196.html",
-      "pubDate": "2026-11-09T00:30:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/d/3df1e388.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-09T13:00:50.634820",
+  "updatedAt": "2026-11-09T13:30:41.585430",
   "sites": [
     {
       "id": "hachima",
