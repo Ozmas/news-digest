@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "〈NON STYLE〉石田明が解説。知っているようで知らない、笑いの用語集",
+      "description": "ネタのフォーマット 【しゃべくり漫才】設定や役に入ることなく、自分たちの言葉の掛け合いだけで笑わせる漫才のこと。最近多いのは、言い合いをするケンカ漫才や、「俺はこう思っている」「あれはよくない」と自分の考えを言う持論系の [&#8230;]",
+      "link": "https://brutus.jp/post-535708/",
+      "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "自民党、石破前総理ら4人を戒告処分　総裁経験者が処分されるのは今回が初",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584764.html",
+      "pubDate": "2026-11-09T18:40:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/9/19d6dacc.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -691,19 +717,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ネタバレ注意】『ワンピース』最新話、ルフィもイム様もロキも新形態に変身してわけわからなくなるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584654.html",
-      "pubDate": "2026-11-09T09:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/aca13d55.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -895,19 +908,6 @@
       "title": "11月9日〜11月15日 山羊座の運勢【ブルータス週間占い】",
       "description": "山羊座の羅針盤 専門性のある人と触れ合う 9日に新月が起こるのは、山羊座にとって仲間やコミュニティを意味する部屋、蠍座です。仕事で深く関わる相手が増えたり、新しいプロジェクトに参加したりする可能性が出てきます。同じ目標に [&#8230;]",
       "link": "https://brutus.jp/post-537919/",
-      "pubDate": "Sun, 08 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月9日〜11月15日 水瓶座の運勢【ブルータス週間占い】",
-      "description": "水瓶座の羅針盤 成果を次の夢につなげる これまで頑張ってきたことがひとつの形になり、次の目標を定めたくなる週です。9日、水瓶座から見て社会的立場を表す部屋にあたる蠍座で新月を迎えると、仕事でのステップアップが視界に入って [&#8230;]",
-      "link": "https://brutus.jp/post-537921/",
       "pubDate": "Sun, 08 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-09T09:30:42.036943",
+  "updatedAt": "2026-11-09T10:00:52.311510",
   "sites": [
     {
       "id": "hachima",
