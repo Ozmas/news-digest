@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【店舗限定】ケンタッキーが「ソフトクリーム」の販売開始！ ビスケットに挟む暴挙に出た / 余すところなく味わう方法を伝授",
+      "description": "え～、今、緊急で記事を書いています。皆さんはご存知だろうか？　あのケンタッキーが、フライドチキンでお馴染みのケンタが！　なんと店舗限定でソフトクリームの販売を開始していた！　ケンタがソフトだと!? それだけでも十分ビッグ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/09/2861301/",
+      "pubDate": "Mon, 09 Nov 2026 09:00:10 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kfcsoft.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】水原一平、刑務所でやらかして出所予定が延期ｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584712.html",
+      "pubDate": "2026-11-09T17:30:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/7/f7d96fbd-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -717,19 +743,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-2-1.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超便利】AIさん、2年前に壊れたパソコンからデータを全部救出して復旧させてしまう！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584646.html",
-      "pubDate": "2026-11-09T08:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/2/f23aeddc.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1183,19 +1196,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/08/byanbyan/",
       "pubDate": "Sat, 07 Nov 2026 23:01:23 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8034-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ソレ言って大丈夫なの!? 好きな子を気遣う隣の男子！　隣りの席の子の様子がおかしい第76回「続・文化祭の準備」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/08/2833946/",
-      "pubDate": "Sat, 07 Nov 2026 23:00:14 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari76-1koma.png"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-09T08:30:42.591692",
+  "updatedAt": "2026-11-09T09:00:52.344204",
   "sites": [
     {
       "id": "hachima",
