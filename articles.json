@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "アメリカで買ってきてもらった「厚底オールスター」を履いて仰天！ 私の知っているコンバースが「畳」なら、これは「ふかふかのベッド」だった",
+      "description": "アメリカに旅行に行くという友人が、「何か欲しいものある？」と聞いてきた。「お金くれれば買ってきてあげるよ」と。 私はコンバースのオールスターをリクエスト。 噂によれば、日本で売っているコンバースのオールスターと、海外のコ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/10/2861216/",
+      "pubDate": "Mon, 09 Nov 2026 23:00:19 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3053_1920.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "グルマン温故知新：中目黒〈HIBARI -日晴り-〉目黒川沿いに静かに開いた、次の店",
+      "description": "HIBARI -日晴り-（中目黒） 目黒川沿いに静かに開いた、次の店 目黒川の桜並木を見下ろす格好のロケーション。でも、花見客でごった返すあたりからは少し外れた静かな場所。しかも、路面ではなく2階。秘密のスポット的で知っ [&#8230;]",
+      "link": "https://brutus.jp/post-532305/",
+      "pubDate": "Mon, 09 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1029,19 +1055,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月9日〜11月15日 蠍座の運勢【ブルータス週間占い】",
-      "description": "蠍座の羅針盤 心の声に従う やりたかったことに挑戦する絶好のタイミングです。9日の新月は自エリア（蠍座）で起こり、新しく何かを始める舞台を整えてくれるでしょう。 蠍座の支配星でもある火星（意欲）は、社会的立場を表す部屋と [&#8230;]",
-      "link": "https://brutus.jp/post-537915/",
-      "pubDate": "Sun, 08 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1157,19 +1170,6 @@
       "link": "https://casabrutus.com/categories/design/495962",
       "pubDate": "Sun, 08 Nov 2026 02:25:16 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "本場・香川で感動した『めりけんや』の肉うどん、池袋店でも同じ味はするのか？ 翌日に即確かめてみた",
-      "description": "つい先日、人生初の香川県でうどんを食べた私はちょっとした衝撃を受けた。というのも、駅前で発見したチェーン店っぽいお店のうどんがビビるほど激ウマだったからである。 そのお店の名は『めりけんや』といい、調べてみると東京や大阪 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/08/2859698/",
-      "pubDate": "Sun, 08 Nov 2026 02:00:13 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ike05.jpeg"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-09T22:30:42.203728",
+  "updatedAt": "2026-11-09T23:00:51.768912",
   "sites": [
     {
       "id": "hachima",
