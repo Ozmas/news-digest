@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05d4b5cd.jpg"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "雨が来ない。牛乳も買えない【カンバ通信：第543回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回は、ケニアの気候と、植物や動物たちの暮らしについてお話ししようと思う。 実は、カンバ通信のリクエストボックスに、読者の方か [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/09/2860537/",
+      "pubDate": "Mon, 09 Nov 2026 06:00:23 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba543.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1224,19 +1237,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/06/02/subbuzz/q7x4oi8Qm.jpg?crop=2485:1657;298,168&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "納豆なのに賞味期限が1年!? イオンの「冷凍納豆」を普通の納豆と食べ比べてみたら意外な違いがあった！",
-      "description": "気づいたら「賞味期限が切れてた……」なんてことも多い「納豆」。そんな悩みを解決してくれる商品がイオンから登場した。それが2026年9月より販売中の「冷凍納豆」2種だ。 なんと賞味期限は製造日から12か月。手軽に解凍して食 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/07/2858002/",
-      "pubDate": "Sat, 07 Nov 2026 10:00:14 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/r1.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-09T05:30:41.338953",
+  "updatedAt": "2026-11-09T06:00:49.227080",
   "sites": [
     {
       "id": "hachima",
