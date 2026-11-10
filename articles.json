@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【朗報】ニンテンドースイッチ/スイッチ2、アプデで神機能が実装されるｗｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584919.html",
+      "pubDate": "2026-11-10T17:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/6221336c-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "子ども「『Among US』でマッチした女子が監禁されてるって言ってる！」→それを聞いた母親が通報した結果、とんでもない事態へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462273.html",
+      "pubDate": "2026-11-10T17:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4286cfb.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -665,19 +691,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "野獣先輩が肖像権侵害で訴えたら実際賠償金をいくらもらえるか？　→　リアル弁護士にガチで聞いた結果ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584850.html",
-      "pubDate": "2026-11-10T07:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/f/af467b4a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +780,6 @@
       "link": "https://jin115.com/archives/52462255.html",
       "pubDate": "2026-11-10T01:00:42+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7a233ed6.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "欧州で「フグシマ」「爽快な津波」など、震災を想起させる要素が入ったビールが見つかる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462244.html",
-      "pubDate": "2026-11-10T00:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/4/b4bfb80d.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T08:00:49.548414",
+  "updatedAt": "2026-11-10T08:30:43.699815",
   "sites": [
     {
       "id": "hachima",
