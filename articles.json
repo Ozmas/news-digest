@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【絶賛】小泉防衛大臣、『最高の挨拶』が話題に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462268.html",
+      "pubDate": "2026-11-10T10:30:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/34bc446c.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】スケルトンタイプのPS5用DualSense＆カバー フレアオレンジ・エメラルドグリーン・グラファイト グレー、Amazonで予約スタート",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584868.html",
+      "pubDate": "2026-11-10T10:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/2/129ccca3.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -587,19 +613,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】海外の無規制版『GTA6』には日本語が収録されていない模様…愚かな日本人は検閲・規制されたバージョンしか遊んではいけない",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584782.html",
-      "pubDate": "2026-11-09T20:30:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/3/63f99156.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://brutus.jp/post-536203/",
       "pubDate": "Mon, 09 Nov 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "エヌビディアCEO、中国スパイとの不倫を認めて謝罪",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462226.html",
-      "pubDate": "2026-11-09T16:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/0/a04487a0.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T01:30:42.074385",
+  "updatedAt": "2026-11-10T02:00:48.130997",
   "sites": [
     {
       "id": "hachima",
