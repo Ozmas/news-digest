@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ゴミ屋敷状態の先輩のデスクを、休日出勤して勝手に大掃除してみた結果",
+      "description": "私（あひるねこ）の斜め前に座っている先輩記者・サンジュンのデスクはとにかく汚い。もうかれこれ10年以上ずっと汚い。ある種のゴミ屋敷と言っても過言ではない。 そんなサンジュンは日頃、事あるごとに私に「代わりに片付けてよ（笑 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/10/2860632/",
+      "pubDate": "Tue, 10 Nov 2026 01:00:58 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_0344.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "コンロキャンセル界隈、若者から高齢までめちゃくちゃ広まってしまう・・・食事どうするの？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462258.html",
+      "pubDate": "2026-11-10T10:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/d/cd8bd6ce-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『ゲットバッカーズ奪還屋』、リメイクアニメ化か！？　Xで意味深な告知が登場！！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584863.html",
+      "pubDate": "2026-11-10T10:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/339de4a0.png"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【京都】CP Lab.講座プログラム「Creative Track」11月開催講座",
+      "description": "京都芸術センターにて、CP Lab.による講座プログラム「Creative Track」が行なわれています。 「Creative Track」は、創造の現場で活動するために必要な知識や実践を学び、自らの専門性を深める講座 [&#8230;]",
+      "link": "https://artscape.jp/article/83149/",
+      "pubDate": "Tue, 10 Nov 2026 01:00:30 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -26,6 +78,19 @@
       "link": "https://jin115.com/archives/52462269.html",
       "pubDate": "2026-11-10T09:40:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56b3f823.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】焼肉きんぐの来年の福袋、ガチで本気を出してきてしまう！！　これは絶対欲しいｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584861.html",
+      "pubDate": "2026-11-10T09:30:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/870c2a00.gif"
     },
     {
       "siteId": "jin",
@@ -548,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f34522c7-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【！？】仙台のポケモンGOイベントに参加していた20代女性、知人の無職男にスマホをひったくられる…男は逮捕されるも黙秘",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584773.html",
-      "pubDate": "2026-11-09T20:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4e76c9fc.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -572,19 +624,6 @@
       "link": "https://brutus.jp/post-535937/",
       "pubDate": "Mon, 09 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【凄すぎ】『ゴジラ-0.0』日米で初週末興収1位に！実写映画初の快挙！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584770.html",
-      "pubDate": "2026-11-09T19:30:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/247dd30e.jpg"
     },
     {
       "siteId": "jin",
@@ -689,19 +728,6 @@
       "link": "https://jin115.com/archives/52462226.html",
       "pubDate": "2026-11-09T16:00:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/0/a04487a0.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気女性YouTuberさん、人生最大の悩みを告白・・・「◯◯が原因で子供作れない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462225.html",
-      "pubDate": "2026-11-09T15:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/4/f40bde21.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1159,19 +1185,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/IMG_3517.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【詐欺師のレシピ】チャーハンから漏れている、詐欺師たちの個人情報",
-      "description": "「羽鳥さんは、なぜ詐欺師にチャーハンのレシピを聞くのですか？」 とあるインタビュアーから、そう聞かれた。私は答えた。 「詐欺師たちは、知らず知らずのうちに、自分の情報を私に与えているんです」 ただチャーハンが食べたいだけ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/08/2860505/",
-      "pubDate": "Sun, 08 Nov 2026 02:55:11 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/sagishi-recipe-eyecatch-12.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1445,19 +1458,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "塚田優｜ケヴィン・エスキュー『Ensmoothening』",
-      "description": "第13回 新千歳空港国際アニメーション映画祭 会期：2026/11/20〜24 会場：新千歳空港ターミナルビル（新千歳空港シアターなどを予定） 主催：新千歳空港国際アニメーション映画祭実行委員会 公式サイト：https: [&#8230;]",
-      "link": "https://artscape.jp/article/81815/",
-      "pubDate": "Fri, 06 Nov 2026 02:00:08 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T01:00:51.501926",
+  "updatedAt": "2026-11-10T01:30:42.074385",
   "sites": [
     {
       "id": "hachima",
