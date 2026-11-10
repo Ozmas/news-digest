@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『メダロット』がPCで遊べる！過去8作を1本にまとめた『メダロット クラシックス プラス』Steam版が12月に発売決定！合意とみてよろしいですね？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584907.html",
+      "pubDate": "2026-11-10T15:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f8e409c-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "野獣先輩が肖像権侵害で訴えたらどうなるの？→弁護士がガチで検証した結果ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462264.html",
+      "pubDate": "2026-11-10T15:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/0/00d703d4.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -678,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/f/bff3a680.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ロバート秋山が『秋山竜次CM広告社』を設立！CMソング33万円、秋山出演プランも",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584796.html",
-      "pubDate": "2026-11-10T04:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/6/96ad093f-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52462239.html",
       "pubDate": "2026-11-09T23:00:02+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/2126c824-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "2026年・赤ちゃんの名前、男の子で一番多いのがこちら・・・読めねーよ！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462240.html",
-      "pubDate": "2026-11-09T22:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/5/d5c86d78.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T06:00:49.512757",
+  "updatedAt": "2026-11-10T06:30:43.455894",
   "sites": [
     {
       "id": "hachima",
