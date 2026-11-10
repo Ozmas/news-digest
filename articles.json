@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "食品会社、食料品消費税減税前に値上げへ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462310.html",
+      "pubDate": "2026-11-11T06:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/9/59d02846.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "マクドナルド「ザクザクジューシーマック」などチキン商品が一次販売休止！「想定を上回る販売により」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585077.html",
+      "pubDate": "2026-11-11T05:30:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/c/bc930b9a-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -457,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/94131b13-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "“ミスタープロレス”天龍源一郎(76)、現在とんでもないことになっていた・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584960.html",
-      "pubDate": "2026-11-10T18:20:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/3/931e012a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://artscape.jp/article/82596/",
       "pubDate": "Tue, 10 Nov 2026 02:00:09 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【絶賛】小泉防衛大臣、『最高の挨拶』が話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462268.html",
-      "pubDate": "2026-11-10T10:30:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/4/34bc446c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T20:30:41.429688",
+  "updatedAt": "2026-11-10T21:00:49.074091",
   "sites": [
     {
       "id": "hachima",
