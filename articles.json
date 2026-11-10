@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【恐怖】AMD Radeonドライバーに「SSD無限書き込み不具合」が発覚！SSDの寿命がゴリゴリ削れる　修正パッチの配信は…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585091.html",
+      "pubDate": "2026-11-11T01:30:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e001a1a4.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +520,6 @@
       "link": "https://jin115.com/archives/52462288.html",
       "pubDate": "2026-11-10T16:00:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/1058d1f5.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「どこの界隈かは明言しませんが、Switch2を買って『すごい綺麗、楽しい』と言っている人たちに『PS5の方が綺麗ですよ』とか言って回るの止めたほうがいいですよ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584910.html",
-      "pubDate": "2026-11-10T16:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/3/13a52e3f.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T16:30:44.418295",
+  "updatedAt": "2026-11-10T17:00:51.858574",
   "sites": [
     {
       "id": "hachima",
