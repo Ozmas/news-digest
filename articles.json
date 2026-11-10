@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【前代未聞】阿波市の現職市長が詐欺疑いで逮捕！市から350万円を騙し取った疑い",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585044.html",
+      "pubDate": "2026-11-10T20:10:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/de3facc9.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性さん、駅で男性に傘を当てるも謝るどころか逆に煽り始め最終的にとった行動がこちら・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462301.html",
+      "pubDate": "2026-11-10T20:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/f/af0031ab.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -561,19 +587,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ichigoichie.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】 PC版『NIKKE』のスクリプト改ざん事件について、納得いかないため引退する指揮官が続出中…  「期待したのがバカだった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584867.html",
-      "pubDate": "2026-11-10T11:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7ea71a57-s.png"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -819,19 +832,6 @@
       "link": "https://casabrutus.com/categories/design/495360",
       "pubDate": "Mon, 09 Nov 2026 22:00:23 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "無職転生・作者さん、ネットで叩かれすぎて病んでしまう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462252.html",
-      "pubDate": "2026-11-10T06:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/c/cce6d97c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T11:00:52.141513",
+  "updatedAt": "2026-11-10T11:30:44.160143",
   "sites": [
     {
       "id": "hachima",
