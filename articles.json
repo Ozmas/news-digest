@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2744回「こたつ2026」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/11/10/2861494/",
+      "pubDate": "Tue, 10 Nov 2026 05:00:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2744-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ダイエッターの間で話題になっている糖尿病治療薬「マンジャロ」、急激な視力低下につながる恐れがあると発表される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584887.html",
+      "pubDate": "2026-11-10T13:30:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/2/12d889b0.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -652,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/57c9b409.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "松本人志をずっと擁護してきた元セクシー女優さん、意味深投稿「結局思わせぶり。気持ちをもて遊んで捨てられた」「あなたの地位や名誉があるから我慢してきたけど…」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584821.html",
-      "pubDate": "2026-11-10T01:20:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/7/d795aab8.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1092,19 +1105,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/09/yaoken-close/",
       "pubDate": "Sun, 08 Nov 2026 23:01:33 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/849745054_30284333524489480_3514527567405473627_n-e1794112889230.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「わけありしたじき」の “わけ” とは？ / 勉強に励む全ての人におすすめしたい技あり文具でした",
-      "description": "最近、ノートを使う機会が多い。久しぶりに下じきを使ってみようとAmazonで検索してみたら「わけありしたじき2分割」という、ちょっと変わった名前の下じきを発見した。 「わけあり」の「わけ」って何かと思い購入してみたところ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/09/2859769/",
-      "pubDate": "Sun, 08 Nov 2026 23:00:55 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-2-1.jpeg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T04:30:40.880088",
+  "updatedAt": "2026-11-10T05:00:48.400352",
   "sites": [
     {
       "id": "hachima",
