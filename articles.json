@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】耳鼻科医師「悪いけど、◯◯◯はこの世から消えて欲しい。これで外耳道癌になった患者が居るからやめてくれ」　→　アレはやってはいけなかったのか…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585129.html",
+      "pubDate": "2026-11-11T07:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dc1405c6.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "日本発〈ボンボンストア〉による、コーディネートのアクセントになる傘。",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/design/495364",
+      "pubDate": "Tue, 10 Nov 2026 22:00:22 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -455,19 +481,6 @@
       "link": "https://jin115.com/archives/52462292.html",
       "pubDate": "2026-11-10T19:30:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/a/5ac6ac7c.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "タカラトミー、ロゴマークを新しく変更 →ネットで賛否両論「なんかキモイ」「かなりスタイリッシュ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585032.html",
-      "pubDate": "2026-11-10T19:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0f286411.png"
     },
     {
       "siteId": "jin",
@@ -1471,19 +1484,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8701-e1793867646928-1024x767.jpeg"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "継続可能な地域の本屋さんのあり方を探る。神奈川・若葉台団地から、外の世界へ。",
-      "description": "本と出会う時間をじっくり味わえる喫茶スペース併設の書店から、アート本を探すこと自体がアート体験になる書店、複数の店主が共同で運営する話題のシェア型書店まで。わざわざ足を延ばしてでも訪れたい、全国の個性豊かなブックストアを紹介します！",
-      "link": "https://casabrutus.com/categories/culture/492871",
-      "pubDate": "Thu, 05 Nov 2026 22:00:18 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T22:00:48.052254",
+  "updatedAt": "2026-11-10T22:30:41.622481",
   "sites": [
     {
       "id": "hachima",
