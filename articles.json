@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「外国人が○○したら強制送還でよくない？何かダメな理由ある？」→7万いいね超え（一方でコメント大荒れ）",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462262.html",
+      "pubDate": "2026-11-10T13:14:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/7/e7432663.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【71％オフ】New Balanceの定番トレーナーが8800円 → 2579円！ / AmazonスマイルSale",
+      "description": "いまAmazonで開催されている大バーゲン「スマイルSale」。さまざまな人気商品を特別価格で手に入れるチャンスがやってきたぞ。 本日は『ニューバランス』の定番トレーナーが8800円 → 2579円（71％オフ）と大幅プ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/10/2861514/",
+      "pubDate": "Tue, 10 Nov 2026 04:03:22 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/newbalance.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】へずまりゅう信者「子供の名前を“へずま”にしたい！へずまさん本人に許可取りに行こ」　→　へずまりゅう本人の返しがこちらｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10584898.html",
+      "pubDate": "2026-11-10T13:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/1/f18432e6.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -639,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/a/7a233ed6.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ガチゲーマー】女優・杏さん(40)「アークザラッド2は私の中で最高のRPGの1つ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10584819.html",
-      "pubDate": "2026-11-10T00:40:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/731a90e6.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +754,6 @@
       "link": "https://brutus.jp/post-536128/",
       "pubDate": "Mon, 09 Nov 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "Xのナンパ師「可愛い女子二人からLINE聞けました！」 → その女子二人がXに現れ、とんでもない秘密を言ってしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462238.html",
-      "pubDate": "2026-11-09T20:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f34522c7-s.png"
     },
     {
       "siteId": "brutus",
@@ -1170,19 +1183,6 @@
       "link": "https://brutus.jp/post-537907/",
       "pubDate": "Sun, 08 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "お前ら外野はのん気なモンだよな！ 余裕がない祖父！　四コマサボタージュFB第126回「最後の一本」",
-      "description": "わびさびの美しさを表す代表的なもので枯山水があるのだけど、眺めるの結構好きなんだよね。とくに枯山水に関する知識があるワケではないのだけどね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/09/2857742/",
-      "pubDate": "Sun, 08 Nov 2026 22:00:37 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-126.png"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T04:00:49.676726",
+  "updatedAt": "2026-11-10T04:30:40.880088",
   "sites": [
     {
       "id": "hachima",
