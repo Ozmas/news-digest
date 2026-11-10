@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "リメイク版『ゼルダの伝説 時のオカリナ』、平均クリア時間が原作より○○時間以上短いドパガキ仕様と判明ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462306.html",
+      "pubDate": "2026-11-11T01:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b95582de.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -767,19 +780,6 @@
       "link": "https://jin115.com/archives/52462269.html",
       "pubDate": "2026-11-10T09:40:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56b3f823.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『妖怪ハンター』全巻「100円」セール！全3巻「2,838円」→「300円」！エヴァや宮崎駿に影響を与えた偉大すぎる作品！オタクの基礎教養！『孔子暗黒伝』なども100円！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462259.html",
-      "pubDate": "2026-11-10T09:20:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/efd0fc14.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T16:00:56.767132",
+  "updatedAt": "2026-11-10T16:30:44.418295",
   "sites": [
     {
       "id": "hachima",
