@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "Cartier & the Gentlemen〜石上純也、落合宏理、長岡亮介がその時計を選ぶ理由",
+      "description": "石上純也（建築家） 小さな違いに、惹かれるんです 「時計だからではなく、『タンク』だから着けたいんです」 建築家・石上純也さんは、長く愛用する「タンク ルイ カルティエ」をそう表現する。時間を知る道具である以上に、一つの [&#8230;]",
+      "link": "https://brutus.jp/post-535869/",
+      "pubDate": "Tue, 10 Nov 2026 00:50:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "石破前首相「消費税減税すれば円安になり物価が上がる。その懸念が払拭できない」→石破前首相が正しいのか、高市内閣が正しいのか、答えは2年後へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462269.html",
+      "pubDate": "2026-11-10T09:40:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56b3f823.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -704,19 +730,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2743-2.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "楽しんごさん、突然の意味深告白",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462216.html",
-      "pubDate": "2026-11-09T14:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bd23c5a7.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1064,19 +1077,6 @@
       "title": "11月9日〜11月15日 乙女座の運勢【ブルータス週間占い】",
       "description": "乙女座の羅針盤 好奇心の種を育てる 新しい学びに出会う週です。乙女座にとって学びを表す部屋となる蠍座の新月は、新しく何かを勉強する後押しをしてくれます。資格試験の準備など、将来に役立つ学びに意識を向けるとうまくいきそうで [&#8230;]",
       "link": "https://brutus.jp/post-537909/",
-      "pubDate": "Sun, 08 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月9日〜11月15日 天秤座の運勢【ブルータス週間占い】",
-      "description": "天秤座の羅針盤 未来のためにお金を育てる 週明けの9日に、天秤座から見て経済を意味する部屋、蠍座で新月が起こります。お金の使い方や、将来への投資を見直す週となるでしょう。金銭的なゆとりを得るための計画が立てられそうなとき [&#8230;]",
-      "link": "https://brutus.jp/post-537912/",
       "pubDate": "Sun, 08 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-10T00:30:41.653305",
+  "updatedAt": "2026-11-10T01:00:51.501926",
   "sites": [
     {
       "id": "hachima",
