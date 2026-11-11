@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "お米、また値上がり",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462356.html",
+      "pubDate": "2026-11-11T17:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cbba44c8.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【祝】PS5が全世界累計販売台数1億台を突破！PS1・PS2・PS4に続く大台に到達！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585199.html",
+      "pubDate": "2026-11-11T17:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a2a667e2.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -691,19 +717,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【Kindleセール】諸星大二郎さんの漫画『妖怪ハンター』、ほか名作漫画が1冊100円に！　89％オフで買えるぞおおお",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585130.html",
-      "pubDate": "2026-11-11T07:30:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/9/09278a50.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -793,19 +806,6 @@
       "link": "https://jin115.com/archives/52462307.html",
       "pubDate": "2026-11-11T03:00:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/4/04e1c215.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "リメイク版『ゼルダの伝説 時のオカリナ』、平均クリア時間が原作より○○時間以上短いドパガキ仕様と判明ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462306.html",
-      "pubDate": "2026-11-11T01:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b95582de.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T08:00:49.358487",
+  "updatedAt": "2026-11-11T08:30:43.764649",
   "sites": [
     {
       "id": "hachima",
