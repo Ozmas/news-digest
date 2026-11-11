@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "犬カフェに来たコンカフェ嬢「犬が私のスカートの中に頭突っ込んでくるんだけどなんで！？」 → 最悪の原因が判明ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462365.html",
+      "pubDate": "2026-11-12T00:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/78a112a9-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】高身長男子「低身長の女の子は付き合うならいいけど結婚は絶対嫌。子供がチビになって可哀想」⇒ 低身長女子叩きが殺到してしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585240.html",
+      "pubDate": "2026-11-12T00:00:43+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/d/a/da8ac826.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -509,19 +535,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2745-2.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【闇】メルカリで、めっちゃ高い使用済みの消しゴムが話題に… これって、もしかして…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585174.html",
-      "pubDate": "2026-11-11T14:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/84d541c9.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -780,19 +793,6 @@
       "link": "https://jin115.com/archives/52462320.html",
       "pubDate": "2026-11-11T09:00:32+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/3/a3caa348-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ロシアとウクライナの戦争、もしかしたら終結するかもしれない・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462322.html",
-      "pubDate": "2026-11-11T08:40:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/b/7b212005.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T15:00:50.340105",
+  "updatedAt": "2026-11-11T15:30:43.730484",
   "sites": [
     {
       "id": "hachima",
