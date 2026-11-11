@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "お前も!? 飼い主に似た犬！　四コマサボタージュFB第129回「噛む」",
+      "description": "犬と目が合ってなんか吠えそうだな……と思って身構えていたのに、実際吠えられるとふつうにビックリするんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/12/2857745/",
+      "pubDate": "Wed, 11 Nov 2026 22:00:16 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-129.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "戒告処分を受けた石破前首相、言う「高市政権の高支持率は国民がショート動画漬けになってしまったから」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462385.html",
+      "pubDate": "2026-11-12T07:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/0/c0299cf7.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -639,19 +665,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5952_b6da97_0a471f.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "大食い系女性さん、ご飯おかわり自由の天ぷら屋で15杯おかわり→出禁確定に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462325.html",
-      "pubDate": "2026-11-11T13:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1fe02663.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1040,19 +1053,6 @@
       "link": "https://rocketnews24.com/2026/11/10/2858741/",
       "pubDate": "Tue, 10 Nov 2026 02:55:51 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/42837_0.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "人生にもスパイスは必要か。ハラペーニョ入りの「アサヒスパイスビール」を飲みながら思い出したこと",
-      "description": "ヒーハー！ 思わずそんな声が出てしまいそうなビールに出会った。 その名も、「アサヒスパイスビール」。なんとハラペーニョを使用した、刺激的なビールなのだ。 友人からは「意外と普通だったよ」と聞いていたのだが、飲んでみると… [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/10/2861205/",
-      "pubDate": "Tue, 10 Nov 2026 02:30:56 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/asahispicebeer-4.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T21:30:41.508970",
+  "updatedAt": "2026-11-11T22:00:50.839370",
   "sites": [
     {
       "id": "hachima",
