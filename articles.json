@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【衝撃】鼻詰まり、たった3つのステップで簡単に解消できると話題に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462357.html",
+      "pubDate": "2026-11-11T22:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/778b08ec.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】ソニーの新作FPS『フェアゲームズ』開発中止との報道！作り直しても評価がイマイチ、PvPシューター分野は厳しい状況",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585273.html",
+      "pubDate": "2026-11-11T22:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/ef2ad3c3.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/b/7bef1890-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】『咲-Saki-』さん、20周年で奇乳が限界突破した公式えちえちグッズを大量販売してしまう！　「制服虐待」「貧乳が増量されてないのは好感」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585160.html",
-      "pubDate": "2026-11-11T12:20:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d867598c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +819,6 @@
       "link": "https://rocketnews24.com/2026/11/11/2861388/",
       "pubDate": "Tue, 10 Nov 2026 23:00:59 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/garahotone.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "耳鼻咽喉科医師「生産者には申し訳ないが、“竹製の耳かき”をこの世から消滅させてほしい」→恐ろしい理由が明らかに・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462314.html",
-      "pubDate": "2026-11-11T08:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/5/250e7a0f.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T13:00:51.957449",
+  "updatedAt": "2026-11-11T13:30:45.003594",
   "sites": [
     {
       "id": "hachima",
