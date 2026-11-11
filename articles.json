@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『マーベル・ライバルズ』でガンビットが猫耳メイドにｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585237.html",
+      "pubDate": "2026-11-12T05:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/a/0a6d97e8-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,19 +494,6 @@
       "link": "http://blog.esuteru.com/archives/10585209.html",
       "pubDate": "2026-11-11T18:00:31+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/4/b4f4f6c8.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "とある人がちゃんと許可を取って私道にバイクを止めていたのに不動産管理会社が独断でバイクにとんでもないことをしてしまう…　これって、どうなの？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585208.html",
-      "pubDate": "2026-11-11T17:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c558a19e-s.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T19:30:45.458012",
+  "updatedAt": "2026-11-11T20:00:55.432037",
   "sites": [
     {
       "id": "hachima",
