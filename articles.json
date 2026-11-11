@@ -21,6 +21,32 @@
       "siteColor": "#60a5fa",
       "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
       "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ホロライブの人気Vtuber「恋愛に興味なくて、恋とか愛とかがわかんない」→しかし、配信でうっかり『元カレ』がいたことを匂わせてしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462380.html",
+      "pubDate": "2026-11-12T06:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/c/3c2a946a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "Amazonでマンガ『戦国妖狐』と、『妖怪ハンター』などの諸星大二郎作品が100円セール！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585263.html",
+      "pubDate": "2026-11-12T06:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/940e9895-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
       "title": "X民「小学校の同級生からヤバいDM来た」→とんでもない画像が投稿されて終わる・・・",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52462379.html",
@@ -496,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f65ddc6.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【溝口界隈】ブレイキングダウン出場のダイスケ、大麻売買疑いで逮捕！マジで犯罪者しかいないコンテンツだと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585209.html",
-      "pubDate": "2026-11-11T18:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/4/b4f4f6c8.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +650,6 @@
       "link": "https://jin115.com/archives/52462325.html",
       "pubDate": "2026-11-11T13:00:03+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1fe02663.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "AMDのグラボ使ってる奴、ガチで終了のお知らせ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462330.html",
-      "pubDate": "2026-11-11T12:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/1/211e419d.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T21:00:50.974357",
+  "updatedAt": "2026-11-11T21:16:39.469429",
   "sites": [
     {
       "id": "hachima",
