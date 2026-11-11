@@ -21,6 +21,32 @@
       "siteColor": "#60a5fa",
       "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
       "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本政府さん、AI開発事業者への罰則を検討してしまう・・・日本のAI後進国化が止まらない",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462377.html",
+      "pubDate": "2026-11-12T04:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/172663df.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『龍が如く』の「佑天飯店」がリアルオープン！？飲食店「紅虎餃子房」と「万豚記」がコラボ告知",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585235.html",
+      "pubDate": "2026-11-12T04:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/1/f1232245.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
       "title": "メルカリ、「消しゴム1個99万円」など謎の出品が続出→マジでヤバい真相が判明へ・・・",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52462374.html",
@@ -483,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cbba44c8.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【祝】PS5が全世界累計販売台数1億台を突破！PS1・PS2・PS4に続く大台に到達！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585199.html",
-      "pubDate": "2026-11-11T17:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a2a667e2.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -715,19 +728,6 @@
       "link": "https://artscape.jp/article/82104/",
       "pubDate": "Wed, 11 Nov 2026 02:00:19 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【マジかよ】アニメ『みなみけ5期』、来年から放送決定→声優陣の変更は一切なし！その裏側が激熱すぎたｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462328.html",
-      "pubDate": "2026-11-11T11:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bdd41946-s.png"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T19:00:53.549555",
+  "updatedAt": "2026-11-11T19:30:45.458012",
   "sites": [
     {
       "id": "hachima",
