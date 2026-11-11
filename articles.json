@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】12年続いた豪州の学生向けゲーム開発コンテスト、100%AIで作ったゲームが提出され完全終了へ「学生が『学ぶ部分』を回避する方法を学んでしまった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585297.html",
+      "pubDate": "2026-11-12T01:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/6/a637dec5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『超かぐや姫！』のファン層がガキすぎてガレキ界隈が大荒れ！「これって正規品ですか？」「高すぎない？」と突撃",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585291.html",
+      "pubDate": "2026-11-12T01:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/8494e7cd-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,32 +520,6 @@
       "link": "https://jin115.com/archives/52462355.html",
       "pubDate": "2026-11-11T16:00:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/8/281dedf5.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "鳥取県倉吉市で開かれたローカルフードイベントについて、主催者が謝罪  → 謝罪文の内容が酷すぎて炎上「500人はさすがに超えていた」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585185.html",
-      "pubDate": "2026-11-11T15:30:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/7583c061.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女オタク「待って！日本文化に貢献してる刀剣乱舞を燃やさないで！正気なの？」→ 男オタク「正気だよ。お前らもラブライブ・宇崎ちゃん・温泉むすめを燃やしただろ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585179.html",
-      "pubDate": "2026-11-11T15:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/94083695.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T16:00:52.664370",
+  "updatedAt": "2026-11-11T16:30:45.378951",
   "sites": [
     {
       "id": "hachima",
