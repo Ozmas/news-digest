@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "メルカリ、「消しゴム1個99万円」など謎の出品が続出→マジでヤバい真相が判明へ・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462374.html",
+      "pubDate": "2026-11-12T03:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f321770.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大炎上中の鳥取ローカルフードファイトの謝罪が「謝罪時に書いてはいけないことが全て書かれている」と話題になってしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585219.html",
+      "pubDate": "2026-11-12T03:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/eb44b494.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +522,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【祝】リメイク版『ゼルダの伝説 時のオカリナ』発売後4日間で世界累計520万本を突破！国内販売本数81万本！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585203.html",
-      "pubDate": "2026-11-11T16:30:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/d/0d5f485d.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -728,19 +741,6 @@
       "link": "https://artscape.jp/article/82616/",
       "pubDate": "Wed, 11 Nov 2026 02:00:08 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "セブンにて「(『お店で焼いたカリッじゅワッサン』くださいって言うの恥ずいな・・・)クロワッサンのやつください」→スカして頼んだ結果ｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462324.html",
-      "pubDate": "2026-11-11T10:30:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/f/7f19ecc5.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T18:00:51.063392",
+  "updatedAt": "2026-11-11T18:30:44.240292",
   "sites": [
     {
       "id": "hachima",
