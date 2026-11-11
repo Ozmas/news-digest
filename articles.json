@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "とある人がちゃんと許可を取って私道にバイクを止めていたのに不動産管理会社が独断でバイクにとんでもないことをしてしまう…　これって、どうなの？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585208.html",
+      "pubDate": "2026-11-11T17:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c558a19e-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/11/11/2861388/",
       "pubDate": "Tue, 10 Nov 2026 23:00:59 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/garahotone.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "喫煙者「タバコ値上がりで代わりにグミ食ってるけど、タバコよりコスパ悪い…どうすりゃいいの？」　→　有識者からの回答がこちら！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585131.html",
-      "pubDate": "2026-11-11T08:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58241f1f.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T08:30:43.764649",
+  "updatedAt": "2026-11-11T09:00:48.044375",
   "sites": [
     {
       "id": "hachima",
