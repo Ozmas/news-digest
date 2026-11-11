@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】ネットで流れてくる『もっこり半兵衛』って何だよ！と思った人は、この4ページを読んでくれ　→　マジでカッコよすぎてネット大絶賛ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585340.html",
+      "pubDate": "2026-11-12T07:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/1/6163d26b.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "折り畳み傘のパイオニア〈クニルプス〉による、軽さと快適さを追求した革新の一本。",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/design/495259",
+      "pubDate": "Wed, 11 Nov 2026 22:00:41 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -520,19 +546,6 @@
       "link": "https://brutus.jp/post-537962/",
       "pubDate": "Wed, 11 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【PSプラス】11月のゲームカタログが超豪華！『デススト2』『龍が如く8外伝』『ドラクエ3リメイク』などが遊び放題！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585215.html",
-      "pubDate": "2026-11-11T18:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/bec62c70.jpg"
     },
     {
       "siteId": "jin",
@@ -1458,19 +1471,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8385-1024x767.jpeg"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【11月7日〜8日】今週末必見の“アート＆デザイン”まとめ！",
-      "description": "カーサが注目する、今週末のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
-      "link": "https://casabrutus.com/categories/art/495945",
-      "pubDate": "Fri, 06 Nov 2026 22:55:42 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T22:00:50.839370",
+  "updatedAt": "2026-11-11T22:30:41.428544",
   "sites": [
     {
       "id": "hachima",
