@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】大物声優・松本梨香さん、大炎上した鳥取グルメイベントでゲストLIVEで呼ばれるも、扱いがひどすぎると批判殺到　→　想像の100倍エグかった…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585150.html",
+      "pubDate": "2026-11-11T10:30:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/0/4064ca2a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "セブンにて「(『お店で焼いたカリッじゅワッサン』くださいって言うの恥ずいな・・・)クロワッサンのやつください」→スカして頼んだ結果ｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462324.html",
+      "pubDate": "2026-11-11T10:30:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/f/7f19ecc5.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -548,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/2/12291335.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ハイスペ婚した女性「何でもできる夫と暮らすことがとても辛い。私が不満を言っても〇〇が成立してしまう」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585078.html",
-      "pubDate": "2026-11-10T23:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/6/560ee157.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "https://brutus.jp/post-537137/",
       "pubDate": "Tue, 10 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "糖尿病治療薬「マンジャロ」、恐ろしい副作用が明らかに",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462279.html",
-      "pubDate": "2026-11-10T18:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/2/72d42c76.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T01:30:40.723190",
+  "updatedAt": "2026-11-11T02:00:47.938675",
   "sites": [
     {
       "id": "hachima",
