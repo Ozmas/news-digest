@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "粗品さん、ガチでヤバいことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462358.html",
+      "pubDate": "2026-11-11T20:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/3/8320faaf.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ロックマンDASH』に新展開！？カナダの俳優組合サイトに「ニューメディア」という謎のプロジェクトが掲載！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585249.html",
+      "pubDate": "2026-11-11T20:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/0/50da30ed.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/f/7f19ecc5.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】大物声優・松本梨香さん、大炎上した鳥取グルメイベントでゲストLIVEで呼ばれるも、扱いがひどすぎると批判殺到　→　想像の100倍エグかった…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585150.html",
-      "pubDate": "2026-11-11T10:30:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/0/4064ca2a.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -832,19 +845,6 @@
       "link": "https://www.buzzfeed.com/jp/ayahara/hamster-hipparu1109",
       "pubDate": "Tue, 10 Nov 2026 16:31:04 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/09/00/thumb/5RpgeIyIw.jpg?crop=615:410;52,145&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "食品会社、食料品消費税減税前に値上げへ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462310.html",
-      "pubDate": "2026-11-11T06:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/9/59d02846.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-11T11:00:49.908559",
+  "updatedAt": "2026-11-11T11:30:43.528931",
   "sites": [
     {
       "id": "hachima",
