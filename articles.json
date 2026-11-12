@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【京都】「そうぞうする→みえる→わらう か ら だ」ワークショップ",
+      "description": "京都芸術センターにて、美術作家・安藤隆一郎と狂言師・茂山千之丞によるワークショップ「そうぞうする→みえる→わらう か ら だ」が開催されます。 本ワークショップでは、「そうぞう」（想像／創造）するからだをテーマに、安藤は [&#8230;]",
+      "link": "https://artscape.jp/article/83176/",
+      "pubDate": "Thu, 12 Nov 2026 01:00:38 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -26,6 +39,19 @@
       "link": "https://rocketnews24.com/2026/11/12/2861651/",
       "pubDate": "Thu, 12 Nov 2026 01:00:31 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/S__48734312_d689c5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "霜降り明星・粗品さん、ガチな暴力事件で警察沙汰になっていた……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585363.html",
+      "pubDate": "2026-11-12T10:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/b/9bd8217a.jpg"
     },
     {
       "siteId": "jin",
@@ -572,19 +598,6 @@
       "link": "http://blog.esuteru.com/archives/10585273.html",
       "pubDate": "2026-11-11T22:00:39+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/ef2ad3c3.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "泉ピン子に土下座させられた女優が法的措置を宣言！「服装や容姿が気に入らない」と泉ピン子が同じ舞台に立つことを拒否か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585266.html",
-      "pubDate": "2026-11-11T21:30:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/2/b2cd70e2.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1289,19 +1302,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【京都】トークシリーズ「るつぼのこれから ～地域とアートが、場をつくる～」",
-      "description": "京都芸術センターにて、トークシリーズ「るつぼのこれから ～地域とアートが、場をつくる～」が開催されます。 「るつぼのこれから」は、京都芸術センターのこれまでを振り返りながら、これからの創造の場のあり方を考えるトークシリー [&#8230;]",
-      "link": "https://artscape.jp/article/82892/",
-      "pubDate": "Mon, 09 Nov 2026 01:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-12T01:00:47.066726",
+  "updatedAt": "2026-11-12T01:30:43.528313",
   "sites": [
     {
       "id": "hachima",
