@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「オープンな空間で、猫脚の風呂を楽しみたい！」。建築家・吉永規夫を驚かせた住人力",
+      "description": "施主の言葉 オープンな空間で、猫脚の風呂を楽しみたい！ 建築家の言葉 「だって面白そうだから」を貫く情熱に感服 「倉庫として使われていた面白い建物があるんだけど、改修して住めないか」と、自ら物件を探してきたのが施主の權田 [&#8230;]",
+      "link": "https://brutus.jp/post-531015/",
+      "pubDate": "Thu, 12 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中国のハニトラに引っかかったNVIDIAのフアンCEO、クビになりそう　社内幹部とも不倫関係があったとの報道",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585402.html",
+      "pubDate": "2026-11-12T18:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/d/9d78a3f9.jpg"
+    },
+    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -624,19 +650,6 @@
       "link": "https://jin115.com/archives/52462387.html",
       "pubDate": "2026-11-12T09:30:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/b/5b082057-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】ネット民、気づいてしまう！　「未だにFANZAから個人情報漏洩が無い！　つまりハッカー達は◯◯◯だ」ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585353.html",
-      "pubDate": "2026-11-12T09:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6f5e7b8.jpg"
     },
     {
       "siteId": "jin",
@@ -1354,19 +1367,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "日用品図鑑：ウエディング・ライフスタイルプロデューサー黒沢祐子の愛用する〈グローブ・トロッター〉のスーツケースetc.",
-      "description": "〈ピーター・アイビー〉のガラスの照明 ピーターのガラスのグラス、器、米櫃など使用していましたが、昨年素敵なペンダントライトが出て迷わず迎え入れました。 ハーフミラーのミラーリング加工が、照明をつけているときもつけていない [&#8230;]",
-      "link": "https://brutus.jp/post-535937/",
-      "pubDate": "Mon, 09 Nov 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-12T09:30:45.537946",
+  "updatedAt": "2026-11-12T10:00:48.451353",
   "sites": [
     {
       "id": "hachima",
