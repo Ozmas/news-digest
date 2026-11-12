@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【激安速報】スパイファミリー、暗殺教室、ヒカルの碁などが”実質半額”になる超Kindleセール開始！ニセコイ、幽遊白書、ハイスコアガールなども対象！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462448.html",
+      "pubDate": "2026-11-13T08:20:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4af0920.jpg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】昭和43年オープンの本所2丁目の喫茶下町が閉店。約60年の歴史に幕を閉じました。",
+      "description": "本所2丁目、春日通り沿いの「喫茶下町」 昭和43年に開業、なんと約60年近く営業を続けられてきたとのことです。 2026年10月29日をもって長い歴史に幕を閉じました。 店頭には「閉店のごあいさつ」が掲示されています。  [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/13/kissashitamachi/",
+      "pubDate": "Thu, 12 Nov 2026 23:01:31 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8644-1024x767.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【放送事故】NHK「理学療法士志望の大学生から、誰でもできるストレッチを教えてもらいました」　→　ポーズがどう見ても淫夢でまずいことになってしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585593.html",
+      "pubDate": "2026-11-13T08:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c7474dda.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -15,16 +54,29 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/collage1.jpg"
     },
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "クルマに乗ることは手段ではなく目的。奄美大島で感じた「DEFENDER」の底知れなさ",
+      "description": "以前、ある脳科学者に話を聞いたことがある。「クルマを選ぶ理由のひとつは身体性の拡張にある。疾く走りたい、力強くありたい、より美しくなりたい、その思いが知らず知らずのうちにクルマを選ばせていることがあると思います」。しばら [&#8230;]",
+      "link": "https://brutus.jp/post-538210/",
+      "pubDate": "Thu, 12 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】マイクロソフト365が世界で大規模障害！　アウトルックほかあらゆるサービスに影響が及んでメール送れない被害多数",
+      "title": "【悲報】マイクロソフト365が世界で大規模障害！　Outlookほかあらゆるサービスに影響が及んでメール送れない被害多数",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10585591.html",
-      "pubDate": "2026-11-13T07:30:38+09:00",
+      "pubDate": "2026-11-13T07:30:24+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/6/a6cd9556.jpg"
     },
     {
@@ -457,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc13db15.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "豪消費者権利団体、ソニーに『Hall of Shame(恥の殿堂)』を授与！「プレイするためにお金を払わせながら、所有はさせない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585508.html",
-      "pubDate": "2026-11-12T21:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/1135554a.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -689,19 +728,6 @@
       "link": "https://rocketnews24.com/2026/11/12/2862021/",
       "pubDate": "Thu, 12 Nov 2026 07:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_0943.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ヒカルさんと離婚した進撃のノアさん、ヤバイことになっていた",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462416.html",
-      "pubDate": "2026-11-12T16:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/730a9e01-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1341,19 +1367,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "Cartier & the Gentlemen〜石上純也、落合宏理、長岡亮介がその時計を選ぶ理由",
-      "description": "石上純也（建築家） 小さな違いに、惹かれるんです 「時計だからではなく、『タンク』だから着けたいんです」 建築家・石上純也さんは、長く愛用する「タンク ルイ カルティエ」をそう表現する。時間を知る道具である以上に、一つの [&#8230;]",
-      "link": "https://brutus.jp/post-535869/",
-      "pubDate": "Tue, 10 Nov 2026 00:50:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1562,19 +1575,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7936-1-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】押上駅B2出口すぐそば・業平3丁目に酒と料理を楽しむカジュアルバル「stand SUN」OPEN！",
-      "description": "まだ連日の猛暑が続く2026年8月、押上駅B2出口すぐの「宝盛庵」だった跡地で連日内装工事が行われているのに気が付きました。 こちらには9月11日「stand SUN」がOPEN！ インスタグラムのプロフィールによると「 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/11/03/standsun/",
-      "pubDate": "Mon, 02 Nov 2026 23:01:24 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8324-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-12T23:00:50.732995",
+  "updatedAt": "2026-11-12T23:30:40.191944",
   "sites": [
     {
       "id": "hachima",
