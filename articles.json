@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】ホロライブの株価・・・卒業したVtuberが多すぎた影響やばいことに・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462429.html",
+      "pubDate": "2026-11-12T21:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc13db15.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "豪消費者権利団体、ソニーに『Hall of Shame(恥の殿堂)』を授与！「プレイするためにお金を払わせながら、所有はさせない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585508.html",
+      "pubDate": "2026-11-12T21:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/1135554a.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -600,19 +626,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-2-2.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ド正論】「仕事で大変だったのになんで家でも気を遣わないといけないんだ！」と不機嫌に妻子にあたる父　→　妻からの「◯◯◯」の一言で無事納得して改心！「マジでそれ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585370.html",
-      "pubDate": "2026-11-12T11:30:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/0/10973a05.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -819,19 +832,6 @@
       "link": "https://rocketnews24.com/2026/11/12/2861617/",
       "pubDate": "Wed, 11 Nov 2026 23:00:15 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hakkutu00.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "牛丼チェーン店3強の吉野家・すき家・松屋、なぜか一番\"安かった\"ところが苦戦・・・他は好調なのに",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462386.html",
-      "pubDate": "2026-11-12T08:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/9/29e83396.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-12T12:00:52.285910",
+  "updatedAt": "2026-11-12T12:30:41.590685",
   "sites": [
     {
       "id": "hachima",
