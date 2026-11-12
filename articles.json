@@ -21,6 +21,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】Nvidiaのジェンスン・フアン、CEOを辞任！！ハニトラで全てを失ってしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585538.html",
+      "pubDate": "2026-11-12T23:05:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/5/a546caf4.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ボクシングのポスター、よく見ると何かがおかしいと話題に！お前ら見つけられるか！？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462421.html",
+      "pubDate": "2026-11-12T23:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/037324ea.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "【悲報】今度は『ペルソナ』がXで叩かれる「シナリオが下品すぎる」「ジジイの性欲で書かれてるときがある」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10585520.html",
@@ -587,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/8/28967950.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "公正取引委員会「Amazonさぁ…出品者達になんかしてるでしょ？実質的に安い価格での販売を強要してねぇか？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585383.html",
-      "pubDate": "2026-11-12T13:30:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/7/97c46ed6-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -780,19 +793,6 @@
       "link": "https://jin115.com/archives/52462387.html",
       "pubDate": "2026-11-12T09:30:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/b/5b082057-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ムスリム「非ムスリムの方々へ、断食中のムスリムの前で食事をしないようにお願いします」→世界中から批判殺到",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462391.html",
-      "pubDate": "2026-11-12T09:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/c/cc15e781.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-12T14:00:50.093590",
+  "updatedAt": "2026-11-12T14:30:45.212547",
   "sites": [
     {
       "id": "hachima",
