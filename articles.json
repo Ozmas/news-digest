@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「ちいかわ」ついに内蔵になる。コレはカワイイのか……？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585496.html",
+      "pubDate": "2026-11-13T03:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/2/523ca9a3-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【朗報】丸亀製麺、値下げへ！！！主力の「かけうどん」「明太釜玉うどん」など5つが対象に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462427.html",
+      "pubDate": "2026-11-13T03:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60a3804b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "声優・緒方恵美さん「開戦したらどうかを語るより、戦争をしないよう政治の力で国民を守るのが政治家のお仕事なのでは」「恐ろしいです。総理」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10585560.html",
@@ -522,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/a/fa5be442.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "フルリメイク作品『ロマサガ3 デスティニーユナイテッド』発売日が2027年2月4日に前倒し！ただしスイッチ2/スイッチ版のみ注意が必要",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585429.html",
-      "pubDate": "2026-11-12T17:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/9/3925fa09.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -676,19 +689,6 @@
       "link": "https://jin115.com/archives/52462395.html",
       "pubDate": "2026-11-12T13:00:15+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/5/65fb8f30.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国人「へいgrok、新型コロナウイルスの起源はどこ？」 AI「中国やで」→中国人「…他のAIにも聞いたけどAIってマジでバカばっかりじゃん！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462398.html",
-      "pubDate": "2026-11-12T12:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/1/81197710.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-12T18:00:48.986568",
+  "updatedAt": "2026-11-12T18:30:45.182381",
   "sites": [
     {
       "id": "hachima",
