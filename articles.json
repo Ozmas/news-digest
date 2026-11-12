@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ホロライブの人気Vtuberたちが『化物語』とコラボ！→◯◯が理由でファンブチギレの大炎上・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462423.html",
+      "pubDate": "2026-11-12T19:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/5663abf3.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "良品計画、削除すべきクレカ番号109万件をマスキングせず放置 → クレカ番号全桁が漏洩、社長が謝罪",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585484.html",
+      "pubDate": "2026-11-12T19:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a39b682e.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -626,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68c58c75.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】「『ドラゴンクエストRPG』の主人公絵は違う！鳥山明先生ならこんな◯◯は描かない」とX民が批判　→　納得しかない理由だった…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585361.html",
-      "pubDate": "2026-11-12T09:30:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/9/792f7be8.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -819,19 +832,6 @@
       "link": "https://jin115.com/archives/52462379.html",
       "pubDate": "2026-11-12T05:00:13+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/1/e1b72f67.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本政府さん、AI開発事業者への罰則を検討してしまう・・・日本のAI後進国化が止まらない",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462377.html",
-      "pubDate": "2026-11-12T04:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/172663df.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-12T10:00:48.451353",
+  "updatedAt": "2026-11-12T10:08:52.661778",
   "sites": [
     {
       "id": "hachima",
