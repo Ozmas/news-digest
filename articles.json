@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "石破前首相「高市政権の支持率は見たくない情報に触れないSNS文化のおかげ。1分のショート動画で『消費税を減税すると何が起こるか？』なんて分かります？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585366.html",
+      "pubDate": "2026-11-12T10:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/f/df78bf94.jpg"
+    },
+    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -585,19 +598,6 @@
       "link": "https://jin115.com/archives/52462357.html",
       "pubDate": "2026-11-11T22:00:42+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/778b08ec.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ソニーの新作FPS『フェアゲームズ』開発中止との報道！作り直しても評価がイマイチ、PvPシューター分野は厳しい状況",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585273.html",
-      "pubDate": "2026-11-11T22:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/ef2ad3c3.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-12T01:30:43.528313",
+  "updatedAt": "2026-11-12T02:00:45.865387",
   "sites": [
     {
       "id": "hachima",
