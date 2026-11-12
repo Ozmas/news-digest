@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "体重170キロの配信者「太りすぎててヤバイからマンジャロ打つわ！」 → 半年後、凄いことになっていたｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462433.html",
+      "pubDate": "2026-11-13T05:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a721e45-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -650,19 +663,6 @@
       "link": "https://jin115.com/archives/52462409.html",
       "pubDate": "2026-11-12T14:30:41+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/15ecfd3d.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本人セクシー女優約30人、ヤバいことになっていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462408.html",
-      "pubDate": "2026-11-12T14:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1d057f0e.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-12T19:30:43.600299",
+  "updatedAt": "2026-11-12T20:00:48.152036",
   "sites": [
     {
       "id": "hachima",
