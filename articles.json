@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ブルータス時計ブランド学 Vol.92〈オーデマ ピゲ〉の「CODE 11.59 バイ オーデマ ピゲ」",
+      "description": "〈オーデマ ピゲ〉の「CODE 11.59 バイ オーデマ ピゲ」とは 未知なるスタイルを提示した、新時代のアイコン コレクション名の冒頭はChallenge（挑戦）、Own（継承）、Dare（追求心）、Evolve（進 [&#8230;]",
+      "link": "https://brutus.jp/post-534902/",
+      "pubDate": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『パルワールド カードゲーム』売れまくり！ブシロードが大幅増収、売上高を710億円に上方修正ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585881.html",
+      "pubDate": "2026-11-13T20:35:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/d/8d475882.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ヒカルの碁』全23巻すべて「50％ポイント還元」セール！5,566円分返ってくる！社会現象になった伝説的名作！囲碁を知らなくても楽しめる！『デスノート』小畑健が作画",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462498.html",
+      "pubDate": "2026-11-13T20:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/a/9ae35059.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -652,19 +691,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃画像】耳に穴を開けまくった女子が話題に　耳がレンコンみたいになっているんだが…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585612.html",
-      "pubDate": "2026-11-13T11:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b02f675a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -858,19 +884,6 @@
       "link": "https://brutus.jp/post-538210/",
       "pubDate": "Thu, 12 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【注意喚起】ニホンゴワカラナイ移民女性が医療機関に駆け込む→ガチの“害”を撒き散らす最悪の事態が判明・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462449.html",
-      "pubDate": "2026-11-13T07:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9df4df4f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1406,19 +1419,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/09/00/thumb/5RpgeIyIw.jpg?crop=615:410;52,145&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "大森時生『記憶の遺影』#26：射出について。",
-      "description": "僕はそこまで読んで目を閉じた。後頭部をぐいぐいと押す。気づいたら酷い頭痛がしていた。何も残らない、というところで、先輩からのLINEは途切れていた。その下には、僕がまだ何も入力していない返信欄があった。トランポリンから降 [&#8230;]",
-      "link": "https://brutus.jp/post-538179/",
-      "pubDate": "Tue, 10 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T11:30:41.234215",
+  "updatedAt": "2026-11-13T12:00:51.303099",
   "sites": [
     {
       "id": "hachima",
