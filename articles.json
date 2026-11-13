@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【Amazon】最大76％オフ！ 価格が一気に下がった注目アイテム30選（11月13日）",
+      "description": "毎日お得なタイムセールを開催しているAmazon。家電・食品・ファッションなど、さまざまなカテゴリーのアイテムを特別価格でゲットできるチャンス。 本日は、価格が一気に下がった注目のアイテムを厳選ピックアップしてみたぞ。  [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/13/2862946/",
+      "pubDate": "Fri, 13 Nov 2026 04:00:23 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5952_b6da97_00115a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】『GTA6』はPS5Proでも可変30fps！ それにブチギレたユーザーが返金を要求してしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585617.html",
+      "pubDate": "2026-11-13T12:40:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/857a9c34.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -130,6 +156,19 @@
       "link": "https://artscape.jp/article/82482/",
       "pubDate": "Fri, 13 Nov 2026 02:01:56 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「少しワクワクする気持ちもありました」早瀬憩が “映画単独初主演” で掴んだ手ごたえ",
+      "description": "11月13日公開の映画『呪いのスマホ』。本作で映画単独初主演を果たした早瀬憩さんに、初主演への手ごたえや過去のホラー作品での経験、俳優としての今後の展望についてインタビューしました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/munenoriumeki/ikoi-hayase-interview",
+      "pubDate": "Thu, 12 Nov 2026 21:01:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/05/subbuzz/hUiZo-3o-.jpg?crop=2000:1333;0,0&resize=1250:830"
     },
     {
       "siteId": "rocketnews",
@@ -678,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/ed35dc63-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ケンコバさん、道路でカードゲームしていた子どもに注意「室内でやれ」 → スマホに『中年男性から声かけ事案発生』の通知",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585553.html",
-      "pubDate": "2026-11-13T01:30:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/267bb387.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1107,19 +1133,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-129.png"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2170話目「上司と部下の狭間で②」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/11/11/2861869/",
-      "pubDate": "Wed, 11 Nov 2026 12:00:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2170a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1477,19 +1490,6 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「さっそく猫が溶けた」 ホットカーペットに気付いた猫。10分すると…まさかの表情",
-      "description": "ホットカーペットを出したら、猫ちゃんがやってきて……10分後に見せた、なんとも愛おしい表情がSNSで話題になっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/kahorimachida/hokape20261104",
-      "pubDate": "Fri, 06 Nov 2026 21:01:03 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/04/06/subbuzz/nqVMnhvao.jpg?crop=3390:2260;460,336&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "「へたくそすぎる」猫のグルーミングに7.6万いいね「表情がたまりません」「顔が変形しちゃってるよ！？」",
       "description": "グルーミングをしている猫の動画がXに投稿され、「表情がたまりません」「顔が変形しちゃってるよ！？」などの反響が寄せられています。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/ayahara/neko-grooming1104",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T03:30:41.793748",
+  "updatedAt": "2026-11-13T04:00:46.958577",
   "sites": [
     {
       "id": "hachima",
