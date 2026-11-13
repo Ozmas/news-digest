@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「カラオケボックスの中に、ガチで生命に関わる危険なトラップが仕込まれてた」パシャッ　→　お前らの想像の200倍以上、怖すぎる◯◯だった…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585952.html",
+      "pubDate": "2026-11-14T07:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/3553d7a1.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -13,6 +26,19 @@
       "link": "https://jin115.com/archives/52462519.html",
       "pubDate": "2026-11-14T07:00:08+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/a/5a2747be-s.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "左右対称の構図で描かれた、悲劇の美女の物語。【今日の名所江戸百景 by 村上隆】",
+      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
+      "link": "https://casabrutus.com/categories/art/491342",
+      "pubDate": "Fri, 13 Nov 2026 22:00:05 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -429,19 +455,6 @@
       "link": "https://brutus.jp/post-529400/",
       "pubDate": "Fri, 13 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "新作アクションゲーム『ガルパン オールスター・タンク・カーニバル』PS5/PC版が3月25日に同時発売決定！スイッチ2の独占期間は発表から1ヶ月ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585875.html",
-      "pubDate": "2026-11-13T19:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bb7e1f38.jpg"
     },
     {
       "siteId": "jin",
@@ -1393,19 +1406,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "日本発〈ボンボンストア〉による、コーディネートのアクセントになる傘。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495364",
-      "pubDate": "Tue, 10 Nov 2026 22:00:22 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T22:00:48.181639",
+  "updatedAt": "2026-11-13T22:30:46.090113",
   "sites": [
     {
       "id": "hachima",
