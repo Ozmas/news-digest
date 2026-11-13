@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "かご・箱、なに使ってますか？Vol.4",
+      "description": "フローリスト・Kenji Kumaki 古道具屋〈Cycle〉で購入したカゴ 山梨・甲府にある古道具屋〈Cycle〉さんで見つけたカゴは、どこかのおうちからレスキューされてお店へやってきたもの。おうちにある植物のプラント [&#8230;]",
+      "link": "https://brutus.jp/post-529400/",
+      "pubDate": "Fri, 13 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "新作アクションゲーム『ガルパン オールスター・タンク・カーニバル』PS5/PC版が3月25日に同時発売決定！スイッチ2の独占期間は発表から1ヶ月ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585875.html",
+      "pubDate": "2026-11-13T19:30:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bb7e1f38.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『2.5次元の誘惑』全25巻すべて「50％ポイント還元」セール！8,703円分返ってくる！卑猥なコスプレに青春をかけるオタクたちのお色気満載ラブコメ！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462495.html",
+      "pubDate": "2026-11-13T19:30:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2f18eec.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -665,19 +704,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】町山智浩さん「『VIVANT』より『ポリティカルパン』の方が面白い」　→　『ポリティカルパン』脚本家から怒られてしまう…　「うちのドラマをVIVANT叩き棒にしないで」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585609.html",
-      "pubDate": "2026-11-13T10:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/258851b0.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -871,19 +897,6 @@
       "link": "https://jin115.com/archives/52462438.html",
       "pubDate": "2026-11-13T06:00:50+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/64edb525.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "体重170キロの配信者「太りすぎててヤバイからマンジャロ打つわ！」 → 半年後、凄いことになっていたｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462433.html",
-      "pubDate": "2026-11-13T05:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a721e45-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1406,19 +1419,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "芸術の秋、ギャラリーを巡りたい気分です。11月開催のイラストレーション＆アートのイベント8選",
-      "description": "手差ユニッツ「メザメザメの安眠フェア」 タコシェ 一度見たら忘れられない不思議で愛らしいキャラクターが主人公の4コマ漫画『メザメザメ』。春夏秋冬の全4巻の完結を記念したポップアップが開催。 50th Anniversar [&#8230;]",
-      "link": "https://brutus.jp/post-536835/",
-      "pubDate": "Tue, 10 Nov 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T10:30:45.261377",
+  "updatedAt": "2026-11-13T11:00:54.438360",
   "sites": [
     {
       "id": "hachima",
