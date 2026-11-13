@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "XBOXアシャCEO「『ウルフェンシュタイン3』が正式に開発に入った。もっと情報を共有できるのを楽しみにしている」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585668.html",
+      "pubDate": "2026-11-13T17:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/111d3a30-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://brutus.jp/post-538210/",
       "pubDate": "Thu, 12 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】マイクロソフト365が世界で大規模障害！　Outlookほかあらゆるサービスに影響が及んでメール送れない被害多数",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585591.html",
-      "pubDate": "2026-11-13T07:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/6/a6cd9556.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T08:30:43.438779",
+  "updatedAt": "2026-11-13T09:00:49.542163",
   "sites": [
     {
       "id": "hachima",
