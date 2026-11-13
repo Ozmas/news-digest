@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】非モテ男子「これを彼女の誕プレに渡そうと思う男に、なんで彼女ができるのか教えてくれよ」パシャッ　→　想像の80倍以上エグい◯◯◯だったｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585621.html",
+      "pubDate": "2026-11-13T12:20:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/2/026df734.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "エヌビディア元CEOに愛人(スパイ)を紹介した謎の中国人、○○だったことが判明・・・え、ごめんどういう事？？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462462.html",
+      "pubDate": "2026-11-13T12:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/38f99470.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】アニメ『FX戦士くるみちゃん』をうっかり観てしまった子供、心に深いトラウマを負い親御さん達を困惑させてしまう……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585618.html",
+      "pubDate": "2026-11-13T12:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/251fa6fc.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -665,32 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/2/c210800c-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『パルワールド』のポケットペア、11月19日から5日間GTA6休暇へ…「社内で暴動が起きそうだったので」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585552.html",
-      "pubDate": "2026-11-13T01:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a1f8c0ca.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ゲーマー「箱庭型である時オカをやって改めて思うけど、オープンワールドって世界が狭くない？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585493.html",
-      "pubDate": "2026-11-13T00:30:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/4869cfe2.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52462435.html",
       "pubDate": "2026-11-12T22:00:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50665994.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「彼氏が1ヶ月ライン既読ない・・・心配だし、位置情報見てみるか」→ガチでやばいところで見つかってしまう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462428.html",
-      "pubDate": "2026-11-12T21:30:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/9/498f2cbc.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T03:00:47.638068",
+  "updatedAt": "2026-11-13T03:30:41.793748",
   "sites": [
     {
       "id": "hachima",
