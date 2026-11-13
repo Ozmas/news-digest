@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【謎】クリスマスなのになぜ肉まん!? 24個入り「肉まんスクイーズ」のアドベントカレンダーを買ってみたらツッコミどころがいろいろあった",
+      "description": "クリスマスに向けて、何か面白いアドベントカレンダーはないかと探していたところ、思わぬ商品を発見した。 肉まんスクイーズのアドベントカレンダーである。なぜクリスマスに肉まん!? 毎日1個ずつ肉まんを増やしていくことで、クリ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/13/2862719/",
+      "pubDate": "Fri, 13 Nov 2026 00:00:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/squeeze-20.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】小学生カップルが自然消滅へ　→　大人になった元カレ、とんでもない行動に出てしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585601.html",
+      "pubDate": "2026-11-13T09:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/734fe4ef.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "どうしてこうなってしまったのかマジで分からない日本語フォントのパーカー、海外で見つかる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462445.html",
+      "pubDate": "2026-11-13T08:40:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/195d0f8f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "｢キスしやすい身長差は12cm｣て言うけど、どう考えても同じ身長のがしやすいだろｗ　→　その後、えちちで不都合な真実に気づいてしまい、むせび泣く…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585597.html",
+      "pubDate": "2026-11-13T08:30:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/842fdf0e.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -444,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/5/9573b124.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【初週売り上げ】『ゼルダの伝説 時のオカリナ』53.7万本、スイッチ2版『ステラーブレイド』8000本！FFレゾナンスは今週も大健闘",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585523.html",
-      "pubDate": "2026-11-12T22:05:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/2/2203f5e0.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,19 +520,6 @@
       "link": "https://jin115.com/archives/52462428.html",
       "pubDate": "2026-11-12T21:30:21+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/9/498f2cbc.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【情報漏洩】無印良品、クレカ番号で顧客を識別していたことが判明！クソヤバシステムすぎると話題にｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585514.html",
-      "pubDate": "2026-11-12T21:30:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/9/a962820a.jpg"
     },
     {
       "siteId": "jin",
@@ -663,19 +689,6 @@
       "link": "https://casabrutus.com/categories/art/496282",
       "pubDate": "Thu, 12 Nov 2026 08:25:47 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "とある漫画家さん、個人情報が漏洩してとんでもないハガキが届くｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462417.html",
-      "pubDate": "2026-11-12T17:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/a/fa5be442.jpg"
     },
     {
       "siteId": "brutus",
@@ -1118,19 +1131,6 @@
       "link": "https://brutus.jp/post-539238/",
       "pubDate": "Wed, 11 Nov 2026 03:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「せいろで蒸すと意外とおいしいものって何？」とAIに聞いていたら最終的にクロワッサンやカレーパンまで蒸すことになった",
-      "description": "数年前に無印良品でせいろを購入して以来、せいろ蒸しにハマっている。だが最近は肉や野菜を蒸すばかりで、すっかりメニューがマンネリ化してしまった。 そこでAIに「せいろで蒸すと意外と美味しいものってある？」と聞いてみたところ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/11/2860050/",
-      "pubDate": "Wed, 11 Nov 2026 02:55:00 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-21.jpeg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-12T23:30:40.191944",
+  "updatedAt": "2026-11-13T00:00:50.238264",
   "sites": [
     {
       "id": "hachima",
