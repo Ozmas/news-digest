@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "Xにはない斬新さ！ Threads（スレッズ）で話題の「カスタムいいね」のやり方 / GIFアニメからキャラスタンプまで、SNSの新しい可能性を感じる",
+      "description": "2026年11月12日頃から、MetaのSNS「Threads」でにわかにあるトピックが持ち上がった。それは新機能の「カスタムいいね」についてだ。カスタムいいねとは、投稿に「いいね」を押すと投稿に指定されたエフェクトが一 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/13/2863008/",
+      "pubDate": "Fri, 13 Nov 2026 05:30:09 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/actionlike1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "マイクロソフトの365が大規模障害！outlookなどが使えず、政府や各企業で阿鼻叫喚　佐川も荷物預かりサービスなどが利用できず",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585641.html",
+      "pubDate": "2026-11-13T14:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/206e5527.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "XBOX、「広告を見れば無料で遊べる」クラウドゲーミングサービスを正式発表！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462472.html",
+      "pubDate": "2026-11-13T14:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/7/b7c90f15-s.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2746回「道」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/11/13/2862114/",
+      "pubDate": "Fri, 13 Nov 2026 05:00:37 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2746-2.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -678,19 +730,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a721e45-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "丸亀製麺が値下げを発表！！やっと昔にもどりそう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585499.html",
-      "pubDate": "2026-11-13T04:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/068227ca-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +806,6 @@
       "link": "https://jin115.com/archives/52462271.html",
       "pubDate": "2026-11-12T23:59:21+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ボクシングのポスター、よく見ると何かがおかしいと話題に！お前ら見つけられるか！？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462421.html",
-      "pubDate": "2026-11-12T23:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/037324ea.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1081,19 +1107,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8520-1024x767.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "会社の汚デスクから「2年前の未開封Amazonの荷物」が発掘される → 開けてみた結果",
-      "description": "自分で言うのもなんであるが、私はとてもだらしない。「金にだらしない」「女にだらしない」という意味ではなく、とてもとてもとーーーっても「整理整頓」が苦手なのである。 無論、会社のデスクは荒れ放題だしそれで良しとしているのだ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/12/2861617/",
-      "pubDate": "Wed, 11 Nov 2026 23:00:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hakkutu00.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1118,19 +1131,6 @@
       "link": "https://casabrutus.com/categories/design/495259",
       "pubDate": "Wed, 11 Nov 2026 22:00:41 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "お前も!? 飼い主に似た犬！　四コマサボタージュFB第129回「噛む」",
-      "description": "犬と目が合ってなんか吠えそうだな……と思って身構えていたのに、実際吠えられるとふつうにビックリするんだよね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/12/2857745/",
-      "pubDate": "Wed, 11 Nov 2026 22:00:16 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-129.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T05:00:57.289691",
+  "updatedAt": "2026-11-13T05:30:45.628280",
   "sites": [
     {
       "id": "hachima",
