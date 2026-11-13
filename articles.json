@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "消費者委員会「子どもが無断でキャリア決済をし、ゲーム課金などしたという相談が相次いでいる。未成年者の決済限度額を減らすべきじゃね」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585633.html",
+      "pubDate": "2026-11-13T14:30:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d35576d0-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -702,19 +715,6 @@
       "link": "http://blog.esuteru.com/archives/10585527.html",
       "pubDate": "2026-11-13T05:30:22+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68e37e19.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「銃で撃たれたことある人いる～？Xならいるでしょ～」→マジで撃たれた人が続々出現",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585500.html",
-      "pubDate": "2026-11-13T05:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/abb25559-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T05:30:45.628280",
+  "updatedAt": "2026-11-13T06:00:48.444274",
   "sites": [
     {
       "id": "hachima",
