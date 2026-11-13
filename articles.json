@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "24時間営業の店で、眠そうな店員に話を聞いたら「24時間以上働いている」…ポテトを頼むと、さらに残念なことが続いた【カンバ通信：第544回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べようと思い、あるレストランへ行ってきた。店の名前は「K-Flo Delicacies」である。そこでポテトを [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/13/2861931/",
+      "pubDate": "Fri, 13 Nov 2026 10:00:27 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/24hour.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【外道】「ポケモンカードを買うため」6歳娘を徹夜の行列に置き去りにして帰宅した父親逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585873.html",
+      "pubDate": "2026-11-13T19:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/8/f8c89055-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「FF7リメイク」ティファの体型やコスチュームを原作に戻すMODを導入→マジでヤバすぎて話が頭に入ってこないと話題に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462483.html",
+      "pubDate": "2026-11-13T19:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/a/8a02dab6.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ロックの話をしよう。Vol.22「プログレかハード・ロックか」",
+      "description": "ロックが流行らなくなった。そんな身も蓋もない話から、この対談は始まる。 かつてロックは、若者の音楽であり、バンドの音楽であり、衝動やロマンや思想を映し出す音楽だった。ギターを持つこと、バンドを組むこと、レコードを買うこと [&#8230;]",
+      "link": "https://brutus.jp/post-538435/",
+      "pubDate": "Fri, 13 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X(旧ツイッター)の投稿に添付できる画像・動画が4枚から「20枚」に爆増！なんだこのアプデｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585812.html",
+      "pubDate": "2026-11-13T18:40:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/7/77eca823.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『SAKAMOTO DAYS』28巻まで「50％ポイント還元」セール！最新29巻発売！7,487円分返ってくる！元・伝説の殺し屋の人気アクション漫画！最終章でもうすぐ完結！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462490.html",
+      "pubDate": "2026-11-13T18:30:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/4/04db4cb0.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -639,19 +717,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヤバい】エガちゃんこと江頭2:50さん、人間ドックで衝撃の◯◯◯発覚　→　今すぐ治療が必要と判明…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585604.html",
-      "pubDate": "2026-11-13T09:30:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/18974d6c-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +754,6 @@
       "link": "https://jin115.com/archives/52462447.html",
       "pubDate": "2026-11-13T09:00:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/d/5dcd8e4a-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】小学生カップルが自然消滅へ　→　大人になった元カレ、とんでもない行動に出てしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585601.html",
-      "pubDate": "2026-11-13T09:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/734fe4ef.jpg"
     },
     {
       "siteId": "jin",
@@ -832,32 +884,6 @@
       "link": "https://jin115.com/archives/52462433.html",
       "pubDate": "2026-11-13T05:00:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a721e45-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気女性コスプレイヤーさん「私の可愛い処女厨ユニコーン達へ、私は〇〇した過去があります」 → ガチ恋達の脳が破壊されてしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462430.html",
-      "pubDate": "2026-11-13T04:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d5fdb85.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【朗報】丸亀製麺、値下げへ！！！主力の「かけうどん」「明太釜玉うどん」など5つが対象に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462427.html",
-      "pubDate": "2026-11-13T03:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60a3804b.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1066,19 +1092,6 @@
       "link": "https://casabrutus.com/categories/design/496272",
       "pubDate": "Thu, 12 Nov 2026 02:25:37 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "横浜といえばシウマイ…だけじゃない！ 江戸時代創業「泉平」の『いなり寿司』も食べてほしい / 普段いなりを食べない私でもハマる理由",
-      "description": "正直に明かすと、私は普段それほど「いなり寿司」という食べ物に興味がない。寿司屋やスーパーの惣菜コーナーで見かけても、手を伸ばすことはめったにないのだ。だけど、「泉平（いずへい）」の『いなり寿司』だけは話が別。気がつくと無 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/12/2860504/",
-      "pubDate": "Thu, 12 Nov 2026 02:00:59 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3583.jpg"
     },
     {
       "siteId": "artscape",
@@ -1406,19 +1419,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "全身で味わう。ソウル〈オーディウム・オーディオ・ミュージアム〉で体感する伝統的な「音」",
-      "description": "「音」の美しさを見て、聴いて、体感しよう オーディウム・オーディオ・ミュージアム（瑞草） 漢江の南側・瑞草（ソチョ）エリアに2024年に誕生し、予約困難な大人気ミュージアムだ。建材メーカーKCCグループの創業者である故・ [&#8230;]",
-      "link": "https://brutus.jp/post-537137/",
-      "pubDate": "Tue, 10 Nov 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T09:30:42.982248",
+  "updatedAt": "2026-11-13T10:00:48.463700",
   "sites": [
     {
       "id": "hachima",
