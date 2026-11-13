@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "経理担当、会社の金を横領→金額が桁違いでヤバすぎるｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462486.html",
+      "pubDate": "2026-11-13T20:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/39238c0d.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "脱出系シューターの元祖『エスケープ フロム タルコフ』ついに家庭用ゲーム機版を正式発表へ！絶対にボタン足りないと話題にｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585878.html",
+      "pubDate": "2026-11-13T20:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/819e5371.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -678,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/366dfed9.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超悲報】『ワンピース』最新話のアレ、過去一大荒れして反転アンチだらけになってしまう…　「『最高到達点』を作ったセカオワに謝れ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585613.html",
-      "pubDate": "2026-11-13T10:30:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/f/2fa9ebc2.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -884,19 +897,6 @@
       "link": "https://casabrutus.com/categories/design/495366",
       "pubDate": "Thu, 12 Nov 2026 22:00:30 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "宝くじ公式サイト、「住所・氏名・電話番号・購入履歴・当落情報」などが流出した可能性　高額当選者がマジでヤバいと話題に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462438.html",
-      "pubDate": "2026-11-13T06:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/64edb525.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T11:00:54.438360",
+  "updatedAt": "2026-11-13T11:30:41.234215",
   "sites": [
     {
       "id": "hachima",
