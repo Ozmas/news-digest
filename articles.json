@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アメリカのヘグセス国防長官、無名戦士の墓でヘラヘラ談笑していたところ衛兵から大声で怒られる →その後衛兵にとんでもないことをしてしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585884.html",
+      "pubDate": "2026-11-13T21:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/c/8c3ff181.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "マイクロソフト大規模障害、日本ではまさかの”いにしえのアレ”が大活躍してしまうｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585883.html",
+      "pubDate": "2026-11-13T21:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/9/191bb412.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2172話目「上司と部下の狭間で④」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/13/2862367/",
+      "pubDate": "Fri, 13 Nov 2026 12:00:31 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2172a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "深刻な顔をした夫「相談があるんだけど…」妻（借金か浮気？ろくでもないことやろなぁ） → とんでもないことを言われて横転ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462494.html",
+      "pubDate": "2026-11-13T21:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/3/c3f7b82f.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -535,19 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/38f99470.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】アニメ『FX戦士くるみちゃん』をうっかり観てしまった子供、心に深いトラウマを負い親御さん達を困惑させてしまう……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585618.html",
-      "pubDate": "2026-11-13T12:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/251fa6fc.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -585,19 +624,6 @@
       "link": "https://rocketnews24.com/2026/11/13/2862238/",
       "pubDate": "Fri, 13 Nov 2026 02:30:24 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/i1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【予約開始】新型『PlayStationPortalプレーヤー ミッドナイト ブラック 日本語専用』、Amazonで予約スタート！　Wi-Fiを通じてPS5ゲームが手元で遊べるぞおお",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585620.html",
-      "pubDate": "2026-11-13T11:30:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/2/f26c8523.jpg"
     },
     {
       "siteId": "jin",
@@ -832,19 +858,6 @@
       "link": "https://jin115.com/archives/52462445.html",
       "pubDate": "2026-11-13T08:40:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/195d0f8f.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安速報】スパイファミリー、暗殺教室、ヒカルの碁などが”実質半額”になる超Kindleセール開始！ニセコイ、幽遊白書、ハイスコアガールなども対象！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462448.html",
-      "pubDate": "2026-11-13T08:20:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4af0920.jpg"
     },
     {
       "siteId": "sumida",
@@ -1092,19 +1105,6 @@
       "link": "https://rocketnews24.com/2026/11/12/2860028/",
       "pubDate": "Thu, 12 Nov 2026 02:55:47 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-2-2.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "メニュー170万種以上！ 秋葉原で見つけた「魚丼」が実にアキバらしいワンパク海鮮丼だった",
-      "description": "カレー・ラーメン・ナポリタン……などなど、男たちが愛してやまないワンパク系グルメが集結する秋葉原エリア。つい最近、その秋葉原エリアで「海鮮丼の店」を発見した。 秋葉原とはいえ、海鮮丼をワンパクにはできないでしょ～？　…… [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/12/2861284/",
-      "pubDate": "Thu, 12 Nov 2026 02:30:02 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/uodon03.jpeg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T12:00:51.303099",
+  "updatedAt": "2026-11-13T12:30:42.275259",
   "sites": [
     {
       "id": "hachima",
