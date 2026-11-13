@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "夫「ごめんけど、話さなきゃいけないことがある」 → 最悪の秘密を告白されて終わる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462506.html",
+      "pubDate": "2026-11-13T23:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/3/b33d1c97-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -832,19 +845,6 @@
       "link": "https://brutus.jp/post-536014/",
       "pubDate": "Fri, 13 Nov 2026 00:50:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "子連れママ「錦糸町PARCOで店員に中指立てられた」→嘘松エピソードかと思いきや、ガチだった・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462451.html",
-      "pubDate": "2026-11-13T09:30:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bbe0f84c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T14:00:49.974543",
+  "updatedAt": "2026-11-13T14:30:41.745045",
   "sites": [
     {
       "id": "hachima",
