@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "何してんの？ 好きな男子の普段の生活！　隣りの席の子の様子がおかしい第77回「休日は…」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/14/2858294/",
+      "pubDate": "Fri, 13 Nov 2026 23:00:14 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari77-1koma.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アメリカ全土の空港で航空機の地上待機命令！　大規模な通信障害が発生",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585953.html",
+      "pubDate": "2026-11-14T07:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6ae4337-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -429,19 +455,6 @@
       "link": "https://jin115.com/archives/52462486.html",
       "pubDate": "2026-11-13T20:00:23+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/39238c0d.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "脱出系シューターの元祖『エスケープ フロム タルコフ』ついに家庭用ゲーム機版を正式発表へ！絶対にボタン足りないと話題にｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585878.html",
-      "pubDate": "2026-11-13T20:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/819e5371.jpg"
     },
     {
       "siteId": "brutus",
@@ -1107,19 +1120,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hanes.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "キムチって家で作れるの!? 「キムチ革命」で色々なものをキムチにしてみた",
-      "description": "キムチはお店で買ってくるものだと思っていた。しかし先日、たまにはお取り寄せでおいしいキムチを食べようと検索していると……楽天市場で「キムチ革命」という商品がヒット。 無添加のキムチパウダーで、自宅で好きなものをキムチにで [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/12/2860028/",
-      "pubDate": "Thu, 12 Nov 2026 02:55:47 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-2-2.jpeg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T22:30:46.090113",
+  "updatedAt": "2026-11-13T23:00:47.290042",
   "sites": [
     {
       "id": "hachima",
