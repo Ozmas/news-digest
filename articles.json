@@ -2,6 +2,110 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "日清カップヌードルの「異世界合体」は成功か失敗か!? 全3品の「再現度」と「おいしさ」を独断で評価してみた",
+      "description": "1971年のブランド誕生以来、さまざまな商品が生まれている日清の「カップヌードル」。 2026年11月9日に発売された「カップヌードル 異世界合体」シリーズは、「築地銀だこ」「カラムーチョ」「ごはんですよ!」と合体したち [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/13/2862238/",
+      "pubDate": "Fri, 13 Nov 2026 02:30:24 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/i1.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】「大企業の社員ってみんな優しくてすごい！」→巧妙に隠された“真に警戒すべき裏の顔”に共感殺到・・・・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462458.html",
+      "pubDate": "2026-11-13T11:30:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/e/8ef0dd61.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "山川陸｜『ある日どこかで』（後編）",
+      "description": "劇場公開日：1981/01/31［日本］ 監督：ヤノット・シュワルツ 原作：リチャード・マシスン 作品紹介ページ：https://eiga.com/movie/42253/vods/ （前編より） C. そして、ある日ど [&#8230;]",
+      "link": "https://artscape.jp/article/82482/",
+      "pubDate": "Fri, 13 Nov 2026 02:01:56 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "連載で一度も書かなかった温かいそばの作り方。「めんつゆ＋鰹節ドバっ」の追い鰹は、亡き祖母の味【家そば放浪記】番外編",
+      "description": "連載『家そば放浪記』では、乾麺の冷たいそばばかりを食べている。 主に「もりそば」でのテイスティングで、終わったらとろろそばやおろしそばにすることもあるが、いずれにしても冷たい蕎麦だ。 だが、私だってプライベートでは温かい [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/13/2861279/",
+      "pubDate": "Fri, 13 Nov 2026 02:00:58 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "山川陸｜『ある日どこかで』（前編）",
+      "description": "劇場公開日：1981/01/31［日本］ 監督：ヤノット・シュワルツ 原作：リチャード・マシスン 作品紹介ページ：https://eiga.com/movie/42253/vods/ 映像と鑑賞者は画面によって空間的に、 [&#8230;]",
+      "link": "https://artscape.jp/article/82469/",
+      "pubDate": "Fri, 13 Nov 2026 02:00:54 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "原ちけい｜the lives of ephemeral form──建築の不確かな生を記録する",
+      "description": "会期：2026/10/02～2026/10/08 会場：建築博物館ギャラリー内＋中庭［東京都］ 公式サイト：https://bunka.aij.or.jp/events/exhibition2026/ 「the live [&#8230;]",
+      "link": "https://artscape.jp/article/82009/",
+      "pubDate": "Fri, 13 Nov 2026 02:00:42 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃画像】耳に穴を開けまくった女子が話題に　耳がレンコンみたいになっているんだが…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585612.html",
+      "pubDate": "2026-11-13T11:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b02f675a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "旅行行く時に「いつもやってもらって悪いから、今回は私が予約するね」と友達に提案→後日、予約完了の連絡をしたら衝撃の返信が来て顔面蒼白に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462455.html",
+      "pubDate": "2026-11-13T11:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/3/339ba27a-s.png"
+    },
+    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -574,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0f023b6.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "作曲家・光田康典氏「鳥山明さん亡き今、ドラゴンクエストという作品を一旦終わらせて、新しいRPGを堀井さんが作り出すべきではないか」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585532.html",
-      "pubDate": "2026-11-12T23:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/2/82b8247f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -626,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/9/498f2cbc.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】ホロライブの株価・・・卒業したVtuberが多すぎた影響やばいことに・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462429.html",
-      "pubDate": "2026-11-12T21:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc13db15.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -663,19 +741,6 @@
       "link": "https://brutus.jp/post-537157/",
       "pubDate": "Thu, 12 Nov 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性さん、豊胸シリコンを25年入れっぱで放置→とんでもないことになる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462420.html",
-      "pubDate": "2026-11-12T20:30:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/1/d1658a5b-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1107,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ケンタッキーが “米” を出した！ 62店舗限定『ケンタライスBOX』を食べてみた感想「味は文句なし」「問題が2つ」",
-      "description": "2026年11月現在、ケンタッキー・フライド・チキンの一部店舗で『ケンタライスBOX』が発売中だ。商品名からお分かりの通り、チキンと米が融合した待望の新メニューである。 米とチキンなんて最高かよ！　ビスケット食ってる場合 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/11/2861852/",
-      "pubDate": "Wed, 11 Nov 2026 08:00:16 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kenta03.jpeg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1144,19 +1196,6 @@
       "link": "https://casabrutus.com/categories/fashion/496013",
       "pubDate": "Wed, 11 Nov 2026 07:25:59 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2745回「べんきょー」",
-      "description": "漫画：wako 方程式を解くクロちゃんが可愛いトートバックやアクリルスタンド、Tシャツなどをオフィシャルショップで販売中です。LINEスタンプもあります！",
-      "link": "https://rocketnews24.com/2026/11/11/2861735/",
-      "pubDate": "Wed, 11 Nov 2026 05:00:45 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2745-2.png"
     },
     {
       "siteId": "brutus",
@@ -1208,19 +1247,6 @@
       "description": "会期：2026/10/09〜2026/10/12 会場：ロームシアター京都［東京都］ 作・演出：西田悠哉 公式サイト：https://rohmtheatrekyoto.jp/event/148427/ （前編より） Xと [&#8230;]",
       "link": "https://artscape.jp/article/82616/",
       "pubDate": "Wed, 11 Nov 2026 02:00:08 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【東京】TOKAS オープン・スタジオ  2026-2027/  11月",
-      "description": "トーキョーアーツアンドスペース（TOKAS）レジデンシーにて、「オープン・スタジオ 2026-2027/ 11月」が開催されます。 TOKASレジデンシーは、ヴィジュアル・アート、デザイン、建築、キュレーションといった創 [&#8230;]",
-      "link": "https://artscape.jp/article/83153/",
-      "pubDate": "Wed, 11 Nov 2026 01:00:18 +0000",
       "thumbnail": ""
     },
     {
@@ -1351,32 +1377,6 @@
       "description": "毛足でぼかす、冬のチェック 2026年秋冬コレクションの〈ドルチェ＆ガッバーナ〉のムードを象徴するのが、チェック柄のモヘアブレンドを使ったボンバージャケットだ。高い襟と内側のリブニット、キルティング仕様でスポーティに仕立 [&#8230;]",
       "link": "https://brutus.jp/post-536439/",
       "pubDate": "Tue, 10 Nov 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "山川陸｜企画展「横浜絵の深層」ジャンルか、イメージか、それとも輸出美術か",
-      "description": "会場：横浜市歴史博物館［神奈川県］ 会期：2026/09/05～2026/10/18 公式サイト：https://rekihaku.yokohama-history.org/events/横浜絵の深層/ 片側3車線ずつの [&#8230;]",
-      "link": "https://artscape.jp/article/82451/",
-      "pubDate": "Tue, 10 Nov 2026 02:00:21 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "山﨑健太｜不労社『暗黒の喜劇』（前編）",
-      "description": "会期：2026/10/09〜2026/10/12 会場：ロームシアター京都［東京都］ 作・演出：西田悠哉 公式サイト：https://rohmtheatrekyoto.jp/event/148427/ いかに馬鹿馬鹿しか [&#8230;]",
-      "link": "https://artscape.jp/article/82596/",
-      "pubDate": "Tue, 10 Nov 2026 02:00:09 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T02:00:47.682618",
+  "updatedAt": "2026-11-13T02:30:42.589167",
   "sites": [
     {
       "id": "hachima",
