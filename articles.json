@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】いつもの料理の時間を賑やかに。〈STUART GARDINER DESIGN〉の鍋つかみ",
+      "description": "ひとクセあるデザインを好むあの人へ日常にパンチを効かせるオーブングローブ 〈STUART GARDINER DESIGN〉の鍋つかみ イギリスを拠点に、デザイナー夫妻が手がける〈スチュワート・ガーディナー・デザイン〉。両 [&#8230;]",
+      "link": "https://brutus.jp/post-537630/",
+      "pubDate": "Fri, 13 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ランチバイキング単品1078円！ 焼きたてパン食べ放題の『ベーカリーレストラン マルコ』、実はカレーが絶品！ シュークリームの生地にも唸る…",
+      "description": "ビュッフェ（バイキング）レストランの食べ放題は、大抵メインありきだ。メインになるメニュー、たとえばパスタとかハンバーグとかを頼んだ上で、サラダが食べ放題とかパンが食べ放題というのはよくある。 バイキングはオプションであり [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/13/2861657/",
+      "pubDate": "Fri, 13 Nov 2026 02:55:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/bikinmaruko.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -15,6 +41,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/i1.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【予約開始】新型『PlayStationPortalプレーヤー ミッドナイト ブラック 日本語専用』、Amazonで予約スタート！　Wi-Fiを通じてPS5ゲームが手元で遊べるぞおお",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585620.html",
+      "pubDate": "2026-11-13T11:30:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/2/f26c8523.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -26,6 +65,19 @@
       "link": "https://jin115.com/archives/52462458.html",
       "pubDate": "2026-11-13T11:30:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/e/8ef0dd61.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "世界での実践を経て、進化した工芸へ。『GO FOR KOGEI DIALOGUES / APERTO』が金沢で開催。",
+      "description": "2020年から毎年、北陸で開催されている『GO FOR KOGEI』。ジャンルにとらわれない工芸の魅力や可能性を発信しているイベントだ。最近ではフランス、韓国、イギリス、台湾など世界の舞台へと進出。そして現在、イタリアでは『身体と物質のエスノグラフィ──加速社会における遅さと深さ』と題して展覧会が開催されている。そうした経験をふまえて、日本では『GO FOR KOGEI DIALOGUES / A",
+      "link": "https://casabrutus.com/categories/design/496470",
+      "pubDate": "Fri, 13 Nov 2026 02:25:02 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "artscape",
@@ -51,7 +103,7 @@
       "description": "連載『家そば放浪記』では、乾麺の冷たいそばばかりを食べている。 主に「もりそば」でのテイスティングで、終わったらとろろそばやおろしそばにすることもあるが、いずれにしても冷たい蕎麦だ。 だが、私だってプライベートでは温かい [&#8230;]",
       "link": "https://rocketnews24.com/2026/11/13/2861279/",
       "pubDate": "Fri, 13 Nov 2026 02:00:58 +0000",
-      "thumbnail": ""
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/yoko_1920_b3ab51.jpg"
     },
     {
       "siteId": "artscape",
@@ -639,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/4869cfe2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】配信者「リスナーがスパチャしてくれないんで引退します！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585490.html",
-      "pubDate": "2026-11-13T00:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/54812c40.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1146,19 +1185,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/10/05/subbuzz/BCNhUI44S.jpg?crop=3404:2269;0,449&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "漫画『ワンピース』の現状にざわつく今こそ考えたい。かつて熱狂した作者と同世代が「長年作品を続ける過酷さ」に思うこと",
-      "description": "私（佐藤）は人気漫画『ワンピース（ONE PIECE）』を現在読んでいない。久しく週刊少年ジャンプを買っていないし、コミックもおそらく「ドレスローザ編」あたりまでで離脱。アニメも見ていない。 だが考察動画が好きで、時間の [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/11/2861928/",
-      "pubDate": "Wed, 11 Nov 2026 10:00:25 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/aboutonepiece.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1367,19 +1393,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "毛足でぼかす、冬のチェック。〈DOLCE&GABBANA〉のボンバージャケット：Brutus Best Bets",
-      "description": "毛足でぼかす、冬のチェック 2026年秋冬コレクションの〈ドルチェ＆ガッバーナ〉のムードを象徴するのが、チェック柄のモヘアブレンドを使ったボンバージャケットだ。高い襟と内側のリブニット、キルティング仕様でスポーティに仕立 [&#8230;]",
-      "link": "https://brutus.jp/post-536439/",
-      "pubDate": "Tue, 10 Nov 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1403,19 +1416,6 @@
       "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
       "link": "https://casabrutus.com/categories/design/495360",
       "pubDate": "Mon, 09 Nov 2026 22:00:23 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【LIFE@PET】真っ黒なふわふわ姿が絵本のモデルに。｜クロ＆アートディレクター・サイトヲヒデユキさん",
-      "description": "アートディレクターのサイトヲヒデユキさんが主宰する〈書肆サイコロ〉の看板犬クロ。",
-      "link": "https://casabrutus.com/categories/design/496075",
-      "pubDate": "Mon, 09 Nov 2026 02:25:08 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T02:30:42.589167",
+  "updatedAt": "2026-11-13T03:00:47.638068",
   "sites": [
     {
       "id": "hachima",
