@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "SNSで見たポテトがあまりに美味しそうだったので、お店まで行ったら目覚めてしまった / 原宿『DE FRITES STAAN』",
+      "description": "フライドポテトには中毒性がある。ときどき無性に食べたくなってしまうのは私だけではないはずだ。 ある日SNSで「DE FRITES STAAN HARAJUKU（デ・フリッツ・スターン原宿）」のポテトを見かけた。ベルギーや [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/13/2861816/",
+      "pubDate": "Fri, 13 Nov 2026 07:00:41 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-2-3.jpeg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -570,7 +583,7 @@
       "title": "【激安速報】スパイファミリー、暗殺教室、ヒカルの碁などが”実質半額”になる超Kindleセール開始！ニセコイ、幽遊白書、ハイスコアガールなども対象！",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52462448.html",
-      "pubDate": "2026-11-13T08:20:02+09:00",
+      "pubDate": "2026-11-13T08:20:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4af0920.jpg"
     },
     {
@@ -1079,19 +1092,6 @@
       "link": "https://rocketnews24.com/2026/11/12/2861651/",
       "pubDate": "Thu, 12 Nov 2026 01:00:31 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/S__48734312_d689c5.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "服が1着68円!? 取り壊し予定の「ディスカウントストア」でブランドのデッドストックを発掘 / 全身たったの340円でコーデできた",
-      "description": "フリマやジャンクショップで、掘り出し物を探すのを好む人は多いはず。私（佐藤）もその1人。とくに古着屋の前を通ると、思わず立ち寄って何かないかな？　と探ってしまう。 最近、東京のとあるディスカウントストアを訪ねた際に、「6 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/12/2861577/",
-      "pubDate": "Thu, 12 Nov 2026 00:00:40 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/abscord.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T06:30:42.269758",
+  "updatedAt": "2026-11-13T07:00:49.694267",
   "sites": [
     {
       "id": "hachima",
