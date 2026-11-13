@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ジョニー・デップ主演『クリスマス・キャロル／3人のゴーストたち』は奇をてらわない「実直さ」が光る、申し分などあるはずもなしの作品でした",
+      "description": "ジョニー・デップ主演の映画『クリスマス・キャロル／3人のゴーストたち』が2026年11月13日に公開された。久しぶりのジョニデ主演作、そしてチャールズ・ディケンズ原作の王道ストーリー。否が応でも期待が高まってしまう。 こ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/13/2863288/",
+      "pubDate": "Fri, 13 Nov 2026 08:00:31 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/bb0ac6a9-f338-4b97-acce-9e0d14599442.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】マイクロソフト「365の復旧頑張ってるんだけど効果が出てません；；」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585665.html",
+      "pubDate": "2026-11-13T17:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9f6da3af.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "モータリストの名作を、今に。〈dunhill〉のニット：Brutus Best Bets",
+      "description": "モータリストの名作を、今に 100年以上前のドライビングウェアが、今季はニットにアレンジされた。〈ダンヒル〉の「ドライビングジャケット」は、1912年の自社カタログに掲載された、初期のモータリスト向けレザーウェアが原点。 [&#8230;]",
+      "link": "https://brutus.jp/post-536455/",
+      "pubDate": "Fri, 13 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -11,8 +50,21 @@
       "title": "今年の『紅白歌合戦』出場歌手発表！=LOVE、CUTIE STREET、Aぇ! groupらが初出場！稲葉浩志ソロのSPステージも",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10585661.html",
-      "pubDate": "2026-11-13T16:30:47+09:00",
+      "pubDate": "2026-11-13T16:30:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/9/09be8cfb-s.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "庭、建築、展示、すべてが美しい！ 改修を終えたポルトガル・リスボンの〈グルベンキアン美術館〉へ。",
+      "description": "1969年に開館した〈グルベンキアン美術館〉は、カルースト・グルベンキアン（1869〜1955）が遺したコレクションを展示する世界有数の美術館である。この夏、1年半に及ぶ改修を終え再オープンした。隣接する隈研吾が改修を手掛けた〈グルベンキアン現代美術館（CAM）〉、原研哉が手がけたサイネージと合わせて紹介したい。",
+      "link": "https://casabrutus.com/categories/art/496351",
+      "pubDate": "Fri, 13 Nov 2026 07:25:57 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -717,19 +769,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/1koma-130.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】「『1キロからあげ弁当』をデリバリーでウキウキしながら頼んだらこれ！ふざけんな」パシャッ　→　想像以上に悲惨すぎてネットが震える…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585584.html",
-      "pubDate": "2026-11-13T07:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/9/0941f0ee.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1081,19 +1120,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【福袋2027】何が届くか完全にお楽しみ！ 3580円の「わけあり福袋 親子ファミリーセット」を買ったら、想像以上に実用的だった",
-      "description": "今年も福袋の季節がやってきた。 すでにさまざまな福袋の発売や予約受付が始まっており、情報を眺めているだけでもワクワクしてくる。 そんな中、私（夏野）が今年の第1弾として楽天で購入したのが、「わけあり福袋 親子ファミリーセ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/12/2861651/",
-      "pubDate": "Thu, 12 Nov 2026 01:00:31 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/S__48734312_d689c5.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1393,19 +1419,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "その一瞬の、先に。〈ロレックス〉が世界の耐久レースで刻み続ける、栄光の時間",
-      "description": "〈ロレックス〉とモータースポーツ、その歴史と 〈ロレックス〉とモータースポーツの関係は、1930年代に始まる。イギリスのレーサー、マルコム・キャンベル卿はオイスターを腕に、世界地上速度記録を次々と塗り替え、9回の記録のう [&#8230;]",
-      "link": "https://brutus.jp/post-534221/",
-      "pubDate": "Tue, 10 Nov 2026 08:50:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1417,19 +1430,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/10/awanomanimani/",
       "pubDate": "Mon, 09 Nov 2026 23:01:07 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8468-1024x767.jpeg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "〈＋TIC〉が向き合う環境問題と傘。柴田文江がデザインする、ビニール傘の未来形。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495360",
-      "pubDate": "Mon, 09 Nov 2026 22:00:23 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T07:30:44.032845",
+  "updatedAt": "2026-11-13T08:00:50.156794",
   "sites": [
     {
       "id": "hachima",
