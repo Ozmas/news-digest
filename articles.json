@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】大物歌手・キタニタツヤさん「昔の自分がマジで最悪な発言してるスクショ流れてきて最悪」　→　想像以上にガチでひどすぎるツイートだったｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585625.html",
+      "pubDate": "2026-11-13T13:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/9/091d075d.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "愛媛県松山市「韓国人観光客めっちゃ多いやん…せや！税金で韓国人無料送迎バス出すで！あ、日本人は片道1200円ね＾＾」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462460.html",
+      "pubDate": "2026-11-13T13:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/3/33631523.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -24,7 +50,7 @@
       "title": "【悲報】『GTA6』はPS5Proでも可変30fps！ それにブチギレたユーザーが返金を要求してしまう…",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10585617.html",
-      "pubDate": "2026-11-13T12:40:48+09:00",
+      "pubDate": "2026-11-13T12:40:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/857a9c34.png"
     },
     {
@@ -691,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60a3804b.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "声優・緒方恵美さん「開戦したらどうかを語るより、戦争をしないよう政治の力で国民を守るのが政治家のお仕事なのでは」「恐ろしいです。総理」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585560.html",
-      "pubDate": "2026-11-13T02:00:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e79acaba.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +780,6 @@
       "link": "https://jin115.com/archives/52462421.html",
       "pubDate": "2026-11-12T23:00:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/037324ea.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "淫夢、ガチのマジで子どもたちの間で大流行してた・・・公園の小学生「『INMU KING』大好き！毎日授業中に聴いてる！みんな淫夢厨なんで！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462435.html",
-      "pubDate": "2026-11-12T22:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50665994.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T04:00:46.958577",
+  "updatedAt": "2026-11-13T04:30:41.297759",
   "sites": [
     {
       "id": "hachima",
