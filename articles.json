@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】ホロライブと物語シリーズのコラボ、やっぱり叩かれる・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585646.html",
+      "pubDate": "2026-11-13T16:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/7/27a836e5.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,19 @@
       "link": "https://rocketnews24.com/2026/11/13/2861816/",
       "pubDate": "Fri, 13 Nov 2026 07:00:41 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-2-3.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "政府、1番やっちゃいけない所の税優遇を廃止へ　どーすんのこれ・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462467.html",
+      "pubDate": "2026-11-13T16:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
     },
     {
       "siteId": "hachima",
@@ -717,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a3a9632d-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "競馬で「スモモモモモモモモ」以来の珍名対決！「ムリムリカタツムリ」VS「デンデンデングリ」VS「ズットオレノターン」が実現",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585501.html",
-      "pubDate": "2026-11-13T06:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/1/e1f2ff99.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +819,6 @@
       "link": "https://jin115.com/archives/52462446.html",
       "pubDate": "2026-11-13T01:00:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/2/c210800c-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "エヌビディアのフアンCEO、辞任",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462444.html",
-      "pubDate": "2026-11-13T00:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50019f0f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T07:00:49.694267",
+  "updatedAt": "2026-11-13T07:05:10.835734",
   "sites": [
     {
       "id": "hachima",
