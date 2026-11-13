@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【東京】NCARトーク010「美術館は誰と、どのようにつくるのか？ クイーンズランド州立美術館／近代美術館（QAGOMA）に学ぶ、来館者とともにつくる美術館」",
+      "description": "東京・一橋講堂にてにて、国立アートリサーチセンター（NCAR）によるトークイベント「美術館は誰と、どのようにつくるのか？ クイーンズランド州立美術館／近代美術館（QAGOMA）に学ぶ、来館者とともにつくる美術館」が開催さ [&#8230;]",
+      "link": "https://artscape.jp/article/83469/",
+      "pubDate": "Fri, 13 Nov 2026 01:00:36 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】町山智浩さん「『VIVANT』より『ポリティカルパン』の方が面白い」　→　『ポリティカルパン』脚本家から怒られてしまう…　「うちのドラマをVIVANT叩き棒にしないで」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585609.html",
+      "pubDate": "2026-11-13T10:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/258851b0.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -546,19 +572,6 @@
       "link": "https://jin115.com/archives/52462421.html",
       "pubDate": "2026-11-12T23:00:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/037324ea.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】今度は『ペルソナ』がXで叩かれる「シナリオが下品すぎる」「ジジイの性欲で書かれてるときがある」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585520.html",
-      "pubDate": "2026-11-12T23:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/7/a7499472.jpg"
     },
     {
       "siteId": "jin",
@@ -1406,19 +1419,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "塚田優｜令和のイラスト展示論③米山舞が切り拓くフロンティア",
-      "description": "目まぐるしく変化していくメディア環境にともなって、日本における「イラストレーション」はその語が示す職能や活動領域だけでなく、大衆の間で想起されるイメージもまた、時代ごとに変化してきた。近年、マンガ、アニメ、ゲームやVTu [&#8230;]",
-      "link": "https://artscape.jp/article/82234/",
-      "pubDate": "Mon, 09 Nov 2026 02:00:13 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-13T01:00:56.411946",
+  "updatedAt": "2026-11-13T01:30:39.901719",
   "sites": [
     {
       "id": "hachima",
