@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本人「町中でスケボーを滑る迷惑スケーターが炎上！」→外国人がブチギレ「ただのスケーターがテロリスト扱いされてる」「日本人は異常」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462557.html",
+      "pubDate": "2026-11-14T20:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/7/37f7a2d2.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52462515.html",
       "pubDate": "2026-11-14T03:00:49+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/8/48043763.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【画像】今年の紅白歌合戦、出演者がこちらｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462514.html",
-      "pubDate": "2026-11-14T01:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/4/d454a9bd.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T11:00:49.462086",
+  "updatedAt": "2026-11-14T11:30:44.794509",
   "sites": [
     {
       "id": "hachima",
