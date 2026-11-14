@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【Yahoo!ニュース 世論調査】高市内閣支持率38.1%、不支持42.6%！Yahoo! JAPAN ID保有者1000人がネットで回答",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586179.html",
+      "pubDate": "2026-11-14T21:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/72705662.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -559,19 +572,6 @@
       "link": "https://rocketnews24.com/2026/11/14/2863808/",
       "pubDate": "Sat, 14 Nov 2026 02:30:31 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_06131.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【正論】映画『魔法少女まどか☆マギカ ワルプルギスの廻天』が興収26億で終わってしまった理由、X民に的確に分析されてしまう…　「◯◯はやるべきじゃなかった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585988.html",
-      "pubDate": "2026-11-14T11:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/f/5f9bed76-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T12:30:40.663900",
+  "updatedAt": "2026-11-14T13:00:48.725947",
   "sites": [
     {
       "id": "hachima",
