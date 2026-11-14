@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "紅葉スポット「神奈川の3湖」に来たのならセブンイレブンに立ち寄るべし！ この場所だけの『特別なグルメ』が楽しめるぞ",
+      "description": "神奈川県の北西部に位置する『相模・宮ケ瀬・津久井』の3湖。これからのシーズン、紅葉＆イルミネーションが始まるので県外から多くの観光客が訪れることであろう。 さて、そんな3湖に遊びに来たのならば立ち寄って欲しいオススメのお [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/14/2860915/",
+      "pubDate": "Sat, 14 Nov 2026 01:00:11 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/42903_0.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "AI、ついに「自然界に存在しない未知のウイルス」を作ってしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462524.html",
+      "pubDate": "2026-11-14T09:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/7612d10a.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】X民「ガチご先祖様が『FGO』でセクシーダイナマイトギャルになって水着で実装された」　→　問題のセクシー巨乳水着女体化キャラがこちらｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585973.html",
+      "pubDate": "2026-11-14T09:30:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9f88ae78.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -444,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/3/b356bf3a-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "生後3カ月の娘を包丁で滅多刺しにした母親(車椅子インフルエンサー)に拘禁8年判決 → 閉廷直後、母親が叫ぶ「なんで死刑じゃないんだよ！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585886.html",
-      "pubDate": "2026-11-13T22:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/0/e09a8ea2.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +663,6 @@
       "link": "https://jin115.com/archives/52462481.html",
       "pubDate": "2026-11-13T18:00:15+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/7/a70c8c63.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "東京ディズニーランド、突如◯◯の閉店を発表　ネット民に衝撃が走る・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462487.html",
-      "pubDate": "2026-11-13T17:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9eed079f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1131,19 +1144,6 @@
       "link": "https://rocketnews24.com/2026/11/12/2862021/",
       "pubDate": "Thu, 12 Nov 2026 07:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_0943.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ドンキ『偏愛めし 大増量祭』第2弾のにんにく2倍『にんにく最香チキン弁当』を食べたら「世界がにんにくになった」",
-      "description": "驚安の殿堂「ドン・キホーテ」が誇る狂気の弁当シリーズ『偏愛めし』の大増量祭が第2弾に突入している。第2弾の目玉……いや『偏愛めし 大増量祭』を通じて最大の注目商品が第2弾で登場した。 その名も『にんにく最香! にんにく最 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/12/2862239/",
-      "pubDate": "Thu, 12 Nov 2026 05:00:41 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ninniku09.jpeg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T00:30:40.746037",
+  "updatedAt": "2026-11-14T01:00:47.256031",
   "sites": [
     {
       "id": "hachima",
