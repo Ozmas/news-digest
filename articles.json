@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "高校生「修学旅行中に同級生の男の娘が部屋来てくれて、抱き着いてきて、恋人繋ぎしてきて、〇〇された」 ← 羨ましすぎるだろと話題にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462548.html",
+      "pubDate": "2026-11-14T17:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/e/be50fe82.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "GACKT、エスカレーターで◯◯しない大人にブチギレ「本当にいい加減にしろ。迷惑だ。そしてめちゃ危険」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586039.html",
+      "pubDate": "2026-11-14T17:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/26206f5a-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -626,19 +652,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "全米でも大ヒットの『ゴジラ-0.0』になぜか米大手レビューサイトで最低評価連発！その理由が予想外の",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585905.html",
-      "pubDate": "2026-11-14T06:30:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0b23c374.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "https://jin115.com/archives/52462506.html",
       "pubDate": "2026-11-13T23:00:50+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/3/b33d1c97-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「マックで1時間以上待たされてるんだけどこれって普通なの！？」 → 最悪の原因が判明ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462496.html",
-      "pubDate": "2026-11-13T22:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/e/0eeeeae9-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T08:00:45.369483",
+  "updatedAt": "2026-11-14T08:30:45.768935",
   "sites": [
     {
       "id": "hachima",
