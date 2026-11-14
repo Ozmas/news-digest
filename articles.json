@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】活動家グレタさん、自らが立ち上げた抗議団体が現在も活動していることを知り、大爆笑「あいつら、まだそんなことやってんのかよｗｗｗｗｗｗ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462568.html",
+      "pubDate": "2026-11-15T00:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/8/58b98ab3.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「ペルソナ5を燃やすにしても、シリーズ最強の激ヤバ女に行ってないのがもうダメ。ろくにプレイしてないことがバレバレ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586063.html",
+      "pubDate": "2026-11-15T00:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/2/026b480c.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/ed95d29c.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ヒカルの元妻・進撃のノアさん、「結婚中の3股疑惑」を全面否定！　「三股どころか、二股もしていません」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586005.html",
-      "pubDate": "2026-11-14T13:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/c/fce770ab.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://rocketnews24.com/2026/11/14/2858294/",
       "pubDate": "Fri, 13 Nov 2026 23:00:14 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari77-1koma.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "有識者「GTA6はすぐに買わなくていい。その理由がこれです」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462520.html",
-      "pubDate": "2026-11-14T08:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/c/9cc8a065.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T15:00:46.690248",
+  "updatedAt": "2026-11-14T15:30:40.023299",
   "sites": [
     {
       "id": "hachima",
