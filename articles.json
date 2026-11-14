@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "腐女子「P5Rは女目線でモヤる表現はいくつかあった」「ペルソナが男向けコンテンツは無理ある」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586040.html",
+      "pubDate": "2026-11-14T17:30:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/a/da63596c.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -611,19 +624,6 @@
       "link": "http://blog.esuteru.com/archives/10585953.html",
       "pubDate": "2026-11-14T07:30:24+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6ae4337-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】「カラオケボックスの中に、ガチで生命に関わる危険なトラップが仕込まれてた」パシャッ　→　お前らの想像の200倍以上、怖すぎる◯◯だった…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585952.html",
-      "pubDate": "2026-11-14T07:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/3553d7a1.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T08:30:45.768935",
+  "updatedAt": "2026-11-14T09:00:53.137174",
   "sites": [
     {
       "id": "hachima",
