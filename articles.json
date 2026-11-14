@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「自○を止めれる一言を教えて」→“最悪の忠告”が万バズ拡散・・・そして海外で物議に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462572.html",
+      "pubDate": "2026-11-15T07:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/1/a1aaf3ae.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -13,6 +26,19 @@
       "link": "https://casabrutus.com/categories/art/491347",
       "pubDate": "Sat, 14 Nov 2026 22:00:32 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "地雷系女子が早朝、自◯配信をしてしまう → 14歳だということが判明し、ネット騒然",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586249.html",
+      "pubDate": "2026-11-15T07:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f88d1c3.jpg"
     },
     {
       "siteId": "hachima",
@@ -418,19 +444,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bf51e3ec.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【炎上】飲食店「『孤独のグルメ』が嫌い。おっさんが1人で酒も飲まずに料理だけたくさん注文して、ブツブツ言いながら食べてるのって普通に変」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586052.html",
-      "pubDate": "2026-11-14T18:20:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/b/1b448984.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/11/14/2863588/",
       "pubDate": "Sat, 14 Nov 2026 00:00:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/4fa330c5-6720-4c0d-b0f0-f9161004d3ba.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】とある閉店セールの値下げポップ、めっちゃ分かりづらいと話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462521.html",
-      "pubDate": "2026-11-14T08:40:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03eccf06-s.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T22:00:44.521004",
+  "updatedAt": "2026-11-14T22:30:41.247357",
   "sites": [
     {
       "id": "hachima",
