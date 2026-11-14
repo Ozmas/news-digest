@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "村上隆のアニメ作品ともつながりが？ コウノトリが飛んでくる崖地の光景。【今日の名所江戸百景 by 村上隆】",
+      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
+      "link": "https://casabrutus.com/categories/art/491347",
+      "pubDate": "Sat, 14 Nov 2026 22:00:32 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1367,19 +1380,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/10/05/subbuzz/BCNhUI44S.jpg?crop=3404:2269;0,449&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "京都・御所南に〈T.T〉のウィメンズを扱う新拠点が誕生。故・高橋大雅の美学を受け継ぐ総合芸術空間とは？",
-      "description": "〈T.T〉のデザイナー故・高橋大雅が遺した総合芸術空間〈T.T 祇園〉に続き、〈T.T 御所南〉がオープンした。",
-      "link": "https://casabrutus.com/categories/fashion/496013",
-      "pubDate": "Wed, 11 Nov 2026 07:25:59 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T21:30:41.745396",
+  "updatedAt": "2026-11-14T22:00:44.521004",
   "sites": [
     {
       "id": "hachima",
