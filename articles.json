@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【最新号からプレゼント】〈国立映画アーカイブ〉オリジナルグッズ・映画『沼の大将』Tシャツを３名様に",
+      "description": "誌面を超えて特別な体験をお届けする「WITHBRUTUS」 「WITHBRUTUS」は、『BRUTUS』が取り上げるさまざまなテーマから、誌面を超えて特別な体験を共有する新しいコミュニティ。登録・年会費は無料。 2026 [&#8230;]",
+      "link": "https://brutus.jp/post-538920/",
+      "pubDate": "Sat, 14 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "自衛官の給与引き上げ法が成立！参院で賛成241反対1　ただ一人反対したのは・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586058.html",
+      "pubDate": "2026-11-14T18:40:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bf51e3ec.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -559,19 +585,6 @@
       "link": "https://jin115.com/archives/52462521.html",
       "pubDate": "2026-11-14T08:40:48+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03eccf06-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】若者に人気のカフェで、やべー「おじアタック」が発見されてしまう　→　「見ず知らずの他人なのに◯◯で脈ありと勘違いか」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585961.html",
-      "pubDate": "2026-11-14T08:30:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/b/3bfccb80.png"
     },
     {
       "siteId": "jin",
@@ -1354,19 +1367,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/10/05/subbuzz/BCNhUI44S.jpg?crop=3404:2269;0,449&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "「WELL-MADE」Vol.13〈PRADA〉のシェトランドウールのテーラードジャケット",
-      "description": "〈PRADA〉のシェトランドウールのテーラードジャケット 冬の素材をあえてスーツに。〈プラダ〉が仕掛ける意外な一手 秋はどこへ行ったのだろう？ついこの間まで半袖で過ごしていたのに、気づけばもう冬の入口。季節の境目が曖昧に [&#8230;]",
-      "link": "https://brutus.jp/post-537962/",
-      "pubDate": "Wed, 11 Nov 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T09:30:42.860719",
+  "updatedAt": "2026-11-14T10:00:47.456332",
   "sites": [
     {
       "id": "hachima",
