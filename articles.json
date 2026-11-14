@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ラーメン屋「店頭の募集貼り紙を見て、営業中に『アルバイト募集してますか？』と入ってくるやつは、丁重にお断り。そういうやつは…」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586259.html",
+      "pubDate": "2026-11-15T08:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/94c877d7-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【Kindleセール】『シュタインズ・ゲート』全巻99円！ 他、『ちびまる子ちゃん』や『ヒカルの碁』、『キン肉マン』などの作品が実質半額キャンペーン実施中！実質半額は今日まで！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586254.html",
+      "pubDate": "2026-11-15T07:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/e/5e0db9a6-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -392,19 +418,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/野島サムネ.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "今年の『紅白歌合戦』白組に”演歌歌手ゼロ” →大物演歌歌手がNHKにお気持ち「本当は書きたくないのですが…」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586062.html",
-      "pubDate": "2026-11-14T19:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/a/da999487.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -429,19 +442,6 @@
       "link": "https://brutus.jp/post-538920/",
       "pubDate": "Sat, 14 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "自衛官の給与引き上げ法が成立！参院で賛成241反対1　ただ一人反対したのは・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586058.html",
-      "pubDate": "2026-11-14T18:40:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bf51e3ec.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T22:30:41.247357",
+  "updatedAt": "2026-11-14T23:00:45.058910",
   "sites": [
     {
       "id": "hachima",
