@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「笑い」はどう学べるか？ピン芸人・吉住と一緒に〈スクールJCA〉で考える",
+      "description": "歴史あるプロ養成所のネタ作り教室へ 芸の基礎を学び、自らの才能を知り、己を磨く。かつて、お笑い芸人になりたい若者は、師匠に弟子入りして「お笑い」を体得した。ところが約半世紀前、「お笑い養成所」がメジャーになり、「学校でお [&#8230;]",
+      "link": "https://brutus.jp/post-536499/",
+      "pubDate": "Sat, 14 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "笑いの力を育むうえで大切なこと。芸人と講師目線で、吉住と岡田幸生が考える",
+      "description": "芸人と講師目線で考える、笑いの力を育むうえで大切なこと 今も携えている“お守り”と、授かった芸人としての強み 岡田幸生が選ぶ吉住の名作ネタ 『女審判』 優勝した『THE W』決勝で披露されたコント。待ち合わせ場所に来た女 [&#8230;]",
+      "link": "https://brutus.jp/post-540200/",
+      "pubDate": "Sat, 14 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【最強回転寿司】青森駅でサバ無双！ 八戸、大間など23の漁港から直送『鮨処あすか』で考える「人生とは」",
+      "description": "日本海、津軽海峡、太平洋、陸奥湾という4つの海に面する青森。マップを見ると漁港の数は武装でもしているかのようだ。八戸や大間など有名漁港もあり、まさしく魚介の要塞と言えるかもしれない。 でも、今回は大間も八戸も行くのは厳し [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/14/2862240/",
+      "pubDate": "Sat, 14 Nov 2026 02:55:52 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/asuka6.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【1本73円】ぎゅっと濃い十六茶（630ml）24本セットが1758円 / Amazonタイムセール",
+      "description": "毎日お得なタイムセールを開催しているAmazon。飲料・食品・アパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、アサヒ飲料のブレンド茶『ぎゅっと濃い十六茶（630ml）』24本セ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/14/2863808/",
+      "pubDate": "Sat, 14 Nov 2026 02:30:31 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_06131.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【正論】映画『魔法少女まどか☆マギカ ワルプルギスの廻天』が興収26億で終わってしまった理由、X民に的確に分析されてしまう…　「◯◯はやるべきじゃなかった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10585988.html",
+      "pubDate": "2026-11-14T11:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/f/5f9bed76-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,19 +546,6 @@
       "link": "http://blog.esuteru.com/archives/10585874.html",
       "pubDate": "2026-11-14T00:30:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/e/9e5742b0.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "たぬかな「いや〜産まれたのが娘で助かった。君らが高身長女子を求めたところで女は小さい男を選ばんよ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585872.html",
-      "pubDate": "2026-11-14T00:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/e/1e521146.jpg"
     },
     {
       "siteId": "jin",
@@ -1016,19 +1068,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2171話目「上司と部下の狭間で③」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/11/12/2862359/",
-      "pubDate": "Thu, 12 Nov 2026 12:00:26 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2171a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1079,19 +1118,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/nakamori-akina-sign-fudepen",
       "pubDate": "Thu, 12 Nov 2026 04:16:02 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/02/subbuzz/SC5KxkeXZ.jpg?crop=1831:1221;110,172&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "さよなら『ハンズ渋谷店』、11月15日に閉店するお店で最後に買ったのは「郷ひろみのカセットテープ」と「1970年代の音楽雑誌」",
-      "description": "2026年11月15日、東京・渋谷のハンズが48年の歴史に幕を下ろす。それに先立って、10月16日から1カ月の日程で「48年間、ありがとうセール」を実施している。 もしかして掘り出し物があるのでは？　ってことでお店を訪ね [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/12/2862515/",
-      "pubDate": "Thu, 12 Nov 2026 09:00:48 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hansheiten.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1341,19 +1367,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】驚きの万能感。〈Stand Bánh Mì〉の「サーテー」",
-      "description": "エスニック料理を愛するあの人へレモングラスが薫る万能調味料 〈Stand Bánh Mì〉の「サーテー」 2017年に学芸大学駅にオープンして以来、変わらぬ人気を博す〈Stand Bánh Mì〉。店主の白井瑛里さんによ [&#8230;]",
-      "link": "https://brutus.jp/post-539238/",
-      "pubDate": "Wed, 11 Nov 2026 03:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1391,19 +1404,6 @@
       "link": "https://artscape.jp/article/82616/",
       "pubDate": "Wed, 11 Nov 2026 02:00:08 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "積み重ねていく日々に、彩りを。ヘラルボニー×ピクシーダストの共創が生んだ《kikippaイヤホン》",
-      "description": "瀬戸口庸子完成したイヤホンが届いて、まずは本人に開封してもらいました。そうしたら、開けた瞬間にすぐ使い始めて。「早く使ってみたい」「これで音楽を聴いてみたい」というのが彼女の率直な反応でした。それまでは有線のイヤホンを使っていましたが、《kikippa》のおかげで私の携帯から音楽を聴けるようになり、最新のJ‒POPをずっと聴いていられるようになったんです。それが本人は最高に嬉しくて（笑）。毎日ノリ",
-      "link": "https://brutus.jp/post-535194/",
-      "pubDate": "Wed, 11 Nov 2026 00:50:00 +0000",
-      "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/10/ae46b1f460ee46f789c27b264a6cb421-9.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T02:30:40.207967",
+  "updatedAt": "2026-11-14T03:00:46.420937",
   "sites": [
     {
       "id": "hachima",
