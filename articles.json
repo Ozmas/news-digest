@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【物議】GACKTさん「エスカレーター歩く奴はバカ。それと片側空けるのが”思いやり”だと思ってる奴、そんなんだから歩く奴がいなくならないんだよ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462534.html",
+      "pubDate": "2026-11-14T13:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/f/2f13d6a2.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ド正論】X（Twitter）で「画像20枚を一度に投稿できる」仕様変更　→　X民から火の玉ストレートの正論をくらってしまい、誰も反論できない模様ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586003.html",
+      "pubDate": "2026-11-14T12:40:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/5/25cefd20.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/91e4c96c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "メルカリに消しゴムが高額出品、違法薬物の取引ではないかと話題に → メルカリ運営の回答がこちら",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585914.html",
-      "pubDate": "2026-11-14T01:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/878b591b.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +702,6 @@
       "link": "https://brutus.jp/post-529400/",
       "pubDate": "Fri, 13 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『2.5次元の誘惑』全25巻すべて「50％ポイント還元」セール！8,703円分返ってくる！卑猥なコスプレに青春をかけるオタクたちのお色気満載ラブコメ！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462495.html",
-      "pubDate": "2026-11-13T19:30:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2f18eec.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T03:30:42.593586",
+  "updatedAt": "2026-11-14T04:00:53.209615",
   "sites": [
     {
       "id": "hachima",
