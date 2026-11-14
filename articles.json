@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大炎上したスイッチ新作『テーブルゲームワールド』、任天堂が「誤解を招く表現が含まれていた」として紹介動画を削除",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586165.html",
+      "pubDate": "2026-11-14T20:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/3/83601aa2.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "山形独自の食文化を丸ごと味わう出汁カレー。スタイルを貫く注目の新店、山形〈DAZ CURRY〉",
+      "description": "ラーメン、蕎麦、芋煮など、関西の上品さとは方向性の違う、しっかり濃いめの出汁（だし）文化が根づく山形県。 その味をカレーに落とし込んだのが、〈DAZ CURRY〉の黒板メニューの最初を飾る定番、和の出汁ポークカレーだ。シ [&#8230;]",
+      "link": "https://brutus.jp/post-535675/",
+      "pubDate": "Sat, 14 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "Netflixが国内2年ぶり値上げ！広告付きプランは990円、4Kのプレミアムは月2,590円",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586164.html",
+      "pubDate": "2026-11-14T19:35:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/d/4d56b31d.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -522,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/32265b42.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "有識者「『GTA6』はすぐに買わなくていい」　→　その理由が納得しかなかった……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585975.html",
-      "pubDate": "2026-11-14T10:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/857a9c34.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -559,19 +585,6 @@
       "link": "https://jin115.com/archives/52462524.html",
       "pubDate": "2026-11-14T09:30:55+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/7612d10a.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】X民「ガチご先祖様が『FGO』でセクシーダイナマイトギャルになって水着で実装された」　→　問題のセクシー巨乳水着女体化キャラがこちらｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585973.html",
-      "pubDate": "2026-11-14T09:30:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9f88ae78.jpg"
     },
     {
       "siteId": "jin",
@@ -1315,19 +1328,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "テクノロジーと芸術の接点を探る。現代的な視点でコレクションを読み直す〈ソウル市立西ソウル美術館〉",
-      "description": "AIや映像、サウンドなどの、テクノロジーと芸術の接点を探る ソウル市立西ソウル美術館 （衿川） 2025年の写真美術館に続きソウル市立美術館（SeMA）の8つ目の分館として26年3月に誕生。今までの文化施設は市の中心部に [&#8230;]",
-      "link": "https://brutus.jp/post-537150/",
-      "pubDate": "Wed, 11 Nov 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T10:30:39.656323",
+  "updatedAt": "2026-11-14T11:00:49.462086",
   "sites": [
     {
       "id": "hachima",
