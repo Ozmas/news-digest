@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2173話目「上司と部下の狭間で⑤」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/14/2863351/",
+      "pubDate": "Sat, 14 Nov 2026 12:00:36 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2173a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【放送事故】人気女性Vtuberさん、配信を切り忘れて「彼氏との通話」を垂れ流してしまう・・・→会話内容がガチでやばすぎるんだが",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462558.html",
+      "pubDate": "2026-11-14T21:00:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f3018e7.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "AMD「どん底のときに誰がそばにいたか忘れないで…」 → ゲーマーからツッコミ殺到「お前のCEOはデータセンターファーストって言ってるけど」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586177.html",
+      "pubDate": "2026-11-14T21:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/876f91e1.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -548,19 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/5/359b2cd4.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【地獄】マイクロソフト365の大規模障害が起きた結果、日本企業の社内システム屋とクソ上司が衝突して最悪の事態に…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585987.html",
-      "pubDate": "2026-11-14T11:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9f6da3af.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -754,19 +780,6 @@
       "link": "https://jin115.com/archives/52462516.html",
       "pubDate": "2026-11-14T05:00:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/5/85e82bcf.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "アナウンサーの高橋真麻さん、変わり果てた姿で見つかる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462515.html",
-      "pubDate": "2026-11-14T03:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/8/48043763.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1066,19 +1079,6 @@
       "link": "https://artscape.jp/article/83469/",
       "pubDate": "Fri, 13 Nov 2026 01:00:36 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "温泉大国・青森は駅前のビジネスホテルの風呂もスゴかった！「青森センターホテル」の源泉の湯がドカ広くて最高",
-      "description": "秘湯から由緒ある名湯まで、全域に渡って様々な温泉がある青森。恐山の境内にも源泉温泉があるくらいで、まさしく温泉大国である。しかし、先日青森駅に行った際、せっかくなら酸ヶ湯温泉に行ってみたいと思ってバスの時刻表を見たところ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/13/2861879/",
-      "pubDate": "Fri, 13 Nov 2026 01:00:11 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/aomori2.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T12:00:49.124157",
+  "updatedAt": "2026-11-14T12:30:40.663900",
   "sites": [
     {
       "id": "hachima",
