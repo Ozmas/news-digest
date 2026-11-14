@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "長澤まさみ、柄本 佑、石橋静河が映画について語る。作品選びの基準やお薦めの１本は？",
+      "description": "友達のお薦めを聞き自分では選ばない映画を選んでみると楽しい 3人で共演することがなにより魅力的だった",
+      "link": "https://brutus.jp/post-539262/",
+      "pubDate": "Sat, 14 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「ライブでアーティストから『お前らそんなもんじゃねえよな』みたいに煽られるの苦手」 ← 共感の声が殺到ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586166.html",
+      "pubDate": "2026-11-14T20:30:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b6b1069f.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +572,6 @@
       "link": "https://rocketnews24.com/2026/11/14/2862540/",
       "pubDate": "Sat, 14 Nov 2026 02:00:15 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ibonoito-14-1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】『ワンピース』作者・尾田栄一郎さん、宮崎駿監督の本の推薦依頼を受けるも、うっかり自我を出して不都合な真実を言ってしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10585979.html",
-      "pubDate": "2026-11-14T10:30:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/aca13d55.jpg"
     },
     {
       "siteId": "jin",
@@ -1315,19 +1328,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "魅惑のルース図鑑。カットされた石そのものの美しさを楽しむ",
-      "description": "ルースコレクターたちは、装飾品としてではなく、カットされた“石そのものの美しさ”に魅了されている。人工的なカットで、さらにその石の美しさが引き立てられてはいるが、ルース収集は、鉱物標本を集める感覚にも近い文化だ。ここでは [&#8230;]",
-      "link": "https://brutus.jp/post-532856/",
-      "pubDate": "Wed, 11 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-14T11:30:44.794509",
+  "updatedAt": "2026-11-14T12:00:49.124157",
   "sites": [
     {
       "id": "hachima",
