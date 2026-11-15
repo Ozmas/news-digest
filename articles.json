@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "アダルトゲームさん、ガチでやばすぎるバグが起こってしまい、ネット騒然・・・1.4万いいね",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462614.html",
+      "pubDate": "2026-11-15T21:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/3183d1ab.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2174話目「上司と部下の狭間で⑥」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/15/2863359/",
+      "pubDate": "Sun, 15 Nov 2026 12:00:46 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2174a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】東京・豊洲の公園に大量のポケカと開封済みの袋が散乱…「ゴミぐらい片付けろよ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586419.html",
+      "pubDate": "2026-11-15T21:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/72a14b80.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -457,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/4/c41ca5be.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "新幹線に乗ったラブライバーさん、背後に〇〇を持ったおばさんが出現し戦慄ｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586299.html",
-      "pubDate": "2026-11-15T12:20:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/e/1eccef11.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -743,19 +769,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/8/58b98ab3.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "36歳の男性が婚活に300万円を課金した結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462560.html",
-      "pubDate": "2026-11-14T23:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/5/b5e6ef08.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1027,19 +1040,6 @@
       "link": "https://casabrutus.com/categories/art/491342",
       "pubDate": "Fri, 13 Nov 2026 22:00:05 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2172話目「上司と部下の狭間で④」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/11/13/2862367/",
-      "pubDate": "Fri, 13 Nov 2026 12:00:31 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2172a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T12:00:48.665866",
+  "updatedAt": "2026-11-15T12:30:39.655898",
   "sites": [
     {
       "id": "hachima",
