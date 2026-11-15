@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "店員「うちのポテトはKFCよりおいしい」オープンしたばかりの店で、自信満々のポテトを食べてみた結果…【カンバ通信：第546回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回も、ポテトを食べにレストランへ行ってきた。まだ新しいお店だそうで、中に入るとスタッフたちがとても感じよく迎えてくれたよ。  [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/15/2863279/",
+      "pubDate": "Sun, 15 Nov 2026 08:00:12 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba546-thumbnail.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "冬支度は、色選びから。〈C.P. COMPANY〉のダウンジャケット：Brutus Best Bets",
+      "description": "冬支度は、色選びから いよいよ冬到来。ダウンジャケットが恋しい季節だ。暖かいだけでは物足りないなら、〈シーピーカンパニー〉の新作を。ただのグレーじゃなく、再生ナイロンのボディに異なる染色を重ね、経年変化を思わせる複雑な陰 [&#8230;]",
+      "link": "https://brutus.jp/post-539320/",
+      "pubDate": "Sun, 15 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1003,19 +1029,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ジョニー・デップ主演『クリスマス・キャロル／3人のゴーストたち』は奇をてらわない「実直さ」が光る、申し分などあるはずもなしの作品でした",
-      "description": "ジョニー・デップ主演の映画『クリスマス・キャロル／3人のゴーストたち』が2026年11月13日に公開された。久しぶりのジョニデ主演作、そしてチャールズ・ディケンズ原作の王道ストーリー。否が応でも期待が高まってしまう。 こ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/13/2863288/",
-      "pubDate": "Fri, 13 Nov 2026 08:00:31 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/bb0ac6a9-f338-4b97-acce-9e0d14599442.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1260,19 +1273,6 @@
       "description": "彫刻家の名和晃平が自ら主宰するクリエイティブ・プラットフォーム〈Sandwich〉と共に設計した新アートスペース〈seeen Harajuku〉のこけら落としとして、名和自身の個展『At Random』が開催されている。彫刻のような4フロアの建築全体に、新作を含む多彩なシリーズを展示構成。時代と共に新たな表現を切り拓く彫刻家の現在を、空間ごと鑑賞することができる。",
       "link": "https://casabrutus.com/categories/art/496282",
       "pubDate": "Thu, 12 Nov 2026 08:25:47 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "穿き込んだ時間まで作り込む。〈DIE DREI BERGE〉のデニム：Brutus Best Bets",
-      "description": "穿き込んだ時間まで作り込む 〈ディ・ドライベーグ〉が研究したのは、デニムの生産方式が移り変わる1977年前後に作られた、通称「66後期」。異なる2種類の経糸（たていと）で当時特有のシャープなムラを再現した14オンスデニム [&#8230;]",
-      "link": "https://brutus.jp/post-536449/",
-      "pubDate": "Thu, 12 Nov 2026 08:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T07:41:27.929923",
+  "updatedAt": "2026-11-15T08:00:47.259455",
   "sites": [
     {
       "id": "hachima",
