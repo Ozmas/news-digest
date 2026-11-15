@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【！？】ドイツのテーマパーク「マイクロソフトの大規模障害のせいでプール利用者の15人が体調不良になったんですけど！！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586427.html",
+      "pubDate": "2026-11-15T22:00:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b86ad207.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "https://jin115.com/archives/52462582.html",
       "pubDate": "2026-11-15T13:00:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0c0fb2bd.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "愛知にある「想像の10倍以上デカい『餃子の王将』」がマジで死ぬほどでっけぇｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586303.html",
-      "pubDate": "2026-11-15T13:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b0d693d.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T13:00:46.623344",
+  "updatedAt": "2026-11-15T13:30:40.980551",
   "sites": [
     {
       "id": "hachima",
