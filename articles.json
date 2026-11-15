@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "新作カードゲーム『ホロビート』が爆死の予感……発売直後にも拘わらずパックが定価割れ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586411.html",
+      "pubDate": "2026-11-16T04:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/4/a418e9ac-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "旧中道・小川淳也氏「国境を超える再分配が必要」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462623.html",
+      "pubDate": "2026-11-16T04:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/f/df8c54d3.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "銀だこがまた値上げ！また客離れしちゃう……",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10586410.html",
@@ -431,19 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c8307e88.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "星街すいせいさん「色んな節目で”遠くに行っちゃったな…”って言われすぎてそろそろ私は月より向こう側くらい遠くに行っちゃってるだろ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586320.html",
-      "pubDate": "2026-11-15T17:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/dd8bc224.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -689,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/11/15/2862487/",
       "pubDate": "Sun, 15 Nov 2026 01:00:47 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/top.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】山岡家で半ライスを頼んだおじさん、量が少ない事にブチギレてヤバすぎる行動に出る・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462580.html",
-      "pubDate": "2026-11-15T10:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/5/45b15910.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T19:00:48.526613",
+  "updatedAt": "2026-11-15T19:30:41.913716",
   "sites": [
     {
       "id": "hachima",
