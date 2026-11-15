@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ホロライブのスマホゲー「ホロライブドリームス」が重要な謝罪→こんなん誰が気づくねんと話題にｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462578.html",
+      "pubDate": "2026-11-15T11:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/8/28363ea1.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "人生で初めての「山形そば」がウマすぎた！ 仙台で1日3時間しか開かない行列店『肉そば 藤七』の破壊力",
+      "description": "あなたは日本における「そば処（どころ）」を聞いて、何県を思い出すだろう？　私自身はすぐに「長野県」が浮かんできたが、実は「山形県」も日本有数のそば処として知られているそうだ。 つい先日、仙台へ出かけたときのこと。行列の先 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/15/2862408/",
+      "pubDate": "Sun, 15 Nov 2026 02:00:08 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/yamagata00.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「ラブ上等」「LAST CALL」に出演していた有名キャバ嬢、逮捕",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462581.html",
+      "pubDate": "2026-11-15T10:30:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/a/4a99b0f0.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "無職男性（22）、路上で17歳男性をボコボコにした上で、「Tシャツに血付いた！100万渡すか、拉致されて◯されるか」などと脅して逮捕される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586281.html",
+      "pubDate": "2026-11-15T10:30:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/eb8377c2.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -418,19 +470,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/61b71d52.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【Yahoo!ニュース 世論調査】高市内閣支持率38.1%、不支持42.6%！Yahoo! JAPAN ID保有者1000人がネットで回答",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586179.html",
-      "pubDate": "2026-11-14T21:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/72705662.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -743,19 +782,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_06131.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "◯歳以上で片脚立ち10秒間出来ない人、マジでヤバイぞ…",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462528.html",
-      "pubDate": "2026-11-14T11:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/5/359b2cd4.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -767,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/11/14/2862540/",
       "pubDate": "Sat, 14 Nov 2026 02:00:15 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ibonoito-14-1.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【あっ】採決で4人の退席者を出した自民党、参院で過半数の確保が厳しくなり公明党に目を付ける",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462526.html",
-      "pubDate": "2026-11-14T10:12:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/32265b42.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1001,19 +1014,6 @@
       "link": "https://rocketnews24.com/2026/11/13/2862114/",
       "pubDate": "Fri, 13 Nov 2026 05:00:37 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2746-2.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【Amazon】最大76％オフ！ 価格が一気に下がった注目アイテム30選（11月13日）",
-      "description": "毎日お得なタイムセールを開催しているAmazon。家電・食品・ファッションなど、さまざまなカテゴリーのアイテムを特別価格でゲットできるチャンス。 本日は、価格が一気に下がった注目のアイテムを厳選ピックアップしてみたぞ。  [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/13/2862946/",
-      "pubDate": "Fri, 13 Nov 2026 04:00:23 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5952_b6da97_00115a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T01:30:39.940414",
+  "updatedAt": "2026-11-15T02:00:46.037042",
   "sites": [
     {
       "id": "hachima",
