@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "インド人男「隣人にお菓子もらった！いただきまーす！」 →お菓子が爆弾だったため死亡",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586408.html",
+      "pubDate": "2026-11-15T19:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b8b5f9d-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,19 @@
       "link": "https://rocketnews24.com/2026/11/15/2862285/",
       "pubDate": "Sun, 15 Nov 2026 10:00:19 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-3-5.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【動画】ネパール人、ブチギレ 「国を汚すな？帰れ？お前らが自分達だけで国を守れてないから助けに来たんだろ💢」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462588.html",
+      "pubDate": "2026-11-15T19:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/388af586.png"
     },
     {
       "siteId": "brutus",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/a/4a99b0f0.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "無職男性（22）、路上で17歳男性をボコボコにした上で、「Tシャツに血付いた！100万渡すか、拉致されて◯されるか」などと脅して逮捕される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586281.html",
-      "pubDate": "2026-11-15T10:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/eb8377c2.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -728,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/11/14/2863351/",
       "pubDate": "Sat, 14 Nov 2026 12:00:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2173a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【放送事故】人気女性Vtuberさん、配信を切り忘れて「彼氏との通話」を垂れ流してしまう・・・→会話内容がガチでやばすぎるんだが",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462558.html",
-      "pubDate": "2026-11-14T21:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f3018e7.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T10:00:50.331107",
+  "updatedAt": "2026-11-15T10:30:44.323704",
   "sites": [
     {
       "id": "hachima",
