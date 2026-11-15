@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「ハコさえ建ててくれたら、壁も塗るし家具も作る」。建築家・湯浅良介を驚かせた住人力",
+      "description": "施主の言葉 ハコさえ建ててくれたら、壁も塗るし家具も作る 建築家の言葉 抜群の「自作力」のおかげで超ローコストが実現 土地に予算を使ってしまったので、建物は簡素な小屋でいい。壁も塗るし家具や照明も自分で作るから。そう言っ [&#8230;]",
+      "link": "https://brutus.jp/post-531022/",
+      "pubDate": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "覆面マスクに赤いマントの男「おい君！これを着てみるかい？」 女子小学生が声をかけられる事案発生",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586413.html",
+      "pubDate": "2026-11-15T19:30:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/7/6781dd5f.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -507,19 +533,6 @@
       "link": "https://jin115.com/archives/52462577.html",
       "pubDate": "2026-11-15T11:20:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4af0920.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "年収350万の子ども部屋おじさん、300万円課金、婚活パーティー180回参加した結果…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586285.html",
-      "pubDate": "2026-11-15T11:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/923fc898.jpg"
     },
     {
       "siteId": "jin",
@@ -1250,19 +1263,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "世界屈指の宝石コレクション〈Somewhere In The Rainbow〉を知っているか？",
-      "description": "アメリカ・アリゾナ州にある〈Somewhere In The Rainbow（以下SITR）〉は、2008年の蒐集（しゅうしゅう）開始以来、アメリカの作家による革新的なルースやジュエリーを約3500点収蔵する世界的なコレ [&#8230;]",
-      "link": "https://brutus.jp/post-532859/",
-      "pubDate": "Thu, 12 Nov 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T10:30:44.323704",
+  "updatedAt": "2026-11-15T11:00:48.250894",
   "sites": [
     {
       "id": "hachima",
