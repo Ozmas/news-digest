@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【溝口界隈】インフルエンサー「あっすん」逮捕　『ラヴ上等』『ラストコール』に出演",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586311.html",
+      "pubDate": "2026-11-15T15:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/85d72a4d-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『コンシェルジュ』全巻「99円」セール！全21巻「12,474円」→「2,079円」！ホテルの凄腕コンシェルジュが客の無理難題を解決！『北斗の拳』原哲夫の『いくさの子』なども全巻99円",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462570.html",
+      "pubDate": "2026-11-15T15:30:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/a/ba49413b.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -548,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/2/12406188-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "デスマフィンを産んだイベント『デザフェス』で今度は明らかに生っぽい「デスローストビーフ」が出現か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586196.html",
-      "pubDate": "2026-11-15T05:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/8/9886f6f2.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52462550.html",
       "pubDate": "2026-11-14T18:00:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/9/89a2df82-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "高校生「修学旅行中に同級生の男の娘が部屋来てくれて、抱き着いてきて、恋人繋ぎしてきて、〇〇された」 ← 羨ましすぎるだろと話題にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462548.html",
-      "pubDate": "2026-11-14T17:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/e/be50fe82.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T06:30:47.496443",
+  "updatedAt": "2026-11-15T07:00:48.310976",
   "sites": [
     {
       "id": "hachima",
