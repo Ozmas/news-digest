@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "スピッツのドラム・﨑山龍男さんが交通事故で救急搬送… 命に別状はないものの、全身を強く打つ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586416.html",
+      "pubDate": "2026-11-15T20:10:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/85a25fdb.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性「タトゥー入れた～♪『ヒロアカ』が好きだから太ももに◯◯を」→ガチでやばすぎるモノが彫られていて、ネット民騒然",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462611.html",
+      "pubDate": "2026-11-15T20:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/19d06570.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -496,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/e/dede9d6a-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "サービス停止していた「ALL.Net」に遂に進展！セガタイトルも一部稼働へ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586286.html",
-      "pubDate": "2026-11-15T11:30:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/c/8c1f889a.png"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52462560.html",
       "pubDate": "2026-11-14T23:00:47+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/5/b5e6ef08.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ホロライブ・兎田ぺこらさん、加藤純一さんの「兎田ぺこらをうちの事務所に引き入れたい」という発言に対して、まさかすぎる反応ｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462559.html",
-      "pubDate": "2026-11-14T22:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/61b71d52.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T11:00:48.250894",
+  "updatedAt": "2026-11-15T11:30:49.316418",
   "sites": [
     {
       "id": "hachima",
