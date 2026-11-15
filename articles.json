@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "男性「警察やめてきました。なのでVTuberを始めまーすｗｗｗｗ」　→　とんでもない結果にｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586498.html",
+      "pubDate": "2026-11-16T07:30:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/e/fee3fd13.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -26,6 +39,19 @@
       "link": "https://rocketnews24.com/2026/11/16/2860072/",
       "pubDate": "Sun, 15 Nov 2026 22:00:46 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-131.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】X民「あまり知られてないけど、吉野家は牛丼じゃなくて◯◯◯が美味い！チェーン店の中で1番美味い」　→　ガチだったｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586497.html",
+      "pubDate": "2026-11-16T07:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/7816e0a9.jpg"
     },
     {
       "siteId": "jin",
@@ -611,32 +637,6 @@
       "link": "http://blog.esuteru.com/archives/10586406.html",
       "pubDate": "2026-11-15T18:44:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b83017f-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】奈良県庁、シカに侵入され荒らされまくってドア封鎖シカない状態に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586405.html",
-      "pubDate": "2026-11-15T18:40:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/9/09440338-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ゆたぼん(17)、政府に痛烈苦言「日本政府って、頭悪すぎませんか？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586404.html",
-      "pubDate": "2026-11-15T18:20:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/be9bb62b-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T22:30:42.643402",
+  "updatedAt": "2026-11-15T23:01:00.957297",
   "sites": [
     {
       "id": "hachima",
