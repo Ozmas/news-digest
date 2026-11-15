@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "平和を願う今こそ読みたいあなたの国の名著は？：BRUTUS CITY JOURNAL",
+      "description": "🇬🇧 戦争と全体主義への警告となるジョージ・オーウェルの『1984年』 イギリス／ロンドン イギリス植民地時代のインドに生まれ、ジャーナリストとして戦争と独裁の現場を見つめたジョージ・オーウェル。「戦争は平和、自由は屈従 [&#8230;]",
+      "link": "https://brutus.jp/post-521318/",
+      "pubDate": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女性「プロジェクトX、令和になっても出るのは男ばかり。そのパートナーは？」 →ツッコミ殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586418.html",
+      "pubDate": "2026-11-15T20:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/0743f669-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -455,19 +481,6 @@
       "link": "https://jin115.com/archives/52462583.html",
       "pubDate": "2026-11-15T12:00:46+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/e/2ef238d7.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "昔は普通のラーメン屋だったのに完全にインバウンド向けになった悲しき京都のラーメン屋が話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586293.html",
-      "pubDate": "2026-11-15T12:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f9007e86.png"
     },
     {
       "siteId": "brutus",
@@ -1250,19 +1263,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "タービン形の建物で実機を展示、見て、体験して航空の旅へ。〈国立航空博物館〉",
-      "description": "タービン形の建物で実機を展示、見て、体験して航空の旅へ 2020年に開館。建物のダイナミックな意匠は、航空機のジェットエンジン（ガスタービン）がモチーフ。内部には大きなスロープがあり実機の間を縫うような構成で、飛行機で飛 [&#8230;]",
-      "link": "https://brutus.jp/post-537157/",
-      "pubDate": "Thu, 12 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T11:30:49.316418",
+  "updatedAt": "2026-11-15T12:00:48.665866",
   "sites": [
     {
       "id": "hachima",
