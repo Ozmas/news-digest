@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "とある風俗嬢「12時間待機した給料がこちらです^_^」ﾊﾟｼｬｯ → 額がヤバすぎるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462613.html",
+      "pubDate": "2026-11-16T00:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05bfc5ff-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -741,19 +754,6 @@
       "link": "https://brutus.jp/post-427953/",
       "pubDate": "Sat, 14 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「自○を止めれる一言を教えて」→“最悪の忠告”が万バズ拡散・・・そして海外で物議に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462572.html",
-      "pubDate": "2026-11-15T07:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/1/a1aaf3ae.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T14:30:46.042818",
+  "updatedAt": "2026-11-15T15:00:51.200962",
   "sites": [
     {
       "id": "hachima",
