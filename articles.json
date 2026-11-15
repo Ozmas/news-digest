@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "一年越しに現れた、一年前のおっさんの香り",
+      "description": "衣替えの季節。私はタンスの中にある短パンとタートルネックの位置を入れ替えた。 タンスの出しやすい位置に置くのは、夏は短パン、冬はタートルネックと決めている。その両者が入れ替わると、季節も変わる。 こうして今季も、私のター [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/15/2862477/",
+      "pubDate": "Sun, 15 Nov 2026 06:00:24 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/スクリーンショット-2026-11-12-14.02.41_1920.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "バルミューダが遂に青山旗艦店も閉店！株価は見る影もない値段に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586309.html",
+      "pubDate": "2026-11-15T14:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/1/f11ca537.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -24,7 +50,7 @@
       "title": "刑務所の生活がめっちゃ楽そうだと話題に　お前ら、どう思う？",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10586305.html",
-      "pubDate": "2026-11-15T14:00:50+09:00",
+      "pubDate": "2026-11-15T14:00:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/0/c000112b-s.png"
     },
     {
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/4/f4d236fb.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "なか卯の「いくら丼」2年前と今年の差がコチラ！マジで悲しくなるぜ……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586169.html",
-      "pubDate": "2026-11-15T03:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/2405a7b3.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1027,19 +1040,6 @@
       "link": "https://casabrutus.com/categories/art/496351",
       "pubDate": "Fri, 13 Nov 2026 07:25:57 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "SNSで見たポテトがあまりに美味しそうだったので、お店まで行ったら目覚めてしまった / 原宿『DE FRITES STAAN』",
-      "description": "フライドポテトには中毒性がある。ときどき無性に食べたくなってしまうのは私だけではないはずだ。 ある日SNSで「DE FRITES STAAN HARAJUKU（デ・フリッツ・スターン原宿）」のポテトを見かけた。ベルギーや [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/13/2861816/",
-      "pubDate": "Fri, 13 Nov 2026 07:00:41 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-2-3.jpeg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T05:30:40.456134",
+  "updatedAt": "2026-11-15T06:00:46.537079",
   "sites": [
     {
       "id": "hachima",
