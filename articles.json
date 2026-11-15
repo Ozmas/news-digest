@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】コンビニに『フィジカルAIロボット』が導入！→全方位から批判・非難が殺到　擁護の声もボロクソに論破されてしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462582.html",
+      "pubDate": "2026-11-15T13:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0c0fb2bd.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -334,7 +347,7 @@
       "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
       "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
       "title": "【墨田区】赤からが錦糸町に戻ってきます！11月18日北口エリアにOPEN予定です。",
-      "description": "2026年10月にOPENをお伝えしました錦糸3丁目のイタリアンバル「Sanire」 【墨田区】錦糸町駅北口エリアにイタリアンバル「Sanire」（サニーレ）OPEN！ 錦糸町駅北口エリア、錦糸3丁目にイタリアンバル「S [&#8230;]",
+      "description": "2026年10月にOPENをお伝えしました錦糸3丁目のイタリアンバル「Sanire」。 【墨田区】錦糸町駅北口エリアにイタリアンバル「Sanire」（サニーレ）OPEN！ 錦糸町駅北口エリア、錦糸3丁目にイタリアンバル「 [&#8230;]",
       "link": "https://sumida.goguynet.jp/2026/11/15/akakara-itenopen/",
       "pubDate": "Sat, 14 Nov 2026 23:01:49 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8413-1024x767.jpeg"
@@ -754,19 +767,6 @@
       "link": "https://jin115.com/archives/52462545.html",
       "pubDate": "2026-11-14T16:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f845011c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "炎上したアニメ『ジョジョ7部』ED、同じアーティストの最新曲に差し替えた結果、「こっちの方が合ってね？」となってしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462540.html",
-      "pubDate": "2026-11-14T15:30:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26c0c76c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T04:00:46.230926",
+  "updatedAt": "2026-11-15T04:30:41.836592",
   "sites": [
     {
       "id": "hachima",
