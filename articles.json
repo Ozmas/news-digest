@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【福袋2027】ヒールの高さ＆ブーツの丈が選べて2足3499円！ 「靴の福袋」が想像以上に当たりだった",
+      "description": "その日のコーデや季節に応じて、「なんぼあってもいいですからね」と言いたくなるのが靴。ついつい買い集めたくなる人も多いのではないだろうか。 先日、私が購入したのは、2足で3499円という靴の福袋。パンプスとブーツが1足ずつ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/17/2864087/",
+      "pubDate": "Mon, 16 Nov 2026 23:00:06 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/w3_f85854.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「映画選びの教科書 2026年版」編集後記：○○で選ぶ。あなたならどうする？",
+      "description": "○○で選ぶ。あなたならどうする？ 今回の映画特集のテーマは「映画選び」です。 改めて自分がどうやって映画を選んできたかを振り返ってみると、そこに明確な基準やルールなどなかったような気がします。「好きな監督の新作だから」「 [&#8230;]",
+      "link": "https://brutus.jp/post-538759/",
+      "pubDate": "Mon, 16 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【日本終了】日本の消費、コロナショック前を下回る結果に…  「物価高と円安が止まらない」「税収だけは過去最高を連続更新中」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586716.html",
+      "pubDate": "2026-11-17T07:30:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5b9cdd43.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -507,19 +546,6 @@
       "link": "https://jin115.com/archives/52462644.html",
       "pubDate": "2026-11-16T18:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2cb7528-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「あげぽよ」の生みの親でギャル系雑誌egg元モデルの川端かなこさん殺害か、42歳内縁の夫逮捕 　結婚から半年足らずで",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586595.html",
-      "pubDate": "2026-11-16T18:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fbd4697a.png"
     },
     {
       "siteId": "jin",
@@ -1068,19 +1094,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月16日〜11月22日 水瓶座の運勢【ブルータス週間占い】",
-      "description": "水瓶座の羅針盤 本気の議論をする 月が自エリア（水瓶座）にいるところから始まる今週は、自分の意見を人に伝えやすくなり、行動力も高まります。太陽がキャリアの部屋である蠍座にいる最終週なので、仕事の目標達成のために、自分の主 [&#8230;]",
-      "link": "https://brutus.jp/post-538929/",
-      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1170,19 +1183,6 @@
       "link": "https://casabrutus.com/categories/design/496269",
       "pubDate": "Sun, 15 Nov 2026 02:25:57 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "人生で初めての「山形そば」がウマすぎた！ 仙台で1日3時間しか開かない行列店『肉そば 藤七』の破壊力",
-      "description": "あなたは日本における「そば処（どころ）」を聞いて、何県を思い出すだろう？　私自身はすぐに「長野県」が浮かんできたが、実は「山形県」も日本有数のそば処として知られているそうだ。 つい先日、仙台へ出かけたときのこと。行列の先 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/15/2862408/",
-      "pubDate": "Sun, 15 Nov 2026 02:00:08 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/yamagata00.jpeg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T22:30:44.128324",
+  "updatedAt": "2026-11-16T23:00:51.702067",
   "sites": [
     {
       "id": "hachima",
