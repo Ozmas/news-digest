@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「名古屋と言えば喫茶店のモーニングだよねｗ」　→　うっかり頼んだ観光客さん、予想できないまさかの◯◯◯が出てきて助けを求めるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586541.html",
+      "pubDate": "2026-11-16T12:20:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/d/2dbb43af.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】元ジャンポケ・斉藤慎二被告に懲役4年の実刑判決 東京地裁",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586538.html",
+      "pubDate": "2026-11-16T12:05:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68525abc-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃事実】「ケツ毛を剃ったら、出る屁はどう変化するのか？」　→　実際にこいた結果、衝撃の◯◯◯にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586537.html",
+      "pubDate": "2026-11-16T12:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/8/08d461c2.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『犬も歩けば（ぼうにあたる）』の「た」を「な」と誤答して伝説の放送事故を起こしたアイドルさん、リベンジへｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462643.html",
+      "pubDate": "2026-11-16T12:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/e/3e1ba93e.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -717,19 +769,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a2bedddd.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【今週発売ゲーム】『グランド・セフト・オート6』ほか、11月16～22日発売タイトルまとめ！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586231.html",
-      "pubDate": "2026-11-16T00:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/068afde0.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -743,19 +782,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05bfc5ff-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "横山昌義氏「STRANGER THAN HEAVENは『ストザン』と略してください！！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586448.html",
-      "pubDate": "2026-11-15T23:25:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/de7eaab8.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +793,6 @@
       "link": "https://jin115.com/archives/52462610.html",
       "pubDate": "2026-11-15T23:00:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/3/33a28dbe.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「ペルソナ5のストーリーを『女性に対して加害することを推奨している話』だと認識する方はRPGから手を引いた方がいい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586439.html",
-      "pubDate": "2026-11-15T22:45:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c2b3a13a.jpg"
     },
     {
       "siteId": "jin",
@@ -1001,19 +1014,6 @@
       "link": "https://jin115.com/archives/52462585.html",
       "pubDate": "2026-11-15T14:00:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/2/52e66d27-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】コンビニに『フィジカルAIロボット』が導入！→全方位から批判・非難が殺到　擁護の声もボロクソに論破されてしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462582.html",
-      "pubDate": "2026-11-15T13:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0c0fb2bd.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T03:00:53.444907",
+  "updatedAt": "2026-11-16T03:30:48.204419",
   "sites": [
     {
       "id": "hachima",
