@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】カラフルな磁器で彩る。〈竹村良訓〉のオーナメント",
+      "description": "テーブルコーディネートが好きなあの人へ愛嬌たっぷりのオーナメント 〈竹村良訓〉のオーナメント 千葉の松戸にアトリエを構える陶芸家・竹村良訓。即興で釉薬をかけていくという制作スタイルで、カラフルなセラミックアイテムを制作し [&#8230;]",
+      "link": "https://brutus.jp/post-540325/",
+      "pubDate": "Mon, 16 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ゆで太郎食べ放題】全国で唯一、食べ放題を実施する五反田TOC店に行ってみた / 2700円の元は取れるか検証",
+      "description": "ゆで太郎に食べ放題ができる店舗があるのをご存知だろうか。私（中澤）は最近初めて知ったんだけど、それもそのはず、食べ放題をやっているのは全国で唯一、五反田TOC店のみなのだ。 五反田と言えば株式会社ゆで太郎システムの本社が [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/16/2863062/",
+      "pubDate": "Mon, 16 Nov 2026 02:55:58 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/yude4.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "元ジャンポケ斉藤被告、懲役4年の実刑判決",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462640.html",
+      "pubDate": "2026-11-16T11:30:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/7543c538.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジでそれ】キャンパーさん、やっと気づく！　「キャンプ飯は◯◯◯に限るわ。めちゃ美味いし」　→　キャンプ民から圧倒的共感が殺到ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586532.html",
+      "pubDate": "2026-11-16T11:30:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/9/49711f55.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "〈Teruhiro Yanagihara Studio〉が提案。建材のタイルが手のひらサイズのトレイに。",
+      "description": "淡路島のタイルメーカー、〈ダントー〉が手がける〈A.a.Danto〉から《Tray》が発売に。",
+      "link": "https://casabrutus.com/categories/design/496267",
+      "pubDate": "Mon, 16 Nov 2026 02:25:15 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -717,19 +782,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c2b3a13a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【！？】ドイツのテーマパーク「マイクロソフトの大規模障害のせいでプール利用者の15人が体調不良になったんですけど！！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586427.html",
-      "pubDate": "2026-11-15T22:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b86ad207.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -886,19 +938,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba546-thumbnail.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "冬支度は、色選びから。〈C.P. COMPANY〉のダウンジャケット：Brutus Best Bets",
-      "description": "冬支度は、色選びから いよいよ冬到来。ダウンジャケットが恋しい季節だ。暖かいだけでは物足りないなら、〈シーピーカンパニー〉の新作を。ただのグレーじゃなく、再生ナイロンのボディに異なる染色を重ね、経年変化を思わせる複雑な陰 [&#8230;]",
-      "link": "https://brutus.jp/post-539320/",
-      "pubDate": "Sun, 15 Nov 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -975,19 +1014,6 @@
       "link": "https://jin115.com/archives/52462582.html",
       "pubDate": "2026-11-15T13:00:44+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0c0fb2bd.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "関西経済連合会、中国に直談判へ・・・「お願いだからパンダを貸してください…」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462583.html",
-      "pubDate": "2026-11-15T12:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/e/2ef238d7.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1157,19 +1183,6 @@
       "link": "https://casabrutus.com/categories/art/496654",
       "pubDate": "Sat, 14 Nov 2026 07:25:43 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「トコジラミを家に持ち帰ったらどうしよう」椅子のほとんどが壊れた店で不安になり、ポテトを車で食べた話【カンバ通信：第545回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べようと思い、あるレストランへ行ってきた。店の名前は「Tembo Grill」である。ところが、この店では、ポ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/14/2861968/",
-      "pubDate": "Sat, 14 Nov 2026 06:00:47 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/tokojirami.jpg"
     },
     {
       "siteId": "sumida",
@@ -1352,19 +1365,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/nakamori-akina-sign-fudepen",
       "pubDate": "Thu, 12 Nov 2026 04:16:02 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/02/subbuzz/SC5KxkeXZ.jpg?crop=1831:1221;110,172&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "自ら設計に携わった原宿の建築で開催される、名和晃平の展覧会とは？",
-      "description": "彫刻家の名和晃平が自ら主宰するクリエイティブ・プラットフォーム〈Sandwich〉と共に設計した新アートスペース〈seeen Harajuku〉のこけら落としとして、名和自身の個展『At Random』が開催されている。彫刻のような4フロアの建築全体に、新作を含む多彩なシリーズを展示構成。時代と共に新たな表現を切り拓く彫刻家の現在を、空間ごと鑑賞することができる。",
-      "link": "https://casabrutus.com/categories/art/496282",
-      "pubDate": "Thu, 12 Nov 2026 08:25:47 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T02:30:41.797476",
+  "updatedAt": "2026-11-16T03:00:53.444907",
   "sites": [
     {
       "id": "hachima",
