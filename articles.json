@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2175話目「上司と部下の狭間で⑦」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/16/2864513/",
+      "pubDate": "Mon, 16 Nov 2026 12:00:53 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2175a_e46550.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "配信を切り忘れて「彼氏との通話」を垂れ流してやばいことを発言してしまった女性Vtuber、謝罪・・・「今後は◯◯します」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462665.html",
+      "pubDate": "2026-11-16T21:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/8/180d1a9c.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1029,19 +1055,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/3/33a28dbe.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『名探偵マーニー』まさかの最新12巻が発売決定！12年前の漫画が再評価され、まさかのブームになり、完結したのに最新巻が出る異例の事態！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462616.html",
-      "pubDate": "2026-11-15T22:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/76fdc520.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1157,19 +1170,6 @@
       "link": "https://rocketnews24.com/2026/11/15/2862487/",
       "pubDate": "Sun, 15 Nov 2026 01:00:47 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/top.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【福袋2027】昨年9000円相当の商品が入っていたユザワヤの「あったかグッズ福袋」をリピート購入！ 9点の中身を比較してみた",
-      "description": "寒くなると気になってくる、あったか系の福袋。 昨年、楽天市場で購入したユザワヤの「あったかグッズセット（税込4378円）」が、なかなか大満足だった。ブランケットや加湿器、クッションなど、冬に役立つアイテムが9点も入ってい [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/15/2861410/",
-      "pubDate": "Sun, 15 Nov 2026 00:00:05 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/S__48537626.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T12:00:56.657346",
+  "updatedAt": "2026-11-16T12:30:47.550174",
   "sites": [
     {
       "id": "hachima",
