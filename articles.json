@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "バンダイナムコ、今度は一番くじ関連で約41万件の個人情報漏洩！商品発送先の氏名や住所・電話番号が漏れた可能性",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586661.html",
+      "pubDate": "2026-11-16T22:10:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/0/80275446.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "あおぎり高校・人気女性Vtuber「私に処女性を求めないで！全然◯◯します！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462666.html",
+      "pubDate": "2026-11-16T22:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05a72d92.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "【悲報】テレビの生放送に自宅からリモート出演していたウクライナ議員(65)、うっかり自分の男性器を全国に晒してしまう・・・",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10586651.html",
@@ -507,19 +533,6 @@
       "link": "https://jin115.com/archives/52462638.html",
       "pubDate": "2026-11-16T12:30:43+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/8/d8d2c060-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】「名古屋と言えば喫茶店のモーニングだよねｗ」　→　うっかり頼んだ観光客さん、予想できないまさかの◯◯◯が出てきて助けを求めるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586541.html",
-      "pubDate": "2026-11-16T12:20:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/d/2dbb43af.jpg"
     },
     {
       "siteId": "jin",
@@ -1040,19 +1053,6 @@
       "link": "https://jin115.com/archives/52462613.html",
       "pubDate": "2026-11-16T00:00:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05bfc5ff-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "知り合いの陽キャ「俺ハンターハンター好きなんすよ！」 → 適当に相槌打ってたら、相手がとんでもない単語を出してきて驚愕ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462610.html",
-      "pubDate": "2026-11-15T23:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/3/33a28dbe.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T13:00:56.530764",
+  "updatedAt": "2026-11-16T13:30:47.036720",
   "sites": [
     {
       "id": "hachima",
