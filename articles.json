@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "各配信サイトが『GTA6』を無料配布へ！お前らこのチャンスの逃すなよおおおおおお！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462646.html",
+      "pubDate": "2026-11-16T16:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/756a50e4.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【訃報】歌手・山形ユキオさん死去、69歳　『爆走兄弟レッツ&ゴー!!』『百獣戦隊ガオレンジャー』『銀河烈風バクシンガー』OPなど歌う",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586558.html",
+      "pubDate": "2026-11-16T15:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/f/cfba0e1f.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -665,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/8/48f1fa68.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "にじさんじ運営初期メンバー・いわながさんがVTuber業界の裏側を暴露！「売れてるV裸の王様がち」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586414.html",
-      "pubDate": "2026-11-16T06:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bbbd34b9-s.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1027,19 +1040,6 @@
       "link": "https://jin115.com/archives/52462607.html",
       "pubDate": "2026-11-15T18:00:28+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/6/f67ff842.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【物議】X民「さっき店員に○○どこですか？って聞いたら通じなくて倒れそうになった…○○ぐらいわかるでしょ」←お前らこれ通じる？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462595.html",
-      "pubDate": "2026-11-15T17:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/8/c8307e88.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T06:30:45.467938",
+  "updatedAt": "2026-11-16T07:00:47.369934",
   "sites": [
     {
       "id": "hachima",
