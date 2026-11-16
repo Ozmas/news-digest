@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "日用品図鑑：プロダクトデザイナー・柴田文江の愛用する〈moln〉の「Weekender Bag」etc.",
+      "description": "〈BROKIS〉のペンダントランプ「AWA」 マウスブローによってつくられたチェコガラスの質感がとても美しく、光を灯すと独特のムードが生まれます。日本の照明にはあまりない、ガラスそのものの存在感と空気感が気に入っています [&#8230;]",
+      "link": "https://brutus.jp/post-536645/",
+      "pubDate": "Mon, 16 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1042,19 +1055,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2174a.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "平和を願う今こそ読みたいあなたの国の名著は？：BRUTUS CITY JOURNAL",
-      "description": "🇬🇧 戦争と全体主義への警告となるジョージ・オーウェルの『1984年』 イギリス／ロンドン イギリス植民地時代のインドに生まれ、ジャーナリストとして戦争と独裁の現場を見つめたジョージ・オーウェル。「戦争は平和、自由は屈従 [&#8230;]",
-      "link": "https://brutus.jp/post-521318/",
-      "pubDate": "Sun, 15 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T10:51:07.222058",
+  "updatedAt": "2026-11-16T11:00:53.348939",
   "sites": [
     {
       "id": "hachima",
