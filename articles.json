@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「いちばんいいポテトをください」店員にすすめられたものが高すぎて買えなかったので、約120円の普通のポテトにした【カンバ通信：第547回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べにレストランへ行ってきた。店の名前は「Stage Cafe Restaurant」。 このお店の外にはバス乗 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/16/2863326/",
+      "pubDate": "Mon, 16 Nov 2026 10:00:28 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba547-thumbnail.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "科学、記録、工芸が花開いた韓国の王室文化を体感する〈国立古宮博物館〉",
+      "description": "科学、記録、工芸が花開いた、韓国の王室文化の世界へ 現在の韓国文化の基盤を築いた朝鮮王朝。儒教を国の理念とし、記録文化と高度な科学技術を育んだ。華美な装飾よりも簡素な美を重んじた価値観は、白磁や宮殿建築、工芸などに受け継 [&#8230;]",
+      "link": "https://brutus.jp/post-537181/",
+      "pubDate": "Mon, 16 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "懲役4年の元ジャンポケ斎藤、無罪を主張したことで裁判長に怒られる「不合理な弁解」「反省の態度示していない」 →斎藤は控訴",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586622.html",
+      "pubDate": "2026-11-16T18:40:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/e/ee5aa850-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -613,19 +652,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃事実】「山中など運転中に人を轢いてしまったが、電話を持ってない。この場合、車で助けを呼びに行っていいの？」　→　警察に効いた結果…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586523.html",
-      "pubDate": "2026-11-16T10:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/4/1408abd5.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1029,19 +1055,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/19d06570.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "「ハコさえ建ててくれたら、壁も塗るし家具も作る」。建築家・湯浅良介を驚かせた住人力",
-      "description": "施主の言葉 ハコさえ建ててくれたら、壁も塗るし家具も作る 建築家の言葉 抜群の「自作力」のおかげで超ローコストが実現 土地に予算を使ってしまったので、建物は簡素な小屋でいい。壁も塗るし家具や照明も自分で作るから。そう言っ [&#8230;]",
-      "link": "https://brutus.jp/post-531022/",
-      "pubDate": "Sun, 15 Nov 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1170,19 +1183,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/15/akakara-itenopen/",
       "pubDate": "Sat, 14 Nov 2026 23:01:49 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8413-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "心当たりあり！ 飼いたいけど許可が出ない隣りの女子！　隣りの席の子の様子がおかしい第78回「続・休日は…」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/15/2858295/",
-      "pubDate": "Sat, 14 Nov 2026 23:00:51 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari78-1koma.png"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T09:30:42.952596",
+  "updatedAt": "2026-11-16T10:00:48.534186",
   "sites": [
     {
       "id": "hachima",
