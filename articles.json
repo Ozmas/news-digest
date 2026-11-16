@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "立民・水岡代表、高市内閣の変わらない支持率を見て「ちょっと信じられない」「どういうふうに考えたらいいんだろうか」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586628.html",
+      "pubDate": "2026-11-16T19:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/ac470651.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "デザフェス、凍ってる〇〇肉弁当を販売し物議を醸す・・・皆はこれ食べれる？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462654.html",
+      "pubDate": "2026-11-16T19:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/7/0751d0ce.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +39,19 @@
       "link": "https://rocketnews24.com/2026/11/16/2863326/",
       "pubDate": "Mon, 16 Nov 2026 10:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba547-thumbnail.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アーノルド・シュワルツェネッガー(79)、『コマンドー』『プレデター』『コナン』続編制作を明言！とんでもねぇ、待ってたんだ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586623.html",
+      "pubDate": "2026-11-16T19:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/3/4398340f.jpg"
     },
     {
       "siteId": "brutus",
@@ -548,19 +587,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/w2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】スマホ位置情報、自衛隊304施設で流出！　→　海外ブローカーに売買されてしまう……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586530.html",
-      "pubDate": "2026-11-16T11:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/eb6e5008.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -624,19 +650,6 @@
       "link": "https://rocketnews24.com/2026/11/16/2864292/",
       "pubDate": "Mon, 16 Nov 2026 01:40:18 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Amazon-×-RN24_11122.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【地獄】ジャングリア沖縄の株価、6000万円が1円に大化けして終わるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586525.html",
-      "pubDate": "2026-11-16T10:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/9/59f329f1.jpg"
     },
     {
       "siteId": "artscape",
@@ -1040,19 +1053,6 @@
       "link": "https://brutus.jp/post-521318/",
       "pubDate": "Sun, 15 Nov 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性「タトゥー入れた～♪『ヒロアカ』が好きだから太ももに◯◯を」→ガチでやばすぎるモノが彫られていて、ネット民騒然",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462611.html",
-      "pubDate": "2026-11-15T20:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/9/19d06570.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T10:00:48.534186",
+  "updatedAt": "2026-11-16T10:51:07.222058",
   "sites": [
     {
       "id": "hachima",
