@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】シングルマザー看護師さん、FXのせいで全財産を失ってしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586557.html",
+      "pubDate": "2026-11-16T17:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6d426992.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「『咲-Saki-』の試し読みがガチでヤバいから見て」→1.1万ブックマークの異常事態ｗｗｗｗｗ「ヤバいの次元超えてて草」「ハードル上げてそれを余裕で超えてくる事あるんだ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462647.html",
+      "pubDate": "2026-11-16T17:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/f/5f951074.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -652,19 +678,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/2026_HNF-1024x767.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】韓国人「日本のこのソース、超絶美味すぎるんだけど何！？　激アツ！」　→　日本人ならみんな知ってるアレだったｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586499.html",
-      "pubDate": "2026-11-16T08:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/2/320e6c77.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1040,19 +1053,6 @@
       "link": "https://jin115.com/archives/52462588.html",
       "pubDate": "2026-11-15T19:00:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/388af586.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "元・にじさんじの最高執行責任者「Vtuberの裏側暴露しまーすｗ」「運営の贔屓はガチである」「本当に楽して稼いでる」「売れてるVtuberは裸の王様。みんな視聴やめて」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462607.html",
-      "pubDate": "2026-11-15T18:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/6/f67ff842.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T08:00:50.085370",
+  "updatedAt": "2026-11-16T08:30:44.338666",
   "sites": [
     {
       "id": "hachima",
