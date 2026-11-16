@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】バナナとナッツたっぷりの『スペシャルチョコバナナクレープ』ください　→　実際に来てしまったモノがこちらｗｗｗ　「文化祭かな？」「これはこれで美味そう」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586507.html",
+      "pubDate": "2026-11-16T08:30:37+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/d/9dcd2196.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -611,19 +624,6 @@
       "link": "http://blog.esuteru.com/archives/10586413.html",
       "pubDate": "2026-11-15T19:30:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/7/6781dd5f.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "インド人男「隣人にお菓子もらった！いただきまーす！」 →お菓子が爆弾だったため死亡",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586408.html",
-      "pubDate": "2026-11-15T19:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b8b5f9d-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-15T23:30:41.109533",
+  "updatedAt": "2026-11-16T00:00:48.060036",
   "sites": [
     {
       "id": "hachima",
