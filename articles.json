@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『消費減税』、やっぱりダメかもしれない・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462627.html",
+      "pubDate": "2026-11-16T10:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/1/d1123404.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【Amazon低評価検証】550円の「集中発汗スーツ（評価2.2）」を着て湯船に浸かってみた結果",
+      "description": "先日、楽天で「家庭用サウナ」を購入した私（あひるねこ）であるが、実は同じ時期にAmazonで『マイホームサウナ 集中発汗スーツ』という商品も買っていた。 税込550円という安さに惹かれて購入したのだが、評価は2.2とかな [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/16/2861554/",
+      "pubDate": "Mon, 16 Nov 2026 01:00:08 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/UPLY3812.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -899,19 +925,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安終了速報】スパイファミリー、SAKAMOTO DAYS、のだめカンタービレなどが”実質半額”になる超Kindleセールは本日11月15日まで！ニセコイ、暗殺教室、ヒカルの碁なども対象！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462577.html",
-      "pubDate": "2026-11-15T11:20:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e4af0920.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1105,19 +1118,6 @@
       "link": "https://rocketnews24.com/2026/11/14/2863808/",
       "pubDate": "Sat, 14 Nov 2026 02:30:31 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_06131.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「こんな揖保乃糸もあったのか！」2700円の福袋を買ったら、知らなかった高級そうめんに出会ってしまった / 福袋2027",
-      "description": "「揖保乃糸」といえば、そうめんの王道ともいえる存在。 今は亡き祖母が大好きだったこともあり、私にとってもちょっと思い入れのあるそうめんだ。お値段はそれなりにするけれど、やっぱりおいしいんだよなぁ。 そんな揖保乃糸にも福袋 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/14/2862540/",
-      "pubDate": "Sat, 14 Nov 2026 02:00:15 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ibonoito-14-1.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T00:53:13.923672",
+  "updatedAt": "2026-11-16T01:00:47.698097",
   "sites": [
     {
       "id": "hachima",
