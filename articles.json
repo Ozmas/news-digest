@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "韓国工芸の手仕事の美しさを、見て、触れて、体感する。〈ソウル工芸博物館〉",
+      "description": "韓国工芸の手仕事の美しさを、見て、触れて、体感する 2021年に開館した公立の工芸専門ミュージアム。北村（プクチョン）エリアの面積約15,000㎡という広大な敷地に、歴史的建造物を改築した複数の建物からなる。「工芸を生活 [&#8230;]",
+      "link": "https://brutus.jp/post-537174/",
+      "pubDate": "Mon, 16 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "コンビニのサンドイッチを握りつぶし、某サンドイッチ店の宣伝をする動画が大炎上 → お店側は関与を否定「当店が依頼したものではない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586641.html",
+      "pubDate": "2026-11-16T20:50:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/336c3c21.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -468,19 +494,6 @@
       "link": "http://blog.esuteru.com/archives/10586538.html",
       "pubDate": "2026-11-16T12:05:56+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68525abc-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃事実】「ケツ毛を剃ったら、出る屁はどう変化するのか？」　→　実際にこいた結果、衝撃の◯◯◯にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586537.html",
-      "pubDate": "2026-11-16T12:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/8/08d461c2.png"
     },
     {
       "siteId": "jin",
@@ -960,19 +973,6 @@
       "title": "11月16日〜11月22日 水瓶座の運勢【ブルータス週間占い】",
       "description": "水瓶座の羅針盤 本気の議論をする 月が自エリア（水瓶座）にいるところから始まる今週は、自分の意見を人に伝えやすくなり、行動力も高まります。太陽がキャリアの部屋である蠍座にいる最終週なので、仕事の目標達成のために、自分の主 [&#8230;]",
       "link": "https://brutus.jp/post-538929/",
-      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月16日〜11月22日 魚座の運勢【ブルータス週間占い】",
-      "description": "魚座の羅針盤 最後まで手を抜かない 週の初めは、月が魚座にとって内省の部屋にあたる水瓶座にいる影響で、少し気分が乗らないかもしれません。けれど、火星（意欲）と木星（拡大）が日々の業務を表す部屋、獅子座で重なるため、やるべ [&#8230;]",
-      "link": "https://brutus.jp/post-538931/",
       "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T11:30:43.070692",
+  "updatedAt": "2026-11-16T12:00:56.657346",
   "sites": [
     {
       "id": "hachima",
