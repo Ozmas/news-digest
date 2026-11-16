@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "そんなに跳ねる!? 第一線から退いた青年！　四コマサボタージュFB第132回「全盛期」",
+      "description": "水切りを英語ではstone skippingって言うらしいんだ。そもそも外国の人も水切りやってたんだね。思い返せば映画でそういうシーンあった気がするな……。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/17/2860073/",
+      "pubDate": "Mon, 16 Nov 2026 22:00:35 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-132.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1159,19 +1172,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/yamagata00.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "これがエナジードリンク!? トレカにしか見えない「カード型ドリンク」を飲んでみたら、いろいろ衝撃だった",
-      "description": "エナジードリンクといえば、瓶や缶に入っているのを思い浮かべる人が多いのではないだろうか。ところが先日、そんな常識を覆すユニークな商品を見つけた。 それがUHA味覚糖の「カード型ドリンク」だ。一見するとよくあるトレーディン [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/15/2862487/",
-      "pubDate": "Sun, 15 Nov 2026 01:00:47 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/top.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T21:30:46.347151",
+  "updatedAt": "2026-11-16T22:00:51.259342",
   "sites": [
     {
       "id": "hachima",
