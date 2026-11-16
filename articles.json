@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "石破茂前首相「『本当は違うんだよな』と思いながら、批判とかを恐れて賛成してきた」「自分は何のために議員になったのかという気は最近していた」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586677.html",
+      "pubDate": "2026-11-16T23:20:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/07b4992e.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】GDP、マイナスに",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462649.html",
+      "pubDate": "2026-11-16T23:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/a/4aa0e4c1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "19歳少年2人、肝試しで午前0時にトンネル探検 → マジでとんでもないものを見つけてしまう・・・",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10586673.html",
@@ -494,19 +520,6 @@
       "link": "http://blog.esuteru.com/archives/10586548.html",
       "pubDate": "2026-11-16T13:30:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/5/b53da079.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『グエー死んだンゴ』の投稿を残して死去したガン闘病者の没後から一周忌　→　衝撃の展開に…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586545.html",
-      "pubDate": "2026-11-16T13:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6fe7bab.jpg"
     },
     {
       "siteId": "jin",
@@ -1040,19 +1053,6 @@
       "link": "https://jin115.com/archives/52462618.html",
       "pubDate": "2026-11-16T01:00:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/0/302324b2-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "とある風俗嬢「12時間待機した給料がこちらです^_^」ﾊﾟｼｬｯ → 額がヤバすぎるｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462613.html",
-      "pubDate": "2026-11-16T00:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05bfc5ff-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T14:01:00.268945",
+  "updatedAt": "2026-11-16T14:30:47.074499",
   "sites": [
     {
       "id": "hachima",
