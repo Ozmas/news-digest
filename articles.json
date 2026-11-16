@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "閉店したパチンコ店に侵入した親子が逮捕 → 息子の名前がエグすぎると話題に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462668.html",
+      "pubDate": "2026-11-17T03:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7e9dbfb-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女性ゲーマーの中で『オーバークック』ができない男性とは付き合いたくないと話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586626.html",
+      "pubDate": "2026-11-17T03:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/5/b52641f1-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/756a50e4.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【訃報】歌手・山形ユキオさん死去、69歳　『爆走兄弟レッツ&ゴー!!』『百獣戦隊ガオレンジャー』『銀河烈風バクシンガー』OPなど歌う",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586558.html",
-      "pubDate": "2026-11-16T15:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/f/cfba0e1f.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -832,19 +845,6 @@
       "link": "https://rocketnews24.com/2026/11/16/2862807/",
       "pubDate": "Mon, 16 Nov 2026 00:00:41 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kimurasekken-1.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "スピッツのドラマー・崎山龍男さんがバイク運転中に追突され重傷→ドラレコが捉えた事故の瞬間がヤバすぎる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462632.html",
-      "pubDate": "2026-11-16T09:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/8/58933fc8-s.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T17:30:48.127653",
+  "updatedAt": "2026-11-16T18:00:56.612928",
   "sites": [
     {
       "id": "hachima",
