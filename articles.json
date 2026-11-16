@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「『咲-Saki-』24巻、最初の1ページがマジのガチでアウト！」パシャッ　→　限界突破したえちち絵がバズってしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586518.html",
+      "pubDate": "2026-11-16T09:30:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d867598c.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -611,19 +624,6 @@
       "link": "http://blog.esuteru.com/archives/10586418.html",
       "pubDate": "2026-11-15T20:30:48+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/0743f669-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スピッツのドラム・﨑山龍男さんが交通事故で救急搬送… 命に別状はないものの、全身を強く打つ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586416.html",
-      "pubDate": "2026-11-15T20:10:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/85a25fdb.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T00:30:47.000643",
+  "updatedAt": "2026-11-16T00:53:13.923672",
   "sites": [
     {
       "id": "hachima",
