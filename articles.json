@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "対談・平野歩夢×野田洋次郎｜平野歩夢公式ドキュメンタリー『AYUMU』を語り合う",
+      "description": "頭の中のイメージを未知の技や曲に変えていく 歩夢の滑りは、言葉以上に語ってくれる",
+      "link": "https://brutus.jp/post-539368/",
+      "pubDate": "Mon, 16 Nov 2026 01:57:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "松田翔太が観て語る『AYUMU』と平野歩夢",
+      "description": "とことん自然体で、とことんドラマティック。いつもの姿が収められていました 「ミラノ・コルティナオリンピックへ出発する前の歩夢に会う機会があって、“とことんドラマティックな男だな”と伝えました。こちらもハラハラしながら見守 [&#8230;]",
+      "link": "https://brutus.jp/post-539389/",
+      "pubDate": "Mon, 16 Nov 2026 01:56:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "アオイヤマダ、野田クリスタルら4名が語る『AYUMU』と平野歩夢",
+      "description": "パフォーミングアーティスト・アオイヤマダ あの頃も今も、歩夢さんの滑りを観ると、また今日から頑張ろうと思えます 「すごく疲れていて、やるべきことも雑になりそうな日でした。でも、移動中にこの作品を観ていたらシャキッとして。 [&#8230;]",
+      "link": "https://brutus.jp/post-539421/",
+      "pubDate": "Mon, 16 Nov 2026 01:55:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【1袋80円】カルビーのポテトチップス『クリスプ（45g）』16袋セットが1276円 / Amazonタイムセール",
+      "description": "毎日お得なタイムセールを開催しているAmazon。食品・飲料・アパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、カルビーのポテトチップス『クリスプ ビーフコンソメ味（45g）』1 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/16/2864292/",
+      "pubDate": "Mon, 16 Nov 2026 01:40:18 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Amazon-×-RN24_11122.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【地獄】ジャングリア沖縄の株価、6000万円が1円に大化けして終わるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586525.html",
+      "pubDate": "2026-11-16T10:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/9/59f329f1.jpg"
+    },
+    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -639,19 +704,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2174a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】東京・豊洲の公園に大量のポケカと開封済みの袋が散乱…「ゴミぐらい片付けろよ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586419.html",
-      "pubDate": "2026-11-15T21:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/72a14b80.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -873,19 +925,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/e/2ef238d7.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "半世紀前の東京へ時間を旅する酒場。神保町〈兵六〉",
-      "description": "時には酒杯を手に、時代を超えてみよう 神田神保町の裏通り。まるで時間が止まったような一角がある。午後5時ピッタリ、暖簾（のれん）と〈兵六（ひょうろく）〉の提灯が掲げられると、待ってましたとばかりに客が店内へ。丸太2本を渡 [&#8230;]",
-      "link": "https://brutus.jp/post-512486/",
-      "pubDate": "Sun, 15 Nov 2026 03:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1003,19 +1042,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/tonari78-1koma.png"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "年間800食以上食べるプリンマニアがセレクト。プリン界のニューアイドル「のっけプリン」3選",
-      "description": "プリン界のニューアイドル「のっけプリン」 「のっけプリン」をご存じだろうか。2024年に台湾でデニッシュの上にプリンをのせたスイーツがバズったことを皮切りに、日本でも果物やスイーツの上にプリンをのせた高さのある「のっけプ [&#8230;]",
-      "link": "https://brutus.jp/post-427953/",
-      "pubDate": "Sat, 14 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1040,19 +1066,6 @@
       "link": "https://rocketnews24.com/2026/11/14/2863351/",
       "pubDate": "Sat, 14 Nov 2026 12:00:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2173a.jpg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "長澤まさみ、柄本 佑、石橋静河が映画について語る。作品選びの基準やお薦めの1本は？",
-      "description": "友達のお薦めを聞き自分では選ばない映画を選んでみると楽しい 3人で共演することがなにより魅力的だった",
-      "link": "https://brutus.jp/post-539262/",
-      "pubDate": "Sat, 14 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1118,19 +1131,6 @@
       "link": "https://rocketnews24.com/2026/11/14/2862240/",
       "pubDate": "Sat, 14 Nov 2026 02:55:52 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/asuka6.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1本73円】ぎゅっと濃い十六茶（630ml）24本セットが1758円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。飲料・食品・アパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、アサヒ飲料のブレンド茶『ぎゅっと濃い十六茶（630ml）』24本セ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/14/2863808/",
-      "pubDate": "Sat, 14 Nov 2026 02:30:31 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_06131.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T01:30:40.823262",
+  "updatedAt": "2026-11-16T02:00:49.313259",
   "sites": [
     {
       "id": "hachima",
