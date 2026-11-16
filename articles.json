@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2747回「かいに①」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/11/16/2863614/",
+      "pubDate": "Mon, 16 Nov 2026 05:00:41 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2747-2.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】映画『ゴジラ-0.0』、2週目の北米興収が75%減の緊急事態　原因はこれか・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462637.html",
+      "pubDate": "2026-11-16T14:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/e/de91e799.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -990,19 +1016,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/9/c9af79e6-s.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『コンシェルジュ』全巻「99円」セール！全21巻「12,474円」→「2,079円」！ホテルの凄腕コンシェルジュが客の無理難題を解決！『北斗の拳』原哲夫の『いくさの子』なども全巻99円",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462570.html",
-      "pubDate": "2026-11-15T15:30:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/a/ba49413b.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1157,19 +1170,6 @@
       "link": "https://rocketnews24.com/2026/11/14/2858971/",
       "pubDate": "Sat, 14 Nov 2026 10:00:46 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/野島サムネ.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ライブ配信】将棋下手の3人で誰が1番弱いのか!? ついに決着「将棋最弱王」決定戦！ 絶望的に弱いのはアイツだった",
-      "description": "毎週水曜19時半から、当サイトのYouTubeチャンネルで行っているライブ配信。ここのところ、レギュラーの3人（羽鳥・佐藤・中澤）が揃わないことが続いていたのだが、11月11日は久しぶりに集合。そこで各々がやってみたいゲ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/14/2862989/",
-      "pubDate": "Sat, 14 Nov 2026 08:00:19 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/repo111101.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T04:30:40.627828",
+  "updatedAt": "2026-11-16T05:00:48.485130",
   "sites": [
     {
       "id": "hachima",
