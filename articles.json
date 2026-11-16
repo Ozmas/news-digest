@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【長野】アートラボ2026第Ⅲ期「西村陽平 　死者の書」",
+      "description": "長野県立美術館のアートラボにて、2026年度第Ⅲ期展覧会として「西村陽平　死者の書」が開催されています。 西村は、身近にあ るものを高温で焼成することで、元の素材の形や手ざわりの 違いを際立たせる作品を制作しつづけていま [&#8230;]",
+      "link": "https://artscape.jp/article/83476/",
+      "pubDate": "Mon, 16 Nov 2026 01:00:50 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃事実】「山中など運転中に人を轢いてしまったが、電話を持ってない。この場合、車で助けを呼びに行っていいの？」　→　警察に効いた結果…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586523.html",
+      "pubDate": "2026-11-16T10:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/4/1408abd5.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -639,19 +665,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女性「プロジェクトX、令和になっても出るのは男ばかり。そのパートナーは？」 →ツッコミ殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586418.html",
-      "pubDate": "2026-11-15T20:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/7/0743f669-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1035,7 +1048,7 @@
       "siteColor": "#fbbf24",
       "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
       "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "長澤まさみ、柄本 佑、石橋静河が映画について語る。作品選びの基準やお薦めの１本は？",
+      "title": "長澤まさみ、柄本 佑、石橋静河が映画について語る。作品選びの基準やお薦めの1本は？",
       "description": "友達のお薦めを聞き自分では選ばない映画を選んでみると楽しい 3人で共演することがなにより魅力的だった",
       "link": "https://brutus.jp/post-539262/",
       "pubDate": "Sat, 14 Nov 2026 12:00:00 +0000",
@@ -1419,19 +1432,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "山﨑健太｜不労社『暗黒の喜劇』（中編）",
-      "description": "会期：2026/10/09〜2026/10/12 会場：ロームシアター京都［東京都］ 作・演出：西田悠哉 公式サイト：https://rohmtheatrekyoto.jp/event/148427/ （前編より） Xと [&#8230;]",
-      "link": "https://artscape.jp/article/82616/",
-      "pubDate": "Wed, 11 Nov 2026 02:00:08 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1646,11 +1646,11 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "【月刊バズフィード】松本穂香がBuzzFeedの「表紙」に登場。インタビュー公開中",
-      "description": "映画『ファーストボイス』に出演した松本穂香さんがBuzzFeedの「表紙」に登場！撮影の舞台裏や、俳優としての今後の展望についてうかがったインタビューも公開中です。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/munenoriumeki/honoka-matsumoto-cover",
-      "pubDate": "Thu, 15 Oct 2026 22:01:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/15/01/subbuzz/tmZRJ3Mfo.jpg?crop=2466:1644;0,704&resize=1250:830"
+      "title": "「生きづらさや、壁のようなものをリアルに感じながら」俳優・松本穂香が「ハラスメント」テーマの作品で向き合った問題【ファーストボイス】",
+      "description": "10月2日公開の映画『ファーストボイス』で、綾瀬はるかさん演じる弁護士・朝日道子の事務所で働く新人弁護士・藤野栞役を務めた松本穂香さん。BuzzFeed Japanでは、松本さんに撮影の舞台裏や、俳優としての今後の展望について詳しく伺いました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/munenoriumeki/honoka-matsumoto-interview",
+      "pubDate": "Mon, 12 Oct 2026 22:00:03 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/09/05/subbuzz/EAK-e4IwM.jpg?crop=2000:1333;0,0&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T01:00:47.698097",
+  "updatedAt": "2026-11-16T01:30:40.823262",
   "sites": [
     {
       "id": "hachima",
