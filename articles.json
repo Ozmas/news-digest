@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「今の日本って“必要のない仕事”が多すぎないか？」←すべての元凶これだろ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462682.html",
+      "pubDate": "2026-11-17T06:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/5/b5cb457f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "WEGOが『超かぐや姫！』コラボでやらかし！「フェイスポーチ」のはずが届いたのは「マスコット」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586625.html",
+      "pubDate": "2026-11-17T06:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/a/8af91bdf-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -457,19 +483,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fb70c743.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】シングルマザー看護師さん、FXのせいで全財産を失ってしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586557.html",
-      "pubDate": "2026-11-16T17:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6d426992.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://artscape.jp/article/83685/",
       "pubDate": "Mon, 16 Nov 2026 02:00:47 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【炎上】メディア、本音が漏れ出る「なぜメディアは高市政権を追い詰められないのか！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462625.html",
-      "pubDate": "2026-11-16T11:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3ae0da9a.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T21:00:51.417208",
+  "updatedAt": "2026-11-16T21:30:46.347151",
   "sites": [
     {
       "id": "hachima",
