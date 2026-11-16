@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "個人開発者「幼女戦記の二次創作ゲームを制作中です！β版300円で頒布します！」 → Xでボッコボコに叩かれまくり公開停止に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586632.html",
+      "pubDate": "2026-11-16T20:18:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4aec5488.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "シングルマザー看護師「助けてください。FXのせいで◯◯になってます」→ガチでヤバい状況なんだが・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462655.html",
+      "pubDate": "2026-11-16T20:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/6193ee71.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/7543c538.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジでそれ】キャンパーさん、やっと気づく！　「キャンプ飯は◯◯◯に限るわ。めちゃ美味いし」　→　キャンプ民から圧倒的共感が殺到ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586532.html",
-      "pubDate": "2026-11-16T11:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/9/49711f55.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1027,19 +1040,6 @@
       "link": "https://jin115.com/archives/52462616.html",
       "pubDate": "2026-11-15T22:00:02+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/76fdc520.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "アダルトゲームさん、ガチでやばすぎるバグが起こってしまい、ネット騒然・・・1.4万いいね",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462614.html",
-      "pubDate": "2026-11-15T21:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/3183d1ab.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T11:00:53.348939",
+  "updatedAt": "2026-11-16T11:30:43.070692",
   "sites": [
     {
       "id": "hachima",
