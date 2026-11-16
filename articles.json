@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ゆたぼん君、言ってしまう「日本政府って、頭悪すぎませんか？」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462624.html",
+      "pubDate": "2026-11-16T13:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/b/cb0d3cca.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】ロバート秋山さん「子供が食事中に箸を持って走り回り注意しても聞かない…せや！」　→　とんでもないアイデア1つで無事子供のクセをやめさせることに成功ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586543.html",
+      "pubDate": "2026-11-16T12:40:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/8/d8a02f34.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "閉山中の富士山で行方不明になった中国人観光客に最大◯◯万円の懸賞金がかけられる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462638.html",
+      "pubDate": "2026-11-16T12:30:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/8/d8d2c060-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -756,19 +795,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/0/302324b2-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "NVIDIAのフアン元CEOの復職を求める署名、13万人超集まる「与えられるべきは適正手続きであり、世論による私刑ではない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586454.html",
-      "pubDate": "2026-11-16T00:40:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a2bedddd.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -977,19 +1003,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/a/ba49413b.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "カードショップ「3周年祭にお越しいただきありがとうございました！過去一盛り上がりました！」ﾊﾟｼｬｯ→衝撃の写真が投稿されるｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462590.html",
-      "pubDate": "2026-11-15T15:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/96c69e5e.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1001,19 +1014,6 @@
       "link": "https://rocketnews24.com/2026/11/15/2862477/",
       "pubDate": "Sun, 15 Nov 2026 06:00:24 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/スクリーンショット-2026-11-12-14.02.41_1920.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ドイツの極右政党「日本の移民政策は非常に厳しく学べることが多い」「自動化やロボット技術も私たちより進んでいて非常に興味深い」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462585.html",
-      "pubDate": "2026-11-15T14:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/2/52e66d27-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T03:30:48.204419",
+  "updatedAt": "2026-11-16T04:00:47.329041",
   "sites": [
     {
       "id": "hachima",
