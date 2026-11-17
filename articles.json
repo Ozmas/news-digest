@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ローソン『盛りすぎ! チャレンジ』第1弾が始まったぞ！ ほぼ「いつもの精鋭たち」だけど安定感は抜群!!",
+      "description": "増量大好きっ子のみんな……待たせたな？　2026年11月17日（火）よりローソンの『盛りすぎ! チャレンジ』が始まったゾーーーー！　今回は2週にわたって開催されるゾーーーー!! 別に普段からローソンは利用するが『盛りすぎ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/17/2864925/",
+      "pubDate": "Tue, 17 Nov 2026 06:09:35 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/morisugi07.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "メンタリストDaiGoさん、元ジャンポケ斉藤被告実刑に「抵抗できない子供を殺した母親は執行猶予、いい大人が断れなかった不同意は4年なんですね」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462703.html",
+      "pubDate": "2026-11-17T15:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/3/53c1df68.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大食い女子、一部が食べ放題の天ぷら屋でご飯15杯注文した結果、出禁にされる　→ ネットで賛否両論に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586763.html",
+      "pubDate": "2026-11-17T15:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/7/b748405c-s.png"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【東京】「グラフィック文化に関する学術研究助成」成果報告会および交流会",
+      "description": "東京・DNP銀座ビルにて、「グラフィック文化に関する学術研究助成」成果報告会・交流会」が開催されます。 DNP文化振興財団では、グラフィック文化に関する学術研究を支援しています。今回の報告会では、助成を受けた5名の研究者 [&#8230;]",
+      "link": "https://artscape.jp/article/83760/",
+      "pubDate": "Tue, 17 Nov 2026 06:00:15 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -665,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7e9dbfb-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女性ゲーマーの中で『オーバークック』ができない男性とは付き合いたくないと話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586626.html",
-      "pubDate": "2026-11-17T03:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/5/b52641f1-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +754,6 @@
       "link": "https://jin115.com/archives/52462664.html",
       "pubDate": "2026-11-17T00:00:23+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/1/615d3802-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】GDP、マイナスに",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462649.html",
-      "pubDate": "2026-11-16T23:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/a/4aa0e4c1.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1068,19 +1094,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/2026_HNF-1024x767.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "感動した！ プロレスファン歴35年以上の私が驚いた、オーダーメイド衣装屋さんによるオリジナルマスクの完成度",
-      "description": "先日、マスクのデザインについての記事を書いた。AIでデザインされたものに矛盾があり、作り手の方たちが困っているという話である。 私は一応、デザインに理解がある方で、衣装屋さんも快くマスクの製作を引き受けてくれた。 そして [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/16/2862581/",
-      "pubDate": "Sun, 15 Nov 2026 23:00:44 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/top2_1920.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1364,19 +1377,6 @@
       "description": "第13回 新千歳空港国際アニメーション映画祭 会期：2026/11/20〜24 会場：新千歳空港ターミナルビル（新千歳空港シアターなどを予定） 主催：新千歳空港国際アニメーション映画祭実行委員会 公式サイト：https: [&#8230;]",
       "link": "https://artscape.jp/article/81827/",
       "pubDate": "Fri, 13 Nov 2026 02:00:04 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "【東京】NCARトーク010「美術館は誰と、どのようにつくるのか？ クイーンズランド州立美術館／近代美術館（QAGOMA）に学ぶ、来館者とともにつくる美術館」",
-      "description": "東京・一橋講堂にてにて、国立アートリサーチセンター（NCAR）によるトークイベント「美術館は誰と、どのようにつくるのか？ クイーンズランド州立美術館／近代美術館（QAGOMA）に学ぶ、来館者とともにつくる美術館」が開催さ [&#8230;]",
-      "link": "https://artscape.jp/article/83469/",
-      "pubDate": "Fri, 13 Nov 2026 01:00:36 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T06:00:52.447853",
+  "updatedAt": "2026-11-17T06:30:53.009298",
   "sites": [
     {
       "id": "hachima",
