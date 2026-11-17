@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【迷惑】閉山中の富士山で中国人遭難 → 遺族「見つけたら1200万円の懸賞金を支払う」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586849.html",
+      "pubDate": "2026-11-17T21:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/4/04e2d11b.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -585,19 +598,6 @@
       "link": "https://rocketnews24.com/2026/11/17/2864409/",
       "pubDate": "Tue, 17 Nov 2026 02:30:38 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/sibusoba.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "日本政府、ガチな◯◯◯系ユーチューバーを広報起用してしまい国民騒然…　「シャレにならん」「本格的プロパガンダの始まり」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586733.html",
-      "pubDate": "2026-11-17T11:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/41c81610.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T12:01:00.214433",
+  "updatedAt": "2026-11-17T12:30:45.375044",
   "sites": [
     {
       "id": "hachima",
