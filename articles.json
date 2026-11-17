@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "元ジャンポケ斉藤慎二被告、懲役4年の判決に即日控訴「一貫して無罪主張」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462736.html",
+      "pubDate": "2026-11-18T06:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb6f74c7.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -728,19 +741,6 @@
       "link": "https://artscape.jp/article/83445/",
       "pubDate": "Tue, 17 Nov 2026 02:00:36 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "コンビニ店長「最近、客層が良くなってきた」→終わりの始まりだと話題に・・・・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462694.html",
-      "pubDate": "2026-11-17T11:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fd7096cc.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T21:00:53.419377",
+  "updatedAt": "2026-11-17T21:30:43.758556",
   "sites": [
     {
       "id": "hachima",
