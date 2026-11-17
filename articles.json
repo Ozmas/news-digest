@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ポケカ転売ヤー、ガチで世紀末な模様 もう一般販売辞めたほうがいいだろ・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462717.html",
+      "pubDate": "2026-11-17T20:30:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/c/6c9ad17a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "秒速で1億円稼ぐ男・与沢翼さん、もうすぐ逮捕へ…本人が投稿",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586846.html",
+      "pubDate": "2026-11-17T20:30:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/e/1e23a62e.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本政府さん、ガチでやばい陰謀論系YouTuberを広報に起用して大炎上",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462720.html",
+      "pubDate": "2026-11-17T20:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/e/0e978996.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【トクリュウ歓喜】楽天証券で約470万人の個人情報流出！住所、年収、金融資産、口座番号、ログインIDなどが流出か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586843.html",
+      "pubDate": "2026-11-17T20:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fb2195de.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -574,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fd7096cc.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女子X民、存在しないファミコン時代のペルソナのことで揉めてしまうｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586731.html",
-      "pubDate": "2026-11-17T11:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8e6f6686-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -598,19 +637,6 @@
       "link": "https://jin115.com/archives/52462685.html",
       "pubDate": "2026-11-17T10:30:34+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/44af0433.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】高市首相、自民党造反4人に「アホバカふざけるなナメるな」レベルの悪口雑言、「消費税解散か」とも報道される…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586732.html",
-      "pubDate": "2026-11-17T10:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ad1b09ce.jpg"
     },
     {
       "siteId": "brutus",
@@ -806,32 +832,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/kudo-shizuka-ninjin-yaki",
       "pubDate": "Mon, 16 Nov 2026 16:01:02 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/01/subbuzz/w3HE7Ps4M.jpg?crop=1666:1111;273,78&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「今の日本って“必要のない仕事”が多すぎないか？」←すべての元凶これだろ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462682.html",
-      "pubDate": "2026-11-17T06:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/5/b5cb457f.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "あの性病に感染する男性、増加しているらしい・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462672.html",
-      "pubDate": "2026-11-17T05:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/caebe90d.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T11:00:52.266297",
+  "updatedAt": "2026-11-17T11:30:46.080393",
   "sites": [
     {
       "id": "hachima",
