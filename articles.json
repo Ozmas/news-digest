@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【訃報】アリカ取締役・倉林晶氏逝去　『ダライアス外伝』『ストリートファイターEX』『テトリス99』などの開発に携わったゲームプログラマー",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586789.html",
+      "pubDate": "2026-11-17T18:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a318b1f5.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "峯岸みなみさん「新居の電気代は3週間で15万円。生きてるだけで凄いお金がかかる」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462716.html",
+      "pubDate": "2026-11-17T18:00:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03abdc41-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -600,19 +626,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kurikinton-29-1.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "39歳おじさん客、24歳接客業女性にガチで最悪の「おじアタック」をして逮捕される…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586722.html",
-      "pubDate": "2026-11-17T09:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/b/3bfccb80.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -730,6 +743,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/27c581d8.jpg"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "工藤静香のにんじんの食べ方に「野菜嫌いの息子に作ってあげたい」「つまみにも…」「発想が素晴らしい」と注目集まる",
+      "description": "歌手の工藤静香さんが11月14日にInstagramを更新。「夜食」に準備したにんじんを動画で紹介しました。りんごのデザートなど手料理にも反響が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/kudo-shizuka-ninjin-yaki",
+      "pubDate": "Mon, 16 Nov 2026 16:01:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/01/subbuzz/w3HE7Ps4M.jpg?crop=1666:1111;273,78&resize=1250:830"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -782,19 +808,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/053384a9.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『妖怪ハンター』全巻「100円」セールが終了間際！全3巻「2,838円」→「300円」！エヴァや宮崎駿に影響を与えた名作！『孔子暗黒伝』なども100円！本日23時59分まで",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462670.html",
-      "pubDate": "2026-11-17T00:30:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d786a689.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -832,6 +845,19 @@
       "link": "https://brutus.jp/post-536645/",
       "pubDate": "Mon, 16 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「えっ！？」「お揃い…」高橋文哉のプライベートショットにSNS騒然「目立つでしょ！」「彼氏感やばい」",
+      "description": "俳優の高橋文哉さんが11月14日にInstagramを更新。東京ディズニーランドを訪れた際のプライベートショットを披露し、「お揃いコーデかわいすぎる」「彼氏感やばい」と反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yukiadachi/takahashifumiya-8loom1114",
+      "pubDate": "Mon, 16 Nov 2026 05:31:03 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/06/subbuzz/jM0BHaxqZ.jpg?crop=2318:1545;417,209&resize=1250:830"
     },
     {
       "siteId": "rocketnews",
@@ -1250,6 +1276,45 @@
       "thumbnail": ""
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "湯船を満喫するワンコの表情に「仙人の風貌」「おじいちゃんみたい」と大反響",
+      "description": "入浴中にうっとりするワンコの姿がXに投稿され、「仙人の風貌」「おじいちゃんみたい」と2.5万件を超える「いいね」が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/saorihakamada/gomachan-ofuro1109",
+      "pubDate": "Sat, 14 Nov 2026 21:01:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/06/thumb/m4_2vLZIg.png?crop=600:400;30,390&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「足どうなってるんだ...？」ネコの変な座り方に驚きの声「初めて見ました」「お手手4本あるみたい」",
+      "description": "いわゆる香箱座りのようだけど、なんだかちょっと違う……！？ ネコちゃんの独特な座り方に5.9万件のいいねが集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/kuroecat-koubako",
+      "pubDate": "Sat, 14 Nov 2026 20:01:03 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/02/thumb/kj-TCrji0.jpg?crop=1287:858;561,0&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「自分が抱くと…」 見たこともない塩顔になっちゃう実家の猫に「じつに味わい深い」「チベットスナギツネのよう」",
+      "description": "実家の猫を抱っこしたら、見たこともない塩顔になってしまって……何とも味わい深く、愛おしい表情を見せる猫がSNSで話題になっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/kahorimachida/shio20261113",
+      "pubDate": "Sat, 14 Nov 2026 19:01:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/07/subbuzz/YzHqOoZ6W.jpg?crop=304:203;295,0&resize=1250:830"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1263,6 +1328,32 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8413-1024x767.jpeg"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "サンマを食べていたら…赤い虫が出てきた「気持ち悪い」「怖くて…」「アニサキスか！？って…」食べたらどうなる？",
+      "description": "サンマを食べていると、ハラワタから赤い虫が……！？ SNS上でも「寄生虫で本当イヤ。しかも結構でかい」などと話題になりがちなラジノリンクスについての情報をまとめました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/ayahoshino/pacificsaury-red",
+      "pubDate": "Sat, 14 Nov 2026 17:46:01 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/04/subbuzz/2eLtRlslh.jpg?crop=982:655;0,612&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "『呪術廻戦』を『ホタルの嫁入り』作者が描いたら…世界から「めっちゃ興奮する」「こんな風に描いてくれるなんて」と絶賛の声",
+      "description": "『ホタルの嫁入り』の作者・橘オレコさんが『呪術廻戦』のキャラクターを描き、SNSで話題になっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/ayahara/jyujyutsu-hotaru1112",
+      "pubDate": "Sat, 14 Nov 2026 17:31:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/04/thumb/CSCT_bksO.jpg?crop=660:440;38,0&resize=1250:830"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1274,6 +1365,19 @@
       "link": "https://casabrutus.com/categories/art/491347",
       "pubDate": "Sat, 14 Nov 2026 22:00:32 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "草彅剛「これヤバいよ」カバンから出てきた食材に「びっくり」「普通は入れない」「いきなり食べ始めた」と驚きの声",
+      "description": "歌手で俳優の草彅剛さんが11月12日にYouTubeチャンネルを更新。自身のカバンの中身を紹介しました。持ち歩いている食べ物や俳優の堤真一さんから贈られた品など、こだわりの中身に反響が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/kusanagi-tsuyoshi-kaban-ni-apple",
+      "pubDate": "Sat, 14 Nov 2026 05:16:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/02/subbuzz/qdox8Iyt9.jpg?crop=3501:2334;0,56&resize=1250:830"
     },
     {
       "siteId": "casabrutus",
@@ -1313,6 +1417,19 @@
       "link": "https://casabrutus.com/categories/art/496541",
       "pubDate": "Fri, 13 Nov 2026 22:55:26 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「パートナーしか見れない…」今田美桜の近距離ショットに驚きの声「寝起きか」「すっぴん！？」",
+      "description": "俳優の今田美桜さんが11月11日にInstagramを更新。顔を近くから捉えた写真を公開し、ファンからは「寝起きか」「すっぴん！？」などの反響が寄せられました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yuisasaki/imadamio1112",
+      "pubDate": "Fri, 13 Nov 2026 05:31:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/01/subbuzz/-bi8YA1RC.jpg?crop=3310:2207;0,463&resize=1250:830"
     },
     {
       "siteId": "artscape",
@@ -1393,19 +1510,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8644-1024x767.jpeg"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "中森明菜「英語にしないと…」サインの書き方に注目集まる「なんて素敵な」「世界で明菜ちゃんだけだと思う」",
-      "description": "音楽番組『SONGS』（NHK総合）の公式アカウントが11月11日にXを更新。歌手の中森明菜さんが出演するスペシャル番組について告知し、サインを書く中森さんの姿を公開しました。サインへのこだわりにも注目が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/nakamori-akina-sign-fudepen",
-      "pubDate": "Thu, 12 Nov 2026 04:16:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/02/subbuzz/SC5KxkeXZ.jpg?crop=1831:1221;110,172&resize=1250:830"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1419,45 +1523,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8520-1024x767.jpeg"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「別班ではなく調理担当」堺雅人の“料理人”姿が話題に「そうきたか！」「平和な堺さん」",
-      "description": "俳優の堺雅人さんが主演を務める映画『南極料理人 4Kリマスター』の公式アカウントが、11月9日にXを更新。堺さん主演のドラマ『VIVANT』（TBS系）の話題に乗せて、映画の予告動画を公開しました。SNSには、「そうきたか！」「平和な堺さん」と反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yukiadachi/sakaimasato-nankyoku1109",
-      "pubDate": "Wed, 11 Nov 2026 05:46:03 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/10/07/subbuzz/tHh-AkhF-.jpg?crop=2046:1364;0,392&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "ミセス大森、人気俳優をベタ褒め→「ガチ照れ」「こんなこと言われたら…」「マジトーン」ファン沸く",
-      "description": "バラエティ番組『テレビ×ミセス』（TBS系）の公式アカウントが11月7日にInstagramを更新。3人組ロックバンド「Mrs. GREEN APPLE」の大森元貴さんと、モデルで俳優の中条あやみさんが褒め合う姿を公開し、「ガチ照れ」「こんなこと言われたら…」などの反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/misesu1110omori",
-      "pubDate": "Wed, 11 Nov 2026 05:31:04 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/10/05/subbuzz/7lupvXtUz.jpg?crop=1378:919;5,285&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "DAIGOが北川景子を撮ったら…「なんでこんなに可愛いのよ」「眩しすぎる」「愛する旦那様だからこその表情」と話題に",
-      "description": "俳優の北川景子さんが11月9日にXを更新。夫でミュージシャンのDAIGOさん、俳優の高橋光臣さんと東京ディズニーリゾートを訪れた際の写真を公開し、ファンからは「眩しすぎる」「ほんとに仲良し」などの反響が寄せられました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yuisasaki/kitagawakeiko1110",
-      "pubDate": "Wed, 11 Nov 2026 05:01:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/10/05/subbuzz/BCNhUI44S.jpg?crop=3404:2269;0,449&resize=1250:830"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1469,19 +1534,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/11/macdonaldhigashimukojima/",
       "pubDate": "Tue, 10 Nov 2026 23:01:57 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/9B97CEEB-7BF6-4072-B2C2-057B2D95ECCE-810x767.jpeg"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「ワイルド雪見だいふく」飼い主の服を引っ張るハムスターに3万いいね「高速すぎる！」「ハムキツツキ」",
-      "description": "ハムスターが飼い主の服を引っ張る様子がXに投稿され、「ワイルド雪見だいふく」「高速すぎる！」などの反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/hamster-hipparu1109",
-      "pubDate": "Tue, 10 Nov 2026 16:31:04 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/09/00/thumb/5RpgeIyIw.jpg?crop=615:410;52,145&resize=1250:830"
     },
     {
       "siteId": "sumida",
@@ -1516,11 +1568,11 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "【ピノ】アーモンドだけを21粒詰め込んだ「ぜんぶアーモンド」発売「嬉しすぎます！」「ついに夢が叶った…！」",
-      "description": "森永乳業は、11月9日から数量限定で「ピノ ぜんぶアーモンド」を発売します。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yusuketsuji/pinoalmond1028",
-      "pubDate": "Sat, 07 Nov 2026 20:01:04 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/28/08/subbuzz/Obop6CRs5.jpg?crop=2382:1588;0,114&resize=1250:830"
+      "title": "大きい方の梨を横取りするハムスターに反響「本当強欲でかわいい」「フードファイターですか！？」",
+      "description": "ちゃんと飼い主さんが用意してくれているのに……大きい方にしか目がいかないハムスターに3.8万いいねが集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/ponhamster-nasi",
+      "pubDate": "Sat, 07 Nov 2026 20:31:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/04/06/thumb/TQdbPqZpX.jpg?crop=762:508;0,135&resize=1250:830"
     },
     {
       "siteId": "sumida",
@@ -1555,63 +1607,11 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「へたくそすぎる」猫のグルーミングに7.6万いいね「表情がたまりません」「顔が変形しちゃってるよ！？」",
-      "description": "グルーミングをしている猫の動画がXに投稿され、「表情がたまりません」「顔が変形しちゃってるよ！？」などの反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/neko-grooming1104",
-      "pubDate": "Fri, 06 Nov 2026 20:01:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/04/00/subbuzz/CkHvAzGzD.png?crop=937:625;250,44&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "茂みで野鳥を発見。カメラを向けると…？まさかの事態に「怖すぎる」「許可とってないから…」251万回表示",
-      "description": "ハイキング中、森の茂みをのぞいてみたら……まさかの出来事に7.7万件の「いいね」が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/yamadori1103",
-      "pubDate": "Fri, 06 Nov 2026 19:01:03 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/06/06/thumb/U2Ul9JFTH.jpg?crop=1357:905;0,4&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "『鬼滅の刃』を『ホタルの嫁入り』作者が描いたら…「美しすぎ」「かっっっこいい」と絶賛の声",
-      "description": "『ホタルの嫁入り』の作者・橘オレコさんが『鬼滅の刃』のキャラクターを描き、SNSで話題になっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/kimetsu-hotaru1106",
-      "pubDate": "Thu, 05 Nov 2026 23:00:52 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/06/00/subbuzz/AyagEUTP5.png?crop=800:533;0,172&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「キメラですか」 ワンコが合体！？→誕生したかわいくて不思議な生き物に「犬（ケン）タロスだ」「シェルタウロス」",
-      "description": "なぜか足が6本あるように見えて、ギリシャ神話に登場する生き物のようにも見える。そんな不思議なワンコの写真がSNSに投稿され、話題になっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/kahorimachida/kimera20261021",
-      "pubDate": "Sat, 24 Oct 2026 21:31:02 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/21/07/subbuzz/DiQtU6FdE.jpg?crop=1371:914;82,83&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「ご飯！？→ご飯！→ごっはーん！」喋りまくるネコに14万いいね「人間語喋ってるつもりだ」",
-      "description": "「ご飯？ だよね、だよね、そうだよね！」こりゃ完全に会話が成り立ってますわ。お喋りなネコちゃんに14万いいねが集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/unicat-gohan1014",
-      "pubDate": "Sat, 24 Oct 2026 21:16:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/01/thumb/dJxRTCouJ.jpg?crop=1170:780;0,253&resize=1250:830"
+      "title": "「食べられるきのこは1つだけ」農林水産省の難問クイズにコメント続々「全部毒キノコに見える」「栃木県民には朝飯前！」",
+      "description": "どれも食べられそうだし、どれも毒がありそう……。一体、毒がないのはどのきのこなのでしょうか？View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yusuketsuji/kinokoquiz1023",
+      "pubDate": "Fri, 23 Oct 2026 22:31:04 -0400",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/08/subbuzz/HwPahiDcB.jpg?crop=3329:2219;0,1&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T09:00:53.550357",
+  "updatedAt": "2026-11-17T09:30:49.129537",
   "sites": [
     {
       "id": "hachima",
