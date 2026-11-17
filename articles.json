@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "こだわりの敗北！ 思い切った路線変更をしだした妻！　四コマサボタージュFB第133回「夫との面会」",
+      "description": "最近ラーメン食べてないなぁ……。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/18/2860074/",
+      "pubDate": "Tue, 17 Nov 2026 22:00:05 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-133.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1146,19 +1159,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1袋80円】カルビーのポテトチップス『クリスプ（45g）』16袋セットが1276円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。食品・飲料・アパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、カルビーのポテトチップス『クリスプ ビーフコンソメ味（45g）』1 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/16/2864292/",
-      "pubDate": "Mon, 16 Nov 2026 01:40:18 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Amazon-×-RN24_11122.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T21:30:43.758556",
+  "updatedAt": "2026-11-17T22:00:47.477849",
   "sites": [
     {
       "id": "hachima",
