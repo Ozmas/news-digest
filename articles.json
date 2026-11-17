@@ -8,6 +8,32 @@
       "siteColor": "#60a5fa",
       "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
       "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ホロライブ博衣こよりさん、とんでもない情報を公開",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462711.html",
+      "pubDate": "2026-11-17T19:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/d/0d6ed93e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "英国の有名政治家「『GTA6』は暴力的な内容以上よりも、子どもが◯◯することを懸念している」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586836.html",
+      "pubDate": "2026-11-17T19:30:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/7289c128.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
       "title": "楽天証券、最大1125万口座の個人情報が漏洩か",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52462719.html",
@@ -613,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68ba5a4b.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】投資系インフルエンサー男性さん、洞爺湖で参加費1500万円のセミナーを受講したとSNSで報告するも、◯◯のせいで秒で嘘がバレてしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586730.html",
-      "pubDate": "2026-11-17T10:00:05+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b02f675a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +819,6 @@
       "link": "https://jin115.com/archives/52462672.html",
       "pubDate": "2026-11-17T05:00:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/caebe90d.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "閉店したパチンコ店に侵入した親子が逮捕 → 息子の名前がエグすぎると話題に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462668.html",
-      "pubDate": "2026-11-17T03:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7e9dbfb-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T10:30:45.237715",
+  "updatedAt": "2026-11-17T10:32:27.942923",
   "sites": [
     {
       "id": "hachima",
