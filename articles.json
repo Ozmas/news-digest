@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "手首の上に、4色の星雲。〈オーデマ ピゲ〉ロイヤル オーク コンセプトの日本限定モデル",
+      "description": "2002年から続く、素材の実験 ロイヤル オーク コンセプトは、2002年、「ロイヤル オーク」の誕生30周年を記念して生まれた。ロイヤル オークの未来の姿を探るモデルとして、初代のケースには、航空宇宙産業で用いる合金ア [&#8230;]",
+      "link": "https://brutus.jp/post-537685/",
+      "pubDate": "Tue, 17 Nov 2026 01:00:59 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【東京初進出】営業は「平日昼の3時間のみ」！ 仙台の行列店『肉そば藤七 半蔵門店』の山形そばがワイルドすぎて最高",
+      "description": "少々ややこしいが、つい先日訪れた宮城県仙台市で人生初の「山形そば」を食べた。色が濃く太いそばは食べ応え抜群で、ちょっとした中毒性を兼ね備えた激ウマな一杯であった。 「ああ、東京でも山形そばが食べられないかな～？」と探して [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/17/2862604/",
+      "pubDate": "Tue, 17 Nov 2026 01:00:56 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hanzo02.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『GTA6』の予約本数、ガチで規格外すぎる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462688.html",
+      "pubDate": "2026-11-17T10:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68ba5a4b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】投資系インフルエンサー男性さん、洞爺湖で参加費1500万円のセミナーを受講したとSNSで報告するも、◯◯のせいで秒で嘘がバレてしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586730.html",
+      "pubDate": "2026-11-17T10:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/0/b02f675a.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -561,19 +613,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "立民・水岡代表、高市内閣の変わらない支持率を見て「ちょっと信じられない」「どういうふうに考えたらいいんだろうか」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586628.html",
-      "pubDate": "2026-11-16T19:30:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/ac470651.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +741,6 @@
       "link": "https://rocketnews24.com/2026/11/16/2861907/",
       "pubDate": "Mon, 16 Nov 2026 06:00:41 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【深刻】ブラジル人と中学生が高齢者を襲撃・強盗殺人未遂事件として逮捕→各メディアは「ブラジル人」の情報を伏せて報道",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462631.html",
-      "pubDate": "2026-11-16T15:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/8/e81312ff.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1107,19 +1133,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月16日〜11月22日 山羊座の運勢【ブルータス週間占い】",
-      "description": "山羊座の羅針盤 静かに心を整える 今週は、何かを大きく動かすよりも、目の前のことを淡々と続けていくとき。新しいことを始めるのではなく、すでに取り組んでいることに向き合っていきたい週です。家のベランダから夕暮れを眺める時間 [&#8230;]",
-      "link": "https://brutus.jp/post-538925/",
-      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1170,19 +1183,6 @@
       "link": "https://rocketnews24.com/2026/11/15/2862477/",
       "pubDate": "Sun, 15 Nov 2026 06:00:24 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/スクリーンショット-2026-11-12-14.02.41_1920.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ワニもカンガルーもアナグマも売ってる!? 高円寺の新店『肉のKOGIYA』は肉好きのワンダーランド / 「猪ジン」と「鹿ジン」を実食",
-      "description": "肉屋といえば、当然肉を買うお店。牛豚鶏などのお肉を買い求める場所である。お店によってはハムやソーセージなどの食肉加工品、また変わったところでは羊肉や馬肉なども扱っているかもしれない。 東京・高円寺に最近できた「肉のKOG [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/15/2862108/",
-      "pubDate": "Sun, 15 Nov 2026 02:55:10 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kogiya.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T01:00:46.759147",
+  "updatedAt": "2026-11-17T01:30:43.142814",
   "sites": [
     {
       "id": "hachima",
