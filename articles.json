@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "防災用の簡易トイレを初めて使ってみて気づいた「トイレの回数分だけ用意しておくべきもの」",
+      "description": "万が一の災害に備え、先日ついに防災用の簡易トイレを購入した私（あひるねこ）。しかし、買っただけで満足してはいけない。本番でモタつかないためにも、正しい使い方を理解しておく必要があるだろう。 そこで練習がてら、自宅のトイレ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/18/2864528/",
+      "pubDate": "Tue, 17 Nov 2026 23:00:16 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_1099.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "近年、若い世代の支持を集めている政治家は誰？：BRUTUS CITY JOURNAL",
+      "description": "🇬🇧 両極化が進む政治情勢から台頭。緑の党のザック・ポランスキー イギリス／ロンドン 2026年5月の地方選挙では二大政党が票を減らし、全国的には極右のリフォームUK党、ロンドンではザック・ポランスキーが党首の緑の党が大 [&#8230;]",
+      "link": "https://brutus.jp/post-521289/",
+      "pubDate": "Tue, 17 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【GOTY】「The Game Awards」ゲーム・オブ・ザ・イヤーのノミネート作品が発表！　もちろん『GTA6』『時のオカリナ』ほかに◯◯◯など",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586933.html",
+      "pubDate": "2026-11-18T07:30:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/857a9c34.png"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -481,19 +520,6 @@
       "link": "https://jin115.com/archives/52462719.html",
       "pubDate": "2026-11-17T19:00:31+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/d/4d2899bf-s.gif"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "PS1、セガサターン、セガCD、ネオジオCD、PCエンジンCDがPCで遊べるようになる新デバイス『Polymega Remix』国内向け正式販売決定！お値段は…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586822.html",
-      "pubDate": "2026-11-17T19:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/c/0cb67952.jpg"
     },
     {
       "siteId": "brutus",
@@ -1107,19 +1133,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【福袋2027】曲げわっぱ弁当箱が2個入った「デビューセット」を開封！ サイズ＆色味も選べて、わっぱ弁当デビューに最適だぞ",
-      "description": "2027年も数多くの福袋が発売予定。詳細は【2027年福袋まとめ】として記事で紹介しているが、個人的に手に入れたいものもいろいろとある。 その一つが、先日購入した「曲げわっぱ お弁当箱」福袋だ。 曲げわっぱのお弁当箱の福 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/16/2862899/",
-      "pubDate": "Mon, 16 Nov 2026 02:00:38 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/w2.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1259,19 +1272,6 @@
       "title": "11月16日〜11月22日 双子座の運勢【ブルータス週間占い】",
       "description": "双子座の羅針盤 広い世界を見渡す 週頭、月が双子座にとって「ここではないどこか」を示す部屋、水瓶座にいます。行動力がぐんと高まる1週間となりそうです。16日に火星（意欲）と木星（幸運）が重なるのは、学びや冒険を表す部屋、 [&#8230;]",
       "link": "https://brutus.jp/post-538891/",
-      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月16日〜11月22日 蟹座の運勢【ブルータス週間占い】",
-      "description": "蟹座の羅針盤 専門性を磨く 今週は週明け早々に、火星（意欲）と木星（幸運）が獅子座で重なります。獅子座は、蟹座から見ると自己価値やお金を表す部屋。この星回りは、ずっと欲しかったものを手に入れる決断を後押しします。お金を稼 [&#8230;]",
-      "link": "https://brutus.jp/post-538893/",
       "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T22:30:42.880015",
+  "updatedAt": "2026-11-17T23:00:52.665950",
   "sites": [
     {
       "id": "hachima",
