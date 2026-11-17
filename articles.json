@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "常識を “ひっくり返した”!? 〈ウォーターフロント〉が提案する、傘の新しいかたち。",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/design/495257",
+      "pubDate": "Tue, 17 Nov 2026 22:00:53 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中野区でコンカフェ嬢を刺した弱おじ、事件当日に「きもい、今日はつまらなかった」と言われていた",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462740.html",
+      "pubDate": "2026-11-18T07:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/84bae882-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【怖すぎ】「今から消えた神社を探しに行きます。万一が起きたら察してください」　→　 翌日、衝撃の恐ろしい事態に！　うわああああ((((( ；ﾟДﾟ)))",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586930.html",
+      "pubDate": "2026-11-18T07:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5b0c3b75.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -470,19 +509,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【訃報】アリカ取締役・倉林晶氏逝去　『ダライアス外伝』『ストリートファイターEX』『テトリス99』などの開発に携わったゲームプログラマー",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586789.html",
-      "pubDate": "2026-11-17T18:30:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a318b1f5.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/11/17/2860892/",
       "pubDate": "Tue, 17 Nov 2026 02:55:56 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/43196_0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "個人ゲーム開発者「幼女戦記のゲーム作りました！300円で売ります！」→著作権ガン無視で大炎上・・・ゲームを非公開に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462690.html",
-      "pubDate": "2026-11-17T11:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/464fea4a.png"
     },
     {
       "siteId": "rocketnews",
@@ -1406,19 +1419,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7350-1-1024x767.jpeg"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【11月14日〜15日】今週末必見の“アート＆デザイン”まとめ！",
-      "description": "カーサが注目する、今週末のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
-      "link": "https://casabrutus.com/categories/art/496541",
-      "pubDate": "Fri, 13 Nov 2026 22:55:26 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T22:00:47.477849",
+  "updatedAt": "2026-11-17T22:30:42.880015",
   "sites": [
     {
       "id": "hachima",
