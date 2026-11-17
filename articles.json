@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "岐阜県民が愛する「栗きんとん」を超手抜きで再現してみた / 材料2種類、1個約90円、調理時間は約10分！",
+      "description": "栗きんとんといえば、おせち料理を思い浮かべる人が多いだろう。 しかし、岐阜県出身の私（夏野）にとって、栗きんとんといえば、栗を使った茶菓子のこと。秋になると食べたくなる、ほっくりとした和菓子である。 そろそろ今年の栗きん [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/17/2863059/",
+      "pubDate": "Tue, 17 Nov 2026 00:00:44 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kurikinton-29-1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "39歳おじさん客、24歳接客業女性にガチで最悪の「おじアタック」をして逮捕される…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586722.html",
+      "pubDate": "2026-11-17T09:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/b/3bfccb80.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "仕事できなくて職場で干されてる人を見かねて助けた　→　干され社員から「◯◯◯」と返されて、原因を察してしまった話…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586720.html",
+      "pubDate": "2026-11-17T08:30:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/ea6a8cb4.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,32 +585,6 @@
       "link": "https://brutus.jp/post-537181/",
       "pubDate": "Mon, 16 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "懲役4年の元ジャンポケ斎藤、無罪を主張したことで裁判長に怒られる「不合理な弁解」「反省の態度示していない」 →斎藤は控訴",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586622.html",
-      "pubDate": "2026-11-16T18:40:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/e/ee5aa850-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】日本が誇る世界トップ級スーパーコンピュータ『富岳』に不正アクセス",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586621.html",
-      "pubDate": "2026-11-16T18:20:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/54a09b95.jpg"
     },
     {
       "siteId": "jin",
@@ -1172,19 +1185,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kogiya.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ほぼ半額】New Balanceのレトロスニーカー「408」が1万890円 → 5732円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。アパレル・食品・飲料など、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、ニューバランスのレトロスニーカー「408」をピックアップ！ いまな [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/15/2864010/",
-      "pubDate": "Sun, 15 Nov 2026 02:48:08 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_0074_9b01d1.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-16T23:30:48.777798",
+  "updatedAt": "2026-11-17T00:01:04.492451",
   "sites": [
     {
       "id": "hachima",
