@@ -2,6 +2,84 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】店舗什器の制作で培ったノウハウを活かす。〈RARERAW〉のブックスタンド",
+      "description": "蔵書家のあの人へ彫刻作品のようなブックスタンド 〈RARERAW〉のブックスタンド もともと店舗什器を制作していた会社が立ち上げた、韓国発のインテリアブランド〈レアロウ〉。“特別（Rare）”と“生（Raw）”を掛け合わ [&#8230;]",
+      "link": "https://brutus.jp/post-540346/",
+      "pubDate": "Tue, 17 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "や、安ッ！  高級ふぐ専門店『とらふぐ亭』が一部店舗で実施している「ランチ御膳」が超お得 / ふぐ料理デビューにオススメかも",
+      "description": "一般的に高級な食材として知られている『ふぐ』。ものすごく興味はあるのだが……値段が値段なだけに今まで1度も食べたことが無かった。手が届かない憧れの存在ってヤツだ。 が先日、都内を中心に営業を行うふぐ料理専門店「とらふぐ亭 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/17/2860892/",
+      "pubDate": "Tue, 17 Nov 2026 02:55:56 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/43196_0.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "個人ゲーム開発者「幼女戦記のゲーム作りました！300円で売ります！」→著作権ガン無視で大炎上・・・ゲームを非公開に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462690.html",
+      "pubDate": "2026-11-17T11:30:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/6/464fea4a.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "コロッケそばアリorナシ？ 派閥争いに終止符を打つかもしれない本家しぶそばのコロッケそばが実は唯一無二",
+      "description": "犬派or猫派、きのこ派orたけのこ派、マクドナルドのチキンナゲットソース・バーベキュー派orマスタード派！　世の中には様々な派閥争いが存在するけど、意外と熱いのが「コロッケそばアリorナシ」だ。賛も否も強火になりがちな食 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/17/2864409/",
+      "pubDate": "Tue, 17 Nov 2026 02:30:38 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/sibusoba.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "日本政府、ガチな◯◯◯系ユーチューバーを広報起用してしまい国民騒然…　「シャレにならん」「本格的プロパガンダの始まり」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586733.html",
+      "pubDate": "2026-11-17T11:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/41c81610.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "〈HUMAN MADE〉の旗艦店が原宿に登場！ 東京から世界へ、新たなカルチャー発信拠点に。",
+      "description": "原宿・明治通り沿いに〈HUMAN MADE〉初のフラッグシップストアとなる〈HUMAN MADE TOKYO〉がオープン。",
+      "link": "https://casabrutus.com/categories/fashion/495982",
+      "pubDate": "Tue, 17 Nov 2026 02:25:23 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -587,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/05a72d92.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】テレビの生放送に自宅からリモート出演していたウクライナ議員(65)、うっかり自分の男性器を全国に晒してしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586651.html",
-      "pubDate": "2026-11-16T21:40:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3daaae8d.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -702,19 +767,6 @@
       "link": "https://brutus.jp/post-537181/",
       "pubDate": "Mon, 16 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女子アナさん「もうこの下着いらないから古着屋で売っちゃおｗ」→ガチで持ち込んだ結果ｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462644.html",
-      "pubDate": "2026-11-16T18:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2cb7528-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1146,19 +1198,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月16日〜11月22日 射手座の運勢【ブルータス週間占い】",
-      "description": "射手座の羅針盤 寄り道を楽しむ 太陽を自エリア（射手座）に迎えることとなる今週。ただし、まだ本番前の準備段階という雰囲気です。 17日、上弦の月が射手座にとって学びを表す部屋、水瓶座で起こります。将来的にやりたいことを実 [&#8230;]",
-      "link": "https://brutus.jp/post-538919/",
-      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1170,32 +1209,6 @@
       "link": "https://rocketnews24.com/2026/11/15/2863359/",
       "pubDate": "Sun, 15 Nov 2026 12:00:46 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2174a.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【2027福袋】楽天で「アラビックヤマト アウトレット福袋」を購入したら文房具屋さんの仕入れみたいになった",
-      "description": "これまで私にとっての「福袋」と言えばお得で楽しい食品、もしくは好きなブランドのどちらか2択。でも今年は、ちょっと変わった福袋に惹かれてしまった。 軽い気持ちで購入したら文房具屋さんの仕入れみたいになってしまったので、その [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/15/2862285/",
-      "pubDate": "Sun, 15 Nov 2026 10:00:19 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-3-5.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "店員「うちのポテトはKFCよりおいしい」オープンしたばかりの店で、自信満々のポテトを食べてみた結果…【カンバ通信：第546回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回も、ポテトを食べにレストランへ行ってきた。まだ新しいお店だそうで、中に入るとスタッフたちがとても感じよく迎えてくれたよ。  [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/15/2863279/",
-      "pubDate": "Sun, 15 Nov 2026 08:00:12 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba546-thumbnail.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1286,19 +1299,6 @@
       "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
       "link": "https://casabrutus.com/categories/art/491342",
       "pubDate": "Fri, 13 Nov 2026 22:00:05 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "庭、建築、展示、すべてが美しい！ 改修を終えたポルトガル・リスボンの〈グルベンキアン美術館〉へ。",
-      "description": "1969年に開館した〈グルベンキアン美術館〉は、カルースト・グルベンキアン（1869〜1955）が遺したコレクションを展示する世界有数の美術館である。この夏、1年半に及ぶ改修を終え再オープンした。隣接する隈研吾が改修を手掛けた〈グルベンキアン現代美術館（CAM）〉、原研哉が手がけたサイネージと合わせて紹介したい。",
-      "link": "https://casabrutus.com/categories/art/496351",
-      "pubDate": "Fri, 13 Nov 2026 07:25:57 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T02:30:40.769149",
+  "updatedAt": "2026-11-17T03:00:52.635578",
   "sites": [
     {
       "id": "hachima",
