@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国スパイとの不倫で辞任したNVIDIA・フアン氏、CEOに復帰する可能性が浮上！！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462687.html",
+      "pubDate": "2026-11-17T09:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/5/e56df388.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】『いちご100％』作者さんが20年以上ぶりにヒロイン達を描き下ろした結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586728.html",
+      "pubDate": "2026-11-17T09:30:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/5/5561e60a.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -574,19 +600,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba547-thumbnail.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アーノルド・シュワルツェネッガー(79)、『コマンドー』『プレデター』『コナン』続編制作を明言！とんでもねぇ、待ってたんだ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586623.html",
-      "pubDate": "2026-11-16T19:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/3/4398340f.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -715,19 +728,6 @@
       "link": "https://rocketnews24.com/2026/11/16/2863614/",
       "pubDate": "Mon, 16 Nov 2026 05:00:41 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2747-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】映画『ゴジラ-0.0』、2週目の北米興収が75%減の緊急事態　原因はこれか・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462637.html",
-      "pubDate": "2026-11-16T14:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/e/de91e799.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T00:30:43.417902",
+  "updatedAt": "2026-11-17T01:00:46.759147",
   "sites": [
     {
       "id": "hachima",
