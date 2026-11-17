@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】台湾の国民投票討論会で淫夢ネタが登場！もう終わりだよこの国・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586761.html",
+      "pubDate": "2026-11-17T15:30:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/94131b13-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -689,19 +702,6 @@
       "link": "https://jin115.com/archives/52462672.html",
       "pubDate": "2026-11-17T05:00:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/caebe90d.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ドユコト???】『チー付与』アニメ面白いから原作読んでみよ！⇒衝撃の冊数に驚く人たち",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586669.html",
-      "pubDate": "2026-11-17T04:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/3/e3babaaf-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T06:30:53.009298",
+  "updatedAt": "2026-11-17T07:00:52.536115",
   "sites": [
     {
       "id": "hachima",
