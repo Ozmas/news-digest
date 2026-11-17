@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "最近流行りのホテル、これらしい・・・〇〇〇〇型で普通のホテルより安くて快適な模様！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462685.html",
+      "pubDate": "2026-11-17T10:30:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/44af0433.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】高市首相、自民党造反4人に「アホバカふざけるなナメるな」レベルの悪口雑言、「消費税解散か」とも報道される…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586732.html",
+      "pubDate": "2026-11-17T10:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ad1b09ce.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -574,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/336c3c21.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "個人開発者「幼女戦記の二次創作ゲームを制作中です！β版300円で頒布します！」 → Xでボッコボコに叩かれまくり公開停止に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586632.html",
-      "pubDate": "2026-11-16T20:18:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/a/4aec5488.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "https://casabrutus.com/categories/architecture/496699",
       "pubDate": "Mon, 16 Nov 2026 07:25:15 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "各配信サイトが『GTA6』を無料配布へ！お前らこのチャンスの逃すなよおおおおおお！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462646.html",
-      "pubDate": "2026-11-16T16:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/756a50e4.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T01:30:43.142814",
+  "updatedAt": "2026-11-17T01:58:56.229803",
   "sites": [
     {
       "id": "hachima",
