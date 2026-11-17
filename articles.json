@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2176話目「上司と部下の狭間で⑧」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/17/2864901/",
+      "pubDate": "Tue, 17 Nov 2026 12:00:51 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2176a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "モードな虫図鑑。Treehopper【ツノゼミ】",
+      "description": "異世界から来たような摩訶不思議ぶり 前胸背板が種によってアメージングな形状に発達する非常に小さな昆虫。角の内部は空洞状で風船のようになっており、擬態や身を守るためのほか、鳴き声を増幅するためにも使われるといわれている。ま [&#8230;]",
+      "link": "https://brutus.jp/post-521847/",
+      "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1146,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【Amazon低評価検証】550円の「集中発汗スーツ（評価2.2）」を着て湯船に浸かってみた結果",
-      "description": "先日、楽天で「家庭用サウナ」を購入した私（あひるねこ）であるが、実は同じ時期にAmazonで『マイホームサウナ 集中発汗スーツ』という商品も買っていた。 税込550円という安さに惹かれて購入したのだが、評価は2.2とかな [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/16/2861554/",
-      "pubDate": "Mon, 16 Nov 2026 01:00:08 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/UPLY3812.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1246,19 +1259,6 @@
       "title": "11月16日〜11月22日 蟹座の運勢【ブルータス週間占い】",
       "description": "蟹座の羅針盤 専門性を磨く 今週は週明け早々に、火星（意欲）と木星（幸運）が獅子座で重なります。獅子座は、蟹座から見ると自己価値やお金を表す部屋。この星回りは、ずっと欲しかったものを手に入れる決断を後押しします。お金を稼 [&#8230;]",
       "link": "https://brutus.jp/post-538893/",
-      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月16日〜11月22 獅子座の運勢【ブルータス週間占い】",
-      "description": "獅子座の羅針盤 仲間を巻き込んで挑戦する 週冒頭、火星（意欲）と木星（幸運）が自エリア（獅子座）で重なり、行動力にブーストがかかります。自分のなかにある可能性や、これから挑戦したいことが見えてきそうです。新しいスタートを [&#8230;]",
-      "link": "https://brutus.jp/post-538898/",
       "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T11:30:46.080393",
+  "updatedAt": "2026-11-17T12:01:00.214433",
   "sites": [
     {
       "id": "hachima",
