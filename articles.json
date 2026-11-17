@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "『ワンピース』読破のために日本一豪華な「快活CLUB」へ行ったら、喫煙所に度肝を抜かれた！ なのに利用料金は普通",
+      "description": "先日、漫画『ワンピース』について、作者の尾田栄一郎先生と同世代の私（佐藤）が、50代なりの考えをお伝えした。以前はよく読んでいたのだが、作品から離れて久しい。その点について「読むべきでは」とのご指摘を頂き、至極もっともで [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/17/286463/",
+      "pubDate": "Tue, 17 Nov 2026 09:00:16 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/gkaikatsu.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【Kindleセール】『殺し屋1』『ブラックジャックによろしく』『Stand by me 描クえもん』『タルるートくん』『GOLDEN BOY』などが大人気漫画がほぼ全巻11円セール実施中！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586790.html",
+      "pubDate": "2026-11-17T18:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/06bef8f3-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】アケゲー『ガンダムEXVSIB(イニブ)』に海賊版が登場！さらにゲーセンより先に新機体をプレイできてしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586784.html",
+      "pubDate": "2026-11-17T17:30:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/f/4fcdb4a4.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -587,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/7/37a53f6c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "仕事できなくて職場で干されてる人を見かねて助けた　→　干され社員から「◯◯◯」と返されて、原因を察してしまった話…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586720.html",
-      "pubDate": "2026-11-17T08:30:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/ea6a8cb4.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +689,6 @@
       "link": "https://brutus.jp/post-538759/",
       "pubDate": "Mon, 16 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【日本終了】日本の消費、コロナショック前を下回る結果に…  「物価高と円安が止まらない」「税収だけは過去最高を連続更新中」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586716.html",
-      "pubDate": "2026-11-17T07:30:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5b9cdd43.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1092,19 +1105,6 @@
       "link": "https://rocketnews24.com/2026/11/16/2861554/",
       "pubDate": "Mon, 16 Nov 2026 01:00:08 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/UPLY3812.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "大掃除のやる気はお金で買えるのか？ 木村石鹸の「さくっと！大掃除福袋」を開けたら、マニアの心まで刺激された / 福袋2027",
-      "description": "年末だ。大掃除の季節だ。 普段からできるだけこまめに掃除をするようにはしているものの、やはり年末となると、いつも以上に家をピカピカにしたくなる。 とはいえ、重い腰を上げるきっかけが欲しい……。 そんなときに見つけたのが、 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/16/2862807/",
-      "pubDate": "Mon, 16 Nov 2026 00:00:41 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kimurasekken-1.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T08:30:45.785776",
+  "updatedAt": "2026-11-17T09:00:53.550357",
   "sites": [
     {
       "id": "hachima",
