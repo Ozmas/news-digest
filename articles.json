@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "セブンの『デカ豚ラーメン』みたいな商品がイオンにあったから食べ比べてみた結果 → セブンの破壊力が桁外れだった",
+      "description": "セブン-イレブンの商品の中でも、トップクラスにパンチが効いているのが『中華蕎麦とみ田監修　デカ豚ラーメン』だ。コンビニ麺とは思えない圧倒的なボリュームが魅力の一品である。 今年5月に初体験して以来、たまに無性に食べたくな [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/17/2863401/",
+      "pubDate": "Tue, 17 Nov 2026 02:00:49 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_1013.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "杉江あこ｜日本のアートディレクション展 2026",
+      "description": "会期：2026/10/30～2026/11/30 会場：ギンザ・グラフィック・ギャラリー（ggg）［東京都］ 公式サイト：https://www.dnpfcp.jp/gallery/ggg/jp/00000862 数ある [&#8230;]",
+      "link": "https://artscape.jp/article/83445/",
+      "pubDate": "Tue, 17 Nov 2026 02:00:36 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "コンビニ店長「最近、客層が良くなってきた」→終わりの始まりだと話題に・・・・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462694.html",
+      "pubDate": "2026-11-17T11:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fd7096cc.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女子X民、存在しないファミコン時代のペルソナのことで揉めてしまうｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586731.html",
+      "pubDate": "2026-11-17T11:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/e/8e6f6686-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -587,19 +639,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "コンビニのサンドイッチを握りつぶし、某サンドイッチ店の宣伝をする動画が大炎上 → お店側は関与を否定「当店が依頼したものではない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586641.html",
-      "pubDate": "2026-11-16T20:50:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/336c3c21.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +715,6 @@
       "link": "https://jin115.com/archives/52462644.html",
       "pubDate": "2026-11-16T18:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/2/f2cb7528-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「『咲-Saki-』の試し読みがガチでヤバいから見て」→1.1万ブックマークの異常事態ｗｗｗｗｗ「ヤバいの次元超えてて草」「ハードル上げてそれを余裕で超えてくる事あるんだ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462647.html",
-      "pubDate": "2026-11-16T17:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/f/5f951074.jpg"
     },
     {
       "siteId": "brutus",
@@ -1172,19 +1198,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba546-thumbnail.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "一年越しに現れた、一年前のおっさんの香り",
-      "description": "衣替えの季節。私はタンスの中にある短パンとタートルネックの位置を入れ替えた。 タンスの出しやすい位置に置くのは、夏は短パン、冬はタートルネックと決めている。その両者が入れ替わると、季節も変わる。 こうして今季も、私のター [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/15/2862477/",
-      "pubDate": "Sun, 15 Nov 2026 06:00:24 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/スクリーンショット-2026-11-12-14.02.41_1920.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1391,19 +1404,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/nakamori-akina-sign-fudepen",
       "pubDate": "Thu, 12 Nov 2026 04:16:02 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/02/subbuzz/SC5KxkeXZ.jpg?crop=1831:1221;110,172&resize=1250:830"
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "五十嵐太郎｜建築遊歩15──ふたたび、韓国で現代アートめぐりを行なう",
-      "description": "ホアム美術館の「アート・スペクトラム」展ではSIDE COREの空間的な作品に注目し、第16回光州ビエンナーレでは同じ作家を複数セクションに配置する構成や街に点在するパビリオンに着目。釜山ビエンナーレ2026では、音や声 [&#8230;]",
-      "link": "https://artscape.jp/article/81950/",
-      "pubDate": "Thu, 12 Nov 2026 02:00:52 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T02:00:58.414146",
+  "updatedAt": "2026-11-17T02:30:40.769149",
   "sites": [
     {
       "id": "hachima",
