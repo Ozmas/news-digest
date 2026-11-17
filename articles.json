@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "綴る、わがままな部屋。書評家・永江朗の居住空間学",
+      "description": "京町家の間取りは、ムダなようで意外と合理的 明治の終わりに建てられた町家をリノベーションして住んでいる。入手した時点ですでに何度も改装されていて、さらに屋根と柱を残して全面改装したから往時の面影はほとんどない。それでも間 [&#8230;]",
+      "link": "https://brutus.jp/post-531054/",
+      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1250,19 +1263,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月16日〜11月22日 乙女座の運勢【ブルータス週間占い】",
-      "description": "乙女座の羅針盤 一人の時間を楽しむ 今週は、目の前にあることに集中するのが大切です。乙女座にとって内省の部屋にあたる獅子座に火星（焦燥）と木星（幸運）がいて、週明けの16日に重なり合います。これによって、普段は抑えている [&#8230;]",
-      "link": "https://brutus.jp/post-538900/",
-      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-17T10:32:27.942923",
+  "updatedAt": "2026-11-17T11:00:52.266297",
   "sites": [
     {
       "id": "hachima",
