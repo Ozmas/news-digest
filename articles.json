@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「金持ちで右派や左派はわかるし”貧乏で左派”もわかる。”貧乏で右派”、お前らはただのバカ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462763.html",
+      "pubDate": "2026-11-18T19:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/7/87f38d5c.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -780,19 +793,6 @@
       "link": "https://jin115.com/archives/52462724.html",
       "pubDate": "2026-11-18T03:00:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f88e026c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "アジカン後藤さん「ミセスの政府広報だけど、僕が彼らのマネジメントなら断る。トップアーティストがわざわざこの仕事を引き受ける必要はない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462722.html",
-      "pubDate": "2026-11-18T01:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/73390bb6-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T10:00:51.586970",
+  "updatedAt": "2026-11-18T10:30:46.003562",
   "sites": [
     {
       "id": "hachima",
