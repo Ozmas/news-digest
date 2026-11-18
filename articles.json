@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "今年のゲーム・オブ・ザ・イヤー、まだ発売前の『グランド・セフト・オート6』がノミネートして大荒れ！「何故プラグマタや紅の砂漠が無いんだ」「この茶番を終わらせろ」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462768.html",
+      "pubDate": "2026-11-18T16:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/445da559.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「あんた！飲み会で酒をこぼしたから、家の建て替えが必要！2500万円！払って！」 → 騙し取った金でブランド品を購入していた36歳女性を逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586986.html",
+      "pubDate": "2026-11-18T16:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/004aaed6.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -626,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/84bae882-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【怖すぎ】「今から消えた神社を探しに行きます。万一が起きたら察してください」　→　 翌日、衝撃の恐ろしい事態に！　うわああああ((((( ；ﾟДﾟ)))",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586930.html",
-      "pubDate": "2026-11-18T07:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5b0c3b75.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52462733.html",
       "pubDate": "2026-11-18T00:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/3/c3df7fd7.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ラブ上等』出演者の有名キャバ嬢が逮捕された時のハンドサイン「闇界隈のやばいサインだ」と話題沸騰→本人がどういう意味のポーズなのか回答",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462718.html",
-      "pubDate": "2026-11-17T23:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/41cb3567.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T07:00:59.966163",
+  "updatedAt": "2026-11-18T07:30:44.398274",
   "sites": [
     {
       "id": "hachima",
