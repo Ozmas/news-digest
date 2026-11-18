@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "レタスすら無い！ ケンタッキー新作『欲望まみれの背徳バーガーズ』を食べ比べた結果 →「マッケンチーズ」が濃すぎて飛びそう",
+      "description": "この10月、ケンタッキー・フライド・チキンが43年ぶりの鶏もも肉バーガー「オリジナルチキンバーガーズ」を発表した。ほぼ同時期にマクドナルドが「ザクザクジューシーマック」を発売するなど、いま鶏もも肉バーガーが熱い。 202 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/18/2865352/",
+      "pubDate": "Wed, 18 Nov 2026 06:00:53 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/haitoku06.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】高身長男性限定マッチングアプリが遂に登場！低身長はマチアプから排除される時代になってしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586980.html",
+      "pubDate": "2026-11-18T15:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/ae308003.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "Suica新キャラクター、ついに決まる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462766.html",
+      "pubDate": "2026-11-18T15:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/38e25a23.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -626,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/7/6716da6a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ホロライブのスマホゲーさん、素人すぎる「やらかし」イラスト投稿で物議",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586851.html",
-      "pubDate": "2026-11-18T05:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/2/02dc0984-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +741,6 @@
       "link": "https://jin115.com/archives/52462718.html",
       "pubDate": "2026-11-17T23:00:52+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/1/41cb3567.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "元事務次官「断言する。日本に戦争を仕掛ける国などどこにも無い！」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462712.html",
-      "pubDate": "2026-11-17T22:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/36bd60b9.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1001,19 +1014,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/17/rage-open/",
       "pubDate": "Mon, 16 Nov 2026 23:01:52 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8987-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【福袋2027】ヒールの高さ＆ブーツの丈が選べて2足3499円！ 「靴の福袋」が想像以上に当たりだった",
-      "description": "その日のコーデや季節に応じて、「なんぼあってもいいですからね」と言いたくなるのが靴。ついつい買い集めたくなる人も多いのではないだろうか。 先日、私が購入したのは、2足で3499円という靴の福袋。パンプスとブーツが1足ずつ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/17/2864087/",
-      "pubDate": "Mon, 16 Nov 2026 23:00:06 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/w3_f85854.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T06:00:50.243846",
+  "updatedAt": "2026-11-18T06:30:47.788339",
   "sites": [
     {
       "id": "hachima",
