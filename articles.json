@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "世界の中心から外れた場所に佇む2人の男女。静かな恋の物語、映画『すべて真夜中の恋人たち』を岸井ゆきの × 岨手由貴子が語る",
+      "description": "派手さのない人物をそのまま描く。映画における冬子の輪郭 岸井さんと岨手さんが最初に共有したのは、冬子の感情をわかりやすく説明しないこと。嫌なことがあっても、蓄積されず、どこかへ消えていく。 冬子への距離は、2人で対照的。 [&#8230;]",
+      "link": "https://brutus.jp/post-536804/",
+      "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『信長の野望･飛翔』発売機種がPC/PS5/Switch2に変更！Switch版はキャンセルに",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587104.html",
+      "pubDate": "2026-11-18T19:45:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/7/b7611e01.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【訃報】歌手『太田裕美』さん死去 71歳 代表曲「木綿のハンカチーフ」など",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462780.html",
+      "pubDate": "2026-11-18T19:42:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1d228808.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -93,6 +132,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/db58b155.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【追記あり】フェミニストから批判された『アズレン』衣装、修正された模様…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586993.html",
+      "pubDate": "2026-11-18T17:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/629167e9.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -104,19 +156,6 @@
       "link": "https://jin115.com/archives/52462767.html",
       "pubDate": "2026-11-18T17:00:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/6/8620937f.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】フェミニストから批判された『アズレン』衣装、修正された模様…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586993.html",
-      "pubDate": "2026-11-18T17:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/629167e9.jpg"
     },
     {
       "siteId": "brutus",
@@ -600,19 +639,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5600_still_1920.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【放送事故】人気女性VTuberさん、配信を切り忘れて彼氏との通話や運営・参加者への悪口を垂れ流す　→　ガチで大変なことになり謝罪へ…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586952.html",
-      "pubDate": "2026-11-18T10:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bfbc065f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,19 +806,6 @@
       "link": "https://jin115.com/archives/52462735.html",
       "pubDate": "2026-11-18T05:00:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/023cca82.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【！？】『GTA6』を実況プレイするだけで1600万円貰える求人が登場ｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462724.html",
-      "pubDate": "2026-11-18T03:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f88e026c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1328,19 +1341,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月16日〜11月22日の運勢。星々が告げる運を味方にするヒント【ブルータス週間占い】",
-      "description": "全体の空模様 16日、火星（情熱）と木星（拡大）が獅子座で重なるところから1週間が始まります。世の中の熱気が一気に高まっていきます。映画などエンターテインメントの世界で大旋風が起こったり、最先端のテクノロジーが発表されて [&#8230;]",
-      "link": "https://brutus.jp/post-538885/",
-      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T10:33:38.796859",
+  "updatedAt": "2026-11-18T11:00:51.342891",
   "sites": [
     {
       "id": "hachima",
