@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】PS5版『GTA6』海外版は日本語字幕なしで確定！規制ありの国内版のみ日本語を収録",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587022.html",
+      "pubDate": "2026-11-18T18:30:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35223c9f.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【あっ】ソニーがホロライブ・兎田ぺこらさんに「PS5proとGTA6エディションのコントローラー」をプレゼント！ これって・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462764.html",
+      "pubDate": "2026-11-18T18:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/057a478f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "コンビニオーナー、園児が乗っている送迎車の駐車方法にブチギレて3時間も言いがかりをつけたとして逮捕される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587014.html",
+      "pubDate": "2026-11-18T18:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/0/60a69da0-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -561,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f38036d.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】テレ朝出演の美人気象予報士さん、胸部がはち切れんばかりだとネット騒然！　思った以上にでかくてピタピタｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586946.html",
-      "pubDate": "2026-11-18T09:30:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/abb3b84a.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -585,19 +611,6 @@
       "link": "https://jin115.com/archives/52462744.html",
       "pubDate": "2026-11-18T09:00:48+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/8/88733211.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】X民「英語教師の迷言ウケるｗｗ◯◯◯だって」　→　実は日本の英語学習で一番大事な極意だった！　「超素晴らしい当たり教師」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586941.html",
-      "pubDate": "2026-11-18T09:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/8/88f3aba1.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -767,19 +780,6 @@
       "link": "https://jin115.com/archives/52462722.html",
       "pubDate": "2026-11-18T01:00:04+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/73390bb6-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『バトゥーキ』全巻「100円」セール！全18巻「11,282円」→「1,800円」！『嘘喰い』を描いた迫稔雄先生による、もう一つの代表作！カポエイラを題材にした裏社会の格闘漫画！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462737.html",
-      "pubDate": "2026-11-18T00:30:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/b/db861619.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T09:00:53.581312",
+  "updatedAt": "2026-11-18T09:30:46.099272",
   "sites": [
     {
       "id": "hachima",
