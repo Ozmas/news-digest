@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【税金1.5億円】政府広報が陰謀論系YouTuberを起用して炎上 → 木原官房長官「広告会社の提案で採用した」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587138.html",
+      "pubDate": "2026-11-18T23:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/73f58852.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +533,6 @@
       "link": "http://blog.esuteru.com/archives/10586971.html",
       "pubDate": "2026-11-18T14:00:01+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/b/3b64dff9-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "インドの交通事故の死者数が毎年ヤバイ理由、この動画を見ると一発でわかると話題に　頭文字Dかよ…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586969.html",
-      "pubDate": "2026-11-18T13:40:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/0674eea1-s.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T14:00:51.735010",
+  "updatedAt": "2026-11-18T14:30:43.909797",
   "sites": [
     {
       "id": "hachima",
