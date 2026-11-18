@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【文春】ドラマ『VIVANT』中国の抗議で最終回が改変されたとの報道！TBS幹部が中国東京に呼び出され…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587106.html",
+      "pubDate": "2026-11-18T20:30:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d3e4677f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】『グランド・セフト・オート6』レビュー解禁！メタスコアは驚愕の99点「現世代コンソールの頂点」「あらゆる面において傑作」「まさに奇跡」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587113.html",
+      "pubDate": "2026-11-18T20:24:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e74ce6e5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【訃報】歌手・太田裕美さんが死去、71歳　「木綿のハンカチーフ」「赤いハイヒール」などヒット多数",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587108.html",
+      "pubDate": "2026-11-18T20:10:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/24d6e436.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『GetBackers -奪還屋-』新作アニメが公開決定！PV公開！→しかし、最悪すぎるものが映ってしまい、ファンが絶望・・・\"悪夢\"は見れたかよ？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462777.html",
+      "pubDate": "2026-11-18T20:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/b/7b91d6b4.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -496,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5ce2eb7f.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【！？】『名探偵プリキュア！』、まさかの『ストリートファイター6』とコラボ決定ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586958.html",
-      "pubDate": "2026-11-18T11:30:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/ab6f83d8.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -520,19 +559,6 @@
       "link": "https://casabrutus.com/categories/fashion/496261",
       "pubDate": "Wed, 18 Nov 2026 02:25:10 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "漫画家さん、大手出版社の漫画編集者からヤバイパワハラを受けていたと告白　本人はPTSDになってしまったという…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586957.html",
-      "pubDate": "2026-11-18T11:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/0/70cb8d69-s.png"
     },
     {
       "siteId": "jin",
@@ -585,19 +611,6 @@
       "link": "https://jin115.com/archives/52462747.html",
       "pubDate": "2026-11-18T10:30:39+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f3db0a82.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【Kindleセール】伝説の野球漫画『ドリームス』全巻11円！『バトゥーキ』全巻100円、漫画『シュタゲ』『宇宙よりも遠い場所』全巻99円、ほか『桜通信』など11円激安セールまとめ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586956.html",
-      "pubDate": "2026-11-18T10:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/1/31d18ecf.jpg"
     },
     {
       "siteId": "jin",
@@ -793,19 +806,6 @@
       "link": "https://jin115.com/archives/52462736.html",
       "pubDate": "2026-11-18T06:00:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb6f74c7.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "メルカリ、「Google Play ストア」から消滅",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462735.html",
-      "pubDate": "2026-11-18T05:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/023cca82.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T11:00:51.342891",
+  "updatedAt": "2026-11-18T11:30:45.273210",
   "sites": [
     {
       "id": "hachima",
