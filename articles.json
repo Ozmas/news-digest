@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『GTA6』海外版、ガチでヤバすぎる！！死体を撃つとグロく損壊するようになる！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462793.html",
+      "pubDate": "2026-11-19T05:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/6/e657cc82.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "auが伝説のケータイ「INFOBAR」を復活！あえてネットが使えない「通話・SMS」専用機に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587072.html",
+      "pubDate": "2026-11-19T05:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bf470f7c.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -457,19 +483,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/yoshinoya5.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【神展開】Suica新キャラクター、選ばれなかったA案とC案も今後の事業で活用へ！JR東日本社長「同窓会ができたら…」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587011.html",
-      "pubDate": "2026-11-18T17:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/db58b155.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -715,19 +728,6 @@
       "link": "https://artscape.jp/article/83257/",
       "pubDate": "Wed, 18 Nov 2026 02:00:05 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ウーバー配達員さん、バスタオル一枚や下着姿で出てくる女性と何度も遭遇していた！体験者「◯◯に配達するときは特に多い」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462747.html",
-      "pubDate": "2026-11-18T10:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f3db0a82.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T20:00:54.417220",
+  "updatedAt": "2026-11-18T20:30:50.189050",
   "sites": [
     {
       "id": "hachima",
