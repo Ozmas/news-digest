@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "マクドナルド、今後の商品で「ボ〇〇ー〇 〇〇〇〇」を告知！これはまさか！？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462782.html",
+      "pubDate": "2026-11-18T22:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/e/6e438b4c.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -767,19 +780,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/18/yakinikusakaba/",
       "pubDate": "Tue, 17 Nov 2026 23:01:41 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_6542-960x767.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】お笑いライブ中に◯◯した常連客、主催者から出禁を言い渡される「芸人さんがかわいそう」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462738.html",
-      "pubDate": "2026-11-18T08:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca2599cc.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T13:00:50.190370",
+  "updatedAt": "2026-11-18T13:30:45.863755",
   "sites": [
     {
       "id": "hachima",
