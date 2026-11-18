@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『フランケン・ふらん』全巻「99円」セール！全8巻「7,040円」→「792円」！『名探偵マーニー』作者の代表作！『AIの遺電子』も全巻「99円」！今読むべきAIとの在り方",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462790.html",
+      "pubDate": "2026-11-19T08:20:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2d017165.jpg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】第13回 ソラのねマルシェは「SUMIDA“ととのう”PARK」11月21日（土）錦糸公園にて。",
+      "description": "2026年11月21日（土）は錦糸公園ふれあい広場にて「第13回 ソラのねマルシェ　SUMIDA“ととのう”PARK」が開催されます。 今回の「ソラのねマルシェ」はサウナや銭湯文化をはじめ、地域の商店街や個性豊かなお店な [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/19/soranonemarche13th/",
+      "pubDate": "Wed, 18 Nov 2026 23:01:37 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/9feb10c0f2e1e0133178949f4452e49f-1086x1536-1-1024x767.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「底辺ネトウヨどころか日本人の90％以上に刺さる言葉が“コレ”」→右派と左派の大激突に発展",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462792.html",
+      "pubDate": "2026-11-19T08:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/0229bd7b.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +52,19 @@
       "link": "https://rocketnews24.com/2026/11/19/2865505/",
       "pubDate": "Wed, 18 Nov 2026 23:00:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/pass.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】吉野家さん、ついに『あのメニュー』で本気を出すｗｗｗｗ　「やばい美味すぎ」「写真よりデカい」「コスパ最強」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587194.html",
+      "pubDate": "2026-11-19T08:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/7816e0a9.jpg"
     },
     {
       "siteId": "brutus",
@@ -470,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e74ce6e5.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【訃報】歌手・太田裕美さんが死去、71歳　「木綿のハンカチーフ」「赤いハイヒール」などヒット多数",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587108.html",
-      "pubDate": "2026-11-18T20:10:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/24d6e436.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -678,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/10b3305f.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「ロボットアニメが衰退した理由はコレです」→ガチ効きする人続出ｗｗｗｗｗ「事実陳列罪で逮捕」「本当のことを言うのはやめろ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462758.html",
-      "pubDate": "2026-11-18T13:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b94ac097.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -702,19 +728,6 @@
       "link": "https://rocketnews24.com/2026/11/18/2865348/",
       "pubDate": "Wed, 18 Nov 2026 03:03:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_0544.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】自分達ではサイバー攻撃に対応しきれない国”日本”誕生　米グーグルが防御AIを提供へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462756.html",
-      "pubDate": "2026-11-18T12:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b9df3561.jpg"
     },
     {
       "siteId": "brutus",
@@ -1575,19 +1588,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8468-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】信じたくない…。そんな声が沢山寄せられています。両国のヤオケンが年内での閉店を発表しました。",
-      "description": "今日は今までにない沢山の方から情報提供を頂いている閉店のニュースをお伝えします。 両国3丁目、京葉道路沿い。昔から両国住民の食卓を支えてきている「ヤオケン」 2026年11月に入り、連日読者様から悲痛な声が届きはじめまし [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/11/09/yaoken-close/",
-      "pubDate": "Sun, 08 Nov 2026 23:01:33 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/849745054_30284333524489480_3514527567405473627_n-e1794112889230.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T23:00:55.142163",
+  "updatedAt": "2026-11-18T23:30:44.872781",
   "sites": [
     {
       "id": "hachima",
