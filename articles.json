@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「サラダバーのカレーが美味すぎる」と話題のステーキハウス『毎日牧場』へ行ってみた感想 → 凄すぎて…食べ放題で大丈夫？",
+      "description": "サラダバーを注文した時、カレーが用意されているとテンションが上がってしまうのは私だけではないはず。どのお店もレベルが高いので、メイン料理そっちのけで堪能してしまう。 さて静岡県に、サラダバーのカレーが美味すぎる！　と話題 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/18/2860940/",
+      "pubDate": "Wed, 18 Nov 2026 02:00:14 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/43327.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ウーバー配達員さん、バスタオル一枚や下着姿で出てくる女性と何度も遭遇していた！体験者「◯◯に配達するときは特に多い」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462747.html",
+      "pubDate": "2026-11-18T10:30:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/3/f3db0a82.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【Kindleセール】伝説の野球漫画『ドリームス』全巻11円！『バトゥーキ』全巻100円、漫画『シュタゲ』『宇宙よりも遠い場所』全巻99円、ほか『桜通信』など11円激安セールまとめ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586956.html",
+      "pubDate": "2026-11-18T10:30:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/1/31d18ecf.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -522,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/1/31b7ab58.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】『ピクミン4 スイッチ2エディション+DLC』に低評価爆撃！「使いまわしの追加コンテンツなのに高すぎる」「なぜか初代スイッチよりロードが長い」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586887.html",
-      "pubDate": "2026-11-17T22:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/a/8ab317a3.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/11/17/286463/",
       "pubDate": "Tue, 17 Nov 2026 09:00:16 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/gkaikatsu.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本のスマホの位置情報、海外で売買されてしまう　首相官邸や防衛施設を出入りする記録が流出",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462707.html",
-      "pubDate": "2026-11-17T17:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/9/0907526c.jpg"
     },
     {
       "siteId": "brutus",
@@ -1079,19 +1092,6 @@
       "link": "https://rocketnews24.com/2026/11/16/2864448/",
       "pubDate": "Mon, 16 Nov 2026 06:30:04 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5499_1920.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "このご時世に110円!? 祖父が好きだった「御座候」の回転焼に感じる心意気",
-      "description": "先日、広島で「御座候（ござそうろう）」というお店の前を通った時に、母から「御座候、おじいちゃんが好きだったのよね〜」という話を聞いた。 大きめの回転焼きが、なんとこのご時世に税込110円……!? 心配になってしまうほどお [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/16/2861907/",
-      "pubDate": "Mon, 16 Nov 2026 06:00:41 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo.jpeg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T01:30:43.080181",
+  "updatedAt": "2026-11-18T02:00:50.365040",
   "sites": [
     {
       "id": "hachima",
