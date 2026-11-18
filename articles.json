@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「the TRUE DIARY show」第22回：写真家・題府基之",
+      "description": "9月3日（木） 曇り。 10時半、二度寝からの起床。BRUTUSから、この日記のオファーメールが来た。今年2月から、古本屋兼アーティストの小林優平とゆるく始めたポッドキャストを聴いてくれているらしい。 ここ最近、仕事の依 [&#8230;]",
+      "link": "https://brutus.jp/post-531891/",
+      "pubDate": "Wed, 18 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1328,19 +1341,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月16日〜11月22日 牡羊座の運勢【ブルータス週間占い】",
-      "description": "牡羊座の羅針盤 好きなことに思いきり没頭する 16日に、支配星である火星（意欲）に木星（拡大）が重なります。牡羊座持ち前の行動力に強いブーストがかかる週。挑戦したいことがあるなら、今こそ集中して取り組むチャンスです。 た [&#8230;]",
-      "link": "https://brutus.jp/post-538887/",
-      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T09:30:46.099272",
+  "updatedAt": "2026-11-18T10:00:51.586970",
   "sites": [
     {
       "id": "hachima",
