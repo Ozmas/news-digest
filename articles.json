@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "コンビニ店長「若者が来ないし食べ物も売れない！コンビニ 業界は終わりに向かってます」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586983.html",
+      "pubDate": "2026-11-18T15:30:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/7/67af073d-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -650,19 +663,6 @@
       "link": "https://jin115.com/archives/52462736.html",
       "pubDate": "2026-11-18T06:00:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb6f74c7.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スクウェア3大悪女が令和になってぶち抜けた「一大悪女」にアップデートされたらしい",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586854.html",
-      "pubDate": "2026-11-18T06:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/7/6716da6a.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T06:30:47.788339",
+  "updatedAt": "2026-11-18T07:00:59.966163",
   "sites": [
     {
       "id": "hachima",
