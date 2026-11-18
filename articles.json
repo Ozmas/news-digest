@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】フェミニストから批判された『アズレン』衣装、修正された模様…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586993.html",
+      "pubDate": "2026-11-18T17:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/629167e9.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "一本の線に、手仕事あり。〈NULABEL〉のワークシャツ：Brutus Best Bets",
+      "description": "一本の線に、手仕事あり シルクスクリーンで刷ったストライプに、わざわざ職人が刷毛で色を重ねる。〈ニューレーベル〉のワークシャツは、そんな手間から生まれた。整った線にかすれや濃淡、微妙な揺らぎが加わり、一枚ごとに違う表情を [&#8230;]",
+      "link": "https://brutus.jp/post-539343/",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【TGA2026】ソニー、12年ぶりにGOTYノミネートを逃してしまう…『ウルヴァリン』『マラソン』『サロス』『マーベル闘魂』などを発売したのに評価されず",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10586990.html",
+      "pubDate": "2026-11-18T16:30:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/6/1652faa6.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "芦沢啓治とノーム・アーキテクツが描き出す、自然とものづくりの物語。〈カリモクケース〉による展覧会が開催中！",
+      "description": "〈カリモク家具〉が展開する〈カリモクケース〉による展覧会『Forest Conversations』が、2026年12月21日まで東京・西麻布の2会場、〈KARIMOKU RESEARCH CENTER〉と〈カリモク コモンズ トウキョウ〉で開催中。建築家・芦沢啓治とノーム・アーキテクツがディレクションを手がけ、自然素材に刻まれた時間と、森から家具へと続くものづくりの物語を紐解く。",
+      "link": "https://casabrutus.com/categories/design/496713",
+      "pubDate": "Wed, 18 Nov 2026 07:25:52 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -561,19 +613,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_6542-960x767.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】コストコの180円ホットドッグ、美味いのになんで安いんだろう？　→　あまりに切実な命に関わる理由だった……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586938.html",
-      "pubDate": "2026-11-18T08:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6eadfcd7.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -611,19 +650,6 @@
       "link": "https://brutus.jp/post-521289/",
       "pubDate": "Tue, 17 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【GOTY】「The Game Awards」ゲーム・オブ・ザ・イヤーのノミネート作品が発表！　もちろん『GTA6』『時のオカリナ』ほかに◯◯◯など",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586933.html",
-      "pubDate": "2026-11-18T07:30:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/857a9c34.png"
     },
     {
       "siteId": "casabrutus",
@@ -1315,19 +1341,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月16日〜11月22日 牡牛座の運勢【ブルータス週間占い】",
-      "description": "牡牛座の羅針盤 居場所を守りつつ自立する 月が牡牛座にとって社会的立場を示す部屋、水瓶座にいるところから週が始まります。成果が出やすくなっているところに、基礎や基盤を表す部屋、獅子座で火星（意欲）と木星（幸運）が重なりま [&#8230;]",
-      "link": "https://brutus.jp/post-538889/",
-      "pubDate": "Sun, 15 Nov 2026 21:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1417,19 +1430,6 @@
       "link": "https://www.buzzfeed.com/jp/ayahara/jyujyutsu-hotaru1112",
       "pubDate": "Sat, 14 Nov 2026 17:31:02 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/04/thumb/CSCT_bksO.jpg?crop=660:440;38,0&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "村上隆のアニメ作品ともつながりが？ コウノトリが飛んでくる崖地の光景。【今日の名所江戸百景 by 村上隆】",
-      "description": "村上隆が歌川広重の「名所江戸百景」をオマージュしたシリーズを毎週末に紹介する連載【今日の名所江戸百景 by 村上隆】。西洋の画家たちに「認知革命」を引き起こした日本美術の衝撃を村上隆が読み解きます。",
-      "link": "https://casabrutus.com/categories/art/491347",
-      "pubDate": "Sat, 14 Nov 2026 22:00:32 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T07:30:44.398274",
+  "updatedAt": "2026-11-18T08:00:56.863854",
   "sites": [
     {
       "id": "hachima",
