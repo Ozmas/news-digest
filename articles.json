@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2177話目「上司と部下の狭間で⑨」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/18/2865454/",
+      "pubDate": "Wed, 18 Nov 2026 12:00:15 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2177a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "アーティスト・井上涼に聞いた、推しミュージアムの推しコレクション",
+      "description": "高松市美術館（香川）の 《電気服》 どんな感想を持ってもいったん否定せず大事にするのも、鑑賞方法の一つかなと思います。約200個の電球でできた《電気服》は、初めて見た時にスイッチが入る瞬間のバチンッという音とギラギラな光 [&#8230;]",
+      "link": "https://brutus.jp/post-536526/",
+      "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1042,19 +1068,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【東京初進出】営業は「平日昼の3時間のみ」！ 仙台の行列店『肉そば藤七 半蔵門店』の山形そばがワイルドすぎて最高",
-      "description": "少々ややこしいが、つい先日訪れた宮城県仙台市で人生初の「山形そば」を食べた。色が濃く太いそばは食べ応え抜群で、ちょっとした中毒性を兼ね備えた激ウマな一杯であった。 「ああ、東京でも山形そばが食べられないかな～？」と探して [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/17/2862604/",
-      "pubDate": "Tue, 17 Nov 2026 01:00:56 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hanzo02.jpeg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1286,19 +1299,6 @@
       "description": "とことん自然体で、とことんドラマティック。いつもの姿が収められていました 「ミラノ・コルティナオリンピックへ出発する前の歩夢に会う機会があって、“とことんドラマティックな男だな”と伝えました。こちらもハラハラしながら見守 [&#8230;]",
       "link": "https://brutus.jp/post-539389/",
       "pubDate": "Mon, 16 Nov 2026 01:56:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "アオイヤマダ、野田クリスタルら4名が語る『AYUMU』と平野歩夢",
-      "description": "パフォーミングアーティスト・アオイヤマダ あの頃も今も、歩夢さんの滑りを観ると、また今日から頑張ろうと思えます 「すごく疲れていて、やるべきことも雑になりそうな日でした。でも、移動中にこの作品を観ていたらシャキッとして。 [&#8230;]",
-      "link": "https://brutus.jp/post-539421/",
-      "pubDate": "Mon, 16 Nov 2026 01:55:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T11:30:45.273210",
+  "updatedAt": "2026-11-18T12:00:54.204149",
   "sites": [
     {
       "id": "hachima",
