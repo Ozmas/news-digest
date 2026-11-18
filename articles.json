@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『GTA6』メタスコア、マジのガチでやばいことになる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462783.html",
+      "pubDate": "2026-11-18T21:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/e/5e97f911.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「俺はヤクザの組長だ」病院で怒鳴るなどして暴れた組長の男と子分2人逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587125.html",
+      "pubDate": "2026-11-18T21:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e707a38f.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -509,19 +535,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b9df3561.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】「金がない人向け、マックの注文方法を教えます」　→　ガチな超お得ランチすぎて5万いいね突破ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586960.html",
-      "pubDate": "2026-11-18T12:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/c/9c914858.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -819,19 +832,6 @@
       "link": "https://rocketnews24.com/2026/11/18/2860074/",
       "pubDate": "Tue, 17 Nov 2026 22:00:05 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-133.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "元ジャンポケ斉藤慎二被告、懲役4年の判決に即日控訴「一貫して無罪主張」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462736.html",
-      "pubDate": "2026-11-18T06:00:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/b/fb6f74c7.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T12:00:54.204149",
+  "updatedAt": "2026-11-18T12:30:54.686607",
   "sites": [
     {
       "id": "hachima",
