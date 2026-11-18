@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "吉野家の福箱2027の先着限定品が実は当たり年な理由 / あるいは、6年福袋を買い続けたら『ONE PIECE』みたいになった話",
+      "description": "飽きたこともあった。嫌いになりかけたことも。しかし、結局は離れられないのが吉野家である。吉野家、それは愛。吉野家は私（中澤）がいないとダメなんだ！ そんなわけで、2020年から吉野家の福箱を購入して6年目になる私。今年も [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/18/2865187/",
+      "pubDate": "Wed, 18 Nov 2026 09:00:02 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/yoshinoya5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【神展開】Suica新キャラクター、選ばれなかったA案とC案も今後の事業で活用へ！JR東日本社長「同窓会ができたら…」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587011.html",
+      "pubDate": "2026-11-18T17:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/b/db58b155.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -587,19 +613,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/e16.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】「なんか乳頭みたいな目玉焼き作ったんだけど」パシャッ　→　お前らの想像の300倍以上リアルな◯首だったｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586940.html",
-      "pubDate": "2026-11-18T08:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9f88ae78.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1014,19 +1027,6 @@
       "link": "https://rocketnews24.com/2026/11/17/2862604/",
       "pubDate": "Tue, 17 Nov 2026 01:00:56 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hanzo02.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "岐阜県民が愛する「栗きんとん」を超手抜きで再現してみた / 材料2種類、1個約90円、調理時間は約10分！",
-      "description": "栗きんとんといえば、おせち料理を思い浮かべる人が多いだろう。 しかし、岐阜県出身の私（夏野）にとって、栗きんとんといえば、栗を使った茶菓子のこと。秋になると食べたくなる、ほっくりとした和菓子である。 そろそろ今年の栗きん [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/17/2863059/",
-      "pubDate": "Tue, 17 Nov 2026 00:00:44 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kurikinton-29-1.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T08:30:44.775803",
+  "updatedAt": "2026-11-18T09:00:53.581312",
   "sites": [
     {
       "id": "hachima",
