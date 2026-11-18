@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【中野24歳コンカフェ店員刺殺事件】自称コンサル・元スロプロの容疑者「4年間で800万円ぐらい使った」「付き合えないと分かり犯行に及んだ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587135.html",
+      "pubDate": "2026-11-18T22:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/9/b9c2b694.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "超人気セクシーコスプレイヤー・伊織もえさん、とんでもないものを購入して、ファンが騒然・・・やばすぎるだろ・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462776.html",
+      "pubDate": "2026-11-18T21:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/01bc3766.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "三菱UFJ銀行で650万件の顧客情報漏えい！委託先に不正アクセス　ついみメガバンクまで情報流出",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587130.html",
+      "pubDate": "2026-11-18T21:30:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/737e6cb0.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -483,32 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b94ac097.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "東京都中野区で接客業の女性（24）の首を刺した39歳男性のスレッズ垢が特定される　結構暴力沙汰を起こす、ガールズバーなどに通って出禁される人だった…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586962.html",
-      "pubDate": "2026-11-18T12:40:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/1/71b1a584-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【痛快】コンサル「セフレが結婚したと聞いて良い気分。俺にとって女はオ◯ホだから婿より男として格上」　→　X民が最高にクールな返しをしてネット大絶賛ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586964.html",
-      "pubDate": "2026-11-18T12:20:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/99143408.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -806,19 +819,6 @@
       "link": "https://casabrutus.com/categories/design/495257",
       "pubDate": "Tue, 17 Nov 2026 22:00:53 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中野区でコンカフェ嬢を刺した弱おじ、事件当日に「きもい、今日はつまらなかった」と言われていた",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462740.html",
-      "pubDate": "2026-11-18T07:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/84bae882-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T12:30:54.686607",
+  "updatedAt": "2026-11-18T13:00:50.190370",
   "sites": [
     {
       "id": "hachima",
