@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "詐欺師「現金700万円持ってきてください」 男性「騙されたふりして行ってみよ」 → 結果ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462771.html",
+      "pubDate": "2026-11-19T01:00:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/43bbc7d3.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ゲットバッカーズ 奪還屋』再始動がまさかの「AIアニメ」で大炎上ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587141.html",
+      "pubDate": "2026-11-19T01:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/733e1321-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +522,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/haitoku06.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】高身長男性限定マッチングアプリが遂に登場！低身長はマチアプから排除される時代になってしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586980.html",
-      "pubDate": "2026-11-18T15:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/ae308003.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://rocketnews24.com/2026/11/18/2865189/",
       "pubDate": "Wed, 18 Nov 2026 01:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5600_still_1920.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "EU諸国、不法移民を“とある場所”へ追放する計画を始動",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462748.html",
-      "pubDate": "2026-11-18T09:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f38036d.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T16:00:57.555737",
+  "updatedAt": "2026-11-18T16:30:48.377451",
   "sites": [
     {
       "id": "hachima",
