@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【要注意】2026年版『日本で最も使われるパスワードTOP20』発表 → 1位は「pass1111」9位は「Onepiece1」",
+      "description": "個人情報流出に関する情報が後を絶たない。ここまで来ると「日本人全員、個人情報が流出している」と思えてしまうが、まだしばらくはこの流れは続きそう。というか、どうすれば解決なのかさえもよくわかっていない。 2026年11月、 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/19/2865505/",
+      "pubDate": "Wed, 18 Nov 2026 23:00:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/pass.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "グルマン温故知新：恵比寿〈焼鳥RICHARD〉正統派焼き鳥×西海岸食カルチャー",
+      "description": "焼鳥RICHARD（恵比寿） 正統派焼き鳥×西海岸食カルチャー 珍しい店名は、主・沖村恭兵さんのミドルネーム。ロサンゼルス育ちの日系アメリカ人で、23歳で日本のIT企業に就職。7年の勤務後「AIにできない仕事を」と、焼き [&#8230;]",
+      "link": "https://brutus.jp/post-538027/",
+      "pubDate": "Wed, 18 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -11,7 +37,7 @@
       "title": "顧客約470万人の個人情報ほぼ全て漏らした楽天証券、弁護士が集団訴訟受付サイトを立ち上げ！　※最悪のタイミングで楽天証券リアル店舗が渋谷にオープン",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10587191.html",
-      "pubDate": "2026-11-19T07:30:09+09:00",
+      "pubDate": "2026-11-19T07:30:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fb2195de.jpg"
     },
     {
@@ -37,7 +63,7 @@
       "title": "【画像】日本版『GTA6』とされるえちちゲーム、ついに見つかってしまうｗｗｗｗｗ　海外勢も大絶賛",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10587190.html",
-      "pubDate": "2026-11-19T07:00:40+09:00",
+      "pubDate": "2026-11-19T07:00:23+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/f/cff12904.jpg"
     },
     {
@@ -1042,19 +1068,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/43196_0.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "コロッケそばアリorナシ？ 派閥争いに終止符を打つかもしれない本家しぶそばのコロッケそばが実は唯一無二",
-      "description": "犬派or猫派、きのこ派orたけのこ派、マクドナルドのチキンナゲットソース・バーベキュー派orマスタード派！　世の中には様々な派閥争いが存在するけど、意外と熱いのが「コロッケそばアリorナシ」だ。賛も否も強火になりがちな食 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/17/2864409/",
-      "pubDate": "Tue, 17 Nov 2026 02:30:38 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/sibusoba.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1312,19 +1325,6 @@
       "description": "頭の中のイメージを未知の技や曲に変えていく 歩夢の滑りは、言葉以上に語ってくれる",
       "link": "https://brutus.jp/post-539368/",
       "pubDate": "Mon, 16 Nov 2026 01:57:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "松田翔太が観て語る『AYUMU』と平野歩夢",
-      "description": "とことん自然体で、とことんドラマティック。いつもの姿が収められていました 「ミラノ・コルティナオリンピックへ出発する前の歩夢に会う機会があって、“とことんドラマティックな男だな”と伝えました。こちらもハラハラしながら見守 [&#8230;]",
-      "link": "https://brutus.jp/post-539389/",
-      "pubDate": "Mon, 16 Nov 2026 01:56:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T22:30:47.528337",
+  "updatedAt": "2026-11-18T23:00:55.142163",
   "sites": [
     {
       "id": "hachima",
