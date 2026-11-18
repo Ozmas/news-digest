@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "マツコ・デラックスさん、完結しないとある漫画に懇願「私が生きている間に終わらせていただけませんか？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587153.html",
+      "pubDate": "2026-11-19T01:30:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dc89cac3.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "http://blog.esuteru.com/archives/10586986.html",
       "pubDate": "2026-11-18T16:00:38+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/004aaed6.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "コンビニ店長「若者が来ないし食べ物も売れない！コンビニ 業界は終わりに向かってます」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10586983.html",
-      "pubDate": "2026-11-18T15:30:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/7/67af073d-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-18T16:30:48.377451",
+  "updatedAt": "2026-11-18T17:00:55.679116",
   "sites": [
     {
       "id": "hachima",
