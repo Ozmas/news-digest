@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性「障害者向けマッチングアプリで出会った経営者の方とランチ行ってきます！」 → 相手が実は生活保護と判明して発狂 → 衝撃の展開にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462832.html",
+      "pubDate": "2026-11-19T23:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/c/ac74d62f-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【は？】中国、米国、ロシアが『平和宣言』発表！「国際刑事裁判所(ICC)は管轄権を乱用してはならない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587427.html",
+      "pubDate": "2026-11-19T22:30:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/293e01b3.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -548,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/0/e0185256.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ラーメン『壱角家』、2億円で集客したのに全然客が来ず大ピンチ　→　ネット中からボロクソ冷笑食レポが殺到してしまう…　「食べ物で遊んだ罰」「水が一番うまい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587233.html",
-      "pubDate": "2026-11-19T13:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/f/dfd5f158.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -780,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/11/19/2864745/",
       "pubDate": "Thu, 19 Nov 2026 00:00:59 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-5-7.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【確認推奨】医師「”怪しい危険な民間療法”の一覧、これです」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462796.html",
-      "pubDate": "2026-11-19T09:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/8/b85afbcc.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T13:30:48.683145",
+  "updatedAt": "2026-11-19T14:00:55.915635",
   "sites": [
     {
       "id": "hachima",
