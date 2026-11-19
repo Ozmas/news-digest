@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "マルウェア騒動で炎上した大人気ゲーム『勝利の女神：NIKKE』、ガチでヤバ過ぎる事態に発展・・・日本の行政ブチギレへ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462815.html",
+      "pubDate": "2026-11-19T13:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/0/e0185256.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ラーメン『壱角家』、2億円で集客したのに全然客が来ず大ピンチ　→　ネット中からボロクソ冷笑食レポが殺到してしまう…　「食べ物で遊んだ罰」「水が一番うまい」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587233.html",
+      "pubDate": "2026-11-19T13:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/f/dfd5f158.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "とある成年向け漫画家、家賃滞納・ライフライン全停止などでヤバ過ぎる状態になっていた…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587223.html",
+      "pubDate": "2026-11-19T12:40:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75fb1cc6.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -102,7 +141,7 @@
       "title": "【画像】漫画『チ。』公式が、『チ。』が出来るまでのプロット（構想企画書）を公開　→　マジで創作の勉強になるとネット大絶賛",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10587213.html",
-      "pubDate": "2026-11-19T11:30:42+09:00",
+      "pubDate": "2026-11-19T11:30:50+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c94f2c8f.jpg"
     },
     {
@@ -652,32 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/43bbc7d3.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ゲットバッカーズ 奪還屋』再始動がまさかの「AIアニメ」で大炎上ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587141.html",
-      "pubDate": "2026-11-19T01:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/733e1321-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "妻「旦那が浮気相手を家に連れ込んでやがる！せやっ！！」⇒ とんでもない方法で大儲けしてしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587081.html",
-      "pubDate": "2026-11-19T00:30:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1ce07216.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +741,6 @@
       "link": "https://jin115.com/archives/52462776.html",
       "pubDate": "2026-11-18T21:30:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/01bc3766.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『GTA6』メタスコア、マジのガチでやばいことになる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462783.html",
-      "pubDate": "2026-11-18T21:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/e/5e97f911.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T03:30:49.785049",
+  "updatedAt": "2026-11-19T04:00:54.633172",
   "sites": [
     {
       "id": "hachima",
