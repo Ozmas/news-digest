@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "Suicaの新キャラ「名前募集します！」→あの名前が応募できず・・・いったいなぜ？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462852.html",
+      "pubDate": "2026-11-20T08:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26cb34de-s.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "芸術は、戦争を止められますか？アーティスト・藤井 光による展覧会で、美術の新たな可能性を探る",
+      "description": "「芸術は戦争を止められるか。そう問われると、言葉を失いますね。ただ一つ言えるのは、芸術とは来る戦争への備えなのではないかと。何かと何かが結びついてある言説が生まれ、それがエネルギーを生み、人々が排除され、暴力が増大してい [&#8230;]",
+      "link": "https://brutus.jp/post-539678/",
+      "pubDate": "Thu, 19 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "Netflixの人気サスペンス『地面師たち』、新シリーズ制作決定！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587485.html",
+      "pubDate": "2026-11-20T07:30:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/336b92bd.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -483,19 +522,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/s1_40d0b4.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ドルフロ新作、協力型マルチプレイのPvEシューター『ガールズフロントライン：ブルーコブナント』2027年リリース決定！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587393.html",
-      "pubDate": "2026-11-19T19:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f4f603dc.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/11/19/2865704/",
       "pubDate": "Thu, 19 Nov 2026 05:00:16 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2750-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "マルウェア騒動で炎上した大人気ゲーム『勝利の女神：NIKKE』、ガチでヤバ過ぎる事態に発展・・・日本の行政ブチギレへ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462815.html",
-      "pubDate": "2026-11-19T13:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/0/e0185256.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1328,19 +1341,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "韓国工芸の手仕事の美しさを、見て、触れて、体感する。〈ソウル工芸博物館〉",
-      "description": "韓国工芸の手仕事の美しさを、見て、触れて、体感する 2021年に開館した公立の工芸専門ミュージアム。北村（プクチョン）エリアの面積約15,000㎡という広大な敷地に、歴史的建造物を改築した複数の建物からなる。「工芸を生活 [&#8230;]",
-      "link": "https://brutus.jp/post-537174/",
-      "pubDate": "Mon, 16 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T22:30:46.343290",
+  "updatedAt": "2026-11-19T23:00:52.593574",
   "sites": [
     {
       "id": "hachima",
