@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2750回「ニュー」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/11/19/2865704/",
+      "pubDate": "Thu, 19 Nov 2026 05:00:16 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2750-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【！？】ゲームでしか見たこと無いような『殴られ屋』が現るｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587227.html",
+      "pubDate": "2026-11-19T13:30:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/d/8d11d520-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -665,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/0/80b61265.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "マツコ・デラックスさん、完結しないとある漫画に懇願「私が生きている間に終わらせていただけませんか？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587153.html",
-      "pubDate": "2026-11-19T01:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dc89cac3.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1042,19 +1055,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "こだわりの敗北！ 思い切った路線変更をしだした妻！　四コマサボタージュFB第133回「夫との面会」",
-      "description": "最近ラーメン食べてないなぁ……。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/18/2860074/",
-      "pubDate": "Tue, 17 Nov 2026 22:00:05 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-133.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1269,7 +1269,7 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「えっ！？」「お揃い…」高橋文哉のプライベートショットにSNS騒然「目立つでしょ！」「彼氏感やばい」",
+      "title": "「えっ！？」「お揃い…」高橋文哉のプライベートショットに「目立つでしょ！」「彼氏感やばい」と反響",
       "description": "俳優の高橋文哉さんが11月14日にInstagramを更新。東京ディズニーランドを訪れた際のプライベートショットを披露し、「お揃いコーデかわいすぎる」「彼氏感やばい」と反響が寄せられています。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/yukiadachi/takahashifumiya-8loom1114",
       "pubDate": "Mon, 16 Nov 2026 05:31:03 -0500",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T04:30:45.897115",
+  "updatedAt": "2026-11-19T05:00:51.983654",
   "sites": [
     {
       "id": "hachima",
