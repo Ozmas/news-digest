@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【コラム】アンソロピック上場で初めてIPO抽選に申し込んでみたけど、そんな自分が「靴磨きの少年」にも思える話",
+      "description": "気づけば、AIが当たり前になっている。何かを作るとかまではしなくとも、検索レベルでは使っている人が多いのではないだろうか。なにせ、先日実家に帰った時、らくらくスマホを使いこなせてないうちのオカンですらAIが便利という話を [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/19/2866159/",
+      "pubDate": "Thu, 19 Nov 2026 08:12:20 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/nakazawa4.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "くら寿司、中止になっていた『ちいかわ 寿司皿』100万枚を抽選で配布へ　転売祭りは防げるか？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587275.html",
+      "pubDate": "2026-11-19T17:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0b6beabb.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -691,19 +717,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "顧客約470万人の個人情報ほぼ全て漏らした楽天証券、弁護士が集団訴訟受付サイトを立ち上げ！　※最悪のタイミングで楽天証券リアル店舗が渋谷にオープン",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587191.html",
-      "pubDate": "2026-11-19T07:30:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fb2195de.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1027,19 +1040,6 @@
       "link": "https://rocketnews24.com/2026/11/18/2865189/",
       "pubDate": "Wed, 18 Nov 2026 01:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5600_still_1920.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【福袋2027】3564円の人気クッキー缶が入って3890円！ 激安すぎる「お菓子詰め合わせ福袋」には理由があった",
-      "description": "この世で最も心躍る言葉のひとつといえば「お菓子の詰め合わせ」かもしれない。どんなお菓子がどのぐらい入っているのか、想像するだけでワクワクするというものだ。 そんな私が楽天市場で購入したのが、ecoeatというお店の「福袋 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/18/2863939/",
-      "pubDate": "Wed, 18 Nov 2026 00:00:29 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/e16.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T08:01:02.049487",
+  "updatedAt": "2026-11-19T08:30:47.566354",
   "sites": [
     {
       "id": "hachima",
