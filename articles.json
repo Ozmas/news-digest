@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "よくお腹を壊していた人がニンニク大量に摂取して盛大にお腹壊す → その後、身体に凄い変化が起きるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462827.html",
+      "pubDate": "2026-11-19T21:30:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1d3d1b34.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "日本版『GTA6』表現規制あり！ゴア表現は出血少なめ、ヌード規制でパンツを履いたままシャワーを浴びるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587409.html",
+      "pubDate": "2026-11-19T21:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/244ba379.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/eb801c53.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】バイト「助けて！21時閉店なのにファミチキ10枚も揚げちゃって上司にガン詰めされたの…せや」　→　まさかの◯◯で閉店までに無事完売！すげえええ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587225.html",
-      "pubDate": "2026-11-19T12:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35c40a3b-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,19 +793,6 @@
       "link": "https://jin115.com/archives/52462794.html",
       "pubDate": "2026-11-19T08:40:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/b/8b5f7d12.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『フランケン・ふらん』全巻「99円」セール！全8巻「7,040円」→「792円」！『名探偵マーニー』作者の代表作！『AIの遺電子』も全巻「99円」！今読むべきAIとの在り方",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462790.html",
-      "pubDate": "2026-11-19T08:20:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2d017165.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T12:00:54.027775",
+  "updatedAt": "2026-11-19T12:30:47.441686",
   "sites": [
     {
       "id": "hachima",
