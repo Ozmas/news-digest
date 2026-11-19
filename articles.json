@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「チャッピーに宝くじの番号聞いて買ってみた！」→まさかの展開にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462823.html",
+      "pubDate": "2026-11-19T20:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9e4a5960.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】PHP、新たに重大な脆弱性が判明 サイトやサービスの休止を計画する動きも",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587402.html",
+      "pubDate": "2026-11-19T20:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/8422d6e6-s.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -613,19 +639,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ヨシ！】現場猫にそっくりなキャラ、青森の建設業を応援するPRキャラ「あおもり建設仕事猫」として活躍へｗｗｗｗ 愛称募集開始！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587218.html",
-      "pubDate": "2026-11-19T11:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c5ac7f59.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +819,6 @@
       "link": "https://casabrutus.com/categories/design/495261",
       "pubDate": "Wed, 18 Nov 2026 22:00:53 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "Web連載の「休載お詫びイラスト」って必要か？誰の得にもなってなくね？ → 実はこれ、凄い意味があった！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462786.html",
-      "pubDate": "2026-11-19T07:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9bf1fe2a-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T11:00:55.790026",
+  "updatedAt": "2026-11-19T11:30:46.250320",
   "sites": [
     {
       "id": "hachima",
