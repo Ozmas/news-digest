@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今日のギフト】花畑をぎゅっと閉じ込めた。〈雨 ame art products〉のプリザーブドフラワー",
+      "description": "花畑が好きなあの人へ長く楽しめるプリザーブドフラワー 〈雨 ame art products〉のプリザーブドフラワー 小石や森の木の実をイメージした、ぽってりとした陶器の蓋を開けると、そこには秘密の花園が。美術作家・華道 [&#8230;]",
+      "link": "https://brutus.jp/post-540351/",
+      "pubDate": "Thu, 19 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【クリームコロッケそば】箱根そばが新発売したコロッケそばが問題作すぎる / 食べてみたら「破壊と創造」を感じた",
+      "description": "コロッケをそばにライドオン！　ポテトとそばつゆがストレンジなハーモニーを奏でるコロッケそばは、アリ派とナシ派で論争が起こる邪道そばだ。強引さも感じる一方で、それゆえにパワーがある。私（中澤）は、朴訥としたパワーに立ち食い [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/19/2865626/",
+      "pubDate": "Thu, 19 Nov 2026 02:55:56 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hakone2.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【！？】モバイル版『モンスターハンター ライズ』配信決定！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462809.html",
+      "pubDate": "2026-11-19T11:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26d42978.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】漫画『チ。』公式が、『チ。』が出来るまでのプロット（構想企画書）を公開　→　マジで創作の勉強になるとネット大絶賛",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587213.html",
+      "pubDate": "2026-11-19T11:30:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c94f2c8f.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -613,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/3/638b3b32.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【税金1.5億円】政府広報が陰謀論系YouTuberを起用して炎上 → 木原官房長官「広告会社の提案で採用した」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587138.html",
-      "pubDate": "2026-11-18T23:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/73f58852.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +767,6 @@
       "link": "https://brutus.jp/post-536804/",
       "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【訃報】歌手『太田裕美』さん死去 71歳 代表曲「木綿のハンカチーフ」など",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462780.html",
-      "pubDate": "2026-11-18T19:42:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1d228808.jpg"
     },
     {
       "siteId": "brutus",
@@ -1068,19 +1094,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "『ワンピース』読破のために日本一豪華な「快活CLUB」へ行ったら、喫煙所に度肝を抜かれた！ なのに利用料金は普通",
-      "description": "先日、漫画『ワンピース』について、作者の尾田栄一郎先生と同世代の私（佐藤）が、50代なりの考えをお伝えした。以前はよく読んでいたのだが、作品から離れて久しい。その点について「読むべきでは」とのご指摘を頂き、至極もっともで [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/17/286463/",
-      "pubDate": "Tue, 17 Nov 2026 09:00:16 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/gkaikatsu.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1377,19 +1390,6 @@
       "description": "第13回 新千歳空港国際アニメーション映画祭 会期：2026/11/20〜24 会場：新千歳空港ターミナルビル（新千歳空港シアターなどを予定） 主催：新千歳空港国際アニメーション映画祭実行委員会 公式サイト：https: [&#8230;]",
       "link": "https://artscape.jp/article/81834/",
       "pubDate": "Mon, 16 Nov 2026 02:00:13 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "対談・平野歩夢×野田洋次郎｜平野歩夢公式ドキュメンタリー『AYUMU』を語り合う",
-      "description": "頭の中のイメージを未知の技や曲に変えていく 歩夢の滑りは、言葉以上に語ってくれる",
-      "link": "https://brutus.jp/post-539368/",
-      "pubDate": "Mon, 16 Nov 2026 01:57:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T02:30:46.516186",
+  "updatedAt": "2026-11-19T03:00:50.306665",
   "sites": [
     {
       "id": "hachima",
