@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "漫画家「web漫画の休載お詫びイラストって必要か？誰得だよ」⇒ 実はこういう理由で必要らしい",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587239.html",
+      "pubDate": "2026-11-19T15:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/d/0d586799.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -702,19 +715,6 @@
       "link": "http://blog.esuteru.com/archives/10587072.html",
       "pubDate": "2026-11-19T05:00:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/f/bf470f7c.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ゲーセン『GIGO』のあこぎすぎる「詐欺クレーン」動画が話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587088.html",
-      "pubDate": "2026-11-19T04:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/6/4622fbdc.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T06:00:51.722988",
+  "updatedAt": "2026-11-19T06:30:46.467103",
   "sites": [
     {
       "id": "hachima",
