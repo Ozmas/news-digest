@@ -28,6 +28,32 @@
       "thumbnail": ""
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「バーガーキングの食べにくい包装紙はな、こう剥くんだよ」　→　ガチ有益情報すぎて7万いいね突破ｗｗｗｗ　「超絶食べやすくなった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587480.html",
+      "pubDate": "2026-11-20T07:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/c/4ccdebb9.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「努力不足でごめんね。あなたは努力できる環境と身体があってよかったね」→5万いいね超え",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462857.html",
+      "pubDate": "2026-11-20T07:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7b233cb.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -496,19 +522,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】『GTA6』では”ケモナー”が違法ｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587389.html",
-      "pubDate": "2026-11-19T18:40:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3d41164e.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/11/19/2865950/",
       "pubDate": "Thu, 19 Nov 2026 03:20:53 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_4199.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ネット民「日本版GTA6、どこがグロ規制なんだよ！普通に◯◯飛んだぞ！？」→ショットガンで撃つと…うわあああ！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462811.html",
-      "pubDate": "2026-11-19T12:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d70bea90.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T22:00:58.886161",
+  "updatedAt": "2026-11-19T22:30:46.343290",
   "sites": [
     {
       "id": "hachima",
