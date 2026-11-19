@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "橋本愛さん、新作映画で小栗旬さんと共演し衝撃のコメントを発表・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462829.html",
+      "pubDate": "2026-11-19T19:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/9/09091d5b.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "エリア別に知っておきたい。通いたくなるタイ・バンコクのローカル食堂 〜サパーンタクシン駅周辺編〜",
+      "description": "ミシュランも認めるとろとろの豚足煮込み Charoen Saeng Silom 1959年に屋台から始まった豚足煮込み・カームー（写真）の専門店。使用するのは脂のノリが良く、ゼラチン質たっぷりの前足のみ。まず、シナモン、 [&#8230;]",
+      "link": "https://brutus.jp/post-444302/",
+      "pubDate": "Thu, 19 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】『GTA6』では”ケモナー”が違法ｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587389.html",
+      "pubDate": "2026-11-19T18:40:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3d41164e.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -600,19 +639,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3621.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "長い間音信不通だった有名女性アイドル、自死未遂をして閉鎖病棟に入っていたと判明…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587203.html",
-      "pubDate": "2026-11-19T09:30:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/18cb920e.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -793,19 +819,6 @@
       "link": "https://jin115.com/archives/52462789.html",
       "pubDate": "2026-11-19T06:00:55+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/e/0e7b9bfc.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『GTA6』海外版、ガチでヤバすぎる！！死体を撃つとグロく損壊するようになる！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462793.html",
-      "pubDate": "2026-11-19T05:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/6/e657cc82.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1328,19 +1341,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/05/subbuzz/HHc9YeykF.jpg?crop=3002:2001;0,251&resize=1250:830"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "今の気分は、どっちの顔？〈EYEVAN 7285〉のサングラス：Brutus Best Bets",
-      "description": "今の気分は、どっちの顔？ 今はオーソドックスに。次は個性的に。そんな気分に応えてくれるのが、〈アイヴァン 7285〉の新作サングラス《824》だ。付属するレンズは、端正なラウンドと下半分をカットしたハーフラウンドの2種類 [&#8230;]",
-      "link": "https://brutus.jp/post-539331/",
-      "pubDate": "Mon, 16 Nov 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T09:30:54.378069",
+  "updatedAt": "2026-11-19T10:00:54.883566",
   "sites": [
     {
       "id": "hachima",
