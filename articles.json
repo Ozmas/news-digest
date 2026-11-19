@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2178話目「上司と部下の狭間で⑩」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/19/2866150/",
+      "pubDate": "Thu, 19 Nov 2026 12:00:10 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2178a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "モードな虫図鑑。Stink Bug【カメムシ】",
+      "description": "嫌われ者？カメムシの真の実力を見よ！ イヤな臭いを出すため、「身近な嫌われ者の虫」というイメージが強いカメムシ。しかし、世界中を見回すと、「え⁉これがカメムシなの？」という、とんでもない造形をしたユニークな種が多くて驚く [&#8230;]",
+      "link": "https://brutus.jp/post-521826/",
+      "pubDate": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ヤバい】JT、1兆3770億円の巨額損失を計上へ！ロシアの子会社の支配喪失で超下方修正",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587405.html",
+      "pubDate": "2026-11-19T20:30:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/6/067c41d6.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性「男性の小便器って隣が『見えてる』らしいので、体験してみます」→ヤバすぎる光景に衝撃を受ける・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462822.html",
+      "pubDate": "2026-11-19T20:30:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bda0b669.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -548,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26d42978.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】漫画『チ。』公式が、『チ。』が出来るまでのプロット（構想企画書）を公開　→　マジで創作の勉強になるとネット大絶賛",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587213.html",
-      "pubDate": "2026-11-19T11:30:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c94f2c8f.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -767,19 +806,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/19/soranonemarche13th/",
       "pubDate": "Wed, 18 Nov 2026 23:01:37 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/9feb10c0f2e1e0133178949f4452e49f-1086x1536-1-1024x767.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「底辺ネトウヨどころか日本人の90％以上に刺さる言葉が“コレ”」→右派と左派の大激突に発展",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462792.html",
-      "pubDate": "2026-11-19T08:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/0229bd7b.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1055,19 +1081,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「サラダバーのカレーが美味すぎる」と話題のステーキハウス『毎日牧場』へ行ってみた感想 → 凄すぎて…食べ放題で大丈夫？",
-      "description": "サラダバーを注文した時、カレーが用意されているとテンションが上がってしまうのは私だけではないはず。どのお店もレベルが高いので、メイン料理そっちのけで堪能してしまう。 さて静岡県に、サラダバーのカレーが美味すぎる！　と話題 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/18/2860940/",
-      "pubDate": "Wed, 18 Nov 2026 02:00:14 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/43327.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1312,19 +1325,6 @@
       "description": "韓国工芸の手仕事の美しさを、見て、触れて、体感する 2021年に開館した公立の工芸専門ミュージアム。北村（プクチョン）エリアの面積約15,000㎡という広大な敷地に、歴史的建造物を改築した複数の建物からなる。「工芸を生活 [&#8230;]",
       "link": "https://brutus.jp/post-537174/",
       "pubDate": "Mon, 16 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "日用品図鑑：プロダクトデザイナー・柴田文江の愛用する〈moln〉の「Weekender Bag」etc.",
-      "description": "〈BROKIS〉のペンダントランプ「AWA」 マウスブローによってつくられたチェコガラスの質感がとても美しく、光を灯すと独特のムードが生まれます。日本の照明にはあまりない、ガラスそのものの存在感と空気感が気に入っています [&#8230;]",
-      "link": "https://brutus.jp/post-536645/",
-      "pubDate": "Mon, 16 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T11:30:46.250320",
+  "updatedAt": "2026-11-19T12:00:54.027775",
   "sites": [
     {
       "id": "hachima",
