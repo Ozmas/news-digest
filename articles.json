@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【千葉】つくりかけラボ22「タムラサトル｜1トンになる」",
+      "description": "千葉市美術館にて、つくりかけラボ22「タムラサトル｜1トンになる」が開催されています。 「つくりかけラボ」は、「五感でたのしむ」「素材にふれる」「コミュニケーションがはじまる」のいずれかをテーマとし、公開制作やワークショ [&#8230;]",
+      "link": "https://artscape.jp/article/83779/",
+      "pubDate": "Thu, 19 Nov 2026 01:00:34 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「情報漏洩で闇バイトの襲撃？ウチはあんまりお金ないから大丈夫ｗ」←こう思ってる人、コレ見ろ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462799.html",
+      "pubDate": "2026-11-19T10:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa26fd8c.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -676,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/11/18/2865187/",
       "pubDate": "Wed, 18 Nov 2026 09:00:02 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/yoshinoya5.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "元ジャンポケ斉藤さんのTikTok配信、とんでもない内容になっていたｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462767.html",
-      "pubDate": "2026-11-18T17:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/6/8620937f.jpg"
     },
     {
       "siteId": "brutus",
@@ -1523,19 +1536,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/05/subbuzz/hUiZo-3o-.jpg?crop=2000:1333;0,0&resize=1250:830"
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "山川陸｜『ある日どこかで』（前編）",
-      "description": "劇場公開日：1981/01/31［日本］ 監督：ヤノット・シュワルツ 原作：リチャード・マシスン 作品紹介ページ：https://eiga.com/movie/42253/vods/ 映像と鑑賞者は画面によって空間的に、 [&#8230;]",
-      "link": "https://artscape.jp/article/82469/",
-      "pubDate": "Fri, 13 Nov 2026 02:00:54 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T01:00:53.686458",
+  "updatedAt": "2026-11-19T01:23:21.910197",
   "sites": [
     {
       "id": "hachima",
