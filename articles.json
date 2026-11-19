@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ほぼ半額】Championの裏起毛トレーナーが5830円 → 2937円 / Amazonタイムセール",
+      "description": "毎日お得なタイムセールを開催しているAmazon。アパレル・飲料・食品など、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、チャンピオンの裏起毛トレーナーをピックアップ！ いまなら41％オフ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/19/2865950/",
+      "pubDate": "Thu, 19 Nov 2026 03:20:53 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_4199.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【つよい】「大阪マジで生きやすい！　全裸のおっさんに遭遇して思わず「進撃の巨人や！」と叫んだら、まさかの◯◯◯された！　こんなの大阪だけ！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587228.html",
+      "pubDate": "2026-11-19T12:20:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/eb801c53.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】バイト「助けて！21時閉店なのにファミチキ10枚も揚げちゃって上司にガン詰めされたの…せや」　→　まさかの◯◯で閉店までに無事完売！すげえええ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587225.html",
+      "pubDate": "2026-11-19T12:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35c40a3b-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ネット民「日本版GTA6、どこがグロ規制なんだよ！普通に◯◯飛んだぞ！？」→ショットガンで撃つと…うわあああ！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462811.html",
+      "pubDate": "2026-11-19T12:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d70bea90.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -639,32 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60a1d86b.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「愛想良くしても、冷たくあしらってもダメ。女性がおじさんに好意を持たれた時点で『詰み』」⇒ 3万いいね超え",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587075.html",
-      "pubDate": "2026-11-19T00:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7ccbcd15.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "横須賀市「生成AIを活用したイラストを募集します！最優秀賞受賞者には商品と市のPR広報物の制作を依頼します！」 → バチボコに叩かれ燃えてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587142.html",
-      "pubDate": "2026-11-18T23:30:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/3/638b3b32.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +767,6 @@
       "link": "https://brutus.jp/post-536526/",
       "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『GetBackers -奪還屋-』新作アニメが公開決定！PV公開！→しかし、最悪すぎるものが映ってしまい、ファンが絶望・・・\"悪夢\"は見れたかよ？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462777.html",
-      "pubDate": "2026-11-18T20:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/b/7b91d6b4.jpg"
     },
     {
       "siteId": "brutus",
@@ -1040,19 +1053,6 @@
       "link": "https://rocketnews24.com/2026/11/18/2860074/",
       "pubDate": "Tue, 17 Nov 2026 22:00:05 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-133.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2176話目「上司と部下の狭間で⑧」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/11/17/2864901/",
-      "pubDate": "Tue, 17 Nov 2026 12:00:51 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2176a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T03:00:50.306665",
+  "updatedAt": "2026-11-19T03:30:49.785049",
   "sites": [
     {
       "id": "hachima",
