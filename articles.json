@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ぶいすぽ運営、絵師に対しアカ削除要求→大炎上し声明発表へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462828.html",
+      "pubDate": "2026-11-19T18:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/cefdbefc.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -795,19 +808,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/6/e657cc82.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "後輩女子「先輩、卒業後は文通してくれませんか？」先輩「おｋｗ」→続けて半年後、マジでヤバい事態に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462779.html",
-      "pubDate": "2026-11-19T03:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d69c809b.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -845,6 +845,32 @@
       "link": "https://brutus.jp/post-536804/",
       "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "本田圭佑、16年ぶりに激安店を訪問⇒「ザ普通の買い物でケイスケホンダを感じた」「食玩とか…」「楽しそう」と話題に",
+      "description": "サッカー元日本代表の本田圭佑さんの公式アカウントが11月15日にYouTubeチャンネルを更新。本田さんが総合ディスカウントストア「ドン・キホーテ」を訪れた様子を公開しました。購入品や店内での気さくな姿にも反響が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/keisuke-honda-donki-kaimono",
+      "pubDate": "Wed, 18 Nov 2026 05:46:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/18/04/subbuzz/0wn0Z5nW8.jpg?crop=1968:1312;0,140&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "郷ひろみの靴下に「意外…」「AIの画像かと」「ビックリ」とファン驚き",
+      "description": "歌手の郷ひろみさんが11月17日にInstagramを更新。ダンス＆ボーカルユニット「新しい学校のリーダーズ」から贈られた靴下を履いた姿を公開し、ファンからは「AIの画像かと」「ビックリ」などの反響が寄せられました。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yuisasaki/gohiromi1118",
+      "pubDate": "Wed, 18 Nov 2026 05:16:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/18/07/subbuzz/C5jJqr8Ns.jpg?crop=3667:2445;0,484&resize=1250:830"
     },
     {
       "siteId": "brutus",
@@ -1250,19 +1276,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "工藤静香のにんじんの食べ方に「野菜嫌いの息子に作ってあげたい」「つまみにも…」「発想が素晴らしい」と注目集まる",
-      "description": "歌手の工藤静香さんが11月14日にInstagramを更新。「夜食」に準備したにんじんを動画で紹介しました。りんごのデザートなど手料理にも反響が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/kudo-shizuka-ninjin-yaki",
-      "pubDate": "Mon, 16 Nov 2026 16:01:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/01/subbuzz/w3HE7Ps4M.jpg?crop=1666:1111;273,78&resize=1250:830"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1289,19 +1302,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「えっ！？」「お揃い…」高橋文哉のプライベートショットに「目立つでしょ！」「彼氏感やばい」と反響",
-      "description": "俳優の高橋文哉さんが11月14日にInstagramを更新。東京ディズニーランドを訪れた際のプライベートショットを披露し、「お揃いコーデかわいすぎる」「彼氏感やばい」と反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yukiadachi/takahashifumiya-8loom1114",
-      "pubDate": "Mon, 16 Nov 2026 05:31:03 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/06/subbuzz/jM0BHaxqZ.jpg?crop=2318:1545;417,209&resize=1250:830"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1313,6 +1313,19 @@
       "link": "https://brutus.jp/post-537181/",
       "pubDate": "Mon, 16 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「似てきた」浅田真央と姉の2ショットに「目の辺りが」「そっくりになってきましたね」と話題に",
+      "description": "元フィギュアスケーターでタレントの浅田舞さんが11月14日にInstagramを更新。プロフィギュアスケーターの妹・真央さんとの2ショットを披露しました。ファンから、「めちゃくちゃ可愛い」「世界一素敵な姉妹」と反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yukiadachi/asadamai-mao2shot1114",
+      "pubDate": "Mon, 16 Nov 2026 04:46:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/05/subbuzz/HHc9YeykF.jpg?crop=3002:2001;0,251&resize=1250:830"
     },
     {
       "siteId": "brutus",
@@ -1412,6 +1425,19 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "松嶋菜々子、セリフが言えない姿に「かわいすぎ」「言いにくそう」「こんなハマった状態で…」ファン沸く",
+      "description": "ドラマ『救命病棟24時』（フジテレビ系）の公式アカウントが11月12日にInstagramとXを更新。俳優の松嶋菜々子さんの撮影風景を公開し、「かわいすぎ」などの反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/ayahara/matsushimananako1113",
+      "pubDate": "Sun, 15 Nov 2026 05:31:03 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/02/subbuzz/ktvDqNcD-.jpg?crop=3332:2221;0,175&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "湯船を満喫するワンコの表情に「仙人の風貌」「おじいちゃんみたい」と大反響",
       "description": "入浴中にうっとりするワンコの姿がXに投稿され、「仙人の風貌」「おじいちゃんみたい」と2.5万件を超える「いいね」が集まっています。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/saorihakamada/gomachan-ofuro1109",
@@ -1484,19 +1510,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/04/thumb/CSCT_bksO.jpg?crop=660:440;38,0&resize=1250:830"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "草彅剛「これヤバいよ」カバンから出てきた食材に「びっくり」「普通は入れない」「いきなり食べ始めた」と驚きの声",
-      "description": "歌手で俳優の草彅剛さんが11月12日にYouTubeチャンネルを更新。自身のカバンの中身を紹介しました。持ち歩いている食べ物や俳優の堤真一さんから贈られた品など、こだわりの中身に反響が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/kusanagi-tsuyoshi-kaban-ni-apple",
-      "pubDate": "Sat, 14 Nov 2026 05:16:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/02/subbuzz/qdox8Iyt9.jpg?crop=3501:2334;0,56&resize=1250:830"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1508,19 +1521,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/14/onakasquare-paypay/",
       "pubDate": "Fri, 13 Nov 2026 23:01:13 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7350-1-1024x767.jpeg"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「パートナーしか見れない…」今田美桜の近距離ショットに驚きの声「寝起きか」「すっぴん！？」",
-      "description": "俳優の今田美桜さんが11月11日にInstagramを更新。顔を近くから捉えた写真を公開し、ファンからは「寝起きか」「すっぴん！？」などの反響が寄せられました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yuisasaki/imadamio1112",
-      "pubDate": "Fri, 13 Nov 2026 05:31:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/01/subbuzz/-bi8YA1RC.jpg?crop=3310:2207;0,463&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T09:01:01.986306",
+  "updatedAt": "2026-11-19T09:17:45.181092",
   "sites": [
     {
       "id": "hachima",
