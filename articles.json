@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "アメリカ・中国・ロシア、平和宣言を発表",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462845.html",
+      "pubDate": "2026-11-20T02:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/e/6e4657b6.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女性から叩かれて修正された『アズレン』衣装の内診台、実は中国式に差し替えただけ説が浮上ｗｗｗｗ「フェミは勝利宣言してるけど実質変わってない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587449.html",
+      "pubDate": "2026-11-20T01:30:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/200a3e0d.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +509,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "今日発売されたばかりの『GTA6』、早速バグだらけで報告が相次ぐｗｗｗｗｗ 『地面の中に沈む』『船が挙動不審になる』『オブジェクトにめり込む』など",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587247.html",
-      "pubDate": "2026-11-19T16:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7eb9ef85-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +767,6 @@
       "link": "https://artscape.jp/article/83779/",
       "pubDate": "Thu, 19 Nov 2026 01:00:34 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「情報漏洩で闇バイトの襲撃？ウチはあんまりお金ないから大丈夫ｗ」←こう思ってる人、コレ見ろ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462799.html",
-      "pubDate": "2026-11-19T10:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa26fd8c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T16:30:50.078427",
+  "updatedAt": "2026-11-19T17:00:57.334475",
   "sites": [
     {
       "id": "hachima",
