@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "広末涼子さん、警察を呼ぶレベルのヤバイ事態になっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462817.html",
+      "pubDate": "2026-11-19T14:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/b/ebc71654.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ヤバイ】菓子を販売している『六花亭』に不正アクセス！ 約8000件のセキュリティコードを含むカード情報が流出したかもしれない模様",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587232.html",
+      "pubDate": "2026-11-19T14:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/7/97c8c8ac-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -678,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/6/d69c809b.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大食い女子がご飯食べ放題の店で15杯おかわりして出禁 → お店側が謝罪「出禁の事実は確認できていないが、今後も回数制限は設けません」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587164.html",
-      "pubDate": "2026-11-19T02:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/0/80b61265.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52462782.html",
       "pubDate": "2026-11-18T22:00:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/e/6e438b4c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "超人気セクシーコスプレイヤー・伊織もえさん、とんでもないものを購入して、ファンが騒然・・・やばすぎるだろ・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462776.html",
-      "pubDate": "2026-11-18T21:30:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/01bc3766.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T05:00:51.983654",
+  "updatedAt": "2026-11-19T05:30:45.945396",
   "sites": [
     {
       "id": "hachima",
