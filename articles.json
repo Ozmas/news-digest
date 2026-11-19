@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ハーゲンダッツアイスの公式アレンジレシピが攻めすぎなので試してみた / トッピングは「トマト＆バジル」に「ごま油＆黒ゴマ」!?",
+      "description": "みんな大好きな贅沢アイスクリームの代名詞といえば「ハーゲンダッツ」。その公式サイトには、ハーゲンダッツを使ったアレンジレシピが多数掲載されている。 どれも美しくて美味しそうだな……と眺めていたところ、意外にも攻めているレ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/19/2864745/",
+      "pubDate": "Thu, 19 Nov 2026 00:00:59 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-5-7.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジか】お腹を壊しがちな人、ある時ニンニク大量ラーメンを食べて盛大に腹痛　→　その後、身体の◯◯◯が激変することに…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587199.html",
+      "pubDate": "2026-11-19T09:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6ae61cd.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【確認推奨】医師「”怪しい危険な民間療法”の一覧、これです」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462796.html",
+      "pubDate": "2026-11-19T09:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/8/b85afbcc.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -522,19 +561,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【文春】ドラマ『VIVANT』中国の抗議で最終回が改変されたとの報道！TBS幹部が中国東京に呼び出され…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587106.html",
-      "pubDate": "2026-11-18T20:30:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d3e4677f.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +715,6 @@
       "link": "https://rocketnews24.com/2026/11/18/2865352/",
       "pubDate": "Wed, 18 Nov 2026 06:00:53 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/haitoku06.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "Suica新キャラクター、ついに決まる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462766.html",
-      "pubDate": "2026-11-18T15:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/38e25a23.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1066,19 +1079,6 @@
       "link": "https://brutus.jp/post-540346/",
       "pubDate": "Tue, 17 Nov 2026 03:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "や、安ッ！  高級ふぐ専門店『とらふぐ亭』が一部店舗で実施している「ランチ御膳」が超お得 / ふぐ料理デビューにオススメかも",
-      "description": "一般的に高級な食材として知られている『ふぐ』。ものすごく興味はあるのだが……値段が値段なだけに今まで1度も食べたことが無かった。手が届かない憧れの存在ってヤツだ。 が先日、都内を中心に営業を行うふぐ料理専門店「とらふぐ亭 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/17/2860892/",
-      "pubDate": "Tue, 17 Nov 2026 02:55:56 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/43196_0.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T00:00:56.406462",
+  "updatedAt": "2026-11-19T00:30:45.084312",
   "sites": [
     {
       "id": "hachima",
