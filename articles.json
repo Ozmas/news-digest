@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【初週売り上げ】スイッチ2版『メタファー』1.1万本、『ピクミン4 スイッチ2エディション』2800本！リメイク版『時オカ』2週目も好調！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587420.html",
+      "pubDate": "2026-11-19T22:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35436265.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +559,6 @@
       "link": "http://blog.esuteru.com/archives/10587233.html",
       "pubDate": "2026-11-19T13:00:08+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/f/dfd5f158.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "とある成年向け漫画家、家賃滞納・ライフライン全停止などでヤバ過ぎる状態になっていた…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587223.html",
-      "pubDate": "2026-11-19T12:40:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/75fb1cc6.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T13:00:52.322147",
+  "updatedAt": "2026-11-19T13:30:48.683145",
   "sites": [
     {
       "id": "hachima",
