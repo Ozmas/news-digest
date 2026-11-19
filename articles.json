@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "許可なく見るな！ バレてしまった好きな人！　四コマサボタージュFB第135回「消しゴムのおまじない」",
+      "description": "消しゴムに名前を書くおまじない、自分が小学生時代にはすでにあった気がするんだ。しかし、いつ頃から流行り始めたのかが分からないんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/20/2860076/",
+      "pubDate": "Thu, 19 Nov 2026 22:00:47 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-135.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "バッグに忍ばせる、パリのエスプリ。〈アナトール〉が手がけた、おしゃれな服に似合う傘。",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/design/495358",
+      "pubDate": "Thu, 19 Nov 2026 22:00:44 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【99円】『ビブリア古書堂の事件手帖』 『戦国コミケ』 『怒りのロードショー』など、KADOKAWAの人気作品が「全巻99円」の激安セール開催！！全巻イッキ読みフェア",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462851.html",
+      "pubDate": "2026-11-20T06:30:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/5/b5aa4611.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -678,19 +717,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hakone2.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【！？】モバイル版『モンスターハンター ライズ』配信決定！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462809.html",
-      "pubDate": "2026-11-19T11:30:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26d42978.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1055,19 +1081,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/tuki5.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "袋麺を自分で調理して食う！ 韓国発の無人ラーメンコンビニ『ヌードルズ24』を利用してよみがえった、昭和・平成の「深夜のオートパーラー」の思い出",
-      "description": "時々、ムショーにラーメンが食べたくなること、あるよね。でも、ラーメン屋に入るほどではなく、できれば袋麺を食べたい衝動に駆られること、あるよね。近隣にコンビニはあるけど、イートインスペースはない。帰るまでガマンするか？　い [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/18/2865001/",
-      "pubDate": "Wed, 18 Nov 2026 02:30:45 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/24noodle.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1339,19 +1352,6 @@
       "link": "https://www.buzzfeed.com/jp/yukiadachi/asadamai-mao2shot1114",
       "pubDate": "Mon, 16 Nov 2026 04:46:02 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/05/subbuzz/HHc9YeykF.jpg?crop=3002:2001;0,251&resize=1250:830"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "環境建築家・仙田満の足跡を辿る展覧会が〈建築家会館〉で開催。",
-      "description": "80歳を超えて、なお〈石川県立図書館〉や〈エディオンピースウイング広島〉といった意欲的な作品を世に送り出し続ける仙田満。環境建築家としての60年余りの歩みを振り返る展覧会『仙田MAN展 ことばで紡ぐ建築』が開催される。",
-      "link": "https://casabrutus.com/categories/architecture/496699",
-      "pubDate": "Mon, 16 Nov 2026 07:25:15 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T21:30:46.559599",
+  "updatedAt": "2026-11-19T22:00:58.886161",
   "sites": [
     {
       "id": "hachima",
