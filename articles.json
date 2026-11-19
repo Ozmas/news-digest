@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】美少女TCG『WIXOSS(ウィクロス)』来年の新拡張パックをもって新規の商品展開を休止へ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587377.html",
+      "pubDate": "2026-11-19T18:20:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/eb043696-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -624,19 +637,6 @@
       "link": "https://rocketnews24.com/2026/11/19/2864745/",
       "pubDate": "Thu, 19 Nov 2026 00:00:59 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-5-7.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジか】お腹を壊しがちな人、ある時ニンニク大量ラーメンを食べて盛大に腹痛　→　その後、身体の◯◯◯が激変することに…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587199.html",
-      "pubDate": "2026-11-19T09:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/6/e6ae61cd.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T09:17:45.181092",
+  "updatedAt": "2026-11-19T09:30:54.378069",
   "sites": [
     {
       "id": "hachima",
