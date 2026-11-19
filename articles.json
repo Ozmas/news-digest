@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "Suicaの新キャラが『毒ウサギ』になった件、選考委員がマジでドン引きしてたと判明ｗｗｗｗｗ　※ネットからは「お前が始めた物語だろ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587207.html",
+      "pubDate": "2026-11-19T10:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/b/6bdf81bd.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "人生初の「なか卯」だけど看板メニューをスルーしたっていいよね？ ハンバーグとセットで頼んだスイーツが忘れられない存在になった",
+      "description": "全国的には有名でも、一度も利用したことがないチェーン店って意外にあると思う。自分の生活圏内には店舗がなかったり、なんとなくタイミングを逃し続けていたりしてね。 私にとって、そのひとつが「なか卯」だった。看板メニューが親子 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/19/2862538/",
+      "pubDate": "Thu, 19 Nov 2026 01:00:03 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3621.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "長い間音信不通だった有名女性アイドル、自死未遂をして閉鎖病棟に入っていたと判明…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587203.html",
+      "pubDate": "2026-11-19T09:30:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/18cb920e.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【ガチ注意】AMDに続いてNVIDIAのグラボもSSDを破壊しに来て終わる・・・マジで確認しとけ！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462802.html",
+      "pubDate": "2026-11-19T09:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/3278bd36.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -496,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/01bc3766.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "三菱UFJ銀行で650万件の顧客情報漏えい！委託先に不正アクセス　ついみメガバンクまで情報流出",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587130.html",
-      "pubDate": "2026-11-18T21:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/737e6cb0.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +559,6 @@
       "link": "https://jin115.com/archives/52462783.html",
       "pubDate": "2026-11-18T21:00:32+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/e/5e97f911.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「俺はヤクザの組長だ」病院で怒鳴るなどして暴れた組長の男と子分2人逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587125.html",
-      "pubDate": "2026-11-18T21:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e707a38f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -689,19 +715,6 @@
       "link": "https://casabrutus.com/categories/design/496713",
       "pubDate": "Wed, 18 Nov 2026 07:25:52 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "今年のゲーム・オブ・ザ・イヤー、まだ発売前の『グランド・セフト・オート6』がノミネートして大荒れ！「何故プラグマタや紅の砂漠が無いんだ」「この茶番を終わらせろ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462768.html",
-      "pubDate": "2026-11-18T16:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/4/445da559.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1053,19 +1066,6 @@
       "link": "https://rocketnews24.com/2026/11/17/2864729/",
       "pubDate": "Tue, 17 Nov 2026 05:00:57 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2748-2.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【急げ】アシックスの高機能トレーニングジャケットが2213円！ / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。家電・食品・ファッションなど、さまざまなカテゴリーのアイテムを特別価格でゲットできるチャンス。 本日は『アシックス』の高機能トレーニングジャケットが2213円と大幅プライ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/17/2864792/",
-      "pubDate": "Tue, 17 Nov 2026 03:57:18 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/asics.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T00:30:45.084312",
+  "updatedAt": "2026-11-19T01:00:53.686458",
   "sites": [
     {
       "id": "hachima",
