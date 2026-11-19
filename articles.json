@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "建築家・長坂純明に聞く、鉱物標本の理想の飾り方",
+      "description": "「鉱物って、透明なものや複雑な色を持つものが多いですよね。台座には、それとコントラストを作れる素材が合いそうな気がします」 そう語る長坂さんが提案してくれたのがコンクリートタイルを使ったディスプレイ。建材のコンクリートタ [&#8230;]",
+      "link": "https://brutus.jp/post-532890/",
+      "pubDate": "Thu, 19 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "エヌビディアCEOへのハニトラに大成功した中国女スパイ、中国ネットでアイドル化ｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587396.html",
+      "pubDate": "2026-11-19T19:30:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/87f7e05c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『VIVANT』最終回、TBS幹部らが中国当局に呼び出され内容を改変せざるを得なくなっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462824.html",
+      "pubDate": "2026-11-19T19:30:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/6/a6c580d0-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -587,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/5/c5ac7f59.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ホロライブ公式ショップ、購入者約300件の住所や電話番号といった個人情報が漏洩…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587209.html",
-      "pubDate": "2026-11-19T10:30:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/0/307a34d6.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -819,19 +845,6 @@
       "link": "https://www.buzzfeed.com/jp/buzzfeedjapanshopping/iherb-black-friday-2026",
       "pubDate": "Wed, 18 Nov 2026 16:31:02 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/17/14/subbuzz/J42N8qhQm.jpg?crop=286:191;263,369&resize=1250:830"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国を訪問した高市首相、露骨に冷遇されてしまう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462789.html",
-      "pubDate": "2026-11-19T06:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/e/0e7b9bfc.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1315,19 +1328,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "科学、記録、工芸が花開いた韓国の王室文化を体感する〈国立古宮博物館〉",
-      "description": "科学、記録、工芸が花開いた、韓国の王室文化の世界へ 現在の韓国文化の基盤を築いた朝鮮王朝。儒教を国の理念とし、記録文化と高度な科学技術を育んだ。華美な装飾よりも簡素な美を重んじた価値観は、白磁や宮殿建築、工芸などに受け継 [&#8230;]",
-      "link": "https://brutus.jp/post-537181/",
-      "pubDate": "Mon, 16 Nov 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T10:30:56.051192",
+  "updatedAt": "2026-11-19T11:00:55.790026",
   "sites": [
     {
       "id": "hachima",
