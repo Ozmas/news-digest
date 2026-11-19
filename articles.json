@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超朗報】Discordで“マクドナルドを注文”できる新機能が爆誕！注文するとメンバー全員にバレるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587312.html",
+      "pubDate": "2026-11-19T18:00:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/18ea9811-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【GTA6】世間でよく見かける「熊さんを殺さないで」がゲーム内で再現されるｗｗｗｗｗ 実際に団体がクマを救出した結果…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587276.html",
+      "pubDate": "2026-11-19T17:30:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/ed0ba732-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -626,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/b/8b5f7d12.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃事実】本物のトクリュウの『強盗先の選び方』、想像以上に最悪だった…　「リストの中から◯◯◯を当たる。資産が少ないから大丈夫にはならない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587196.html",
-      "pubDate": "2026-11-19T08:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/92d5e1ab.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -689,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/11/19/2865505/",
       "pubDate": "Wed, 18 Nov 2026 23:00:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/pass.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】吉野家さん、ついに『あのメニュー』で本気を出すｗｗｗｗ　「やばい美味すぎ」「写真よりデカい」「コスパ最強」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587194.html",
-      "pubDate": "2026-11-19T08:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/7816e0a9.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T08:30:47.566354",
+  "updatedAt": "2026-11-19T09:01:01.986306",
   "sites": [
     {
       "id": "hachima",
