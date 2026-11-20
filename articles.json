@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】置き配、ガチで終了のお知らせ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462912.html",
+      "pubDate": "2026-11-21T02:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/7/97887cae.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -145,19 +158,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dcdd86b1.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性VTuber「放送に毎日来てたリスナーが3日くらい来なくて心配だからDM送ってみるわ！」 → 相手からとんでもない返信がくるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462897.html",
-      "pubDate": "2026-11-20T22:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa6b3121-s.png"
-    },
-    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -169,6 +169,19 @@
       "link": "http://blog.esuteru.com/archives/10587823.html",
       "pubDate": "2026-11-20T22:00:28+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/1106238a.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性VTuber「放送に毎日来てたリスナーが3日くらい来なくて心配だからDM送ってみるわ！」 → 相手からとんでもない返信がくるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462897.html",
+      "pubDate": "2026-11-20T22:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa6b3121-s.png"
     },
     {
       "siteId": "jin",
@@ -676,19 +689,6 @@
       "link": "https://jin115.com/archives/52462877.html",
       "pubDate": "2026-11-20T13:00:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/314dc946.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "イギリス人「プレステのゲーム高すぎ！裁判起こすわ！ソニーは4200億円払え！」→結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462858.html",
-      "pubDate": "2026-11-20T12:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f8041fae.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T17:00:50.819766",
+  "updatedAt": "2026-11-20T17:30:45.581154",
   "sites": [
     {
       "id": "hachima",
