@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "インバウンド特化した観光地「セールするから地元客も来て！」⇒ 日本人から批判の嵐に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587533.html",
+      "pubDate": "2026-11-20T15:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/f/1f3a0f3c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国人「日本人は何で中国が嫌いなの？仕返しされるのが怖いからですか？」→最高にキレのある返事が来てしまうｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462870.html",
+      "pubDate": "2026-11-20T15:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/7/377b7616.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -769,19 +795,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/8/9803c977.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【大炎上】ライブ運営「チケット値段間違えてたから当日、差額回収するね」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587413.html",
-      "pubDate": "2026-11-20T03:00:37+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78b97260-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -819,19 +832,6 @@
       "link": "https://jin115.com/archives/52462832.html",
       "pubDate": "2026-11-19T23:00:04+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/c/ac74d62f-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【は？】政府「EV車買え！補助金出しまくるぞ！」 → 普及し始めた途端「ガソリン税払ってないのは不公平だから新税導入するわ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462842.html",
-      "pubDate": "2026-11-19T22:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/c/2c689aa1.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T06:00:50.652344",
+  "updatedAt": "2026-11-20T06:30:46.771959",
   "sites": [
     {
       "id": "hachima",
