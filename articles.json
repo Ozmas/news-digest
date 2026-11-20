@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジでヤバい】「実を言うと日本の伝統的◯◯◯産業はもうダメです。このままだとあと5年くらいで終わりの合図が来ます」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587518.html",
+      "pubDate": "2026-11-20T12:20:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/8/e8457f2c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "イギリス人「プレステのゲーム高すぎ！裁判起こすわ！ソニーは4200億円払え！」→結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462858.html",
+      "pubDate": "2026-11-20T12:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/8/f8041fae.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "【画像】『GTA6』さん、動物愛護団体だけでなくオーガニック派やマーベルまで煽り倒してるとネット騒然！　CMの作り込みが異常すぎるｗｗｗｗ",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10587517.html",
@@ -717,19 +743,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/7/27b2fc4d.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【魔境旭川】22歳女がゲーセンで大暴れ！3歳と5歳含む男女9人に暴行した疑いで逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587418.html",
-      "pubDate": "2026-11-19T23:30:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a36e8694.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -806,19 +819,6 @@
       "link": "https://jin115.com/archives/52462822.html",
       "pubDate": "2026-11-19T20:30:33+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/d/bda0b669.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「チャッピーに宝くじの番号聞いて買ってみた！」→まさかの展開にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462823.html",
-      "pubDate": "2026-11-19T20:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9e4a5960.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T03:00:52.151254",
+  "updatedAt": "2026-11-20T03:30:43.464448",
   "sites": [
     {
       "id": "hachima",
