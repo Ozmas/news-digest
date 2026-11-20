@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2179話目「上司と部下の狭間で⑪」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/20/2867119/",
+      "pubDate": "Fri, 20 Nov 2026 12:00:13 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2179a.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "流行写真通信 第46回：「写真は死んでいるから見やすい」と言う佐内正史が『復刊 生きている』で確信した肯定感",
+      "description": "取材の席で、佐内正史は2冊の写真集を並べてみせた。1997年に出た『生きている』の初版と、今年、青幻舎から出た『復刊 生きている』だ。「これが前の本なんですけど、なんかベタッとしてるんですよね。こっちが今ので、ふわっとし [&#8230;]",
+      "link": "https://brutus.jp/post-541044/",
+      "pubDate": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "人気配信者『けんき』さん、暴露系配信でヤバすぎる告発をされる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462900.html",
+      "pubDate": "2026-11-20T20:40:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/e/2e52b42b.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【アカン】日本政府のシステムに不正アクセス、会議資料や個人情報が流出した可能性　3ヶ月以上も放ったらかし",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587812.html",
+      "pubDate": "2026-11-20T20:30:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/26abe3cd.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -587,19 +639,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kousin09.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ガチで怖い】大物ユーチューバー・はじめしゃちょー、ガチで死にかけた恐怖体験を告白！　「深夜タクシーで勝手に◯◯◯」((((( ；ﾟДﾟ)))",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587511.html",
-      "pubDate": "2026-11-20T11:30:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1c318478.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -860,19 +899,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/173511b2.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【激安速報】ヒストリエ、炎炎ノ消防隊、バーサスなどが”実質半額”になる超Kindleセール開始！FAIRYTAIL、MMR、ポケットモンスタースペシャルなども対象！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462853.html",
-      "pubDate": "2026-11-20T08:20:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/ca047f49.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1107,19 +1133,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hakone2.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「ポップコーン激戦区」から10年、今も残る『ギャレットポップコーン』に初めて入ってみた / ライバルブランドが消えた原宿・表参道",
-      "description": "流行り廃りのサイクルは早い。少し前まで爆発的に人気のあったはずのものが、1年と経たずに忘れ去られてしまうことは、よくある。たとえば、空前の「高級食パンブーム」はいまや聞くことすらなくなり、猫も杓子も「マリトッツォ」といっ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/19/2865181/",
-      "pubDate": "Thu, 19 Nov 2026 02:30:07 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/garrett.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1274,19 +1287,6 @@
       "link": "https://www.buzzfeed.com/jp/yuisasaki/gohiromi1118",
       "pubDate": "Wed, 18 Nov 2026 05:16:02 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/18/07/subbuzz/C5jJqr8Ns.jpg?crop=3667:2445;0,484&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "「the TRUE DIARY show」第22回：写真家・題府基之",
-      "description": "9月3日（木） 曇り。 10時半、二度寝からの起床。BRUTUSから、この日記のオファーメールが来た。今年2月から、古本屋兼アーティストの小林優平とゆるく始めたポッドキャストを聴いてくれているらしい。 ここ最近、仕事の依 [&#8230;]",
-      "link": "https://brutus.jp/post-531891/",
-      "pubDate": "Wed, 18 Nov 2026 10:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T11:30:47.367475",
+  "updatedAt": "2026-11-20T12:00:58.500038",
   "sites": [
     {
       "id": "hachima",
