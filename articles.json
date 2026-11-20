@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "響き渡る悲鳴！ 好スタートの催し物！　隣りの席の子の様子がおかしい第79回「文化祭」",
+      "description": "漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/21/2860390/",
+      "pubDate": "Fri, 20 Nov 2026 23:00:16 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/tonari79-1koma.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "claudeAIのアンソロピックが上場→従業員のほぼ全員が超大金持ちに！AIバブルやばすぎだろ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462915.html",
+      "pubDate": "2026-11-21T08:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/a/cabcf082.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「韓国文化通信」Vol.49 ミュージシャン・Choi Jungyoon",
+      "description": "新しくて懐かしい音作り ──今回の〈BLUE NOTE PLACE〉のライブはyomm名義の公演ですか？ ──日本でのyommの活動は、どのような経緯で始まったのでしょうか？ ──17年の韓国でのデビュー以降、チェ・ジョ [&#8230;]",
+      "link": "https://brutus.jp/post-538378/",
+      "pubDate": "Fri, 20 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【11月21日〜23日】三連休必見の“アート＆デザイン”まとめ！",
+      "description": "カーサが注目する、三連休のイベントをまとめてご紹介。始まったばかりの展覧会から会期終了間近の展覧会まで、チェックしてみましょう！",
+      "link": "https://casabrutus.com/categories/art/496835",
+      "pubDate": "Fri, 20 Nov 2026 22:55:11 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超悲報】エヌビディア株、米証券取引委員会が会計上の不正調査をしたことで大暴落！　→　全世界同時株安でAIバブル崩壊か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587879.html",
+      "pubDate": "2026-11-21T07:30:29+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -509,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/751b9a12.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『メイドインアビス』ポップアップストアが109で開催 →度し難くて様子がおかしい格好のヤツがいるんだけどｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587790.html",
-      "pubDate": "2026-11-20T19:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/e/de5dbdfb.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -650,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/11/20/2866202/",
       "pubDate": "Fri, 20 Nov 2026 07:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-3-8.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国人「日本人は何で中国が嫌いなの？仕返しされるのが怖いからですか？」→最高にキレのある返事が来てしまうｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462870.html",
-      "pubDate": "2026-11-20T15:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/7/377b7616.jpg"
     },
     {
       "siteId": "brutus",
@@ -1133,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【クリームコロッケそば】箱根そばが新発売したコロッケそばが問題作すぎる / 食べてみたら「破壊と創造」を感じた",
-      "description": "コロッケをそばにライドオン！　ポテトとそばつゆがストレンジなハーモニーを奏でるコロッケそばは、アリ派とナシ派で論争が起こる邪道そばだ。強引さも感じる一方で、それゆえにパワーがある。私（中澤）は、朴訥としたパワーに立ち食い [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/19/2865626/",
-      "pubDate": "Thu, 19 Nov 2026 02:55:56 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/hakone2.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1263,19 +1289,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "世界の中心から外れた場所に佇む2人の男女。静かな恋の物語、映画『すべて真夜中の恋人たち』を岸井ゆきの × 岨手由貴子が語る",
-      "description": "派手さのない人物をそのまま描く。映画における冬子の輪郭 岸井さんと岨手さんが最初に共有したのは、冬子の感情をわかりやすく説明しないこと。嫌なことがあっても、蓄積されず、どこかへ消えていく。 冬子への距離は、2人で対照的。 [&#8230;]",
-      "link": "https://brutus.jp/post-536804/",
-      "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1365,19 +1378,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/18/yakinikusakaba/",
       "pubDate": "Tue, 17 Nov 2026 23:01:41 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_6542-960x767.jpeg"
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "常識を “ひっくり返した”!? 〈ウォーターフロント〉が提案する、傘の新しいかたち。",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/design/495257",
-      "pubDate": "Tue, 17 Nov 2026 22:00:53 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T22:30:43.660086",
+  "updatedAt": "2026-11-20T23:00:50.784488",
   "sites": [
     {
       "id": "hachima",
