@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "難関試験に満点合格して学習商材で儲けた男性にAIカンニング疑惑浮上　→　疑惑を晴らすために現場で大学受験宣言するも、まさかの末路に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587497.html",
+      "pubDate": "2026-11-20T09:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f445142b.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【2027年福袋まとめ⑦】プロント×パンどろぼう、フレッシュネス×ムーミン、セブン…注目の福袋が目白押し！",
+      "description": "これまで第1弾、第2弾、第3弾、第4弾、第5弾、第6弾とお届けしてきた、2027年の福袋情報。そろそろ終わりに近づいてきたかと思いきや、まだまだ注目したい福袋が目白押し。 今回は、PRONTO × アニメ『パンどろぼう』 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/20/2865824/",
+      "pubDate": "Fri, 20 Nov 2026 00:00:13 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/cf24072e-1c0d-4421-8263-eaf053b25f13.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ソフトバンク・孫正義さん、号泣・・・その理由がこちら",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462859.html",
+      "pubDate": "2026-11-20T08:40:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/173511b2.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】日本語の「だいじょうぶです」の発音、ロシア人には◯◯◯◯という最悪の意味に聴こえてしまう模様！　うわああああ((((( ；ﾟДﾟ)))",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587490.html",
+      "pubDate": "2026-11-20T08:30:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/c/cced7bb4.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -496,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/e/9e4a5960.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】PHP、新たに重大な脆弱性が判明 サイトやサービスの休止を計画する動きも",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587402.html",
-      "pubDate": "2026-11-19T20:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/8422d6e6-s.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -520,19 +559,6 @@
       "link": "https://brutus.jp/post-532890/",
       "pubDate": "Thu, 19 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "エヌビディアCEOへのハニトラに大成功した中国女スパイ、中国ネットでアイドル化ｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587396.html",
-      "pubDate": "2026-11-19T19:30:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/87f7e05c.jpg"
     },
     {
       "siteId": "jin",
@@ -676,19 +702,6 @@
       "link": "https://jin115.com/archives/52462819.html",
       "pubDate": "2026-11-19T15:30:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/845eb739.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本応急手当普及員協議会「SNSで『男性が女性を救助するのは犯罪』みたいな投稿があるけど、それに法的根拠はない」→ネット民ブチギレ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462818.html",
-      "pubDate": "2026-11-19T15:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/0/b0b76aea.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1079,19 +1092,6 @@
       "link": "https://rocketnews24.com/2026/11/18/2865316/",
       "pubDate": "Wed, 18 Nov 2026 05:00:43 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2749-2.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【1本149円】モンスターエナジー（355ml・無糖）24本セットが3584円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。飲料・食品・アパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、エナジードリンクの代表格『モンスターエナジー（355ml・無糖）』 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/18/2865348/",
-      "pubDate": "Wed, 18 Nov 2026 03:03:36 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_0544.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-19T23:30:44.980263",
+  "updatedAt": "2026-11-20T00:00:52.526557",
   "sites": [
     {
       "id": "hachima",
