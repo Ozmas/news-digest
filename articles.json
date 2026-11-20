@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "木下優樹菜さん(38）、仕事関係者にブチギレ「AI以下な人間」「民度低過ぎて話にならない」 →ツッコミ殺到「おまいう」「自己紹介？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587559.html",
+      "pubDate": "2026-11-20T17:30:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a329d588-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,19 +793,6 @@
       "link": "https://brutus.jp/post-539678/",
       "pubDate": "Thu, 19 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "Netflixの人気サスペンス『地面師たち』、新シリーズ制作決定！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587485.html",
-      "pubDate": "2026-11-20T07:30:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/3/336b92bd.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T08:30:46.574221",
+  "updatedAt": "2026-11-20T09:00:03.438751",
   "sites": [
     {
       "id": "hachima",
