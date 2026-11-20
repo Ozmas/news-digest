@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "大手旅行系YouTuber『スーツ』さん、エグめのやらかしで謝罪&動画非公開へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462913.html",
+      "pubDate": "2026-11-21T04:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03f994d6.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "スマホゲー『ゆるキャン△ ～ぱずるキャンプ～』がサービス終了。開始から2年で……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587801.html",
+      "pubDate": "2026-11-21T04:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/54e31e65-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -522,19 +548,6 @@
       "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/11/9469224401ae0a9121d2e497e8260167.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "木下優樹菜さん(38）、仕事関係者にブチギレ「AI以下な人間」「民度低過ぎて話にならない」 →ツッコミ殺到「おまいう」「自己紹介？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587559.html",
-      "pubDate": "2026-11-20T17:30:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/3/a329d588-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/11/20/2866642/",
       "pubDate": "Fri, 20 Nov 2026 05:00:18 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2751-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "名ゼリフでネットミーム化しまくったネトフリ『地面師たち』、新シリーズ製作決定！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462877.html",
-      "pubDate": "2026-11-20T13:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/314dc946.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T19:00:50.994924",
+  "updatedAt": "2026-11-20T19:30:43.075190",
   "sites": [
     {
       "id": "hachima",
