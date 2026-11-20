@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "帽子の上で、日米決戦？〈New Era®〉のキャップ：Brutus Best Bets",
+      "description": "帽子の上で、日米決戦？ ロサンゼルスと東京を拠点に活動する、ヴィンテージ界の仕掛け人、ショーン・ウォザースプーン。〈ニューエラ〉との初コラボで、日米の球団が顔を揃えた。ロサンゼルス・ドジャースに読売ジャイアンツ。お馴染み [&#8230;]",
+      "link": "https://brutus.jp/post-539351/",
+      "pubDate": "Fri, 20 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画】トルコで友達と目隠し鬼的な遊びをした結果、鬼がヤバイことになり友達が喚く事態に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587556.html",
+      "pubDate": "2026-11-20T16:30:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/8/a8bd00db.png"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "【彬子女王のモダン建築めぐり】長楽館",
+      "description": "英国・オックスフォード大学大学院で博士号を取得され、美術やデザインへの造詣が深い彬子女王殿下が、明治、大正、昭和初期に建てられたモダン建築をめぐる新連載。その頃は西洋建築が輸入された時代であり、和風と洋風が折衷した独特な様式が魅力で、皇室ゆかりの施設も多く建てられています。そんなモダン建築について、彬子女王殿下ならではの視点で綴っていきます。\n\n第16回は〈長楽館〉。「明治の煙草王」村井吉兵衛が京",
+      "link": "https://casabrutus.com/categories/architecture/496313",
+      "pubDate": "Fri, 20 Nov 2026 07:25:17 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -795,19 +834,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/3/c3c187de.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "平成のテレビ番組が今見るとヤバすぎ！「日本一スロットがうまい男」がマジで酷い",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587423.html",
-      "pubDate": "2026-11-20T06:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/7224a881-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1328,19 +1354,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "モードな虫図鑑。Treehopper【ツノゼミ】",
-      "description": "異世界から来たような摩訶不思議ぶり 前胸背板が種によってアメージングな形状に発達する非常に小さな昆虫。角の内部は空洞状で風船のようになっており、擬態や身を守るためのほか、鳴き声を増幅するためにも使われるといわれている。ま [&#8230;]",
-      "link": "https://brutus.jp/post-521847/",
-      "pubDate": "Tue, 17 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1364,19 +1377,6 @@
       "description": "東京・DNP銀座ビルにて、「グラフィック文化に関する学術研究助成」成果報告会・交流会」が開催されます。 DNP文化振興財団では、グラフィック文化に関する学術研究を支援しています。今回の報告会では、助成を受けた5名の研究者 [&#8230;]",
       "link": "https://artscape.jp/article/83760/",
       "pubDate": "Tue, 17 Nov 2026 06:00:15 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "〈HUMAN MADE〉の旗艦店が原宿に登場！ 東京から世界へ、新たなカルチャー発信拠点に。",
-      "description": "原宿・明治通り沿いに〈HUMAN MADE〉初のフラッグシップストアとなる〈HUMAN MADE TOKYO〉がオープン。",
-      "link": "https://casabrutus.com/categories/fashion/495982",
-      "pubDate": "Tue, 17 Nov 2026 02:25:23 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T07:30:47.625144",
+  "updatedAt": "2026-11-20T08:00:51.441457",
   "sites": [
     {
       "id": "hachima",
