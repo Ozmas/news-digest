@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "A-POC ABLE ISSEY MIYAKE「地球を織るデニム」",
+      "description": "〈JAXA〉との協業による「TYPE-XVIII JAXA project」は、気候変動観測衛星「しきさい」の観測画像データを高度なジャカード織りの技術でジーンズとして織り上げたもの。宇宙から見た南極大陸の姿をまとうデニ [&#8230;]",
+      "link": "https://brutus.jp/post-538434/",
+      "pubDate": "Fri, 20 Nov 2026 05:50:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "政府「陰謀論系YouTuberの過去発言？まったく確認してませんわ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587529.html",
+      "pubDate": "2026-11-20T14:30:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/73f58852.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -756,19 +782,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78b97260-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "漫画家のAIの使い方が理想的すぎると話題に！「クリエイターがAIに求めてたのはこれ」「まさしくAIアシスタント」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587452.html",
-      "pubDate": "2026-11-20T02:00:43+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/1/917f5fbe.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1328,19 +1341,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "綴る、わがままな部屋。書評家・永江朗の居住空間学",
-      "description": "京町家の間取りは、ムダなようで意外と合理的 明治の終わりに建てられた町家をリノベーションして住んでいる。入手した時点ですでに何度も改装されていて、さらに屋根と柱を残して全面改装したから往時の面影はほとんどない。それでも間 [&#8230;]",
-      "link": "https://brutus.jp/post-531054/",
-      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T05:30:46.083426",
+  "updatedAt": "2026-11-20T06:00:50.652344",
   "sites": [
     {
       "id": "hachima",
