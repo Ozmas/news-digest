@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『すとぷり』ななもり氏「上場するアンソロピックの株を32億円買いました」→ガチでヤバいことになるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462881.html",
+      "pubDate": "2026-11-20T16:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/0/2032c052.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,19 @@
       "link": "https://rocketnews24.com/2026/11/20/2866202/",
       "pubDate": "Fri, 20 Nov 2026 07:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-3-8.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ソフトバンク・孫正義会長、2週間にわたり号泣したと告白　その理由が…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587540.html",
+      "pubDate": "2026-11-20T16:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/b/bbf0ce01.jpg"
     },
     {
       "siteId": "hachima",
@@ -782,19 +808,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/7224a881-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "自民党の麻生太郎「アジア大会は恥さらし」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587422.html",
-      "pubDate": "2026-11-20T05:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/87c2ab33.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -832,19 +845,6 @@
       "link": "https://jin115.com/archives/52462840.html",
       "pubDate": "2026-11-20T00:00:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/73ea2666-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性「障害者向けマッチングアプリで出会った経営者の方とランチ行ってきます！」 → 相手が実は生活保護と判明して発狂 → 衝撃の展開にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462832.html",
-      "pubDate": "2026-11-19T23:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/c/ac74d62f-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T07:00:52.932772",
+  "updatedAt": "2026-11-20T07:30:47.625144",
   "sites": [
     {
       "id": "hachima",
