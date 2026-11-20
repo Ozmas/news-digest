@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ポケットモンスタースペシャル』全64巻すべて「50％ポイント還元」セール！18,256円分返ってくる！「ギエピー」でお馴染みのギャグ漫画『ポケモン』も実質半額に！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462895.html",
+      "pubDate": "2026-11-20T20:20:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc447a0e.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】バス運転手さん、バス車内で〇〇する配信をしヤバイ事態へ・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462898.html",
+      "pubDate": "2026-11-20T20:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/93646e7a.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -873,19 +899,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/collage_640a0d.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "Suicaの新キャラ「名前募集します！」→あの名前が応募できず・・・いったいなぜ？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462852.html",
-      "pubDate": "2026-11-20T08:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26cb34de-s.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -923,19 +936,6 @@
       "link": "https://casabrutus.com/categories/design/495358",
       "pubDate": "Thu, 19 Nov 2026 22:00:44 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「努力不足でごめんね。あなたは努力できる環境と身体があってよかったね」→5万いいね超え",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462857.html",
-      "pubDate": "2026-11-20T07:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7b233cb.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T11:00:50.231194",
+  "updatedAt": "2026-11-20T11:30:47.367475",
   "sites": [
     {
       "id": "hachima",
