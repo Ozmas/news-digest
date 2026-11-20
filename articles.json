@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】有名リーカー「ほとんどのPCゲーマーは『GTA6』を60fpsで遊べない。CPUは◯◯級が必要、DLSSやFSRの効果は薄い」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587800.html",
+      "pubDate": "2026-11-20T20:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/c/6c3a4a47.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "斉藤壮馬の「ただいま、ゼロ年代。」第54回 トクマルシューゴ『Rum Hee』",
+      "description": "トクマルシューゴ『Rum Hee』 昔から、なんでもできる人に対する強い憧れがある。たとえばレオナルド・ダ・ヴィンチやジャン・コクトーなど、幅広い領域でその才能を発揮している人物になぜか惹かれてしまう。 音楽でいえば、一 [&#8230;]",
+      "link": "https://brutus.jp/post-532182/",
+      "pubDate": "Fri, 20 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【動画】最近のドラマのキスシーン、リアルすぎてヤバイ…ごくり",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462880.html",
+      "pubDate": "2026-11-20T19:40:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/782ca857.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "介護職員の男(38)「訪問介護先の男に『使えないやつだな』って言われてもう訪問したくねえ…せや！」 →相手の家に放火して逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587795.html",
+      "pubDate": "2026-11-20T19:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/a/8a09039b.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -561,19 +613,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/e/6e08c2c9.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "堀大輔さん、高須幹弥さんにちょっかい出す → その内容が洒落にならんとして炎上してしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587510.html",
-      "pubDate": "2026-11-20T11:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/4290a5d5.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -637,19 +676,6 @@
       "link": "https://brutus.jp/post-541550/",
       "pubDate": "Fri, 20 Nov 2026 02:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超悲報】Anthropic研究者がAIの未来を真剣に予想した結果…　「ほぼ全人類が永久に◯◯する」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587507.html",
-      "pubDate": "2026-11-20T10:30:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/751d08c3.jpg"
     },
     {
       "siteId": "jin",
@@ -910,19 +936,6 @@
       "link": "https://jin115.com/archives/52462857.html",
       "pubDate": "2026-11-20T07:00:14+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7b233cb.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【99円】『ビブリア古書堂の事件手帖』 『戦国コミケ』 『怒りのロードショー』など、KADOKAWAの人気作品が「全巻99円」の激安セール開催！！全巻イッキ読みフェア",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462851.html",
-      "pubDate": "2026-11-20T06:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/5/b5aa4611.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1273,19 +1286,6 @@
       "description": "9月3日（木） 曇り。 10時半、二度寝からの起床。BRUTUSから、この日記のオファーメールが来た。今年2月から、古本屋兼アーティストの小林優平とゆるく始めたポッドキャストを聴いてくれているらしい。 ここ最近、仕事の依 [&#8230;]",
       "link": "https://brutus.jp/post-531891/",
       "pubDate": "Wed, 18 Nov 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "一本の線に、手仕事あり。〈NULABEL〉のワークシャツ：Brutus Best Bets",
-      "description": "一本の線に、手仕事あり シルクスクリーンで刷ったストライプに、わざわざ職人が刷毛で色を重ねる。〈ニューレーベル〉のワークシャツは、そんな手間から生まれた。整った線にかすれや濃淡、微妙な揺らぎが加わり、一枚ごとに違う表情を [&#8230;]",
-      "link": "https://brutus.jp/post-539343/",
-      "pubDate": "Wed, 18 Nov 2026 08:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T10:30:45.986276",
+  "updatedAt": "2026-11-20T11:00:50.231194",
   "sites": [
     {
       "id": "hachima",
