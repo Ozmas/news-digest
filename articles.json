@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "アフリカ移民が雪崩れ込んだスペイン領セウタ、性犯罪が「650%」増加・他の犯罪も軒並みヤバい数の増加をしててガチでヤバい・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462864.html",
+      "pubDate": "2026-11-20T11:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/e/6e08c2c9.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "堀大輔さん、高須幹弥さんにちょっかい出す → その内容が洒落にならんとして炎上してしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587510.html",
+      "pubDate": "2026-11-20T11:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/4290a5d5.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +39,32 @@
       "link": "https://rocketnews24.com/2026/11/20/286495/",
       "pubDate": "Fri, 20 Nov 2026 02:00:41 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_0466.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "杉江あこ｜絵本作家 きくちちき展　いきもの Rhapsody",
+      "description": "会期：2026/10/07～2026/12/13 会場：PLAY! MUSEUM［東京都］ 公式サイト：https://play2020.jp/article/kikuchichiki/ 日々、当たり前のように豊かな自然 [&#8230;]",
+      "link": "https://artscape.jp/article/83423/",
+      "pubDate": "Fri, 20 Nov 2026 02:00:09 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "竹崎瑞季｜【アメリカ中西部】スカルプチャー・ミルウォーキー［中編］──街とアートの新たな生態系",
+      "description": "アメリカ・ウィスコンシン州の都市ミルウォーキーで、2017年から続くパブリック・アートのプロジェクト、「スカルプチャー・ミルウォーキー（Sculpture Milwaukee）」。前編に続き中編では、歴代のキュレーターに [&#8230;]",
+      "link": "https://artscape.jp/article/83158/",
+      "pubDate": "Fri, 20 Nov 2026 02:00:06 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "artscape",
@@ -626,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/293e01b3.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【初週売り上げ】スイッチ2版『メタファー』1.1万本、『ピクミン4 スイッチ2エディション』2800本！リメイク版『時オカ』2週目も好調！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587420.html",
-      "pubDate": "2026-11-19T22:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35436265.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/11/19/2865579/",
       "pubDate": "Thu, 19 Nov 2026 10:00:50 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/s1_40d0b4.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "橋本愛さん、新作映画で小栗旬さんと共演し衝撃のコメントを発表・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462829.html",
-      "pubDate": "2026-11-19T19:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/9/09091d5b.jpg"
     },
     {
       "siteId": "brutus",
@@ -1341,19 +1367,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "杉江あこ｜日本のアートディレクション展 2026",
-      "description": "会期：2026/10/30～2026/11/30 会場：ギンザ・グラフィック・ギャラリー（ggg）［東京都］ 公式サイト：https://www.dnpfcp.jp/gallery/ggg/jp/00000862 数ある [&#8230;]",
-      "link": "https://artscape.jp/article/83445/",
-      "pubDate": "Tue, 17 Nov 2026 02:00:36 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1404,19 +1417,6 @@
       "link": "https://www.buzzfeed.com/jp/munenoriumeki/ikoi-hayase-cover",
       "pubDate": "Sun, 15 Nov 2026 21:01:03 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/08/subbuzz/ngm0FDe24.jpg?crop=3157:2105;0,582&resize=1250:830"
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "高嶋慈｜KYOTO EXPERIMENT 京都国際舞台芸術祭 2026　①ティアゴ・ロドリゲス『By Heart―心で覚える』",
-      "description": "会期：2026/10/03～2026/10/04 会場：ロームシアター京都 サウスホール［京都府］ 公式サイト：https://kyoto-ex.jp/program/tiago-rodrigues/ KYOTO EXP [&#8230;]",
-      "link": "https://artscape.jp/article/81979/",
-      "pubDate": "Mon, 16 Nov 2026 02:00:47 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T02:00:58.640865",
+  "updatedAt": "2026-11-20T02:30:44.240239",
   "sites": [
     {
       "id": "hachima",
