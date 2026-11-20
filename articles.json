@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ロックの話をしよう。Vol.23「ロックのロマン」",
+      "description": "ロックが流行らなくなった。そんな身も蓋もない話から、この対談は始まる。 かつてロックは、若者の音楽であり、バンドの音楽であり、衝動やロマンや思想を映し出す音楽だった。ギターを持つこと、バンドを組むこと、レコードを買うこと [&#8230;]",
+      "link": "https://brutus.jp/post-538452/",
+      "pubDate": "Fri, 20 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】『GTA6』のYouTube配信で削除相次ぐ　YouTube側も誤り認めるレベルで多発",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587789.html",
+      "pubDate": "2026-11-20T18:40:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6f307e8d-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -691,19 +717,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】サカナクション山口一郎さん出演『宝くじ』CMがシュールすぎｗ　→　実は現実の厳しいCM規制を巧妙にクリアした天才の仕事だった！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587501.html",
-      "pubDate": "2026-11-20T09:30:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/9/1901de08.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1289,19 +1302,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "【今日のギフト】存在感のあるサイズで多彩に活躍。〈Onawa〉のクリップ",
-      "description": "文房具を集めるあの人へ大きなクリップ 〈Onawa〉のクリップ 福岡市の西浦漁港にスーベニアショップを構える〈MUNI〉が手がけるオリジナルブランド〈Onawa（おなわ）〉。 創業60年の金属加工会社との協業によって生ま [&#8230;]",
-      "link": "https://brutus.jp/post-540348/",
-      "pubDate": "Wed, 18 Nov 2026 03:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T09:30:47.129274",
+  "updatedAt": "2026-11-20T10:00:54.185756",
   "sites": [
     {
       "id": "hachima",
