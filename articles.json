@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】向島3丁目の薬師湯にて「第4回 ご近所銭湯展」開催中。11月22日はトークイベントも！",
+      "description": "向島3丁目スカイツリーのふもとの銭湯「薬師湯」では現在、昭和の風景を描いたイラストや、昭和48年当時の墨田区銭湯マップ、庶民文化研究家・町田忍氏ご協力による廃業銭湯の貴重な写真資料などが展示中です。 また、2026年11 [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/21/gokinjyosentoten/",
+      "pubDate": "Fri, 20 Nov 2026 23:01:47 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/9d4f032cdc46384b2976e9bf9a1e9882-1024x767.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ネタバレなし】型月とufoの最新作映画『魔法使いの夜』、原作勢・新規ともに賛否両論！　「◯◯◯」と酷評が集まる…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587886.html",
+      "pubDate": "2026-11-21T08:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/4/e42db059.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -533,19 +559,6 @@
       "link": "https://jin115.com/archives/52462880.html",
       "pubDate": "2026-11-20T19:40:22+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/782ca857.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "介護職員の男(38)「訪問介護先の男に『使えないやつだな』って言われてもう訪問したくねえ…せや！」 →相手の家に放火して逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587795.html",
-      "pubDate": "2026-11-20T19:30:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/a/8a09039b.jpg"
     },
     {
       "siteId": "jin",
@@ -1575,19 +1588,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8520-1024x767.jpeg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】東向島駅前のマクドナルド東向島店が改装の為休業中です。",
-      "description": "東武線東向島駅前のマクドナルド東向島店が現在、休業中です。 休業は2026年10月26日～11月30日の予定。 2026年12月1日（火）AM7：00　リフレッシュオープンです。 セルフオーダーポート設置予定 ご利用の利 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/11/11/macdonaldhigashimukojima/",
-      "pubDate": "Tue, 10 Nov 2026 23:01:57 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/9B97CEEB-7BF6-4072-B2C2-057B2D95ECCE-810x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T23:00:50.784488",
+  "updatedAt": "2026-11-20T23:30:40.653064",
   "sites": [
     {
       "id": "hachima",
