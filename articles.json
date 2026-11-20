@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【2027福袋】福袋シーズン本番前に手に入れて良かったNo.1は「ホカロン レディース靴下福袋」に決定",
+      "description": "本来、福袋はお正月の風物詩。しかし最近は早期販売や予約などで11月から販売を開始している福袋も多い。 数ある福袋の中で、個人的に「本格的な福袋シーズンを迎える前にゲットできて良かった……！」と心の底から思っているのが「ホ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/20/2866202/",
+      "pubDate": "Fri, 20 Nov 2026 07:00:28 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-3-8.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アフリカ移民がなだれこんだスペイン領セウタ、性犯罪が◯◯◯％増加して大半が子どもを標的としていたと判明・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587534.html",
+      "pubDate": "2026-11-20T15:30:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/5/b5b17042.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -769,19 +795,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/87c2ab33.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『GTA6』が「グラフィックが進化した結果汚くなったゲーム」と言われてしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587419.html",
-      "pubDate": "2026-11-20T04:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/3/f34bbdcc.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1079,19 +1092,6 @@
       "link": "https://artscape.jp/article/83779/",
       "pubDate": "Thu, 19 Nov 2026 01:00:34 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "人生初の「なか卯」だけど看板メニューをスルーしたっていいよね？ ハンバーグとセットで頼んだスイーツが忘れられない存在になった",
-      "description": "全国的には有名でも、一度も利用したことがないチェーン店って意外にあると思う。自分の生活圏内には店舗がなかったり、なんとなくタイミングを逃し続けていたりしてね。 私にとって、そのひとつが「なか卯」だった。看板メニューが親子 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/19/2862538/",
-      "pubDate": "Thu, 19 Nov 2026 01:00:03 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3621.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T06:30:46.771959",
+  "updatedAt": "2026-11-20T07:00:52.932772",
   "sites": [
     {
       "id": "hachima",
