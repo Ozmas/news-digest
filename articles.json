@@ -2,17 +2,43 @@
   "ok": true,
   "articles": [
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "難関試験に満点合格して学習商材で儲けた男性にAIカンニング疑惑浮上　→　疑惑を晴らすために現場で大学受験宣言するも、まさかの末路に…",
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "スタバ新作『抹茶 ティラミス フラペチーノ』を飲んでみた！ 定番の「抹茶フラペ」よりやや甘みが抑え目で、けれども濃厚な特別感",
+      "description": "いよいよクリスマスが近づいてきたことを感じさせるドリンクが、スターバックスから登場だ。2026年11月20日にデビューとなった『抹茶 ティラミス フラペチーノ』は、まさにクリスマスツリーのようなビジュアル。今の時期にこれ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/20/2866716/",
+      "pubDate": "Fri, 20 Nov 2026 00:30:08 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/c27e513a-6d59-429d-acd9-3fec92e6137e.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "カードゲーム『WIXOSS』、新規展開の終了へ 12年間のサービス展開に幕",
       "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587497.html",
-      "pubDate": "2026-11-20T09:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f445142b.png"
+      "link": "https://jin115.com/archives/52462860.html",
+      "pubDate": "2026-11-20T09:30:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/ed1813be.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『CLANNAD』コラボカフェのサバ味噌煮定食、この世の終わりみたいな価格で話題にｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462854.html",
+      "pubDate": "2026-11-20T09:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f0ca05ee.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -26,6 +52,19 @@
       "link": "https://rocketnews24.com/2026/11/20/2865824/",
       "pubDate": "Fri, 20 Nov 2026 00:00:13 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/cf24072e-1c0d-4421-8263-eaf053b25f13.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "難関試験に満点合格して学習商材で儲けた男性にAIカンニング疑惑浮上　→　疑惑を晴らすため現場で大学受験宣言するも、まさかの末路に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587497.html",
+      "pubDate": "2026-11-20T09:00:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f445142b.png"
     },
     {
       "siteId": "jin",
@@ -678,32 +717,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本政府が広報に起用した陰謀論系YouTuber、予算がエグすぎると話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462820.html",
-      "pubDate": "2026-11-19T16:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/0/50e9d790.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】『砂ぼうず』 『天地無用！魎皇鬼』 『マケン姫っ！』など、KADOKAWAの人気作品が「全巻99円」の激安セールは今日まで！！秋カド2026！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462819.html",
-      "pubDate": "2026-11-19T15:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/4/845eb739.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1079,19 +1092,6 @@
       "link": "https://rocketnews24.com/2026/11/18/2865352/",
       "pubDate": "Wed, 18 Nov 2026 06:00:53 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/haitoku06.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2749回「いる」",
-      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/11/18/2865316/",
-      "pubDate": "Wed, 18 Nov 2026 05:00:43 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2749-2.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T00:00:52.526557",
+  "updatedAt": "2026-11-20T00:30:48.850982",
   "sites": [
     {
       "id": "hachima",
