@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2751回「今の九ちゃん①」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/11/20/2866642/",
+      "pubDate": "Fri, 20 Nov 2026 05:00:18 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2751-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "53歳の男性音楽講師、10代の男子高校生とおせっせしたとして逮捕される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587524.html",
+      "pubDate": "2026-11-20T13:30:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/ea451ea9-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -730,19 +756,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/200a3e0d.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ロックスターの開発者「PS5 Proでも『GTA6』の60fpsは不可能。CPU性能が足りない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587444.html",
-      "pubDate": "2026-11-20T01:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/e/2e091697.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1079,19 +1092,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/19/soranonemarche13th/",
       "pubDate": "Wed, 18 Nov 2026 23:01:37 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/9feb10c0f2e1e0133178949f4452e49f-1086x1536-1-1024x767.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【要注意】2026年版『日本で最も使われるパスワードTOP20』発表 → 1位は「pass1111」9位は「Onepiece1」",
-      "description": "個人情報流出に関する情報が後を絶たない。ここまで来ると「日本人全員、個人情報が流出している」と思えてしまうが、まだしばらくはこの流れは続きそう。というか、どうすれば解決なのかさえもよくわかっていない。 2026年11月、 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/19/2865505/",
-      "pubDate": "Wed, 18 Nov 2026 23:00:32 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/pass.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T04:30:45.418069",
+  "updatedAt": "2026-11-20T05:00:51.534800",
   "sites": [
     {
       "id": "hachima",
