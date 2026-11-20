@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】女性へのAED使用で声明を出して炎上した『日本応急手当普及協議』、無茶苦茶な事になってしまう・・・",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587791.html",
+      "pubDate": "2026-11-21T00:00:54+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5bc5f98c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "捜査で入手した女児ポルノ動画をコピーし所持していた男性巡査部長、懲戒処分へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462907.html",
+      "pubDate": "2026-11-21T00:00:38+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/f/ef2a28c5.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -600,19 +626,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "政府「陰謀論系YouTuberの過去発言？まったく確認してませんわ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587529.html",
-      "pubDate": "2026-11-20T14:30:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/73f58852.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -715,19 +728,6 @@
       "link": "https://rocketnews24.com/2026/11/20/2865144/",
       "pubDate": "Fri, 20 Nov 2026 02:30:38 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kousin09.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "喧嘩を仲裁した女子中学生、逮捕される",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462867.html",
-      "pubDate": "2026-11-20T11:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/0/60cddf21.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T15:00:57.190499",
+  "updatedAt": "2026-11-20T15:30:46.486396",
   "sites": [
     {
       "id": "hachima",
