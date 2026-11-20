@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "株主になったので、生まれて初めて「イオンラウンジ」を利用してみた正直な感想",
+      "description": "一部のイオン店舗には、「イオンラウンジ」という限られた人だけが利用できる専用エリアがある。そこでは静かな空間で、無料ドリンクなどを楽しめるという。 これまでまったく縁がなかった私（あひるねこ）だが、このたびイオンの株主に [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/20/2865357/",
+      "pubDate": "Fri, 20 Nov 2026 09:00:06 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_1185.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "オーディション",
+      "description": "ニット39,600円（アラン ペイン／真下商事 TEL：03-6412-7081）、中に着たスキッパーニット52,800円、デニムパンツ58,300円、シューズ110,000円（以上ディ・ドライベーグ／ワーズ サウンズ カラーズアンドシェイプス TEL：03-6455-1847）、スカーフ34,650円（ナイスネス／イーライト TEL：03-6712-7034）\n\t\t\n\t\n\n\n\n\nニットカーディガ",
+      "link": "https://brutus.jp/post-539740/",
+      "pubDate": "Fri, 20 Nov 2026 09:00:00 +0000",
+      "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/11/9469224401ae0a9121d2e497e8260167.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1094,19 +1120,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "すき家の「ねぎ塩豚タン丼」はタン9切れで大満足。新作シェイクと合わせても1000円以下で楽しめる！",
-      "description": "「タン」と言えば、焼肉の中でも人気の部位。しかし、どうしても豚タンに比べると牛タンのほうが格上なイメージ……。 そんな中、「すき家」が2026年11月17日に発売したのが「ねぎ塩豚（トン）タン丼」だ。 牛丼チェーンが豚タ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/19/2865407/",
-      "pubDate": "Thu, 19 Nov 2026 02:00:24 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/b3.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1339,19 +1352,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/18/yakinikusakaba/",
       "pubDate": "Tue, 17 Nov 2026 23:01:41 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_6542-960x767.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "近年、若い世代の支持を集めている政治家は誰？：BRUTUS CITY JOURNAL",
-      "description": "🇬🇧 両極化が進む政治情勢から台頭。緑の党のザック・ポランスキー イギリス／ロンドン 2026年5月の地方選挙では二大政党が票を減らし、全国的には極右のリフォームUK党、ロンドンではザック・ポランスキーが党首の緑の党が大 [&#8230;]",
-      "link": "https://brutus.jp/post-521289/",
-      "pubDate": "Tue, 17 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T09:00:03.438751",
+  "updatedAt": "2026-11-20T09:00:53.773528",
   "sites": [
     {
       "id": "hachima",
