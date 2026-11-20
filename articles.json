@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女さん(22)、ゲームセンターで大暴れ 大量のけが人を出すやばい事態に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462855.html",
+      "pubDate": "2026-11-20T10:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/f/dfee7bd1.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【青森】「志賀理江子 なぬもかぬも」展 関連イベント",
+      "description": "青森県立美術館にて開催中の、青森県立美術館開館20周年／東日本大震災15年「志賀理江子 なぬもかぬも」展の関連イベントが開催されます。 志賀の案内のもと、志賀に影響を与え続ける方々の言葉や実践を通して作品の源泉にふれるト [&#8230;]",
+      "link": "https://artscape.jp/article/84049/",
+      "pubDate": "Fri, 20 Nov 2026 01:00:30 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -730,19 +756,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/nakazawa4.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "クレジットカード番号全桁＆セキュリティコード全てが流出してしまう不正アクセス発生！→手口がヤバすぎて話題に、誰が防げるんだよ！？",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462821.html",
-      "pubDate": "2026-11-19T17:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/b/6b3ea58e.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1406,19 +1419,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "塚田優｜渡辺こころ『きみとわたし』",
-      "description": "第13回 新千歳空港国際アニメーション映画祭 会期：2026/11/20〜24 会場：新千歳空港ターミナルビル（新千歳空港シアターなどを予定） 主催：新千歳空港国際アニメーション映画祭実行委員会 公式サイト：https: [&#8230;]",
-      "link": "https://artscape.jp/article/81834/",
-      "pubDate": "Mon, 16 Nov 2026 02:00:13 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T01:00:53.682201",
+  "updatedAt": "2026-11-20T01:07:03.490020",
   "sites": [
     {
       "id": "hachima",
