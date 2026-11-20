@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "毎年大人気のUCC福袋、アウトレット版が狙い目だと気づき2年連続で買ってみたら…ほぼ半額の高コスパは変わってなかった / 福袋2027",
+      "description": "毎年大人気のUCCの福袋。2027年版も発売からほどなくして完売となった。数種類あるにもかかわらず、いずれもあっという間に売り切れてしまったのだ。一部再販もあるようだが、これまでの様子を見るに、購入するにはかなりの気合が [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/20/286495/",
+      "pubDate": "Fri, 20 Nov 2026 02:00:41 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_0466.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "村田真｜美術遊歩15──2026年、芸術祭の秋（後編）",
+      "description": "（前編より） 国際美術展 TOKYO ATLAS 会期：2026/10/10～12/20 場所：東京都江東区＋品川区＋港区（青海エリア＋台場エリア＋天王洲エリア） 主催：東京都＋東京国際文化芸術祭実行委員会＋公益財団法人 [&#8230;]",
+      "link": "https://artscape.jp/article/83369/",
+      "pubDate": "Fri, 20 Nov 2026 02:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "木梨憲武が語る、アートとコーヒーのある暮らし。",
+      "description": "",
+      "link": "https://brutus.jp/post-541550/",
+      "pubDate": "Fri, 20 Nov 2026 02:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超悲報】Anthropic研究者がAIの未来を真剣に予想した結果…　「ほぼ全人類が永久に◯◯する」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587507.html",
+      "pubDate": "2026-11-20T10:30:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/751d08c3.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "コンビニ店員「助けて！もうすぐ閉店なのに間違えてファミチキ10枚揚げちゃったの！」→結果ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462856.html",
+      "pubDate": "2026-11-20T10:30:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/3131ed5e-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -587,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/c/2c689aa1.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【動画あり】香港のテレビ局、INMU KINGをお茶の間に放送してしまうｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587411.html",
-      "pubDate": "2026-11-19T21:30:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/b/0bc58bda-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,19 +780,6 @@
       "link": "https://brutus.jp/post-444302/",
       "pubDate": "Thu, 19 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ぶいすぽ運営、絵師に対しアカ削除要求→大炎上し声明発表へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462828.html",
-      "pubDate": "2026-11-19T18:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/e/cefdbefc.png"
     },
     {
       "siteId": "rocketnews",
@@ -1107,19 +1146,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "吉野家の福箱2027の先着限定品が実は当たり年な理由 / あるいは、6年福袋を買い続けたら『ONE PIECE』みたいになった話",
-      "description": "飽きたこともあった。嫌いになりかけたことも。しかし、結局は離れられないのが吉野家である。吉野家、それは愛。吉野家は私（中澤）がいないとダメなんだ！ そんなわけで、2020年から吉野家の福箱を購入して6年目になる私。今年も [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/18/2865187/",
-      "pubDate": "Wed, 18 Nov 2026 09:00:02 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/yoshinoya5.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1276,19 +1302,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "英国紳士も、進化する。〈Traditional Weatherwear〉のセミワイドスラックス：Brutus Best Bets",
-      "description": "英国紳士も、進化する ツイードは重い。そんな常識はもう古い。〈トラディショナル ウェザーウェア〉が開発した“ヒートツイード”は、表にウール、裏に吸湿発熱繊維を織り込んだ機能素材。クラシックな風合いはそのままに、軽くて暖か [&#8230;]",
-      "link": "https://brutus.jp/post-539337/",
-      "pubDate": "Tue, 17 Nov 2026 08:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1402,19 +1415,6 @@
       "title": "高嶋慈｜KYOTO EXPERIMENT 京都国際舞台芸術祭 2026　①ティアゴ・ロドリゲス『By Heart―心で覚える』",
       "description": "会期：2026/10/03～2026/10/04 会場：ロームシアター京都 サウスホール［京都府］ 公式サイト：https://kyoto-ex.jp/program/tiago-rodrigues/ KYOTO EXP [&#8230;]",
       "link": "https://artscape.jp/article/81979/",
-      "pubDate": "Mon, 16 Nov 2026 02:00:47 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "編集雑記……65──今年は秋がちゃんとある",
-      "description": "前回の筆者担当の雑記で「週末の予定がパズルになってきている」と書いた通り、10月から11月前半にかけては、アート／デザインのイベントや舞台芸術祭、はたまた文学フリマやブックフェア、そして展覧会も怒涛の会期末ラッシュでした [&#8230;]",
-      "link": "https://artscape.jp/article/83685/",
       "pubDate": "Mon, 16 Nov 2026 02:00:47 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T01:30:44.359339",
+  "updatedAt": "2026-11-20T02:00:58.640865",
   "sites": [
     {
       "id": "hachima",
