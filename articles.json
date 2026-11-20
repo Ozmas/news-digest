@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ガールズバンドクライ First Riff』に登場する新バンドのメンバーがアプリ開始前に活動休止……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587799.html",
+      "pubDate": "2026-11-21T03:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/ebf431d2-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -533,19 +546,6 @@
       "link": "https://jin115.com/archives/52462879.html",
       "pubDate": "2026-11-20T17:00:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/a/6a164247-s.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大炎上したスイッチ2『テーブルゲームワールド』公式が謝罪 「世界中のプレイヤーと遊べる」は誤り",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587558.html",
-      "pubDate": "2026-11-20T17:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/2/e28b02fe-s.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T17:43:46.999876",
+  "updatedAt": "2026-11-20T18:00:50.510119",
   "sites": [
     {
       "id": "hachima",
