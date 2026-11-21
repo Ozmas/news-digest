@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ダウンで着ぶくれしたくないならワークマンのメンズ「エックスシェルター」を着ればいいじゃない！ 女性の私も推す理由",
+      "description": "冬の寒さ対策にも定評があるワークマン。これまで当サイトでもあったかインナーやイヤーウォーマーなどを紹介してきたが、今季もひときわ注目度が高いのが「XShelter（エックスシェルター）」シリーズだ。 メンズ、レディースと [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/21/2866673/",
+      "pubDate": "Sat, 21 Nov 2026 00:00:13 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/w1_a16300.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -34,10 +47,10 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ネタバレなし】型月とufoの最新作映画『魔法使いの夜』、原作勢・新規ともに賛否両論！　「◯◯◯」と酷評が集まる…",
+      "title": "【ネタバレなし】映画『魔法使いの夜』、原作勢・新規ともに賛否両論！　「◯◯◯」と酷評が集まる…",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10587886.html",
-      "pubDate": "2026-11-21T08:00:41+09:00",
+      "pubDate": "2026-11-21T08:00:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/4/e42db059.jpg"
     },
     {
@@ -1159,19 +1172,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2750-2.png"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ほぼ半額】Championの裏起毛トレーナーが5830円 → 2937円 / Amazonタイムセール",
-      "description": "毎日お得なタイムセールを開催しているAmazon。アパレル・飲料・食品など、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、チャンピオンの裏起毛トレーナーをピックアップ！ いまなら41％オフ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/19/2865950/",
-      "pubDate": "Thu, 19 Nov 2026 03:20:53 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_4199.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-20T23:51:34.531700",
+  "updatedAt": "2026-11-21T00:00:52.436955",
   "sites": [
     {
       "id": "hachima",
