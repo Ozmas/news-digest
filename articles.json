@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第118話「経」",
+      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/21/2866837/",
+      "pubDate": "Sat, 21 Nov 2026 08:00:09 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kikimimi123-1koma.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ダリの名画が着想源。〈TOLQ〉のスラックス：Brutus Best Bets",
+      "description": "ダリの名画が着想源 トロンプルイユを得意とする〈トルク〉の新作スラックスは、伝統的なガンクラブチェックを大胆に歪ませたもの。着想源は、スペインの画家、サルバドール・ダリの名画《記憶の固執》。あの溶けた時計をイメージし、職 [&#8230;]",
+      "link": "https://brutus.jp/post-539558/",
+      "pubDate": "Sat, 21 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『東島丹三郎は仮面ライダーになりたい』 『アンタゴニスト』 『テンゲン英雄大戦』などの人気作品が全巻99円で買える激安セール開催！！このチャンスを見逃すな！！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462938.html",
+      "pubDate": "2026-11-21T16:30:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/5/d526d0f8.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -678,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa6b3121-s.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "母親「小学生の子供がAIに何相談してるか見ちゃおっとｗ」 → ヤバすぎる相談を見つけて絶望・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462891.html",
-      "pubDate": "2026-11-20T21:40:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/5/45bfcd11-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1081,19 +1107,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_5525-e1795001861314-1024x767.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【ガチ連載】「週刊アシェットスヌーピー」第13号：娘が大事なパーツに落書き！ と思いきや、むしろ味が出た話",
-      "description": "ピーナッツ！　気がついたら11月も後半戦に突入していて驚くが、それはそれとして今日も元気に「週刊アシェットスヌーピー」をお送りしていきたい。 先週はライナスの「安心毛布」がボロボロだったことに全部持っていかれたが、今週は [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/20/2865253/",
-      "pubDate": "Thu, 19 Nov 2026 23:00:49 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/collage_640a0d.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1300,19 +1313,6 @@
       "link": "https://www.buzzfeed.com/jp/buzzfeedjapanshopping/iherb-black-friday-2026",
       "pubDate": "Wed, 18 Nov 2026 16:31:02 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/17/14/subbuzz/J42N8qhQm.jpg?crop=286:191;263,369&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "アーティスト・井上涼に聞いた、推しミュージアムの推しコレクション",
-      "description": "高松市美術館（香川）の 《電気服》 どんな感想を持ってもいったん否定せず大事にするのも、鑑賞方法の一つかなと思います。約200個の電球でできた《電気服》は、初めて見た時にスイッチが入る瞬間のバチンッという音とギラギラな光 [&#8230;]",
-      "link": "https://brutus.jp/post-536526/",
-      "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T07:30:48.759944",
+  "updatedAt": "2026-11-21T08:00:49.096691",
   "sites": [
     {
       "id": "hachima",
