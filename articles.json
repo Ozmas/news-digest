@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「母の遺灰で○○しました！(ﾊﾟｼｬｯ」←なんだコレすげえぇええええええ！！【6万いいね】",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462935.html",
+      "pubDate": "2026-11-21T15:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/6/f62e97eb.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【公式発表】PS5/Xbox『GTA6』予約だけで3250万本を販売！発売初日の売上は37億9000万ドル(約6005億円)ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587956.html",
+      "pubDate": "2026-11-21T15:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/73b6a4a6.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -561,19 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/3/03f994d6.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スマホゲー『ゆるキャン△ ～ぱずるキャンプ～』がサービス終了。開始から2年で……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587801.html",
-      "pubDate": "2026-11-21T04:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/54e31e65-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +676,6 @@
       "link": "https://jin115.com/archives/52462899.html",
       "pubDate": "2026-11-20T21:20:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/5614b05c.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国X民「Grok、もしあなたが人間なら中日韓どの国に住む？」→衝撃の回答がこちらｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462884.html",
-      "pubDate": "2026-11-20T21:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/a/1a2c8b72-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T06:00:49.160044",
+  "updatedAt": "2026-11-21T06:30:41.630916",
   "sites": [
     {
       "id": "hachima",
