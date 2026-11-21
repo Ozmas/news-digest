@@ -15,6 +15,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3515_1920_10a6a2.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【朗報】『ピングー』、約8年ぶりに地上波で復活！  シーズン1放送決定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587897.html",
+      "pubDate": "2026-11-21T10:00:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/f/9fc5b248.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "https://jin115.com/archives/52462891.html",
       "pubDate": "2026-11-20T21:40:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/5/45bfcd11-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "東京大学が皮膚に装着する「ナノメッシュ皮膚センサ」を開発 →「人修羅」「猗窩座」「サイバーパンクすぎる」と話題にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587821.html",
-      "pubDate": "2026-11-20T21:30:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/35390fc2.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T01:00:51.641583",
+  "updatedAt": "2026-11-21T01:30:43.284546",
   "sites": [
     {
       "id": "hachima",
