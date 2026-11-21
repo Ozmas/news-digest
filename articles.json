@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『GTA6』のメタスコアが99点の中、ユーザースコアは10点満点のうち5.4点！賛否両論という結果に 「」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587899.html",
+      "pubDate": "2026-11-21T11:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e74ce6e5.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "楽天ブラックフライデーでUNDER ARMOURが最大60％オフ！ 送料無料かつ半額以下のトレーニングウェアなど41点を厳選してみた",
+      "description": "いま楽天市場で開催されている特大セール「楽天ブラックフライデー」。さまざまな人気商品を特別価格で手に入れるチャンスがやってきたぞ。 さて本日は、最大60％オフセールを開催している「アンダーアーマー（公式楽天市場店）」に注 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/21/2867269/",
+      "pubDate": "Sat, 21 Nov 2026 01:45:10 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_0068.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【報道】高市政権、「国家総動員体制」へのレールを舗装中か　「自衛隊と民間の一体化が必要」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587905.html",
+      "pubDate": "2026-11-21T10:30:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/1/41c81610.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本人「ベトナム人11人逮捕…こんな奴ら日本に必要？」→ベトナム人ブチギレ反論へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462920.html",
+      "pubDate": "2026-11-21T10:30:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/7/270a6198.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -457,32 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/62d600d8.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【内閣府世論調査】日中関係「良好だと思わず」93％、日中関係の発展「重要だと思う」70.4％",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587828.html",
-      "pubDate": "2026-11-20T22:30:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/c/dcdd86b1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【愛知・小牧市 強殺未遂】少年ら「楽しそうだった」から住宅に侵入し82歳女性を棒で殴る　闇バイトへの参加動機を供述",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587823.html",
-      "pubDate": "2026-11-20T22:00:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/1106238a.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +663,6 @@
       "link": "https://jin115.com/archives/52462893.html",
       "pubDate": "2026-11-20T19:20:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/3/33a6b2a1.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "高市首相、不名誉なあだ名が広がり始める・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462887.html",
-      "pubDate": "2026-11-20T19:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/751b9a12.jpg"
     },
     {
       "siteId": "brutus",
@@ -1157,19 +1170,6 @@
       "link": "https://casabrutus.com/categories/art/496486",
       "pubDate": "Thu, 19 Nov 2026 07:25:31 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【福袋2027】松屋『懸賞付きグルメ福袋』は驚異の約60％オフ！ テンションは上がらないがコスパは最強!!",
-      "description": "残すところあとわずかとなった2026年。今年も色々あったが、早くも福袋界隈が始動し始めている。というか、どの企業さんもさすがに仕掛けが早すぎやしませんかね？　情緒どこ行った。 とか言いながら、この記事では松屋の『懸賞付き [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/19/2864566/",
-      "pubDate": "Thu, 19 Nov 2026 06:00:08 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/matuya01.jpeg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T01:30:43.284546",
+  "updatedAt": "2026-11-21T02:00:56.840634",
   "sites": [
     {
       "id": "hachima",
