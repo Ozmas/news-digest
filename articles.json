@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ジム・ジャームッシュ監督が初めて家族をテーマにした最新作『ファーザー マザー シスター ブラザー』を語る",
+      "description": "アダム・ドライヴァーの父親が、トム・ウェイツだったらって 『ファーザー マザー シスター ブラザー』ではニュージャージー（アメリカ）、ダブリン（アイルランド）、パリ（フランス）を舞台に3つの異なる家族を描く、いわゆるオム [&#8230;]",
+      "link": "https://brutus.jp/post-539701/",
+      "pubDate": "Sat, 21 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "日本人「グローバル版『GTA6』をインスコしたら、日本語ねぇんだけど！！」 → 外国人から皮肉が殺到してしまう… 「日本は外国人に日本語を求めるくせに」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588247.html",
+      "pubDate": "2026-11-22T07:30:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e74ce6e5.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -455,19 +481,6 @@
       "link": "https://brutus.jp/post-539709/",
       "pubDate": "Sat, 21 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【AED騒動】女性「自称フェミニストが女性全体を危機に陥れている」「女性側がフェミをしっかり根絶しないと」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588077.html",
-      "pubDate": "2026-11-21T18:30:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/ebd6eacf.jpg"
     },
     {
       "siteId": "jin",
@@ -1211,19 +1224,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "エリア別に知っておきたい。通いたくなるタイ・バンコクのローカル食堂 〜サパーンタクシン駅周辺編〜",
-      "description": "ミシュランも認めるとろとろの豚足煮込み Charoen Saeng Silom 1959年に屋台から始まった豚足煮込み・カームー（写真）の専門店。使用するのは脂のノリが良く、ゼラチン質たっぷりの前足のみ。まず、シナモン、 [&#8230;]",
-      "link": "https://brutus.jp/post-444302/",
-      "pubDate": "Thu, 19 Nov 2026 10:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T22:30:48.688723",
+  "updatedAt": "2026-11-21T23:00:50.511966",
   "sites": [
     {
       "id": "hachima",
