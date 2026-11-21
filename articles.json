@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "自民党「人口減少ヤバいな…せや！それを対応する『人口戦略庁』の創設を政府に来月提言したろ！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587966.html",
+      "pubDate": "2026-11-21T17:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/3/e353bbd6.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ゆたぼんくん、なんかヤバそうだと話題に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462940.html",
+      "pubDate": "2026-11-21T17:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/10e0835a.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -600,19 +626,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超悲報】エヌビディア株、米証券取引委員会が会計上の不正調査をしたことで大暴落！　→　全世界同時株安でAIバブル崩壊か",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587879.html",
-      "pubDate": "2026-11-21T07:30:04+09:00",
-      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -702,19 +715,6 @@
       "link": "https://jin115.com/archives/52462906.html",
       "pubDate": "2026-11-20T23:00:57+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/7/b7d1757e-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性VTuber「放送に毎日来てたリスナーが3日くらい来なくて心配だからDM送ってみるわ！」 → 相手からとんでもない返信がくるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462897.html",
-      "pubDate": "2026-11-20T22:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa6b3121-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T08:00:49.096691",
+  "updatedAt": "2026-11-21T08:30:50.941028",
   "sites": [
     {
       "id": "hachima",
