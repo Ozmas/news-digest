@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【知ってた？】「京都で巨大なち◯こを出す場合、景観を損ねないよう茶色にしないと罰金ですか？」　→　法律家にガチ質問した結果ｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587926.html",
+      "pubDate": "2026-11-21T12:20:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/6/361d03df.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【地獄】ゲーム『GTA6』から、アメリカのZ世代の悲惨すぎる現状が全世界に知れ渡ってしまう…　「◯◯の選択肢が最初からない。本作はリアル」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587922.html",
+      "pubDate": "2026-11-21T12:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/857a9c34.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【？？？】政府、人口減少への対策として新たに「○○庁」創設しそう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462926.html",
+      "pubDate": "2026-11-21T12:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d774b3da.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -509,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/ddb1fc0b.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】女性へのAED使用で声明を出して炎上した『日本応急手当普及協議』、無茶苦茶な事になってしまう・・・",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587791.html",
-      "pubDate": "2026-11-21T00:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/b/5bc5f98c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -546,19 +572,6 @@
       "link": "https://jin115.com/archives/52462902.html",
       "pubDate": "2026-11-20T23:30:37+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d31720a.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【実写歴代No.1】映画『VIVANT』公開3日間で興収28億円突破が確実！ゴジラの記録があっさり抜かれるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587845.html",
-      "pubDate": "2026-11-20T23:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/b/4b3d0363.jpg"
     },
     {
       "siteId": "jin",
@@ -676,19 +689,6 @@
       "link": "https://jin115.com/archives/52462895.html",
       "pubDate": "2026-11-20T20:20:04+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc447a0e.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】バス運転手さん、バス車内で〇〇する配信をしヤバイ事態へ・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462898.html",
-      "pubDate": "2026-11-20T20:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/93646e7a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T03:00:50.427254",
+  "updatedAt": "2026-11-21T03:30:50.850997",
   "sites": [
     {
       "id": "hachima",
