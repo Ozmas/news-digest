@@ -8,6 +8,32 @@
       "siteColor": "#f87171",
       "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
       "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "日本初の食べ放題レストラン『インペリアルバイキング』に行ってみたら、1万2000円が安く感じるほど王だった / 帝国ホテル",
+      "description": "東京屈指の名門ホテルとして知られる帝国ホテル。ロビーのオーラは言うまでもないけど、136年の歩みは日本における西洋式ホテルの道と言っても過言ではない。初代会長が渋沢栄一なんだから、もはや歴史である。 そんな帝国ホテル東京 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/21/2866605/",
+      "pubDate": "Sat, 21 Nov 2026 02:55:49 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/inperial5.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃事実】「ブルーライトカットのめがね、目の負担軽減の助けにならなかった」　最新の研究で結論…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587915.html",
+      "pubDate": "2026-11-21T11:30:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/3/e3b38052.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
       "title": "【餡子の塊】山形発祥の『あじまん』（1個120円）は、あまりにもギリギリで薄皮の限界を超えている！ 都内唯一の店舗「DCM八王子みなみ野店」",
       "description": "よくネット上で議論になる事柄のひとつに「大判焼き」の呼称がある。地域によって、「今川焼き」とか「回転焼き」とか「御座候」などと呼ばれているのだが、山形では「あじまん」と呼ばれることが多いそうだ。 これは、冬季限定で販売さ [&#8230;]",
       "link": "https://rocketnews24.com/2026/11/21/2867254/",
@@ -548,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/7/b7d1757e-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【今日のお漏らし】ZOZOTOWN、退会者を含む約1518万人の個人情報が漏えい！委託先に不正アクセス",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587835.html",
-      "pubDate": "2026-11-20T23:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/2/62d600d8.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1092,19 +1105,6 @@
       "link": "https://casabrutus.com/categories/design/495358",
       "pubDate": "Thu, 19 Nov 2026 22:00:44 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2178話目「上司と部下の狭間で⑩」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/11/19/2866150/",
-      "pubDate": "Thu, 19 Nov 2026 12:00:10 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2178a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T02:30:46.147640",
+  "updatedAt": "2026-11-21T03:00:50.427254",
   "sites": [
     {
       "id": "hachima",
