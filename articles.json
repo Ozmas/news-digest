@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "同僚女性のペットボトルに尿を混入させた男に執行猶予判決…尿を飲ませた行為を「不同意わいせつ罪」と認定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588221.html",
+      "pubDate": "2026-11-21T23:30:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e724fccd.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +533,6 @@
       "link": "http://blog.esuteru.com/archives/10587920.html",
       "pubDate": "2026-11-21T13:40:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/7854e63b-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大物ロボットアニメ監督さん「ロボットものは衰退していく定めです。なぜなら男視聴者はロボットより◯◯◯が好きだから」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587937.html",
-      "pubDate": "2026-11-21T13:00:18+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58c9f6a8.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T14:30:49.344141",
+  "updatedAt": "2026-11-21T15:00:52.351912",
   "sites": [
     {
       "id": "hachima",
