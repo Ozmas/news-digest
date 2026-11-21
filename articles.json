@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】努力したくない日本人が増加中、特に中高年「努力しても報われない社会に絶望」「指示待ちになった方がマシ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588191.html",
+      "pubDate": "2026-11-21T21:10:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/298e4216.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -533,19 +546,6 @@
       "link": "https://rocketnews24.com/2026/11/21/2866605/",
       "pubDate": "Sat, 21 Nov 2026 02:55:49 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/inperial5.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃事実】「ブルーライトカットのめがね、目の負担軽減の助けにならなかった」　最新の研究で結論…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587915.html",
-      "pubDate": "2026-11-21T11:30:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/3/e3b38052.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T12:00:49.277123",
+  "updatedAt": "2026-11-21T12:30:45.444426",
   "sites": [
     {
       "id": "hachima",
