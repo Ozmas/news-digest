@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "腐女子「男オタクが多いジャンルは慣れると居心地がいい。人の描いたものに文句言う奴も、排除しようとする奴もほぼいない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587955.html",
+      "pubDate": "2026-11-21T15:30:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/006e0fd6.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +572,6 @@
       "link": "http://blog.esuteru.com/archives/10587829.html",
       "pubDate": "2026-11-21T06:00:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9a5af4a0.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "チャーハンが上手すぎる芸人ドンデコルテ渡辺銀次の「銀のネギ油」がドン・キホーテで遂に発売ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587803.html",
-      "pubDate": "2026-11-21T05:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/d/3d4f4796-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T06:30:41.630916",
+  "updatedAt": "2026-11-21T06:33:32.892553",
   "sites": [
     {
       "id": "hachima",
