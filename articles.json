@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ラーメン屋の客「客は神様だろうが！」 → 店長が「周りの神様に迷惑になってるのでお引き取りお願いします」と返した結果ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462947.html",
+      "pubDate": "2026-11-21T23:00:00+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0ceecdc8-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "学生「AIがコード書いてくれるならもう我々がコードを書く必要ないのでは？」 → ホヨバース社員が最高の回答をしてくれたと話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588212.html",
+      "pubDate": "2026-11-21T22:45:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/7/c73c4495.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -522,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/75732c1f.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "居酒屋で食事を堪能した無職男性（65）「勘定！5300円？やべっ現金1210円しか持ってねぇ…。せや！クレカ！え？失敗？スマホ決済！え？失敗？」 → 逮捕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587914.html",
-      "pubDate": "2026-11-21T12:40:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/9/a925efbf-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://jin115.com/archives/52462905.html",
       "pubDate": "2026-11-21T09:20:01+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/c/2c8dbe12.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『GTA6』、初日でありえないレベルで売れてしまう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462916.html",
-      "pubDate": "2026-11-21T09:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b901c896.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T13:30:45.076502",
+  "updatedAt": "2026-11-21T14:00:49.634886",
   "sites": [
     {
       "id": "hachima",
