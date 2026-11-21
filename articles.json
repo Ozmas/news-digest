@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "茂木外相「中国はアジアの覇権国ではない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462933.html",
+      "pubDate": "2026-11-21T14:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/3923671d.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「公共施設などで『家庭ごみを持ち込むな』と貼り紙がある。知り合いに『普通にゴミの日に捨てたらいいのに』と知り合いに言ったらブチギレられた」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587932.html",
+      "pubDate": "2026-11-21T14:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/2/e2775e57-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -177,10 +203,10 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『GTA6』のメタスコアが99点の中、ユーザースコアは10点満点のうち5.4点！賛否両論という結果に 「」",
+      "title": "『GTA6』のメタスコアが99点の中、ユーザースコアは10点満点のうち5.4点！賛否両論という結果に",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10587899.html",
-      "pubDate": "2026-11-21T11:00:14+09:00",
+      "pubDate": "2026-11-21T11:00:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e74ce6e5.jpg"
     },
     {
@@ -548,19 +574,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/7/97887cae.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【クラファン5000万円】謝罪動画でふざけて炎上したYouTuberなるにぃ氏、今度は素顔で謝罪 → 返金希望の受付を切り上げてまた燃える",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587855.html",
-      "pubDate": "2026-11-21T02:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/4/34a4dbbb.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://brutus.jp/post-541044/",
       "pubDate": "Fri, 20 Nov 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気配信者『けんき』さん、暴露系配信でヤバすぎる告発をされる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462900.html",
-      "pubDate": "2026-11-20T20:40:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/e/2e52b42b.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T05:00:55.912922",
+  "updatedAt": "2026-11-21T05:30:47.785876",
   "sites": [
     {
       "id": "hachima",
