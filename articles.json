@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【賛否】神戸市、全国初の「マンション○○税」導入を検討",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462928.html",
+      "pubDate": "2026-11-21T13:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/75732c1f.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "居酒屋で食事を堪能した無職男性（65）「勘定！5300円？やべっ現金1210円しか持ってねぇ…。せや！クレカ！え？失敗？スマホ決済！え？失敗？」 → 逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587914.html",
+      "pubDate": "2026-11-21T12:40:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/9/a925efbf-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4e93fba4-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "電車で隣になったPC開いてる人「あのー仕事してるんですけど」→ 「え？がんばれ……？」と応援してあげた結果ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587802.html",
-      "pubDate": "2026-11-21T00:30:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/d/ddb1fc0b.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "https://jin115.com/archives/52462900.html",
       "pubDate": "2026-11-20T20:40:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/e/2e52b42b.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ポケットモンスタースペシャル』全64巻すべて「50％ポイント還元」セール！18,256円分返ってくる！「ギエピー」でお馴染みのギャグ漫画『ポケモン』も実質半額に！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462895.html",
-      "pubDate": "2026-11-20T20:20:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/c/dc447a0e.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T03:30:50.850997",
+  "updatedAt": "2026-11-21T04:00:53.180531",
   "sites": [
     {
       "id": "hachima",
