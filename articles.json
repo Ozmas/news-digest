@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "店の名前は「デリシャス」。約180円のポテトを食べた僕は、その名前のことを考えた【カンバ通信：第548回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回行ったのは「Burganic Delicious Tastes」というレストラン。僕が入ったとき、お客さんはひとりもおらず [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/21/2863425/",
+      "pubDate": "Sat, 21 Nov 2026 06:00:11 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba548-thumbnail.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【無敵列車に終止符】『GTA』シリーズ恒例の列車止めれるか実験するも止めれない事が続いたが、『GTA6』でついに止めることが可能に！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10587940.html",
+      "pubDate": "2026-11-21T14:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/a/aa60c80c.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -76,7 +102,7 @@
       "title": "居酒屋で食事を堪能した無職男性（65）「勘定！5300円？やべっ現金1210円しか持ってねぇ…。せや！クレカ！え？失敗？スマホ決済！え？失敗？」 → 逮捕",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10587914.html",
-      "pubDate": "2026-11-21T12:40:24+09:00",
+      "pubDate": "2026-11-21T12:40:53+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/9/a925efbf-s.png"
     },
     {
@@ -546,19 +572,6 @@
       "link": "http://blog.esuteru.com/archives/10587801.html",
       "pubDate": "2026-11-21T04:00:54+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/54e31e65-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『ガールズバンドクライ First Riff』に登場する新バンドのメンバーがアプリ開始前に活動休止……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10587799.html",
-      "pubDate": "2026-11-21T03:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/b/ebf431d2-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1079,19 +1092,6 @@
       "link": "https://brutus.jp/post-539678/",
       "pubDate": "Thu, 19 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "許可なく見るな！ バレてしまった好きな人！　四コマサボタージュFB第135回「消しゴムのおまじない」",
-      "description": "消しゴムに名前を書くおまじない、自分が小学生時代にはすでにあった気がするんだ。しかし、いつ頃から流行り始めたのかが分からないんだよね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/20/2860076/",
-      "pubDate": "Thu, 19 Nov 2026 22:00:47 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-135.png"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-21T05:30:47.785876",
+  "updatedAt": "2026-11-21T06:00:49.160044",
   "sites": [
     {
       "id": "hachima",
