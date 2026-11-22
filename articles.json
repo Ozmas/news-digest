@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "食べて飲んで楽しい！「続・日本全国おいしい酒場百選」〜別府編〜",
+      "description": "アジアを旅する案内人がおすすめするのは、大分の古き良き温泉地・別府。まずは街中の情報が集まる〈巡〉でじっくり酒に浸れば、以後の酒場体験は間違いないものとなる。 TANNEL（タンネル） いい音を全身で聴きながら、小鹿田焼 [&#8230;]",
+      "link": "https://brutus.jp/post-512469/",
+      "pubDate": "Sun, 22 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "枝野幸男氏「立民に戻りたい」「原点に立ち返ることが支持者の期待に応えられる道だと確信している」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588359.html",
+      "pubDate": "2026-11-22T20:30:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/0/6084601e.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -468,19 +494,6 @@
       "link": "https://rocketnews24.com/2026/11/22/2866011/",
       "pubDate": "Sun, 22 Nov 2026 02:30:32 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/buchanhouse-yabaton-130.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『名探偵プリキュア』明智あんなと小林みくるが〇〇プリキュアだと遂に判明！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588275.html",
-      "pubDate": "2026-11-22T11:30:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/2/72a7fdfd-s.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1224,19 +1237,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "BRIEFINGをもっとよく知る12のこと。vol.6 「COURIER」と美術家",
-      "description": "直感には正直に。「いい」と思ったら、まず手に取ってみる 人生の選択も、道具選びも。ペインターのMISATO ANDOさんの決断はいつも驚くほど直感的だ。 「アートを専門的に学んだわけではありません。BiSH解散後も音楽活 [&#8230;]",
-      "link": "https://brutus.jp/post-539352/",
-      "pubDate": "Fri, 20 Nov 2026 00:57:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T11:30:42.748679",
+  "updatedAt": "2026-11-22T12:00:49.681004",
   "sites": [
     {
       "id": "hachima",
