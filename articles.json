@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「世界で最も評判の悪い観光客」ランキング発表！不名誉すぎるワースト1位に輝いてしまった国は・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462975.html",
+      "pubDate": "2026-11-22T13:00:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/36028fda.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -754,19 +767,6 @@
       "link": "https://jin115.com/archives/52462934.html",
       "pubDate": "2026-11-21T16:00:36+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d221bed3.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「母の遺灰で○○しました！(ﾊﾟｼｬｯ」←なんだコレすげえぇええええええ！！【6万いいね】",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462935.html",
-      "pubDate": "2026-11-21T15:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/6/f62e97eb.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T04:00:50.784293",
+  "updatedAt": "2026-11-22T04:30:42.152762",
   "sites": [
     {
       "id": "hachima",
