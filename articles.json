@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第119話「山羊」",
+      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/22/2866838/",
+      "pubDate": "Sun, 22 Nov 2026 08:00:02 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kikimimi124-1koma.png"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "品良く、ちょっぴりはしゃぐ。〈JOHN SMEDLEY〉のニットポロ：Brutus Best Bets",
+      "description": "品良く、ちょっぴりはしゃぐ 上品で、端正。そんな〈ジョン スメドレー〉の魅力に、遊び心を加えたディフュージョンライン、JS×JOHN SMEDLEYが誕生。ボクシーなシルエットと大胆なストライプでメリノウールのニットポロ [&#8230;]",
+      "link": "https://brutus.jp/post-539562/",
+      "pubDate": "Sun, 22 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民女性「男は努力して高学歴になったら美女と付き合えるの羨ましい。その女版はまじで聞かない」⇒ 高学歴男子から反論の嵐に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588300.html",
+      "pubDate": "2026-11-22T16:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/f/3fc4d935.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "藤井厚二の旧喜多邸で〈GALLERY STOOP〉とスペイン〈SIDE GALLERY〉がモダニズム家具の展覧会を開催。",
+      "description": "京都・北白川の名作住宅〈旧喜多源逸邸〉を舞台に、剣持勇やミゲル・ミラ、ジョージ・ナカシマらの家具や照明を展示する『Japanese Design Meets Spanish Design』が開催されている。日本とスペインのデザインギャラリーが、モダニズムを背景とする両国にゆかりのある家具を紹介する。",
+      "link": "https://casabrutus.com/categories/design/496543",
+      "pubDate": "Sun, 22 Nov 2026 07:25:44 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e74ce6e5.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "家を襲う強盗が続出、相次ぐ個人情報流出の影響なのか、Amazonで◯◯が売れまくっている模様！ あなたもいかが？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588242.html",
-      "pubDate": "2026-11-22T07:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/3/b3019b21-s.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -990,19 +1029,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "株主になったので、生まれて初めて「イオンラウンジ」を利用してみた正直な感想",
-      "description": "一部のイオン店舗には、「イオンラウンジ」という限られた人だけが利用できる専用エリアがある。そこでは静かな空間で、無料ドリンクなどを楽しめるという。 これまでまったく縁がなかった私（あひるねこ）だが、このたびイオンの株主に [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/20/2865357/",
-      "pubDate": "Fri, 20 Nov 2026 09:00:06 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_1185.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1237,19 +1263,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "モードな虫図鑑。Stink Bug【カメムシ】",
-      "description": "嫌われ者？カメムシの真の実力を見よ！ イヤな臭いを出すため、「身近な嫌われ者の虫」というイメージが強いカメムシ。しかし、世界中を見回すと、「え⁉これがカメムシなの？」という、とんでもない造形をしたユニークな種が多くて驚く [&#8230;]",
-      "link": "https://brutus.jp/post-521826/",
-      "pubDate": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1260,19 +1273,6 @@
       "description": "2025年大阪・関西万博の最終日の夜、メディアアーティスト・落合陽一が手がけたシグネチャーパビリオン〈null²（ﾇﾙﾇﾙ）〉の周辺には身動きできないほど大勢が詰めかけていた。銀色に光るバビリオンの最後の雄叫びが響く中、「万博好きの皆さんが納得する場所にいきます。またお会いしましょう」と落合陽一がメガホンで叫んでからほぼ1年、10月14日、あの超人気バビリオンが横浜に転生した。",
       "link": "https://casabrutus.com/categories/art/496486",
       "pubDate": "Thu, 19 Nov 2026 07:25:31 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "絵本作家きくちちきの初の大規模巡回展が開催中！",
-      "description": "画面からはみ出そうな躍動感が人気のきくちちき。個展を開催中のPLAY！ MUSEUMで聞きました。",
-      "link": "https://casabrutus.com/categories/culture/496099",
-      "pubDate": "Thu, 19 Nov 2026 02:25:37 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T07:30:38.649666",
+  "updatedAt": "2026-11-22T08:00:54.912811",
   "sites": [
     {
       "id": "hachima",
