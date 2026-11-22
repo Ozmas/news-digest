@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】人気VTuberさん「PCが重くなってきたからクリーンアップして容量空けるか」 → ダウンロードフォルダに入れてた大事なデータ(80GB)が全部消滅",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588430.html",
+      "pubDate": "2026-11-23T01:05:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/a/caf4013a.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "https://jin115.com/archives/52462995.html",
       "pubDate": "2026-11-22T15:00:15+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/8/18db21f1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【どうして……】JR「毒ウサギを使ったカード型Suicaの発行予定はない」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588294.html",
-      "pubDate": "2026-11-22T14:30:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/adbe5e76-s.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T16:00:48.901139",
+  "updatedAt": "2026-11-22T16:30:42.783762",
   "sites": [
     {
       "id": "hachima",
