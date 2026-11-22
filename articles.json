@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】緑２丁目に「Cafe PILINA with Paws」OPEN！ ～愛犬と一緒に過ごせるカフェスペース",
+      "description": "緑2丁目、ミニストップ緑２丁目店のお隣に「Cafe PILINA with Paws」がOPENしました。 カフェとして楽しむだけでなく、世界に一つだけのオリジナルグッズ作りもできるお店です。 広々とした店内は、ワンちゃ [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/23/pilinawithpaws/",
+      "pubDate": "Sun, 22 Nov 2026 23:01:55 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8380-1024x767.jpeg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "そういう理由で来るところじゃない！ 自分を変えたかった青年！　四コマサボタージュFB第136回「心の強さ」",
+      "description": "昔に通っていた空手道場が閉まっていたんだ。生徒さんがいなくなったのが原因なんだろうけど、こういうのってなくなるとは思ってなかったから結構ショックなんだよね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/23/2862181/",
+      "pubDate": "Sun, 22 Nov 2026 23:00:53 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-136.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【つらい】「おふくろの味」が食べたくて帰省した人、母の作るからあげを食べるも『最悪の事実』が発覚して、むせび泣く…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588468.html",
+      "pubDate": "2026-11-23T08:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58b68bdf.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -600,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/ef95b097.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『クラッシュ・ロワイヤル』公式、AI使ったチート開発者を特定 →まさかの◯◯化させるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588326.html",
-      "pubDate": "2026-11-22T18:20:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/b/1b7b8684-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1120,19 +1146,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/9d4f032cdc46384b2976e9bf9a1e9882-1024x767.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "響き渡る悲鳴！ 好スタートの催し物！　隣りの席の子の様子がおかしい第79回「文化祭」",
-      "description": "漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/21/2860390/",
-      "pubDate": "Fri, 20 Nov 2026 23:00:16 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/tonari79-1koma.png"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1575,19 +1588,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/05/subbuzz/hUiZo-3o-.jpg?crop=2000:1333;0,0&resize=1250:830"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】昭和43年オープンの本所2丁目の喫茶下町が閉店。約60年の歴史に幕を閉じました。",
-      "description": "本所2丁目、春日通り沿いの「喫茶下町」 昭和43年に開業、なんと約60年近く営業を続けられてきたとのことです。 2026年10月29日をもって長い歴史に幕を閉じました。 店頭には「閉店のごあいさつ」が掲示されています。  [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/11/13/kissashitamachi/",
-      "pubDate": "Thu, 12 Nov 2026 23:01:31 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8644-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T23:00:47.035706",
+  "updatedAt": "2026-11-22T23:30:40.087556",
   "sites": [
     {
       "id": "hachima",
