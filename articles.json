@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2181話目「上司と部下の狭間で⑬」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/22/2867141/",
+      "pubDate": "Sun, 22 Nov 2026 12:00:57 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2181a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【祝】声優・安野希世乃さんが結婚を報告！「表現者として一層精進してまいります」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588374.html",
+      "pubDate": "2026-11-22T21:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0f300e8e.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "生成AIアニメを使用し、新作コミックアニメを発表して大炎上した『GetBackers -奪還屋-』、謝罪して訂正「あれは新作◯◯です」「講談社に無断でやった」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463011.html",
+      "pubDate": "2026-11-22T21:00:46+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/3/e39d6f28.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -431,19 +470,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/7/b7405c0c.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「普通にコインパーキングに車停めたら、意味わからん貼り紙があったんだけど…」→ どういうことなのかネットで議論に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588276.html",
-      "pubDate": "2026-11-22T12:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/f/3f4423f9.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -782,19 +808,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/2/3272b7f4.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "愛知県「条例に基づきデモ準備中に出た『イスラム教徒は中東へ帰れ』発言は差別発言とみなして晒します＾＾」→デモ中止へ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462929.html",
-      "pubDate": "2026-11-21T20:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d77cc634.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1027,19 +1040,6 @@
       "link": "https://casabrutus.com/categories/art/491357",
       "pubDate": "Fri, 20 Nov 2026 22:00:24 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2179話目「上司と部下の狭間で⑪」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/11/20/2867119/",
-      "pubDate": "Fri, 20 Nov 2026 12:00:13 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2179a.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T12:00:49.681004",
+  "updatedAt": "2026-11-22T12:30:42.216586",
   "sites": [
     {
       "id": "hachima",
