@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】「つまらない男が好きなコンテンツ一覧」←めちゃくちゃ物議になる",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463023.html",
+      "pubDate": "2026-11-23T07:00:52+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/7/871ba978.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】『GTA6』セクシー乳タンクトップが日本語版では規制　→　規制テープのせいで逆にもっとえちちになってると日本人興奮！これはｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588466.html",
+      "pubDate": "2026-11-23T07:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e74ce6e5.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "全国の銘酒を一合ずつ味わう。〈きょうの日本酒〉による、日本酒入門セット。",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/food/496312",
+      "pubDate": "Sun, 22 Nov 2026 22:00:07 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -418,19 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/e/be8e247f.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「この国が30年間まともな方向へ行ってたらきっとシンガポールになれていた」⇒ シンガポールに夢見すぎとツッコミが殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588303.html",
-      "pubDate": "2026-11-22T17:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/1/a15aec0b.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +793,6 @@
       "link": "https://jin115.com/archives/52462962.html",
       "pubDate": "2026-11-22T04:00:30+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/f/0f5056e7.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「ヤクザが嫌になった。駅のコインロッカーの上に道具を置いた」と警察に匿名通報 → ロッカーの上からヤバイ物が見つかる・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462956.html",
-      "pubDate": "2026-11-22T01:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/0/a06fa35a-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1263,19 +1276,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "落合陽一〈null²〉が横浜に転生。予約できなかったあの万博パビリオンが常設ミュージアムシアターに！",
-      "description": "2025年大阪・関西万博の最終日の夜、メディアアーティスト・落合陽一が手がけたシグネチャーパビリオン〈null²（ﾇﾙﾇﾙ）〉の周辺には身動きできないほど大勢が詰めかけていた。銀色に光るバビリオンの最後の雄叫びが響く中、「万博好きの皆さんが納得する場所にいきます。またお会いしましょう」と落合陽一がメガホンで叫んでからほぼ1年、10月14日、あの超人気バビリオンが横浜に転生した。",
-      "link": "https://casabrutus.com/categories/art/496486",
-      "pubDate": "Thu, 19 Nov 2026 07:25:31 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T22:00:47.857030",
+  "updatedAt": "2026-11-22T22:24:40.597453",
   "sites": [
     {
       "id": "hachima",
