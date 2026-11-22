@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "約123円のポテトを食べに入った店で、まさかの「毎月末はカンバのディスコ」！ 次はポテトじゃなく、踊りに行くよ【カンバ通信：第549回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回、僕がポテトを食べに行ったのは「Kikopei Kyumbi Restaurant（キコペイ・キュンビ・レストラン）」。カ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/22/2864571/",
+      "pubDate": "Sun, 22 Nov 2026 06:00:56 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba-549-thumbnail-wipe.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『GTA6』の強盗、ガチでリアルにしていたｗｗｗｗ レッカー車を利用すれば、ATM丸ごとぶっこ抜くことが出来るｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588295.html",
+      "pubDate": "2026-11-22T15:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/e/4ecd75da.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "TBSアナ、高市首相への冷遇に私見「中国との関係を悪化させたことで、日本がどれだけ国益を損なってしまっているんだろうと。そういうものを見せつけられた気がする」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462995.html",
+      "pubDate": "2026-11-22T15:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/8/18db21f1.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -50,7 +89,7 @@
       "title": "「世界で最も評判の悪い観光客」ランキング発表！不名誉すぎるワースト1位に輝いてしまった国は・・・",
       "description": "続きを読む",
       "link": "https://jin115.com/archives/52462975.html",
-      "pubDate": "2026-11-22T13:00:16+09:00",
+      "pubDate": "2026-11-22T13:00:30+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/36028fda.jpg"
     },
     {
@@ -483,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/a/aae7f522-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「しゃぶしゃぶ温野菜」がCM起用した女性の食べ方が汚すぎて炎上……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588206.html",
-      "pubDate": "2026-11-22T04:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/9/4931e8cd.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -754,19 +780,6 @@
       "link": "https://casabrutus.com/categories/culture/494565",
       "pubDate": "Sat, 21 Nov 2026 07:25:53 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "参政党、「国政選挙の立候補者に『帰化歴』の開示・二重国籍者の立候補禁止」を求める法案を提出！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462934.html",
-      "pubDate": "2026-11-21T16:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/2/d221bed3.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1040,19 +1053,6 @@
       "link": "https://casabrutus.com/categories/architecture/496313",
       "pubDate": "Fri, 20 Nov 2026 07:25:17 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【2027福袋】福袋シーズン本番前に手に入れて良かったNo.1は「ホカロン レディース靴下福袋」に決定",
-      "description": "本来、福袋はお正月の風物詩。しかし最近は早期販売や予約などで11月から販売を開始している福袋も多い。 数ある福袋の中で、個人的に「本格的な福袋シーズンを迎える前にゲットできて良かった……！」と心の底から思っているのが「ホ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/20/2866202/",
-      "pubDate": "Fri, 20 Nov 2026 07:00:28 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-3-8.jpeg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T06:00:44.039645",
+  "updatedAt": "2026-11-22T06:30:39.333743",
   "sites": [
     {
       "id": "hachima",
