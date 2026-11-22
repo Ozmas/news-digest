@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "陶芸家・内田鋼一が選ぶ物語の道具。「珠洲焼（すずやき）」",
+      "description": "ダークで静か、クールな佇まい 日本の中世、平安から鎌倉、室町初期あたりのやきものが好きです。やっぱり桃山や江戸期に入ると、表現が派手になってくる。偉い人に頼まれて作ったようなものが多くなってくるから。それ以前のやきものは [&#8230;]",
+      "link": "https://brutus.jp/post-538595/",
+      "pubDate": "Sun, 22 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1224,19 +1237,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "京都とパリの、ふたつの時間を生きる。エリック・ピヨが〈ハミルトン〉の「クッション メカ」に見出した美しさ",
-      "description": "時を経ても、美しいもの テリー・リチャードソンやマーク・ボスウィック、ユルゲン・テラーといった写真家たちと仕事を重ね、フランスの雑誌文化に独自の視点をもたらしてきたエリック・ピヨさん。「Jalouse」「M le Mon [&#8230;]",
-      "link": "https://brutus.jp/post-539248/",
-      "pubDate": "Fri, 20 Nov 2026 00:55:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T10:30:42.747670",
+  "updatedAt": "2026-11-22T11:00:47.208556",
   "sites": [
     {
       "id": "hachima",
