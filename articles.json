@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ホロライブの人気Vtuberさん、ガチでやばすぎる放送事故！配信上でうっかり◯◯を映してしまう・・・やばいことになった",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463021.html",
+      "pubDate": "2026-11-23T00:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/1/a15d7081.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【今週発売ゲーム】『アズールプロミリア』『楽園追放 -The Stellar Angel-』ほか、11月23～29日発売タイトルまとめ！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588233.html",
+      "pubDate": "2026-11-23T00:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/b/9b0340c1.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -470,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/adbe5e76-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "加湿器が原因の肺炎が流行！やっぱり加湿器は〇〇しか勝たん",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588292.html",
-      "pubDate": "2026-11-22T14:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/4855dd79-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +780,6 @@
       "link": "https://jin115.com/archives/52462947.html",
       "pubDate": "2026-11-21T23:00:00+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/c/0ceecdc8-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "リュウジさん「ラーメンチェーンで一番まずいと言われてる店を忖度無しでレビューします！」→まさかの評価に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462958.html",
-      "pubDate": "2026-11-21T22:00:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/7/07f9687c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T15:00:50.236001",
+  "updatedAt": "2026-11-22T15:30:43.488828",
   "sites": [
     {
       "id": "hachima",
