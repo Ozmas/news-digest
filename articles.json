@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "本屋『丸善ジュンク堂』に住んでみるイベント！その様子がコチラｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588387.html",
+      "pubDate": "2026-11-23T05:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/4/34dfd1e1-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -455,19 +468,6 @@
       "link": "https://brutus.jp/post-539562/",
       "pubDate": "Sun, 22 Nov 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民女性「男は努力して高学歴になったら美女と付き合えるの羨ましい。その女版はまじで聞かない」⇒ 高学歴男子から反論の嵐に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588300.html",
-      "pubDate": "2026-11-22T16:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/f/3fc4d935.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T19:30:43.134841",
+  "updatedAt": "2026-11-22T20:00:51.798813",
   "sites": [
     {
       "id": "hachima",
