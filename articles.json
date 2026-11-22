@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【深刻】日本の農地、国も自治体も知らんぷり　法が機能せず、やりたい放題だった",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462967.html",
+      "pubDate": "2026-11-22T10:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/b/2b970b40.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "教えて鹿児島の人！ 焼肉『いくどん』で見つけた「自家製おごじょアイス」とはナニ？ 食べたら “焼肉のシメ” にふさわしいと判明",
+      "description": "今の世の中、大抵の食べ物の名前は調べなくても、まあわかる。近頃でいえば「ヨアジョン」（韓国のフローズンヨーグルト）とか「カダイフ」（トルコ・ギリシャの揚げた極細麺）などが、聞きなれないものではあるけど、ネットやAIで調べ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/22/2866318/",
+      "pubDate": "Sun, 22 Nov 2026 01:00:10 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ikudon.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "無職男性（69）「斎藤知事が不快そうな顔をしている！神戸のイメージが悪くなる！！」と、路上のモニターを倒して壊したとして逮捕される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588262.html",
+      "pubDate": "2026-11-22T10:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/c/1c10fd8b.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【楽天ブラックフライデー】adidasが半額クーポンを配布中！ 送料無料 ＆ 楽天ポイント最大20倍のアイテム32選",
+      "description": "いま楽天市場で開催されている特大セール「楽天ブラックフライデー」。さまざまな人気商品を特別価格で手に入れるチャンスがやってきたぞ。 さて本日は、期間限定で50％オフクーポンを配布している「adidas Online Sh [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/22/2867468/",
+      "pubDate": "Sun, 22 Nov 2026 00:35:17 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_7035.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "メルカリで中古の『GTA6』が出品され、売れまくっている模様… 買ってる人は何目的なの？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588261.html",
+      "pubDate": "2026-11-22T09:30:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/c/6c3a4a47.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -392,19 +457,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9c17a3c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】努力したくない日本人が増加中、特に中高年「努力しても報われない社会に絶望」「指示待ちになった方がマシ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588191.html",
-      "pubDate": "2026-11-21T21:10:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/9/298e4216.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -442,19 +494,6 @@
       "link": "https://brutus.jp/post-536529/",
       "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スロバキアのダンスグループ、根津神社でダンスする動画を投稿し炎上 → 大使館が謝罪「動画の削除と今後の使用中止を要請しました」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588178.html",
-      "pubDate": "2026-11-21T20:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7cc25ee4.jpg"
     },
     {
       "siteId": "jin",
@@ -676,19 +715,6 @@
       "link": "https://jin115.com/archives/52462928.html",
       "pubDate": "2026-11-21T13:00:11+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/75732c1f.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【？？？】政府、人口減少への対策として新たに「○○庁」創設しそう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462926.html",
-      "pubDate": "2026-11-21T12:00:24+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/7/d774b3da.png"
     },
     {
       "siteId": "rocketnews",
@@ -1029,19 +1055,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/fshibuyanishi.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "『カレーは飲み物。』に定食が！ 新顔「豚の香辛焼き定食」は生スパイス感が独創的",
-      "description": "池袋や秋葉原を中心に、安定の人気を誇る『カレーは飲み物。』。2大看板メニューの「黒カレー」と「赤カレー」は甲乙つけ難いウマさで、個人的には49：51で “赤カレー派” だ。 つい先日、久しぶりにその『カレーは飲み物。』に [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/20/2865144/",
-      "pubDate": "Fri, 20 Nov 2026 02:30:38 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kousin09.jpeg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1053,19 +1066,6 @@
       "link": "https://casabrutus.com/categories/fashion/495998",
       "pubDate": "Fri, 20 Nov 2026 02:25:11 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "毎年大人気のUCC福袋、アウトレット版が狙い目だと気づき2年連続で買ってみたら…ほぼ半額の高コスパは変わってなかった / 福袋2027",
-      "description": "毎年大人気のUCCの福袋。2027年版も発売からほどなくして完売となった。数種類あるにもかかわらず、いずれもあっという間に売り切れてしまったのだ。一部再販もあるようだが、これまでの様子を見るに、購入するにはかなりの気合が [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/20/286495/",
-      "pubDate": "Fri, 20 Nov 2026 02:00:41 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_0466.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T00:30:49.521692",
+  "updatedAt": "2026-11-22T01:00:49.425717",
   "sites": [
     {
       "id": "hachima",
