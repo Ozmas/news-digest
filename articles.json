@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "写真家・渞忠之に聞いた、推しミュージアムの推しコレクション",
+      "description": "京都国立近代美術館（京都）の《ヌード》 写真の視線、哲学、技術、そのすべてが詰まった《ヌード》。プリントの美しさを、静かな空間で、しかも驚くほどの至近距離でじっくり味わえるのは至福の時間です。 京都国立近代美術館（京都） [&#8230;]",
+      "link": "https://brutus.jp/post-536942/",
+      "pubDate": "Sun, 22 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "現役世代「高齢者のせいで社会保険料取られすぎてもう限界！賃上げされても手取り減る！ 」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588332.html",
+      "pubDate": "2026-11-22T18:40:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/ef95b097.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -496,19 +522,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_7035.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "メルカリで中古の『GTA6』が出品され、売れまくっている模様… 買ってる人は何目的なの？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588261.html",
-      "pubDate": "2026-11-22T09:30:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/c/6c3a4a47.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -832,6 +845,19 @@
       "link": "https://rocketnews24.com/2026/11/21/2863425/",
       "pubDate": "Sat, 21 Nov 2026 06:00:11 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba548-thumbnail.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "陶芸家・内田鋼一が選ぶ物語のある道具。「やかん」",
+      "description": "注ぎ口、蓋、持ち手の形が好き ケトル、急須、土瓶……注ぎ口と蓋（ふた）があって、持ち手がある。この造形が好きで、自分でも初期からずっと作っています。何だか人の顔みたいに見えたり、魅力的なんですよね。 ここにあるのはすべて [&#8230;]",
+      "link": "https://brutus.jp/post-538593/",
+      "pubDate": "Sat, 21 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -1211,19 +1237,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "Vol.13 答え合わせは、窯の中で。井口弘史と〈ONE KILN〉の「CULT SIGN」",
-      "description": "一体ごとの個性に、手仕事の奥深さを知る 〈BEAMS〉のレーベル〈TOKYO CULTUART by BEAMS〉は、アーティスト・井口弘史さんと鹿児島の陶器工房〈ONE KILN（ワンキルン）〉が手がけた『CULT S [&#8230;]",
-      "link": "https://brutus.jp/post-535743/",
-      "pubDate": "Fri, 20 Nov 2026 00:50:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1235,19 +1248,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/20/lambshank/",
       "pubDate": "Thu, 19 Nov 2026 23:01:41 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_5525-e1795001861314-1024x767.jpeg"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "芸術は、戦争を止められますか？アーティスト・藤井 光による展覧会で、美術の新たな可能性を探る",
-      "description": "「芸術は戦争を止められるか。そう問われると、言葉を失いますね。ただ一つ言えるのは、芸術とは来る戦争への備えなのではないかと。何かと何かが結びついてある言説が生まれ、それがエネルギーを生み、人々が排除され、暴力が増大してい [&#8230;]",
-      "link": "https://brutus.jp/post-539678/",
-      "pubDate": "Thu, 19 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T09:30:44.018284",
+  "updatedAt": "2026-11-22T10:00:47.726869",
   "sites": [
     {
       "id": "hachima",
