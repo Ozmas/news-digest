@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "今年の『M-1』が大荒れ！エバースやドンデコルテが準決勝にすら残れず",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588281.html",
+      "pubDate": "2026-11-22T12:20:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/7/b7405c0c.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「普通にコインパーキングに車停めたら、意味わからん貼り紙があったんだけど…」→ どういうことなのかネットで議論に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588276.html",
+      "pubDate": "2026-11-22T12:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/f/3f4423f9.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【動画】イスラム教徒が他教徒のカップルを見つけた時の反応がコレ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52462971.html",
+      "pubDate": "2026-11-22T12:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d352733.png"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -483,32 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bb5420cb-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】池袋のBL広告がゾーニングできてないと男オタクから批判殺到！おまえら、どう思う？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588158.html",
-      "pubDate": "2026-11-22T00:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/006e0fd6.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "同僚女性のペットボトルに尿を混入させた男に執行猶予判決…尿を飲ませた行為を「不同意わいせつ罪」と認定",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588221.html",
-      "pubDate": "2026-11-21T23:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/7/e724fccd.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +780,6 @@
       "link": "https://rocketnews24.com/2026/11/21/2863425/",
       "pubDate": "Sat, 21 Nov 2026 06:00:11 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba548-thumbnail.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "茂木外相「中国はアジアの覇権国ではない」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462933.html",
-      "pubDate": "2026-11-21T14:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/9/3923671d.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T03:00:49.006995",
+  "updatedAt": "2026-11-22T03:30:40.975135",
   "sites": [
     {
       "id": "hachima",
