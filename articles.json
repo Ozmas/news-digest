@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ヤマハ主催のボカロP発掘番組『THE CREATE』始動 →MC粗品や参加者の『今のボカロはおもんない』発言に批判殺到「公式が超解釈不一致」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588385.html",
+      "pubDate": "2026-11-22T21:30:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/a/9acbdf25-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -455,19 +468,6 @@
       "link": "http://blog.esuteru.com/archives/10588285.html",
       "pubDate": "2026-11-22T12:40:21+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/7/47d26290.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "今年の『M-1』が大荒れ！エバースやドンデコルテが準決勝にすら残れず",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588281.html",
-      "pubDate": "2026-11-22T12:20:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/7/b7405c0c.png"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-22T12:30:42.216586",
+  "updatedAt": "2026-11-22T13:00:46.638942",
   "sites": [
     {
       "id": "hachima",
