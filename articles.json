@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "朝7時から30人待ち！ 仙台駅チカ『伊藤商店』の朝ラーがスープを飲み干す絶品だった",
+      "description": "特に東京で「朝ラー」は、ワンコイン前後でお得に提供されることが多い。ラーメンは昼以降に食べることがほとんどで、どちらかと言えば「空白を少しでも埋めるための仕掛け」という印象だ。 一方、日本国内には純粋に朝ラーが根付いてい [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/23/2864377/",
+      "pubDate": "Mon, 23 Nov 2026 00:00:53 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/asara04.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】電気自動車、まさかの理由で将来性がないと話題に",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463026.html",
+      "pubDate": "2026-11-23T09:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/8/984769dd.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中国さん、税金で都市全体をキラキライルミネーション化　→　中国市民からの反応があまりに火の玉ストレートすぎたｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588471.html",
+      "pubDate": "2026-11-23T09:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/8/08bc71e6.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -600,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/f/6fb3a782-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "北海道の無職女性38歳、工事の作業員を突然スコップなどでぶん殴り逮捕 →意味不明な供述で容疑否認ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588333.html",
-      "pubDate": "2026-11-22T19:00:51+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/9/59f95a0c.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -977,19 +1003,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/3/935124ab.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "AEDについて女性にアンケート「公衆に胸を晒したが、あなたは助かった。どう思うか？」→衝撃の結果に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462962.html",
-      "pubDate": "2026-11-22T04:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/f/0f5056e7.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1118,19 +1131,6 @@
       "link": "https://rocketnews24.com/2026/11/21/2865037/",
       "pubDate": "Sat, 21 Nov 2026 01:00:29 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3515_1920_10a6a2.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ダウンで着ぶくれしたくないならワークマンのメンズ「エックスシェルター」を着ればいいじゃない！ 女性の私も推す理由",
-      "description": "冬の寒さ対策にも定評があるワークマン。これまで当サイトでもあったかインナーやイヤーウォーマーなどを紹介してきたが、今季もひときわ注目度が高いのが「XShelter（エックスシェルター）」シリーズだ。 メンズ、レディースと [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/21/2866673/",
-      "pubDate": "Sat, 21 Nov 2026 00:00:13 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/w1_a16300.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T00:00:52.302036",
+  "updatedAt": "2026-11-23T00:30:41.474730",
   "sites": [
     {
       "id": "hachima",
