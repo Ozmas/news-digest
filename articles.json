@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "飽きさせるな！ 世間の流れを汲み始めた怪異！　四コマサボタージュFB第137回「時代に合わせに来た口裂け女」",
+      "description": "自分も最近動画見てたら結構な頻度で再生途中で飽きてブラウザバックしちゃってることに気付いたんだ。ドパガキならぬドパおじと化してしまった……。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/24/2862182/",
+      "pubDate": "Mon, 23 Nov 2026 22:00:58 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-137.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】トランプ大統領、あまりにも無敵すぎる（画像あり）",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463084.html",
+      "pubDate": "2026-11-24T07:00:42+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1d35c204.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】『俺妹』作画・かんざきひろさんが新人時代に描いたアニメ『ハガレン』原画を公開　→　誰もが知る「あの伝説の回」でネット騒然ｗｗｗｗすげえええ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588651.html",
+      "pubDate": "2026-11-24T07:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/2/0271e0f7.png"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -470,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/a/0a2144c8-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】登録者数102万人YouTuberさん、とんでもないものを隅田川で紛失ｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588522.html",
-      "pubDate": "2026-11-23T17:30:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/241b6b5a-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -676,19 +702,6 @@
       "link": "https://casabrutus.com/categories/design/496263",
       "pubDate": "Mon, 23 Nov 2026 02:25:53 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【本日終了】アニメ化もされた人気漫画『戦国妖狐』が「全巻99円」で買える激安セールは今日まで！！全17巻を揃えても1,683円に！！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463034.html",
-      "pubDate": "2026-11-23T11:20:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5ca06eda.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1144,19 +1157,6 @@
       "link": "https://casabrutus.com/categories/art/491359",
       "pubDate": "Sat, 21 Nov 2026 22:00:30 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】魔王軍はホワイト企業 2180話目「上司と部下の狭間で⑫」",
-      "description": "漫画：スガラジカル",
-      "link": "https://rocketnews24.com/2026/11/21/2867125/",
-      "pubDate": "Sat, 21 Nov 2026 12:00:05 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2180a.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T22:00:53.670820",
+  "updatedAt": "2026-11-23T22:30:40.444471",
   "sites": [
     {
       "id": "hachima",
