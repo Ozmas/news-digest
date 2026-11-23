@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "作家・山内マリコに聞いた、推しミュージアムの推しコレクション",
+      "description": "富山県美術館（富山）の《肘かけ椅子の女》 地元・富山の美術館なので、コレクションを飽きるほど見ていますが、その中でも好きなのが《肘かけ椅子の女》。地元の美術館がこんな素敵なものを持ってるなんて誇りだわ！と思っています。  [&#8230;]",
+      "link": "https://brutus.jp/post-536946/",
+      "pubDate": "Mon, 23 Nov 2026 03:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1081,19 +1094,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2180a.jpg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ミュージアムグッズ愛好家・大澤夏美に聞いた、推しミュージアムの推しコレクション",
-      "description": "高村山荘（岩手）の〈月光殿〉高村光太郎 高村光太郎が晩年の7年半を過ごした〈高村山荘〉は、冬の寒さを思えば絶句してしまうほど小さな掘っ立て小屋。戦争協力への責任と向き合うべく、この山荘で暮らしたと知り、胸を打たれました。 [&#8230;]",
-      "link": "https://brutus.jp/post-536529/",
-      "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T03:00:03.036178",
+  "updatedAt": "2026-11-23T03:00:56.594865",
   "sites": [
     {
       "id": "hachima",
