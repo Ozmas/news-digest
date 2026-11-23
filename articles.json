@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "公明・山口那津男氏「中国の塩対応は高市さんの発言がきっかけ」「相手のせいにするな。非難していても始まらない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588616.html",
+      "pubDate": "2026-11-24T00:20:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/9/79d640cd.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,19 +494,6 @@
       "link": "https://jin115.com/archives/52463041.html",
       "pubDate": "2026-11-23T14:00:06+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/6460c1df.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "しんぶん赤旗「うわあああああ！高市首相がうなぎ食べてやがる！！！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588497.html",
-      "pubDate": "2026-11-23T13:30:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/f/0f01e1f4-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T15:00:52.109305",
+  "updatedAt": "2026-11-23T15:30:54.830480",
   "sites": [
     {
       "id": "hachima",
