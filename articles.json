@@ -8,6 +8,32 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ソニーの最新『ウォークマン』、ガチエグイことになってるんだけどｗｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588552.html",
+      "pubDate": "2026-11-23T18:20:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/c/ec75a583.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本人「日本には『女が関わるとコンテンツが死ぬ』という格言があります」→外国人から共感殺到へ・・・「日本も気づき始めているようだ」「世界で最も賢い民族」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463049.html",
+      "pubDate": "2026-11-23T18:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/024b1b89.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
       "title": "【トクリュウ案件】楽天証券などから流出した個人情報リスト、中国のダークウェブで取引されている模様　日本人5万件の個人情報が◯◯◯◯円",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10588526.html",
@@ -535,19 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/8/984769dd.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "中国さん、税金で都市全体をキラキライルミネーション化　→　中国市民からの反応があまりに火の玉ストレートすぎたｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588471.html",
-      "pubDate": "2026-11-23T09:00:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/8/08bc71e6.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -897,19 +910,6 @@
       "link": "https://brutus.jp/post-538595/",
       "pubDate": "Sun, 22 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "任天堂信者さん、『GTA6』のレビューを低評価で荒らしまくってしまう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463008.html",
-      "pubDate": "2026-11-22T19:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/b/0b262ba7.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T09:00:55.261686",
+  "updatedAt": "2026-11-23T09:30:42.936027",
   "sites": [
     {
       "id": "hachima",
