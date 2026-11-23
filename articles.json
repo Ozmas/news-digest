@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "カンバの人はなぜポテトが好きなのか？…を、カンバの定番料理「ムトコイ（muthokoi）」を食べて思い出した【カンバ通信：第550回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 いつもポテトの話をしているけれど、今日は僕が家で食べた、カンバの定番料理を紹介するよ。「ムトコイ（muthokoi）」である。 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/23/2865074/",
+      "pubDate": "Mon, 23 Nov 2026 06:00:17 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba-550-muthokoi.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『たまごっち』でデジモンを、『デジモン』でたまごっちを育成できる！公式入れ替わりコラボで「おやじっち＝ナニモン」がほぼ公式にｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588502.html",
+      "pubDate": "2026-11-23T14:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/758f1a1a.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -678,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/81cfa5f1.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『サイバーパンクエッジランナーズ2』の人気女性キャラクターの完璧すぎるコスプレ！マジでどうなってんだコレ……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588382.html",
-      "pubDate": "2026-11-23T03:00:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9b9ff49-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1131,19 +1144,6 @@
       "link": "https://rocketnews24.com/2026/11/21/2863425/",
       "pubDate": "Sat, 21 Nov 2026 06:00:11 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba548-thumbnail.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "日本初の食べ放題レストラン『インペリアルバイキング』に行ってみたら、1万2000円が安く感じるほど王だった / 帝国ホテル",
-      "description": "東京屈指の名門ホテルとして知られる帝国ホテル。ロビーのオーラは言うまでもないけど、136年の歩みは日本における西洋式ホテルの道と言っても過言ではない。初代会長が渋沢栄一なんだから、もはや歴史である。 そんな帝国ホテル東京 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/21/2866605/",
-      "pubDate": "Sat, 21 Nov 2026 02:55:49 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/inperial5.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T05:30:50.460569",
+  "updatedAt": "2026-11-23T06:00:46.419314",
   "sites": [
     {
       "id": "hachima",
