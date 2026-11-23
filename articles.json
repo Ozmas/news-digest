@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "「矛盾する要望をできる限り実現したい」。建築家・五十嵐敏恭を驚かせた住人力",
+      "description": "施主の言葉 矛盾する要望をできる限り実現したい 建築家の言葉 わがままを見つめることで建築が広がりました 「家族みなですごす場所も大切にしたいけれど、個の空間も欲しい」「明るい部屋も暗がりの空間も好き」「広々とした開放感 [&#8230;]",
+      "link": "https://brutus.jp/post-531027/",
+      "pubDate": "Mon, 23 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "米中間選挙、野党・民主党が258議席獲得で1992年以来34年ぶりの大勝に！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588581.html",
+      "pubDate": "2026-11-23T20:45:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/05ab2b5c.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -470,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/7543097a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【Kindleセール】柴田ヨクサル『東島丹三郎は仮面ライダーになりたい』、山田胡瓜『AIの遺電子』、全巻99円セール！　超お買い得だぞおおおお",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588489.html",
-      "pubDate": "2026-11-23T11:30:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/1/51723b40.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -949,19 +962,6 @@
       "link": "https://rocketnews24.com/2026/11/22/2866838/",
       "pubDate": "Sun, 22 Nov 2026 08:00:02 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kikimimi124-1koma.png"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "品良く、ちょっぴりはしゃぐ。〈JOHN SMEDLEY〉のニットポロ：Brutus Best Bets",
-      "description": "品良く、ちょっぴりはしゃぐ 上品で、端正。そんな〈ジョン スメドレー〉の魅力に、遊び心を加えたディフュージョンライン、JS×JOHN SMEDLEYが誕生。ボクシーなシルエットと大胆なストライプでメリノウールのニットポロ [&#8230;]",
-      "link": "https://brutus.jp/post-539562/",
-      "pubDate": "Sun, 22 Nov 2026 08:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T11:30:44.855418",
+  "updatedAt": "2026-11-23T12:00:59.808062",
   "sites": [
     {
       "id": "hachima",
