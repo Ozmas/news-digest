@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2182話目「上司と部下の狭間で⑭」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/23/2867151/",
+      "pubDate": "Mon, 23 Nov 2026 12:00:49 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2182a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性VTuberさん「独身を装ってごめんなさい。実は結婚してました。配信で弟の声と言ってたのは夫でした」 → ガチ恋、死ぬ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463064.html",
+      "pubDate": "2026-11-23T21:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/1/d1e15eb3-s.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -886,19 +912,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/3/33b83b89-s.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "トランプ氏、天皇陛下にオバマ氏がお辞儀をする写真を見て、衝撃の一言を放つ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463013.html",
-      "pubDate": "2026-11-22T22:00:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/f/4f761e40.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1131,19 +1144,6 @@
       "link": "https://rocketnews24.com/2026/11/21/2867125/",
       "pubDate": "Sat, 21 Nov 2026 12:00:05 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2180a.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第118話「経」",
-      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/21/2866837/",
-      "pubDate": "Sat, 21 Nov 2026 08:00:09 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kikimimi123-1koma.png"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T12:00:59.808062",
+  "updatedAt": "2026-11-23T12:16:05.083619",
   "sites": [
     {
       "id": "hachima",
