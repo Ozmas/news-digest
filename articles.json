@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "電気自動車、ガチで将来性が無い　とある理由で維持無理すぎると話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588499.html",
+      "pubDate": "2026-11-23T14:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/7/274abedf-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -676,19 +689,6 @@
       "link": "http://blog.esuteru.com/archives/10588382.html",
       "pubDate": "2026-11-23T03:00:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9b9ff49-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「AI使ってお金稼ぐぞ！何がオススメか聞いてみよ」AI「3D・テクスチャ素材をBoothで売りましょう！」 → AI生成商品だらけになり地獄と化す",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588438.html",
-      "pubDate": "2026-11-23T02:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ff8ab536.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T05:00:49.860753",
+  "updatedAt": "2026-11-23T05:30:50.460569",
   "sites": [
     {
       "id": "hachima",
