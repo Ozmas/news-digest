@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】みんな大好き…「京島バル Oasis」が12月13日で閉店することを発表しました。",
+      "description": "いつも号外NET墨田区をご覧いただきありがとうございます。本日も、複数の読者様からご連絡をいただきました閉店のニュースをお伝えします。 京島3丁目。キラキラ橘商店街から京成曳舟駅方面に少し歩いたところにある「京島バル O [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/24/oasisclose/",
+      "pubDate": "Mon, 23 Nov 2026 23:01:57 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_9296-1024x767.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "フワちゃん、活動休止中の2年間「ずっと側にいてくれた」大物芸人を実名告白",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463076.html",
+      "pubDate": "2026-11-24T08:00:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/e/be04d210.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +39,19 @@
       "link": "https://rocketnews24.com/2026/11/24/2865478/",
       "pubDate": "Mon, 23 Nov 2026 23:00:23 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/squeeze-fukubukuro_000.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "韓国の芸術家の個人美術館3選。〈パク・ノス美術館〉〈キム・ジュンヨン美術館〉etc.",
+      "description": "パク・ノス美術館 （西村） 家全体が作品のような画家の邸宅 韓国絵画の巨匠パク・ノスが約40年暮らした邸宅をそのまま公開したミュージアム。1937年築の韓洋折衷住宅を舞台に、絵画だけでなく家具や古美術、庭園までが一体とな [&#8230;]",
+      "link": "https://brutus.jp/post-537188/",
+      "pubDate": "Mon, 23 Nov 2026 23:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "hachima",
@@ -678,19 +717,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3659.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "最近の男子中学生に一番人気の部活動、まさかのコレｗｗｗｗｗｗ「チー牛が行くところだろ」「野球部の凋落がヤバい」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463028.html",
-      "pubDate": "2026-11-23T11:40:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/5/7543097a.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -987,19 +1013,6 @@
       "description": "アジアを旅する案内人がおすすめするのは、大分の古き良き温泉地・別府。まずは街中の情報が集まる〈巡〉でじっくり酒に浸れば、以後の酒場体験は間違いないものとなる。 TANNEL（タンネル） いい音を全身で聴きながら、小鹿田焼 [&#8230;]",
       "link": "https://brutus.jp/post-512469/",
       "pubDate": "Sun, 22 Nov 2026 12:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "陶芸家・内田鋼一が選ぶ物語の道具。「珠洲焼（すずやき）」",
-      "description": "ダークで静か、クールな佇まい 日本の中世、平安から鎌倉、室町初期あたりのやきものが好きです。やっぱり桃山や江戸期に入ると、表現が派手になってくる。偉い人に頼まれて作ったようなものが多くなってくるから。それ以前のやきものは [&#8230;]",
-      "link": "https://brutus.jp/post-538595/",
-      "pubDate": "Sun, 22 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1562,19 +1575,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/04/thumb/CSCT_bksO.jpg?crop=660:440;38,0&resize=1250:830"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】すみだプレミアム付きデジタル商品券の「A券」どこで使う？～お勧め店のご紹介その4",
-      "description": "現在発売中のすみだプレミアム付デジタル商品券。 本人確認が済んでいれば、区民の方、区外の方問わず購入可能なPayPay商品券です。 【墨田区】今回は区外の方もOK！一次販売で買った方も！２０％お得な「すみだプレミアム付き [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/11/14/onakasquare-paypay/",
-      "pubDate": "Fri, 13 Nov 2026 23:01:13 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_7350-1-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T23:00:48.550701",
+  "updatedAt": "2026-11-23T23:30:47.661083",
   "sites": [
     {
       "id": "hachima",
