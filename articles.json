@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】登録者数102万人YouTuberさん、とんでもないものを隅田川で紛失ｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588522.html",
+      "pubDate": "2026-11-23T17:30:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/4/241b6b5a-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,32 @@
       "link": "https://rocketnews24.com/2026/11/23/2866615/",
       "pubDate": "Mon, 23 Nov 2026 08:00:34 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/repo111800.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】日本人さん、この期に及んでゴミみたいなパスワードばかり使い続けてしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588519.html",
+      "pubDate": "2026-11-23T17:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/546588f7.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性インフルエンサーさん「大好きなピアスを開けまくったらモテなくなった」と見た目への偏見に嘆く・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463050.html",
+      "pubDate": "2026-11-23T17:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f8f041a-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -535,19 +574,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-136.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【つらい】「おふくろの味」が食べたくて帰省した人、母の作るからあげを食べるも『最悪の事実』が発覚して、むせび泣く…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588468.html",
-      "pubDate": "2026-11-23T08:00:41+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58b68bdf.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -715,19 +741,6 @@
       "link": "https://brutus.jp/post-542071/",
       "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【マジ注意】メール配信・マーケサービス『KARTE（カルテ）』、「委託した企業が全部個人情報漏洩してる」とX民から怒りの声　→　現時点で漏れてない導入企業一覧がこちら…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588467.html",
-      "pubDate": "2026-11-23T07:30:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/2/b2224c5c.jpg"
     },
     {
       "siteId": "jin",
@@ -910,19 +923,6 @@
       "link": "https://brutus.jp/post-536942/",
       "pubDate": "Sun, 22 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "バレーボールのユニフォームの男女差がXで物議に「これを着るのが嫌でバレーボールを避ける女の子もいるのではないか？」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462999.html",
-      "pubDate": "2026-11-22T18:00:14+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/e/be8e247f.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T08:00:51.204421",
+  "updatedAt": "2026-11-23T08:30:46.159482",
   "sites": [
     {
       "id": "hachima",
