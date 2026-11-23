@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "NVIDIAグラボのSSD破壊バグ、修正版の最新パッチでも全然治ってないことが発覚・・・革ジャンの呪いか？",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463059.html",
+      "pubDate": "2026-11-23T20:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/4/d44e9e0d.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -886,19 +899,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2181a.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "生成AIアニメを使用し、新作コミックアニメを発表して大炎上した『GetBackers -奪還屋-』、謝罪して訂正「あれは新作◯◯です」「講談社に無断でやった」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463011.html",
-      "pubDate": "2026-11-22T21:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/3/e39d6f28.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T11:00:51.347678",
+  "updatedAt": "2026-11-23T11:30:44.855418",
   "sites": [
     {
       "id": "hachima",
