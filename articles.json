@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "新卒「始業10分前に出社したのに遅いって怒鳴られた。ムカつくから明日は朝6時に出社して上司を煽り返すわ」 → 衝撃の展開にｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463068.html",
+      "pubDate": "2026-11-24T05:00:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/2/426d6650-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ラーメン『壱角家』を擁護したリュウジさん、思いのほか壱角家が人気なくて評価が下がってしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588580.html",
+      "pubDate": "2026-11-24T05:00:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/5/556817a2.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -470,19 +496,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ムスリムの少年達が異教徒カップルを襲う動画が世界中で話題に！日本でもムスリム移民を恐れる声が殺到",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588509.html",
-      "pubDate": "2026-11-23T16:30:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c427873.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -676,19 +689,6 @@
       "link": "https://rocketnews24.com/2026/11/23/2864755/",
       "pubDate": "Mon, 23 Nov 2026 02:00:00 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_8610.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国人「閉山中の富士山で中国人が行方不明に。これも自己責任なの？」→日本人の返答が強烈すぎた",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463029.html",
-      "pubDate": "2026-11-23T10:00:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/6/068028e2.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T20:00:48.274959",
+  "updatedAt": "2026-11-23T20:30:42.542797",
   "sites": [
     {
       "id": "hachima",
