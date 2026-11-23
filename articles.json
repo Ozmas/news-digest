@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【ライブ配信】中澤星児の「最近眠れない問題」はいずれ解消されるのか？ / 漫画『ワンピース』の今後にもっとも望むこと",
+      "description": "毎週水曜19時30分から、当サイトのYouTubeチャンネル「ロケットニュース24」で行っているライブ配信。ここのところ、ファミコン・メガドライブを持ち出して、昔のゲームをプレイしながらの配信が続いている。懐かしのソフト [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/23/2866615/",
+      "pubDate": "Mon, 23 Nov 2026 08:00:34 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/repo111800.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "贅沢を、軽々と着こなす。〈Product Twelve〉のムートンジャケット：Brutus Best Bets",
+      "description": "贅沢を、軽々と着こなす 使い込んだような風合いなのに、どこか品がある。〈プロダクト トゥエルブ〉のムートンジャケットは、素材選びから一味違う。スペイン産のメリニーロムートンは、毛がふわふわで、革も薄くしなやか。コートのよ [&#8230;]",
+      "link": "https://brutus.jp/post-539566/",
+      "pubDate": "Mon, 23 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1081,19 +1107,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/tonari80-1koma.png"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "ジム・ジャームッシュ監督が初めて家族をテーマにした最新作『ファーザー マザー シスター ブラザー』を語る",
-      "description": "アダム・ドライヴァーの父親が、トム・ウェイツだったらって 『ファーザー マザー シスター ブラザー』ではニュージャージー（アメリカ）、ダブリン（アイルランド）、パリ（フランス）を舞台に3つの異なる家族を描く、いわゆるオム [&#8230;]",
-      "link": "https://brutus.jp/post-539701/",
-      "pubDate": "Sat, 21 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1144,19 +1157,6 @@
       "link": "https://casabrutus.com/categories/culture/494565",
       "pubDate": "Sat, 21 Nov 2026 07:25:53 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "店の名前は「デリシャス」。約180円のポテトを食べた僕は、その名前のことを考えた【カンバ通信：第548回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回行ったのは「Burganic Delicious Tastes」というレストラン。僕が入ったとき、お客さんはひとりもおらず [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/21/2863425/",
-      "pubDate": "Sat, 21 Nov 2026 06:00:11 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba548-thumbnail.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T07:30:42.939144",
+  "updatedAt": "2026-11-23T08:00:51.204421",
   "sites": [
     {
       "id": "hachima",
