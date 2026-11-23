@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "楽天証券が漏洩した5万件の顧客リスト、衝撃の価格で販売されてしまう　資産◯◯万円でも強盗対象となり震える株クラ民が続出・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463045.html",
+      "pubDate": "2026-11-23T15:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/6/c673546a-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】GTAファンさん、1998年の時オカにレビュー爆撃をして笑いものになってしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588503.html",
+      "pubDate": "2026-11-23T15:00:18+09:00",
+      "thumbnail": "http://livedoor.blogimg.jp/hatima/imgs/8/1/81346d0a.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -691,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68464321.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "つまらない男が好きそうなコンテンツビンゴ！みんなはいくつ当てはまる？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588384.html",
-      "pubDate": "2026-11-23T04:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/81cfa5f1.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -910,19 +923,6 @@
       "link": "https://casabrutus.com/categories/design/496543",
       "pubDate": "Sun, 22 Nov 2026 07:25:44 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "38歳無職女さん、補修工事に来た作業員にいきなりスコップで殴り掛かり逮捕→女「わかりません、○○が間違っています」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462994.html",
-      "pubDate": "2026-11-22T16:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f00ee0a3.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T06:00:46.419314",
+  "updatedAt": "2026-11-23T06:30:43.113503",
   "sites": [
     {
       "id": "hachima",
