@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】とある雑貨屋さん、どうみてもち○ぽなストームグラスを入荷してしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588588.html",
+      "pubDate": "2026-11-23T21:35:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/2/b2a58eee.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -468,19 +481,6 @@
       "link": "https://jin115.com/archives/52463038.html",
       "pubDate": "2026-11-23T12:00:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1dcaf189.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】「中に絶対Wiiリモコン入ってる卵焼き見つけたｗｗｗ」パシャッ　→　想像の300倍以上、Wiiリモコンすぎて11万いいねｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588484.html",
-      "pubDate": "2026-11-23T12:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/1/f1757025.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T12:30:42.255212",
+  "updatedAt": "2026-11-23T13:00:55.701755",
   "sites": [
     {
       "id": "hachima",
