@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【衝撃】NVIDIA、まさかのジェンスン・フアン氏がCEOに復帰ｗｗｗｗｗｗ株式市場が壊れるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463077.html",
+      "pubDate": "2026-11-24T01:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/1/314b5f62.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】GTA6をプレイしていた配信者さん、離席中にPS5が燃える",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588622.html",
+      "pubDate": "2026-11-24T00:50:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c2fa6868.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『バトゥーキ』全巻「100円」セールが終了間際！！全18巻「11,282円」→「1,800円」！『嘘喰い』作者が描く、カポエイラで挑む異種格闘技バトル！本日23時59分まで",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463073.html",
+      "pubDate": "2026-11-24T00:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/2/c2723a2b.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -470,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/5/758f1a1a.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "電気自動車、ガチで将来性が無い　とある理由で維持無理すぎると話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588499.html",
-      "pubDate": "2026-11-23T14:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/7/274abedf-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -873,19 +899,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】「つまらない男が好きなコンテンツ一覧」←めちゃくちゃ物議になる",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463023.html",
-      "pubDate": "2026-11-23T07:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/7/871ba978.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -897,19 +910,6 @@
       "link": "https://casabrutus.com/categories/food/496312",
       "pubDate": "Sun, 22 Nov 2026 22:00:07 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "生活保護受給の小説家、福祉事務所から印税or生活保護の究極の2択を迫られる→小説家が選んだのが・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463018.html",
-      "pubDate": "2026-11-23T04:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/8/68464321.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T15:30:54.830480",
+  "updatedAt": "2026-11-23T16:00:57.634060",
   "sites": [
     {
       "id": "hachima",
