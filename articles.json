@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "宮迫博之さん、新たな居酒屋オープンと同時に焼肉店「牛宮城」閉店を報告「お客さんが落ち着いてしまった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588577.html",
+      "pubDate": "2026-11-23T20:00:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/4/54d50367.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "中国SNSで「閉山中の富士山に登る方法」が拡散…「遭難しても無料でレスキューが助けてくれる」「日本の象徴である山に登り日本に勝つ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588573.html",
+      "pubDate": "2026-11-23T19:35:44+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/5/55c10bde.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -483,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/c/5ca06eda.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【完結】『サカモトデイズ』、本日発売のジャンプで最終回！　6年の歴史に幕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588482.html",
-      "pubDate": "2026-11-23T11:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/5/95debea6.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +533,6 @@
       "link": "https://rocketnews24.com/2026/11/23/2864755/",
       "pubDate": "Mon, 23 Nov 2026 02:00:00 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_8610.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「長い間『こどおじ』してるのに、なぜ実家に1円も入れないの？」　→　40代子供部屋おじさんに聞いた結果、まさかの回答が来てしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588477.html",
-      "pubDate": "2026-11-23T10:30:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/923fc898.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T10:30:43.057125",
+  "updatedAt": "2026-11-23T11:00:51.347678",
   "sites": [
     {
       "id": "hachima",
