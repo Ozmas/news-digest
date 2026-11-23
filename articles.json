@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】『リコリス・リコイル』コスプレイヤー「西武新宿線ホーム貸切で撮影するけど、駅員さん敵役いいですか？」　→　まさかのOK！ノリノリ駅員さんの姿がこちらｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588490.html",
+      "pubDate": "2026-11-23T12:20:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/1804486c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "堀大輔さん、まさかの◯◯を暴露されるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463038.html",
+      "pubDate": "2026-11-23T12:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/d/1dcaf189.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】「中に絶対Wiiリモコン入ってる卵焼き見つけたｗｗｗ」パシャッ　→　想像の300倍以上、Wiiリモコンすぎて11万いいねｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588484.html",
+      "pubDate": "2026-11-23T12:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/1/f1757025.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -665,32 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/3/33b83b89-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【GTA6】X民「日本には『女が関わるとコンテンツが死ぬ』という格言があります」 → 海外ユーザーからめちゃくちゃ賛同されてしまう",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588412.html",
-      "pubDate": "2026-11-22T22:45:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6d629de2.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "爆笑問題・太田光、高市首相の中国への対応に「私は見ていて心強かった」「あんまり大騒ぎしすぎない方がいいと思います」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588389.html",
-      "pubDate": "2026-11-22T22:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/5/154a5ea0.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -910,19 +923,6 @@
       "link": "https://jin115.com/archives/52462975.html",
       "pubDate": "2026-11-22T13:00:30+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/6/36028fda.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【動画】イスラム教徒が他教徒のカップルを見つけた時の反応がコレ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52462971.html",
-      "pubDate": "2026-11-22T12:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/d/8d352733.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-23T03:00:56.594865",
+  "updatedAt": "2026-11-23T03:30:42.261792",
   "sites": [
     {
       "id": "hachima",
