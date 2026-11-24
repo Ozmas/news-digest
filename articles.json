@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「ここならおいしい魚が食べられそうだ」いつものポテトを見送って魚とウガリを頼んだ僕が、魚より気に入ったもの【カンバ通信：第551回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回は、お昼ごはんに魚を食べてきた。入ったのは「Nyamalo Fish Restaurant（ニャマロ・フィッシュ・レストラ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/24/2868595/",
+      "pubDate": "Tue, 24 Nov 2026 10:00:32 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/att.KRmRFbDASJnvFNlfT2fed8TdJHXiN5619UEAKY_PvII.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "鉱物を芸術品として鑑賞する。LA発のファインミネラルエキシビション『Unearthed：Raw Beauty』",
+      "description": "〈ロサンゼルス自然史博物館〉で今、鉱物標本を「地球が創り出した芸術品」として鑑賞する異色の展覧会が開かれている。その名も『Unearthed:Raw Beauty』。地質学の教材でもなく、ジュエリーの材料でもなく、純粋に [&#8230;]",
+      "link": "https://brutus.jp/post-532830/",
+      "pubDate": "Tue, 24 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『サイバーパンク2077』続編の開発者「GTA6はおそらく史上最高の芸術的成果」「オープンワールド開発者は鬱になる。サイバーパンク2は開発中止だ」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588762.html",
+      "pubDate": "2026-11-24T18:40:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f456d350.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -574,19 +613,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5383.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】ネットの中と同じ感覚でイキる迷惑系配信者さん、ビンタされて無事現実世界に引き戻されるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588663.html",
-      "pubDate": "2026-11-24T09:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/2/529f32cb.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1055,19 +1081,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-12-5.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "朝7時から30人待ち！ 仙台駅チカ『伊藤商店』の朝ラーがスープを飲み干す絶品だった",
-      "description": "特に東京で「朝ラー」は、ワンコイン前後でお得に提供されることが多い。ラーメンは昼以降に食べることがほとんどで、どちらかと言えば「空白を少しでも埋めるための仕掛け」という印象だ。 一方、日本国内には純粋に朝ラーが根付いてい [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/23/2864377/",
-      "pubDate": "Mon, 23 Nov 2026 00:00:53 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/asara04.jpeg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1207,19 +1220,6 @@
       "title": "11月23日〜11月29日 射手座の運勢【ブルータス週間占い】",
       "description": "射手座の羅針盤 未来のために関係性を見直す 射手座にとって日々の業務の部屋にあたる牡牛座に月がいる週の初めは、目の前の用事に追われるかもしれません。それでも、24日に自エリア（射手座）の太陽と海王星（夢）が120度でつな [&#8230;]",
       "link": "https://brutus.jp/post-542064/",
-      "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月23日〜11月29日 山羊座の運勢【ブルータス週間占い】",
-      "description": "山羊座の羅針盤 次の挑戦のために習慣をつなげる 週の初め、山羊座にとって娯楽の部屋にあたる牡牛座に月がいます。そのため、今週は楽しみな予定が入って気持ちが弾みそうです。また24日に、太陽が海王星（夢）と120度でつながる [&#8230;]",
-      "link": "https://brutus.jp/post-542066/",
       "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T09:30:44.559088",
+  "updatedAt": "2026-11-24T10:00:51.630025",
   "sites": [
     {
       "id": "hachima",
