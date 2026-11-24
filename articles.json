@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "BALMUDA The Toasterが、初のフルリニューアル！人気シェフが新機能を使って、“おいしい”パーティが始まる",
+      "description": "新機能「サワードウモード」と「スチームデリモード」 2015年に「BALMUDA The Toaster」を発売して、トースター市場に大きな旋風を巻き起こした、バルミューダ。スチームテクノロジーと緻密な温度制御を組み合わ [&#8230;]",
+      "link": "https://brutus.jp/post-538785/",
+      "pubDate": "Tue, 24 Nov 2026 08:50:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1159,19 +1172,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月23日〜11月29日 水瓶座の運勢【ブルータス週間占い】",
-      "description": "水瓶座の羅針盤 自分の強みを極める 週の初めは、過去にどんな未来を思い描いていたかを振り返ってみましょう。水瓶座にとって基盤を意味する部屋、牡牛座の月が、歩いてきた道をそっと照らし出します。この月には冥王星（運命）が90 [&#8230;]",
-      "link": "https://brutus.jp/post-542068/",
-      "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T08:30:42.551165",
+  "updatedAt": "2026-11-24T09:00:47.605184",
   "sites": [
     {
       "id": "hachima",
