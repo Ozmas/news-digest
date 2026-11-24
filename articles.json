@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "視覚障害のある私が選ぶ「街中で声をかけられて嬉しい言葉」No.1とは？",
+      "description": "ロケットニュースで記事を書きはじめてから、編集部や私のXに読者の方から質問をいただくようになった。たとえば…… 「街中で視覚障害者を見かけたら、どのように声をかけたらいいですか？」 ……という質問。今回はこちらに回答した [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/24/2865627/",
+      "pubDate": "Tue, 24 Nov 2026 00:00:49 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/声掛け：アイキャッチ.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "遊戯王の大会に出たカードゲーマーさん、「スリーブにマークがついていた」として失格になる→その画像がこちら・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463082.html",
+      "pubDate": "2026-11-24T09:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/0/400a5c5b-s.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -678,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/6460c1df.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "不同意性交を告発された人気配信者・けんきさんが衝撃の釈明「相手の子は夜職らしくて。無料風俗かぁと思っちゃった。すまん」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463031.html",
-      "pubDate": "2026-11-23T13:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/e/8e85002a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1131,19 +1144,6 @@
       "link": "https://rocketnews24.com/2026/11/22/2867468/",
       "pubDate": "Sun, 22 Nov 2026 00:35:17 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_7035.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【福袋2027】998円でここまで楽しめる！ 楽天市場で見つけた「マスキングテープだけが20巻も入ったセット」には福袋の良いところが詰まっていた",
-      "description": "福袋のワクワク感を楽しみたいけど、争奪戦に参加するのは面倒だし、いらないものが入っていたらと思うと実際には買いづらい。高額なものを買って失敗するのもイヤ。 そんな人におすすめしたいのが、楽天市場で見つけたマスキングテープ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/22/2862910/",
-      "pubDate": "Sun, 22 Nov 2026 00:00:30 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-10-4.jpeg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T00:00:53.205174",
+  "updatedAt": "2026-11-24T00:15:02.957932",
   "sites": [
     {
       "id": "hachima",
