@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "【今月のギフト】お世話になっているあの人へ。1万円以下で買える、気の利いたプレゼント #25",
+      "description": "子育て中のあの人へ親子で遊べるテープレコーダー4,290円\n    \n\n\t\t\n\t\t\t\n\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\n〈kiko+〉のテープレコーダーmini tape recorder H9.8×W15.2×D3.3cm 各4,290円\n\n\n\n\nもっと詳しく\n\n\n\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n",
+      "link": "https://brutus.jp/post-539230/",
+      "pubDate": "Tue, 24 Nov 2026 12:00:00 +0000",
+      "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/11/2026-08-28_BU_gift-12962-750x500.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【炎上】腐女子さん、刀剣乱舞キャラを使って反戦イベント参加を表明 → 非難殺到「話の通じないバケモン」「界隈の自浄作用はゼロに等しい」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588798.html",
+      "pubDate": "2026-11-24T20:45:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c2448822.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +546,6 @@
       "link": "https://brutus.jp/post-541680/",
       "pubDate": "Tue, 24 Nov 2026 03:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】顔面にピアスあけまくって就活で30社不採用の女性が「当たり前だ」と叩かれる　→　女性本人がブチギレお気持ち表明",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588675.html",
-      "pubDate": "2026-11-24T11:30:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/1/e1df1381.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1211,19 +1224,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月23日〜11月29日 蠍座の運勢【ブルータス週間占い】",
-      "description": "蠍座の羅針盤 自由な挑戦をする 蠍座にとって対人関係を示す部屋、牡牛座に月がいる週の初め。どうしても自分と他人を比べてしまう星回りです。ただし、自分の足りないところを探すのではなく、自分の実力や得意分野を再確認するきっか [&#8230;]",
-      "link": "https://brutus.jp/post-542061/",
-      "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T11:30:51.355576",
+  "updatedAt": "2026-11-24T12:00:50.278958",
   "sites": [
     {
       "id": "hachima",
