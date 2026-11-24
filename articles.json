@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】あの人気店の系列店がOPEN！鶏焼専門店「鶏焼肉 錦糸鳥」",
+      "description": "錦糸町北口エリア。大平1丁目、蔵前橋通り沿いの「オクノ羊ヤ」 店頭にすぐそこに系列店「鶏焼肉　錦糸鳥」OPENとの告知が！ 一軒はさんだお隣に「錦糸鳥」（きんしちょう）が2026年11月18日（水）にOPENしました。  [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/25/kinshitoriopen/",
+      "pubDate": "Tue, 24 Nov 2026 23:01:03 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_9346-1024x767.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ド正論】「僧侶なのでハッキリ言います。『根はいい人なんだよ』は◯◯◯の意味です」　→　火の玉ストレート過ぎて約5万いいねｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588897.html",
+      "pubDate": "2026-11-25T08:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d9608a4f.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +39,19 @@
       "link": "https://rocketnews24.com/2026/11/25/2867473/",
       "pubDate": "Tue, 24 Nov 2026 23:00:23 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-1.jpeg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "X民「俺の人生は小学校の組体操で◯◯させられた時から決まっていた」→衝撃の画像が投稿されるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463126.html",
+      "pubDate": "2026-11-25T08:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/7/777a5061.jpg"
     },
     {
       "siteId": "hachima",
@@ -470,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a4594c2.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】有料イベント『ちいかわクリスマスマーケット』、地獄絵図「飛び交う中国語」「開場約30分で完売」「強烈な雨」「泣き叫ぶ子供」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588763.html",
-      "pubDate": "2026-11-24T19:00:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/3712051f-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -832,19 +858,6 @@
       "link": "https://rocketnews24.com/2026/11/24/2864735/",
       "pubDate": "Tue, 24 Nov 2026 01:00:19 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5383.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「若者の左翼・共産党嫌いの原因は何？なぜ左派の政策を支持しないの？」→ネット民のマジレス、殺到",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463083.html",
-      "pubDate": "2026-11-24T09:30:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/c/7c36b0a7.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1588,19 +1601,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/2026_HNF-1024x767.jpg"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】赤からが錦糸町に戻ってきます！11月18日北口エリアにOPEN予定です。",
-      "description": "2026年10月にOPENをお伝えしました錦糸3丁目のイタリアンバル「Sanire」。 【墨田区】錦糸町駅北口エリアにイタリアンバル「Sanire」（サニーレ）OPEN！ 錦糸町駅北口エリア、錦糸3丁目にイタリアンバル「 [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/11/15/akakara-itenopen/",
-      "pubDate": "Sat, 14 Nov 2026 23:01:49 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8413-1024x767.jpeg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T23:00:51.175774",
+  "updatedAt": "2026-11-24T23:30:48.696442",
   "sites": [
     {
       "id": "hachima",
