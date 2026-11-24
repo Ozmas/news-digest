@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "Suicaの新キャラ「毒うさぎ（仮）」、横から見ると絶妙にキモいと話題にｗｗｗ これは愛されるぞおおお！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463106.html",
+      "pubDate": "2026-11-24T19:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/a/3a4594c2.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】有料イベント『ちいかわクリスマスマーケット』、地獄絵図「飛び交う中国語」「開場約30分で完売」「強烈な雨」「泣き叫ぶ子供」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588763.html",
+      "pubDate": "2026-11-24T19:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/7/3712051f-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -574,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/4/d4f122be-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "NECマスコット『バザールでござーる』、今日で引退！　約35年の歴史に幕",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588667.html",
-      "pubDate": "2026-11-24T10:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/4/c4a08714.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -832,19 +845,6 @@
       "link": "https://jin115.com/archives/52463060.html",
       "pubDate": "2026-11-24T00:00:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/7832a1b8-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "競馬・福島１Rで競走馬の死亡事故→斜行した女性騎手は9日間の騎乗停止→処分の重さで物議に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463071.html",
-      "pubDate": "2026-11-23T23:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/3/631f5032.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T10:00:51.630025",
+  "updatedAt": "2026-11-24T10:18:48.296305",
   "sites": [
     {
       "id": "hachima",
