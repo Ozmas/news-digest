@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2752回「今の九ちゃん②」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/11/24/2867853/",
+      "pubDate": "Tue, 24 Nov 2026 05:00:43 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2752-2.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1185,19 +1198,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba-549-thumbnail-wipe.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "思い出の超巨大な『伝説の唐揚』を10年ぶりに食べに行った結果 → 色々な意味で「1000円だとッ!?」となった",
-      "description": "今から10年ほど前、友人達と『腹八分目』という居酒屋チェーンによく行っていた。激安なのにボリューム満点がウリで、お金に余裕がなかった20代前半は名物の「超巨大な唐揚」に何度助けられたことか。 そんな腹八分目。当時は都内の [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/22/2864225/",
-      "pubDate": "Sun, 22 Nov 2026 02:55:02 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/43454_0.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T04:30:41.276767",
+  "updatedAt": "2026-11-24T05:00:53.003007",
   "sites": [
     {
       "id": "hachima",
