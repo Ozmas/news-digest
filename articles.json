@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「Z世代トレンドアワード2026」年間大賞は「ドパガキ」ｗｗｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588738.html",
+      "pubDate": "2026-11-24T18:20:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68ff69ae.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "オタク「脱オタクファッション本買って垢抜けするぞ！」→ヤバすぎるファッションをオススメされてしまい終わるｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463110.html",
+      "pubDate": "2026-11-24T18:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/b/4be4ce9c.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "いま話題の『壱角家』に3年半ぶりに行ってみた！ 昔「普通に美味しい」と書いて叱られた男のファイナルアンサー",
+      "description": "現在、Xを中心に家系ラーメンチェーン店『壱角家』が大きな話題となっている。私（サンジュン）はついさっきまで「いっかくや」と読んでいたが、正確には「いちかくや」であるそうだ。 それはどうでもいいとして、料理研究家のリュウジ [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/24/2868406/",
+      "pubDate": "Tue, 24 Nov 2026 09:00:43 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/itikaku00.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】かっぱ寿司、赤字9億円で15店舗閉店へ　競合他社のスシローやはま寿司は増収増益",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588729.html",
+      "pubDate": "2026-11-24T18:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/d/1d3d41b9.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -548,19 +600,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/c/7c36b0a7.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超便利】「このお掃除道具、素晴らしすぎる！　状態が入居時の綺麗さに戻るお掃除界のクレイジーダイヤモンドだ！」　→　ガチすぎてネット中から共感殺到ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588660.html",
-      "pubDate": "2026-11-24T09:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/84e4cf68.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -598,19 +637,6 @@
       "link": "https://jin115.com/archives/52463079.html",
       "pubDate": "2026-11-24T08:30:32+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/9/09c18c0b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】ある人気男性アイドル「池袋の一蘭のラーメンうまかった」パシャッ　→　現地がマジでとんでもないことになってしまうｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588656.html",
-      "pubDate": "2026-11-24T08:30:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/b/4b5e675b.jpg"
     },
     {
       "siteId": "sumida",
@@ -795,19 +821,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/3/631f5032.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "性的暴行で懲役4年判決の元ジャンポケ斉藤さん、現在の様子がこちらｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463066.html",
-      "pubDate": "2026-11-23T22:00:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/1/a12146be.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -845,6 +858,19 @@
       "link": "https://brutus.jp/post-536702/",
       "pubDate": "Mon, 23 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "中村江里子、パリの自宅で“お正月のテーブルコーデ”を披露⇒「クロスを見た時は、え？と…」「美しい」「センス抜群」と話題に",
+      "description": "フリーアナウンサーの中村江里子さんが11月13日にYouTubeチャンネルを更新。お正月用に考えたテーブルコーディネートを披露しました。新しくなったというパリの自宅キッチンやダイニングにも注目が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/nakamura-eriko-paris-oshogatsu",
+      "pubDate": "Mon, 23 Nov 2026 05:01:01 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/06/subbuzz/E6EgkfBUX.jpg?crop=339:226;222,209&resize=1250:830"
     },
     {
       "siteId": "brutus",
@@ -899,6 +925,19 @@
       "thumbnail": ""
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「なぜ、そこ！？」障子を顔でぶち抜くネコちゃん→「ヤバすぎ」「こだわり強くて可愛すぎ」と話題に",
+      "description": "飼い主さんがわざわざ外が見えるようにしてくれているのに、自分でぶち抜いた穴から外が見たいネコちゃんが話題です。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/tomukichicat-syouji",
+      "pubDate": "Mon, 23 Nov 2026 02:01:04 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/18/06/thumb/sR6IxrA6_.jpg?crop=693:462;447,15&resize=1250:830"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -938,6 +977,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3659.jpg"
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "工藤静香、自家製ケチャップに入れたまさかの物に驚きの声「目からウロコ」「初めて知りました」",
+      "description": "歌手の工藤静香さんが、11月19日にInstagramを更新。自家製ケチャップの作り方を公開し、「目からウロコ」「初めて知りました」などと話題になっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/kudoushizuka-kaki1119",
+      "pubDate": "Sun, 22 Nov 2026 21:31:04 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/20/02/thumb/LRsgMxUD_.jpg?crop=1409:939;576,282&resize=1250:830"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -962,6 +1014,19 @@
       "link": "https://casabrutus.com/categories/design/496263",
       "pubDate": "Mon, 23 Nov 2026 02:25:53 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「バグってる」「これは人間が悪い」蹴る場所を間違えたネコの“ポンコツ”ぶりに3.6万いいね「何が起きたかわかんない顔」",
+      "description": "蹴りを繰り出したネコの動画がXに投稿され、「バグってる」「これは人間が悪い」などの反響が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/ayahara/asaricat1119kick",
+      "pubDate": "Sun, 22 Nov 2026 21:01:04 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/19/01/subbuzz/QzDKJn_df.jpg?crop=929:619;167,52&resize=1250:830"
     },
     {
       "siteId": "rocketnews",
@@ -1014,19 +1079,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/23/pilinawithpaws/",
       "pubDate": "Sun, 22 Nov 2026 23:01:55 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8380-1024x767.jpeg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "そういう理由で来るところじゃない！ 自分を変えたかった青年！　四コマサボタージュFB第136回「心の強さ」",
-      "description": "昔に通っていた空手道場が閉まっていたんだ。生徒さんがいなくなったのが原因なんだろうけど、こういうのってなくなるとは思ってなかったから結構ショックなんだよね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/23/2862181/",
-      "pubDate": "Sun, 22 Nov 2026 23:00:53 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-136.png"
     },
     {
       "siteId": "brutus",
@@ -1198,6 +1250,45 @@
       "thumbnail": ""
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "映画『VIVANT』乃木憂助の新ビジュアルに「この顔は一体…！？」「やっぱり薫さんに…」「な、な、なんなの！！」と反響",
+      "description": "映画『VIVANT』公式アカウントが11月19日にXを更新。俳優の堺雅人さん演じる別班・乃木憂助のビジュアルを公開しました。SNSでは、「この顔は一体……！？」「驚いてるように見える」と反響が寄せられています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yukiadachi/vivant-sakaimasato1119",
+      "pubDate": "Sun, 22 Nov 2026 05:16:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/20/07/subbuzz/c5Wsbjpy5.jpg?crop=2046:1364;0,356&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "ロッチ・コカドがBURBERRYシャツをリメイクしたら…まさかの変化に「すごい！魔術師」「めっちゃ可愛い」",
+      "description": "お笑いコンビ「ロッチ」のコカドケンタロウさんが11月14日にYouTubeチャンネルを更新。ラグジュアリーブランド「BURBERRY（バーバリー）」のシャツをリメイクする様子を披露しました。シルエットや長さを調節できるアイデアにも反響が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/takamiyoshida/rotti-kokado-burberry",
+      "pubDate": "Sun, 22 Nov 2026 04:31:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/20/05/subbuzz/HV-2CQEa8.jpg?crop=1863:1242;0,168&resize=1250:830"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「もう兄弟だろ」Suicaの新キャラB案、他の公式キャラそっくりだと話題に「親戚？思った以上に似てる」",
+      "description": "ベネッセコーポレーションの「進研ゼミ小学講座」公式アカウントが、11月19日にXを更新。JR東日本「Suica」の新キャラクターの投稿を引用する形で、進研ゼミのキャラクター「コラショ」の画像を披露し、「もう兄弟だろ」「親戚？思った以上に似てる」などと話題になっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/korasyo-suica",
+      "pubDate": "Sun, 22 Nov 2026 03:01:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/20/07/thumb/p36_o2ydB.jpg?crop=1795:1197;162,411&resize=1250:830"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1211,6 +1302,19 @@
       "thumbnail": ""
     },
     {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "「阿部サダヲさんに似てる」そっくりな猫に9.1万いいね「目のあたりがかなり似てます」",
+      "description": "俳優の阿部サダヲさんに似ている猫！？ 比較してみた投稿に「確かに似てるw」など、9.1万件の「いいね」が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/yuisasaki/abesadawoniteiruneko",
+      "pubDate": "Sun, 22 Nov 2026 02:01:02 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/17/07/subbuzz/4JG7tPxMy.jpg?crop=3397:2265;162,319&resize=1250:830"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1222,6 +1326,19 @@
       "link": "https://casabrutus.com/categories/design/496265",
       "pubDate": "Sun, 22 Nov 2026 02:25:37 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "運転中タヌキに遭遇→車から逃げるも…まさかの走り方に21万いいね「なぜ同じ方向に…」「全身プルンプルン」",
+      "description": "運転中に野生のタヌキに遭遇。車から逃げる姿に21万「いいね」が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/tanuki-zenryoku1027",
+      "pubDate": "Sat, 21 Nov 2026 20:31:03 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/17/07/thumb/RXZxueJmR.jpg?crop=976:651;0,33&resize=1250:830"
     },
     {
       "siteId": "sumida",
@@ -1261,6 +1378,19 @@
       "link": "https://casabrutus.com/categories/culture/494565",
       "pubDate": "Sat, 21 Nov 2026 07:25:53 +0000",
       "thumbnail": ""
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "ハシビロコウが日光浴したら…まさかの闇堕ち。衝撃の表情に「魔王に進化しそう」「鹿賀丈史にも見える」と反響",
+      "description": "日光浴しているハシビロコウの闇堕ちした姿に反響が集まっています。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/fudou-yamiochi",
+      "pubDate": "Fri, 20 Nov 2026 20:01:03 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/19/08/subbuzz/-kn8FAB1P.jpg?crop=3150:2100;0,145&resize=1250:830"
     },
     {
       "siteId": "sumida",
@@ -1406,32 +1536,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/17/14/subbuzz/J42N8qhQm.jpg?crop=286:191;263,369&resize=1250:830"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "本田圭佑、16年ぶりに激安店を訪問⇒「ザ普通の買い物でケイスケホンダを感じた」「食玩とか…」「楽しそう」と話題に",
-      "description": "サッカー元日本代表の本田圭佑さんの公式アカウントが11月15日にYouTubeチャンネルを更新。本田さんが総合ディスカウントストア「ドン・キホーテ」を訪れた様子を公開しました。購入品や店内での気さくな姿にも反響が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/takamiyoshida/keisuke-honda-donki-kaimono",
-      "pubDate": "Wed, 18 Nov 2026 05:46:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/18/04/subbuzz/0wn0Z5nW8.jpg?crop=1968:1312;0,140&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "郷ひろみの靴下に「意外…」「AIの画像かと」「ビックリ」とファン驚き",
-      "description": "歌手の郷ひろみさんが11月17日にInstagramを更新。ダンス＆ボーカルユニット「新しい学校のリーダーズ」から贈られた靴下を履いた姿を公開し、ファンからは「AIの画像かと」「ビックリ」などの反響が寄せられました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yuisasaki/gohiromi1118",
-      "pubDate": "Wed, 18 Nov 2026 05:16:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/18/07/subbuzz/C5jJqr8Ns.jpg?crop=3667:2445;0,484&resize=1250:830"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1464,19 +1568,6 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「似てきた」浅田真央と姉の2ショットに「目の辺りが」「そっくりになってきましたね」と話題に",
-      "description": "元フィギュアスケーターでタレントの浅田舞さんが11月14日にInstagramを更新。プロフィギュアスケーターの妹・真央さんとの2ショットを披露しました。ファンから、「めちゃくちゃ可愛い」「世界一素敵な姉妹」と反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/yukiadachi/asadamai-mao2shot1114",
-      "pubDate": "Mon, 16 Nov 2026 04:46:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/05/subbuzz/HHc9YeykF.jpg?crop=3002:2001;0,251&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "【月刊バズフィード】早瀬憩がBuzzFeedの「表紙」に登場。インタビュー公開中！",
       "description": "映画『呪いのスマホ』で映画単独初主演を果たした早瀬憩さんが、BuzzFeedの「表紙」に登場！撮影の舞台裏や、俳優としての今後の展望についてうかがったインタビューも公開中です。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/munenoriumeki/ikoi-hayase-cover",
@@ -1497,58 +1588,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/2026_HNF-1024x767.jpg"
     },
     {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "松嶋菜々子、セリフが言えない姿に「かわいすぎ」「言いにくそう」「こんなハマった状態で…」ファン沸く",
-      "description": "ドラマ『救命病棟24時』（フジテレビ系）の公式アカウントが11月12日にInstagramとXを更新。俳優の松嶋菜々子さんの撮影風景を公開し、「かわいすぎ」などの反響が寄せられています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/matsushimananako1113",
-      "pubDate": "Sun, 15 Nov 2026 05:31:03 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/02/subbuzz/ktvDqNcD-.jpg?crop=3332:2221;0,175&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "湯船を満喫するワンコの表情に「仙人の風貌」「おじいちゃんみたい」と大反響",
-      "description": "入浴中にうっとりするワンコの姿がXに投稿され、「仙人の風貌」「おじいちゃんみたい」と2.5万件を超える「いいね」が集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/saorihakamada/gomachan-ofuro1109",
-      "pubDate": "Sat, 14 Nov 2026 21:01:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/06/thumb/m4_2vLZIg.png?crop=600:400;30,390&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「足どうなってるんだ...？」ネコの変な座り方に驚きの声「初めて見ました」「お手手4本あるみたい」",
-      "description": "いわゆる香箱座りのようだけど、なんだかちょっと違う……！？ ネコちゃんの独特な座り方に5.9万件のいいねが集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/kuroecat-koubako",
-      "pubDate": "Sat, 14 Nov 2026 20:01:03 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/02/thumb/kj-TCrji0.jpg?crop=1287:858;561,0&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "「自分が抱くと…」 見たこともない塩顔になっちゃう実家の猫に「じつに味わい深い」「チベットスナギツネのよう」",
-      "description": "実家の猫を抱っこしたら、見たこともない塩顔になってしまって……何とも味わい深く、愛おしい表情を見せる猫がSNSで話題になっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/kahorimachida/shio20261113",
-      "pubDate": "Sat, 14 Nov 2026 19:01:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/07/subbuzz/YzHqOoZ6W.jpg?crop=304:203;295,0&resize=1250:830"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1560,45 +1599,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/15/akakara-itenopen/",
       "pubDate": "Sat, 14 Nov 2026 23:01:49 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/10/IMG_8413-1024x767.jpeg"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "サンマを食べていたら…赤い虫が出てきた「気持ち悪い」「怖くて…」「アニサキスか！？って…」食べたらどうなる？",
-      "description": "サンマを食べていると、ハラワタから赤い虫が……！？ SNS上でも「寄生虫で本当イヤ。しかも結構でかい」などと話題になりがちなラジノリンクスについての情報をまとめました。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahoshino/pacificsaury-red",
-      "pubDate": "Sat, 14 Nov 2026 17:46:01 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/04/subbuzz/2eLtRlslh.jpg?crop=982:655;0,612&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "『呪術廻戦』を『ホタルの嫁入り』作者が描いたら…世界から「めっちゃ興奮する」「こんな風に描いてくれるなんて」と絶賛の声",
-      "description": "『ホタルの嫁入り』の作者・橘オレコさんが『呪術廻戦』のキャラクターを描き、SNSで話題になっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/ayahara/jyujyutsu-hotaru1112",
-      "pubDate": "Sat, 14 Nov 2026 17:31:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/04/thumb/CSCT_bksO.jpg?crop=660:440;38,0&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "大きい方の梨を横取りするハムスターに反響「本当強欲でかわいい」「フードファイターですか！？」",
-      "description": "ちゃんと飼い主さんが用意してくれているのに……大きい方にしか目がいかないハムスターに3.8万いいねが集まっています。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/tamikoshimoyama/ponhamster-nasi",
-      "pubDate": "Sat, 07 Nov 2026 20:31:02 -0500",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/04/06/thumb/TQdbPqZpX.jpg?crop=762:508;0,135&resize=1250:830"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T09:00:47.605184",
+  "updatedAt": "2026-11-24T09:30:44.559088",
   "sites": [
     {
       "id": "hachima",
