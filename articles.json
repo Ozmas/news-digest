@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "羨ましいから！ 注意をしに来たお父さん！　四コマサボタージュFB第138回「大人なんだから」",
+      "description": "いつかPS5を買おうと思ったまま結局買わず今に至るんだ。遊んでみたいタイトルとかいっぱいあるんだけどね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/25/2862202/",
+      "pubDate": "Tue, 24 Nov 2026 22:00:33 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-138.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "警視庁幹部「このままでは日本がコカインに汚染される」→“あの理由”で「そりゃそうだろ」の声が殺到・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463133.html",
+      "pubDate": "2026-11-25T07:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/15dbbc53.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "小学校の卒アルで『かわいい女子ランキング(男子投票)』が設立され女子達が嫌な気持ちに　→　1人の聖人男子の「◯◯◯」の一言のおかげで女子が救われた話",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588892.html",
+      "pubDate": "2026-11-25T07:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa89208a.jpg"
+    },
+    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -457,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f456d350.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「Z世代トレンドアワード2026」年間大賞は「ドパガキ」ｗｗｗｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588738.html",
-      "pubDate": "2026-11-24T18:20:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/8/68ff69ae.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -821,19 +847,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/声掛け：アイキャッチ.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "遊戯王の大会に出たカードゲーマーさん、「スリーブにマークがついていた」として失格になる→その画像がこちら・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463082.html",
-      "pubDate": "2026-11-24T09:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/0/400a5c5b-s.png"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1105,19 +1118,6 @@
       "link": "https://www.buzzfeed.com/jp/ayahara/asaricat1119kick",
       "pubDate": "Sun, 22 Nov 2026 21:01:04 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/19/01/subbuzz/QzDKJn_df.jpg?crop=929:619;167,52&resize=1250:830"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "台湾人の友人におまかせ！ 台北のローカルスーパーで日本人へのお土産を2000円縛りで5つ選んでもらって買ってきた",
-      "description": "台湾のスーパーで日本人向けのお土産を選ぶとしたら、現地の人は何を選ぶんだろう？ かつて台湾に住んでいた私には、今でも交流のある台湾人の友人が何人かいる。今回は台湾旅行の際に、台湾人女性の友人と一緒に台北のローカルスーパー [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/23/2864755/",
-      "pubDate": "Mon, 23 Nov 2026 02:00:00 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_8610.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T22:00:47.820516",
+  "updatedAt": "2026-11-24T22:30:43.159179",
   "sites": [
     {
       "id": "hachima",
