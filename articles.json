@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "「白磁」の人間国宝が監修した芸術的意匠を纏う、〈霧島酒造〉の特別な一杯。【おつまみレシピ付き】",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/food/496330",
+      "pubDate": "Tue, 24 Nov 2026 22:00:17 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1367,19 +1380,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "【インタビュー】〈POST〉と中島佑介が俯瞰するアートブックの四半世紀。",
-      "description": "書店〈POST〉の15年とアートブックの四半世紀を概観。2,500冊の写真と情報を収めた赤い本が教えてくれること。",
-      "link": "https://casabrutus.com/categories/culture/494565",
-      "pubDate": "Sat, 21 Nov 2026 07:25:53 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T21:30:42.581711",
+  "updatedAt": "2026-11-24T22:00:47.820516",
   "sites": [
     {
       "id": "hachima",
