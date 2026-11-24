@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "回転寿司チェーン、どこも好調な中、赤字でヤバいことになってる店が1つだけあるらしい・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463121.html",
+      "pubDate": "2026-11-25T00:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/7/97b396db.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「若者の左翼＆共産党嫌いって何が原因なんだろう」⇒ 集まった意見がこちら",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588764.html",
+      "pubDate": "2026-11-25T00:00:35+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/2/52d9c1f9.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -89,7 +115,7 @@
       "title": "【軍縮】防衛省「企業は装備品を増産しろ」 → 防衛省「防衛費が全然増えないから発注80%カットします」 企業「は？」",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10588809.html",
-      "pubDate": "2026-11-24T21:15:27+09:00",
+      "pubDate": "2026-11-24T21:15:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7c35f046.jpg"
     },
     {
@@ -509,19 +535,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/newbalance_a2dcd7.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】堀大輔さんのものと思われるメルカリアカウントが拡散　→　まさかの◯◯◯を転売しまくってた疑惑が浮上してしまう…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588684.html",
-      "pubDate": "2026-11-24T14:00:46+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/4290a5d5.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -871,19 +884,6 @@
       "link": "https://jin115.com/archives/52463074.html",
       "pubDate": "2026-11-24T06:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56f21cd5.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "新卒「始業10分前に出社したのに遅いって怒鳴られた。ムカつくから明日は朝6時に出社して上司を煽り返すわ」 → 衝撃の展開にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463068.html",
-      "pubDate": "2026-11-24T05:00:47+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/2/426d6650-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T15:00:54.017612",
+  "updatedAt": "2026-11-24T15:30:43.312179",
   "sites": [
     {
       "id": "hachima",
