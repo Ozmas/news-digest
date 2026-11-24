@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "海外X民による『記憶を頼りに描いたダークソウル漫画』、プレイ済みの人は興奮せずにはいられないと話題に！「凄すぎる」「あの日の記憶が蘇ってくる」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463122.html",
+      "pubDate": "2026-11-25T02:05:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/5/a5818485-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "笹川環境相「クマ駆除への抗議活動は一歩立ち止まって考えてほしい」 市役所への苦情で業務に支障",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588867.html",
+      "pubDate": "2026-11-25T02:05:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b82d3359.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -483,19 +509,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ハリウッド実写映画版『NARUTO』真田広之さんが三代目火影・猿飛ヒルゼン役で出演へ！ダンディすぎるｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588701.html",
-      "pubDate": "2026-11-24T16:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7c3c2ba1.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -871,19 +884,6 @@
       "link": "https://casabrutus.com/categories/food/496383",
       "pubDate": "Mon, 23 Nov 2026 22:00:02 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気番組、生放送中にとんでもない猥褻音声が流れる放送事故ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463074.html",
-      "pubDate": "2026-11-24T06:00:59+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56f21cd5.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T17:00:58.247737",
+  "updatedAt": "2026-11-24T17:30:42.814687",
   "sites": [
     {
       "id": "hachima",
