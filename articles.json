@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】『GTA6』のマップ、いくらなんでも広すぎる！　過去の他ロックスターゲームと比べたネットの画像があまりにエグすぎｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588678.html",
+      "pubDate": "2026-11-24T12:20:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/3/73b6a4a6.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【マズイ】外国人が「ボボボーボ・ボーボボ」を見てしまった結果ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463096.html",
+      "pubDate": "2026-11-24T12:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bb689b2c.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +39,19 @@
       "link": "https://rocketnews24.com/2026/11/24/2866508/",
       "pubDate": "Tue, 24 Nov 2026 03:00:24 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamonegi00.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ注意】『日清カップヌー◯ルミュージアム』に行ったとつぶやいたX民、最悪の末路に…　→　「日清公式がカプヌ呼びする理由って、これ？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588677.html",
+      "pubDate": "2026-11-24T12:00:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/8/18f3735f.jpg"
     },
     {
       "siteId": "hachima",
@@ -587,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/8/7832a1b8-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超速報】ジェンスン・フアン、NVIDIAのCEOに復帰ｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588611.html",
-      "pubDate": "2026-11-23T23:05:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c54e946.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -611,19 +637,6 @@
       "link": "https://jin115.com/archives/52463071.html",
       "pubDate": "2026-11-23T23:00:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/3/631f5032.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "名作SRPG『ファーランドサーガ』生誕30周年記念プロジェクト始動！令和にシリーズ新作くる！？",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588609.html",
-      "pubDate": "2026-11-23T22:55:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/c/5c59f897.jpg"
     },
     {
       "siteId": "jin",
@@ -754,19 +767,6 @@
       "link": "https://rocketnews24.com/2026/11/23/2866615/",
       "pubDate": "Mon, 23 Nov 2026 08:00:34 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/repo111800.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性インフルエンサーさん「大好きなピアスを開けまくったらモテなくなった」と見た目への偏見に嘆く・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463050.html",
-      "pubDate": "2026-11-23T17:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/f/1f8f041a-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T03:00:46.275731",
+  "updatedAt": "2026-11-24T03:30:40.730667",
   "sites": [
     {
       "id": "hachima",
