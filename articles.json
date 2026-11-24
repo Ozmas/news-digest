@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「若者の左翼・共産党嫌いの原因は何？なぜ左派の政策を支持しないの？」→ネット民のマジレス、殺到",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463083.html",
+      "pubDate": "2026-11-24T09:30:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/c/7c36b0a7.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【超便利】「このお掃除道具、素晴らしすぎる！　状態が入居時の綺麗さに戻るお掃除界のクレイジーダイヤモンドだ！」　→　ガチすぎてネット中から共感殺到ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588660.html",
+      "pubDate": "2026-11-24T09:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/84e4cf68.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -561,19 +587,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/9/29915ba0.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アイスピックで脅し「逃げたら◯す」と男性社員を1週間監禁　中国籍の会社社長（22）ら4人逮捕　さらに凶悪な行動も",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588567.html",
-      "pubDate": "2026-11-23T19:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/c/0c9bed54-s.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -689,19 +702,6 @@
       "link": "https://rocketnews24.com/2026/11/23/2865074/",
       "pubDate": "Mon, 23 Nov 2026 06:00:17 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba-550-muthokoi.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「『絵の先生が出した課題』と『課題を見て母が描いた絵』、頭の中どうなってんだ」→投稿された画像が凄すぎて6.5万いいねｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463041.html",
-      "pubDate": "2026-11-23T14:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/4/6460c1df.png"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T00:15:02.957932",
+  "updatedAt": "2026-11-24T00:30:39.950506",
   "sites": [
     {
       "id": "hachima",
