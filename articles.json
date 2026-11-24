@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「成人向けマンガ買ったから楽しもう」⇒ 最悪すぎる事故が発生して激萎えしてしまう",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588768.html",
+      "pubDate": "2026-11-25T00:30:29+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa58f6b8.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -507,19 +520,6 @@
       "link": "http://blog.esuteru.com/archives/10588699.html",
       "pubDate": "2026-11-24T15:00:15+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/d/0da03383.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "左翼「アニメ好きが反戦したらアニメの政治利用。じゃあ呼吸してる人が反戦したら呼吸も政治利用？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588696.html",
-      "pubDate": "2026-11-24T14:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/d/0d61992c.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T15:30:43.312179",
+  "updatedAt": "2026-11-24T16:00:52.205762",
   "sites": [
     {
       "id": "hachima",
