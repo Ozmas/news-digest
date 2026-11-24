@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "メニュー写真の縦横比がバグっているカレー店が気になって仕方がないので、デリバリーで注文したら納得した",
+      "description": "第一印象は「こいつはズルいなー」だった。なんといっても、メニュー写真の縦横比が明らかにおかしいのだから（2026年11月17日時点）。こんな写真だったらいやがうえにも目を引くではないか。 そして重要なのが、狙ってる雰囲気 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/24/2865236/",
+      "pubDate": "Tue, 24 Nov 2026 02:00:17 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/a_IMG_9429_noEXIF.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "革ジャンのフアン氏がエヌビディアCEOに復帰　→　世界の株価が爆上がり！日経平均は一時2600円超の急騰ｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588669.html",
+      "pubDate": "2026-11-24T10:30:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/c/2c54e946.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -574,19 +600,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "米中間選挙、野党・民主党が258議席獲得で1992年以来34年ぶりの大勝に！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588581.html",
-      "pubDate": "2026-11-23T20:45:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/5/05ab2b5c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1146,19 +1159,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/S__100499477_2.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "教えて鹿児島の人！ 焼肉『いくどん』で見つけた「自家製おごじょアイス」とはナニ？ 食べたら “焼肉のシメ” にふさわしいと判明",
-      "description": "今の世の中、大抵の食べ物の名前は調べなくても、まあわかる。近頃でいえば「ヨアジョン」（韓国のフローズンヨーグルト）とか「カダイフ」（トルコ・ギリシャの揚げた極細麺）などが、聞きなれないものではあるけど、ネットやAIで調べ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/22/2866318/",
-      "pubDate": "Sun, 22 Nov 2026 01:00:10 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ikudon.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T01:30:40.295022",
+  "updatedAt": "2026-11-24T02:00:50.334979",
   "sites": [
     {
       "id": "hachima",
