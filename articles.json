@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "クリスマスケーキが1000円台で作れる!? トップバリュの「デコまちケーキ（842円）」を実際にデコってわかったこと",
+      "description": "昨今の物価高で、クリスマスケーキも価格が高騰しそう。少しでも手軽に、素敵なクリスマスパーティーをするにはどうしたらいいのでしょう。 編集部に届いたのは、トップバリュから2026年12月2日に新発売される「デコまちケーキ」 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/24/2864735/",
+      "pubDate": "Tue, 24 Nov 2026 01:00:19 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5383.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】ネットの中と同じ感覚でイキる迷惑系配信者さん、ビンタされて無事現実世界に引き戻されるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588663.html",
+      "pubDate": "2026-11-24T09:30:47+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/2/529f32cb.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -151,10 +177,10 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】高市首相の「舌出し外交」写真が海外で拡散　→　海外勢からとんでもない「あだ名」で呼ばれている模様ｗｗｗｗ",
+      "title": "【画像】高市首相の「舌出し外交」写真が海外で拡散　→　海外勢からとんでもない「あだ名」で呼ばれている模様…",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10588653.html",
-      "pubDate": "2026-11-24T07:30:09+09:00",
+      "pubDate": "2026-11-24T07:30:05+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/c/3cda0a6f.jpg"
     },
     {
@@ -559,19 +585,6 @@
       "link": "https://brutus.jp/post-536702/",
       "pubDate": "Mon, 23 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "中国SNSで「閉山中の富士山に登る方法」が拡散…「遭難しても無料でレスキューが助けてくれる」「日本の象徴である山に登り日本に勝つ」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588573.html",
-      "pubDate": "2026-11-23T19:35:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/5/55c10bde.jpg"
     },
     {
       "siteId": "jin",
@@ -1133,19 +1146,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ikudon.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【楽天ブラックフライデー】adidasが半額クーポンを配布中！ 送料無料 ＆ 楽天ポイント最大20倍のアイテム32選",
-      "description": "いま楽天市場で開催されている特大セール「楽天ブラックフライデー」。さまざまな人気商品を特別価格で手に入れるチャンスがやってきたぞ。 さて本日は、期間限定で50％オフクーポンを配布している「adidas Online Sh [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/22/2867468/",
-      "pubDate": "Sun, 22 Nov 2026 00:35:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_7035.jpg"
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T00:30:39.950506",
+  "updatedAt": "2026-11-24T01:00:45.071998",
   "sites": [
     {
       "id": "hachima",
