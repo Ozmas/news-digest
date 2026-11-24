@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ハリウッド実写映画版『NARUTO』真田広之さんが三代目火影・猿飛ヒルゼン役で出演へ！ダンディすぎるｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588701.html",
+      "pubDate": "2026-11-24T16:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7c3c2ba1.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -637,19 +650,6 @@
       "link": "https://jin115.com/archives/52463074.html",
       "pubDate": "2026-11-24T06:00:59+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/6/56f21cd5.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "旦那「買っていいか聞いてから買ったのに家でずっと骨伝導イヤホン付けてたら奥さんが怒った！俺悪いの！？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588583.html",
-      "pubDate": "2026-11-24T06:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6e05e529.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T07:00:50.346967",
+  "updatedAt": "2026-11-24T07:30:42.493126",
   "sites": [
     {
       "id": "hachima",
