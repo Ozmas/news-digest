@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "メシマズ嫁と感想をごまかす旦那で物議！これはどっちが悪い……？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588799.html",
+      "pubDate": "2026-11-25T03:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/b/3b66d4ec-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -481,19 +494,6 @@
       "link": "https://brutus.jp/post-539570/",
       "pubDate": "Tue, 24 Nov 2026 08:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アニメ「名探偵コナン」が女児キャラに『エッチ』と言わせて炎上！「ペドがスタッフにいるんじゃないの」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588703.html",
-      "pubDate": "2026-11-24T16:30:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/3/135f4ba3.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T18:00:52.058319",
+  "updatedAt": "2026-11-24T18:30:51.745867",
   "sites": [
     {
       "id": "hachima",
