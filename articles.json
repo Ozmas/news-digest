@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "劇場スタッフ「映画『VIVANT』は配給側の意向で朝7時から上映開始。朝5時半に出勤しないといけない。鬼滅やちいかわでもそんなことはなかった」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588820.html",
+      "pubDate": "2026-11-24T22:30:03+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/2/820a6a97.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "「今のボカロおもんない」発言などで大炎上したボカロP発掘番組について公式が謝罪「動画の編集が適切でなかった」「今後の進め方は協議していく」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588816.html",
+      "pubDate": "2026-11-24T22:05:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/8/b8f981e9.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,32 +546,6 @@
       "link": "https://jin115.com/archives/52463097.html",
       "pubDate": "2026-11-24T13:00:35+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/764d6b41.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【予約開始】名作美少女アクション『負けるな!魔剣道 1&2』、PS5とSwitchで復活！PS5完全版『仁王3 CompleteEdition』発表！　Amazonで予約スタート",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588689.html",
-      "pubDate": "2026-11-24T13:00:01+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/8/4834b19b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【地獄】娘の大学院合格祝いで家族全員でお祝い　→　酔ったお父さんが◯◯◯という不都合な真実を暴露して一瞬で地獄絵図に…娘がむせび泣く…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588681.html",
-      "pubDate": "2026-11-24T12:40:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/b/9b022d83.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T13:00:54.401385",
+  "updatedAt": "2026-11-24T13:30:43.507912",
   "sites": [
     {
       "id": "hachima",
