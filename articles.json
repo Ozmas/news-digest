@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "気合入れてヴィトンのスーツケースを買った人「積み込みの時に傷つけられた！ムキー！！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588817.html",
+      "pubDate": "2026-11-25T05:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/8/c8f406ae.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -455,19 +468,6 @@
       "link": "https://brutus.jp/post-538785/",
       "pubDate": "Tue, 24 Nov 2026 08:50:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "立民、消費減税の対案として最大5万円給付案を国会提出！※ただし所得制限あり",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588716.html",
-      "pubDate": "2026-11-24T17:30:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/1/1156f9d7.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T19:30:45.085439",
+  "updatedAt": "2026-11-24T20:00:51.450836",
   "sites": [
     {
       "id": "hachima",
