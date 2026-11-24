@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "しまむら×紀文の「ちくわ」レッグアイテムを装着！ 強烈すぎる見た目とは裏腹に最高の履き心地だった",
+      "description": "服から寝具、生活雑貨まで低価格で幅広くそろう、ファッションセンターしまむら。思いもよらないようなコラボを繰り出し、注目を集めることもしばしばだ。 そんなしまむらが、2026年11月21日に発売したのが、「紀文」のちくわを [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/24/2867579/",
+      "pubDate": "Tue, 24 Nov 2026 06:30:43 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/image-1-1.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1172,19 +1185,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2181a.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ロケットニュース読者の体験怪談　寄忌耳（キキミミ）第119話「山羊」",
-      "description": "あなたの体験した短い恐怖体験、不思議な体験を募集中！ご応募お待ちしております。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/22/2866838/",
-      "pubDate": "Sun, 22 Nov 2026 08:00:02 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kikimimi124-1koma.png"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T06:30:42.485620",
+  "updatedAt": "2026-11-24T07:00:50.346967",
   "sites": [
     {
       "id": "hachima",
