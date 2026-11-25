@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【抽選結果速報】スタバ福袋2027の抽選に編集部総出（22人）で挑んだ結果 / 昨年の全滅からリベンジ",
+      "description": "本日2026年11月25日は、福袋界の絶対王者「スターバックス福袋2027」の抽選結果発表日である！ 当選者にはメールで通知され、公式アプリを利用している場合はInbox（Message）にも当選案内が届く。抽選結果は発 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/25/2868691/",
+      "pubDate": "Wed, 25 Nov 2026 06:37:36 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/スクリーンショット-2026-11-25-145623.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『ウィッチャー4』SIEとのパートナーシップ契約を締結！CDPR「GTA5からGTA6に匹敵する進化を遂げる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588942.html",
+      "pubDate": "2026-11-25T15:30:18+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/1/51c88074.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -678,19 +704,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/1/d1f63a87.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "気合入れてヴィトンのスーツケースを買った人「積み込みの時に傷つけられた！ムキー！！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588817.html",
-      "pubDate": "2026-11-25T05:00:09+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/8/c8f406ae.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1014,19 +1027,6 @@
       "link": "https://artscape.jp/article/81508/",
       "pubDate": "Tue, 24 Nov 2026 02:00:26 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "メニュー写真の縦横比がバグっているカレー店が気になって仕方がないので、デリバリーで注文したら納得した",
-      "description": "第一印象は「こいつはズルいなー」だった。なんといっても、メニュー写真の縦横比が明らかにおかしいのだから（2026年11月17日時点）。こんな写真だったらいやがうえにも目を引くではないか。 そして重要なのが、狙ってる雰囲気 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/24/2865236/",
-      "pubDate": "Tue, 24 Nov 2026 02:00:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/a_IMG_9429_noEXIF.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T06:30:43.693876",
+  "updatedAt": "2026-11-25T07:00:48.491278",
   "sites": [
     {
       "id": "hachima",
