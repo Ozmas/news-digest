@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "時事通信「中国の高市首相出迎え時のタラップ段差は故障の可能性大！現場の状況を知る関係筋が言ってた！！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589071.html",
+      "pubDate": "2026-11-25T23:30:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/ace05629.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -585,19 +598,6 @@
       "link": "http://blog.esuteru.com/archives/10588930.html",
       "pubDate": "2026-11-25T14:00:10+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/d/8de17533.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "車を踏切内から出られないように車を停め列車と衝突させたJAF職員「今後も運転は続ける。運転の可能性を感じてるから」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588927.html",
-      "pubDate": "2026-11-25T13:30:52+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/b/8beaa488.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T14:30:44.523647",
+  "updatedAt": "2026-11-25T14:49:54.141555",
   "sites": [
     {
       "id": "hachima",
