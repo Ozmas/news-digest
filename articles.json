@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "刀剣乱舞プレイヤー、共産党に騙される要素が満載だと話題に「反戦審神者は社会的ハンデ強め」「一般教養的なモラルは通じない」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588962.html",
+      "pubDate": "2026-11-25T17:30:13+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/e/7ecb2e77.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "もう待ちきれないのでJR東日本『Suica』の新キャラ「毒ウサギ」（B案）になってみた！",
+      "description": "2026年11月18日、JR東日本は「Suica」の新たなイメージキャラクターを発表した。今まではペンギン（名前はない）がその役割を務めていたのだが、9月に行われた投票の結果、3体の候補の中から紫のウサギが過半数の票を得 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/25/2869066/",
+      "pubDate": "Wed, 25 Nov 2026 08:30:05 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/dokuusagi.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "大手プロesportsチーム運営のREJECT、最終損失4億1600万円！プロゲーマーのウメハラさんなどが所属",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588950.html",
+      "pubDate": "2026-11-25T17:00:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e99eec2c.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【東京】特別展「唐物誕生─茶の湯デザインの源流をさぐる」関連イベント",
+      "description": "泉屋博古館東京にて開催中の特別展「唐物誕生─茶の湯デザインの源流をさぐる」の関連イベントが行なわれます。 芦屋鋳物師によるレクチャーや担当学芸員によるスライドトークが開催予定です。 各イベントの詳細は、下記および公式サイ [&#8230;]",
+      "link": "https://artscape.jp/article/84387/",
+      "pubDate": "Wed, 25 Nov 2026 08:00:12 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -13,6 +65,19 @@
       "link": "https://jin115.com/archives/52463162.html",
       "pubDate": "2026-11-25T17:00:09+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17f2704d.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "エアバッグが、まさかの変身。〈Honda〉 × 〈rerer〉のトートバッグ：Brutus Best Bets",
+      "description": "エアバッグが、まさかの変身 車のエアバッグが、なんとトートバッグに。本来は衝撃から人を守るものが、今度は荷物を運ぶ。元の構造を生かした丸みのある造形が特徴で、開口部を絞ればシルエットも変わる。自動車の安全基準をクリアした [&#8230;]",
+      "link": "https://brutus.jp/post-539575/",
+      "pubDate": "Wed, 25 Nov 2026 08:00:00 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "rocketnews",
@@ -626,19 +691,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_9346-1024x767.jpeg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【ド正論】「僧侶なのでハッキリ言います。『根はいい人なんだよ』は◯◯◯の意味です」　→　火の玉ストレート過ぎて約5万いいねｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588897.html",
-      "pubDate": "2026-11-25T08:00:48+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d9608a4f.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -676,19 +728,6 @@
       "link": "https://brutus.jp/post-521348/",
       "pubDate": "Tue, 24 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【超悲報】顧客440万人の個人情報ほぼ全て漏らした楽天証券、追加で資産残高や入金先口座情報なども漏洩したと発表…　※三木谷代表はいまだダンマリ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588893.html",
-      "pubDate": "2026-11-25T07:30:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/b/fb2195de.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -975,19 +1014,6 @@
       "link": "https://rocketnews24.com/2026/11/24/2867853/",
       "pubDate": "Tue, 24 Nov 2026 05:00:43 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2752-2.png"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "丸亀製麺・冬の王者が『焼き鴨ねぎうどん』になって帰ってくる！ 発売前に食べたら最高だったが「都心の人」は要注意",
-      "description": "丸亀製麵をこよなく愛する私（サンジュン）から言わせれば、丸亀二大激ウマうどんは「あさりうどん」と「鴨ねぎうどん」である。キングが「あさりうどん」であることは疑いないが「鴨ねぎうどん」もまた “冬の王者” である。 202 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/24/2866508/",
-      "pubDate": "Tue, 24 Nov 2026 03:00:24 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamonegi00.jpeg"
     },
     {
       "siteId": "brutus",
@@ -1302,19 +1328,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月23日〜11月29日 蟹座の運勢【ブルータス週間占い】",
-      "description": "蟹座の羅針盤 身近なところで学びを深める 太陽が、蟹座にとって日々の生活や労働の部屋である射手座にいます。24日には海王星（夢）がそこに120度でつながり、毎日を積み重ねた先にある道筋を照らしてくれます。目標に近づくため [&#8230;]",
-      "link": "https://brutus.jp/post-542023/",
-      "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1494,19 +1507,6 @@
       "description": "アメリカ・ウィスコンシン州の都市ミルウォーキーで、2017年から続くパブリック・アートのプロジェクト、「スカルプチャー・ミルウォーキー（Sculpture Milwaukee）」。前編に続き中編では、歴代のキュレーターに [&#8230;]",
       "link": "https://artscape.jp/article/83158/",
       "pubDate": "Fri, 20 Nov 2026 02:00:06 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "村田真｜美術遊歩15──2026年、芸術祭の秋（後編）",
-      "description": "（前編より） 国際美術展 TOKYO ATLAS 会期：2026/10/10～12/20 場所：東京都江東区＋品川区＋港区（青海エリア＋台場エリア＋天王洲エリア） 主催：東京都＋東京国際文化芸術祭実行委員会＋公益財団法人 [&#8230;]",
-      "link": "https://artscape.jp/article/83369/",
-      "pubDate": "Fri, 20 Nov 2026 02:00:00 +0000",
       "thumbnail": ""
     },
     {
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T08:00:57.430249",
+  "updatedAt": "2026-11-25T08:30:53.543307",
   "sites": [
     {
       "id": "hachima",
