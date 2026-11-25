@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "「日本一うまいコロッケそば」と言われる駅そば・桃中軒のみしまコロッケそばを食べてみた / 立ち食いそば放浪記：第411回 静岡県三島",
+      "description": "新幹線のぞみっていまいち旅情がない。思うに、移動に全力すぎるのだ。確かに、東京-大阪間が2時間21分は便利。だが、それゆえにもはやRTAしてるみたいな感覚になる。どんどん速度が上がってるからなおさらだ。効率厨すぎる。 一 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/25/2868038/",
+      "pubDate": "Wed, 25 Nov 2026 01:00:34 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/tochu13.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "中国人経営の中国料理店で「麻婆豆腐、四川人レベルで辛くして！」と注文→ガチでヤバイことになる・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463132.html",
+      "pubDate": "2026-11-25T10:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/a/aa253d6c.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "“時間の芸術”を支え続ける。〈ロレックス〉と映画、その現在と未来",
+      "description": "ロレックスと映画のこれまで 〈ロレックス〉と映画の関係は、1951年にさかのぼる。この年、〈ロレックス〉は短編アニメーション『The Story of Time』を共同制作し、作品はアカデミー賞にノミネートされた。同じこ [&#8230;]",
+      "link": "https://brutus.jp/post-538841/",
+      "pubDate": "Wed, 25 Nov 2026 00:50:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】あまりに美人でプロポーション抜群すぎるため「メーテルにしか見えない」女子アナ、現る　→　ガチだったｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588906.html",
+      "pubDate": "2026-11-25T09:30:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f965b7b6.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "元プロ野球選手・中田翔さん「野球は試合前に終わるの3時間後かあ、とか考えちゃう。延長はマジで面倒臭い。サッカーが羨ましい」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463131.html",
+      "pubDate": "2026-11-25T09:30:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/73c8679f.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -15,19 +80,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/c/fc743522.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "深夜、サバイバルナイフを振り回す強盗に遭遇した家主が日本刀で応戦！正面から戦って家主が勝利　→　結果、まさかの末路に…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588903.html",
-      "pubDate": "2026-11-25T09:00:31+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/7/a770730e.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -39,6 +91,19 @@
       "link": "https://rocketnews24.com/2026/11/25/2868468/",
       "pubDate": "Wed, 25 Nov 2026 00:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/onepiece20.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "深夜、サバイバルナイフを振り回す強盗に遭遇した家主が日本刀で応戦！正面から戦って家主が勝利　→　結果、まさかの末路に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588903.html",
+      "pubDate": "2026-11-25T09:00:08+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/7/a770730e.jpg"
     },
     {
       "siteId": "hachima",
@@ -496,19 +561,6 @@
       "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/11/2026-08-28_BU_gift-12962-750x500.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【炎上】腐女子さん、刀剣乱舞キャラを使って反戦イベント参加を表明 → 非難殺到「話の通じないバケモン」「界隈の自浄作用はゼロに等しい」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588798.html",
-      "pubDate": "2026-11-24T20:45:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/2/c2448822.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -728,32 +780,6 @@
       "link": "https://jin115.com/archives/52463103.html",
       "pubDate": "2026-11-24T14:00:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9d5eff43.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「カップヌードルミュージアムに行ってきました」→◯◯が原因での『合意のない裸の描写を禁止するルールに違反』と判定されてしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463097.html",
-      "pubDate": "2026-11-24T13:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/764d6b41.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【マズイ】外国人が「ボボボーボ・ボーボボ」を見てしまった結果ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463096.html",
-      "pubDate": "2026-11-24T12:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bb689b2c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1068,19 +1094,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/18/06/thumb/sR6IxrA6_.jpg?crop=693:462;447,15&resize=1250:830"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "カンバの人はなぜポテトが好きなのか？…を、カンバの定番料理「ムトコイ（muthokoi）」を食べて思い出した【カンバ通信：第550回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 いつもポテトの話をしているけれど、今日は僕が家で食べた、カンバの定番料理を紹介するよ。「ムトコイ（muthokoi）」である。 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/23/2865074/",
-      "pubDate": "Mon, 23 Nov 2026 06:00:17 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/kamba-550-muthokoi.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1233,19 +1246,6 @@
       "title": "11月23日〜11月29日 乙女座の運勢【ブルータス週間占い】",
       "description": "乙女座の羅針盤 次の舞台へ、足場を組み直す 週の初めから、これまでの努力を形にするラストスパートが始まります。満月が乙女座にとって社会的な立場を表す部屋で起こるため、積み重ねてきた実績が周囲に認められそうです。 ただし、 [&#8230;]",
       "link": "https://brutus.jp/post-542028/",
-      "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月23日〜11月29日 天秤座の運勢【ブルータス週間占い】",
-      "description": "天秤座の羅針盤 好奇心のままに世界を広げる 週の初めは、天秤座にとって「深さ」を表す部屋である牡牛座に月がいるので、少し気が晴れないかもしれません。それでも、24日に好奇心を意味する部屋、射手座で満月起こると、視界がぱっ [&#8230;]",
-      "link": "https://brutus.jp/post-542032/",
       "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T00:30:40.462614",
+  "updatedAt": "2026-11-25T01:00:51.314619",
   "sites": [
     {
       "id": "hachima",
