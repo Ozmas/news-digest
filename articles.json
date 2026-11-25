@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】うっかりクレヨンを飲み込んだルンバがそのまま部屋中を掃除　→　ガチの大惨事に！！うわあああああ((((( ；ﾟДﾟ)))",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588926.html",
+      "pubDate": "2026-11-25T12:20:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/0/8055130e-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】ポケモン対戦のランクマッチ、AIが1位を取ってしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463141.html",
+      "pubDate": "2026-11-25T12:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7f2f41e.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジ真理】X民さん、全ての冷笑系やレスバ民の心を切り裂く「核心」を放ってしまうｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588920.html",
+      "pubDate": "2026-11-25T12:00:26+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/8/58b68bdf.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -626,32 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/7/97b396db.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "X民「若者の左翼＆共産党嫌いって何が原因なんだろう」⇒ 集まった意見がこちら",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588764.html",
-      "pubDate": "2026-11-25T00:00:35+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/2/52d9c1f9.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "テレグラムCEO、GTA6で『最もリアルじゃない部分』に言及…「テレグラムを使わず犯罪組織を運営している」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588845.html",
-      "pubDate": "2026-11-24T23:20:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/edc550d1.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -780,19 +793,6 @@
       "link": "https://brutus.jp/post-532830/",
       "pubDate": "Tue, 24 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "オタク「脱オタクファッション本買って垢抜けするぞ！」→ヤバすぎるファッションをオススメされてしまい終わるｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463110.html",
-      "pubDate": "2026-11-24T18:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/b/4be4ce9c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T03:00:49.700567",
+  "updatedAt": "2026-11-25T03:30:42.778999",
   "sites": [
     {
       "id": "hachima",
