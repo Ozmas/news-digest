@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "女性配信者が配信の途中でミュートせずに爆睡 → ヤバすぎる音声が聞こえてきて終わるｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463164.html",
+      "pubDate": "2026-11-25T23:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/768c21bf-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "日本人ゲーム実況者さん、GTA6で「脱出不可能とされる手配度6から脱出した史上初のプレイヤー」として海外で話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589067.html",
+      "pubDate": "2026-11-25T23:00:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/8468ed8b.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9bd8aa02.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】電車内で英文タトゥーが全身に入っている男性が出没　→　付近にいた開成の学生が取った対応があまりに将来有望すぎてネット大絶賛ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588929.html",
-      "pubDate": "2026-11-25T13:00:13+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/8/78fbdf12.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -845,19 +858,6 @@
       "link": "https://rocketnews24.com/2026/11/25/2868468/",
       "pubDate": "Wed, 25 Nov 2026 00:00:28 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/onepiece20.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "登録者54万人YouTuber「顔も地声も封印して一からYouTubeはじめてみるわ、登録者何人いくかな？」→結果・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463128.html",
-      "pubDate": "2026-11-25T08:30:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e48273a6.jpg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T14:00:55.240108",
+  "updatedAt": "2026-11-25T14:30:44.523647",
   "sites": [
     {
       "id": "hachima",
