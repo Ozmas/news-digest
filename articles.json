@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "ソウルでワークショップが人気のミュージアム。大学路〈藁草生活史博物館〉",
+      "description": "藁やガマなどの自然素材を使った、手仕事が体験できるミュージアム 生活道具を通して、農村の暮らしの知恵を伝える専門博物館。館内には、かごや草履、蓑（みの）、仮面など藁（わら）・草に関する生活用具、農具、民族資料など、約9, [&#8230;]",
+      "link": "https://brutus.jp/post-537202/",
+      "pubDate": "Wed, 25 Nov 2026 11:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "技能実習生、とんでもない人数が今も行方不明",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463161.html",
+      "pubDate": "2026-11-25T19:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/9/4948372c.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -873,19 +899,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/5/c583ccc3.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【画像】ポン・デ・リング、半分にカットして放置したらヤバいと話題に・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463123.html",
-      "pubDate": "2026-11-25T04:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/383b8a88.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1315,19 +1328,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月23日〜11月29日 牡羊座の運勢【ブルータス週間占い】",
-      "description": "牡羊座の羅針盤 未来をアップデートする 今週の初め、太陽は牡羊座にとって「ここではないどこか」を表す部屋、射手座にいます。そこに24日、海王星（夢）が120度でつながります。この配置は、「今のままではいけない」「もっと成 [&#8230;]",
-      "link": "https://brutus.jp/post-542014/",
-      "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T10:30:44.330867",
+  "updatedAt": "2026-11-25T11:00:53.195453",
   "sites": [
     {
       "id": "hachima",
