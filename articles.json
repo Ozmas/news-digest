@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【画像】LGBTのイベントに“ヤバすぎるプラカード”が掲げられてポスト即削除へ「この手の人たちが何者かよくわかる写真」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463180.html",
+      "pubDate": "2026-11-26T06:00:10+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/7/07d3fc56.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ゼンショーが遂に『サイゼリヤ』に殴り込み！オリーブの丘を60店→500店に拡大",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589056.html",
+      "pubDate": "2026-11-26T05:30:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/740192b3.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -470,19 +496,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/5/8599c746.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "スレッズ民「スーパーの飲食スペースに私一人で座ってたら、このジジイが勝手に相席してきたんだけど！！キモい！！！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588969.html",
-      "pubDate": "2026-11-25T18:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/e/becbce3e.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +780,6 @@
       "link": "https://artscape.jp/article/82905/",
       "pubDate": "Wed, 25 Nov 2026 02:00:59 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "外国人脱税スキームの本命、ついにメスが入る",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463136.html",
-      "pubDate": "2026-11-25T11:00:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/2/02d3f022.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T20:30:42.200076",
+  "updatedAt": "2026-11-25T21:00:50.419072",
   "sites": [
     {
       "id": "hachima",
