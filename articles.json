@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『【洗濯】のダンジョン無双』全巻「99円」セール！全4巻「2,992円」→「396円」！『劣等紋の超越ヒーラー』『史上最高の天才錬金術師はそろそろ引退したい』も全巻99円",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463178.html",
+      "pubDate": "2026-11-26T08:20:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/9/e9fdcad2.jpg"
+    },
+    {
+      "siteId": "sumida",
+      "siteName": "号外NET墨田区",
+      "siteShortName": "号外NET",
+      "siteColor": "#22d3ee",
+      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
+      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
+      "title": "【墨田区】曳舟ドーナツ「桐松屋」オープン日程が発表されました。",
+      "description": "先日お伝えしました東向島2丁目、曳舟たから通り沿いにOPENするドーナツ店「桐松屋」 【墨田区】向島郵便局近くにドーナツ店「桐松屋」がOPEN間近？ 向島郵便局から水戸街道方面へ。東武線のガードを越えた先に新木場のカフェ [&#8230;]",
+      "link": "https://sumida.goguynet.jp/2026/11/26/kirimatsuya-nittei/",
+      "pubDate": "Wed, 25 Nov 2026 23:01:48 +0000",
+      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_9310-1024x767.jpeg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【天才】彼女「リンゴ100％ジュース買ってきて」、有能彼氏「任せろ！」　→　彼が買ってきた◯◯◯が完璧すぎてネット大絶賛！　「これはイケメン」「仕事できそう」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589100.html",
+      "pubDate": "2026-11-26T08:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0dbf756.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【朗報】ホロライブの麻雀ゲーム、推しと同卓すると◯◯が発生する神機能が実装！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463184.html",
+      "pubDate": "2026-11-26T08:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1bab55b9-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -457,19 +509,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/5/d5e89b7e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "バンダイ・スクエニ・カプコンがついにタッグを組む！中国の模倣品業者を協同で刑事告発",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589025.html",
-      "pubDate": "2026-11-25T20:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/b/abee1d94.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,32 +780,6 @@
       "link": "https://rocketnews24.com/2026/11/25/2868710/",
       "pubDate": "Wed, 25 Nov 2026 04:00:47 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/batch_IMG_2190.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中国車、日本車の販売数を続々と超えだす→“とあるコメント”殺到でニュースのコメント欄、大荒れ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463140.html",
-      "pubDate": "2026-11-25T13:00:15+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9bd8aa02.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】ポケモン対戦のランクマッチ、AIが1位を取ってしまう",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463141.html",
-      "pubDate": "2026-11-25T12:00:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7f2f41e.png"
     },
     {
       "siteId": "brutus",
@@ -1588,19 +1601,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/13/08/subbuzz/ngm0FDe24.jpg?crop=3157:2105;0,582&resize=1250:830"
     },
     {
-      "siteId": "sumida",
-      "siteName": "号外NET墨田区",
-      "siteShortName": "号外NET",
-      "siteColor": "#22d3ee",
-      "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
-      "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
-      "title": "【墨田区】あの人気店も参加！地域の美味しい食文化を体験できるフードカルチャーイベント「HOKUSAI NEIGHBORS FAIR」",
-      "description": "葛飾北斎ゆかりの地、墨田区亀沢を走る「北斎通り」にて、地域の美味しい食文化を体験できるフードカルチャーイベント【HOKUSAI NEIGHBORS FAIR】が今年で10周年を迎える北斎美術館の開館日11月２２日（日）に [&#8230;]",
-      "link": "https://sumida.goguynet.jp/2026/11/16/hokusaineighborsfair/",
-      "pubDate": "Sun, 15 Nov 2026 23:01:32 +0000",
-      "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/2026_HNF-1024x767.jpg"
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T23:00:51.136657",
+  "updatedAt": "2026-11-25T23:30:48.804641",
   "sites": [
     {
       "id": "hachima",
