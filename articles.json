@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【緊急提言】このまま行くと結末が破綻する！ 『ワンピース』全巻一気読みしてわかった最大の危機。1年休載してでも「立ち止まる勇気」を持ってほしい",
+      "description": "人気漫画『ワンピース』について、作者の尾田栄一郎先生と同世代（50代）の私（佐藤）が、50代なりの焦りがあるのではないかという記事を以前に執筆した。その実、「ドレスローザ編」で離脱したまま、考察動画や批判動画を見て記事を [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/25/2868468/",
+      "pubDate": "Wed, 25 Nov 2026 00:00:28 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/onepiece20.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【マジでこれ】どこも不正アクセスで個人情報流出しまくる中、『最も正しいパスワードの運用方法』が発見されてしまう！　これは確かに安全ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588898.html",
+      "pubDate": "2026-11-25T08:30:40+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/a/0a2144c8-s.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "登録者54万人YouTuber「顔も地声も封印して一からYouTubeはじめてみるわ、登録者何人いくかな？」→結果・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463128.html",
+      "pubDate": "2026-11-25T08:30:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/4/e48273a6.jpg"
+    },
+    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -483,19 +522,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "小学館マンガワンの人気漫画『アフターゴッド』双葉社へ移籍を発表 → この告知によりコメント欄で「マンガワン問題・小学館問題」がNGワードに設定されていることが判明",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588767.html",
-      "pubDate": "2026-11-24T19:30:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/9/69219f48.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -821,19 +847,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/a_IMG_9429_noEXIF.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "連休中の高尾山、ガチで地獄絵図",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463085.html",
-      "pubDate": "2026-11-24T10:00:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/4/d4f122be-s.jpg"
-    },
-    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -1079,19 +1092,6 @@
       "link": "https://brutus.jp/post-536946/",
       "pubDate": "Mon, 23 Nov 2026 03:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "成城石井は海鮮キムチの品ぞろえもハンパない！ 海の幸の精鋭たちをゲット / 飯テロビジュアルなどんぶりも作ってみた",
-      "description": "こだわりの自家製惣菜やスイーツなど、足を運べば必ずおいしいものに出会えるのが『成城石井』。行ったら絶対にコレを買う！　という推し商品がある人も多いのではないだろうか。 私もそのひとりで、成城石井ではだいたい買うものが決ま [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/23/2864550/",
-      "pubDate": "Mon, 23 Nov 2026 02:55:04 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_3659.jpg"
     },
     {
       "siteId": "buzzfeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-24T23:30:48.696442",
+  "updatedAt": "2026-11-25T00:01:04.935286",
   "sites": [
     {
       "id": "hachima",
