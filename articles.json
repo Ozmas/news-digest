@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『ひぐらしのなく頃に』が大好きな女性外国人がメルカリで梨花のバッジを購入 → おまけでとんでもない物が大量に送られて来て号泣してしまうｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463166.html",
+      "pubDate": "2026-11-26T00:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/9653d419-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "海外X民「GTAやスタウォーズみたいに女が関わるとIPが死ぬ理由を説明するレゴ社の研究がこちら」⇒ その内容が話題に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589011.html",
+      "pubDate": "2026-11-26T00:00:56+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f456d350.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -587,19 +613,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2753-2.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "学校の女子トイレに侵入し盗撮し逮捕された無職男性（23）「盗撮が趣味というか日常というか生きがいなんです」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588930.html",
-      "pubDate": "2026-11-25T14:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/d/8de17533.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -832,19 +845,6 @@
       "link": "https://jin115.com/archives/52463131.html",
       "pubDate": "2026-11-25T09:30:12+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/3/73c8679f.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「中古品でいいと思う」考え方が増加か…アンケート調査した結果",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463130.html",
-      "pubDate": "2026-11-25T09:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/c/fc743522.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T15:00:57.694357",
+  "updatedAt": "2026-11-25T15:30:45.517108",
   "sites": [
     {
       "id": "hachima",
