@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "椿の花のつぼみをモチーフにした、〈五島つばき蒸溜所〉のジンボトル。【おつまみ情報付き】",
+      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
+      "link": "https://casabrutus.com/categories/food/496379",
+      "pubDate": "Wed, 25 Nov 2026 22:00:27 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "そうはならへん！ 捨て猫に自分を重ねる不良少年！　四コマサボタージュFB第139回「オレと同じ」",
+      "description": "種類や個体によっては、水をそこまで怖がらないネコもいるらしいね。 漫画：ザックKT-4",
+      "link": "https://rocketnews24.com/2026/11/26/2862206/",
+      "pubDate": "Wed, 25 Nov 2026 22:00:08 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-139.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "地上波テレビ、2040年までに原則すべてネット同時配信・見逃し配信へ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463181.html",
+      "pubDate": "2026-11-26T07:00:04+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/a/8a589f03-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -730,19 +769,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_1391.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "1人ドタキャンで6人分の料金を払った人「料理が5人分しか出てこなかった」→店側が6人分の料理を出すべきか議論に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463134.html",
-      "pubDate": "2026-11-25T11:30:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/9/f9e7bd09.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1053,19 +1079,6 @@
       "link": "https://casabrutus.com/categories/art/496028",
       "pubDate": "Tue, 24 Nov 2026 07:25:08 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "しまむら×紀文の「ちくわ」レッグアイテムを装着！ 強烈すぎる見た目とは裏腹に最高の履き心地だった",
-      "description": "服から寝具、生活雑貨まで低価格で幅広くそろう、ファッションセンターしまむら。思いもよらないようなコラボを繰り出し、注目を集めることもしばしばだ。 そんなしまむらが、2026年11月21日に発売したのが、「紀文」のちくわを [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/24/2867579/",
-      "pubDate": "Tue, 24 Nov 2026 06:30:43 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/image-1-1.jpg"
     },
     {
       "siteId": "brutus",
@@ -1393,19 +1406,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/20/07/thumb/p36_o2ydB.jpg?crop=1795:1197;162,411&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "藤井厚二の旧喜多邸で〈GALLERY STOOP〉とスペイン〈SIDE GALLERY〉がモダニズム家具の展覧会を開催。",
-      "description": "京都・北白川の名作住宅〈旧喜多源逸邸〉を舞台に、剣持勇やミゲル・ミラ、ジョージ・ナカシマらの家具や照明を展示する『Japanese Design Meets Spanish Design』が開催されている。日本とスペインのデザインギャラリーが、モダニズムを背景とする両国にゆかりのある家具を紹介する。",
-      "link": "https://casabrutus.com/categories/design/496543",
-      "pubDate": "Sun, 22 Nov 2026 07:25:44 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T21:30:42.346664",
+  "updatedAt": "2026-11-25T22:00:46.073104",
   "sites": [
     {
       "id": "hachima",
