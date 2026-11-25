@@ -2,6 +2,71 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【告知】TBS『マツコの知らない世界』に再び出演します /「立ち食いそば店カレーそばの世界」放送は12月1日！ 見てにぇ",
+      "description": "こんにちは、中澤星児です。奇跡が起きました。いや、軌跡と言ってもいいかもしれません。 ロケットニュース24に入って2026年で11年目を迎えた私（中澤）。11年間、色んな町の立ち食いそばを食べる『立ち食いそば放浪記』とい [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/25/2868577/",
+      "pubDate": "Wed, 25 Nov 2026 10:30:24 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/tbs3.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【現代の奴隷制】技能実習生、過去5年間だけで3万6000人以上も失踪！今も6600人が行方不明　犯罪者として日本で生活か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589020.html",
+      "pubDate": "2026-11-25T19:30:06+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f9f80327.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】日本人女性さん、先進16か国の中でずば抜けて異常だと判明してしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463142.html",
+      "pubDate": "2026-11-25T19:00:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bbd7c5b5.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "ロックスター、『GTA6』非公式PC移植版を作ろうとしていたDiscordサーバーを閉鎖！サーバー運営者は15歳の少年",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589015.html",
+      "pubDate": "2026-11-25T19:00:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f4127529.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "様々な文化のあいだを伝える。京都・西陣にオープンした本とレコードの店〈ammel〉ってどんな店？",
+      "description": "本とレコード。様々な文化のあいだを伝える店 シンセサイザーを特集した海外の音楽雑誌も、気鋭の写真家による論考も、大人も楽しめるウィットに富んだ仕掛けの絵本も、カナダの電子音楽家のLPも。〈ammel〉には、店主の感性に触 [&#8230;]",
+      "link": "https://brutus.jp/post-539688/",
+      "pubDate": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -587,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/6/e6e3e818.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】イキリX民、他人が投稿した店の蟹料理に「カニカマだろ。店ごと潰すぞ」と引用リプ　→　取り返しのつかない最悪の末路に…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588907.html",
-      "pubDate": "2026-11-25T10:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/992029f2.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -650,19 +702,6 @@
       "link": "https://brutus.jp/post-538841/",
       "pubDate": "Wed, 25 Nov 2026 00:50:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】あまりに美人でプロポーション抜群すぎるため「メーテルにしか見えない」女子アナ、現る　→　ガチだったｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588906.html",
-      "pubDate": "2026-11-25T09:30:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f965b7b6.jpg"
     },
     {
       "siteId": "jin",
@@ -847,19 +886,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/8/383b8a88.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "海外X民による『記憶を頼りに描いたダークソウル漫画』、プレイ済みの人は興奮せずにはいられないと話題に！「凄すぎる」「あの日の記憶が蘇ってくる」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463122.html",
-      "pubDate": "2026-11-25T02:05:29+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/a/5/a5818485-s.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1014,19 +1040,6 @@
       "link": "https://rocketnews24.com/2026/11/24/2867909/",
       "pubDate": "Tue, 24 Nov 2026 05:30:33 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/newbalance_a2dcd7.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2752回「今の九ちゃん②」",
-      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/11/24/2867853/",
-      "pubDate": "Tue, 24 Nov 2026 05:00:43 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2752-2.png"
     },
     {
       "siteId": "brutus",
@@ -1311,19 +1324,6 @@
       "title": "11月23日〜11月29日 牡羊座の運勢【ブルータス週間占い】",
       "description": "牡羊座の羅針盤 未来をアップデートする 今週の初め、太陽は牡羊座にとって「ここではないどこか」を表す部屋、射手座にいます。そこに24日、海王星（夢）が120度でつながります。この配置は、「今のままではいけない」「もっと成 [&#8230;]",
       "link": "https://brutus.jp/post-542014/",
-      "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月23日〜11月29日 牡牛座の運勢【ブルータス週間占い】",
-      "description": "牡牛座の羅針盤 新しい技を発見する 自エリア（牡牛座）に月を抱く週初め、前向きな気持ちで走り出せそうです。太陽は、牡牛座にとって継承を示す部屋、射手座に在住。集中力が高まっています。さらに、24日には満月が経済を表す部屋 [&#8230;]",
-      "link": "https://brutus.jp/post-542017/",
       "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
     },
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T10:00:53.869533",
+  "updatedAt": "2026-11-25T10:30:44.330867",
   "sites": [
     {
       "id": "hachima",
