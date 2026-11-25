@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「中古品でいいと思う」考え方が増加か…アンケート調査した結果",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463130.html",
+      "pubDate": "2026-11-25T09:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/c/fc743522.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "深夜、サバイバルナイフを振り回す強盗に遭遇した家主が日本刀で応戦！正面から戦って家主が勝利　→　結果、まさかの末路に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588903.html",
+      "pubDate": "2026-11-25T09:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/7/a770730e.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -48,7 +74,7 @@
       "siteGradient": "linear-gradient(135deg, #22d3ee, #60a5fa)",
       "siteBgAlpha": "rgba(34, 211, 238, 0.12)",
       "title": "【墨田区】あの人気店の系列店がOPEN！鶏焼専門店「鶏焼肉 錦糸鳥」",
-      "description": "錦糸町北口エリア。大平1丁目、蔵前橋通り沿いの「オクノ羊ヤ」 店頭にすぐそこに系列店「鶏焼肉　錦糸鳥」OPENとの告知が！ 一軒はさんだお隣に「錦糸鳥」（きんしちょう）が2026年11月18日（水）にOPENしました。  [&#8230;]",
+      "description": "錦糸町北口エリア。大平1丁目、蔵前橋通り沿いの「オクノ羊ヤ」 店頭にすぐそこに系列店「鶏焼肉　錦糸鳥」OPENとの告知が！ 一軒はさんだお隣に「錦糸鳥」（きんしちょう）が2026年11月19日（木）にOPENしました。  [&#8230;]",
       "link": "https://sumida.goguynet.jp/2026/11/25/kinshitoriopen/",
       "pubDate": "Tue, 24 Nov 2026 23:01:03 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_9346-1024x767.jpeg"
@@ -496,19 +522,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/d/7d4bff96.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「支持率下げてやる」でおなじみの時事通信写真部、社員がプロ野球4球団のキャンプ取材中に練習球を勝手に持ち帰りフリマで売却していたことが判明",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588774.html",
-      "pubDate": "2026-11-24T20:00:16+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/e/fe405c9a.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -806,19 +819,6 @@
       "link": "https://artscape.jp/article/83441/",
       "pubDate": "Tue, 24 Nov 2026 02:00:41 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "トレカ専門店「ルールを守れない外国人が多すぎるので販売は日本国籍の方に限定します」→外国人ガチギレ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463086.html",
-      "pubDate": "2026-11-24T11:00:40+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b9410b5a.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T00:01:04.935286",
+  "updatedAt": "2026-11-25T00:30:40.462614",
   "sites": [
     {
       "id": "hachima",
