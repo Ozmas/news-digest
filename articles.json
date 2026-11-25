@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "陰謀論系YouTuber起用の政府広報動画、街中で配信開始！絵面が完全にディストピアｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589037.html",
+      "pubDate": "2026-11-25T21:10:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/eaefe04a.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2184話目「上司と部下の狭間で⑯」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/25/2868957/",
+      "pubDate": "Wed, 25 Nov 2026 12:00:44 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2184a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "親「娘のゴミ箱に高額のレシートが入ってる、なんで・・・？」→調査した結果ヤバイことが発覚",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463165.html",
+      "pubDate": "2026-11-25T21:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bbe0f84c.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -613,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/9/f9e7bd09.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "有名ゲーム芸人さん、マチアプでデキ婚して第一子誕生　→　その直後、妻に出ていかれた挙句、離婚調停で最悪の◯◯◯円を請求される…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588916.html",
-      "pubDate": "2026-11-25T11:30:49+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/2/82e3e84b.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -886,19 +912,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-138.png"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "警視庁幹部「このままでは日本がコカインに汚染される」→“あの理由”で「そりゃそうだろ」の声が殺到・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463133.html",
-      "pubDate": "2026-11-25T07:00:26+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/15dbbc53.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1053,19 +1066,6 @@
       "link": "https://rocketnews24.com/2026/11/24/2867579/",
       "pubDate": "Tue, 24 Nov 2026 06:30:43 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/image-1-1.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【楽天ブラックフライデー】NEW BALANCEが50％オフ！ 送料無料＆楽天ポイント最大20倍のアウターやスニーカーなど24点を厳選してみた",
-      "description": "いま楽天市場で開催されている特大セール「楽天ブラックフライデー」。さまざまな人気商品を特別価格で手に入れるチャンスがやってきたぞ。 さて本日は、半額セールを開催している「ニューバランス（公式楽天市場店）」に注目！ 送料無 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/24/2867909/",
-      "pubDate": "Tue, 24 Nov 2026 05:30:33 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/newbalance_a2dcd7.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T12:00:51.389986",
+  "updatedAt": "2026-11-25T12:30:43.673200",
   "sites": [
     {
       "id": "hachima",
