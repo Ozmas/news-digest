@@ -15,6 +15,19 @@
       "thumbnail": ""
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【速報】新プリキュアシリーズのタイトル、『ファンたじっくプリキュア！』に決定",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589098.html",
+      "pubDate": "2026-11-26T07:00:22+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ad3a2c08.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -494,19 +507,6 @@
       "link": "https://jin115.com/archives/52463142.html",
       "pubDate": "2026-11-25T19:00:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bbd7c5b5.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ロックスター、『GTA6』非公式PC移植版を作ろうとしていたDiscordサーバーを閉鎖！サーバー運営者は15歳の少年",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589015.html",
-      "pubDate": "2026-11-25T19:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f4127529.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T22:00:46.073104",
+  "updatedAt": "2026-11-25T22:30:40.552983",
   "sites": [
     {
       "id": "hachima",
