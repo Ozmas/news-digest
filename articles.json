@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "自民党「海外に対抗するためにゲームやアニメで官民が協力する必要があります！なので予算貰うで！」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463150.html",
+      "pubDate": "2026-11-25T10:30:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/6/e6e3e818.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】イキリX民、他人が投稿した店の蟹料理に「カニカマだろ。店ごと潰すぞ」と引用リプ　→　取り返しのつかない最悪の末路に…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588907.html",
+      "pubDate": "2026-11-25T10:00:45+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/9/992029f2.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +39,19 @@
       "link": "https://rocketnews24.com/2026/11/25/2868038/",
       "pubDate": "Wed, 25 Nov 2026 01:00:34 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/tochu13.jpg"
+    },
+    {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【東京】OPEN SITE 11",
+      "description": "トーキョーアーツアンドスペース本郷にて、「OPEN SITE 11」が開催されています。 「OPEN SITE」は、あらゆる表現活動が集まるプラットフォームの構築を目指し、2016年より始まった企画公募プログラムです。  [&#8230;]",
+      "link": "https://artscape.jp/article/84356/",
+      "pubDate": "Wed, 25 Nov 2026 01:00:26 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -509,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/0/20101cd1.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【軍縮】防衛省「企業は装備品を増産しろ」 → 防衛省「防衛費が全然増えないから発注80%カットします」 企業「は？」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588809.html",
-      "pubDate": "2026-11-24T21:15:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/c/7c35f046.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/11/24/2867853/",
       "pubDate": "Tue, 24 Nov 2026 05:00:43 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2752-2.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "X民「着ぐるみの顔覗こうとしたらこの画面見せられた」→とんでもないことが書かれていて終わるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463103.html",
-      "pubDate": "2026-11-24T14:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/d/9d5eff43.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1510,19 +1523,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "村田真｜美術遊歩15──2026年、芸術祭の秋（前編）",
-      "description": "今年も芸術祭の季節がやって来た。「瀬戸内国際芸術祭」や「国際芸術祭あいち」といった大規模な芸術祭が重なった昨年に比べれば、今年はやや控えめな印象だが、数的にはますます増えているような気がする。 一口に芸術祭といっても写真 [&#8230;]",
-      "link": "https://artscape.jp/article/83325/",
-      "pubDate": "Thu, 19 Nov 2026 02:00:19 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T01:00:51.314619",
+  "updatedAt": "2026-11-25T01:30:39.622922",
   "sites": [
     {
       "id": "hachima",
