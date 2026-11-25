@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本政府「AIで2040年に世界シェア3割を獲得するぞ！」←ガチ冷笑されてしまう",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463135.html",
+      "pubDate": "2026-11-25T15:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/d/ed96cef4.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ケニアでは、世界で勝つランナーは英雄だ。高校で100mと200mを走っていた僕が、マラソン大会に出られなかった理由【カンバ通信：第552回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回は、リクエストボックスに届いた質問に答えるね。 「世界の大会で活躍するランナーを、ケニアの人たちはどう見ていますか？」 質 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/25/2868626/",
+      "pubDate": "Wed, 25 Nov 2026 06:00:39 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/att.WKHJK-43sHLtWFpGGlNq1AsthVvznJWWXn17pQoWL3A.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -769,19 +795,6 @@
       "thumbnail": "https://media.brutus.jp/wp-content/uploads/2026/11/2026-08-28_BU_gift-12962-750x500.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "中学生が描いた禁煙ポスター、ガチで凄いと話題に「金賞以外あり得ない」「AIには絶対書けないやつ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463107.html",
-      "pubDate": "2026-11-24T20:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/d/7d4bff96.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1027,19 +1040,6 @@
       "link": "https://artscape.jp/article/84039/",
       "pubDate": "Tue, 24 Nov 2026 01:00:20 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "クリスマスケーキが1000円台で作れる!? トップバリュの「デコまちケーキ（842円）」を実際にデコってわかったこと",
-      "description": "昨今の物価高で、クリスマスケーキも価格が高騰しそう。少しでも手軽に、素敵なクリスマスパーティーをするにはどうしたらいいのでしょう。 編集部に届いたのは、トップバリュから2026年12月2日に新発売される「デコまちケーキ」 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/24/2864735/",
-      "pubDate": "Tue, 24 Nov 2026 01:00:19 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5383.jpeg"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T06:00:47.755139",
+  "updatedAt": "2026-11-25T06:30:43.693876",
   "sites": [
     {
       "id": "hachima",
