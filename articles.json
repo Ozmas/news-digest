@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【1缶175円】プリングルズ（105g）8缶セットが半額の1398円 / Amazonタイムセール",
+      "description": "毎日お得なタイムセールを開催しているAmazon。食品・飲料・アパレルなど、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、プリングルズのポテトチップス「サワークリーム＆オニオン（105g） [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/25/2868710/",
+      "pubDate": "Wed, 25 Nov 2026 04:00:47 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/batch_IMG_2190.jpeg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -1042,19 +1055,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_9296-1024x767.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【福袋2027】タバスクイーズ3点で5380円の福袋はアリなのか？ メロジョイと比較レビューしてみた",
-      "description": "2026年の新語・流行語大賞にノミネートされるほどの大ブームとなっている「スクイーズ」。以前ご紹介した『メロジョイ』を筆頭に、その人気はまだまだ続きそうな気配だ。 ──だが、気になるのはその値段。スクイーズってなんであん [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/24/2865478/",
-      "pubDate": "Mon, 23 Nov 2026 23:00:23 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/squeeze-fukubukuro_000.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T04:00:54.493688",
+  "updatedAt": "2026-11-25T04:01:31.799406",
   "sites": [
     {
       "id": "hachima",
