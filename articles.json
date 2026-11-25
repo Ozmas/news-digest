@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "アニメ『ヒストリエ』新PVで名シーンを公開！よくも僕を……",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589052.html",
+      "pubDate": "2026-11-26T04:00:02+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/eab20cc1-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -494,19 +507,6 @@
       "link": "https://rocketnews24.com/2026/11/25/2869066/",
       "pubDate": "Wed, 25 Nov 2026 08:30:05 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/dokuusagi.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "大手プロesportsチーム運営のREJECT、最終損失4億1600万円！プロゲーマーのウメハラさんなどが所属",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588950.html",
-      "pubDate": "2026-11-25T17:00:57+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/9/e99eec2c.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T18:30:43.879428",
+  "updatedAt": "2026-11-25T19:00:49.798274",
   "sites": [
     {
       "id": "hachima",
