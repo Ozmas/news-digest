@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【炎上】違法行為で逮捕されたトルコ人、余裕のピースサイン",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463162.html",
+      "pubDate": "2026-11-25T17:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/7/17f2704d.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,32 @@
       "link": "https://rocketnews24.com/2026/11/25/2866948/",
       "pubDate": "Wed, 25 Nov 2026 07:30:25 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/okashi-fukubukuro012-1.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "警視庁幹部「このままでは日本がコカインに汚染される」⇒ 外国人を不起訴にしてるからだとツッコミが殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10588943.html",
+      "pubDate": "2026-11-25T16:30:19+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/b/2b5009b2.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "小寺慶子のレストラン予報｜外苑前〈PIQUE〉",
+      "description": "真夜中でも極上ステーキを味わう悦びに浸れるでしょう。",
+      "link": "https://casabrutus.com/categories/food/496058",
+      "pubDate": "Wed, 25 Nov 2026 07:25:07 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -678,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/5/15dbbc53.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "小学校の卒アルで『かわいい女子ランキング(男子投票)』が設立され女子達が嫌な気持ちに　→　1人の聖人男子の「◯◯◯」の一言のおかげで女子が救われた話",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588892.html",
-      "pubDate": "2026-11-25T07:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/a/fa89208a.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -780,19 +806,6 @@
       "link": "https://jin115.com/archives/52463118.html",
       "pubDate": "2026-11-24T23:00:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/f/bf0a9b32.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "高市首相の側近「陰謀論者でも若者に届く発信者にお金を使うべきだ。じゃないと税金の無駄になる」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463114.html",
-      "pubDate": "2026-11-24T22:00:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/a/eacc21da-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1393,19 +1406,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/17/07/subbuzz/4JG7tPxMy.jpg?crop=3397:2265;162,319&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "〈石巻工房〉からスウェーデンのTAF Studioによる、相棒のようなトロリーが発売。",
-      "description": "〈石巻工房〉から、スウェーデンのTAF Studioによる《スタジオ トローリー》が登場。",
-      "link": "https://casabrutus.com/categories/design/496265",
-      "pubDate": "Sun, 22 Nov 2026 02:25:37 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T07:30:43.434468",
+  "updatedAt": "2026-11-25T08:00:57.430249",
   "sites": [
     {
       "id": "hachima",
