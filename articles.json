@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "大森時生『記憶の遺影』#27：ビーバーについて。",
+      "description": "先輩とは動物園で会うことになった。先輩からそう提案があったときは意外だったけど、そう断る理由もないから承諾した。僕も動物は好きだった。 〈上野動物園に付き合ってもらえますか〉 僕は想像した。杖をついた先輩と上野動物園を回 [&#8230;]",
+      "link": "https://brutus.jp/post-538188/",
+      "pubDate": "Wed, 25 Nov 2026 12:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "事務職志望、絶望のお知らせ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463146.html",
+      "pubDate": "2026-11-25T20:30:30+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/6/c6d2aae0.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "カプコンの恐竜シューター『エグゾプライマル』2027年9月30日でサービス終了へ…終了後はプレイ不可",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589027.html",
+      "pubDate": "2026-11-25T20:30:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/5/d5e89b7e.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -665,19 +704,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/c8308afe-bfd4-4ed2-9487-43c092eb626c.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "当時、産地偽装鰻店を絶賛していた寺門ジモンさん「案件としてうなぎ自体は褒めた。でも、ご飯べちゃべちゃだった」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10588912.html",
-      "pubDate": "2026-11-25T11:00:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/a/8ad4c4af-s.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -884,19 +910,6 @@
       "link": "https://casabrutus.com/categories/food/496330",
       "pubDate": "Tue, 24 Nov 2026 22:00:17 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『潔く柔く』全巻「100円」セール！全13巻「7,059円」→「1,300円」！それぞれの物語が徐々に交差する恋愛群像劇！実写映画化された、いくえみ綾先生の名作！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463127.html",
-      "pubDate": "2026-11-25T06:30:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/f/dfcac070.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1315,19 +1328,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_8380-1024x767.jpeg"
     },
     {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "11月23日〜11月29日の運勢。星々が告げる運を味方にするヒント【ブルータス週間占い】",
-      "description": "全体の空模様 週の初めに牡牛座にいる月は、運命を司る冥王星と90度でぶつかり合いながら、24日の双子座満月へと向かっていきます。牡牛座は日常の安定を示すサイン（星座）。そこに冥王星がぶつかって安定を揺さぶり、社会全体が試 [&#8230;]",
-      "link": "https://brutus.jp/post-542012/",
-      "pubDate": "Sun, 22 Nov 2026 23:00:00 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-25T11:30:41.600600",
+  "updatedAt": "2026-11-25T12:00:51.389986",
   "sites": [
     {
       "id": "hachima",
