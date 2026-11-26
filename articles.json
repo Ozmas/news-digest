@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【1本79円】コカ・コーラ ゼロ（500ml）24本セットが1893円 / Amazonタイムセール",
+      "description": "毎日お得なタイムセールを開催しているAmazon。飲料・アパレル・日用品など、さまざまなカテゴリーのアイテムを特別価格で手に入れるチャンスだ。 さて本日は、コカ・コーラ ゼロ（500ml）24本セットをピックアップ！　い [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/26/2869606/",
+      "pubDate": "Thu, 26 Nov 2026 04:30:41 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/18851.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "リメイク版『ロマンシング・サガ3』のボストン（エビ）の姿がお披露目！ あまりにもシュール過ぎるんだがｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589137.html",
+      "pubDate": "2026-11-26T13:30:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/c/9/c9be2691-s.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -613,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/7/f77c710e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "GeForceドライバがSSDに大量書き込みする不具合、修正版が配信開始！みんな忘れずに更新しとけ！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589075.html",
-      "pubDate": "2026-11-26T01:30:00+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5a1d6e19.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -1001,19 +1014,6 @@
       "link": "https://rocketnews24.com/2026/11/25/2833690/",
       "pubDate": "Wed, 25 Nov 2026 02:00:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/c8308afe-bfd4-4ed2-9487-43c092eb626c.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "「日本一うまいコロッケそば」と言われる駅そば・桃中軒のみしまコロッケそばを食べてみた / 立ち食いそば放浪記：第411回 静岡県三島",
-      "description": "新幹線のぞみっていまいち旅情がない。思うに、移動に全力すぎるのだ。確かに、東京-大阪間が2時間21分は便利。だが、それゆえにもはやRTAしてるみたいな感覚になる。どんどん速度が上がってるからなおさらだ。効率厨すぎる。 一 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/25/2868038/",
-      "pubDate": "Wed, 25 Nov 2026 01:00:34 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/tochu13.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T04:30:44.575187",
+  "updatedAt": "2026-11-26T05:00:47.439679",
   "sites": [
     {
       "id": "hachima",
