@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "とある飲食店の店長、ヤバすぎる行動を取ってクビになる　そら当然だろこの内容は…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589155.html",
+      "pubDate": "2026-11-26T14:30:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/7/67ec23a2.png"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】サチコと神ねこ様 第2754回「かなぁ？」",
+      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
+      "link": "https://rocketnews24.com/2026/11/26/2869478/",
+      "pubDate": "Thu, 26 Nov 2026 05:00:44 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2755-2.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "韓国の番組で生放送中、女性キャスターが株価について説明中に米株が急落、そして泣いてしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589148.html",
+      "pubDate": "2026-11-26T14:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b69ad987-s.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ネット民「息子が幼稚園で描いた絵、いつの間にか◯◯◯に展示されることに」←とんでもなさすぎて数万いいね",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463212.html",
+      "pubDate": "2026-11-26T14:00:07+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26b46989.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -613,32 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/1/d1ff9a7e.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "遊戯王公式から「海馬瀬人の上着」が遂に発売ｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589042.html",
-      "pubDate": "2026-11-26T03:00:04+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/2/426b5b46.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "くら寿司の『ちいかわ 寿司皿』100万枚、初日で当選枠がすべて埋まり終了…実質先着と同じだと再び炎上へ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589081.html",
-      "pubDate": "2026-11-26T02:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/7/f77c710e.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +767,6 @@
       "link": "https://jin115.com/archives/52463146.html",
       "pubDate": "2026-11-25T20:30:30+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/6/c6d2aae0.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性VTuberさん、衝撃の告白・・・「今まで4年間、12月24日21時から25日3時までの『性の6時間』をリスナーと過ごしてたけど、本当は◯◯してました」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463154.html",
-      "pubDate": "2026-11-25T20:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/6/8693c2a4.jpg"
     },
     {
       "siteId": "brutus",
@@ -1001,19 +1014,6 @@
       "link": "https://artscape.jp/article/83348/",
       "pubDate": "Wed, 25 Nov 2026 02:00:46 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "昨年買って大満足だった、楽天の『訳あり業務用総菜、デザート詰め合わせセット』を今年も購入してみた結果 / 福袋2027",
-      "description": "“訳あり” な雰囲気を察した時、あなたならどうするだろうか。個人的にはあまり近付かないようにしたいところだが、こと食品に関しては話が別だ。訳がある分、価格が抑えめになっていることが多いからである。多少の事情であれば、喜ん [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/25/2833690/",
-      "pubDate": "Wed, 25 Nov 2026 02:00:36 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/10/c8308afe-bfd4-4ed2-9487-43c092eb626c.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T05:00:47.439679",
+  "updatedAt": "2026-11-26T05:30:43.594286",
   "sites": [
     {
       "id": "hachima",
