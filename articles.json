@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "約122円のポテトを全部食べた。おいしかった。なのに、食べた気がしない【カンバ通信：第553回】",
+      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回もポテトを食べに行ってきた。入ったのは「Chef Ismael Fast Food and Catering Servic [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/26/2868986/",
+      "pubDate": "Thu, 26 Nov 2026 06:00:07 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/aniki_1920.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -964,19 +977,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_1391.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "麻布台ヒルズのクリスマスマーケットは5000円でどこまで楽しめる？ グルメを満喫しつつ、サンタさんに媚びを売ってきた",
-      "description": "普段、麻布台なんてめったに来ない私。たまーに訪れると、街のゴージャスな雰囲気に圧倒されてしまう。 なんだかすれ違う人まで、みんなオーラを放っているように見えるぜ……！ そんな麻布台ヒルズで、2026年11月21日から「麻 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/25/2867917/",
-      "pubDate": "Wed, 25 Nov 2026 02:30:27 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/azabuXmas.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T05:30:43.594286",
+  "updatedAt": "2026-11-26T06:00:47.612768",
   "sites": [
     {
       "id": "hachima",
