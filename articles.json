@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】一般人「VTuberのゲームやってみたけどみんな声が似通ってて驚いた」⇒ Vオタ「耳鼻科行け！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589158.html",
+      "pubDate": "2026-11-26T15:00:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/e/fe5000e3.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "日本人アーティスト「ゴキブリに電極ぶっ刺して般若心経を書かせました」→国内外でドン引きする人が続出し物議に・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463214.html",
+      "pubDate": "2026-11-26T15:00:36+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/054f4115.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -652,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/b/0bc757ff-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "アニメ『ヒストリエ』新PVで名シーンを公開！よくも僕を……",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589052.html",
-      "pubDate": "2026-11-26T04:00:02+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/a/eab20cc1-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +780,6 @@
       "link": "https://brutus.jp/post-538188/",
       "pubDate": "Wed, 25 Nov 2026 12:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "事務職志望、絶望のお知らせ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463146.html",
-      "pubDate": "2026-11-25T20:30:30+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/6/c6d2aae0.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T06:00:47.612768",
+  "updatedAt": "2026-11-26T06:30:42.069431",
   "sites": [
     {
       "id": "hachima",
