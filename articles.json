@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "artscape",
+      "siteName": "artscape",
+      "siteShortName": "artscape",
+      "siteColor": "#c084fc",
+      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
+      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
+      "title": "【石川】「今日から明日へ　作品を継承すること」関連プログラム",
+      "description": "金沢21世紀美術館にて開催中の展覧会「今日から明日へ　作品を継承すること」の関連プログラムが行なわれています。 ジェームズ・タレル《ガスワークス》の作品体験や、塩田千春＋岡田利規《記憶の部屋について》の上演、作品の保存・ [&#8230;]",
+      "link": "https://artscape.jp/article/84379/",
+      "pubDate": "Thu, 26 Nov 2026 01:00:54 +0000",
+      "thumbnail": ""
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃事実】「Hな妄想をするいことが脳卒中や認知症の予防になる」と日本の最新医学の権威が発表！　お前ら、えちちな妄想しろ！！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589113.html",
+      "pubDate": "2026-11-26T10:00:27+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/3/93e28ee0.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【深刻】ここ5年の物価高を動画で「見える化」した結果・・・・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463193.html",
+      "pubDate": "2026-11-26T10:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/5/f5edcd07.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -509,19 +548,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2d604daf.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【GTA6】聖人ヒカキンさん、躊躇なく女をぶん殴るｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589041.html",
-      "pubDate": "2026-11-25T21:35:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/c/5c0ba72f.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -663,19 +689,6 @@
       "link": "https://jin115.com/archives/52463160.html",
       "pubDate": "2026-11-25T18:30:26+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/2/5255e6e7-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【おそロシア】プーチン大統領「ロシアの○○は過去最低、コレは快挙だよ」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463158.html",
-      "pubDate": "2026-11-25T18:00:06+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/e/dee214de.jpg"
     },
     {
       "siteId": "brutus",
@@ -1510,19 +1523,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "artscape",
-      "siteName": "artscape",
-      "siteShortName": "artscape",
-      "siteColor": "#c084fc",
-      "siteGradient": "linear-gradient(135deg, #c084fc, #f472b6)",
-      "siteBgAlpha": "rgba(192, 132, 252, 0.12)",
-      "title": "竹崎瑞季｜【アメリカ中西部】スカルプチャー・ミルウォーキー［中編］──街とアートの新たな生態系",
-      "description": "アメリカ・ウィスコンシン州の都市ミルウォーキーで、2017年から続くパブリック・アートのプロジェクト、「スカルプチャー・ミルウォーキー（Sculpture Milwaukee）」。前編に続き中編では、歴代のキュレーターに [&#8230;]",
-      "link": "https://artscape.jp/article/83158/",
-      "pubDate": "Fri, 20 Nov 2026 02:00:06 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "sumida",
       "siteName": "号外NET墨田区",
       "siteShortName": "号外NET",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T01:00:46.632678",
+  "updatedAt": "2026-11-26T01:30:41.400504",
   "sites": [
     {
       "id": "hachima",
