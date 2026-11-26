@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "遠足中の小1女児「お茶買って」 先生「ダメ」 → 女児が熱中症を起こし、女児らが市に計220万円の損害賠償を求めた控訴で逆転勝訴",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589187.html",
+      "pubDate": "2026-11-26T17:30:05+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/d/9de5d000.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -13,6 +26,32 @@
       "link": "https://rocketnews24.com/2026/11/26/2869109/",
       "pubDate": "Thu, 26 Nov 2026 08:00:16 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Qoo10-fukubukuro.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【動画あり】アニメ『チー付与』暗殺の母役・柴田理恵さんの演技がウマすぎると話題にｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589184.html",
+      "pubDate": "2026-11-26T17:00:15+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/b/1bb3a732.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【えぇ…】万引きがバレた大学生さん、警察に捕まりそうになり自殺してしまう・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463219.html",
+      "pubDate": "2026-11-26T17:00:14+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/9/b999d224.jpg"
     },
     {
       "siteId": "brutus",
@@ -639,19 +678,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【予約開始】メルブラシリーズ最新作 『MELTY BLOOD: TWI-LUMINA』、PS5とSwitch向けにAmazonで予約スタート！　弓塚さつき（CV：田中美海）が新参戦",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589099.html",
-      "pubDate": "2026-11-26T07:30:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b6f8123c.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -663,19 +689,6 @@
       "link": "https://casabrutus.com/categories/food/496379",
       "pubDate": "Wed, 25 Nov 2026 22:00:27 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【速報】新プリキュアシリーズのタイトル、『ファンたじっくプリキュア！』に決定",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589098.html",
-      "pubDate": "2026-11-26T07:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/d/ad3a2c08.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -780,19 +793,6 @@
       "link": "https://jin115.com/archives/52463164.html",
       "pubDate": "2026-11-25T23:00:45+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/768c21bf-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ちいかわのイベント、ガチで地獄すぎて炎上",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463172.html",
-      "pubDate": "2026-11-25T22:00:23+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/d/2d604daf.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T08:00:46.302843",
+  "updatedAt": "2026-11-26T08:30:44.477828",
   "sites": [
     {
       "id": "hachima",
