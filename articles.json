@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【ヤバすぎ】ロシアが“核兵器搭載の衛星”を年内に打ち上げという報道　爆発すれば地球の人工衛星の1/3を破壊か",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589258.html",
+      "pubDate": "2026-11-26T22:30:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/7/f7847374-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【初週売り上げ】PS5版『GTA6』20万本！PS5本体は4万台超え！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589249.html",
+      "pubDate": "2026-11-26T22:00:12+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/3/b33f7df9.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『GTA6』が大ヒットする裏で、とあるゲームのプレイヤー数が“40%以上”も減っていたことが判明・・・(´；ω；｀)",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463228.html",
+      "pubDate": "2026-11-26T22:00:01+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/a/1a6307b0.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -522,32 +561,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/9/d965b4d1-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】ある『元重病患者のレポート漫画』が「正常性バイアスの恐ろしさ」を伝える最適な教材だと話題に…　「医師が本気で忠告してもこんなのんきな患者いる」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589146.html",
-      "pubDate": "2026-11-26T13:00:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/3553d7a1.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "元AKB48・柏木由紀さん「居酒屋で冷やしトマトを頼む人とは気が合わない。冷たいトマトを切って置いてるだけじゃん」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589126.html",
-      "pubDate": "2026-11-26T12:40:42+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/f/ef3d23c7.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -858,19 +871,6 @@
       "link": "https://jin115.com/archives/52463181.html",
       "pubDate": "2026-11-26T07:00:04+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/a/8a589f03-s.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【画像】LGBTのイベントに“ヤバすぎるプラカード”が掲げられてポスト即削除へ「この手の人たちが何者かよくわかる写真」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463180.html",
-      "pubDate": "2026-11-26T06:00:10+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/7/07d3fc56.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T13:00:53.076662",
+  "updatedAt": "2026-11-26T13:30:42.854046",
   "sites": [
     {
       "id": "hachima",
