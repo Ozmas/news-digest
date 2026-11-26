@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【衝撃】女優・奥菜恵さん(47)、小学生の頃つきまとわれ誘拐されかけた過去を告白　→　不審者はオタクなら誰もが知る『あの男』だった…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589139.html",
+      "pubDate": "2026-11-26T12:20:57+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/f/7f35bff8.jpg"
+    },
+    {
+      "siteId": "buzzfeed",
+      "siteName": "BuzzFeed Japan",
+      "siteShortName": "BuzzFeed",
+      "siteColor": "#a78bfa",
+      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
+      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
+      "title": "【ブラックフライデー】韓国コスメBeauty Of Joseonや人気サプリの「黄金カート組み合わせ」3選【iHerb最大30%オフ】",
+      "description": "iHerb（アイハーブ）ブラックフライデー第2弾はサイト全体最大30%オフ！プロモコード「BFCMAPAC30」を使ってさらに送料無料を叶える、話題の韓国コスメ＆人気サプリの「黄金カート組み合わせ」3選を徹底解説します。View Entire Post &rsaquo;",
+      "link": "https://www.buzzfeed.com/jp/buzzfeedjapanshopping/iherb-black-friday-2026v2",
+      "pubDate": "Wed, 25 Nov 2026 22:07:05 -0500",
+      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/25/01/thumb/UupBNRyvN.jpg?crop=916:611;597,1178&resize=1250:830"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】乳と鉱石のロマンを描くアニメ『瑠璃の宝石』、凪さんのドスケベ肌色新作グッズが止まらないｗｗｗｗ　肉の圧がヤバすぎｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589134.html",
+      "pubDate": "2026-11-26T12:00:31+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/5/f55a20f7.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -585,32 +624,6 @@
       "link": "https://jin115.com/archives/52463166.html",
       "pubDate": "2026-11-26T00:00:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/9653d419-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "海外X民「GTAやスタウォーズみたいに女が関わるとIPが死ぬ理由を説明するレゴ社の研究がこちら」⇒ その内容が話題に",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589011.html",
-      "pubDate": "2026-11-26T00:00:56+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f456d350.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "時事通信「中国の高市首相出迎え時のタラップ段差は故障の可能性大！現場の状況を知る関係筋が言ってた！！」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589071.html",
-      "pubDate": "2026-11-25T23:30:34+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/c/ace05629.jpg"
     },
     {
       "siteId": "jin",
@@ -1646,19 +1659,6 @@
       "siteColor": "#a78bfa",
       "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
       "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
-      "title": "カタカタ鳴るし倒れて散らばる→車用ゴミ箱に困ってたら“やわらかダストBOX”がぜ〜んぶ解決してくれたよ！",
-      "description": "走行中に倒れてゴミが散らばったり、振動でカタカタ音が鳴ったりと、意外に悩みが多い“車用のゴミ箱”。今回はそんなお悩みをまるっと解決する、機能的なアイテムをご紹介します。View Entire Post &rsaquo;",
-      "link": "https://www.buzzfeed.com/jp/white_lily/carmate-soft-dustbox",
-      "pubDate": "Wed, 21 Oct 2026 05:01:03 -0400",
-      "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/16/02/thumb/bdBJ6l_TT.jpg?crop=3000:2000;0,0&resize=1250:830"
-    },
-    {
-      "siteId": "buzzfeed",
-      "siteName": "BuzzFeed Japan",
-      "siteShortName": "BuzzFeed",
-      "siteColor": "#a78bfa",
-      "siteGradient": "linear-gradient(135deg, #a78bfa, #f472b6)",
-      "siteBgAlpha": "rgba(167, 139, 250, 0.12)",
       "title": "「生きづらさや、壁のようなものをリアルに感じながら」俳優・松本穂香が「ハラスメント」テーマの作品で向き合った問題【ファーストボイス】",
       "description": "10月2日公開の映画『ファーストボイス』で、綾瀬はるかさん演じる弁護士・朝日道子の事務所で働く新人弁護士・藤野栞役を務めた松本穂香さん。BuzzFeed Japanでは、松本さんに撮影の舞台裏や、俳優としての今後の展望について詳しく伺いました。View Entire Post &rsaquo;",
       "link": "https://www.buzzfeed.com/jp/munenoriumeki/honoka-matsumoto-interview",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T03:00:45.913808",
+  "updatedAt": "2026-11-26T03:30:47.003459",
   "sites": [
     {
       "id": "hachima",
