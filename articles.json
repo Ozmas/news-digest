@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "あのちゃん、お風呂で◯◯していると明かしてネット騒然ｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463239.html",
+      "pubDate": "2026-11-27T05:00:48+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/3/7/3784b621.png"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -780,19 +793,6 @@
       "link": "https://rocketnews24.com/2026/11/26/2869044/",
       "pubDate": "Thu, 26 Nov 2026 01:00:01 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/ikkei.jpeg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ネット流行語100、ノミネート一覧が公開される！「ｽﾋﾟｷ」「ドパガキ」「ショートスリーパー」など",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463192.html",
-      "pubDate": "2026-11-26T09:30:50+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/5/b5dbf9dd-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T20:00:48.589059",
+  "updatedAt": "2026-11-26T20:30:43.411556",
   "sites": [
     {
       "id": "hachima",
