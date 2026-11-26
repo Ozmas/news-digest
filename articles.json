@@ -2,6 +2,58 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ロケニュー記者7名が「Amazonブラックフライデー」で密かに狙っているアイテムがこちらです / 日用品から最新AIグラスまで",
+      "description": "11月27日（本セールは30日）からAmazonの「ブラックフライデー」が始まる。ブラックフライデーに賭けている人もそうでもない人もいると思うが「お得なら買いたい人」は多いハズだ。 かくいう私、P.K.サンジュンもその1 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/26/2862347/",
+      "pubDate": "Thu, 26 Nov 2026 10:00:50 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/amazon.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "司法「妻が夫にメタノールを飲ませたら無罪。夫が妻にメタノールを飲ませたら懲役16年」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589225.html",
+      "pubDate": "2026-11-26T19:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/1/81cfdc5c.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "メタノールで妻を殺害した罪に問われ無罪を主張していた夫、懲役16年",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463222.html",
+      "pubDate": "2026-11-26T19:00:41+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/7/87bab4bd.jpg"
+    },
+    {
+      "siteId": "brutus",
+      "siteName": "BRUTUS",
+      "siteShortName": "BRUTUS",
+      "siteColor": "#fbbf24",
+      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
+      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
+      "title": "綴る、わがままな部屋。エッセイスト・しまおまほの居住空間学",
+      "description": "君の部屋はまんだらけ 大学一年の時のボーイフレンドが独り暮らししていた、用賀にある1Kに初めて遊びに行って目に飛び込んできたのは、6畳ほどの部屋に天井スレスレまで嵌めるように置かれた大きな2段ベッドだった。 上段は寝具、 [&#8230;]",
+      "link": "https://brutus.jp/post-531052/",
+      "pubDate": "Thu, 26 Nov 2026 10:00:00 +0000",
+      "thumbnail": ""
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -47,10 +99,10 @@
       "siteColor": "#f472b6",
       "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
       "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女性トラブルのけんきさん、「無料風俗」発言は「冷静じゃなかった」と釈明「被害届は俺から出そうかな」とも",
+      "title": "【不同意性交】配信者のけんきさん、女性への「無料風俗」発言を釈明「ガチで反省」　それとは別に身の潔白を示すために◯◯する模様",
       "description": "続きを読む",
       "link": "http://blog.esuteru.com/archives/10589217.html",
-      "pubDate": "2026-11-26T18:00:43+09:00",
+      "pubDate": "2026-11-26T18:00:49+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/8712f481-s.jpg"
     },
     {
@@ -548,19 +600,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【衝撃事実】「Hな妄想をするいことが脳卒中や認知症の予防になる」と日本の最新医学の権威が発表！　お前ら、えちちな妄想しろ！！",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589113.html",
-      "pubDate": "2026-11-26T10:00:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/3/93e28ee0.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -795,19 +834,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/0/f015728d-s.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『ひぐらしのなく頃に』が大好きな女性外国人がメルカリで梨花のバッジを購入 → おまけでとんでもない物が大量に送られて来て号泣してしまうｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463166.html",
-      "pubDate": "2026-11-26T00:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/9653d419-s.png"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -962,19 +988,6 @@
       "link": "https://rocketnews24.com/2026/11/25/2868691/",
       "pubDate": "Wed, 25 Nov 2026 06:37:36 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/スクリーンショット-2026-11-25-145623.jpg"
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "ケニアでは、世界で勝つランナーは英雄だ。高校で100mと200mを走っていた僕が、マラソン大会に出られなかった理由【カンバ通信：第552回】",
-      "description": "ジャンボ〜！　ケニアのナイロビでタクシー運転手をしているケニア人（カンバ族）のチャオスだよ。 今回は、リクエストボックスに届いた質問に答えるね。 「世界の大会で活躍するランナーを、ケニアの人たちはどう見ていますか？」 質 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/25/2868626/",
-      "pubDate": "Wed, 25 Nov 2026 06:00:39 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/att.WKHJK-43sHLtWFpGGlNq1AsthVvznJWWXn17pQoWL3A.jpg"
     },
     {
       "siteId": "brutus",
@@ -1313,19 +1326,6 @@
       "link": "https://www.buzzfeed.com/jp/takamiyoshida/nakamura-eriko-paris-oshogatsu",
       "pubDate": "Mon, 23 Nov 2026 05:01:01 -0500",
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/06/subbuzz/E6EgkfBUX.jpg?crop=339:226;222,209&resize=1250:830"
-    },
-    {
-      "siteId": "brutus",
-      "siteName": "BRUTUS",
-      "siteShortName": "BRUTUS",
-      "siteColor": "#fbbf24",
-      "siteGradient": "linear-gradient(135deg, #fbbf24, #fb923c)",
-      "siteBgAlpha": "rgba(251, 191, 36, 0.12)",
-      "title": "台湾最大のアートブックフェア主催者が開いた実店舗書店。台北〈草率書店 Pretty Fly Books〉",
-      "description": "３つのポイント 1.アートブックフェア『草率季』発の路面店。2.台湾内外のZINEや書籍など2,500冊以上揃う。3.週末には室外ブースも登場し、交流の拠点に。 台湾最大のアートブックフェア主催者が開いた実店舗書店 台湾 [&#8230;]",
-      "link": "https://brutus.jp/post-538008/",
-      "pubDate": "Mon, 23 Nov 2026 10:00:00 +0000",
-      "thumbnail": ""
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T10:00:48.068749",
+  "updatedAt": "2026-11-26T10:30:45.376155",
   "sites": [
     {
       "id": "hachima",
