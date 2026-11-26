@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "食べログ百名店に選出された「小さなカレー家」が明日（11/27）閉店 / 前日の開店1時間前に行ったが遅かった… 東京・大久保",
+      "description": "古くからあるお店がなくなるのは寂しいものだ。たとえ頻繁に利用していなかったとしても、そこにそのお店があること、それ自体が日常であるため、看板が降ろされるとなると日常の一部が失われることになる。その時に初めて、かけがえのな [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/26/2869784/",
+      "pubDate": "Thu, 26 Nov 2026 07:00:15 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/chiisana.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女子「男ってブスしかいないのにブスで悩んでる奴、存在しなくね？」⇒ 5万いいね超え",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589159.html",
+      "pubDate": "2026-11-26T15:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0dbf756.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -67,6 +93,19 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2755-2.png"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "ネット民「息子が幼稚園で描いた絵、いつの間にか◯◯◯に展示されることに」←とんでもなさすぎて数万いいね",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463212.html",
+      "pubDate": "2026-11-26T14:00:34+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26b46989.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -78,19 +117,6 @@
       "link": "http://blog.esuteru.com/archives/10589148.html",
       "pubDate": "2026-11-26T14:00:24+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/6/b69ad987-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "ネット民「息子が幼稚園で描いた絵、いつの間にか◯◯◯に展示されることに」←とんでもなさすぎて数万いいね",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463212.html",
-      "pubDate": "2026-11-26T14:00:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/6/26b46989.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -652,19 +678,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/740192b3.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "くら寿司店員さん「ちいかわ 寿司皿」をまた横流し転売してしまうｗｗｗｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589054.html",
-      "pubDate": "2026-11-26T05:00:54+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/6/86f96e3f.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -962,19 +975,6 @@
       "link": "https://brutus.jp/post-541682/",
       "pubDate": "Wed, 25 Nov 2026 03:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "餃子の王将の「餃子定食（税込1100円）」は高いのか？ 3年ぶりに都内店舗で食べてみた感想",
-      "description": "先日、SNSを見ていたところ、餃子の王将の『餃子定食』について「高くない？」と疑問を投げかけるような投稿が話題になっていた。 そういえば、最近の王将ってどれくらいの値段になっているんだろう？　実は私（あひるねこ）、もう3 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/25/2868333/",
-      "pubDate": "Wed, 25 Nov 2026 02:55:46 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_1391.jpg"
     },
     {
       "siteId": "casabrutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T06:30:42.069431",
+  "updatedAt": "2026-11-26T07:00:49.224699",
   "sites": [
     {
       "id": "hachima",
