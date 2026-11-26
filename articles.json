@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【4コマ】魔王軍はホワイト企業 2185話目「上司と部下の狭間で⑰」",
+      "description": "漫画：スガラジカル",
+      "link": "https://rocketnews24.com/2026/11/26/2869690/",
+      "pubDate": "Thu, 26 Nov 2026 12:00:26 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2185a.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】日本のゲーム、外国人からめちゃくちゃバカにされてしまう「GTA6の真っ最中にこんなクソを見るなんて日本はマジで終わってる」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463224.html",
+      "pubDate": "2026-11-26T21:00:09+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/a/0a22f664-s.png"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【炎上】近畿大学、女子枠(理工学部)の入学金を完全無償化！完全に男性差別だと非難殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589238.html",
+      "pubDate": "2026-11-26T20:30:58+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6d821729.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -548,19 +587,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/i1_47895a.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【怖すぎ】愛知県豊橋の人から無限にスマホ充電用『CHARGESPOT』が送りつけられる事案発生　→　ネットのガジェット界隈では◯◯の可能性が濃厚との見方…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589125.html",
-      "pubDate": "2026-11-26T11:30:07+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/269f140e.jpg"
-    },
-    {
       "siteId": "casabrutus",
       "siteName": "Casa BRUTUS",
       "siteShortName": "Casa",
@@ -834,19 +860,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/b/0bc757ff-s.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "日本のGDP、世界6位に転落へ→外国人「日本が輸出できるのは、もう観光と売春婦の2つだけ」「彼らはネット上で移民と人種差別を拒否するのに忙しい」",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463176.html",
-      "pubDate": "2026-11-26T03:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/1/d1ff9a7e.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -988,19 +1001,6 @@
       "link": "https://casabrutus.com/categories/food/496058",
       "pubDate": "Wed, 25 Nov 2026 07:25:07 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【抽選結果速報】スタバ福袋2027の抽選に編集部総出（22人）で挑んだ結果 / 昨年の全滅からリベンジ",
-      "description": "本日2026年11月25日は、福袋界の絶対王者「スターバックス福袋2027」の抽選結果発表日である！ 当選者にはメールで通知され、公式アプリを利用している場合はInbox（Message）にも当選案内が届く。抽選結果は発 [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/25/2868691/",
-      "pubDate": "Wed, 25 Nov 2026 06:37:36 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/スクリーンショット-2026-11-25-145623.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T11:30:44.071313",
+  "updatedAt": "2026-11-26T12:00:53.792643",
   "sites": [
     {
       "id": "hachima",
