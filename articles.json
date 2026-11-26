@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】くら寿司のちいかわコラボ寿司皿プレゼント、酷いことになってしまう…",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463208.html",
+      "pubDate": "2026-11-26T13:00:24+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/d/9/d965b4d1-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【画像】ある『元重病患者のレポート漫画』が「正常性バイアスの恐ろしさ」を伝える最適な教材だと話題に…　「医師が本気で忠告してもこんなのんきな患者いる」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589146.html",
+      "pubDate": "2026-11-26T13:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/5/3553d7a1.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -600,19 +626,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/a/5a1d6e19.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】GMO熊谷代表、愛人に送っていたメンヘラLINEを晒される「お前はおかしい　おかしい　おかしいよ」「バカしね」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589079.html",
-      "pubDate": "2026-11-26T01:00:53+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/b/4/b4662a7c.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://brutus.jp/post-537202/",
       "pubDate": "Wed, 25 Nov 2026 11:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "技能実習生、とんでもない人数が今も行方不明",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463161.html",
-      "pubDate": "2026-11-25T19:30:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/9/4948372c.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T04:00:49.441056",
+  "updatedAt": "2026-11-26T04:30:44.575187",
   "sites": [
     {
       "id": "hachima",
