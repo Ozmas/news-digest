@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "万引きをした20歳男性、警察から任意同行を求められる → 逃走して、自宅で首を切って自◯してしまう…",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589160.html",
+      "pubDate": "2026-11-26T16:00:32+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/7/572c2706.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "12月のPSプラス、『ドラゴンボール ゼノバース2』『ブリーチ Rebirth of Souls』の無料配信きたあああ！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463215.html",
+      "pubDate": "2026-11-26T16:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/b/9b6bac44.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -665,19 +691,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/7/07d3fc56.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "ゼンショーが遂に『サイゼリヤ』に殴り込み！オリーブの丘を60店→500店に拡大",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589056.html",
-      "pubDate": "2026-11-26T05:30:28+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/7/4/740192b3.png"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -767,19 +780,6 @@
       "link": "https://rocketnews24.com/2026/11/25/2868957/",
       "pubDate": "Wed, 25 Nov 2026 12:00:44 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2184a.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "親「娘のゴミ箱に高額のレシートが入ってる、なんで・・・？」→調査した結果ヤバイことが発覚",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463165.html",
-      "pubDate": "2026-11-25T21:00:22+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bbe0f84c.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T07:00:49.224699",
+  "updatedAt": "2026-11-26T07:30:47.168048",
   "sites": [
     {
       "id": "hachima",
