@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "自営業の男（42）、オンラインゲームで知り合った14歳の女子中学生に10万円払ってみだらな行為 →逮捕",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589220.html",
+      "pubDate": "2026-11-26T18:20:21+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/1/61328d9e.png"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【ん？】CDPR共同CEO「『ウィッチャー4』と今後発売予定のタイトルは全プラットフォーム同時リリースだ。PS5、XBOX、PC、誰一人仲間外れにはしない」",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463216.html",
+      "pubDate": "2026-11-26T18:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/a/1a86db37-s.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女性トラブルのけんきさん、「無料風俗」発言は「冷静じゃなかった」と釈明「被害届は俺から出そうかな」とも",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589217.html",
+      "pubDate": "2026-11-26T18:00:43+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/7/8712f481-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -600,19 +639,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/43998c22-s.png"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】「トクリュウに対抗するために今日から毎日◯◯を食べよう」　→　ネタかと思いきや圧倒的教養にネット大絶賛！7万いいね突破ｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589105.html",
-      "pubDate": "2026-11-26T08:30:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/2/92d5e1ab.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -637,19 +663,6 @@
       "link": "https://sumida.goguynet.jp/2026/11/26/kirimatsuya-nittei/",
       "pubDate": "Wed, 25 Nov 2026 23:01:48 +0000",
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_9310-1024x767.jpeg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】彼女「リンゴ100％ジュース買ってきて」、有能彼氏「任せろ！」　→　彼が買ってきた◯◯◯が完璧すぎてネット大絶賛！　「これはイケメン」「仕事できそう」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589100.html",
-      "pubDate": "2026-11-26T08:00:32+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/0/f0dbf756.jpg"
     },
     {
       "siteId": "jin",
@@ -793,19 +806,6 @@
       "link": "https://jin115.com/archives/52463166.html",
       "pubDate": "2026-11-26T00:00:58+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/9/6/9653d419-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "女性配信者が配信の途中でミュートせずに爆睡 → ヤバすぎる音声が聞こえてきて終わるｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463164.html",
-      "pubDate": "2026-11-25T23:00:45+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/6/768c21bf-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T09:00:48.311810",
+  "updatedAt": "2026-11-26T09:30:45.801783",
   "sites": [
     {
       "id": "hachima",
