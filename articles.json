@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "主婦歴ウン十年でも知らんかった！ マ・マーのパスタソースでクラムチャウダーを作る裏ワザが優秀すぎた",
+      "description": "マ・マーのパスタソースを使って、クラムチャウダーが作れるという。 これは少し前にスレッズの奥様界隈で注目を集めていた話題なのだが、先日、販売元の日清製粉ウェルナも公式Xで紹介しているのを発見。私もさっそく試してみることに [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/26/2869024/",
+      "pubDate": "Thu, 26 Nov 2026 09:00:28 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/m1_bb93ff.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -964,19 +977,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/att.WKHJK-43sHLtWFpGGlNq1AsthVvznJWWXn17pQoWL3A.jpg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "【4コマ】サチコと神ねこ様 第2753回「今の九ちゃん③」",
-      "description": "漫画：wako 他にもオフィシャルショップで、トートバッグやアクリルスタンド、Tシャツを販売中です。LINEスタンプも販売中！",
-      "link": "https://rocketnews24.com/2026/11/25/2868741/",
-      "pubDate": "Wed, 25 Nov 2026 05:00:36 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2753-2.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T08:30:44.477828",
+  "updatedAt": "2026-11-26T09:00:48.311810",
   "sites": [
     {
       "id": "hachima",
