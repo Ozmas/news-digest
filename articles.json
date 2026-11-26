@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "ロマンス詐欺師は、なぜ夜になると律儀に「おやすみ」と言うのか？ チャーハンのレシピを聞き出していたら、なんとなくわかってきた",
+      "description": "ロマンス詐欺師とやりとりをしている人なら、お気づきかもしれない。といっても、そんな人はあまり多くないと思うが。 私がやりとりしてきた相手は、夜もある時間を過ぎると、パタッとLINEを送ってこなくなる。 「おやすみなさい」 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/26/2869200/",
+      "pubDate": "Thu, 26 Nov 2026 00:00:42 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/IMG_5600_still_1920_96990d.jpg"
+    },
+    {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「女が関わるとコンテンツが死ぬ」←このメカニズム、研究で完全解説されていた",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463189.html",
+      "pubDate": "2026-11-26T09:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/d/4d784305.png"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -717,19 +743,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "『GTA6』をプレイしたPS5、クラッシュしたという投稿が相次ぐ・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463157.html",
-      "pubDate": "2026-11-25T16:00:33+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/0/10156434.jpg"
-    },
-    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -1053,19 +1066,6 @@
       "link": "https://brutus.jp/post-532830/",
       "pubDate": "Tue, 24 Nov 2026 10:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "いま話題の『壱角家』に3年半ぶりに行ってみた！ 昔「普通に美味しい」と書いて叱られた男のファイナルアンサー",
-      "description": "現在、Xを中心に家系ラーメンチェーン店『壱角家』が大きな話題となっている。私（サンジュン）はついさっきまで「いっかくや」と読んでいたが、正確には「いちかくや」であるそうだ。 それはどうでもいいとして、料理研究家のリュウジ [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/24/2868406/",
-      "pubDate": "Tue, 24 Nov 2026 09:00:43 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/itikaku00.jpeg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T00:00:52.085950",
+  "updatedAt": "2026-11-26T00:30:40.424813",
   "sites": [
     {
       "id": "hachima",
