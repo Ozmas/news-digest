@@ -2,6 +2,19 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『Amazonブラックフライデー』の先行セールがスタート！プロゲーマー使用率1位の最強デバイスから冬のオススメ家電まで、ガチの厳選商品をピックアップしたぞ！",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463243.html",
+      "pubDate": "2026-11-30T00:00:51+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -793,19 +806,6 @@
       "link": "https://jin115.com/archives/52463189.html",
       "pubDate": "2026-11-26T09:00:20+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/d/4d784305.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「このライトノベルがすごい！2027」第1位、納得のあの人気作品が獲得する！！お前らも読め！",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463186.html",
-      "pubDate": "2026-11-26T08:40:38+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/3/43998c22-s.png"
     },
     {
       "siteId": "sumida",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T17:00:52.126871",
+  "updatedAt": "2026-11-26T17:30:42.635309",
   "sites": [
     {
       "id": "hachima",
