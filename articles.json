@@ -2,6 +2,45 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "「5年前は月収100万超えだった登録者40万人アラサーVTuberの現在がこちら」→とんでもないことになっていた・・・",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463207.html",
+      "pubDate": "2026-11-26T12:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/1/01c0d167.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "知ってた？ JR東日本のコンビニ『ニューデイズ』にソフトクリームを売っている店舗があった！ 税込220円の実力は？",
+      "description": "2026年10月、大手コンビニファミリーマートが都内の店舗限定でソフトクリームの販売を開始した。 その後に大手ファストフードのケンタッキーフライドチキンも店舗限定で同じくソフトクリームの販売を開始！　なぜ夏ではなく、寒く [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/26/2868363/",
+      "pubDate": "Thu, 26 Nov 2026 02:55:01 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/daysnew.jpg"
+    },
+    {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "激辛ハンターも震えた!! 辛さ5倍「麻辣湯 激ツッ辛味」が市販のカップ麺とは思えない破壊力だった",
+      "description": "コンビニやドラッグストアなどいろんなところで見かけるようになった、医食同源ドットコム「中華房 麻辣湯」。 自宅でも手軽に食べられるカップ麺タイプのマーラータンだが、最近、マツキヨ限定で辛さ5倍の「激ツッ辛味」が発売された [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/26/2868716/",
+      "pubDate": "Thu, 26 Nov 2026 02:30:47 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/i1_47895a.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -13,6 +52,19 @@
       "link": "http://blog.esuteru.com/archives/10589125.html",
       "pubDate": "2026-11-26T11:30:07+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/2/6/269f140e.jpg"
+    },
+    {
+      "siteId": "casabrutus",
+      "siteName": "Casa BRUTUS",
+      "siteShortName": "Casa",
+      "siteColor": "#34d399",
+      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
+      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
+      "title": "イ・カンホによる日食や月食を思わせる、美しいテーブル。",
+      "description": "〈WEKINO〉のクリエイティブディレクター、イ・カンホによる《Eclipse Glass Sofa Table》。",
+      "link": "https://casabrutus.com/categories/design/496259",
+      "pubDate": "Thu, 26 Nov 2026 02:25:33 +0000",
+      "thumbnail": ""
     },
     {
       "siteId": "jin",
@@ -691,19 +743,6 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/tbs3.jpg"
     },
     {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "【悲報】日本人女性さん、先進16か国の中でずば抜けて異常だと判明してしまう・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463142.html",
-      "pubDate": "2026-11-25T19:00:58+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/b/b/bbd7c5b5.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1003,19 +1042,6 @@
       "thumbnail": "https://sumida.goguynet.jp/wp-content/uploads/sites/60/2026/11/IMG_9346-1024x767.jpeg"
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "約1万円お得な「キングジム 冬の福箱」はもっと人気になっていい / 実用的＆新たな出会いも楽しめる文具好き必見の福袋",
-      "description": "来年のために、ノートやファイルなどの文房具が欲しいなぁ。 そう思って購入したのは、キングジムから発売された福袋「冬の福箱 C」。ファイルやノート、ペンケースなど、10点以上の商品が入って6600円（税・送料込み）だという [&#8230;]",
-      "link": "https://rocketnews24.com/2026/11/25/2867473/",
-      "pubDate": "Tue, 24 Nov 2026 23:00:23 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/Photo-1.jpeg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1027,19 +1053,6 @@
       "link": "https://brutus.jp/post-521348/",
       "pubDate": "Tue, 24 Nov 2026 23:00:00 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "羨ましいから！ 注意をしに来たお父さん！　四コマサボタージュFB第138回「大人なんだから」",
-      "description": "いつかPS5を買おうと思ったまま結局買わず今に至るんだ。遊んでみたいタイトルとかいっぱいあるんだけどね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/25/2862202/",
-      "pubDate": "Tue, 24 Nov 2026 22:00:33 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-138.png"
     },
     {
       "siteId": "casabrutus",
@@ -1393,19 +1406,6 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/18/06/subbuzz/xwSiMJW8-.png?crop=1505:1003;166,30&resize=1250:830"
     },
     {
-      "siteId": "casabrutus",
-      "siteName": "Casa BRUTUS",
-      "siteShortName": "Casa",
-      "siteColor": "#34d399",
-      "siteGradient": "linear-gradient(135deg, #34d399, #22d3ee)",
-      "siteBgAlpha": "rgba(52, 211, 153, 0.12)",
-      "title": "全国の銘酒を一合ずつ味わう。〈きょうの日本酒〉による、日本酒入門セット。【おつまみレシピ付き】",
-      "description": "カーサ ブルータスの人気企画「10選」シリーズから、こだわりの逸品をジャンルレスに日替わりでご紹介します。",
-      "link": "https://casabrutus.com/categories/food/496312",
-      "pubDate": "Sun, 22 Nov 2026 22:00:07 +0000",
-      "thumbnail": ""
-    },
-    {
       "siteId": "buzzfeed",
       "siteName": "BuzzFeed Japan",
       "siteShortName": "BuzzFeed",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T02:30:40.748921",
+  "updatedAt": "2026-11-26T03:00:45.913808",
   "sites": [
     {
       "id": "hachima",
