@@ -2,6 +2,32 @@
   "ok": true,
   "articles": [
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "YouTuber「恋人のPS5が『GTA6』のせいで壊れた！解体したら、ここがこうなっていた！修理代150ドル払ったけど、直らなかったんだけど！？」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589115.html",
+      "pubDate": "2026-11-26T11:00:11+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/4/f4127529.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【悲報】高市首相、「世界的に変人扱いされて各国から引かれている」と報道されてしまう…　「米国記者も懸念“失礼な振る舞い”と日米悪化」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589117.html",
+      "pubDate": "2026-11-26T10:30:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/3/c/3cda0a6f.jpg"
+    },
+    {
       "siteId": "artscape",
       "siteName": "artscape",
       "siteShortName": "artscape",
@@ -507,32 +533,6 @@
       "link": "http://blog.esuteru.com/archives/10589067.html",
       "pubDate": "2026-11-25T23:00:19+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/8/4/8468ed8b.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「なぜクマを殺したんだ！」前橋市に抗議電話600件、メールは160件以上　担当者「市外の人が多い気がする」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589049.html",
-      "pubDate": "2026-11-25T22:30:27+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/0/0/00b3f0c9.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】カップルユーチューバーさん、妻のわがままっぷりを切り抜いた動画がめちゃくちゃ叩かれて夫ブチギレ「お前らガタガタうるせえんだよ」 開示請求を予告",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589048.html",
-      "pubDate": "2026-11-25T22:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/3/f3370670.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-26T01:30:41.400504",
+  "updatedAt": "2026-11-26T02:00:45.357864",
   "sites": [
     {
       "id": "hachima",
