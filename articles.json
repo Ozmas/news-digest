@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "rocketnews",
+      "siteName": "ロケットニュース24",
+      "siteShortName": "ロケニュー",
+      "siteColor": "#f87171",
+      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
+      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
+      "title": "【半額】こんなにお得でいいの!? 食品ロス削減アプリでクリスピー・クリーム・ドーナツを6個734円で買ってみた結果",
+      "description": "まだまだおいしく食べられる食品を、お得に購入できるアプリ「Too Good To Go（トゥー・グッド・トゥ・ゴー）」をご存じだろうか。 私（夏野）もときどき利用しているのだが、これがかなりお得なのである。通常価格の半額 [&#8230;]",
+      "link": "https://rocketnews24.com/2026/11/27/2866380/",
+      "pubDate": "Fri, 27 Nov 2026 02:00:02 +0000",
+      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/too-good-to-go-3.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -990,19 +1003,6 @@
       "thumbnail": ""
     },
     {
-      "siteId": "rocketnews",
-      "siteName": "ロケットニュース24",
-      "siteShortName": "ロケニュー",
-      "siteColor": "#f87171",
-      "siteGradient": "linear-gradient(135deg, #f87171, #fb923c)",
-      "siteBgAlpha": "rgba(248, 113, 113, 0.12)",
-      "title": "そうはならへん！ 捨て猫に自分を重ねる不良少年！　四コマサボタージュFB第139回「オレと同じ」",
-      "description": "種類や個体によっては、水をそこまで怖がらないネコもいるらしいね。 漫画：ザックKT-4",
-      "link": "https://rocketnews24.com/2026/11/26/2862206/",
-      "pubDate": "Wed, 25 Nov 2026 22:00:08 +0000",
-      "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/1koma-139.png"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-27T01:52:45.629045",
+  "updatedAt": "2026-11-27T02:00:47.425861",
   "sites": [
     {
       "id": "hachima",
