@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "千葉県浦安市「ネズミ被害防止大作戦」を展開　駅一帯のネズミ退治へ",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589683.html",
+      "pubDate": "2026-11-27T21:30:16+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/1/5179f50f-s.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -637,19 +650,6 @@
       "link": "http://blog.esuteru.com/archives/10589333.html",
       "pubDate": "2026-11-27T12:40:17+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/9/198656b2-s.png"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "イキリ愛国男さん「戦争？当然俺は日本を攻めてくる奴らと戦いますよ」　→　『ブラックラグーン』作者さんに完全論破されてむせび泣く…",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589335.html",
-      "pubDate": "2026-11-27T12:20:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/e/d/edc3dd80.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-27T12:30:47.862260",
+  "updatedAt": "2026-11-27T13:00:53.362170",
   "sites": [
     {
       "id": "hachima",
