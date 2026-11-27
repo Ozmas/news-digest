@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "『VIVANT』、映画で完結しない可能性ｗｗｗｗｗｗｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463284.html",
+      "pubDate": "2026-11-27T23:00:23+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/d/cd3dbb92-s.jpg"
+    },
+    {
       "siteId": "hachima",
       "siteName": "はちま起稿",
       "siteShortName": "はちま",
@@ -663,19 +676,6 @@
       "link": "https://jin115.com/archives/52463256.html",
       "pubDate": "2026-11-27T13:00:27+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/2/b/2b3e5682.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "芸人・あべこうじさん、ひき逃げと過失運転傷害の疑い",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463274.html",
-      "pubDate": "2026-11-27T12:00:44+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/a/1a2241cb-s.jpg"
     },
     {
       "siteId": "brutus",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-27T14:00:49.151659",
+  "updatedAt": "2026-11-27T14:30:43.268260",
   "sites": [
     {
       "id": "hachima",
