@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "反戦界隈「ジャンプフェスタのオタクたち、国会議事堂前デモ参加して！」 → 作品の政治利用を注意されて逆ギレ「二次創作なんぞ一度全部焼け野原になればヨシ！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589714.html",
+      "pubDate": "2026-11-28T01:00:50+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/a/aa020c08.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -598,19 +611,6 @@
       "link": "https://jin115.com/archives/52463281.html",
       "pubDate": "2026-11-27T16:00:08+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/2/82a58eb4.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "女性配信者（40）「私、生活保護受給者だから医療費や薬代が実質タダなんだよね！」 → マンジャロを無許可で販売しまくったとして逮捕される",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589350.html",
-      "pubDate": "2026-11-27T15:30:55+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/1/d1fcc004-s.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-27T16:00:50.946195",
+  "updatedAt": "2026-11-27T16:30:44.879268",
   "sites": [
     {
       "id": "hachima",
