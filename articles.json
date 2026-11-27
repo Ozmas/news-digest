@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "GMO熊谷氏「ハッカーを丸裸にする」サイバー攻撃を可視化するサイトを開設！不正アクセス問題でタスクフォース設置も",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589651.html",
+      "pubDate": "2026-11-27T19:30:33+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/1/0/10134540.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +676,6 @@
       "link": "https://rocketnews24.com/2026/11/27/2866380/",
       "pubDate": "Fri, 27 Nov 2026 02:00:02 +0000",
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/too-good-to-go-3.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【画像】ホロライブVTuber・古石ビジューさんが『GTA6』の「例のシロクマ救出イベント」に遭遇　→　誰も予想できないまさかの結末にｗｗｗｗｗ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589314.html",
-      "pubDate": "2026-11-27T10:30:36+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/f/ff828f08.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-27T10:30:44.097114",
+  "updatedAt": "2026-11-27T10:41:28.259557",
   "sites": [
     {
       "id": "hachima",
