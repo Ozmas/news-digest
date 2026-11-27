@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "美女「20代前半と後半の写真交互に見て！」→とんでもないことになっていたｗｗｗｗｗ",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463268.html",
+      "pubDate": "2026-11-27T14:00:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/7/471a781e.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "NVIDIA「えっ！？GeForceドライバーがSSDの寿命を縮めてる！？わかった！」 → 「最新ドライバー出したよ！」 ユーザー「今度は画面暗転するじゃねーか！！」",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589341.html",
+      "pubDate": "2026-11-27T14:00:25+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/e/6e5b6516.png"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -691,19 +717,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/0/60f019ae-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【悲報】吉野家が「ダチョウ肉」販売を諦め……事業売却へ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589240.html",
-      "pubDate": "2026-11-27T03:00:12+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/94c85468.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52463226.html",
       "pubDate": "2026-11-27T00:00:24+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/8/a/8a8ffe96.jpg"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "男性「宝くじで約1億6000万円当たった！！」 → 数日後、とんでもないことになっていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463223.html",
-      "pubDate": "2026-11-26T23:00:21+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/5/f5caa9cb.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-27T05:00:49.033400",
+  "updatedAt": "2026-11-27T05:30:43.404300",
   "sites": [
     {
       "id": "hachima",
