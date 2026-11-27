@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "女性配信者（40）「私、生活保護受給者だから医療費や薬代が実質タダなんだよね！」 → マンジャロを無許可で販売しまくったとして逮捕される",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589350.html",
+      "pubDate": "2026-11-27T15:30:55+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/1/d1fcc004-s.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -741,19 +754,6 @@
       "link": "https://jin115.com/archives/52463235.html",
       "pubDate": "2026-11-27T06:00:51+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/7/0/70fae7b7.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【スゲエ】壁・天井・床すべてに映像が広がる新型映画館が日本に来夏登場",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589245.html",
-      "pubDate": "2026-11-27T06:00:08+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/6/d/6da7f213-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-27T06:30:41.111741",
+  "updatedAt": "2026-11-27T07:00:47.481841",
   "sites": [
     {
       "id": "hachima",
