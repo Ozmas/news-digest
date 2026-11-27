@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『M-1』ワイルドカードは人気投票でいい？芸人の意見がマジでド正論",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589710.html",
+      "pubDate": "2026-11-28T04:00:20+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d365704c-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -520,19 +533,6 @@
       "link": "https://jin115.com/archives/52463260.html",
       "pubDate": "2026-11-27T17:30:16+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/c/7/c7d0a8b4.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "「強いやついないか」と自ら警察署へ突撃した無職男、逮捕　罪状は暴行ではなくアレ",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589372.html",
-      "pubDate": "2026-11-27T17:30:11+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/2/a2907eb6.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-27T19:00:50.244802",
+  "updatedAt": "2026-11-27T19:30:45.592711",
   "sites": [
     {
       "id": "hachima",
