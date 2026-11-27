@@ -28,6 +28,32 @@
       "thumbnail": "https://rocketnews24.com/wp-content/uploads/sites/2/2026/11/2186a.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "【悲報】『ニンテンドースイッチ2』で冷えると起動しなくなる故障を複数確認　原因は◯◯の不良か",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463288.html",
+      "pubDate": "2026-11-27T21:00:39+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/2/6297e41a.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "『GTA6』パッケージ版、ディスクがなくても売れまくり！2019年以来イギリスで最大のパッケージ版発売となったとの報道！",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589681.html",
+      "pubDate": "2026-11-27T21:00:17+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/9/d93c5563.jpg"
+    },
+    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -639,19 +665,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/a/1a2241cb-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【天才】X民「ポケパークにサトシのピカチュウを連れてったらスタッフに“サトシ？？”って反応された！」　→　実はスタッフがプロすぎて◯◯◯だった可能性…納得の考察が登場",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589331.html",
-      "pubDate": "2026-11-27T12:00:39+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/5/3/535ef3a1.jpg"
-    },
-    {
       "siteId": "brutus",
       "siteName": "BRUTUS",
       "siteShortName": "BRUTUS",
@@ -728,19 +741,6 @@
       "link": "https://artscape.jp/article/83596/",
       "pubDate": "Fri, 27 Nov 2026 02:00:33 +0000",
       "thumbnail": ""
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "「なぜ若者は左翼・共産党を嫌うのだろう？」→すべて完璧に言語化し尽くしたポストが「左派の心を壊す」と話題に",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463253.html",
-      "pubDate": "2026-11-27T11:00:17+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/1/f1c838f2.jpg"
     },
     {
       "siteId": "artscape",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-27T12:01:00.237076",
+  "updatedAt": "2026-11-27T12:30:47.862260",
   "sites": [
     {
       "id": "hachima",
