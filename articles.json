@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「ガラケーの頃はあんなに◯◯◯にこだわってたのに、なんでスマホになったらどうでもよくなったんだろう」⇒ 共感の嵐に",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10590106.html",
+      "pubDate": "2026-11-29T00:30:28+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/f/9/f9821ea3.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -559,19 +572,6 @@
       "link": "https://jin115.com/archives/52463301.html",
       "pubDate": "2026-11-28T14:30:29+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/e/e/ee93b4e3.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "社会活動家さん「生活保護受給者にもパチンコする権利がある。権利侵害するな」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589814.html",
-      "pubDate": "2026-11-28T14:30:19+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/a/e/aee83634-s.jpg"
     },
     {
       "siteId": "jin",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-28T15:30:48.830267",
+  "updatedAt": "2026-11-28T16:00:47.736120",
   "sites": [
     {
       "id": "hachima",
