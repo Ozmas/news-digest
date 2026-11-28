@@ -15,6 +15,32 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "jin",
+      "siteName": "俺的ゲーム速報＠刃",
+      "siteShortName": "俺的",
+      "siteColor": "#60a5fa",
+      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
+      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
+      "title": "野生の猿、ついに◯◯にも現れてしまう…都会のすぐ近くまで進撃",
+      "description": "続きを読む",
+      "link": "https://jin115.com/archives/52463332.html",
+      "pubDate": "2026-11-28T15:00:53+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/4/e/4ed10516.jpg"
+    },
+    {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "X民「新卒採用でSPIとか学力見るけど◯◯もテストした方がいんじゃね？」⇒ そう思った理由に納得の声が殺到",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10589816.html",
+      "pubDate": "2026-11-28T15:00:49+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/4/94aa0fdc.jpg"
+    },
+    {
       "siteId": "rocketnews",
       "siteName": "ロケットニュース24",
       "siteShortName": "ロケニュー",
@@ -626,19 +652,6 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/f/d/fd1cedb9-s.jpg"
     },
     {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "『M-1』ワイルドカードは人気投票でいい？芸人の意見がマジでド正論",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589710.html",
-      "pubDate": "2026-11-28T04:00:20+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/d/3/d365704c-s.jpg"
-    },
-    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -663,19 +676,6 @@
       "link": "https://jin115.com/archives/52463297.html",
       "pubDate": "2026-11-28T01:00:02+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/6/7/67c02600-s.png"
-    },
-    {
-      "siteId": "jin",
-      "siteName": "俺的ゲーム速報＠刃",
-      "siteShortName": "俺的",
-      "siteColor": "#60a5fa",
-      "siteGradient": "linear-gradient(135deg, #60a5fa, #a78bfa)",
-      "siteBgAlpha": "rgba(96, 165, 250, 0.12)",
-      "title": "人気YouTuber「太りすぎてヤバイからマンジャロ打ち始めたけど全然痩せない！マンジャロの量増やすわ！」 → 5ヵ月後、とんでもないことになっていた・・・",
-      "description": "続きを読む",
-      "link": "https://jin115.com/archives/52463295.html",
-      "pubDate": "2026-11-28T00:00:25+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/5/9/59859751-s.png"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-28T06:00:50.268239",
+  "updatedAt": "2026-11-28T06:30:43.967472",
   "sites": [
     {
       "id": "hachima",
