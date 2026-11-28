@@ -15,6 +15,19 @@
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/0/5/056d3b6a.jpg"
     },
     {
+      "siteId": "hachima",
+      "siteName": "はちま起稿",
+      "siteShortName": "はちま",
+      "siteColor": "#f472b6",
+      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
+      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
+      "title": "【確かに】なぜスマホ時代になって「着メロ」は衰退したのか？",
+      "description": "続きを読む",
+      "link": "http://blog.esuteru.com/archives/10590216.html",
+      "pubDate": "2026-11-29T05:00:59+09:00",
+      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/9/6/96d8df03-s.jpg"
+    },
+    {
       "siteId": "jin",
       "siteName": "俺的ゲーム速報＠刃",
       "siteShortName": "俺的",
@@ -455,19 +468,6 @@
       "link": "https://jin115.com/archives/52463310.html",
       "pubDate": "2026-11-28T17:30:22+09:00",
       "thumbnail": "https://livedoor.blogimg.jp/jin115/imgs/1/b/1b0e45cc.jpg"
-    },
-    {
-      "siteId": "hachima",
-      "siteName": "はちま起稿",
-      "siteShortName": "はちま",
-      "siteColor": "#f472b6",
-      "siteGradient": "linear-gradient(135deg, #f472b6, #fb923c)",
-      "siteBgAlpha": "rgba(244, 114, 182, 0.12)",
-      "title": "【政治資金パーティー問題】関芳弘文科大臣の問責決議案が否決 → 新たな違法パーティ疑惑が発覚「参加者8人で収入300万円計上」",
-      "description": "続きを読む",
-      "link": "http://blog.esuteru.com/archives/10589837.html",
-      "pubDate": "2026-11-28T17:30:03+09:00",
-      "thumbnail": "https://livedoor.blogimg.jp/hatima/imgs/4/b/4b96a35a.jpg"
     },
     {
       "siteId": "rocketnews",
@@ -1692,7 +1692,7 @@
       "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/07/subbuzz/EXU6TV__R.jpg?crop=4480:2987;0,1650&resize=1250:830"
     }
   ],
-  "updatedAt": "2026-11-28T20:00:49.201718",
+  "updatedAt": "2026-11-28T20:30:46.283256",
   "sites": [
     {
       "id": "hachima",
